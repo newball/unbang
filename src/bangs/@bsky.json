@@ -1,0 +1,8 @@
+{
+  "bang": "@bsky",
+  "domain": "https://bsky.app",
+  "url": "https://bsky.app/profile/%s",
+  "description": "Bluesky Profile",
+  "category": "Social Media",
+  "subcategory": "Profiles"
+}
