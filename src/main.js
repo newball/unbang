@@ -33,7 +33,9 @@ function doRedirect() {
 document.addEventListener("DOMContentLoaded", () => {
   const copyButton = document.querySelector(".copy-button");
   const copyIcon = copyButton.querySelector("img");
-  const urlInput = document.querySelector(".url-input");
+  const urlInput = document.getElementById("search-url-input");
+
+  urlInput.value = `${window.location.origin}?q=%s`;
 
   copyButton.addEventListener("click", async () => {
     await navigator.clipboard.writeText(urlInput.value);

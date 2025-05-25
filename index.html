@@ -10,23 +10,22 @@
     <link rel="stylesheet" href="/src/global.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Unbang</title>
+    <meta name="description" content="Your personal search engine (with bangs!)" />
   </head>
   <body style="background-color: transparent">
     <div id="app">
-      <!-- inlined form/UI from noSearchDefaultPageRender() -->
       <div style="display:flex;flex-direction:column;align-items:center;justify-content:center;height:100vh;">
         <div class="content-container">
-          <h1>Und*ck</h1>
+          <h1>Unbang</h1>
+          <p>Your personal search engine, powered by DuckDuckGo style bangs. Forked and inspured by <a href="https://github.com/t3dotgg/unduck">Unduck</a></p>
           <p>
-            DuckDuckGo's bang redirects are too slow. Add the following URL as a
-            custom search engine to your browser. Enables
-            <a href="https://duckduckgo.com/bang.html" target="_blank">all of DuckDuckGo's bangs.</a>
+            Add the following URL as a custom search engine to your browser. Enables <a href="bang.html" target="_blank">all of these bangs</a>
           </p>
           <div class="url-container"> 
             <input
+              id="search-url-input"
               type="text"
               class="url-input"
-              value="https://unduck.link?q=%s"
               readonly
             />
             <button class="copy-button">
