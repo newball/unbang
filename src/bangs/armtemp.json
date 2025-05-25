@@ -4,5 +4,5 @@
   "url": "https://azure.microsoft.com/de-de/resources/templates/?term=%s",
   "description": "Azure Quickstart Templates",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

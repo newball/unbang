@@ -4,5 +4,5 @@
   "url": "https://www.base-search.net/Search/Results?lookfor=%s&type=all&oaboost=1&ling=1&name=&newsearch=1&refid=dcbasen",
   "description": "Base Search",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

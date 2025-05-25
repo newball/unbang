@@ -4,5 +4,5 @@
   "url": "http://www.appbrain.com/search?q=%s",
   "description": "AppBrain",
   "category": "Tech",
-  "sub-category": "Downloads"
+  "subcategory": "Downloads"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.swissbib.ch/Search/Results?lookfor=%s&type=AllFields",
   "description": "swissbib",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

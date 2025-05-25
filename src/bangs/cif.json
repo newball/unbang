@@ -4,5 +4,5 @@
   "url": "http://www.cinemainfocus.com/search?q=%s",
   "description": "Cinema In Focus",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

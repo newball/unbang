@@ -4,5 +4,5 @@
   "url": "http://yippy.com/search/?v%3Aproject=clusty-new&query=%s",
   "description": "Yippy",
   "category": "Research",
-  "sub-category": "Topical"
+  "subcategory": "Topical"
 }

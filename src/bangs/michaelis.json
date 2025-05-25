@@ -4,5 +4,5 @@
   "url": "http://michaelis.uol.com.br/busca?r=1&f=0&t=1&palavra=%s",
   "description": "Michaelis - Português - Inglês",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

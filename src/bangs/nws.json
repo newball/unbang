@@ -4,5 +4,5 @@
   "url": "http://forecast.weather.gov/zipcity.php?inputstring=%s",
   "description": "National Weather Service",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

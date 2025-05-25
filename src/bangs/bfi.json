@@ -4,5 +4,5 @@
   "url": "https://www.bfi.org.uk/search/search-bfi/%s",
   "description": "British Film Institute",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

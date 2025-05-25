@@ -4,5 +4,5 @@
   "url": "http://ecshweb.pchome.com.tw/search/?q=%s",
   "description": "PChome 24h",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.parabola.nu/packages/?q=%s",
   "description": "Parabola GNU/Linux Packages",
   "category": "Tech",
-  "sub-category": "Sysadmin (Arch)"
+  "subcategory": "Sysadmin (Arch)"
 }

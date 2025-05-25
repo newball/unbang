@@ -4,5 +4,5 @@
   "url": "https://www.test.de/suche/?q=%s",
   "description": "Stiftung Warentest",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

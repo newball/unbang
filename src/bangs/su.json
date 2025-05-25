@@ -4,5 +4,5 @@
   "url": "http://superuser.com/search?q=%s",
   "description": "SuperUser",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

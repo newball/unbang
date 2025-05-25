@@ -4,5 +4,5 @@
   "url": "https://coq.inria.fr/distrib/current/refman/search.html?q=%s",
   "description": "Coq",
   "category": "Tech",
-  "sub-category": "Languages (other)"
+  "subcategory": "Languages (other)"
 }

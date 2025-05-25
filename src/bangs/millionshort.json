@@ -4,5 +4,5 @@
   "url": "http://millionshort.com/search.php?q=%s&remove=1000k",
   "description": "Million short",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

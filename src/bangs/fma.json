@@ -4,5 +4,5 @@
   "url": "http://freemusicarchive.org/search/?quicksearch=%s&sort=track_interest",
   "description": "Free Music Archive",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

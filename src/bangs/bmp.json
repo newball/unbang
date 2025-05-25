@@ -4,5 +4,5 @@
   "url": "https://bookmyparts.com/?s=%s&post_type=product",
   "description": "https://bookmyparts.com",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

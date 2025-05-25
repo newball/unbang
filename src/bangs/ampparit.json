@@ -4,5 +4,5 @@
   "url": "http://www.ampparit.com/haku?q=%s",
   "description": "Ampparit.com",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

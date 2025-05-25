@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site%3Adocs.gl%2Fgl4+%s",
   "description": "docs.GL for OpenGL 4",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

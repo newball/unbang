@@ -4,5 +4,5 @@
   "url": "http://starwars.wikia.com/wiki/Special:Search?search=%s",
   "description": "Wookieepedia",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

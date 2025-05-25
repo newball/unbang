@@ -4,5 +4,5 @@
   "url": "http://de.langenscheidt.com/deutsch-schwedisch/search?term=%s&q_cat=%2Fdeutsch-schwedisch%2F",
   "description": "Langenscheid dictionary German-Swedish",
   "category": "Research",
-  "sub-category": "Reference (words intl)"
+  "subcategory": "Reference (words intl)"
 }

@@ -4,5 +4,5 @@
   "url": "https://spoonacular.com/%s",
   "description": "spoonacular",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

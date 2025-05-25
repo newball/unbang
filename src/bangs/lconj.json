@@ -4,5 +4,5 @@
   "url": "https://www.larousse.fr/conjugaison/francais/%s",
   "description": "Larousse Conjugaison",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

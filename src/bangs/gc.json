@@ -4,5 +4,5 @@
   "url": "https://contacts.google.com/search/%s",
   "description": "Google Contacts",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

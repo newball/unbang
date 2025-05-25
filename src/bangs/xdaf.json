@@ -4,5 +4,5 @@
   "url": "http://forum.xda-developers.com/sitesearch.php?q=%s",
   "description": "XDA Developers Forum",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

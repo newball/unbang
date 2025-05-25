@@ -4,5 +4,5 @@
   "url": "https://trakt.tv/search/imdb?query=%s",
   "description": "Trakt IMDb",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

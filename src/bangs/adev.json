@@ -4,5 +4,5 @@
   "url": "https://developer.apple.com/search/?q=%s",
   "description": "Apple Developer",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

@@ -4,5 +4,5 @@
   "url": "https://sitecheck.sucuri.net/results/%s",
   "description": "Sucuri",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.astray.com/recipes/?search=%s",
   "description": "Astray Recipes",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

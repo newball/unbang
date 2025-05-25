@@ -4,5 +4,5 @@
   "url": "http://www.bazos.cz/search.php?hledat=%s",
   "description": "Bazoš.cz",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

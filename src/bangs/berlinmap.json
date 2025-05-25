@@ -4,5 +4,5 @@
   "url": "http://www.berlin.de/stadtplan/?ADR_STREET=%s",
   "description": "Berlin.de – Stadtplan",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

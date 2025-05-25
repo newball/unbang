@@ -4,5 +4,5 @@
   "url": "http://cgi2.nhk.or.jp/news/nsearch/query.cgi?col=news&st=1&rf=1&charset=utf-8&qt=%s&search.x=-318&search.y=-183",
   "description": "NHK News Web",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

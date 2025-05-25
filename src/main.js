@@ -1,4 +1,7 @@
-import { bangs } from "./bang.js";
+import { getCachedBangs } from "./bang.js";
+// pull our already-cached JSON bundle
+const bangs = getCachedBangs();
+
 const LS_DEFAULT_BANG = localStorage.getItem("default-bang") ?? "g";
 const defaultBang = bangs.find(b => b.bang === LS_DEFAULT_BANG);
 

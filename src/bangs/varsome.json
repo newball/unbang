@@ -4,5 +4,5 @@
   "url": "https://varsome.com/variant/search?query=%s",
   "description": "VarSome",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

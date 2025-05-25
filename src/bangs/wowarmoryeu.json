@@ -4,5 +4,5 @@
   "url": "http://eu.battle.net/wow/en/search?q=%s",
   "description": "WOW Armory (EU)",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

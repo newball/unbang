@@ -4,5 +4,5 @@
   "url": "https://www.visiondirect.com.au/search?query=%s",
   "description": "VisionDirect",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

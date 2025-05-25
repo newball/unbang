@@ -4,5 +4,5 @@
   "url": "http://www.nicovideo.jp/search/%s",
   "description": "Niconico",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.sophos.com/en-us/search-results.aspx?search=%s",
   "description": "Sophos",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

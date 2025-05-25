@@ -4,5 +4,5 @@
   "url": "https://thesaurus.plus/search?q=%s",
   "description": "Thesaurus Plus",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

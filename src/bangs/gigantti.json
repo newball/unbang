@@ -4,5 +4,5 @@
   "url": "http://www.gigantti.fi/search?SearchTerm=%s",
   "description": "Gigantti Finland",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

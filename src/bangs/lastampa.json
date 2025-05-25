@@ -4,5 +4,5 @@
   "url": "http://www.lastampa.it/ricerca?search=%s",
   "description": "La Stampa",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

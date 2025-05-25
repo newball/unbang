@@ -4,5 +4,5 @@
   "url": "https://addons.palemoon.org/search/?terms=%s",
   "description": "Pale Moon Add-ons",
   "category": "Tech",
-  "sub-category": "Downloads (add-ons)"
+  "subcategory": "Downloads (add-ons)"
 }

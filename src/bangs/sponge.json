@@ -4,5 +4,5 @@
   "url": "https://spongebob.fandom.com/wiki/Special:Search?search=%s",
   "description": "Encyclopedia SpongeBobia",
   "category": "Research",
-  "sub-category": "Reference (fun)"
+  "subcategory": "Reference (fun)"
 }

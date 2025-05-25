@@ -4,5 +4,5 @@
   "url": "http://public.opendatasoft.com/explore/dataset/european-train-stations/?q=%s",
   "description": "Open Data Soft",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

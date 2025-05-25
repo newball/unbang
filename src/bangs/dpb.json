@@ -4,5 +4,5 @@
   "url": "https://derpibooru.org/search?q=%s",
   "description": "Derpibooru",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.decathlon.de/search?Ntt=%s",
   "description": "Decathlon Deutschland",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

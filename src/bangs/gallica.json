@@ -4,5 +4,5 @@
   "url": "http://gallica.bnf.fr/Search?ArianeWireIndex=index&p=1&lang=FR&q=%s",
   "description": "Gallica",
   "category": "Research",
-  "sub-category": "Learning (intl)"
+  "subcategory": "Learning (intl)"
 }

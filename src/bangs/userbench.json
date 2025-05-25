@@ -4,5 +4,5 @@
   "url": "http://www.userbenchmark.com/Search?searchTerm=%s",
   "description": "User Benchmark",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#auto/st/%s",
   "description": "Detect language to Sesotho",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

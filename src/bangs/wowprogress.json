@@ -4,5 +4,5 @@
   "url": "https://www.wowprogress.com/search?q=%s",
   "description": "WoWProgress",
   "category": "Entertainment",
-  "sub-category": "Games (WOW)"
+  "subcategory": "Games (WOW)"
 }

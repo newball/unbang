@@ -4,5 +4,5 @@
   "url": "https://cheddar.com/search?q=%s",
   "description": "Cheddar",
   "category": "News",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

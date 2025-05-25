@@ -4,5 +4,5 @@
   "url": "http://blogtalkradio.com/search/%s",
   "description": "BlogTalkRadio",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

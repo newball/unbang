@@ -4,5 +4,5 @@
   "url": "http://duckduckgo.com/?q=timer+%s&ia=answer",
   "description": "DuckDuckGo Timer",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

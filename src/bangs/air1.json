@@ -4,5 +4,5 @@
   "url": "http://www.air1.com/search.aspx?searchterm=%s",
   "description": "Air1",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

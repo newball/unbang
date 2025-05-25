@@ -4,5 +4,5 @@
   "url": "https://www.galinos.gr/web/drugs/main/search?q=%s",
   "description": "galinos.gr",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

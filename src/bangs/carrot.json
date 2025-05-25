@@ -4,5 +4,5 @@
   "url": "http://search.carrot2.org/stable/search?source=web&view=folders&skin=fancy-compact&query=%s&results=100&algorithm=lingo",
   "description": "Carrot2 Clustering Engine",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

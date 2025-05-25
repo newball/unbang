@@ -4,5 +4,5 @@
   "url": "https://hub.helm.sh/charts?q=%s",
   "description": "Helm Hub",
   "category": "Tech",
-  "sub-category": "Downloads (add-ons)"
+  "subcategory": "Downloads (add-ons)"
 }

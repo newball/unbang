@@ -4,5 +4,5 @@
   "url": "http://www.webqc.org/mmcalc.php?compound=%s",
   "description": "WebQC.org",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

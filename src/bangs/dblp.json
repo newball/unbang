@@ -4,5 +4,5 @@
   "url": "https://dblp.uni-trier.de/search?q=%s",
   "description": "DBLP Computer Science Bibliography",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "http://androidxref.com/5.1.0_r1/search?&project=abi&project=art&project=bionic&project=bootable&project=build&project=cts&project=dalvik&project=developers&project=development&project=device&project=docs&project=external&project=frameworks&project=hardware&project=libcore&project=libnativehelper&project=ndk&project=packages&project=pdk&project=prebuilts&project=sdk&project=system&project=tools&q=%s",
   "description": "androidxref",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

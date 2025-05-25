@@ -4,5 +4,5 @@
   "url": "http://kotaku.com/search?q=%s",
   "description": "Kotaku",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

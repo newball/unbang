@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#auto/ro/%s",
   "description": "Detect language to Romanian",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

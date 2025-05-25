@@ -4,5 +4,5 @@
   "url": "http://www.webtender.com/cgi-bin/search?name=%s&show=15&verbose=on",
   "description": "Webtender",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

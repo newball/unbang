@@ -4,5 +4,5 @@
   "url": "http://www.channel4.com/search/?q=%s",
   "description": "Channel 4",
   "category": "News",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

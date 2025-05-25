@@ -4,5 +4,5 @@
   "url": "https://www.ruby-toolbox.com/?q=%s",
   "description": "The Ruby Toolbox",
   "category": "Tech",
-  "sub-category": "Languages (ruby)"
+  "subcategory": "Languages (ruby)"
 }

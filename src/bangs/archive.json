@@ -4,5 +4,5 @@
   "url": "https://archive.org/search.php?query=%s",
   "description": "Internet ",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

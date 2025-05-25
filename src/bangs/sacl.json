@@ -4,5 +4,5 @@
   "url": "https://www.countrylife.co.za/?s=%s",
   "description": "SA Country Life",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

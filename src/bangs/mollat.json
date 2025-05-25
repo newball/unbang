@@ -4,5 +4,5 @@
   "url": "https://www.mollat.com/recherche?requete=%s",
   "description": "Mollat",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.scholieren.com/zoek?q=%s",
   "description": "scholieren.com",
   "category": "Entertainment",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

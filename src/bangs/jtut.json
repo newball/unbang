@@ -4,5 +4,5 @@
   "url": "http://search.oracle.com/search/search?search_p_main_operator=all&group=Documentation&q=%s+url%3A%2Fjavase%2Ftutorial",
   "description": "Java Tutorial (Oracle)",
   "category": "Tech",
-  "sub-category": "Languages (java)"
+  "subcategory": "Languages (java)"
 }

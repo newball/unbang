@@ -4,5 +4,5 @@
   "url": "https://www.last.fm/music/%s",
   "description": "last.fm",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

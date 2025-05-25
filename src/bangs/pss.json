@@ -4,5 +4,5 @@
   "url": "https://store.playstation.com/en-us/search/%s",
   "description": "PlayStation Store",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

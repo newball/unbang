@@ -4,5 +4,5 @@
   "url": "http://finviz.com/quote.ashx?t=%s",
   "description": "Finviz",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

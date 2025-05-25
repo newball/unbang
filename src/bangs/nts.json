@@ -4,5 +4,5 @@
   "url": "https://www.nts.live/find?q=%s&type=all",
   "description": "NTS",
   "category": "Entertainment",
-  "sub-category": "Radio"
+  "subcategory": "Radio"
 }

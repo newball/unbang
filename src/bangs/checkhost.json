@@ -4,5 +4,5 @@
   "url": "https://check-host.net/ip-info?host=%s",
   "description": "Check-host.net",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

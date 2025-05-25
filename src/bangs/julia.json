@@ -4,5 +4,5 @@
   "url": "https://docs.julialang.org/en/latest/search?q=%s",
   "description": "Julia language documentation",
   "category": "Tech",
-  "sub-category": "Languages (other)"
+  "subcategory": "Languages (other)"
 }

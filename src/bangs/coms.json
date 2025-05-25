@@ -4,5 +4,5 @@
   "url": "https://www.conference-service.com/conferences/conference-search.html?searchwords=%s",
   "description": "COMS (conference-service.com)",
   "category": "Online Services",
-  "sub-category": "Events"
+  "subcategory": "Events"
 }

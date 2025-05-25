@@ -4,5 +4,5 @@
   "url": "https://runescape.wiki/?search=test&title=Special%3ASearch&fulltext=%s",
   "description": "Runescape Wiki (new)",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

@@ -4,5 +4,5 @@
   "url": "http://search.expedia.com/socialsearch/query?st=1&cn=expedia&cc=www&q=%s",
   "description": "Expedia",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

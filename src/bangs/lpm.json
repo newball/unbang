@@ -4,5 +4,5 @@
   "url": "https://www.die.net/search/?q=%s",
   "description": "Linux Man Page",
   "category": "Tech",
-  "sub-category": "Languages (c++)"
+  "subcategory": "Languages (c++)"
 }

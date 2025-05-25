@@ -4,5 +4,5 @@
   "url": "http://www.ecfr.gov/cgi-bin/searchECFR?q1=%s",
   "description": "http://www.ecfr.gov/cgi-bin/ECFR",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

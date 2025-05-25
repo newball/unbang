@@ -4,5 +4,5 @@
   "url": "http://www.dirpy.com/studio?url=%s",
   "description": "Dirpy",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

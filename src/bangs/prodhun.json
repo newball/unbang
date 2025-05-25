@@ -4,5 +4,5 @@
   "url": "http://www.producthunt.com/#!/s/posts/%s",
   "description": "Producthunt",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

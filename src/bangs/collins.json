@@ -4,5 +4,5 @@
   "url": "http://www.collinsdictionary.com/dictionary/english/%s",
   "description": "Collins Dictionary",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

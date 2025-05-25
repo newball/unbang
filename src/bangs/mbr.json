@@ -4,5 +4,5 @@
   "url": "http://musicbrainz.org/search?type=release&query=%s&handlearguments=1",
   "description": "MusicBrainz Releases",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

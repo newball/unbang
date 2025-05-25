@@ -4,5 +4,5 @@
   "url": "https://www.dodax.it/it-it/search/?s=%s",
   "description": "dodax.it",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

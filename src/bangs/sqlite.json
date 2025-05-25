@@ -4,5 +4,5 @@
   "url": "https://www.sqlite.org/search?s=d&q=%s",
   "description": "SQLite",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

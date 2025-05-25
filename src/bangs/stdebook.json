@@ -4,5 +4,5 @@
   "url": "https://standardebooks.org/ebooks/?query=%s",
   "description": "Standard Ebooks",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

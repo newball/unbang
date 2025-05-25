@@ -4,5 +4,5 @@
   "url": "https://www.ecuavisa.com/busqueda?search_api_views_fulltext=%s",
   "description": "Ecuavisa (Ecuador)",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

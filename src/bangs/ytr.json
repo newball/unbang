@@ -4,5 +4,5 @@
   "url": "https://translate.yandex.ru/?text=%s",
   "description": "Yandex.Translate",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

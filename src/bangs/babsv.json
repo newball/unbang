@@ -4,5 +4,5 @@
   "url": "http://sv.bab.la/lexikon/engelsk-svensk/%s",
   "description": "bab.la",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

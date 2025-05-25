@@ -4,5 +4,5 @@
   "url": "http://www.redbox.com/search/?q=%s",
   "description": "RedBox",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

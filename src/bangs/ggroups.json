@@ -4,5 +4,5 @@
   "url": "http://groups.google.com/groups/search?q=%s&qt_s=Search+Groups",
   "description": "Google Groups",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

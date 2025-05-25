@@ -4,5 +4,5 @@
   "url": "http://www.cnn.com/search/?q=%s",
   "description": "CNN",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

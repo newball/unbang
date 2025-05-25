@@ -4,5 +4,5 @@
   "url": "http://fr.openclassrooms.com/recherche/?search=%s",
   "description": "OpenClassrooms",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

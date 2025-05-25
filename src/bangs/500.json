@@ -4,5 +4,5 @@
   "url": "https://prime.500px.com/search/keywords=%s",
   "description": "500px",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

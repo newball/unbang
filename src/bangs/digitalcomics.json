@@ -4,5 +4,5 @@
   "url": "http://digitalcomicmuseum.com/index.php?ACT=dosearch&terms=%s",
   "description": "Digital Comic Museum",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

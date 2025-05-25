@@ -4,5 +4,5 @@
   "url": "http://boards.4chan.org/b/catalog#s=%s",
   "description": "4chan /b/",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

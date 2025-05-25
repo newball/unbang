@@ -4,5 +4,5 @@
   "url": "https://www.kirkusreviews.com/search/?q=%s",
   "description": "Kirkus Reviews",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.tvguide.com/search/index.aspx?keyword=%s",
   "description": "TV Guide",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

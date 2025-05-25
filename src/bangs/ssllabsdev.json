@@ -4,5 +4,5 @@
   "url": "https://dev.ssllabs.com/ssltest/analyze.html?latest&d=%s",
   "description": "SSLLabs Dev",
   "category": "Tech",
-  "sub-category": "Sysadmin (network)"
+  "subcategory": "Sysadmin (network)"
 }

@@ -4,5 +4,5 @@
   "url": "http://compare.eu/?fs=%s",
   "description": "compare.eu",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

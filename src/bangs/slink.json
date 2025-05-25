@@ -4,5 +4,5 @@
   "url": "http://link.springer.com/search?query=%s",
   "description": "Springer Link",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

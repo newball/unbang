@@ -4,5 +4,5 @@
   "url": "http://www.srf.ch/suche?q=%s",
   "description": "Schweizer Radio und Fernsehen",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

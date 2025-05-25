@@ -4,5 +4,5 @@
   "url": "http://www.routard.com/recherche.asp?q=%s&edt_cleRech=%s",
   "description": "Le Guide Du Routard",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

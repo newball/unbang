@@ -4,5 +4,5 @@
   "url": "http://melvyl.worldcat.org/search?q=%s",
   "description": "Melvyl Catalog (University of California Libraries)",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

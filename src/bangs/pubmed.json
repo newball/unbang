@@ -4,5 +4,5 @@
   "url": "https://www.ncbi.nlm.nih.gov/pubmed/?term=%s",
   "description": "PubMed",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

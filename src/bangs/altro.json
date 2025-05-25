@@ -4,5 +4,5 @@
   "url": "http://www.altroconsumo.it/Serp/ShowResults?keyword=%s",
   "description": "Altroconsumo",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

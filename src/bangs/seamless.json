@@ -4,5 +4,5 @@
   "url": "https://www.seamless.com/search?queryText=%s",
   "description": "Seamless",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

@@ -4,5 +4,5 @@
   "url": "/?q=%s+site:blogspot.com",
   "description": "Blogspot",
   "category": "Online Services",
-  "sub-category": "Search (DDG)"
+  "subcategory": "Search (DDG)"
 }

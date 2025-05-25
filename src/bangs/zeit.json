@@ -4,5 +4,5 @@
   "url": "http://www.zeit.de/suche/index?q=%s",
   "description": "Zeit Online",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

@@ -4,5 +4,5 @@
   "url": "https://docs.aws.amazon.com/search/doc-search.html?searchPath=documentation&searchQuery=%s ",
   "description": "Amazon Web Services",
   "category": "Tech",
-  "sub-category": "Sysadmin (man)"
+  "subcategory": "Sysadmin (man)"
 }

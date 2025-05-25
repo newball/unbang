@@ -4,5 +4,5 @@
   "url": "http://www.golfparks.ch/de/suche?q=%s",
   "description": "Golfparks Migros",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

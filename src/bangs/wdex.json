@@ -4,5 +4,5 @@
   "url": "http://es.pokemon.wikia.com/wiki/Especial:Buscar?query=%s",
   "description": "WikiDex",
   "category": "Entertainment",
-  "sub-category": "Games (Pokemon)"
+  "subcategory": "Games (Pokemon)"
 }

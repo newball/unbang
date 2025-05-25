@@ -4,5 +4,5 @@
   "url": "https://egghead.io/search?q=%s",
   "description": "Egghead",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

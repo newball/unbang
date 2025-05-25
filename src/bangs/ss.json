@@ -4,5 +4,5 @@
   "url": "https://surrey-primotc.hosted.exlibrisgroup.com/primo-explore/search?vl(freeText0)=%s&fn=search&vid=44SUR_VU1&tab=default_tab&query=any,contains,%s&search_scope=default_scope",
   "description": "SurreySearch",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "https://translate.google.hu/#view=home&op=translate&sl=no&tl=hu&text=%s",
   "description": "Google Translate no-hu",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.rogerebert.com/search?utf8=%E2%9C%93&q=%s",
   "description": "RogerEbert.com",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

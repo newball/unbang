@@ -4,5 +4,5 @@
   "url": "http://www.dictionary.com/browse/%s",
   "description": "Dictionary.com",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

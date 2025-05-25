@@ -4,5 +4,5 @@
   "url": "https://docs.krita.org/index.php?search=%s",
   "description": "Krita Docs",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

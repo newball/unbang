@@ -4,5 +4,5 @@
   "url": "http://www.osnews.com/search?q=%s",
   "description": "OSNews",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

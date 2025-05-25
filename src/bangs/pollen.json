@@ -4,5 +4,5 @@
   "url": "https://www.pollen.com/forecast/current/pollen/%s",
   "description": "National Allergy Forecast",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

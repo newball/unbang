@@ -4,5 +4,5 @@
   "url": "https://spendabit.co/go?q=%s",
   "description": "Spend a Bit",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

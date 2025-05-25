@@ -4,5 +4,5 @@
   "url": "https://www.consumerreports.org/search/?query=%s",
   "description": "Consumer Reports",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

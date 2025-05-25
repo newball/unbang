@@ -4,5 +4,5 @@
   "url": "http://www.wikipaintings.org/en/search/%s/1",
   "description": "wikipaintings",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.wayfair.com/keyword.php?keyword=%s",
   "description": "Wayfair",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

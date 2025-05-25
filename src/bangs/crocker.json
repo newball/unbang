@@ -4,5 +4,5 @@
   "url": "https://www.bettycrocker.com/search?term=%s ",
   "description": "Betty Crocker",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

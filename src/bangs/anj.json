@@ -4,5 +4,5 @@
   "url": "http://www.actionnewsjax.com/?q=%s",
   "description": "Action News Jax",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

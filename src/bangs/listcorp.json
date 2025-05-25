@@ -4,5 +4,5 @@
   "url": "https://www.listcorp.com/search?q=%s",
   "description": "Listcorp",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

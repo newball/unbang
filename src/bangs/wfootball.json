@@ -4,5 +4,5 @@
   "url": "http://www.worldfootball.net/search/?q=%s&kind=1",
   "description": "WorldFootball",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

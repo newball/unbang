@@ -4,5 +4,5 @@
   "url": "http://books.google.com/ngrams/graph?content=%s&year_start=1800&year_end=2000&corpus=15&smoothing=3",
   "description": "Google Ngram Viewer",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

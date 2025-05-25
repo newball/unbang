@@ -4,5 +4,5 @@
   "url": "http://suche.golem.de/search.php?l=10&q=%s",
   "description": "Golem.de",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

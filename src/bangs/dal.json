@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s+site:abretelibro.com",
   "description": "Ábrete libro",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

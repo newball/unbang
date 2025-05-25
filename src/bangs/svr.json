@@ -4,5 +4,5 @@
   "url": "https://sverigesradio.se/sida/sok.aspx?q=%s ",
   "description": "Sveriges Radio",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

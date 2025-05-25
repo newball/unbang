@@ -4,5 +4,5 @@
   "url": "http://devot-ee.com/search/results?keywords=%s&addon_version_support=ee2",
   "description": "Devot:ee",
   "category": "Tech",
-  "sub-category": "Downloads (add-ons)"
+  "subcategory": "Downloads (add-ons)"
 }

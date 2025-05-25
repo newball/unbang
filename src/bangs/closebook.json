@@ -4,5 +4,5 @@
   "url": "https://www.worldcat.org/search?qt=worldcat_org_bks&q=%s&fq=dt%3Abks",
   "description": "WorldCat",
   "category": "Online Services",
-  "sub-category": "Search (DDG)"
+  "subcategory": "Search (DDG)"
 }

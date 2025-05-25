@@ -4,5 +4,5 @@
   "url": "http://www.reta-vortaro.de/cgi-bin/sercxu.pl?sercxata=%s&x=on&kadroj=1",
   "description": "Reta Vortaro",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

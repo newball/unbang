@@ -4,5 +4,5 @@
   "url": "http://aberdeenshire.gov.uk/search?search=%s",
   "description": "Aberdeenshire council",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

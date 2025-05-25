@@ -4,5 +4,5 @@
   "url": "http://www.fussballdaten.de/suche/?%s",
   "description": "Fussballdaten",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

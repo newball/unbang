@@ -4,5 +4,5 @@
   "url": "http://iplookup.theel0ja.info/?host=%s",
   "description": "theel0ja.info's IPLookup",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

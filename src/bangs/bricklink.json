@@ -4,5 +4,5 @@
   "url": "http://www.bricklink.com/search.asp?q=%s",
   "description": "Bricklink",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

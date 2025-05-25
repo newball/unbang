@@ -4,5 +4,5 @@
   "url": "https://forum.sabayon.org/search.php?keywords=%s",
   "description": "Sabayon Forums",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

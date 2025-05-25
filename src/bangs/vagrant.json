@@ -4,5 +4,5 @@
   "url": "https://app.vagrantup.com/boxes/search?q=%s",
   "description": "Vagrant Cloud",
   "category": "Tech",
-  "sub-category": "Downloads"
+  "subcategory": "Downloads"
 }

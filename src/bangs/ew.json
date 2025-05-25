@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site%3Aew.com+%s",
   "description": "Entertainment Weekly",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

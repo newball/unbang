@@ -4,5 +4,5 @@
   "url": "http://en.m.wikipedia.org/wiki?search=%s",
   "description": "Wikipedia mobile",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

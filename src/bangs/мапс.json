@@ -4,5 +4,5 @@
   "url": "https://www.google.bg/maps/search/%s/",
   "description": "Google Maps BG",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

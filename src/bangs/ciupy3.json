@@ -4,5 +4,5 @@
   "url": "https://caniusepython3.com/project/%s",
   "description": "Can I Use Python 3?",
   "category": "Tech",
-  "sub-category": "Languages (python)"
+  "subcategory": "Languages (python)"
 }

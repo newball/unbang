@@ -4,5 +4,5 @@
   "url": "https://isitup.org/%s",
   "description": "Is it up?",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

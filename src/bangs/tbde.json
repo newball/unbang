@@ -4,5 +4,5 @@
   "url": "http://www.testberichte.de/d/search.php?searchstr=%s",
   "description": "Tesberichte.de",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

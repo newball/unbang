@@ -4,5 +4,5 @@
   "url": "https://legacy.baseballprospectus.com/player_search.php?search_name=%s",
   "description": "Baseball Prospectus",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

@@ -4,5 +4,5 @@
   "url": "https://speiderbasen.no/?searchWord=%s",
   "description": "Speiderbasen",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

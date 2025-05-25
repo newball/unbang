@@ -4,5 +4,5 @@
   "url": "http://forum.lametayel.co.il/index.php?t=search&forum_limiter=0&field=all&search_logic=AND&type=msg&srch=%s&btn_submit=",
   "description": "http://forum.lametayel.co.il/",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

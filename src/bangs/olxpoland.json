@@ -4,5 +4,5 @@
   "url": "http://olx.pl/oferty/q-%s/",
   "description": "OLX Polska",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

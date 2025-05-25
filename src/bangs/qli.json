@@ -4,5 +4,5 @@
   "url": "https://beta.cliqz.com/search?q=%s",
   "description": "Cliqz",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

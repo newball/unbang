@@ -4,5 +4,5 @@
   "url": "http://onelook.com/?w=*&loc=revfp2&clue=%s",
   "description": "OneLook Reverse",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

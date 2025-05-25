@@ -4,5 +4,5 @@
   "url": "https://www.eyeem.com/search?q=%s&sort=relevance",
   "description": "EyeEm",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

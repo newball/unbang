@@ -4,5 +4,5 @@
   "url": "https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=%s",
   "description": "Common Vulnerabilities and Exposures (CVE)",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

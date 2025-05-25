@@ -4,5 +4,5 @@
   "url": "http://pegasos.kirjas.to/selaushaku.asp?kohde=vapaasana&hakuehto=%s",
   "description": "Kirkkonummen verkkokirjasto",
   "category": "Research",
-  "sub-category": "Local"
+  "subcategory": "Local"
 }

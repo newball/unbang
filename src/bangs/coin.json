@@ -4,5 +4,5 @@
   "url": "https://coinmarketcap.com/search/?q=%s",
   "description": "CoinMarketCap",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

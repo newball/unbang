@@ -4,5 +4,5 @@
   "url": "https://www.google.com.au/maps/search/%s ",
   "description": "Google Maps Australia",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

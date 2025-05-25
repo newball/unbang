@@ -4,5 +4,5 @@
   "url": "http://meta.stackexchange.com/search?q=%s",
   "description": "Meta Stack Exchange",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

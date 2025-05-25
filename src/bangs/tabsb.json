@@ -4,5 +4,5 @@
   "url": "http://www.ultimate-guitar.com/search.php?search_type=band&value=%s",
   "description": "Ultimate Guitar",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

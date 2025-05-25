@@ -4,5 +4,5 @@
   "url": "https://images.google.com/searchbyimage?image_url=%s ",
   "description": "Google Reverse Image Search",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

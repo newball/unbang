@@ -4,5 +4,5 @@
   "url": "http://nationalarchives.gov.uk/PRONOM/%s",
   "description": "PRONOM technical registry (The National Archives)",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

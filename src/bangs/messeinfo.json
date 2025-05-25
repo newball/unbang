@@ -4,5 +4,5 @@
   "url": "http://egliseinfo.catholique.fr/horaires/%s",
   "description": "Eglise info",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

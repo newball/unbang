@@ -4,5 +4,5 @@
   "url": "http://open.mapquest.fr/?q=%s ",
   "description": "Open Mapquest France",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

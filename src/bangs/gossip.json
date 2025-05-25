@@ -4,5 +4,5 @@
   "url": "http://www.numbergossip.com/?number=%s",
   "description": "Number Gossip",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

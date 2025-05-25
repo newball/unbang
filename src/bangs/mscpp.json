@@ -4,5 +4,5 @@
   "url": "https://docs.microsoft.com/en-us/search/index?search=%s&scope=C%2B%2B",
   "description": "Microsoft Docs C++",
   "category": "Tech",
-  "sub-category": "Languages (c++)"
+  "subcategory": "Languages (c++)"
 }

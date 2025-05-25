@@ -4,5 +4,5 @@
   "url": "https://www.whatdotheyknow.com/search/%s/all",
   "description": "What Do They Know",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

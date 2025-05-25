@@ -4,5 +4,5 @@
   "url": "https://www.ratebeer.com/search?q=%s",
   "description": "RateBeer",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

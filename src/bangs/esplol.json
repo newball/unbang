@@ -4,5 +4,5 @@
   "url": "http://lol.esportspedia.com/w/index.php?search=%s",
   "description": "LoL Esportspedia",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

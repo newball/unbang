@@ -4,5 +4,5 @@
   "url": "https://knmi.nl/zoeken?q=%s",
   "description": "Koninklijk Nederlands Meterologisch Instituut",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

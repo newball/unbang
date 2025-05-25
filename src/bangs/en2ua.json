@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/?source=osdd#view=home&op=translate&sl=auto&tl=uk&text=%s",
   "description": "translate.google.com",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

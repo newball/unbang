@@ -4,5 +4,5 @@
   "url": "https://www.comdirect.de/inf/search/general.html?SEARCH_VALUE=%s",
   "description": "comdirect",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

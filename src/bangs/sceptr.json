@@ -4,5 +4,5 @@
   "url": "https://sceptr.net/?s=%s",
   "description": "SCEPTR",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

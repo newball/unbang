@@ -4,5 +4,5 @@
   "url": "https://katacoda.com/search?q=%s",
   "description": "katacoda",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

@@ -4,5 +4,5 @@
   "url": "http://apidock.com/ruby/search/quick?query=%s ",
   "description": "APIdock",
   "category": "Tech",
-  "sub-category": "Languages (ruby)"
+  "subcategory": "Languages (ruby)"
 }

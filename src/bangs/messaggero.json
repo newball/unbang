@@ -4,5 +4,5 @@
   "url": "http://www.ilmessaggero.it/?p=search&q=%s",
   "description": "Il Messaggero",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

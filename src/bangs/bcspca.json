@@ -4,5 +4,5 @@
   "url": "http://www.spca.bc.ca/search.html?q=%s",
   "description": "BC SPCA",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

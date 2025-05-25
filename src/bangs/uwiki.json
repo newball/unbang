@@ -4,5 +4,5 @@
   "url": "https://wiki.ubuntu.com/Home?action=fullsearch&context=180&value=%s",
   "description": "Ubuntu Wiki",
   "category": "Tech",
-  "sub-category": "Sysadmin (Ubuntu)"
+  "subcategory": "Sysadmin (Ubuntu)"
 }

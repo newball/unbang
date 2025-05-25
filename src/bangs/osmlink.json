@@ -4,5 +4,5 @@
   "url": "http://www.openlinkmap.org/?q=%s",
   "description": "OpenLinkMap",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

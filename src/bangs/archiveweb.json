@@ -4,5 +4,5 @@
   "url": "https://web.archive.org/web/*/%s",
   "description": "Archive.org",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

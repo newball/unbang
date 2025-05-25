@@ -4,5 +4,5 @@
   "url": "http://www.dummies.com/search.html?query=%s",
   "description": "http://www.dummies.com/search.html?query=cisc",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

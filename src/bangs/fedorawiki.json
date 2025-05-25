@@ -4,5 +4,5 @@
   "url": "https://fedoraproject.org/wiki/Special:Search?search=%s&go=Go",
   "description": "Fedora Project",
   "category": "Tech",
-  "sub-category": "Sysadmin (Fedora)"
+  "subcategory": "Sysadmin (Fedora)"
 }

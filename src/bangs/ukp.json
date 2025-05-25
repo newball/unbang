@@ -4,5 +4,5 @@
   "url": "http://www.parliament.uk/search/results/?q=%s",
   "description": "UK Parliament",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

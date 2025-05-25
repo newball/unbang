@@ -4,5 +4,5 @@
   "url": "https://metalab.at/wiki/index.php?search=%s",
   "description": "Metalab Mediawiki",
   "category": "Research",
-  "sub-category": "Local"
+  "subcategory": "Local"
 }

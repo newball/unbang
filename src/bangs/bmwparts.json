@@ -4,5 +4,5 @@
   "url": "https://www.getbmwparts.com/search?search_str=%s",
   "description": "BMW Parts",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

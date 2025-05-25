@@ -4,5 +4,5 @@
   "url": "http://www.ecolab.com/search/#q=%s&sort=relevancy",
   "description": "Ecolab",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

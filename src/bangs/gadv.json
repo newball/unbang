@@ -4,5 +4,5 @@
   "url": "https://www.gadventures.com/search/?q=%s&ref=ddgsearch",
   "description": "G Adventures",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

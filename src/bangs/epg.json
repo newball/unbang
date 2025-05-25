@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site%3Aepguides.com+%s",
   "description": "epguides.com",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

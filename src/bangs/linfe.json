@@ -4,5 +4,5 @@
   "url": "https://www.linguee.fr/francais-anglais/search?query= %s",
   "description": "linguee",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

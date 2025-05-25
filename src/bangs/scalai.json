@@ -4,5 +4,5 @@
   "url": "https://index.scala-lang.org/search?q=%s",
   "description": "Scala Library Index",
   "category": "Tech",
-  "sub-category": "Languages (scala)"
+  "subcategory": "Languages (scala)"
 }

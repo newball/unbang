@@ -4,5 +4,5 @@
   "url": "http://www.mennlex.de/doku.php?do=search&id=%s",
   "description": "Mennonitisches Lexikon",
   "category": "Research",
-  "sub-category": "Reference (religion)"
+  "subcategory": "Reference (religion)"
 }

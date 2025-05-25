@@ -4,5 +4,5 @@
   "url": "https://vaski.finna.fi/Search/Results?lookfor=%s",
   "description": "Vaski-kirjastot",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

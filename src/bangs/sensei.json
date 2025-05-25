@@ -4,5 +4,5 @@
   "url": "http://senseis.xmp.net/?search=%s&searchtype=title",
   "description": "Sensei's Library",
   "category": "Entertainment",
-  "sub-category": "Games (offline)"
+  "subcategory": "Games (offline)"
 }

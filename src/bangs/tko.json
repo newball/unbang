@@ -4,5 +4,5 @@
   "url": "https://trovu.komun.org/?q=%s&categories=general&language=en-US",
   "description": "trovu",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

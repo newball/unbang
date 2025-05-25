@@ -4,5 +4,5 @@
   "url": "http://www.snapdeal.com/search?noOfResults=20&keyword=%s",
   "description": "SnapDeal",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

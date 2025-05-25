@@ -4,5 +4,5 @@
   "url": "https://mypdns.org/trac/search?q=%s",
   "description": "My Privat DNS",
   "category": "Tech",
-  "sub-category": "Domains"
+  "subcategory": "Domains"
 }

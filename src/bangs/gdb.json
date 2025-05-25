@@ -4,5 +4,5 @@
   "url": "http://duckduckgo.com/?q=site:sourceware.org/gdb/current/onlinedocs/gdb/+%s",
   "description": "GDB Debugger",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

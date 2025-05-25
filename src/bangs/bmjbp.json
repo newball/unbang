@@ -4,5 +4,5 @@
   "url": "https://bestpractice.bmj.com/search?q=%s",
   "description": "BMJ Best Practice",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

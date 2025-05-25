@@ -4,5 +4,5 @@
   "url": "https://www.yellowpages.com/search?search_terms=%s",
   "description": "YellowPages",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

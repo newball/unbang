@@ -4,5 +4,5 @@
   "url": "http://search.oregonlive.com/%s",
   "description": "OregonLive",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.newsnow.co.uk/h/?search=%s",
   "description": "NewsNow",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

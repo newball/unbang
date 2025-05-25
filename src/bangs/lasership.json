@@ -4,5 +4,5 @@
   "url": "http://lasership.com/track/%s",
   "description": "LaserShip",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

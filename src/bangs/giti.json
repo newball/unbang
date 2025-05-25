@@ -4,5 +4,5 @@
   "url": "https://www.google.fr/maps/dir/%s/%s",
   "description": "https://www.google.fr/maps/dir/",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

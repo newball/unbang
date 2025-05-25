@@ -4,5 +4,5 @@
   "url": "https://www.amazon.com/s?k=%s&i=digital-music",
   "description": "Amazon MP3 Store",
   "category": "Shopping",
-  "sub-category": "Online (intl)"
+  "subcategory": "Online (intl)"
 }

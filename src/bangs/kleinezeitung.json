@@ -4,5 +4,5 @@
   "url": "http://www.kleinezeitung.at/user/search.do?searchText=%s&action=1&resetForm=1&resultsPage=0",
   "description": "Kleine Zeitung",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

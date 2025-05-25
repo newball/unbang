@@ -4,5 +4,5 @@
   "url": "https://libs.garden/go/search?q=%s",
   "description": "libs.garden Go",
   "category": "Tech",
-  "sub-category": "Languages (go)"
+  "subcategory": "Languages (go)"
 }

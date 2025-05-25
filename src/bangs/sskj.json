@@ -4,5 +4,5 @@
   "url": "http://bos.zrc-sazu.si/cgi/a03.exe?name=sskj_testa&expression=%s&hs=1",
   "description": "Bos.zrs-sazu.si",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

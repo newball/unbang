@@ -4,5 +4,5 @@
   "url": "https://www.bestbuy.ca/en-ca/search?search=%s",
   "description": "Best Buy Canada",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site%3Aopenculture.com+%s",
   "description": "openculture.com",
   "category": "Multimedia",
-  "sub-category": "General"
+  "subcategory": "General"
 }

@@ -4,5 +4,5 @@
   "url": "http://store.playstation.com/#!/en-gb/search/q=%s",
   "description": "Playstation Store UK",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

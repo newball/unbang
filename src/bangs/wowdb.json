@@ -4,5 +4,5 @@
   "url": "http://www.wowdb.com/search?search=%s",
   "description": "Word of Warcraft Database - WOWDB",
   "category": "Entertainment",
-  "sub-category": "Games (WOW)"
+  "subcategory": "Games (WOW)"
 }

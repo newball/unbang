@@ -4,5 +4,5 @@
   "url": "https://www.fragrantica.com/search/?q=%s",
   "description": "Fragrantica",
   "category": "Research",
-  "sub-category": "Reference (fun)"
+  "subcategory": "Reference (fun)"
 }

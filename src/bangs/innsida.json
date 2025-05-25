@@ -4,5 +4,5 @@
   "url": "https://innsida.ntnu.no/sok?site=innsida&query=%s&category=all",
   "description": "Innsida NTNU",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

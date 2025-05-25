@@ -4,5 +4,5 @@
   "url": "https://www.waschbaer.de/shop/frontend/search/result?q=%s",
   "description": "Waschbär",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

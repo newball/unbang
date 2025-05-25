@@ -4,5 +4,5 @@
   "url": "http://answers.unity3d.com/search.html?q=%s",
   "description": "Unity Answers",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

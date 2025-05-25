@@ -4,5 +4,5 @@
   "url": "https://carjam.co.nz/car/?plate=%s",
   "description": "CarJam",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

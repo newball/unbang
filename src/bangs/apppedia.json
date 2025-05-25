@@ -4,5 +4,5 @@
   "url": "http://programs.wikia.com/wiki/Special:Search?search=%s",
   "description": "AppPedia",
   "category": "Tech",
-  "sub-category": "Downloads (software)"
+  "subcategory": "Downloads (software)"
 }

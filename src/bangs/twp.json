@@ -4,5 +4,5 @@
   "url": "http://www.washingtonpost.com/newssearch/search.html?st=%s",
   "description": "The Washington Post",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

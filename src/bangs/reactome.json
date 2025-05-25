@@ -4,5 +4,5 @@
   "url": "http://reactome.org/content/query?q=%s",
   "description": "Reactome",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

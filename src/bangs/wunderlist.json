@@ -4,5 +4,5 @@
   "url": "https://www.wunderlist.com/#/search/%s",
   "description": "Wunderlist",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

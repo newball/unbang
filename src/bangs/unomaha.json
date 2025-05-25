@@ -4,5 +4,5 @@
   "url": "https://www.unomaha.edu/search/?q=%s",
   "description": "unomaha",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

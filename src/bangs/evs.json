@@ -4,5 +4,5 @@
   "url": "http://eki.ee/dict/evs/index.cgi?Q=%s",
   "description": "Eesti-vene",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

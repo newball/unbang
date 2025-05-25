@@ -4,5 +4,5 @@
   "url": "http://woerterbuchnetz.de/cgi-bin/WBNetz/startGlobalSearch.tcl?stichwort=%s",
   "description": "Wörterbuchnetz",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

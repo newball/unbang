@@ -4,5 +4,5 @@
   "url": "https://visitwarrington.com/explore/?type=search-all&search_keywords=%s&sort=latest",
   "description": "Visit Warrington",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

@@ -4,5 +4,5 @@
   "url": "https://app.dimensions.ai/discover/publication?search_text=%s&search_type=kws&search_field=full_search",
   "description": "Dimensions",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

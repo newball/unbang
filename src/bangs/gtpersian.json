@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#auto/fa/%s",
   "description": "Detect language to Persian",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

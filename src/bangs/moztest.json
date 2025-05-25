@@ -4,5 +4,5 @@
   "url": "https://observatory.mozilla.org/analyze/%s",
   "description": "Mozilla Observatory Test",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

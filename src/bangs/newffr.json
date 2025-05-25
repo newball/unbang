@@ -4,5 +4,5 @@
   "url": "http://newffr.com/search.php?words=%s&mode=1&s_in_forum=1",
   "description": "NewFFR",
   "category": "Tech",
-  "sub-category": "Blogs (intl)"
+  "subcategory": "Blogs (intl)"
 }

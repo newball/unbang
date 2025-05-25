@@ -4,5 +4,5 @@
   "url": "https://tagfinder.herokuapp.com/search?query=%s",
   "description": "Tagfinder",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

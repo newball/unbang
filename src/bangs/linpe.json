@@ -4,5 +4,5 @@
   "url": "http://www.linguee.com/english-portuguese/search?source=portuguese&query=%s",
   "description": "linguee",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

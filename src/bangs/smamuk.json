@@ -4,5 +4,5 @@
   "url": "https://smile.amazon.co.uk/s?field-keywords=%s",
   "description": "Amazon Smile (UK)",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.timeanddate.com/time/zones/%s",
   "description": "Time and Date (time zone)",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

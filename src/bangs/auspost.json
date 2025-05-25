@@ -4,5 +4,5 @@
   "url": "http://auspost.com.au/track/track.html?id=%s",
   "description": "Australia Post",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

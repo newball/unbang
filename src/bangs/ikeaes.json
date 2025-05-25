@@ -4,5 +4,5 @@
   "url": "https://www.ikea.com/es/es/search/products/?q=%s",
   "description": "Ikea Spain",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

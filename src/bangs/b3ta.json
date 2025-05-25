@@ -4,5 +4,5 @@
   "url": "http://b3ta.com/search/posts?q=%s",
   "description": "B3TA",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

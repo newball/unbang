@@ -4,5 +4,5 @@
   "url": "https://www.agrireseau.net/documents?r=%s",
   "description": "Agri-Réseau",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

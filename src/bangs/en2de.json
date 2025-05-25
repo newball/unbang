@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#view=home&op=translate&sl=en&tl=de&text=%s",
   "description": "Google Translate - En to De",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

@@ -4,5 +4,5 @@
   "url": "https://my.wikipedia.org/w/index.php?title=Special:Search&search=%s",
   "description": "Wikipedia Myanmar",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

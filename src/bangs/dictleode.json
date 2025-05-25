@@ -4,5 +4,5 @@
   "url": "http://dict.leo.org/ende?cmpType=relaxed&search=%s",
   "description": "Leo Translation EN<->DE",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

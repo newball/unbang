@@ -4,5 +4,5 @@
   "url": "https://el.wikipedia.org/wiki/Special:Search?search=%s&go=Go",
   "description": "Greek Wikipedia",
   "category": "Research",
-  "sub-category": "Learning (intl)"
+  "subcategory": "Learning (intl)"
 }

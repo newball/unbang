@@ -4,5 +4,5 @@
   "url": "http://www.eluta.ca/search?q=%s",
   "description": "Eluta",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

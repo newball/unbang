@@ -4,5 +4,5 @@
   "url": "http://imslp.org/index.php?search=%s",
   "description": "IMSLP (Petrucci Music Library)",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

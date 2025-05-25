@@ -4,5 +4,5 @@
   "url": "https://invent.kde.org/search?utf8=✓&snippets=&scope=&search=%s",
   "description": "KDE GitLab",
   "category": "Tech",
-  "sub-category": "Downloads (code)"
+  "subcategory": "Downloads (code)"
 }

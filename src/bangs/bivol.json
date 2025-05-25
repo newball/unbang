@@ -4,5 +4,5 @@
   "url": "https://search.bivol.bg/?q=%s#results",
   "description": "bivol.bg",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

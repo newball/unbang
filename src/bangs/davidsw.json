@@ -4,5 +4,5 @@
   "url": "http://davidsw.com/?s=%s&post_type=product",
   "description": "DavidSW",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

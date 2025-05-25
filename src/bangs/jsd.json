@@ -4,5 +4,5 @@
   "url": "https://www.jsdelivr.com/?query=%s",
   "description": "jsDelivr",
   "category": "Tech",
-  "sub-category": "Languages (javascript)"
+  "subcategory": "Languages (javascript)"
 }

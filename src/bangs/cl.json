@@ -4,5 +4,5 @@
   "url": "https://www.craigslist.org/search/sss?query=%s",
   "description": "Craigslist",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

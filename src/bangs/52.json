@@ -4,5 +4,5 @@
   "url": "http://food52.com/recipes/search?q=%s",
   "description": "Food52",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

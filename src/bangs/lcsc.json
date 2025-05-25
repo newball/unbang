@@ -4,5 +4,5 @@
   "url": "https://lcsc.com/search?q=%s",
   "description": "LCSC",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

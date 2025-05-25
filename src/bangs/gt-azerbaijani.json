@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#auto/az/%s",
   "description": "Detect language to Azerbaijani",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

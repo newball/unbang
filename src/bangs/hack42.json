@@ -4,5 +4,5 @@
   "url": "https://hack42.nl/mediawiki/index.php?search=%s",
   "description": "Hack42",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

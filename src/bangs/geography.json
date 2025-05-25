@@ -4,5 +4,5 @@
   "url": "https://geofactoftheday.blogspot.com/search?q=%s",
   "description": "GeoFact of the Day",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

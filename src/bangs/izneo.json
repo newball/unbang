@@ -4,5 +4,5 @@
   "url": "http://www.izneo.com/search.html?pattern=%s",
   "description": "izneo",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

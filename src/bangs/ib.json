@@ -4,5 +4,5 @@
   "url": "https://www.indiebound.org/search/book?keys=%s",
   "description": "Indiebound.org",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

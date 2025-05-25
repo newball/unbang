@@ -4,5 +4,5 @@
   "url": "https://www.billiger.de/search?searchstring=%s",
   "description": "Billiger.de",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.infobae.com/search/%s/?q=%s",
   "description": "Infobae",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

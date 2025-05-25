@@ -4,5 +4,5 @@
   "url": "https://atom.io/packages/search?q=%s",
   "description": "Atom packages",
   "category": "Tech",
-  "sub-category": "Downloads (add-ons)"
+  "subcategory": "Downloads (add-ons)"
 }

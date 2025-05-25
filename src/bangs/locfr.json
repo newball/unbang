@@ -4,5 +4,5 @@
   "url": "http://tel.local.ch/fr/q?what=%s",
   "description": "Local.ch",
   "category": "Research",
-  "sub-category": "Local"
+  "subcategory": "Local"
 }

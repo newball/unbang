@@ -4,5 +4,5 @@
   "url": "http://www.linguee.com/english-swedish/search?source=auto&query=%s",
   "description": "Linguee English-Swedish",
   "category": "Research",
-  "sub-category": "Learning (intl)"
+  "subcategory": "Learning (intl)"
 }

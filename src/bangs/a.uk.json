@@ -4,5 +4,5 @@
   "url": "https://www.amazon.co.uk/s?k=%s",
   "description": "Amazon.co.uk",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

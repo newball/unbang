@@ -4,5 +4,5 @@
   "url": "http://www.programmableweb.com/search/%s",
   "description": "ProgrammableWeb",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

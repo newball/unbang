@@ -4,5 +4,5 @@
   "url": "http://search.jd.com/Search?keyword=%s&enc=utf-8",
   "description": "京东网上商城",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

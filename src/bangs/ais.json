@@ -4,5 +4,5 @@
   "url": "http://archive.is/%s",
   "description": "archive.is",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

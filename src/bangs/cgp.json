@@ -4,5 +4,5 @@
   "url": "http://catalog.gpo.gov/F?func=find-b&find_code=WRD&request=%s",
   "description": "Catalog of Government Publications",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

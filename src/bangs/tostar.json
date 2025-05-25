@@ -4,5 +4,5 @@
   "url": "http://www.thestar.com/search.html?q=%s",
   "description": "Toronto Star",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

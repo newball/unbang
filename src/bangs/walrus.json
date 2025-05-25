@@ -4,5 +4,5 @@
   "url": "https://thewalrus.ca/?s=%s",
   "description": "The Walrus",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

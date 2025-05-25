@@ -4,5 +4,5 @@
   "url": "https://www.ebi.ac.uk/ebisearch/search.ebi?db=allebi&query=%s&requestFrom=duckduckgo",
   "description": "European Bioinformatics Institute",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

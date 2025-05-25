@@ -4,5 +4,5 @@
   "url": "http://www.pepperplate.com/search/?text=%s",
   "description": "Pepperplate",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

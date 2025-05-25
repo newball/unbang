@@ -4,5 +4,5 @@
   "url": "http://deadspin.com/search?q=%s",
   "description": "Deadspin",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

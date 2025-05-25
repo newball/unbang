@@ -4,5 +4,5 @@
   "url": "https://www.censys.io/ipv4?q=%s",
   "description": "Censys",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

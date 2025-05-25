@@ -4,5 +4,5 @@
   "url": "https://developers.weixin.qq.com/doc/search.html?query=%s",
   "description": "search wechat miniprogram documents",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

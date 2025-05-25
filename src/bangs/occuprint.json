@@ -4,5 +4,5 @@
   "url": "http://occuprint.org/?action=search&q=%s ",
   "description": "Occuprint",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

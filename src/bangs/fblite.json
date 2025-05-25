@@ -4,5 +4,5 @@
   "url": "https://mbasic.facebook.com/search/?refid=46&search=people&search_source=search_bar&query=%s",
   "description": "Facebook Lite",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

@@ -4,5 +4,5 @@
   "url": "https://go.mail.ru/search?fm=1&q=%s",
   "description": "go.mail.ru",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

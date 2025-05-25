@@ -4,5 +4,5 @@
   "url": "https://puzzling.stackexchange.com/search?q=%s",
   "description": "Puzzling",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

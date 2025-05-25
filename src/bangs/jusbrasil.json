@@ -4,5 +4,5 @@
   "url": "https://www.jusbrasil.com.br/busca?q=%s",
   "description": "JusBrasil",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

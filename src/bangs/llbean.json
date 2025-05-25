@@ -4,5 +4,5 @@
   "url": "http://www.llbean.com/llb/search/?freeText=%s&init=1",
   "description": "L. L. Bean",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

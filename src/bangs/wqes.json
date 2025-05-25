@@ -4,5 +4,5 @@
   "url": "https://es.wikiquote.org/w/?search=%s",
   "description": "Wikiquote Español",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "https://baike.baidu.com/item/%s",
   "description": "百度百科",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

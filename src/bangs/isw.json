@@ -4,5 +4,5 @@
   "url": "https://www.instantstreetview.com/s/%s",
   "description": "Instant Street View",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

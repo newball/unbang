@@ -4,5 +4,5 @@
   "url": "http://context.reverso.net/translation/english-french/%s",
   "description": "Reverso Context English to French",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

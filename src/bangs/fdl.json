@@ -4,5 +4,5 @@
   "url": "https://feedly.com/i/search/%s",
   "description": "Feedly",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

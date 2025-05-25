@@ -4,5 +4,5 @@
   "url": "http://www.sparkfun.com/search/results?term=%s&what=products",
   "description": "Sparkfun Electronics",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

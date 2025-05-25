@@ -4,5 +4,5 @@
   "url": "https://mdn.io/%s",
   "description": "mdn.io",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

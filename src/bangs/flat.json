@@ -4,5 +4,5 @@
   "url": "https://flathub.org/apps/search/%s",
   "description": "Flatpak",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "http://stocktwits.com/search?q=%s",
   "description": "stocktwits",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

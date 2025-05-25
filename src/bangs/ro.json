@@ -4,5 +4,5 @@
   "url": "https://www.admin.ch/opc/search/?text=%s&lang=fr&language%5B%5D=fr&product%5B%5D=ClassifiedCompilation",
   "description": "admin.ch",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

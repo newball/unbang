@@ -4,5 +4,5 @@
   "url": "https://docs.rs/%s",
   "description": "Docs.rs - Documentation for Rust packages",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

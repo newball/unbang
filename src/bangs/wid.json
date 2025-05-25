@@ -4,5 +4,5 @@
   "url": "https://id.wikipedia.org/w/index.php?search=%s",
   "description": "Wikipedia (ID)",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

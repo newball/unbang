@@ -4,5 +4,5 @@
   "url": "http://politiken.dk/search/?q=%s",
   "description": "Politiken.dk",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

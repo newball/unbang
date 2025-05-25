@@ -4,5 +4,5 @@
   "url": "http://www.libreriauniversitaria.it/c_power_search.php?shelf=BIT&q=%s&submit=",
   "description": "Libreria Universitaria",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

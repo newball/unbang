@@ -4,5 +4,5 @@
   "url": "http://google.com/search?q=%s&tbo=1&num=100",
   "description": "Google Search 100 Results",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

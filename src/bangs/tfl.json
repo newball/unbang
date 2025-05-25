@@ -4,5 +4,5 @@
   "url": "http://www.tfl.gov.uk/tfl/search/?keywords=%s",
   "description": "Transport for London",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

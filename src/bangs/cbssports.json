@@ -4,5 +4,5 @@
   "url": "http://www.sportsline.com/info/search?q=%s",
   "description": "CBS Sports",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

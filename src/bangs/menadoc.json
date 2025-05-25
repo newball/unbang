@@ -4,5 +4,5 @@
   "url": "https://menadoc.bibliothek.uni-halle.de/search/quick?query=%s",
   "description": "MENAdoc",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

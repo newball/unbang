@@ -4,5 +4,5 @@
   "url": "https://de.m.wikipedia.org/w/index.php?search=%s",
   "description": "Wikipedia Deutsch Mobile",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

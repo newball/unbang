@@ -4,5 +4,5 @@
   "url": "http://futar.bkk.hu/?toCoord=%s&toName=%s&toSubName=%s&layers=GSVB",
   "description": "BKK Futár",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

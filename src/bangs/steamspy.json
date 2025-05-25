@@ -4,5 +4,5 @@
   "url": "http://steamspy.com/search.php?s=%s",
   "description": "SteamSpy",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

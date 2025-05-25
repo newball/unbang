@@ -4,5 +4,5 @@
   "url": "http://duckduckgo.com/?q=site:equestriadaily.com+%s",
   "description": "Equestria Daily",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

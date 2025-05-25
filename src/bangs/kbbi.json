@@ -4,5 +4,5 @@
   "url": "https://kbbi.kemdikbud.go.id/entri/%s",
   "description": "Kamus Besar Bahasa Indonesia",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

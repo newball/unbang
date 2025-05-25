@@ -4,5 +4,5 @@
   "url": "https://www.noz.de/suche/?q=%s",
   "description": "Neue Osnabrücker Zeitung",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

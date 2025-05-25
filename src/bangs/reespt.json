@@ -4,5 +4,5 @@
   "url": "http://dictionary.reverso.net/spanish-portuguese/%s",
   "description": "Reverso",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

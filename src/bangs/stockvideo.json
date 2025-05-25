@@ -4,5 +4,5 @@
   "url": "http://www.dissolve.com/products?keywords=%s&media_type=video",
   "description": "dissolve.com",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

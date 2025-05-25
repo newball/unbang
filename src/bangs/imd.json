@@ -4,5 +4,5 @@
   "url": "http://www.imdb.com/find?q=%s+&s=all",
   "description": "IMDb",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

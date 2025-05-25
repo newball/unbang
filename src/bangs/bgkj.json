@@ -4,5 +4,5 @@
   "url": "https://www.biblegateway.com/quicksearch/?quicksearch=%s&qs_version=KJV",
   "description": "BibleGateway: King James Version",
   "category": "Research",
-  "sub-category": "Reference (religion)"
+  "subcategory": "Reference (religion)"
 }

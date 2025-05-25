@@ -4,5 +4,5 @@
   "url": "https://foursquare.com/explore?mode=url&nearGeoId=&q=%s",
   "description": "Foursquare",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

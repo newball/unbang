@@ -4,5 +4,5 @@
   "url": "https://u.gg/opensearch/?query=%s",
   "description": "U.GG",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

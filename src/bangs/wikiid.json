@@ -4,5 +4,5 @@
   "url": "https://id.wikipedia.org/w/index.php?search=%s ",
   "description": "Wikipedia Bahasa Indonesia",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

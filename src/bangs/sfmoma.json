@@ -4,5 +4,5 @@
   "url": "https://www.sfmoma.org/search/?q=%s",
   "description": "SFMOMA",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

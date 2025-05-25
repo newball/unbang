@@ -4,5 +4,5 @@
   "url": "http://na.op.gg/summoner/userName=%s",
   "description": "opgg",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

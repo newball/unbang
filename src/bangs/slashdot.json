@@ -4,5 +4,5 @@
   "url": "http://slashdot.org/index2.pl?fhfilter=%s",
   "description": "Slashdot",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

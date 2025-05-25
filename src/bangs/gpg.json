@@ -4,5 +4,5 @@
   "url": "http://http-keys.gnupg.net/pks/lookup?op=vindex&search=%s",
   "description": "GPG Key search",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

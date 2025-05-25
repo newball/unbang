@@ -4,5 +4,5 @@
   "url": "http://www.computerbase.de/suche/?q=%s",
   "description": "ComputerBase",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

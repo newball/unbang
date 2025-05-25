@@ -4,5 +4,5 @@
   "url": "http://tvlanguedoc.com/search_gcse/?q=%s",
   "description": "TV LANGUEDOC",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.game.co.uk/webapp/wcs/stores/servlet/AjaxCatalogSearch?storeId=10151&catalogId=10201&langId=44&pageSize=&beginIndex=0&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&pageView=image&predictiveSearchURL=&searchTerm=%s&searchBtn=z",
   "description": "Game",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

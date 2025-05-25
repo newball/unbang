@@ -4,5 +4,5 @@
   "url": "http://www.bizrate.com/classify?search_box=1&keyword=%s&originalKeyword=&SEARCH_GO=",
   "description": "Bizrate",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

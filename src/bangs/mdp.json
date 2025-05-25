@@ -4,5 +4,5 @@
   "url": "https://www.mediapart.fr/search?search_word=%s&op=ok",
   "description": "https://www.mediapart.fr/",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

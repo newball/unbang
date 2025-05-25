@@ -4,5 +4,5 @@
   "url": "http://www.darklyrics.com/search?q=%s",
   "description": "DarkLyrics.com",
   "category": "Multimedia",
-  "sub-category": "Music (Lyrics)"
+  "subcategory": "Music (Lyrics)"
 }

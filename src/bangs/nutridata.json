@@ -4,5 +4,5 @@
   "url": "http://nutritiondata.self.com/foods-%s}000000000000000000000.html",
   "description": "nutritiondata",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.baseball-reference.com/search/search.fcgi?hint=&search=%s",
   "description": "Baseball Reference",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

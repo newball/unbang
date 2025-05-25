@@ -4,5 +4,5 @@
   "url": "https://arstechnica.com/search/?q=%s",
   "description": "Ars Technica",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

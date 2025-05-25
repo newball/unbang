@@ -4,5 +4,5 @@
   "url": "https://lib.mit.edu/search/bento?q=%s",
   "description": "MIT Libraries",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "https://nos.nl/zoeken/?q=%s",
   "description": "NOS",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

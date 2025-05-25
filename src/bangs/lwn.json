@@ -4,5 +4,5 @@
   "url": "https://lwn.net/Search/DoSearch?words=%s",
   "description": "LWN.net",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

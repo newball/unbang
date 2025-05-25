@@ -4,5 +4,5 @@
   "url": "https://www.owasp.org/index.php?search=%s",
   "description": "OWASP",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

@@ -4,5 +4,5 @@
   "url": "http://lambda-the-ultimate.org/search/node/%s",
   "description": "Lambda the Ultimate",
   "category": "Online Services",
-  "sub-category": "Social news/links"
+  "subcategory": "Social news/links"
 }

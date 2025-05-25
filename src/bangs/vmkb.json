@@ -4,5 +4,5 @@
   "url": "https://kb.vmware.com/s/global-search/%40uri#q=%s",
   "description": "VMware Knowledge Base",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

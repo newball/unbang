@@ -4,5 +4,5 @@
   "url": "https://www.library.auckland.ac.nz/search/%s",
   "description": "University of Auckland Library",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.culture.leclerc/pageRecherche?q=%s&univers=all",
   "description": "Espace Culturel E.Leclerc",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

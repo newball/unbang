@@ -4,5 +4,5 @@
   "url": "http://www.robokart.com/index.php?route=product/search&search=%s",
   "description": "robokart",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

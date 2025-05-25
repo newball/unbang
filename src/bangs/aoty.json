@@ -4,5 +4,5 @@
   "url": "https://www.albumoftheyear.org/search.php?q=%s",
   "description": "Album of The Year",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s+site:https://developers.weixin.qq.com/miniprogram/dev",
   "description": "WeChat MiniProgram Developer Document",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

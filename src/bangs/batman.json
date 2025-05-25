@@ -4,5 +4,5 @@
   "url": "http://batman.wikia.com/wiki/%s",
   "description": "Batman Wiki",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

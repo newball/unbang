@@ -4,5 +4,5 @@
   "url": "http://www.tiketti.fi/tapahtumat#q=%s",
   "description": "Tiketti",
   "category": "Entertainment",
-  "sub-category": "Events"
+  "subcategory": "Events"
 }

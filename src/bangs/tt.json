@@ -4,5 +4,5 @@
   "url": "https://www.texastribune.org/search/?q=%s",
   "description": "Texas Tribune",
   "category": "News",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

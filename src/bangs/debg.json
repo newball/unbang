@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#view=home&op=translate&sl=de&tl=bg&text=%s",
   "description": "Google Translate de-bg",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

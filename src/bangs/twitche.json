@@ -4,5 +4,5 @@
   "url": "https://twitchemotes.com/search?query=%s",
   "description": "https://twitchemotes.com",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

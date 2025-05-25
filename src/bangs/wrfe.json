@@ -4,5 +4,5 @@
   "url": "http://www.wordreference.com/fren/%s",
   "description": "Wordreference fr->en",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

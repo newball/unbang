@@ -4,5 +4,5 @@
   "url": "http://www.dictionary.com/browse/%s?s=ts",
   "description": "Dictionary.com",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

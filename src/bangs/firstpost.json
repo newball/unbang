@@ -4,5 +4,5 @@
   "url": "http://www.firstpost.com/?s=%s",
   "description": "FIRSTPOST",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

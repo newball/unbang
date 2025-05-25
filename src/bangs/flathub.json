@@ -4,5 +4,5 @@
   "url": "https://flathub.org/apps/search/%s",
   "description": "Flathub",
   "category": "Tech",
-  "sub-category": "Downloads (apps)"
+  "subcategory": "Downloads (apps)"
 }

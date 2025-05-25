@@ -4,5 +4,5 @@
   "url": "http://www.filmon.tv/search/?term=%s",
   "description": "FilmOn",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

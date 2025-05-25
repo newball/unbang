@@ -4,5 +4,5 @@
   "url": "https://imgflip.com/search?q=%s",
   "description": "Imgflip",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

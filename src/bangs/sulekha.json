@@ -4,5 +4,5 @@
   "url": "http://search.sulekha.com/sulekhasearch.aspx?txtsearch=%s",
   "description": "Sulekha",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

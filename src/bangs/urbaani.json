@@ -4,5 +4,5 @@
   "url": "http://urbaanisanakirja.com/search/?q=%s",
   "description": "Urbaani Sanakirja",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

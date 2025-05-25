@@ -4,5 +4,5 @@
   "url": "http://www.microsoft.com/Language/en-US/Search.aspx?sString=%s&langID=pl-pl",
   "description": "Microsoft Language Portal",
   "category": "Research",
-  "sub-category": "Reference (words intl)"
+  "subcategory": "Reference (words intl)"
 }

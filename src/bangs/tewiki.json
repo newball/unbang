@@ -4,5 +4,5 @@
   "url": "https://te.wikipedia.org/w/index.php?search=%s",
   "description": "Telugu Wikipedia",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "https://a.next.westlaw.com/Search/Results.html?query=%s&jurisdiction=ALLCASES",
   "description": "WestlawNext",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

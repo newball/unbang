@@ -4,5 +4,5 @@
   "url": "https://www.qwant.com/?q=%s&t=news",
   "description": "Qwant News",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

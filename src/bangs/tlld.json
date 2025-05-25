@@ -4,5 +4,5 @@
   "url": "https://www.thetrainline.com/live/departures/%s",
   "description": "Trainline Live Departures",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

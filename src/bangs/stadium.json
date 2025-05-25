@@ -4,5 +4,5 @@
   "url": "https://www.stadium.se/search?SearchTerm=%s",
   "description": "Stadium",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

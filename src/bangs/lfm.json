@@ -4,5 +4,5 @@
   "url": "http://www.last.fm/music/%s/",
   "description": "last.fm",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

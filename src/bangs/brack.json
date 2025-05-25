@@ -4,5 +4,5 @@
   "url": "https://www.brack.ch/search?query=%s",
   "description": "Brack",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

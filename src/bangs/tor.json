@@ -4,5 +4,5 @@
   "url": "https://%s.tor2web.org/",
   "description": "Tor 2 Web",
   "category": "Tech",
-  "sub-category": "Domains"
+  "subcategory": "Domains"
 }

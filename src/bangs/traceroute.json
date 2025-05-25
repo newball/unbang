@@ -4,5 +4,5 @@
   "url": "http://network-tools.com/default.asp?prog=trace&host=%s",
   "description": "Network-Tools.com",
   "category": "Tech",
-  "sub-category": "Domains"
+  "subcategory": "Domains"
 }

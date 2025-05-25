@@ -4,5 +4,5 @@
   "url": "http://plugins.cordova.io/#/search?search=%s",
   "description": "Apache Cordova Plugins Registry",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

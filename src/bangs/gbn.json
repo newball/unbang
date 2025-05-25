@@ -4,5 +4,5 @@
   "url": "http://gamebanana.com/search?query=%s",
   "description": "GAMEBANANA",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

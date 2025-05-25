@@ -4,5 +4,5 @@
   "url": "https://imagr.eu/?action=search&search=%s",
   "description": "Imagr",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

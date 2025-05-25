@@ -4,5 +4,5 @@
   "url": "http://www.poppin.com/search?q=%s",
   "description": "Poppin",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

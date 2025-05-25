@@ -4,5 +4,5 @@
   "url": "https://www.postaonline.cz/trackandtrace/-/zasilka/cislo?parcelNumbers=%s",
   "description": "Czech post",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

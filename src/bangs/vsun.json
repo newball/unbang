@@ -4,5 +4,5 @@
   "url": "http://www.vancouversun.com/search/search.html?q=%s",
   "description": "vancouversun.com",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

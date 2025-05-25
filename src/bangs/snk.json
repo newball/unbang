@@ -4,5 +4,5 @@
   "url": "https://community.servicenow.com/community?id=community_search&q=%s",
   "description": "community.servicenow.com",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

@@ -4,5 +4,5 @@
   "url": "https://en.pons.com/translate?q=%s",
   "description": "pons.eu",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

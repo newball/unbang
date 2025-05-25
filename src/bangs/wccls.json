@@ -4,5 +4,5 @@
   "url": "http://catalog.wccls.org/polaris/search/searchresults.aspx?term=%s",
   "description": "Washington County Cooperative Library Services",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.watson.ch/u/search?#%s",
   "description": "Watson",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

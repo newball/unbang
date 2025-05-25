@@ -4,5 +4,5 @@
   "url": "http://www.microsofttranslator.com/bv.aspx?a=%s",
   "description": "Microsoft/Bing Translator URL",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

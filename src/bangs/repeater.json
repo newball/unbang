@@ -4,5 +4,5 @@
   "url": "https://www.repeaterbook.com/repeaters/keyword.php?func=result&keyword=%s",
   "description": "Repeater Book",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

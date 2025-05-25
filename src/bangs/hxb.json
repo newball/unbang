@@ -4,5 +4,5 @@
   "url": "http://www.hoaxbuster.com/search/node/%s%20type%3Aarticle",
   "description": "Hoaxbuster",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

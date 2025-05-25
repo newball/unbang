@@ -4,5 +4,5 @@
   "url": "https://www.metro.ca/en/search?free-text=%s",
   "description": "Metro Grocery Store",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

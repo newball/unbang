@@ -4,5 +4,5 @@
   "url": "http://www.vox.com/search?q=%s",
   "description": "Vox.com",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

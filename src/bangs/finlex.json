@@ -4,5 +4,5 @@
   "url": "http://finlex.fi/fi/laki/haku/?search[type]=pika&search[pika]=%s",
   "description": "Finlex",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

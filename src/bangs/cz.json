@@ -4,5 +4,5 @@
   "url": "https://complexityzoo.uwaterloo.ca/index.php?search=%s&title=Special%3ASearch",
   "description": "The Complexity Zoo",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

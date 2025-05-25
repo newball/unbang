@@ -4,5 +4,5 @@
   "url": "http://elgoog.im/search/?q=%s",
   "description": "elgooG",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

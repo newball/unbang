@@ -4,5 +4,5 @@
   "url": "http://www.world-art.ru/search.php?public_search=%s&global_sector=all",
   "description": "World Art",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

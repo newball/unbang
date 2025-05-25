@@ -4,5 +4,5 @@
   "url": "http://www.freewave.at/?s=%s",
   "description": "Freewave",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.motonet.fi/fi/haku?q=%s",
   "description": "Motonet Finland",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

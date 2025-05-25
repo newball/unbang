@@ -4,5 +4,5 @@
   "url": "http://wikiindex.org/index.php?search=%s",
   "description": "WikiIndex",
   "category": "Research",
-  "sub-category": "Topical"
+  "subcategory": "Topical"
 }

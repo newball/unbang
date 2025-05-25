@@ -4,5 +4,5 @@
   "url": "http://recherche.conseil-constitutionnel.fr/?q=%s",
   "description": "Conseil Constitutionnel",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

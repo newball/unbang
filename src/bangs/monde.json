@@ -4,5 +4,5 @@
   "url": "https://www.lemonde.fr/recherche/?search_keywords=%s",
   "description": "Le Monde",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

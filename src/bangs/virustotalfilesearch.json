@@ -4,5 +4,5 @@
   "url": "https://www.virustotal.com/en/search?query=%s",
   "description": "VirusTotal",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

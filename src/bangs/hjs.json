@@ -4,5 +4,5 @@
   "url": "https://howjsay.com/search?word=%s",
   "description": "HowJSay",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

@@ -4,5 +4,5 @@
   "url": "http://pinterest.com/search/pins/?q=%s",
   "description": "Pinterest",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

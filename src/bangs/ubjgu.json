@@ -4,5 +4,5 @@
   "url": "https://hds.hebis.de/ubmz/Search/Results?lookfor=%s&trackSearchEvent=Einfache+Suche&type=allfields&search=new&submit=Suchen",
   "description": "Universitätsbibliothek Mainz",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

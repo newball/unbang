@@ -4,5 +4,5 @@
   "url": "http://www.i-comparateur.com/search.aspx?q=%s",
   "description": "i-Comparateur",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

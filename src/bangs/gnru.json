@@ -4,5 +4,5 @@
   "url": "https://www.google.ru/search?q=%s&tbm=nws&cad=h",
   "description": "Google News RU",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

@@ -4,5 +4,5 @@
   "url": "http://query.nytimes.com/search/sitesearch?query=%s&srchst=cse",
   "description": "New York Times",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

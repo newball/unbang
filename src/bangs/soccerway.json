@@ -4,5 +4,5 @@
   "url": "http://int.soccerway.com/search/?q=%s&module=all",
   "description": "Soccerway",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

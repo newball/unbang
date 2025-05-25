@@ -4,5 +4,5 @@
   "url": "http://dealbook.nytimes.com/?s=%s",
   "description": "DealBook",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

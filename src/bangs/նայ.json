@@ -4,5 +4,5 @@
   "url": "http://nayiri.com/search?l=hy_LB&dt=HY_HY&r=0&query=%s",
   "description": "Nayiri",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.bostonglobe.com/queryResult/search?q=%s",
   "description": "Boston Globe",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

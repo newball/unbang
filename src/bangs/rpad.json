@@ -4,5 +4,5 @@
   "url": "https://pad.riseup.net/p/%s",
   "description": "riseUp networks Etherpad",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.coolshop.dk/s/?q=%s",
   "description": "Coolshop",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

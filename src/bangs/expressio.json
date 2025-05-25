@@ -4,5 +4,5 @@
   "url": "http://www.expressio.fr/search.php?q=%s&lang=",
   "description": "Expressio Français",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

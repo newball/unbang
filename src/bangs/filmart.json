@@ -4,5 +4,5 @@
   "url": "https://filmartgallery.com/pages/search-results?q=%s",
   "description": "FilmArt Gallery",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

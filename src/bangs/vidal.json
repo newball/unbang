@@ -4,5 +4,5 @@
   "url": "https://www.vidal.fr/recherche/index/q:%s/",
   "description": "VIDAL",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

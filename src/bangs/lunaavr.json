@@ -4,5 +4,5 @@
   "url": "http://avr.myluna.de/doku.php?do=search&id=%s",
   "description": "Luna (AVR)",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

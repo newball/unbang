@@ -4,5 +4,5 @@
   "url": "https://live.blockcypher.com/btc/address/%s",
   "description": "BlockCypher",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

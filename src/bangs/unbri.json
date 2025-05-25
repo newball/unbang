@@ -4,5 +4,5 @@
   "url": "http://repositorio.unb.br/simple-search?query=%s&submit=Ir",
   "description": "Universidade de Brasília / Repositório Institucional",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

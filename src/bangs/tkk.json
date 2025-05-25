@@ -4,5 +4,5 @@
   "url": "http://tradukka.com/translate/en/%s",
   "description": "Tradukka detect language to English",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

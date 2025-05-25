@@ -4,5 +4,5 @@
   "url": "https://mail.google.com/mail/#search/%s",
   "description": "GMail.com",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

@@ -4,5 +4,5 @@
   "url": "https://pinterest.com/search/?q=%s",
   "description": "pinterest.com/",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

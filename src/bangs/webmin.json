@@ -4,5 +4,5 @@
   "url": "http://webmineral.com/cgi-bin/search/search.pl?sitesearch=&Terms=%s&x=0&y=0",
   "description": "Webmineral",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

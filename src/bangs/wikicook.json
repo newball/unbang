@@ -4,5 +4,5 @@
   "url": "https://en.wikibooks.org/wiki/Special:Search?search=%s&prefix=Cookbook%3A&fulltext=Search+Cookbook&fulltext=Search",
   "description": "Wiki Cookbook",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

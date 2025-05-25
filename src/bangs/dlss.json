@@ -4,5 +4,5 @@
   "url": "http://duke.summon.serialssolutions.com/?summonVersion=2.0#!/search?ho=t&fvf=SourceType,Library%20Catalog,f%7CContentType,Book%20%2F%20eBook,f&q=%s&l=en",
   "description": "Duke Summon",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.senderbase.org/senderbase_queries/detailhost?search_string=%s",
   "description": "SenderBase",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

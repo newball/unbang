@@ -4,5 +4,5 @@
   "url": "http://www.google.ca/search?q=%s&tbm=isch",
   "description": "Google.ca Image Search",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

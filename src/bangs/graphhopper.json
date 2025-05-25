@@ -4,5 +4,5 @@
   "url": "https://graphhopper.com/maps/?point=%s&point=%s",
   "description": "GraphHopper Maps",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

@@ -4,5 +4,5 @@
   "url": "https://sproget.dk/lookup?SearchableText=%s",
   "description": "Sproget",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

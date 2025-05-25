@@ -4,5 +4,5 @@
   "url": "http://www.oxforddictionaries.com/definition/english/%s",
   "description": "Oxford Dictionaries",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

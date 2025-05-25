@@ -4,5 +4,5 @@
   "url": "https://www.getabstract.com/en/search?initial=true&query=%s",
   "description": "getAbstract",
   "category": "Research",
-  "sub-category": "Topical"
+  "subcategory": "Topical"
 }

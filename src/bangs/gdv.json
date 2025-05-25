@@ -4,5 +4,5 @@
   "url": "https://docs.google.com/viewer?url=%s",
   "description": "Google Docs viewer",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

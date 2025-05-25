@@ -4,5 +4,5 @@
   "url": "http://apps.splunk.com/apps/#/search/%s",
   "description": "apps.splunk.com",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

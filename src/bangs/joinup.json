@@ -4,5 +4,5 @@
   "url": "https://joinup.ec.europa.eu/search?keys=%s",
   "description": "Joinup",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

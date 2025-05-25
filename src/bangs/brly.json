@@ -4,5 +4,5 @@
   "url": "https://brainly.com/app/ask?entry=hero&q=%s",
   "description": "Brainly",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

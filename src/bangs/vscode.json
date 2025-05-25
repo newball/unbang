@@ -4,5 +4,5 @@
   "url": "https://marketplace.visualstudio.com/search?term=%s&target=VSCode&sortBy=Relevance",
   "description": "Visual Studio Code Extensions",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

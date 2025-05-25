@@ -4,5 +4,5 @@
   "url": "https://www.scmp.com/content/search/%s",
   "description": "South China Morning Post",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

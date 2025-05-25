@@ -4,5 +4,5 @@
   "url": "http://sinopak.net/search?controller=search&orderby=position&orderway=desc&search_query=%s&submit_search=Search",
   "description": "sinopak",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

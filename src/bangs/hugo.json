@@ -4,5 +4,5 @@
   "url": "https://codewithhugo.com/search/?q=%s",
   "description": "Code with Hugo",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

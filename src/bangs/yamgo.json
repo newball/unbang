@@ -4,5 +4,5 @@
   "url": "http://yamgo.com/search?q=%s",
   "description": "Yamgo TV",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

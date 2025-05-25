@@ -4,5 +4,5 @@
   "url": "http://www.linguee.com.br/portugues-ingles/search?source=auto&query=%s",
   "description": "Linguee",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

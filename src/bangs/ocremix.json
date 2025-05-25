@@ -4,5 +4,5 @@
   "url": "http://ocremix.org/quicksearch/remix/?qs_query=%s",
   "description": "OverClocked Remix",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

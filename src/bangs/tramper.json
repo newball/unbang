@@ -4,5 +4,5 @@
   "url": "http://tramper.nz/?view=search&keywords=%s",
   "description": "Tramper.nz",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

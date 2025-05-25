@@ -4,5 +4,5 @@
   "url": "https://www.swoop.ge/search?query=%s",
   "description": "Swoop",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

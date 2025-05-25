@@ -4,5 +4,5 @@
   "url": "https://material.io/search.html?q=%s",
   "description": "Material.io",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

@@ -4,5 +4,5 @@
   "url": "https://addons.opera.com/ru/search/?query=%s&type=extensions",
   "description": "Opera Add-ons XT WebStore",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

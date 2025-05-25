@@ -4,5 +4,5 @@
   "url": "https://apps.ubuntu.com/cat/search/?q=%s ",
   "description": "Ubuntu Software Center",
   "category": "Tech",
-  "sub-category": "Downloads (apps)"
+  "subcategory": "Downloads (apps)"
 }

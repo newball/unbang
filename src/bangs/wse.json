@@ -4,5 +4,5 @@
   "url": "http://se.wikipedia.org/w/index.php?search=%s",
   "description": "Wikipedia – Friddje diehtosátnegirji",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

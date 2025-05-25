@@ -4,5 +4,5 @@
   "url": "https://search.kyobobook.co.kr/web/search?vPstrKeyWord=%s",
   "description": "Kyobo Book Centre",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

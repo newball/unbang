@@ -4,5 +4,5 @@
   "url": "https://www.pantone.com/color-finder?q=%s",
   "description": "Pantone Color Finder",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

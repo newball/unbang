@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s+site%3Adeveloper.mozilla.org",
   "description": "Mozilla Developer Network",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

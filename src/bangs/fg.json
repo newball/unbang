@@ -4,5 +4,5 @@
   "url": "http://www.fangraphs.com/players.aspx?lastname=%s",
   "description": "Fangraphs",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

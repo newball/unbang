@@ -4,5 +4,5 @@
   "url": "https://hub.kubeapps.com/charts?q=%s",
   "description": "Kubeapps Hub",
   "category": "Tech",
-  "sub-category": "Downloads (software)"
+  "subcategory": "Downloads (software)"
 }

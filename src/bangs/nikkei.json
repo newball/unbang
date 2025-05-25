@@ -4,5 +4,5 @@
   "url": "https://r.nikkei.com/search?keyword=%s",
   "description": "日経新聞",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

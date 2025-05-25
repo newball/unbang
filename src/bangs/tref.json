@@ -4,5 +4,5 @@
   "url": "http://www.thesaurus.com/browse/%s",
   "description": "Thesaurus at Reference.com",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

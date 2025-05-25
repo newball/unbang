@@ -4,5 +4,5 @@
   "url": "https://www.iptolocation.net/trace-%s",
   "description": "iptolocation.net",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

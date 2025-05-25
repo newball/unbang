@@ -4,5 +4,5 @@
   "url": "http://distrowatch.com/table.php?distribution=%s",
   "description": "DistroWatch",
   "category": "Tech",
-  "sub-category": "Downloads (software)"
+  "subcategory": "Downloads (software)"
 }

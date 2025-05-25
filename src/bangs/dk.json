@@ -4,5 +4,5 @@
   "url": "https://store.docker.com/search?q=%s",
   "description": "docker hub",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

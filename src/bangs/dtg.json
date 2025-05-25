@@ -4,5 +4,5 @@
   "url": "https://www.data.gouv.fr/search/?q=%s",
   "description": "data.gouv.fr",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

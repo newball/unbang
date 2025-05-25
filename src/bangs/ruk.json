@@ -4,5 +4,5 @@
   "url": "http://ruk.ca/search/site/%s",
   "description": "ruk.ca",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.jamf.com/jamf-nation/search?query=%s",
   "description": "Jamf Nation",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

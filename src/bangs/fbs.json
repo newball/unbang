@@ -4,5 +4,5 @@
   "url": "http://www.fbschedules.com/search.php?q=%s",
   "description": "FBSchedules",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

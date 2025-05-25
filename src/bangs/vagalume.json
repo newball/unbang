@@ -4,5 +4,5 @@
   "url": "http://www.vagalume.com.br/search.php?q=%s",
   "description": "Vagalume",
   "category": "Entertainment",
-  "sub-category": "Blogs (intl)"
+  "subcategory": "Blogs (intl)"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.ikea.com/au/en/search/?query=%s",
   "description": "IKEA Australia",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.ccma.cat/tv3/alacarta/cercador/?items_pagina=15&perfil=rellevancia&profile=videos&text=%s",
   "description": "TV3alacarta",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

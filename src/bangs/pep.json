@@ -4,5 +4,5 @@
   "url": "http://www.python.org/dev/peps/pep-%s/",
   "description": "Python PEP",
   "category": "Tech",
-  "sub-category": "Languages (python)"
+  "subcategory": "Languages (python)"
 }

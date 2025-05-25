@@ -4,5 +4,5 @@
   "url": "http://www.racing.com/search?q=%s",
   "description": "RACING.COM",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

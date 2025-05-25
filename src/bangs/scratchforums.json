@@ -4,5 +4,5 @@
   "url": "https://scratchforums.asun.co/search?q=%s",
   "description": "Scratch Forums Search",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

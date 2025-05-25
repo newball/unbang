@@ -4,5 +4,5 @@
   "url": "http://soylentnews.org/search.pl?query=%s",
   "description": "SoylentNews",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

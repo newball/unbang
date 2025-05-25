@@ -4,5 +4,5 @@
   "url": "http://bibliotek.kavlinge.se/search?query=%s",
   "description": "Kävlinge Bibliotek",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

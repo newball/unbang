@@ -4,5 +4,5 @@
   "url": "https://app.audiogon.com/listings?&global_search_text=%s",
   "description": "Audiogon",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

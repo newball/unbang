@@ -4,5 +4,5 @@
   "url": "http://www.passmark.com/search/zoomsearch.php?zoom_query=%s&search=Search",
   "description": "passmark.com",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

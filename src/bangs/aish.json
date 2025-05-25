@@ -4,5 +4,5 @@
   "url": "http://www.aish.com/search/?keywords=%s",
   "description": "Aish",
   "category": "Research",
-  "sub-category": "Reference (religion)"
+  "subcategory": "Reference (religion)"
 }

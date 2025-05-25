@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#auto/la/%s",
   "description": "Detect language to Latin",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

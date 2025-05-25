@@ -4,5 +4,5 @@
   "url": "http://search.illinoisstate.edu/?q=%s",
   "description": "Illinois State University",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

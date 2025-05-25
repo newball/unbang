@@ -4,5 +4,5 @@
   "url": "https://dirty.ru/search/?query=%s",
   "description": "dirty.ru",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

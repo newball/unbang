@@ -4,5 +4,5 @@
   "url": "http://myshows.me/search/?q=%s",
   "description": "myshows.ru",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

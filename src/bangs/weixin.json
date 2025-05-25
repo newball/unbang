@@ -4,5 +4,5 @@
   "url": "https://weixin.sogou.com/weixin?type=2&query=%s",
   "description": "weixin",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.zalando.de/katalog/?q=%s",
   "description": "Zalando.de",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://thronesdb.com/find?q=%s",
   "description": "ThronesDB",
   "category": "Entertainment",
-  "sub-category": "Games (offline)"
+  "subcategory": "Games (offline)"
 }

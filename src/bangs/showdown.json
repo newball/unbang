@@ -4,5 +4,5 @@
   "url": "http://dex.pokemonshowdown.com/?q=%s",
   "description": "Pokémon Showdown",
   "category": "Entertainment",
-  "sub-category": "Games (Pokemon)"
+  "subcategory": "Games (Pokemon)"
 }

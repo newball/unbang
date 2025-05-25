@@ -4,5 +4,5 @@
   "url": "http://vim.wikia.com/wiki/Special:Search?query=%s",
   "description": "Vim Tips wiki",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

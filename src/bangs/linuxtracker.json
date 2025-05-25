@@ -4,5 +4,5 @@
   "url": "http://linuxtracker.org/index.php?page=torrents&search=%s",
   "description": "Linux Tracker",
   "category": "Tech",
-  "sub-category": "Downloads"
+  "subcategory": "Downloads"
 }

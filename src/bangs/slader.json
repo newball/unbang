@@ -4,5 +4,5 @@
   "url": "http://www.slader.com/search/?search_query=%s",
   "description": "Slader",
   "category": "Online Services",
-  "sub-category": "Search (Real-time)"
+  "subcategory": "Search (Real-time)"
 }

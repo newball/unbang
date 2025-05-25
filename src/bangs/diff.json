@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=difference+between+%s&ia=qa",
   "description": "DuckDuck",
   "category": "Online Services",
-  "sub-category": "Search (DDG)"
+  "subcategory": "Search (DDG)"
 }

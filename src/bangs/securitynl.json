@@ -4,5 +4,5 @@
   "url": "https://www.security.nl/zoeken?search=%s ",
   "description": "Security.nl",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

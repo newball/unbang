@@ -4,5 +4,5 @@
   "url": "https://www.ozbargain.com.au/search/node/%s",
   "description": "OzBargain",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

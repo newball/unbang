@@ -4,5 +4,5 @@
   "url": "http://search.aol.com/aol/search?enabled_terms=&s_it=comsearch&q=%s",
   "description": "AOL",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.shadertoy.com/results?query=%s ",
   "description": "shadertoy.com",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

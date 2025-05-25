@@ -4,5 +4,5 @@
   "url": "https://uk.webuy.com/search/index.php?stext=%s",
   "description": "CeX",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

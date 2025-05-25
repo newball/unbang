@@ -4,5 +4,5 @@
   "url": "https://wiki.musicbrainz.org/index.php?title=Special%3ASearch&go=Go&search=%s",
   "description": "MusicBrainz Wiki",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

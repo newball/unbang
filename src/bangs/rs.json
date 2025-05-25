@@ -4,5 +4,5 @@
   "url": "https://runescape.wiki/?search=%s",
   "description": "The RuneScape Wiki",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

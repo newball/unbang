@@ -4,5 +4,5 @@
   "url": "http://yubnub.org/parser/parse?command=%s",
   "description": "YubNub",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

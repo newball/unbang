@@ -4,5 +4,5 @@
   "url": "http://www.pricewatch.com/search?q=%s ",
   "description": "Pricewatch",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

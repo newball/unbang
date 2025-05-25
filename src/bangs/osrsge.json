@@ -4,5 +4,5 @@
   "url": "http://services.runescape.com/m=itemdb_oldschool/results?query=%s",
   "description": "The Old School Runescape Grand Exchange",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

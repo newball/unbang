@@ -4,5 +4,5 @@
   "url": "https://www.larousse.fr/dictionnaires/francais-italien/%s/?q=%s",
   "description": "Larousse",
   "category": "Translation",
-  "sub-category": "General"
+  "subcategory": "General"
 }

@@ -4,5 +4,5 @@
   "url": "http://startpage.com/do/metasearch.pl?query=%s",
   "description": "startpage.com",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

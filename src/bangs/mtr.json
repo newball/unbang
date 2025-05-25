@@ -4,5 +4,5 @@
   "url": "http://mwsgsa01.mtr.com.hk/search?site=default_collection&output=xml_no_dtd&client=mtr_eng&proxystylesheet=mtr_eng&proxyreload=1&ie=big5&oe=UTF-8&q=%s",
   "description": "Hong Kong MTR",
   "category": "Online Services",
-  "sub-category": "Search (Private)"
+  "subcategory": "Search (Private)"
 }

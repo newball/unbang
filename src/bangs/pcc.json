@@ -4,5 +4,5 @@
   "url": "http://www.pcconnection.com/IPA/Shop/Product/Search.htm?SearchType=1&term=%s",
   "description": "PC Connection",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

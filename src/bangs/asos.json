@@ -4,5 +4,5 @@
   "url": "http://www.asos.com/search/?q=%s",
   "description": "Asos.com",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

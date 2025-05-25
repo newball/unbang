@@ -4,5 +4,5 @@
   "url": "http://cdda-trunk.chezzo.com/search?q=%s",
   "description": "CDDA Item Browser",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

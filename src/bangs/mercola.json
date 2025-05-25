@@ -4,5 +4,5 @@
   "url": "https://search.mercola.com/results.aspx?q=%s ",
   "description": "Mercola",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

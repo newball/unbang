@@ -4,5 +4,5 @@
   "url": "https://www.brainyquote.com/search_results.html?q=%s",
   "description": "BrainyQuote",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

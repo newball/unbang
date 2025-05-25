@@ -4,5 +4,5 @@
   "url": "https://www.linguee.de/deutsch-franzoesisch/search?source=auto&query=%s",
   "description": "Linguee Deutsch <-> Français (German  <-> French)",
   "category": "Translation",
-  "sub-category": "General"
+  "subcategory": "General"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=%s",
   "description": "Trade Me",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

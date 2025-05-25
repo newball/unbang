@@ -4,5 +4,5 @@
   "url": "http://www.indeed.com/jobs?q=%s",
   "description": "Indeed",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

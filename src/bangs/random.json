@@ -4,5 +4,5 @@
   "url": "https://www.random.org/search?q=%s",
   "description": "RANDOM.ORG",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

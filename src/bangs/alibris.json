@@ -4,5 +4,5 @@
   "url": "http://www.alibris.com/booksearch?keyword=%s",
   "description": "alibris",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

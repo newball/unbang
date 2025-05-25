@@ -4,5 +4,5 @@
   "url": "http://www.gunbroker.com/All/BI.aspx?Keywords=%s",
   "description": "GunBroker",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

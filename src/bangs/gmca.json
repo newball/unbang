@@ -4,5 +4,5 @@
   "url": "https://www.google.ca/maps/?q=%s",
   "description": "Google Maps Canada",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

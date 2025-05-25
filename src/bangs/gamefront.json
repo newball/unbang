@@ -4,5 +4,5 @@
   "url": "https://www.gamefront.com/search/files?q=%s",
   "description": "GameFront",
   "category": "Tech",
-  "sub-category": "Downloads (add-ons)"
+  "subcategory": "Downloads (add-ons)"
 }

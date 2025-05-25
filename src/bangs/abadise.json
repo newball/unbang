@@ -4,5 +4,5 @@
   "url": "https://dictionary.abadis.ir/?LnType=entofa&Word=%s",
   "description": "Abadis English to Persian dictionary",
   "category": "Translation",
-  "sub-category": "General"
+  "subcategory": "General"
 }

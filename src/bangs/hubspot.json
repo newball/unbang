@@ -4,5 +4,5 @@
   "url": "https://knowledge.hubspot.com/search?q=%s",
   "description": "HubSpot",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

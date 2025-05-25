@@ -4,5 +4,5 @@
   "url": "https://www.rossmann.de/verbraucherportal/toolbox/suche.html?query=%s",
   "description": "Rossmann(DE)",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

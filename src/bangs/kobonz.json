@@ -4,5 +4,5 @@
   "url": "https://www.kobo.com/nz/en/search?Query=%s",
   "description": "Kobo NZ",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

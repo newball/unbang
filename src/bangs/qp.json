@@ -4,5 +4,5 @@
   "url": "https://www.quip.com/search?q=%s",
   "description": "Quip",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "http://packages.debian.org/search?section=all&arch=any&searchon=contents&keywords=%s ",
   "description": "Debian file search",
   "category": "Tech",
-  "sub-category": "Sysadmin (debian)"
+  "subcategory": "Sysadmin (debian)"
 }

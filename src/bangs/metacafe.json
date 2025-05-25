@@ -4,5 +4,5 @@
   "url": "http://www.metacafe.com/videos_about/%s/",
   "description": "Metacafe",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

@@ -4,5 +4,5 @@
   "url": "http://openings.moe/list/?s=%s",
   "description": "Openings.moe",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

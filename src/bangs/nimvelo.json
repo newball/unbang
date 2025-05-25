@@ -4,5 +4,5 @@
   "url": "http://kb.nimvelo.com/search?query=%s",
   "description": "Nimvelo",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

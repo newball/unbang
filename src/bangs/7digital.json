@@ -4,5 +4,5 @@
   "url": "https://www.7digital.com/search?q=%s",
   "description": "7digital",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

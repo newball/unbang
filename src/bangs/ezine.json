@@ -4,5 +4,5 @@
   "url": "http://ezinearticles.com/search/?q=%s",
   "description": "Ezinearticles.com",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

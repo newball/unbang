@@ -4,5 +4,5 @@
   "url": "https://www.addgene.org/search/advanced/?q=%s",
   "description": "Addgene",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

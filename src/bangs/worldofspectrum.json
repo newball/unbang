@@ -4,5 +4,5 @@
   "url": "http://www.worldofspectrum.org/infoseek.cgi?regexp=%s&model=any&loadpics=3&fast=on",
   "description": "World of Spectrum",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

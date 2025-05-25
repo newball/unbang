@@ -4,5 +4,5 @@
   "url": "http://www.cnrtl.fr/morphologie/%s",
   "description": "cnrtl morphologie",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

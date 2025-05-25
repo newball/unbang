@@ -4,5 +4,5 @@
   "url": "http://opac.sbn.it/opacsbn/opac/iccu/free.jsp=%s",
   "description": "OPAC SBN",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

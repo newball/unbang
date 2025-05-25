@@ -4,5 +4,5 @@
   "url": "https://www.arxiv-vanity.com/convert/?query=%s",
   "description": "arxiv vanity",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

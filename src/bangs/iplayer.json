@@ -4,5 +4,5 @@
   "url": "http://www.bbc.co.uk/iplayer/search?q=%s",
   "description": "BBC iPlayer",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

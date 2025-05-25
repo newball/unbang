@@ -4,5 +4,5 @@
   "url": "http://catalogue.nla.gov.au/Search/Home?lookfor=%s",
   "description": "National Library of Australia Catalogue",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

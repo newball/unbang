@@ -4,5 +4,5 @@
   "url": "https://raleigh.craigslist.org/search/?query=%s",
   "description": "Craigslist - Raleigh, NC",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

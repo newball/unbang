@@ -4,5 +4,5 @@
   "url": "https://apps.db.ripe.net/search/query.html?searchtext=%s&search%3AdoSearch=Search#resultsAnchor",
   "description": "RIPE Database",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

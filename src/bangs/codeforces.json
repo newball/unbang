@@ -4,5 +4,5 @@
   "url": "http://codeforces.com/search?query=%s",
   "description": "Codeforces",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

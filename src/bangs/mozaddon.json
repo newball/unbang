@@ -4,5 +4,5 @@
   "url": "https://addons.mozilla.org/en-US/firefox/search/?q=%s",
   "description": "Mozilla Addons",
   "category": "Tech",
-  "sub-category": "Downloads (add-ons)"
+  "subcategory": "Downloads (add-ons)"
 }

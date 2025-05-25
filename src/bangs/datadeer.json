@@ -4,5 +4,5 @@
   "url": "https://datadeer.net/search/index.php?q=%s",
   "description": "datadeer",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

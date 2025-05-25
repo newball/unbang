@@ -4,5 +4,5 @@
   "url": "https://read.douban.com/search?q=%s",
   "description": "read.douban",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

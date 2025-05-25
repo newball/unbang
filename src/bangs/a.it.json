@@ -4,5 +4,5 @@
   "url": "https://www.amazon.it/s?k=%s",
   "description": "Amazon IT",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.europarl.europa.eu/portal/en/search?q=%s",
   "description": "European Parliament",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

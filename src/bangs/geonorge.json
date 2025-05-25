@@ -4,5 +4,5 @@
   "url": "https://kartkatalog.geonorge.no/search?text=%s",
   "description": "GeoNorge",
   "category": "Tech",
-  "sub-category": "Downloads"
+  "subcategory": "Downloads"
 }

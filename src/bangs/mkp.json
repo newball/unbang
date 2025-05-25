@@ -4,5 +4,5 @@
   "url": "https://search.mlp.cz/cz/?query=%s&kde=all#/c_s_ol=query-eq:%s",
   "description": "Městská knihovna v Praze",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

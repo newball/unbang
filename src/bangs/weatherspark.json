@@ -4,5 +4,5 @@
   "url": "http://weatherspark.com/#!dashboard;q=%s",
   "description": "Weather Spark",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

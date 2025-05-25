@@ -4,5 +4,5 @@
   "url": "http://www.identifont.com/find?similar=%s&q=Go",
   "description": "Identifont (similar)",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

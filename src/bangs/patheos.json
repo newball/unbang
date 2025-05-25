@@ -4,5 +4,5 @@
   "url": "https://www.patheos.com/search?q=%s",
   "description": "Patheos",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

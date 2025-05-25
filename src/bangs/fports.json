@@ -4,5 +4,5 @@
   "url": "http://www.freebsd.org/cgi/ports.cgi?query=%s&stype=all",
   "description": "FreeBSD Ports",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

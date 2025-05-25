@@ -4,5 +4,5 @@
   "url": "https://www.franceinter.fr/recherche?q=%s",
   "description": "France Inter",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

@@ -4,5 +4,5 @@
   "url": "https://poinformowani.pl/szukaj?q=%s",
   "description": "Poinformowani",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

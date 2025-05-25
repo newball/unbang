@@ -4,5 +4,5 @@
   "url": "http://timesofindia.indiatimes.com/topic/%s",
   "description": "The Times of India",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

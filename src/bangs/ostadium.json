@@ -4,5 +4,5 @@
   "url": "http://ostadium.com/search?q=%s",
   "description": "OStadium",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

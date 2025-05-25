@@ -4,5 +4,5 @@
   "url": "http://www.mdt.co.uk/catalogsearch/result/?q=%s&t=general&order=most_viewed",
   "description": "MDT",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

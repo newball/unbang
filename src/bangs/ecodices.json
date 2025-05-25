@@ -4,5 +4,5 @@
   "url": "http://www.e-codices.unifr.ch/en/search/all?sQueryString=%s",
   "description": "e-codices: Virtual Manuscript Library of Switzerland",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

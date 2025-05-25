@@ -4,5 +4,5 @@
   "url": "https://map.what3words.com/%s",
   "description": "https://what3words.com/",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

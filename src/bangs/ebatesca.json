@@ -4,5 +4,5 @@
   "url": "https://www.ebates.ca/srch/all?query=%s",
   "description": "Ebates Canda",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

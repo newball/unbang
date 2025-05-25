@@ -4,5 +4,5 @@
   "url": "http://www.reddit.com/r/%s",
   "description": "Reddit",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.humblebundle.com/store/search?sort=discount&search=%s",
   "description": "Humble Bundle",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

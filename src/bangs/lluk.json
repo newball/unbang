@@ -4,5 +4,5 @@
   "url": "http://capitadiscovery.co.uk/liverpool/items?query=%s",
   "description": "Liverpool Libraries catalogue",
   "category": "Research",
-  "sub-category": "Topical"
+  "subcategory": "Topical"
 }

@@ -4,5 +4,5 @@
   "url": "https://fahrinfo.bvg.de/Fahrinfo/bin/query.bin/?pk_campaign=BVG.de_Eingabe&from=%s ",
   "description": "BVG",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

@@ -4,5 +4,5 @@
   "url": "https://bendodson.com/projects/itunes-artwork-finder/index.html?entity=album&country=us&query=%s",
   "description": "iTunes Album Artwork Finder",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

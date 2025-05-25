@@ -4,5 +4,5 @@
   "url": "http://allrecipes.com/search/default.aspx?qt=k&wt=%s",
   "description": "Allrecipes",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

@@ -4,5 +4,5 @@
   "url": "https://store.steampowered.com/app/%s/",
   "description": "Steam app ID",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

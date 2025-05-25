@@ -4,5 +4,5 @@
   "url": "https://www.google.com/search?gws_rd=cr&gl=us&hl=en&num=20&q=%s",
   "description": "Google No Country Redirect",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.vividseats.com/Search.action?searchTerm=%s",
   "description": "Vivid Seats",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

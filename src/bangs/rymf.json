@@ -4,5 +4,5 @@
   "url": "https://rateyourmusic.com/search?searchtype=F&searchterm=%s",
   "description": "Rate Your Music",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

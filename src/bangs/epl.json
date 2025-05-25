@@ -4,5 +4,5 @@
   "url": "http://shop.ebay.pl/?_nkw=%s&_sacat=See-All-Categories",
   "description": "ebay.pl",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

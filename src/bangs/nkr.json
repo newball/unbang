@@ -4,5 +4,5 @@
   "url": "http://krdic.naver.com/search.nhn?query=%s&kind=all",
   "description": "Naver Korean Dictionary",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

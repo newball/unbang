@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s&iaxm=maps",
   "description": "DuckDuckGo Maps",
   "category": "Online Services",
-  "sub-category": "Search (DDG)"
+  "subcategory": "Search (DDG)"
 }

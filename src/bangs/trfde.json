@@ -4,5 +4,5 @@
   "url": "http://www.transfermarkt.de/de/undefined/suche/ergebnis.html?quicksearch=%s&x=0&y=0",
   "description": "transfermarkt.de",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

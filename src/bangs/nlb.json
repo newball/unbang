@@ -4,5 +4,5 @@
   "url": "https://www.bibleserver.com/text/NLB/%s",
   "description": "Bibleserver",
   "category": "Research",
-  "sub-category": "Reference (religion)"
+  "subcategory": "Reference (religion)"
 }

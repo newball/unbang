@@ -4,5 +4,5 @@
   "url": "https://www.c-and-a.com/webapp/wcs/stores/servlet/SearchDisplay?catalogId=10001&storeId=10153&langId=-3&articleSearch=false&searchTerm=%s&x=0&y=0",
   "description": "C-and-A DE",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site%3Awww.serienjunkies.de+%s",
   "description": "Serienjunkies.de",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

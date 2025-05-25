@@ -4,5 +4,5 @@
   "url": "https://cljdoc.org/search?q=%s",
   "description": "cljdoc",
   "category": "Tech",
-  "sub-category": "Languages (clojure)"
+  "subcategory": "Languages (clojure)"
 }

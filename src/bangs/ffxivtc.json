@@ -4,5 +4,5 @@
   "url": "https://ffxivteamcraft.com/search?query=%s&onlyRecipes=true",
   "description": "FFXIV Teamcraft",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

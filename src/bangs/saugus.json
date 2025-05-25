@@ -4,5 +4,5 @@
   "url": "https://www.saugus.net/cgi-bin/htsearch?config=htdig&restrict=&exclude=&words=%s&method=and&format=long",
   "description": "Saugus.net: Resources for Saugus, Massachusetts",
   "category": "Online Services",
-  "sub-category": "Search (Private)"
+  "subcategory": "Search (Private)"
 }

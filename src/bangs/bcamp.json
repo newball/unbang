@@ -4,5 +4,5 @@
   "url": "https://bandcamp.com/search?q=%s",
   "description": "Bandcamp",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

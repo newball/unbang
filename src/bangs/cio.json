@@ -4,5 +4,5 @@
   "url": "https://company.info/organisations/search?q=%s",
   "description": "Company.info",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

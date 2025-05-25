@@ -4,5 +4,5 @@
   "url": "https://oglobo.globo.com/busca/?q=%s",
   "description": "https://oglobo.globo.com/",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

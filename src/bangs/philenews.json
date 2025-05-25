@@ -4,5 +4,5 @@
   "url": "http://www.philenews.com/search?kw=%s",
   "description": "Philenews",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

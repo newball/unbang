@@ -4,5 +4,5 @@
   "url": "https://www.comixology.co.uk/search?search=%s&submit=Submit",
   "description": "ComiXology UK",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

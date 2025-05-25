@@ -4,5 +4,5 @@
   "url": "https://docs.microsoft.com/en-us/search/index?search=%s",
   "description": "Microsoft Docs",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

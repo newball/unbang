@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#en/da/%s",
   "description": "Translate English to Danish",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

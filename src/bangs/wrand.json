@@ -4,5 +4,5 @@
   "url": "https://en.wikipedia.org/wiki/Special:RandomInCategory/%s",
   "description": "Wikipedia Random in Category",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

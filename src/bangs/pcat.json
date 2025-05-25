@@ -4,5 +4,5 @@
   "url": "https://catalog.princeton.edu/catalog?utf8=✓&search_field=all_fields&q=%s",
   "description": "Princeton University Library Catalog",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

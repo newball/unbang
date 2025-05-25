@@ -4,5 +4,5 @@
   "url": "https://rubocop.readthedocs.io/en/latest/search.html?q=%s",
   "description": "RuboCop",
   "category": "Tech",
-  "sub-category": "Languages (ruby)"
+  "subcategory": "Languages (ruby)"
 }

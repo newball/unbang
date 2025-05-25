@@ -4,5 +4,5 @@
   "url": "http://www.ohnorobot.com/index.php?s=%s&Search=Search&comic=",
   "description": "Oh No Robot",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

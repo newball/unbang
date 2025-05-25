@@ -4,5 +4,5 @@
   "url": "http://www.w3.org/services/html2txt?url=%s",
   "description": "Html2Txt",
   "category": "Tech",
-  "sub-category": "Languages (html)"
+  "subcategory": "Languages (html)"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.un-spider.org/search/apachesolr_search/%s",
   "description": "UN-SPIDER Knowledge Portal",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

@@ -4,5 +4,5 @@
   "url": "http://moddb.com/search?q=%s",
   "description": "ModDB",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

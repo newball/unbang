@@ -4,5 +4,5 @@
   "url": "http://search.cbsnews.com/?source=cbs&q=%s",
   "description": "CBSNews",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

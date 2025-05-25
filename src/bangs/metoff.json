@@ -4,5 +4,5 @@
   "url": "http://www.metoffice.gov.uk/public/weather/location-search/sitename?searchLocation=%s",
   "description": "Met Office",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

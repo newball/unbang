@@ -4,5 +4,5 @@
   "url": "http://lists.debian.org/cgi-bin/search?query=%s&DEFAULTOP=and&author=&sort=relevance&HITSPERPAGE=10&language=en",
   "description": "Debian Mailing Lists",
   "category": "Tech",
-  "sub-category": "Sysadmin (debian)"
+  "subcategory": "Sysadmin (debian)"
 }

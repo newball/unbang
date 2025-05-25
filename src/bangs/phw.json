@@ -4,5 +4,5 @@
   "url": "https://www.pharmawiki.ch/wiki/index.php?wiki=%s",
   "description": "Pharmawiki",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

@@ -4,5 +4,5 @@
   "url": "https://travel.yahoo.co.jp/dhotel/search/?qry=%s",
   "description": "Yahoo! Travel Japan",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

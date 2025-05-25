@@ -4,5 +4,5 @@
   "url": "http://magiccards.info/query?q=%s&v=card&s=cname",
   "description": "magiccards.info",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

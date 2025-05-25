@@ -4,5 +4,5 @@
   "url": "http://www.stackage.org/lts/hoogle?q=%s",
   "description": "Hoogle at Stackage",
   "category": "Tech",
-  "sub-category": "Languages (haskell)"
+  "subcategory": "Languages (haskell)"
 }

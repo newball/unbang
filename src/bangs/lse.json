@@ -4,5 +4,5 @@
   "url": "https://linuxsecurity.expert/search/?q=%s",
   "description": "Linux Security Expert",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

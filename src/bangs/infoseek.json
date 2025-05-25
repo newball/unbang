@@ -4,5 +4,5 @@
   "url": "http://websearch.rakuten.co.jp/Web?qt=%s",
   "description": "Rakuten Infoseek",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

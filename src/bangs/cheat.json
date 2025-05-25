@@ -4,5 +4,5 @@
   "url": "https://devhints.io/%s",
   "description": "https://devhints.io/",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

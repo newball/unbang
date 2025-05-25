@@ -4,5 +4,5 @@
   "url": "http://www.bell.ca/Search?q=%s",
   "description": "Bell",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

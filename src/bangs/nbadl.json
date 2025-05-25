@@ -4,5 +4,5 @@
   "url": "http://dleague.nba.com/?q=%s",
   "description": "NBA D-League",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

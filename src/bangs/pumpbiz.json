@@ -4,5 +4,5 @@
   "url": "http://www.pumpbiz.com/shopping_search.asp?searchString=%s&searchType=0&FIND.x=0&FIND.y=0&FIND=FIND+IT",
   "description": "PumpBiz",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

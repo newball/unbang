@@ -4,5 +4,5 @@
   "url": "https://kitsu.io/manga?text=%s",
   "description": "Kitsu Manga",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

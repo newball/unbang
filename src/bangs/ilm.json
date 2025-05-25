@@ -4,5 +4,5 @@
   "url": "http://www.ilmeteo.it/meteo/%s",
   "description": "ilmeteo.it",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

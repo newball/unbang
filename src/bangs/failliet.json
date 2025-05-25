@@ -4,5 +4,5 @@
   "url": "https://www.faillissementen.com/insolventies/nederlandse-insolventies/?q=%s",
   "description": "Faillissementen.com",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

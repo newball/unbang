@@ -4,5 +4,5 @@
   "url": "https://disboard.org/search?keyword=%s",
   "description": "DISBOARD",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

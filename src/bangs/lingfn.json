@@ -4,5 +4,5 @@
   "url": "http://www.linguee.fr/francais-neerlandais/search?source=auto&query=%s",
   "description": "Linguee (Fr-Nl)",
   "category": "Research",
-  "sub-category": "Reference (words intl)"
+  "subcategory": "Reference (words intl)"
 }

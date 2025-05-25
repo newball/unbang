@@ -4,5 +4,5 @@
   "url": "https://google.com/search?q=%s&site=webhp&tbm=isch&tbs=itp%3Aanimated",
   "description": "Google Images (Animated)",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

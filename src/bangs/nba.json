@@ -4,5 +4,5 @@
   "url": "http://www.nba.com/search#/%s",
   "description": "NBA.com",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

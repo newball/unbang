@@ -4,5 +4,5 @@
   "url": "http://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=%s",
   "description": "idealo",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

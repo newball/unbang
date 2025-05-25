@@ -4,5 +4,5 @@
   "url": "https://www.ubuntu.com/search?q=%s",
   "description": "Ubuntu",
   "category": "Tech",
-  "sub-category": "Sysadmin (Ubuntu)"
+  "subcategory": "Sysadmin (Ubuntu)"
 }

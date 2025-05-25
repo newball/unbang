@@ -4,5 +4,5 @@
   "url": "http://xivdb.com/?search=%s",
   "description": "XIVDB",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

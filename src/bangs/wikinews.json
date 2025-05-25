@@ -4,5 +4,5 @@
   "url": "http://en.wikinews.org/w/index.php?title=Special%3ASearch&redirs=0&search=%s",
   "description": "Wikinews",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

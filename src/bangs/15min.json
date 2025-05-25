@@ -4,5 +4,5 @@
   "url": "https://www.15min.lt/paieska?q=%s",
   "description": "15min naujienos",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

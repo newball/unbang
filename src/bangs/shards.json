@@ -4,5 +4,5 @@
   "url": "https://crystalshards.org/?filter=%s",
   "description": "Crystal Shards",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

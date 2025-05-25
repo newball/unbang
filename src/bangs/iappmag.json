@@ -4,5 +4,5 @@
   "url": "http://www.iappmag.de/?s=%s",
   "description": "iAppMag",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

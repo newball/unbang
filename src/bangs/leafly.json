@@ -4,5 +4,5 @@
   "url": "https://www.leafly.com/search?q=%s",
   "description": "Leafly",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

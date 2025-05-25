@@ -4,5 +4,5 @@
   "url": "https://www.mturk.com/mturk/searchbar?selectedSearchType=hitgroups&searchWords=%s",
   "description": "mturk.com",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.rockstargames.com/search/?q=%s",
   "description": "Rockstar Games",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

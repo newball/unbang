@@ -4,5 +4,5 @@
   "url": "https://packages.debian.org/search?searchon=contents&keywords=%s&mode=path&suite=unstable&arch=any",
   "description": "Debian Packages",
   "category": "Tech",
-  "sub-category": "Sysadmin (debian)"
+  "subcategory": "Sysadmin (debian)"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.biography.com/search?query=%s",
   "description": "Biography",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

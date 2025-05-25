@@ -4,5 +4,5 @@
   "url": "http://catalogue.bu.univ-paris8.fr/cgi-bin/koha/opac-search.pl?idx=&q=%s",
   "description": "Université Paris 8 (Bibliothèque)",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

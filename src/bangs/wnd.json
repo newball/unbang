@@ -4,5 +4,5 @@
   "url": "http://www.wandaloo.com/search-result.php?pg=1&q=%s&w=news&m=pertinence",
   "description": "wandaloo",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

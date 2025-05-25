@@ -4,5 +4,5 @@
   "url": "https://labonneformation.pole-emploi.fr/toutes-les-formations?motscles=%s",
   "description": "La bonne formation",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

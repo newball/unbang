@@ -4,5 +4,5 @@
   "url": "https://chrome.google.com/webstore/search?q=%s",
   "description": "Chrome Extension Repository",
   "category": "Tech",
-  "sub-category": "Downloads (add-ons)"
+  "subcategory": "Downloads (add-ons)"
 }

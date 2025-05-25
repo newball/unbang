@@ -4,5 +4,5 @@
   "url": "http://monstercat.wikia.com/wiki/Special:Search?query=%s",
   "description": "Monstercat Wiki",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

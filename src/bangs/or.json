@@ -4,5 +4,5 @@
   "url": "https://or.justice.cz/ias/ui/rejstrik-$firma?jenPlatne=PLATNE&nazev=%s&polozek=50&typHledani=STARTS_WITH",
   "description": "Obchodní rejstřík – Ministerstvo spravedlnosti České republiky",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

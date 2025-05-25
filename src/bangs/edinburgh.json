@@ -4,5 +4,5 @@
   "url": "http://www.edinburgh.gov.uk/site/scripts/google_results.php?q=%s",
   "description": "City of Edinburgh Council",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

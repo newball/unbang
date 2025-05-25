@@ -4,5 +4,5 @@
   "url": "https://bugs.launchpad.net/bugs/+bugs?field.searchtext=%s",
   "description": "Launchpad Bugs",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

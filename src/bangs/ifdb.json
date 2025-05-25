@@ -4,5 +4,5 @@
   "url": "http://ifdb.tads.org/search?searchbar=%s",
   "description": "Interactive Fiction Database",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

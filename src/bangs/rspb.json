@@ -4,5 +4,5 @@
   "url": "https://www.rspb.org.uk/search/?q=%s",
   "description": "RSPB",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

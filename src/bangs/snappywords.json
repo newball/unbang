@@ -4,5 +4,5 @@
   "url": "http://www.snappywords.com/?lookup=%s",
   "description": "Snappy Words",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

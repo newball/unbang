@@ -4,5 +4,5 @@
   "url": "http://find.ruten.com.tw/search/s000.php?enc=u&searchfrom=searchf&k=%s&t=0",
   "description": "ruten",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

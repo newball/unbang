@@ -4,5 +4,5 @@
   "url": "https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=%s",
   "description": "MDBG Dictionary",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

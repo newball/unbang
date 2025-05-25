@@ -4,5 +4,5 @@
   "url": "https://manpages.ubuntu.com/cgi-bin/search.py?q=%s",
   "description": "Ubuntu Manpage",
   "category": "Tech",
-  "sub-category": "Sysadmin (Ubuntu)"
+  "subcategory": "Sysadmin (Ubuntu)"
 }

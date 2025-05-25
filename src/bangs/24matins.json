@@ -4,5 +4,5 @@
   "url": "http://www.24matins.fr/?s=%s",
   "description": "24matins",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

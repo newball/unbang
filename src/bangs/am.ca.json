@@ -4,5 +4,5 @@
   "url": "https://www.amazon.ca/s?k=%s",
   "description": "Amazon.ca",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

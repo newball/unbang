@@ -4,5 +4,5 @@
   "url": "https://www.cycletec.ch/index.php?route=product/search&search=%s",
   "description": "CycleTec GmbH",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

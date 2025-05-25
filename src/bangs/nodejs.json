@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=!node+%s",
   "description": "Node.js Documentation",
   "category": "Tech",
-  "sub-category": "Languages (javascript)"
+  "subcategory": "Languages (javascript)"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.digitalspy.com/search/%s",
   "description": "DigitalSpy",
   "category": "Entertainment",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

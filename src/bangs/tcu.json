@@ -4,5 +4,5 @@
   "url": "http://thecubicle.us/advanced_search_result.php?search_in_description=0&keywords=%s",
   "description": "thecubicle.us",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

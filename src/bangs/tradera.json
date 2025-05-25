@@ -4,5 +4,5 @@
   "url": "http://www.tradera.com/finding.mvc/itemlisting?header=true&search=%s",
   "description": "Tradera",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

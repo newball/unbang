@@ -4,5 +4,5 @@
   "url": "http://de.rs-online.com/web/c/?searchTerm=%s",
   "description": "RS Components (DE)",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

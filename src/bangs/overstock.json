@@ -4,5 +4,5 @@
   "url": "http://www.overstock.com/search?keywords=%s",
   "description": "Overstock",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.eprice.it/search/qs=%s&mets=%s",
   "description": "ePrice",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

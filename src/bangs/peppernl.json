@@ -4,5 +4,5 @@
   "url": "https://nl.pepper.com/search?q=%s",
   "description": "Pepper NL",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

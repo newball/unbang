@@ -4,5 +4,5 @@
   "url": "https://rateyourmusic.com/search?searchterm=%s",
   "description": "Rate Your Music",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

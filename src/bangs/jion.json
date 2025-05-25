@@ -4,5 +4,5 @@
   "url": "https://jionews.com/search?query=%s",
   "description": "https://jionews.com",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

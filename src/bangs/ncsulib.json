@@ -4,5 +4,5 @@
   "url": "http://search.lib.ncsu.edu/?q=%s",
   "description": "NCSU Libraries",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

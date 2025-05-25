@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#auto/id/%s",
   "description": "Detect language to Indonesian",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

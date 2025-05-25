@@ -4,5 +4,5 @@
   "url": "http://birds.audubon.org/search/node?keys=%s",
   "description": "National Audubon Society (birds)",
   "category": "Research",
-  "sub-category": "Topical"
+  "subcategory": "Topical"
 }

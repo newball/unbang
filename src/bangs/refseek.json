@@ -4,5 +4,5 @@
   "url": "https://www.refseek.com/search?q=%s",
   "description": "RefSeek",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

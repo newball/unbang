@@ -4,5 +4,5 @@
   "url": "https://onesearch.library.uwa.edu.au/discovery/search?query=any,contains,%s&tab=Everything&search_scope=MyInst_and_CI&sortby=rank&vid=61UWA_INST:UWA&offset=0",
   "description": "The University of Western Australia Library",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

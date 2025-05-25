@@ -4,5 +4,5 @@
   "url": "http://www.artfire.com/browse/?term=%s",
   "description": "ArtFire",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

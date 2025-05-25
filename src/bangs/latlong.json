@@ -4,5 +4,5 @@
   "url": "http://www.latlong.net/search.php?keyword=%s",
   "description": "LatLong.net",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

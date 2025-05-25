@@ -4,5 +4,5 @@
   "url": "http://world.openfoodfacts.org/cgi/search.pl?search_terms=%s",
   "description": "OpenFoodFacts World",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

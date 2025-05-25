@@ -4,5 +4,5 @@
   "url": "https://startpage.com/do/metasearch.pl?query=%s&with_date=y",
   "description": "Startpage",
   "category": "Online Services",
-  "sub-category": "Search (Private)"
+  "subcategory": "Search (Private)"
 }

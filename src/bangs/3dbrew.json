@@ -4,5 +4,5 @@
   "url": "http://3dbrew.org/wiki/Special:Search?search=%s&go=Go",
   "description": "3DBrew",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

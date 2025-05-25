@@ -4,5 +4,5 @@
   "url": "http://www.apmex.com/search?q=%s",
   "description": "APMEX",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

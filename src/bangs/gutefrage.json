@@ -4,5 +4,5 @@
   "url": "https://www.gutefrage.net/search?query=%s",
   "description": "Gutefrage",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

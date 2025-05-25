@@ -4,5 +4,5 @@
   "url": "https://search.tga.gov.au/s/search.html?collection=tga-websites-web&query=%s&op=Search",
   "description": "Theraputic Goods Administration",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

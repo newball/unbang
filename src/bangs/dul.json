@@ -4,5 +4,5 @@
   "url": "http://library.duke.edu/find/all?Ntt=%s ",
   "description": "Duke University Libraries",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "http://appshopper.com/search/?search=%s",
   "description": "Appshopper",
   "category": "Tech",
-  "sub-category": "Downloads"
+  "subcategory": "Downloads"
 }

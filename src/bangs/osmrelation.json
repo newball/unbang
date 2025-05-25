@@ -4,5 +4,5 @@
   "url": "https://www.openstreetmap.org/relation/%s",
   "description": "OpenStreetMap Relation",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

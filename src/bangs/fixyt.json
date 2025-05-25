@@ -4,5 +4,5 @@
   "url": "http://fixyt.com/search?q=%s",
   "description": "FixYT",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

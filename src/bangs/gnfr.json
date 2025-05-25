@@ -4,5 +4,5 @@
   "url": "http://www.google.fr/search?aq=f&hl=fr&gl=fr&tbm=nws&btnmeta_news_search=1&q=%s ",
   "description": "Google News French",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

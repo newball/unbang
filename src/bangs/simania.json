@@ -4,5 +4,5 @@
   "url": "http://simania.co.il/searchBooks.php?searchType=tabAll&query=%s",
   "description": "Simania",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

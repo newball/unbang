@@ -4,5 +4,5 @@
   "url": "https://osu.ppy.sh/home/search?query=%s",
   "description": "osu!",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

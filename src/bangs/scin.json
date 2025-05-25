@@ -4,5 +4,5 @@
   "url": "https://scinapse.io/search?query=%s",
   "description": "Scinapse",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

@@ -4,5 +4,5 @@
   "url": "http://slickdeals.net/sdsearch.php?forumchoice%5B%5D=9&search=%s&mode=forum&showposts=0&sdsearch_archive=0&firstpost=1",
   "description": "SlickDeals",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

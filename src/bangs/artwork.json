@@ -4,5 +4,5 @@
   "url": "http://www.artcyclopedia.com/scripts/tsearch.pl?t=%s&type=2",
   "description": "artcyclopedia.com",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

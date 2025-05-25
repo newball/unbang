@@ -4,5 +4,5 @@
   "url": "http://plan3t.info/?s=%s",
   "description": "Plan3t.info",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

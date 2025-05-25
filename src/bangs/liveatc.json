@@ -4,5 +4,5 @@
   "url": "https://www.liveatc.net/search/?icao=%s",
   "description": "LiveATC.net",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

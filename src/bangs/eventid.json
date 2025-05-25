@@ -4,5 +4,5 @@
   "url": "http://eventid.net/display.asp?eventid=%s&source=",
   "description": "EventID",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

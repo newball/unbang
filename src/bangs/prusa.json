@@ -4,5 +4,5 @@
   "url": "https://www.prusaprinters.org/search/all?q=%s",
   "description": "Prusa Printers",
   "category": "Tech",
-  "sub-category": "Downloads"
+  "subcategory": "Downloads"
 }

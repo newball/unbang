@@ -4,5 +4,5 @@
   "url": "https://www.swissmilk.ch/de/alle-rezepte/suche/?qt=%s&cat=Rezept+Suche&qd=1",
   "description": "swissmilk - Rezepte",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

@@ -4,5 +4,5 @@
   "url": "https://search.nzqa.govt.nz/apps/search/?q=%s",
   "description": "New Zealand Qualifications Authority",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

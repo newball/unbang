@@ -4,5 +4,5 @@
   "url": "http://www.medicalnewstoday.com/search?q=%s ",
   "description": "Medical News Today",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

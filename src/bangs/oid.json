@@ -4,5 +4,5 @@
   "url": "http://www.oid-info.com/cgi-bin/display?oid=%s&submit=Display&action=display",
   "description": "Search OID registry",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

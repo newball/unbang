@@ -4,5 +4,5 @@
   "url": "https://viaplay.com/search?query=%s",
   "description": "Viaplay",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

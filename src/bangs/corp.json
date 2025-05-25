@@ -4,5 +4,5 @@
   "url": "https://opencorporates.com/companies?q=%s",
   "description": "opencorporates",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

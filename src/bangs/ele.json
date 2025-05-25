@@ -4,5 +4,5 @@
   "url": "https://electronjs.org/search?q=%s",
   "description": "Electron",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

@@ -4,5 +4,5 @@
   "url": "https://duck.co/forum/search?q=%s",
   "description": "DuckDuckGo Forum",
   "category": "Online Services",
-  "sub-category": "Search (DDG)"
+  "subcategory": "Search (DDG)"
 }

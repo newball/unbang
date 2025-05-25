@@ -4,5 +4,5 @@
   "url": "https://www.ted.com/search?q=%s",
   "description": "TED",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

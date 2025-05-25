@@ -4,5 +4,5 @@
   "url": "http://yugioh.wikia.com/wiki/Special:Search?search=%s&fulltext=Search",
   "description": "Yu-Gi-Oh! Wikia",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

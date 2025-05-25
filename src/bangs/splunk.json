@@ -4,5 +4,5 @@
   "url": "https://www.splunk.com/en_us/search.html?query=%s",
   "description": "splunk",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

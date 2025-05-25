@@ -4,5 +4,5 @@
   "url": "https://sunrise-sunset.org/search?location=%s",
   "description": "Sunrise Sunset",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

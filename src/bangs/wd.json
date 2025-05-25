@@ -4,5 +4,5 @@
   "url": "https://www.wikidata.org/w/index.php?search=%s",
   "description": "Wikidata",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

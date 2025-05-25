@@ -4,5 +4,5 @@
   "url": "https://www.fifa.com/search/?q=%s",
   "description": "FIFA",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

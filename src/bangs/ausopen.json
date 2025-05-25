@@ -4,5 +4,5 @@
   "url": "https://ausopen.com/search?search=%s",
   "description": "Australian Open",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

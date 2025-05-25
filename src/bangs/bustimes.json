@@ -4,5 +4,5 @@
   "url": "https://bustimes.org/search?q=%s",
   "description": "Bus Times",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

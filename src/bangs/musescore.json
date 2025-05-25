@@ -4,5 +4,5 @@
   "url": "http://musescore.com/sheetmusic?text=%s",
   "description": "MuseScore.com",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

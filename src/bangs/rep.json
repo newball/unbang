@@ -4,5 +4,5 @@
   "url": "http://www.replacements.com/search/?query=%s",
   "description": "Replacements.com",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

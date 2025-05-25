@@ -4,5 +4,5 @@
   "url": "https://www.jpl.nasa.gov/search.php?q=%s",
   "description": "NASA Jet Propulsion Laboratory",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

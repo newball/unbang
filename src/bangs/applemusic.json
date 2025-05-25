@@ -4,5 +4,5 @@
   "url": "https://itunes.apple.com/search?term=%s&entity=musicTrack",
   "description": "Apple Music",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

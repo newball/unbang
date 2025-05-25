@@ -4,5 +4,5 @@
   "url": "http://store.ovi.com/search?q=%s",
   "description": "Ovi Store",
   "category": "Tech",
-  "sub-category": "Downloads (apps)"
+  "subcategory": "Downloads (apps)"
 }

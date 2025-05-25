@@ -4,5 +4,5 @@
   "url": "https://de.gegenstandpunkt.com/artikel/suche?modus=AND&volltextsuche=%s",
   "description": "GegenStandpunkt Verlage",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

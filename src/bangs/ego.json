@@ -4,5 +4,5 @@
   "url": "https://extensions.gnome.org/#search=%s",
   "description": "Gnome Extensions",
   "category": "Tech",
-  "sub-category": "Downloads (add-ons)"
+  "subcategory": "Downloads (add-ons)"
 }

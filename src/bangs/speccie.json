@@ -4,5 +4,5 @@
   "url": "http://www.spectator.co.uk/?s=%s",
   "description": "The Spectator",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

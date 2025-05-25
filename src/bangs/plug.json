@@ -4,5 +4,5 @@
   "url": "http://www.pluggedin.com/search?q=%s",
   "description": "pluggedin",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

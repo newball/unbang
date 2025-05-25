@@ -4,5 +4,5 @@
   "url": "http://www.ratemyprofessors.com/search.jsp?query=%s",
   "description": "Rate My Professor",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

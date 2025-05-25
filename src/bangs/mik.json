@@ -4,5 +4,5 @@
   "url": "https://wiki.mikrotik.com/index.php?search=%s&title=Special:Search&go=Go",
   "description": "Mikrotik Wiki",
   "category": "Tech",
-  "sub-category": "Sysadmin (network)"
+  "subcategory": "Sysadmin (network)"
 }

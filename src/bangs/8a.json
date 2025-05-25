@@ -4,5 +4,5 @@
   "url": "https://www.8a.nu/scorecard/Search.aspx?Mode=SIMPLE&AscentType=0&CragName=%s",
   "description": "8a.nu",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

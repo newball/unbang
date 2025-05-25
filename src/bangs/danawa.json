@@ -4,5 +4,5 @@
   "url": "http://search.danawa.com/dsearch.php?query=%s",
   "description": "Danawa",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

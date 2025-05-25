@@ -4,5 +4,5 @@
   "url": "http://www.tunnelsup.com/subnet-calculator?ip=%s ",
   "description": "Subnet Calculator - TunnelsUp",
   "category": "Tech",
-  "sub-category": "Sysadmin (network)"
+  "subcategory": "Sysadmin (network)"
 }

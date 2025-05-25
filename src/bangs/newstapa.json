@@ -4,5 +4,5 @@
   "url": "http://newstapa.org/?s=%s",
   "description": "Newstapa",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

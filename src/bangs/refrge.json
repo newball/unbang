@@ -4,5 +4,5 @@
   "url": "http://dictionnaire.reverso.net/francais-allemand/%s",
   "description": "Reverso French - German",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "https://etherscan.io/search?q=%s",
   "description": "etherscan",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

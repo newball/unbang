@@ -4,5 +4,5 @@
   "url": "http://untergang.de/index.php?option=search&searchword=%s",
   "description": "Linux und Technik",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

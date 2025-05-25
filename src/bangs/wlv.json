@@ -4,5 +4,5 @@
   "url": "https://lv.wikipedia.org/w/index.php?search=%s",
   "description": "Wikipedia (LV)",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

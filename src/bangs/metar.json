@@ -4,5 +4,5 @@
   "url": "http://av-wx.com/?search=%s&mode=metar",
   "description": "AV-WX (Aviation Weather)",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

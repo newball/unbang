@@ -4,5 +4,5 @@
   "url": "https://kb.workfusion.com/dosearchsite.action?cql=siteSearch+~+%22%s%22&queryString=%s",
   "description": "kb.workfusion.com",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

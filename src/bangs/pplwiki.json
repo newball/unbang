@@ -4,5 +4,5 @@
   "url": "https://thepluginpeople.atlassian.net/wiki/dosearchsite.action?queryString=%s",
   "description": "The Plugin People Wiki",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

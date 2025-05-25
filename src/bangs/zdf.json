@@ -4,5 +4,5 @@
   "url": "https://www.zdf.de/suche?q=%s",
   "description": "ZDF",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

@@ -4,5 +4,5 @@
   "url": "https://cn.bing.com/dict/search?q=%s",
   "description": "Bing 词典",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

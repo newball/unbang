@@ -4,5 +4,5 @@
   "url": "http://www.lazada.sg/catalog/?q=%s",
   "description": "Lazada Singapore",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

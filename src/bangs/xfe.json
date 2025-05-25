@@ -4,5 +4,5 @@
   "url": "https://exchange.xforce.ibmcloud.com/search/%s",
   "description": "IBM X-Force Exchange",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

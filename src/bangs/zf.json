@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s+site:framework.zend.com",
   "description": "zend framework",
   "category": "Tech",
-  "sub-category": "Languages (php)"
+  "subcategory": "Languages (php)"
 }

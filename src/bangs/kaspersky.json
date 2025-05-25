@@ -4,5 +4,5 @@
   "url": "http://support.kaspersky.com/search?query=%s",
   "description": "Kaspersky Lab Technical Support",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

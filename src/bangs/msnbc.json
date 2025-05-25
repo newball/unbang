@@ -4,5 +4,5 @@
   "url": "http://www.msnbc.com/search/%s",
   "description": "MSNBC",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

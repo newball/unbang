@@ -4,5 +4,5 @@
   "url": "https://daviswiki.org/_rsearch/?q=%s",
   "description": "DavisWiki",
   "category": "Research",
-  "sub-category": "Local"
+  "subcategory": "Local"
 }

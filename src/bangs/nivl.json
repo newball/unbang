@@ -4,5 +4,5 @@
   "url": "https://images.nasa.gov/search-results?searchInput=%s",
   "description": "NASA Image and Video Library",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

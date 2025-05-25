@@ -4,5 +4,5 @@
   "url": "https://www.japanesevehicles.com/stocklist.php?qsearch_kbn=1&lang=en&opt=0&qsearch=%s",
   "description": "JapaneseVehicles.com",
   "category": "Shopping",
-  "sub-category": "Online (intl)"
+  "subcategory": "Online (intl)"
 }

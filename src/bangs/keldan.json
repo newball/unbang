@@ -4,5 +4,5 @@
   "url": "https://leit.keldan.is/Home/Search?term=%s",
   "description": "Keldan",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

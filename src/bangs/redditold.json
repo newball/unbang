@@ -4,5 +4,5 @@
   "url": "https://old.reddit.com/search?q=%s",
   "description": "Reddit (old version)",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

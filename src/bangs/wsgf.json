@@ -4,5 +4,5 @@
   "url": "http://www.wsgf.org/mgl?title_op=contains&game_name=%s",
   "description": "Widescreen Gaming Forum",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

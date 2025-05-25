@@ -4,5 +4,5 @@
   "url": "https://peer.asee.org/?q=%s",
   "description": "Papers on Engineering Education Repository (ASEE PEER)",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

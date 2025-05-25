@@ -4,5 +4,5 @@
   "url": "http://in.bookmyshow.com/search/results/?_s=0.2&search=%s",
   "description": "BookMY Show",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

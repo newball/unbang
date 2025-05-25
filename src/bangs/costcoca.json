@@ -4,5 +4,5 @@
   "url": "https://www.costco.ca/CatalogSearch?dept=All&keyword=%s",
   "description": "Costco Canada",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

@@ -4,5 +4,5 @@
   "url": "http://shop.ebay.com.hk/?_nkw=%s&_sacat=See-All-Categories",
   "description": "ebay.com.hk",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

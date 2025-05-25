@@ -4,5 +4,5 @@
   "url": "https://www.msn.al/?s=%s",
   "description": "MSN",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.business.gov.au/search?q=%s",
   "description": "Business.gov.au",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

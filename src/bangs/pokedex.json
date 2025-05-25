@@ -4,5 +4,5 @@
   "url": "https://www.pokemon.com/us/pokedex/%s",
   "description": "Pokemon Official Website Pokedex",
   "category": "Entertainment",
-  "sub-category": "Games (Pokemon)"
+  "subcategory": "Games (Pokemon)"
 }

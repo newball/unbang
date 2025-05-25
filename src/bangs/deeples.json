@@ -4,5 +4,5 @@
   "url": "https://www.deepl.com/translator#en/es/%s",
   "description": "DeepL Translator",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

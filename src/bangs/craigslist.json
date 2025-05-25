@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s+site%3Acraigslist.org",
   "description": "Craigslist",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

@@ -4,5 +4,5 @@
   "url": "http://lammps.sandia.gov/doc/search.html?q=%s",
   "description": "LAMMPS Documentation",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

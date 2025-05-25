@@ -4,5 +4,5 @@
   "url": "https://www.brainpop.com/search/?keyword=%s",
   "description": "BrainPOP",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

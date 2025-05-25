@@ -4,5 +4,5 @@
   "url": "https://www.chess.com/topic/%s",
   "description": "Chess.com",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

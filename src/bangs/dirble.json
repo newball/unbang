@@ -4,5 +4,5 @@
   "url": "http://dirble.com/search?q=%s",
   "description": "Dirble",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

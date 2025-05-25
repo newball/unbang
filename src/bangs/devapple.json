@@ -4,5 +4,5 @@
   "url": "https://developer.apple.com/search/index.php?q=%s",
   "description": "Apple Developer",
   "category": "Tech",
-  "sub-category": "Languages (cocoa)"
+  "subcategory": "Languages (cocoa)"
 }

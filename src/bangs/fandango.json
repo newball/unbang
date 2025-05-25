@@ -4,5 +4,5 @@
   "url": "http://www.fandango.com/search/?q=%s",
   "description": "Fandango",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

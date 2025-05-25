@@ -4,5 +4,5 @@
   "url": "http://www.reittiopas.fi/?showsearchformsaved=hide&from_in= %s&from=&via_in=&via=&via_time=0&to_in= %s&to=&hour=15&minute=39&timetype=departure&date_cb=on&day=7&month=7&year=2015&cmargin=3&wspeed=70&method=1&stz=0&mc1=0&mc2=0&mc3=0&mc4=0&mc5=0&mc6=0&mc0=1&nroutes=3&gotoHash=",
   "description": "Reittiopas",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

@@ -4,5 +4,5 @@
   "url": "http://chocolatey.org/packages?q=%s",
   "description": "Chocolatey",
   "category": "Tech",
-  "sub-category": "Downloads (apps)"
+  "subcategory": "Downloads (apps)"
 }

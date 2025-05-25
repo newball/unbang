@@ -4,5 +4,5 @@
   "url": "http://alatest.de/searchaction.html?keyword1=%s",
   "description": "alaTest",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

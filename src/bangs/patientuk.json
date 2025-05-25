@@ -4,5 +4,5 @@
   "url": "https://patient.info/search.asp?searchterm=%s",
   "description": "Patient.co.uk",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

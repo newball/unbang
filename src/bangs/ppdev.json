@@ -4,5 +4,5 @@
   "url": "https://developer.paypal.com/search/?q=%s",
   "description": "PayPal Developer",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

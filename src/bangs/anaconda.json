@@ -4,5 +4,5 @@
   "url": "https://anaconda.org/search?q=%s",
   "description": "Anaconda Cloud",
   "category": "Tech",
-  "sub-category": "Downloads (software)"
+  "subcategory": "Downloads (software)"
 }

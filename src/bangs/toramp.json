@@ -4,5 +4,5 @@
   "url": "http://www.toramp.com/search.php?search=%s",
   "description": "toramp.com",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

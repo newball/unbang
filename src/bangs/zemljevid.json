@@ -4,5 +4,5 @@
   "url": "http://zemljevid.najdi.si/search_maps.jsp?q=%s",
   "description": "Zemljevid Najdi.si",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

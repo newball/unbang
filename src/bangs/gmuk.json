@@ -4,5 +4,5 @@
   "url": "https://www.google.co.uk/maps/place/%s ",
   "description": "Google Maps",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.bbc.co.uk/food/recipes/search?keywords=%s&x=0&y=0",
   "description": "BBC Food",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

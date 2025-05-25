@@ -4,5 +4,5 @@
   "url": "https://launchpad.support.sap.com/#/solutions/notes/?q=%s",
   "description": "SAP Notes",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

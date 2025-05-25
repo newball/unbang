@@ -4,5 +4,5 @@
   "url": "https://fi.wikipedia.org/wiki/%s",
   "description": "Wikipedia Finland",
   "category": "Research",
-  "sub-category": "Topical"
+  "subcategory": "Topical"
 }

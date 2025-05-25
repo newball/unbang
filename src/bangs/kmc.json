@@ -4,5 +4,5 @@
   "url": "https://knowledge.kaltura.com/search?search_api_views_fulltext=%s",
   "description": "Kaltura",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

@@ -4,5 +4,5 @@
   "url": "https://together.bunq.com/?q=%s",
   "description": "bunq Together",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

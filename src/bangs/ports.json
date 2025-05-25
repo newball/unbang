@@ -4,5 +4,5 @@
   "url": "http://www.speedguide.net/port.php?port=%s",
   "description": "Speedguide.net Port Lookup",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

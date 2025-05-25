@@ -4,5 +4,5 @@
   "url": "http://www.albumart.org/index.php?skey=%s&itempage=1&newsearch=1&searchindex=Music",
   "description": "Albumart (Music)",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

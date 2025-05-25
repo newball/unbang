@@ -4,5 +4,5 @@
   "url": "http://whosampled.com/search/?q=%s",
   "description": "Who Sampled",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

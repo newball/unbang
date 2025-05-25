@@ -4,5 +4,5 @@
   "url": "http://search.disney.go.com/?q=%s",
   "description": "Disney.com",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

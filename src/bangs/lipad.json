@@ -4,5 +4,5 @@
   "url": "https://www.lipad.ca/search/?q=%s",
   "description": "Linked Parliamentary Data: Canadian Hansard Dataset",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

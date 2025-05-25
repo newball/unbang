@@ -4,5 +4,5 @@
   "url": "https://searchcode.com/?q=%s",
   "description": "Searchcode",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

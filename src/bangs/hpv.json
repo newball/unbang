@@ -4,5 +4,5 @@
   "url": "http://www.heise.de/preisvergleich/?fs=%s",
   "description": "Heise.de Preisvergleich",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

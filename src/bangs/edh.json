@@ -4,5 +4,5 @@
   "url": "https://www.elsalvador.com/search?s=%s",
   "description": "El Diario de Hoy",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

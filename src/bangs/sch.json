@@ -4,5 +4,5 @@
   "url": "https://startpage.com/do/search?cmd=process_search&query=%s&language=deutsch&with_region=countryCH",
   "description": "Startpage (Switzerland)",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

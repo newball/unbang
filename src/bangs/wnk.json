@@ -4,5 +4,5 @@
   "url": "https://www.wordnik.com/words/?myWord=%s",
   "description": "Wordnik",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

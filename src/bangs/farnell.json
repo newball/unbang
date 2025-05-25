@@ -4,5 +4,5 @@
   "url": "http://uk.farnell.com/webapp/wcs/stores/servlet/Search?&st=%s",
   "description": "Farnell (UK)",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

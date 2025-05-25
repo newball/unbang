@@ -4,5 +4,5 @@
   "url": "http://so.cntv.cn/language/english/?qtext=%s",
   "description": "CCTV",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

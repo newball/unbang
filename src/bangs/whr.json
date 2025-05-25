@@ -4,5 +4,5 @@
   "url": "http://hr.wikipedia.org/w/index.php?search=%s",
   "description": "Wikipedija",
   "category": "Research",
-  "sub-category": "Learning (intl)"
+  "subcategory": "Learning (intl)"
 }

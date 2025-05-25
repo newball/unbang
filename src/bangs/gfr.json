@@ -4,5 +4,5 @@
   "url": "http://www.google.fr/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
   "description": "Google FR",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

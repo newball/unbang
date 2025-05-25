@@ -4,5 +4,5 @@
   "url": "http://apastyle.org/search.aspx?query=%s",
   "description": "APA Style",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

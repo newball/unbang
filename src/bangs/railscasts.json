@@ -4,5 +4,5 @@
   "url": "http://railscasts.com/?search=%s",
   "description": "RailsCasts",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

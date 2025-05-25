@@ -4,5 +4,5 @@
   "url": "https://www.fressnapf.de/s/search?text=%s",
   "description": "fressnapf.de",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

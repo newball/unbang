@@ -4,5 +4,5 @@
   "url": "https://phabricator.wikimedia.org/search/?query=%s",
   "description": "Wikimedia Phabricator installation",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

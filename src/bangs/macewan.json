@@ -4,5 +4,5 @@
   "url": "https://library.macewan.ca/library-search?query=%s",
   "description": "Macewan Library",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

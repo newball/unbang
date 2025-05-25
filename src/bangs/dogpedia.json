@@ -4,5 +4,5 @@
   "url": "http://www.dogpedia.org/?s=%s",
   "description": "DogPedia",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

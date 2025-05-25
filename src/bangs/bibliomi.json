@@ -4,5 +4,5 @@
   "url": "https://milano.biblioteche.it/opac/search/lst?q=%s",
   "description": "Sistema Bibliotecario di Milano",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

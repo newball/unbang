@@ -4,5 +4,5 @@
   "url": "https://www.ticmate.com/search?freeText=%s",
   "description": "Ticmate",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

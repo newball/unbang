@@ -4,5 +4,5 @@
   "url": "https://support.google.com/search?q=%s",
   "description": "Google Support",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

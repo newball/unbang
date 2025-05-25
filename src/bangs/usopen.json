@@ -4,5 +4,5 @@
   "url": "https://www.usopen.org/en_US/search/results.html?query=%s",
   "description": "US Open Tennis",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

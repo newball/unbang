@@ -4,5 +4,5 @@
   "url": "https://www.xe.com/currencyconverter/convert/?Amount=%s&From=GBP&To=NZD",
   "description": "xe",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

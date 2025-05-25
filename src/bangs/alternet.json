@@ -4,5 +4,5 @@
   "url": "https://www.alternet.org/search/site/%s",
   "description": "Alternet",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

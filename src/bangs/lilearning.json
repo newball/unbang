@@ -4,5 +4,5 @@
   "url": "https://www.linkedin.com/learning/search?keywords=%s",
   "description": "LinkedIn Learning",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

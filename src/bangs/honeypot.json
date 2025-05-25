@@ -4,5 +4,5 @@
   "url": "http://www.projecthoneypot.org/ip_%s",
   "description": "Project Honey Pot",
   "category": "Tech",
-  "sub-category": "Sysadmin (network)"
+  "subcategory": "Sysadmin (network)"
 }

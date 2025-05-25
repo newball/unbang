@@ -4,5 +4,5 @@
   "url": "https://www.kroger.com/search?query=%s",
   "description": "Kroger",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

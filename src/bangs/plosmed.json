@@ -4,5 +4,5 @@
   "url": "http://www.plosmedicine.org/search/simple?query=%s&filterJournals=PLoSMedicine",
   "description": "PLoS Medicine",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

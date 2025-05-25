@@ -4,5 +4,5 @@
   "url": "https://valadoc.org/?q=%s",
   "description": "Valadoc",
   "category": "Tech",
-  "sub-category": "Languages (vala)"
+  "subcategory": "Languages (vala)"
 }

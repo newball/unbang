@@ -4,5 +4,5 @@
   "url": "https://primenow.amazon.com/search?k=%s",
   "description": "Amazon Prime NOW",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

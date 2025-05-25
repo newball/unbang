@@ -4,5 +4,5 @@
   "url": "http://aliseeks.com/search?SearchText=%s",
   "description": "Aliseeks",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

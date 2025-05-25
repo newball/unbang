@@ -4,5 +4,5 @@
   "url": "https://www.ebay.ch/sch/items/?_nkw=%s",
   "description": "ebay.ch",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

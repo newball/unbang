@@ -4,5 +4,5 @@
   "url": "http://www.tripdatabase.com/search?criteria=%s",
   "description": "Trip Database",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

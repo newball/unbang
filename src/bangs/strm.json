@@ -4,5 +4,5 @@
   "url": "https://stream.org/?s=%s",
   "description": "The Stream",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

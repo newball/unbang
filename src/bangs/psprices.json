@@ -4,5 +4,5 @@
   "url": "https://psprices.com/search/?q=%s",
   "description": "PSPrices",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

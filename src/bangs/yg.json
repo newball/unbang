@@ -4,5 +4,5 @@
   "url": "https://www.yeastgenome.org/search?q=%s",
   "description": "Saccharomyces Genome Database",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

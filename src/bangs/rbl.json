@@ -4,5 +4,5 @@
   "url": "http://www.dnswatch.info/dns/rbl-lookup?host=%s&submit=RBL+Lookup",
   "description": "RBL Lookup",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

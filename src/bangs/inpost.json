@@ -4,5 +4,5 @@
   "url": "https://inpost.pl/pl/pomoc/znajdz-przesylke?parcel=%s",
   "description": "InPost",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

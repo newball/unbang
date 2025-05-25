@@ -4,5 +4,5 @@
   "url": "http://abr.business.gov.au/Search.aspx?SearchText=%s",
   "description": "ABN Lookup",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

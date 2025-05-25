@@ -4,5 +4,5 @@
   "url": "https://news.google.com/search?q=%s&hl=sv&gl=SE&ceid=SE%3Asv",
   "description": "Google News Sweden",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

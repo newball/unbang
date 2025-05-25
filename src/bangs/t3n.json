@@ -4,5 +4,5 @@
   "url": "http://t3n.de/search?q=%s",
   "description": "t3n",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

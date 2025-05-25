@@ -4,5 +4,5 @@
   "url": "https://www.winehq.org/search?q=%s",
   "description": "WineHQ",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

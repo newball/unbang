@@ -4,5 +4,5 @@
   "url": "https://juejin.im/search?query= %s&type=all",
   "description": "Juejin",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

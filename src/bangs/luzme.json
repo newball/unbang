@@ -4,5 +4,5 @@
   "url": "http://luzme.com/search_all?keyword=%s",
   "description": "Luzme",
   "category": "Shopping",
-  "sub-category": "Online (intl)"
+  "subcategory": "Online (intl)"
 }

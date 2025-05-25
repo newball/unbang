@@ -4,5 +4,5 @@
   "url": "http://social.wakoopa.com/search?query=%s",
   "description": "Wakoopa",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.amazon.nl/s?k=%s",
   "description": "Amazon Nederland",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

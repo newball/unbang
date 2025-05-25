@@ -4,5 +4,5 @@
   "url": "http://www.connectny.info/search/?searchtype=X&SORT=D&searcharg=%s",
   "description": "Connect NY",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

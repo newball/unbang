@@ -4,5 +4,5 @@
   "url": "https://www.sbs.com.au/ondemand/search/%s",
   "description": "SBS On Demand",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

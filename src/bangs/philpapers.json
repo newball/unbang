@@ -4,5 +4,5 @@
   "url": "http://philpapers.org/s/%s",
   "description": "PhilPapers",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

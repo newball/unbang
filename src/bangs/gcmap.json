@@ -4,5 +4,5 @@
   "url": "http://www.gcmap.com/mapui?P=%s",
   "description": "Great Circle Mapper",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

@@ -4,5 +4,5 @@
   "url": "https://shikimori.org/animes?search=%s",
   "description": "Shikimori",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

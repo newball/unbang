@@ -4,5 +4,5 @@
   "url": "https://mangadex.org/search?tag_mode_exc=any&tag_mode_inc=all&title=%s",
   "description": "https://mangadex.org/",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

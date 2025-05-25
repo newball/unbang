@@ -4,5 +4,5 @@
   "url": "http://find.5ch.net/search?q=%s",
   "description": "5channel",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

@@ -4,5 +4,5 @@
   "url": "http://search.irs.gov/search?q=%s&proxystylesheet=irs_portals_frontend",
   "description": "IRS",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

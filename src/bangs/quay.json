@@ -4,5 +4,5 @@
   "url": "https://quay.io/search?q=%s",
   "description": "Quay",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

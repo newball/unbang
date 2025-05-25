@@ -4,5 +4,5 @@
   "url": "http://awoiaf.westeros.org/index.php?search=%s&title=Special%3ASearch&go=Go",
   "description": "A Wiki of Ice and Fire",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

@@ -4,5 +4,5 @@
   "url": "https://bugs.webkit.org/buglist.cgi?quicksearch=%s",
   "description": "WebKit Bugzilla",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

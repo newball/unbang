@@ -4,5 +4,5 @@
   "url": "https://activetracing.dhl.com/DatPublic/datSelection.do?search=consignmentId&at=cons_ordercode&valueShipmentOrderField=%s&focus=search2&searchConsignmentId=track",
   "description": "DHL Freight",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

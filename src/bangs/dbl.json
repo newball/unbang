@@ -4,5 +4,5 @@
   "url": "https://discordbots.org/search?q=%s",
   "description": "Discord Bot List",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

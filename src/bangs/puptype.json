@@ -4,5 +4,5 @@
   "url": "https://docs.puppet.com/puppet/latest/type.html#%s",
   "description": "Puppet Docs",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

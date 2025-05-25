@@ -4,5 +4,5 @@
   "url": "https://photos.google.com/search/%s",
   "description": "Google Photos",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

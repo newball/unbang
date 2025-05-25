@@ -4,5 +4,5 @@
   "url": "http://cliqist.com/?s=%s",
   "description": "Cliqist",
   "category": "Entertainment",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

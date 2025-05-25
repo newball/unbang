@@ -4,5 +4,5 @@
   "url": "http://www.scala-lang.org/api/current/?search=%s",
   "description": "Scala doc",
   "category": "Tech",
-  "sub-category": "Languages (scala)"
+  "subcategory": "Languages (scala)"
 }

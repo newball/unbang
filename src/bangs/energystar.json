@@ -4,5 +4,5 @@
   "url": "http://essearch.energystar.gov/search?query=%s&affiliate=www.energystar.gov",
   "description": "Energy Star",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

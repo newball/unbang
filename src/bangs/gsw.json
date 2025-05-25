@@ -4,5 +4,5 @@
   "url": "https://wiki.greasespot.net/index.php?title=Special%3ASearch&fulltext=Search&search=%s",
   "description": "GreaseSpot Wiki",
   "category": "Tech",
-  "sub-category": "Languages (javascript)"
+  "subcategory": "Languages (javascript)"
 }

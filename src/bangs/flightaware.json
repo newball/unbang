@@ -4,5 +4,5 @@
   "url": "https://flightaware.com/live/flight/%s ",
   "description": "Flightaware",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

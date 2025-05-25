@@ -4,5 +4,5 @@
   "url": "https://www.voicy.network/clips/search?search=%s",
   "description": "Voicy Network",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

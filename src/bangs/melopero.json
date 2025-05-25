@@ -4,5 +4,5 @@
   "url": "https://www.melopero.com/?s=%s&post_type=product",
   "description": "Melopero",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

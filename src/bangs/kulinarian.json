@@ -4,5 +4,5 @@
   "url": "https://www.kulinarian.com/recipe/search?q=%s",
   "description": "kulinarian",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

@@ -4,5 +4,5 @@
   "url": "http://manpage.me/?q=%s",
   "description": "Man Page",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

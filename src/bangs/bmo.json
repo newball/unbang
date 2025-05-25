@@ -4,5 +4,5 @@
   "url": "https://bugzilla.mozilla.org/buglist.cgi?quicksearch=%s",
   "description": "Mozilla Bugzilla",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

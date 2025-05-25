@@ -4,5 +4,5 @@
   "url": "https://tv.youtube.com/search/%s",
   "description": "Youtube TV",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

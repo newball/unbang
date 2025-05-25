@@ -4,5 +4,5 @@
   "url": "https://www.meteoblue.com/?q=%s",
   "description": "meteoblue",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

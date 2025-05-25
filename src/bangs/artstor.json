@@ -4,5 +4,5 @@
   "url": "https://library.artstor.org/#/search/%s;page=1;size=48",
   "description": "ArtStor",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.svartling.net/search?q=%s",
   "description": "Svartling Network",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

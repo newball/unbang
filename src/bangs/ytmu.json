@@ -4,5 +4,5 @@
   "url": "https://music.youtube.com/search?q=%s",
   "description": "YouTube Music",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

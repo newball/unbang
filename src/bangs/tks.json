@@ -4,5 +4,5 @@
   "url": "http://trakt.tv/search/shows?q=%s",
   "description": "Trakt Shows",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

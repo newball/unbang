@@ -4,5 +4,5 @@
   "url": "http://pl.bab.la/slownik/angielski-polski/%s",
   "description": "Bab.la",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

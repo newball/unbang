@@ -4,5 +4,5 @@
   "url": "https://www.macquariedictionary.com.au/features/word/search/?word=%s&search_word_type=Dictionary",
   "description": "Macquarie Dictionary",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

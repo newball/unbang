@@ -4,5 +4,5 @@
   "url": "http://crossclj.info/search?q=%s",
   "description": "CrossClj",
   "category": "Tech",
-  "sub-category": "Languages (clojure)"
+  "subcategory": "Languages (clojure)"
 }

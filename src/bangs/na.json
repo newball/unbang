@@ -4,5 +4,5 @@
   "url": "https://search.naver.com/search.naver?query=%s",
   "description": "NAVER",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

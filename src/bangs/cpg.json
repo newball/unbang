@@ -4,5 +4,5 @@
   "url": "https://cygwin.com/cgi-bin2/package-grep.cgi?grep=%s",
   "description": "Cygwin Package Grep",
   "category": "Tech",
-  "sub-category": "Downloads (software)"
+  "subcategory": "Downloads (software)"
 }

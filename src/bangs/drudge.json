@@ -4,5 +4,5 @@
   "url": "http://www.drudgereportarchives.com/dsp/search.htm?searchFor=%s",
   "description": "Drudge Report",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

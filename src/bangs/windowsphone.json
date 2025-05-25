@@ -4,5 +4,5 @@
   "url": "https://www.microsoft.com/en-us/search/result.aspx?q=%s&form=apps",
   "description": "Windows Phone",
   "category": "Tech",
-  "sub-category": "Downloads (apps)"
+  "subcategory": "Downloads (apps)"
 }

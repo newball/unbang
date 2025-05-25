@@ -4,5 +4,5 @@
   "url": "https://www.compumundo.com.ar/q/%s/srch?q=%s",
   "description": "Compumundo",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

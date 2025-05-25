@@ -4,5 +4,5 @@
   "url": "http://www.canoonet.eu/services/Controller?input=%s",
   "description": "canoonet",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

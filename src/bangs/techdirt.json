@@ -4,5 +4,5 @@
   "url": "http://www.techdirt.com/search.php?site=&q=%s",
   "description": "TechDirt",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

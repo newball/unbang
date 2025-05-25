@@ -4,5 +4,5 @@
   "url": "https://ko.wiktionary.org/wiki/%s",
   "description": "위키낱말사전",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.npo.nl/zoeken?term=%s",
   "description": "NPO",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

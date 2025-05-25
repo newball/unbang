@@ -4,5 +4,5 @@
   "url": "https://java.libhunt.com/search?query=%s",
   "description": "Java LibHunt",
   "category": "Tech",
-  "sub-category": "Languages (java)"
+  "subcategory": "Languages (java)"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.aptoide.com/search/view?search_top= %s &x=0&y=0",
   "description": "Aptoide",
   "category": "Tech",
-  "sub-category": "Downloads (apps)"
+  "subcategory": "Downloads (apps)"
 }

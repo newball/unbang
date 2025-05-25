@@ -4,5 +4,5 @@
   "url": "https://trac.torproject.org/projects/tor/search?q=%s ",
   "description": "Torproject Wiki",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

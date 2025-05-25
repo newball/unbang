@@ -4,5 +4,5 @@
   "url": "http://hitchwiki.org/en/index.php?search=%s&fulltext=Search&title=Special%3ASearch",
   "description": "Hitchwiki",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

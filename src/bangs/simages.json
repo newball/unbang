@@ -4,5 +4,5 @@
   "url": "https://startpage.com/do/metasearch.pl?cat=pics&query=%s",
   "description": "Startpage Picture Search",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

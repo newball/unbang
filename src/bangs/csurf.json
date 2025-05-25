@@ -4,5 +4,5 @@
   "url": "https://www.couchsurfing.com/?q=%s",
   "description": "Couchsurfing.org",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "https://search.pmi.org/default.aspx?q=%s",
   "description": "Project Management Institute",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "http://dashradio.com/?q=%s",
   "description": "Dash Radio",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

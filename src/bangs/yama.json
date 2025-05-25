@@ -4,5 +4,5 @@
   "url": "https://market.yandex.ru/search?text=%s",
   "description": "Yandex.Market",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

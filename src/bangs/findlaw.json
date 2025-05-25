@@ -4,5 +4,5 @@
   "url": "http://public.findlaw.com/LCsearch.html?entry=%s",
   "description": "FindLaw",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

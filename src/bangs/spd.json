@@ -4,5 +4,5 @@
   "url": "http://packages.speedeedelivery.com/packageDetail.php?barcode=%s",
   "description": "SpeeDee Delivery",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

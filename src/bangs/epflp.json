@@ -4,5 +4,5 @@
   "url": "http://plan.epfl.ch/?room=%s",
   "description": "EPFL Plan",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.dagjeweg.nl/zoeken?dq=%s",
   "description": "DagjeWeg.NL",
   "category": "Entertainment",
-  "sub-category": "Events"
+  "subcategory": "Events"
 }

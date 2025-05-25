@@ -4,5 +4,5 @@
   "url": "https://www.medicines.org.uk/emc/search?q= %s",
   "description": "Electronic Medicines Compendium",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

@@ -4,5 +4,5 @@
   "url": "http://reference.wolfram.com/search/?q=%s",
   "description": "Mathematica",
   "category": "Tech",
-  "sub-category": "Languages (Mathematica)"
+  "subcategory": "Languages (Mathematica)"
 }

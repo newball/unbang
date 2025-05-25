@@ -4,5 +4,5 @@
   "url": "https://find.library.duke.edu/?search_field=all_fields&q=%s",
   "description": "Duke University Catalog",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

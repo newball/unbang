@@ -4,5 +4,5 @@
   "url": "http://www.telegraaf.nl/zoeken/%s",
   "description": "Telegraaf",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

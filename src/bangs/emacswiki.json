@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site:emacswiki.org+%s",
   "description": "EmacsWiki.org",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

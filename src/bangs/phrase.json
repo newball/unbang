@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site:phrases.org.uk%20%s",
   "description": "phrases.org.uk",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

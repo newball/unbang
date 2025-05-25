@@ -4,5 +4,5 @@
   "url": "https://explicativolinux.wordpress.com/?s=%s",
   "description": "Explicativo Linux",
   "category": "Tech",
-  "sub-category": "Sysadmin (debian)"
+  "subcategory": "Sysadmin (debian)"
 }

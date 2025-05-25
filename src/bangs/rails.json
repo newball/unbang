@@ -4,5 +4,5 @@
   "url": "http://api.rubyonrails.org/?q=%s",
   "description": "Rails API",
   "category": "Tech",
-  "sub-category": "Languages (ruby)"
+  "subcategory": "Languages (ruby)"
 }

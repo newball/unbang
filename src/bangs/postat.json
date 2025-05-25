@@ -4,5 +4,5 @@
   "url": "https://www.post.at/sendungsverfolgung.php/details?pnum1=%s",
   "description": "Post.at",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

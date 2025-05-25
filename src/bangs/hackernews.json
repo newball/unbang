@@ -4,5 +4,5 @@
   "url": "http://hn.algolia.com/#!/all/forever/0/%s",
   "description": "Hacker News",
   "category": "Online Services",
-  "sub-category": "Social news/links"
+  "subcategory": "Social news/links"
 }

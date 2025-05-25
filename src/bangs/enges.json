@@ -4,5 +4,5 @@
   "url": "http://es.engadget.com/search/?q=%s",
   "description": "Engadget en español",
   "category": "Tech",
-  "sub-category": "Blogs (intl)"
+  "subcategory": "Blogs (intl)"
 }

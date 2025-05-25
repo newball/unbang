@@ -4,5 +4,5 @@
   "url": "http://programmers.stackexchange.com/search?q=%s",
   "description": "programmers.stackexchange.com",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

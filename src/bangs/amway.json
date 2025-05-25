@@ -4,5 +4,5 @@
   "url": "https://www.amway.com/Shop/Search/SearchResults.aspx?searchkeyword=%s",
   "description": "Amway.com",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

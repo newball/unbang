@@ -4,5 +4,5 @@
   "url": "https://www.sitepoint.com/?s=%s",
   "description": "Sitepoint",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

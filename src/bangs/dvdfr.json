@@ -4,5 +4,5 @@
   "url": "http://www.dvdfr.com/search/search.php?produit=all&title=%s",
   "description": "DVDFr",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

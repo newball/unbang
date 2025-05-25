@@ -4,5 +4,5 @@
   "url": "http://katalog.bppn.waw.pl/F?func=find-b&request=%s&find_code=WRD&adjacent=N&local_base=PRA01&x=0&y=0&filter_code_1=WLN&filter_request_1=&filter_code_2=WYR&filter_request_2=&filter_code_3=WYR&filter_request_3=&filter_code_4=WFM&filter_request_4=&filter_code_5=WSL&filter_request_5=",
   "description": "Bppn",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

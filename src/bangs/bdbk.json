@@ -4,5 +4,5 @@
   "url": "https://wapbaike.baidu.com/search/word?word=%s",
   "description": "BaiduBaike",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

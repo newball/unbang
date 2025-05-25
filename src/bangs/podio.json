@@ -4,5 +4,5 @@
   "url": "https://podio.com/search#/query/%s",
   "description": "Podio",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

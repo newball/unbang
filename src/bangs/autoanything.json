@@ -4,5 +4,5 @@
   "url": "http://www.autoanything.com/shop/%s",
   "description": "AutoAnything",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

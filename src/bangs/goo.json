@@ -4,5 +4,5 @@
   "url": "http://search.goo.ne.jp/web.jsp?MT=%s&IE=UTF-8&OE=UTF-8",
   "description": "goo検索",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

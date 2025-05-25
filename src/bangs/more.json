@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site:https://www.mobileread.com%20%s",
   "description": "MobileRead",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

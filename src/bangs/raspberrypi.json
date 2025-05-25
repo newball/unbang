@@ -4,5 +4,5 @@
   "url": "http://www.raspberrypi.org/?s=%s",
   "description": "Raspberry Pi",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

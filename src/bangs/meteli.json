@@ -4,5 +4,5 @@
   "url": "http://www.meteli.net/tapahtumahaku?q=%s",
   "description": "Meteli",
   "category": "Entertainment",
-  "sub-category": "Events"
+  "subcategory": "Events"
 }

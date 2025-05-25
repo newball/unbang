@@ -4,5 +4,5 @@
   "url": "http://www.barnesandnoble.com/s/%s",
   "description": "Barnes and Noble",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

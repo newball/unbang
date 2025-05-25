@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#auto/mg/%s",
   "description": "Detect language to Malagasy",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

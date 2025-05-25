@@ -4,5 +4,5 @@
   "url": "https://cubehero.com/search?q=%s",
   "description": "Cube Hero",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

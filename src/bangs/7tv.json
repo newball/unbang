@@ -4,5 +4,5 @@
   "url": "https://www.7tv.de/suche?q=%s",
   "description": "7TV",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

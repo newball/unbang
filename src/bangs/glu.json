@@ -4,5 +4,5 @@
   "url": "https://www.google.lu/search?q=%s",
   "description": "Google Luxembourg",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

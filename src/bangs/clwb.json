@@ -4,5 +4,5 @@
   "url": "https://clwb.net/?post_type=event&s=%s",
   "description": "clwb",
   "category": "Entertainment",
-  "sub-category": "Events"
+  "subcategory": "Events"
 }

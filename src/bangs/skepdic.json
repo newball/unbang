@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s+site:skepdic.com",
   "description": "The Skeptic's Dictionary",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

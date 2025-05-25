@@ -4,5 +4,5 @@
   "url": "https://www.reddit.com/search?q=%s",
   "description": "Reddit",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

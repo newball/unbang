@@ -4,5 +4,5 @@
   "url": "https://kaffee.citadella.de/de/suche?controller=search&s=%s",
   "description": "Citadella Online Kaffee Shop",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

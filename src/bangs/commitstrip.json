@@ -4,5 +4,5 @@
   "url": "http://www.commitstrip.com/?s=%s",
   "description": "Commit Strip",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

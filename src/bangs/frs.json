@@ -4,5 +4,5 @@
   "url": "http://www.freesound.org/search/?q=%s",
   "description": "Freesound",
   "category": "Multimedia",
-  "sub-category": "General"
+  "subcategory": "General"
 }

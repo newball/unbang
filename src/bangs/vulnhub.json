@@ -4,5 +4,5 @@
   "url": "https://www.vulnhub.com/?q=%s&sort=date-asc&type=vm",
   "description": "Vulnhub",
   "category": "Tech",
-  "sub-category": "Downloads"
+  "subcategory": "Downloads"
 }

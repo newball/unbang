@@ -4,5 +4,5 @@
   "url": "https://marketplace.graylog.org/addons?search=%s",
   "description": "Graylog Marketplace",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

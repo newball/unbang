@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site%3A+freecadweb.org+%s",
   "description": "FreeCAD",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

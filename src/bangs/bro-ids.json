@@ -4,5 +4,5 @@
   "url": "https://www.bro.org/sphinx/search.html?check_keywords=yes&q=%s",
   "description": "The Bro Network Security Monitor",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

@@ -4,5 +4,5 @@
   "url": "http://cortas.elpais.com/encode.pl?u=http://%s",
   "description": "Cortas",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

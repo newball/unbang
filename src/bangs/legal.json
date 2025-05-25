@@ -4,5 +4,5 @@
   "url": "http://scholar.google.com/scholar?hl=en&q=%s&btnG=Search&as_sdt=2%2C5&as_ylo=&as_vis=0",
   "description": "Google Scholar - Legal Opinion Section",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

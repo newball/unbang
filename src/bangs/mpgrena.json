@@ -4,5 +4,5 @@
   "url": "http://rena.mpdl.mpg.de/rena/Search/Results?lookfor=%s",
   "description": "MPG.ReNa - Max Planck Reseource Navigator",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

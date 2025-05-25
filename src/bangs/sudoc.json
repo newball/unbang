@@ -4,5 +4,5 @@
   "url": "http://www.sudoc.abes.fr//DB=2.1/TTL=1/CMD?ACT=SRCHA&IKT=1016&SRT=RLV&TRM=%s",
   "description": "Sudoc",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

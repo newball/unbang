@@ -4,5 +4,5 @@
   "url": "http://chaitan.cloudapp.net/justcompare/search?q=%s",
   "description": "JustCompare",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://pleiades.stoa.org/search?SearchableText=%s&portal_type=Place&submit=Search",
   "description": "Pleiades",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

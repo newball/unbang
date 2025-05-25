@@ -4,5 +4,5 @@
   "url": "http://www.boulanger.com/resultats?tr=%s",
   "description": "Boulanger",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

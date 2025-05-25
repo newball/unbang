@@ -4,5 +4,5 @@
   "url": "https://www.linguee.com/english-french/search?source=auto&query=%s",
   "description": "linguee",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

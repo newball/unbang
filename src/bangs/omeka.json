@@ -4,5 +4,5 @@
   "url": "https://forum.omeka.org/search?q=%s",
   "description": "Omeka Forums",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

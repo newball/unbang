@@ -4,5 +4,5 @@
   "url": "http://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=1&sess=1&keyword=%s&stype=1&ctype=&starfr=&starto=&atkfr=&atkto=&deffr=&defto=&othercon=1",
   "description": "Yu-Gi-Oh! Card Database",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

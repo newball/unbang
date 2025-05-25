@@ -4,5 +4,5 @@
   "url": "https://addons.thunderbird.net/en-US/thunderbird/search/?q=%s",
   "description": "Add-ons for Thunderbird",
   "category": "Tech",
-  "sub-category": "Downloads (add-ons)"
+  "subcategory": "Downloads (add-ons)"
 }

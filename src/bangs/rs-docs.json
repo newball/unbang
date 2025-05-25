@@ -4,5 +4,5 @@
   "url": "https://docs.rs/%s",
   "description": "docs.rs (rust crate documentation)",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

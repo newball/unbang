@@ -4,5 +4,5 @@
   "url": "http://fi.wikipedia.org/w/index.php?search=%s ",
   "description": "Wikipedia-FI",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "http://oz.by/search/?q=%s",
   "description": "OZ.by",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "https://protocols.io/search?key=%s",
   "description": "Protocols.io",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

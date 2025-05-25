@@ -4,5 +4,5 @@
   "url": "http://www.vagonweb.cz/razeni/razeni.php?jmeno=%s&najit=Suchen",
   "description": "Vagonweb",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

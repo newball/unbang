@@ -4,5 +4,5 @@
   "url": "https://www.homedepot.ca/en/home/search.html?q=%s",
   "description": "Home Depot Canada",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

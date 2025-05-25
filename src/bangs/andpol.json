@@ -4,5 +4,5 @@
   "url": "http://www.androidpolice.com/?s=%s",
   "description": "Android Police",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

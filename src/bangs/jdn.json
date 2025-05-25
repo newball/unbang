@@ -4,5 +4,5 @@
   "url": "http://www.journaldunet.com/s/%s",
   "description": "JournalDuNet",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

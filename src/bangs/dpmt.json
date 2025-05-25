@@ -4,5 +4,5 @@
   "url": "https://anonscm.debian.org/git/python-modules/packages/%s.git",
   "description": "Debian Python Modules Team git repo",
   "category": "Tech",
-  "sub-category": "Sysadmin (debian)"
+  "subcategory": "Sysadmin (debian)"
 }

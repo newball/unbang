@@ -4,5 +4,5 @@
   "url": "https://m.search.naver.com/search.naver?query=%s",
   "description": "Mobile Naver",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

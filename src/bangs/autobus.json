@@ -4,5 +4,5 @@
   "url": "http://seznam-autobusu.cz/seznam?numberPlateOrNumber=%s",
   "description": "seznam-autobusu.cz",
   "category": "Multimedia",
-  "sub-category": "General"
+  "subcategory": "General"
 }

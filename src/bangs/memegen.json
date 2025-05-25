@@ -4,5 +4,5 @@
   "url": "http://memegenerator.net/memes/search?q=%s",
   "description": "Meme Generator",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

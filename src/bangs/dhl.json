@@ -4,5 +4,5 @@
   "url": "http://www.dhl-usa.com/content/us/en/express/tracking.shtml?AWB=%s",
   "description": "DHL",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

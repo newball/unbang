@@ -4,5 +4,5 @@
   "url": "http://kakaku.com/search_results/%s",
   "description": "kakaku.com",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

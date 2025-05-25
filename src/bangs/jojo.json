@@ -4,5 +4,5 @@
   "url": "http://jojo.wikia.com/wiki/Special:Search?search=%s&fulltext=Search",
   "description": "JoJo's Bizarre Encyclopedia",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

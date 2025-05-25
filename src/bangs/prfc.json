@@ -4,5 +4,5 @@
   "url": "http://pretty-rfc.herokuapp.com/search?q=%s",
   "description": "Pretty-RFC",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

@@ -4,5 +4,5 @@
   "url": "https://bibliotheques.paris.fr/Default/search.aspx?SC=CATALOGUE&QUERY=%s",
   "description": "catalogue des bibliothèques de Paris",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

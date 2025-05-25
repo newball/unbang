@@ -4,5 +4,5 @@
   "url": "http://search.selu.edu/search?q=%s",
   "description": "Southeastern Louisiana University",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

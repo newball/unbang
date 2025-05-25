@@ -4,5 +4,5 @@
   "url": "http://www.bac-lac.gc.ca/eng/collectionsearch/Pages/collectionsearch.aspx?q=%s",
   "description": "Library and Archives Canada Collection Search",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

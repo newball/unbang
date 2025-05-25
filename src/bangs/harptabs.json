@@ -4,5 +4,5 @@
   "url": "https://www.harptabs.com/searchsong.php?Name=%s&HarpType=0",
   "description": "HarpTabs",
   "category": "Multimedia",
-  "sub-category": "Music (Lyrics)"
+  "subcategory": "Music (Lyrics)"
 }

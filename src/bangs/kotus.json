@@ -4,5 +4,5 @@
   "url": "http://www.kielitoimistonsanakirja.fi/netmot.exe?page=results&UI=fi80&Opt=8&dic=1&SearchWord=%s&SearchMode=1",
   "description": "Kielitoimiston sanakirja",
   "category": "Research",
-  "sub-category": "Reference (words intl)"
+  "subcategory": "Reference (words intl)"
 }

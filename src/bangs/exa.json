@@ -4,5 +4,5 @@
   "url": "https://www.exasoft.cz/default.asp?cls=stoitems&stifulltext_search=and&fulltext=%s",
   "description": "ExaSoft",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

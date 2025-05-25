@@ -4,5 +4,5 @@
   "url": "http://duckduckgo.com/?q=%s+site:teamsnap.com",
   "description": "Teamsnap",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

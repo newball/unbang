@@ -4,5 +4,5 @@
   "url": "https://my.ecp.fr/search?query=%s",
   "description": "MyECP",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

@@ -4,5 +4,5 @@
   "url": "https://xe.com/currency/%s",
   "description": "https://xe.com/",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

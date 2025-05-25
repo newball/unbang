@@ -4,5 +4,5 @@
   "url": "https://fooby.ch/de/suche.html?query=%s&treffertyp=rezepte",
   "description": "Fooby",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

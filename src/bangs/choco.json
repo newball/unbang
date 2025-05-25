@@ -4,5 +4,5 @@
   "url": "https://chocolatey.org/packages?q=%s",
   "description": "Chocolatey",
   "category": "Tech",
-  "sub-category": "Downloads (software)"
+  "subcategory": "Downloads (software)"
 }

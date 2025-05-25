@@ -4,5 +4,5 @@
   "url": "https://tt.wikipedia.org/wiki/%s",
   "description": "Wikipedia Tatar",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

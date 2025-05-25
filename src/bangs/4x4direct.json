@@ -4,5 +4,5 @@
   "url": "http://www.4x4direct.co.za/search?controller=search&orderby=position&orderway=desc&search_query=%s&submit_search=",
   "description": "4x4 Direct",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

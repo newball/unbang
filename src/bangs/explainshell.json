@@ -4,5 +4,5 @@
   "url": "http://explainshell.com/explain?cmd=%s",
   "description": "ExplainShell",
   "category": "Tech",
-  "sub-category": "Sysadmin (man)"
+  "subcategory": "Sysadmin (man)"
 }

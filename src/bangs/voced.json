@@ -4,5 +4,5 @@
   "url": "http://www.voced.edu.au/search/apachesolr_search/%s",
   "description": "VOCED",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

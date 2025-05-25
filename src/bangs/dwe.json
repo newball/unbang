@@ -4,5 +4,5 @@
   "url": "http://www.dw.com/search/es?languageCode=es&item=%s",
   "description": "DW - Actualidad en español",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.seur.com/seguimiento-online.do?segOnlineIdentificador=%s",
   "description": "Seur",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

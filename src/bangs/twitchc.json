@@ -4,5 +4,5 @@
   "url": "https://twitch.tv/%s",
   "description": "Twitch Channel",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

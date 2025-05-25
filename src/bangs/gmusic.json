@@ -4,5 +4,5 @@
   "url": "http://music.google.com/music/listen?#%s_sr",
   "description": "Google Music",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

@@ -4,5 +4,5 @@
   "url": "https://nixos.org/nixos/packages.html?query=%s",
   "description": "NixOS Packages",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

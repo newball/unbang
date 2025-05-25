@@ -4,5 +4,5 @@
   "url": "https://www.trivago.com/?sQuery=%s",
   "description": "trivago",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

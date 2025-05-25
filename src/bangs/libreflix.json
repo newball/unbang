@@ -4,5 +4,5 @@
   "url": "https://www.libreflix.org/busca/%s",
   "description": "Libreflix",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

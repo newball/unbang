@@ -4,5 +4,5 @@
   "url": "https://www.digitalocean.com/community/search?q=%s",
   "description": "DigitalOcean",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

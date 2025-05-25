@@ -4,5 +4,5 @@
   "url": "https://yandex.ru/maps/?text=%s",
   "description": "Яндекс.Карты",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

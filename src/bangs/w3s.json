@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s+site:w3schools.com",
   "description": "w3schools.com",
   "category": "Tech",
-  "sub-category": "Languages (html)"
+  "subcategory": "Languages (html)"
 }

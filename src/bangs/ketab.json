@@ -4,5 +4,5 @@
   "url": "https://ketab.io/search?submit=جستجو&q=%s",
   "description": "Ketab",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

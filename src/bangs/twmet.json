@@ -4,5 +4,5 @@
   "url": "https://www.twitchmetrics.net/search?q=%s",
   "description": "Twitchmetrics",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

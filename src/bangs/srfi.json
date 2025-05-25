@@ -4,5 +4,5 @@
   "url": "http://srfi.schemers.org/srfi-%s/srfi-%s.html",
   "description": "Scheme Request for Implementation",
   "category": "Tech",
-  "sub-category": "Languages (scheme)"
+  "subcategory": "Languages (scheme)"
 }

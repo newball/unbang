@@ -4,5 +4,5 @@
   "url": "http://www.google.com/search?q=%s&tbs=qdr:m",
   "description": "Google (Past Month)",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

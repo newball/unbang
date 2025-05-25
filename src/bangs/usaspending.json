@@ -4,5 +4,5 @@
   "url": "http://www.usaspending.gov/search?form_fields=%7B%22search_term%22%3A%22%s%22%7D",
   "description": "usaspending.gov",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

@@ -4,5 +4,5 @@
   "url": "http://slovari.yandex.ru/search.xml?text=%s",
   "description": "Yandex.Slovari",
   "category": "Research",
-  "sub-category": "Learning (intl)"
+  "subcategory": "Learning (intl)"
 }

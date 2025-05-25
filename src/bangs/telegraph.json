@@ -4,5 +4,5 @@
   "url": "https://www.telegraph.co.uk/search.html?q=%s",
   "description": "Telegraph",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

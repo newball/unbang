@@ -4,5 +4,5 @@
   "url": "http://www.livermore.lib.ca.us/search/a?searchtype=X&SORT=D&searchscope=7&searcharg=%s",
   "description": "Livermore library",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

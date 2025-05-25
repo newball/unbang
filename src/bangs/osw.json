@@ -4,5 +4,5 @@
   "url": "https://en.opensuse.org/index.php?title=Special%3ASearch&profile=default&search=%s&fulltext=Search",
   "description": "openSUSE Wiki",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

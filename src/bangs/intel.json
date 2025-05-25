@@ -4,5 +4,5 @@
   "url": "http://www.intel.com/content/www/us/en/search.html?keyword=%s",
   "description": "Intel",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

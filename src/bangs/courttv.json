@@ -4,5 +4,5 @@
   "url": "https://www.courttv.com/?s=%s",
   "description": "Court TV",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

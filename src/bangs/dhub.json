@@ -4,5 +4,5 @@
   "url": "https://hub.docker.com/search/?q=%s",
   "description": "Docker Hub",
   "category": "Tech",
-  "sub-category": "Downloads (apps)"
+  "subcategory": "Downloads (apps)"
 }

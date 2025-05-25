@@ -4,5 +4,5 @@
   "url": "http://www.experts-exchange.com/searchResults.jsp?searchTerms=%s&searchType=10",
   "description": "Experts Exchange",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

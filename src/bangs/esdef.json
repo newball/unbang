@@ -4,5 +4,5 @@
   "url": "http://www.wordreference.com/definicion/%s",
   "description": "Word Reference Definicion",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

@@ -4,5 +4,5 @@
   "url": "http://seekingalpha.com/search/?q=%s",
   "description": "Seeking Alpha",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.basketball-reference.com/search/search.fcgi?hint=&search=%s",
   "description": "Basketball Reference",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.beammachine.net/de/qsearch.php?q=%s&strict=1",
   "description": "BeamMachine.net",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

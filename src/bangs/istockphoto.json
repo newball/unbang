@@ -4,5 +4,5 @@
   "url": "http://www.istockphoto.com/file_search.php?action=file&text=%s",
   "description": "iStockPhoto",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

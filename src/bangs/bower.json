@@ -4,5 +4,5 @@
   "url": "https://libraries.io/search?q=%s&platforms=Bower&sort=rank&sort=rank",
   "description": "bower",
   "category": "Tech",
-  "sub-category": "Languages (javascript)"
+  "subcategory": "Languages (javascript)"
 }

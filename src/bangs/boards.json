@@ -4,5 +4,5 @@
   "url": "http://www.boards.ie/search/submit/?query=%s",
   "description": "Boards.ie",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

@@ -4,5 +4,5 @@
   "url": "http://plugins.grails.org/?query=%s&submit=Search",
   "description": "Grails Plugins",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

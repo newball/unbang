@@ -4,5 +4,5 @@
   "url": "http://www.eki.ee/dict/ekss/index.cgi?Q=%s&F=M",
   "description": "Eesti keele seletav sõnaraamat",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

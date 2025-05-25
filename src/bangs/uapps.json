@@ -4,5 +4,5 @@
   "url": "https://apps.ubuntu.com/cat/search/?q=%s",
   "description": "Ubuntu Apps Directory",
   "category": "Tech",
-  "sub-category": "Sysadmin (Ubuntu)"
+  "subcategory": "Sysadmin (Ubuntu)"
 }

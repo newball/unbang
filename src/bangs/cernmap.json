@@ -4,5 +4,5 @@
   "url": "https://maps.cern.ch/mapsearch/mapsearch.htm?n=[%27%s%27]",
   "description": "Cern map",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.ultralingua.com/onlinedictionary/dictionary#src_lang=Italian&dest_lang=French&query=%s",
   "description": "Ultralingua",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

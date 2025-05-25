@@ -4,5 +4,5 @@
   "url": "https://www.microsoft.com/en-us/search?q=%s",
   "description": "Microsoft Store",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

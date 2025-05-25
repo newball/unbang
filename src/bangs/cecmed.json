@@ -4,5 +4,5 @@
   "url": "https://www.cecmed.cu/search/node?keys=%s",
   "description": "CECMED",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

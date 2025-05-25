@@ -4,5 +4,5 @@
   "url": "http://store.musicmagpie.co.uk/category/?keyword=%s",
   "description": "MusicMagPie",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

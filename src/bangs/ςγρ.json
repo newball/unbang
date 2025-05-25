@@ -4,5 +4,5 @@
   "url": "https://el.wikipedia.org/wiki/?search=%s",
   "description": "greek wikipedia",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

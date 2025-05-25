@@ -4,5 +4,5 @@
   "url": "http://www.chemicalize.org/structure/#!mol=%s&source=fp",
   "description": "http://www.chemicalize.org/",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

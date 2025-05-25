@@ -4,5 +4,5 @@
   "url": "https://incfact.com/company/search/?q=%s",
   "description": "IncFact",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "http://americastestkitchen.com/search?q=%s",
   "description": "AmericasTestKitchen",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site%3Amartinfowler.com+%s",
   "description": "MartinFowler.com",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

@@ -4,5 +4,5 @@
   "url": "https://mavin.io/search?q=%s",
   "description": "Mavin Price Guide",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

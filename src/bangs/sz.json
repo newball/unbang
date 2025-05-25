@@ -4,5 +4,5 @@
   "url": "http://suche.sueddeutsche.de/news?search=%s",
   "description": "Süddeutsche Zeitung",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

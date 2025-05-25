@@ -4,5 +4,5 @@
   "url": "https://fedoramagazine.org/?s=%s",
   "description": "fedoramagazine.org",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

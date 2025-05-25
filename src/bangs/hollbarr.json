@@ -4,5 +4,5 @@
   "url": "https://www.hollandandbarrett.com/search?query=%s&isSearch=true",
   "description": "Holland and Barrett",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

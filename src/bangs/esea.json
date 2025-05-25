@@ -4,5 +4,5 @@
   "url": "http://play.esea.net/index.php?s=search&query=%s",
   "description": "ESEA",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

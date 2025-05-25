@@ -4,5 +4,5 @@
   "url": "https://www.nationalobserver.com/search?keywords=%s",
   "description": "National Observer",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

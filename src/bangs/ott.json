@@ -4,5 +4,5 @@
   "url": "https://ottawa.ca/en/search?searchfield=%s",
   "description": "ottawa.ca",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

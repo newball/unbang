@@ -4,5 +4,5 @@
   "url": "https://www.google.com/search?q=%s&lr=lang_zh-CN",
   "description": "Google Simplified Chinese",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

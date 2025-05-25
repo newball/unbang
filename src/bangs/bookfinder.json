@@ -4,5 +4,5 @@
   "url": "http://www.bookfinder.com/search/?author=&title=%s&lang=en&submit=Begin+search&new_used=*&destination=us&currency=USD&mode=basic&st=sr&ac=qr",
   "description": "Book Finder",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

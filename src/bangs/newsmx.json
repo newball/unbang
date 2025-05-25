@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s&iar=news&kl=mx-es&ia=news",
   "description": "DuckDuckGo News Mexico",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

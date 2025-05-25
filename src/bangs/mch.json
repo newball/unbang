@@ -4,5 +4,5 @@
   "url": "http://map.geo.admin.ch/?swisssearch=%s",
   "description": "Karten der Schweiz",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

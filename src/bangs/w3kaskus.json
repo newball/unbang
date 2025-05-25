@@ -4,5 +4,5 @@
   "url": "http://www.kaskus.co.id/search/forum?q=%s",
   "description": "Kaskus",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

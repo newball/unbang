@@ -4,5 +4,5 @@
   "url": "http://www.kinopoisk.ru/index.php?first=no&what=&kp_query=%s",
   "description": "Kinopoisk",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

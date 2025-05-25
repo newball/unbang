@@ -4,5 +4,5 @@
   "url": "https://radiopaedia.org/search?utf8=✓&q=%s&scope=all",
   "description": "Radiopaedia",
   "category": "Multimedia",
-  "sub-category": "General"
+  "subcategory": "General"
 }

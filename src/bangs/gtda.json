@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#auto/da/%s",
   "description": "Detect language to Danish",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

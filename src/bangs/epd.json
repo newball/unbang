@@ -4,5 +4,5 @@
   "url": "https://www.episodate.com/search?q=%s",
   "description": "EpisoDate",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

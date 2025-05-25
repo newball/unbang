@@ -4,5 +4,5 @@
   "url": "http://www.trhastane.com/arama.php?sehir=0&word=%s ",
   "description": "Hastane",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

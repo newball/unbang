@@ -4,5 +4,5 @@
   "url": "http://www.perlmonks.org/?node=%s",
   "description": "PerlMonks.org",
   "category": "Tech",
-  "sub-category": "Languages (perl)"
+  "subcategory": "Languages (perl)"
 }

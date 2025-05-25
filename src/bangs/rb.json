@@ -4,5 +4,5 @@
   "url": "https://rubydocs.org/d/ruby-latest/?q=%s",
   "description": "Current ruby docs",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

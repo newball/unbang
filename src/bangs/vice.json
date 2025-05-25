@@ -4,5 +4,5 @@
   "url": "https://www.vice.com/en_us/search?q=%s",
   "description": "Vice",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.gq.com/search?qt=dismax&sort=score+desc&query=%s",
   "description": "GQ",
   "category": "News",
-  "sub-category": "Magazine (fashion)"
+  "subcategory": "Magazine (fashion)"
 }

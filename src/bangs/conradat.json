@@ -4,5 +4,5 @@
   "url": "https://www.conrad.at/de/Search.html?searchType=REGULAR&search=%s",
   "description": "Conrad Austria",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

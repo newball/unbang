@@ -4,5 +4,5 @@
   "url": "http://www.comicvine.com/search/?q=%s",
   "description": "Comic Vine",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

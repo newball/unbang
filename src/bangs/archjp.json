@@ -4,5 +4,5 @@
   "url": "https://wiki.archlinux.jp/index.php?search=%s",
   "description": "ArchWikiJP",
   "category": "Tech",
-  "sub-category": "Sysadmin (Arch)"
+  "subcategory": "Sysadmin (Arch)"
 }

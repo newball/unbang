@@ -4,5 +4,5 @@
   "url": "http://www.trojmiasto.pl/s/%s/",
   "description": "Trójmiasto",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

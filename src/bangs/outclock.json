@@ -4,5 +4,5 @@
   "url": "http://www.outclock.org/index.php?searchword=%s&searchphrase=all&Itemid=548&option=com_search",
   "description": "Forum Outclock",
   "category": "Tech",
-  "sub-category": "Languages (c++)"
+  "subcategory": "Languages (c++)"
 }

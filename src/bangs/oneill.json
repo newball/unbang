@@ -4,5 +4,5 @@
   "url": "http://us.oneill.com/shop/search/?q=%s",
   "description": "O'Neill",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

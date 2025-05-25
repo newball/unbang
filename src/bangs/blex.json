@@ -4,5 +4,5 @@
   "url": "http://blender.stackexchange.com/search?q=%s",
   "description": " _ Blender Stack Exchange",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

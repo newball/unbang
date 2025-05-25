@@ -4,5 +4,5 @@
   "url": "https://kitsu.io/anime?text=%s",
   "description": "Kitsu",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

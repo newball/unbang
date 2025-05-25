@@ -4,5 +4,5 @@
   "url": "https://cudl.lib.cam.ac.uk/search?keyword=%s",
   "description": "Cambridge Digital Library",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

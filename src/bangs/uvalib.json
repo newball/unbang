@@ -4,5 +4,5 @@
   "url": "http://search.lib.virginia.edu/catalog?q=%s",
   "description": "University of Virginia Library",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

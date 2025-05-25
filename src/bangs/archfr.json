@@ -4,5 +4,5 @@
   "url": "http://wiki.archlinux.fr/index.php?title=Sp%C3%A9cial%3ARecherche&profile=default&search=%s&fulltext=Search",
   "description": "archlinux.fr",
   "category": "Tech",
-  "sub-category": "Sysadmin (Arch)"
+  "subcategory": "Sysadmin (Arch)"
 }

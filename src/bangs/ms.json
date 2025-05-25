@@ -4,5 +4,5 @@
   "url": "http://search.microsoft.com/results.aspx?mkt=en-US&form=MSHOME&setlang=en-US&q=%s",
   "description": "Microsoft",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

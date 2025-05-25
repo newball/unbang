@@ -4,5 +4,5 @@
   "url": "http://payday.wikia.com/wiki/Special:Search?search=%s&fulltext=Search",
   "description": "Payday Wiki",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

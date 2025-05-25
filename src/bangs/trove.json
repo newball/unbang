@@ -4,5 +4,5 @@
   "url": "http://trove.nla.gov.au/result?q=%s ",
   "description": "Trove - National Library of Australia",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

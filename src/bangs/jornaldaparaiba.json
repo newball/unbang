@@ -4,5 +4,5 @@
   "url": "http://www.jornaldaparaiba.com.br/?s=%s",
   "description": "Jornal da Paraíba",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

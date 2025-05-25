@@ -4,5 +4,5 @@
   "url": "https://www.youtube.com/results?search_query=%s&sp=EgIIAg%253D%253D",
   "description": "YouTube",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

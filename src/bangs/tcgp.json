@@ -4,5 +4,5 @@
   "url": "http://shop.tcgplayer.com/productcatalog/product/show?newSearch=false&ProductType=All&IsProductNameExact=false&ProductName=%s",
   "description": "TCGPlayer",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://umich.edu/search/keywords/%s/",
   "description": "University of Michigan",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

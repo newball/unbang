@@ -4,5 +4,5 @@
   "url": "http://cisne.sim.ucm.es/search*spi~S/X?SEARCH=%s",
   "description": "Catálogo Cisne UCM",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

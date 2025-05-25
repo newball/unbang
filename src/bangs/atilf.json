@@ -4,5 +4,5 @@
   "url": "https://academie.atilf.fr/9/consulter/%s?page=1",
   "description": "Académie Française",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

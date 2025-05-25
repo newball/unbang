@@ -4,5 +4,5 @@
   "url": "https://www.theblaze.com/search/?q=%s",
   "description": "TheBlaze",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

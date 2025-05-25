@@ -4,5 +4,5 @@
   "url": "https://nethackwiki.com/mediawiki/index.php?search=%s",
   "description": "Nethack Wiki",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

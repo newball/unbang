@@ -4,5 +4,5 @@
   "url": "http://mapa.targeo.pl/%s",
   "description": "Targeo",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

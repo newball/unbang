@@ -4,5 +4,5 @@
   "url": "http://wikicfp.com/cfp/servlet/tool.search?q=%s&year=f",
   "description": "WikiCFP",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

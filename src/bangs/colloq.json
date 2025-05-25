@@ -4,5 +4,5 @@
   "url": "https://colloq.io/search?query=%s",
   "description": "Colloq.io",
   "category": "Entertainment",
-  "sub-category": "Events"
+  "subcategory": "Events"
 }

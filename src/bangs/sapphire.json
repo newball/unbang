@@ -4,5 +4,5 @@
   "url": "http://forums.sapphirecommunity.com/search.php?keywords=%s&terms=all&author=&fid%5B%5D=4&fid%5B%5D=6&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=800&t=0&submit=Search",
   "description": "Sapphire",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

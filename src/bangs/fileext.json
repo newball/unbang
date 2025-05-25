@@ -4,5 +4,5 @@
   "url": "http://www.file-extensions.org/search/?searchstring=%s",
   "description": "File-Extensions.org",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

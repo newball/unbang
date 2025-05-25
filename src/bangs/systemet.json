@@ -4,5 +4,5 @@
   "url": "https://www.systembolaget.se/Sok-dryck/?searchquery=%s",
   "description": "Systembolaget",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "https://archive.org/details/tv?q=%s",
   "description": "Internet Archive TV News",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

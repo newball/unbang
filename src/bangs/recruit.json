@@ -4,5 +4,5 @@
   "url": "https://australia.recruit.net/search.html?query=%s&location=&s=",
   "description": "recruit.net",
   "category": "Tech",
-  "sub-category": "Languages (java)"
+  "subcategory": "Languages (java)"
 }

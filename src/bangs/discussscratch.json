@@ -4,5 +4,5 @@
   "url": "http://scratch.mit.edu/search/google_results/?q=%s&date=anytime&sort_by=datetime_shared",
   "description": "Scratch",
   "category": "Tech",
-  "sub-category": "Languages (other)"
+  "subcategory": "Languages (other)"
 }

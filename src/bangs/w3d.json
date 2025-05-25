@@ -4,5 +4,5 @@
   "url": "https://welovedevs.com/app/companies/search?query=%s&type=company",
   "description": "WeLoveDevs",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

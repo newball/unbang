@@ -4,5 +4,5 @@
   "url": "https://www.toptenreviews.com/search/?q=%s",
   "description": "TopTenReviews",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

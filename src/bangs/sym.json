@@ -4,5 +4,5 @@
   "url": "http://symbolhound.com/?q=%s",
   "description": "Symbolhound",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

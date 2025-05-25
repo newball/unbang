@@ -4,5 +4,5 @@
   "url": "https://www.creative-cables.nl/zoeken?controller=search&orderby=position&orderway=desc&search_query=%s",
   "description": "Creative Cables NL",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

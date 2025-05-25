@@ -4,5 +4,5 @@
   "url": "http://giphy.com/search/%s ",
   "description": "Giphy",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

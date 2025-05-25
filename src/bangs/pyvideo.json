@@ -4,5 +4,5 @@
   "url": "http://pyvideo.org/search?models=videos.video&q=%s",
   "description": "pyvideo.org",
   "category": "Tech",
-  "sub-category": "Languages (python)"
+  "subcategory": "Languages (python)"
 }

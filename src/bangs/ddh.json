@@ -4,5 +4,5 @@
   "url": "https://duck.co/ia?q=%s",
   "description": "DuckDuckHack",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

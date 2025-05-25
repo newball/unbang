@@ -4,5 +4,5 @@
   "url": "http://logopond.com/search/?search=%s",
   "description": "logopond",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

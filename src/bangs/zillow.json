@@ -4,5 +4,5 @@
   "url": "http://www.zillow.com/homes/%s_rb/",
   "description": "Zillow",
   "category": "Research",
-  "sub-category": "Real Estate"
+  "subcategory": "Real Estate"
 }

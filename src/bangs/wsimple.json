@@ -4,5 +4,5 @@
   "url": "https://simple.wikipedia.org/w/index.php?search=%s",
   "description": "Wikipedia (Simple English)",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

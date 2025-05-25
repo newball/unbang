@@ -4,5 +4,5 @@
   "url": "https://www.fanfiction.net/search.php?keywords=%s&type=story&match=any&formatid=any&sort=0&genreid1=0&genreid2=0&characterid1=0&characterid2=0&characterid3=0&characterid4=0&words=0&ready=1&categoryid=0",
   "description": "FanFiction Stories",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

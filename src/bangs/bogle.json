@@ -4,5 +4,5 @@
   "url": "http://www.bogleheads.org/w/index.php?search=%s",
   "description": "Bogleheads Wiki",
   "category": "Research",
-  "sub-category": "Topical"
+  "subcategory": "Topical"
 }

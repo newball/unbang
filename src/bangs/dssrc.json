@@ -4,5 +4,5 @@
   "url": "http://snapshot.debian.org/package/?src=%s",
   "description": "snapshot.debian.org",
   "category": "Tech",
-  "sub-category": "Sysadmin (debian)"
+  "subcategory": "Sysadmin (debian)"
 }

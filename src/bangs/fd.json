@@ -4,5 +4,5 @@
   "url": "http://freedictionary.org/?Query=%s&button=Search",
   "description": "Free Dictionary",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

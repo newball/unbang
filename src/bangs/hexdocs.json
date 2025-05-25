@@ -4,5 +4,5 @@
   "url": "http://hexdocs.pm/%s",
   "description": "Hex Docs",
   "category": "Tech",
-  "sub-category": "Languages (erlang)"
+  "subcategory": "Languages (erlang)"
 }

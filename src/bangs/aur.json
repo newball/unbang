@@ -4,5 +4,5 @@
   "url": "https://aur.archlinux.org/packages/?K=%s",
   "description": "Arch User Repository",
   "category": "Tech",
-  "sub-category": "Sysadmin (Arch)"
+  "subcategory": "Sysadmin (Arch)"
 }

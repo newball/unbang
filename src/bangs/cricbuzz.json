@@ -4,5 +4,5 @@
   "url": "https://www.cricbuzz.com/search?q=%s",
   "description": "Cricbuzz",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

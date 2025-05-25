@@ -4,5 +4,5 @@
   "url": "https://search.usa.gov/search?utf8=✓&affiliate=usagov&query=%s",
   "description": "USA.gov",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

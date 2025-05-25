@@ -4,5 +4,5 @@
   "url": "https://leaf.dragonflybsd.org/cgi/web-man?command=%s",
   "description": "DragonFly BSD Manual Pages",
   "category": "Tech",
-  "sub-category": "Sysadmin (man)"
+  "subcategory": "Sysadmin (man)"
 }

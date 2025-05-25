@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s+site:docs.groovy-lang.org",
   "description": "Groovy Documentation",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

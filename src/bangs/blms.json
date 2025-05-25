@@ -4,5 +4,5 @@
   "url": "http://searcharchives.bl.uk/primo_library/libweb/action/search.do?fn=search&vl(freeText0)=%s",
   "description": "British Library Explore Archives and Manuscripts",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "https://google.com/search?hl=sv&q=%s",
   "description": "Google Swedish",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

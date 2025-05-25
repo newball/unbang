@@ -4,5 +4,5 @@
   "url": "https://vgmdb.net/search?q=%s",
   "description": "Vgmdb",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

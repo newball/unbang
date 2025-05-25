@@ -4,5 +4,5 @@
   "url": "https://gis.stackexchange.com/search?q=%s",
   "description": "Stack Exchange",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

@@ -4,5 +4,5 @@
   "url": "https://funplass.com/recherche.php?what=%s&where=0&when=0",
   "description": "Funplass",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

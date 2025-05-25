@@ -4,5 +4,5 @@
   "url": "https://economictimes.indiatimes.com/topic/%s",
   "description": "Economic Times",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

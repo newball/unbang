@@ -4,5 +4,5 @@
   "url": "https://www.google.com.au/search?biw=1920&bih=947&tbm=shop&q=%s",
   "description": "Google Shopping Australia",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

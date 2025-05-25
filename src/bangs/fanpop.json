@@ -4,5 +4,5 @@
   "url": "http://www.fanpop.com/search?query=%s",
   "description": "Fanpop",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

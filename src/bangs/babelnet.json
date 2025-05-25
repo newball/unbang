@@ -4,5 +4,5 @@
   "url": "http://live.babelnet.org/search?word=%s&lang=EN",
   "description": "BabelNet",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

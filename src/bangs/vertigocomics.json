@@ -4,5 +4,5 @@
   "url": "http://vertigo.wikia.com/wiki/Special:Search?query=%s",
   "description": "Vertigo Comics",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

@@ -4,5 +4,5 @@
   "url": "http://geoiptool.com/fr/?IP=%s",
   "description": "Geo IP Tool",
   "category": "Tech",
-  "sub-category": "Sysadmin (network)"
+  "subcategory": "Sysadmin (network)"
 }

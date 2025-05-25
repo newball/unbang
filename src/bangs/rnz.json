@@ -4,5 +4,5 @@
   "url": "https://www.radionz.co.nz/search/results?utf8=%E2%9C%93&q=%s&commit=Search",
   "description": "Radio New Zealand",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

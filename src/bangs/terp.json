@@ -4,5 +4,5 @@
   "url": "http://brettterpstra.com/search/?q=%s",
   "description": "BrettTerpstra.com",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

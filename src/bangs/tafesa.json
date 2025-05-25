@@ -4,5 +4,5 @@
   "url": "https://www.tafesa.edu.au/search-results?indexCatalogue=all&searchQuery=%s",
   "description": "TAFE SA",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

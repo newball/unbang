@@ -4,5 +4,5 @@
   "url": "http://en.wikipedia.org/w/index.php?title=Special:Search&search=%s+discography&go=Go",
   "description": "wikipedia.org Band Discography",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

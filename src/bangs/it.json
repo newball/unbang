@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s&kl=it-it",
   "description": "DuckDuckGo Italy",
   "category": "Online Services",
-  "sub-category": "Search (DDG)"
+  "subcategory": "Search (DDG)"
 }

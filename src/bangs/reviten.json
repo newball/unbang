@@ -4,5 +4,5 @@
   "url": "http://context.reverso.net/translation/italian-english/%s",
   "description": "Reverso Context",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

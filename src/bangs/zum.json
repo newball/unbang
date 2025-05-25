@@ -4,5 +4,5 @@
   "url": "http://search.zum.com/search.zum?query=%s",
   "description": "zum",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

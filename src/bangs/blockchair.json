@@ -4,5 +4,5 @@
   "url": "https://blockchair.com/search?q=%s",
   "description": "Blockchair",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

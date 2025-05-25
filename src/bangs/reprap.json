@@ -4,5 +4,5 @@
   "url": "http://reprap.org/mediawiki/index.php?search=%s",
   "description": "RepRap Wiki",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

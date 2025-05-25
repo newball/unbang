@@ -4,5 +4,5 @@
   "url": "http://hudoc.echr.coe.int/sites/eng/Pages/search.aspx#{%22fulltext%22:[%22%s %22],%22documentcollectionid2%22:[%22GRANDCHAMBER%22,%22CHAMBER%22]}",
   "description": "European Court of human right",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

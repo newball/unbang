@@ -4,5 +4,5 @@
   "url": "https://www.hockey-reference.com/search/search.fcgi?hint=&search=%s",
   "description": "Hockey Reference",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

@@ -4,5 +4,5 @@
   "url": "http://dict.cn/%s",
   "description": "Dict.cn Chinese<>English Dictionary",
   "category": "Translation",
-  "sub-category": "General"
+  "subcategory": "General"
 }

@@ -4,5 +4,5 @@
   "url": "http://forkd.com/recipe/search?q=%s",
   "description": "Forkd",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.climatempo.com.br/?q=%s",
   "description": "Climatempo",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

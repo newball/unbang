@@ -4,5 +4,5 @@
   "url": "http://thegradcafe.com/survey/index.php?q=%s",
   "description": "Grad Cafe",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

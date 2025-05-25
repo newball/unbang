@@ -4,5 +4,5 @@
   "url": "https://yout.com/search?terms=%s",
   "description": "yout.com",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

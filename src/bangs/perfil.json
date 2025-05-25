@@ -4,5 +4,5 @@
   "url": "http://www.perfil.com/buscador/?q=%s",
   "description": "Perfil",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

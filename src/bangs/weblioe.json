@@ -4,5 +4,5 @@
   "url": "http://ejje.weblio.jp/content/%s",
   "description": "weblio 英和辞典",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

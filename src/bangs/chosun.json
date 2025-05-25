@@ -4,5 +4,5 @@
   "url": "http://nsearch.chosun.com/search/total.search?query=%s",
   "description": "The Chosun Ilbo",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

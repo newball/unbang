@@ -4,5 +4,5 @@
   "url": "http://www.macmillandictionary.com/us/search/british/direct/?q=%s",
   "description": "Macmillan Dictionary",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

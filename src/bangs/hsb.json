@@ -4,5 +4,5 @@
   "url": "http://soblex.de/?p_w=%s&cmd=search_soblex",
   "description": "soblex",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

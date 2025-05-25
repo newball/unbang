@@ -4,5 +4,5 @@
   "url": "https://coinmarketcap.com/currencies/search/?q=%s",
   "description": "CoinMarketCap",
   "category": "Tech",
-  "sub-category": "Startups"
+  "subcategory": "Startups"
 }

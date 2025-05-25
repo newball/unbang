@@ -4,5 +4,5 @@
   "url": "http://www.geekbuying.com/Search/?keyword=%s",
   "description": "GeekBuying",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.steamprices.com/us/search?%s",
   "description": "Steam Prices",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

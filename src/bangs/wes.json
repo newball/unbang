@@ -4,5 +4,5 @@
   "url": "http://es.wikipedia.org/wiki/Special:Search?search=%s&go=Go",
   "description": "Wikipedia (ES)",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "https://suche.suub.uni-bremen.de/cgi-bin/CiXbase/brewis/CiXbase_search?act=search&INDEXINFO=awCN&LAN=DE&ORDER=&IHITS=15&FHITS=15&PRECISION=220&RELEVANCE=40&NO_RBITS=&n_dtyp=1LZ&n_rtyp=ceEdX&index=L&XML_STYLE=%2Fstyles%2Fcns-DE.xml%3F20130610&dtyp=&mtyp=&section=&term=%s&CID=&x=0&y=0",
   "description": "Staats- und Universitätsbibliothek Bremen",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

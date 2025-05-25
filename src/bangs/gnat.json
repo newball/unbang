@@ -4,5 +4,5 @@
   "url": "https://www.google.at/#q=%s&tbm=nws",
   "description": "Google News Austria",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

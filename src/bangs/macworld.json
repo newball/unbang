@@ -4,5 +4,5 @@
   "url": "http://www.macworld.com/search?query=%s &submit=search",
   "description": "Macworld",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

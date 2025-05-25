@@ -4,5 +4,5 @@
   "url": "http://koei.wikia.com/wiki/Special:Search?search=%s&fulltext=Search",
   "description": "KOEI Wiki",
   "category": "Entertainment",
-  "sub-category": "Games (offline)"
+  "subcategory": "Games (offline)"
 }

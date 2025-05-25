@@ -4,5 +4,5 @@
   "url": "https://www.fip.fr/player/%s",
   "description": "Fip Radio",
   "category": "Entertainment",
-  "sub-category": "Radio"
+  "subcategory": "Radio"
 }

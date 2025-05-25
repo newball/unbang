@@ -4,5 +4,5 @@
   "url": "http://searchworks.stanford.edu/?q=%s&search_field=search",
   "description": "SearchWorks (SULAIR)",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

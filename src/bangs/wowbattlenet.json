@@ -4,5 +4,5 @@
   "url": "http://eu.battle.net/wow/en/search?q=%s",
   "description": "BattleNet",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

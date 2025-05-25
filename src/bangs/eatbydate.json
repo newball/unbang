@@ -4,5 +4,5 @@
   "url": "http://eatbydate.com/search/?q=%s",
   "description": "Eat By Date",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

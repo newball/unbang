@@ -4,5 +4,5 @@
   "url": "https://wiki.gnome.org/Home?action=fullsearch&context=180&value=%s&titlesearch=Titles",
   "description": "GNOME Wiki",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

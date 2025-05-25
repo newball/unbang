@@ -4,5 +4,5 @@
   "url": "http://www.decathlon.fr/Acheter/%s",
   "description": "Decathlon France",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

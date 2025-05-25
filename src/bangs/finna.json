@@ -4,5 +4,5 @@
   "url": "https://finna.fi/Search/Results?lookfor=%s",
   "description": "Finna.fi",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

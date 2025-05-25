@@ -4,5 +4,5 @@
   "url": "http://ndpr.nd.edu/search/?search_keyword=&as_sitesearch=ndpr.nd.edu&q=%s",
   "description": "Notre Dame Philosophical Reviews",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

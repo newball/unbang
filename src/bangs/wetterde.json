@@ -4,5 +4,5 @@
   "url": "http://www.wetter.de/suche.html?search=%s",
   "description": "wetter.de",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

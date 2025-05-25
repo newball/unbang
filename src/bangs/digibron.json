@@ -4,5 +4,5 @@
   "url": "https://www.digibron.nl/search/results?q=%s",
   "description": "Digibron",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

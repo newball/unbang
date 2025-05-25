@@ -4,5 +4,5 @@
   "url": "https://www.amazon.com/gp/your-account/order-history/ref=oh_aui_search?opt=ab&search=%s ",
   "description": "Amazon.com order history",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

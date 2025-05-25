@@ -4,5 +4,5 @@
   "url": "https://aitopics.org/search?q=%s",
   "description": "AITopics",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "https://wpdev.uservoice.com/search?query=%s",
   "description": "Windows Developer Feedback",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

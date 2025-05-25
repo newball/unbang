@@ -4,5 +4,5 @@
   "url": "http://www.dastelefonbuch.de/?pid=OpenSearch&cmd=search&kw=%s",
   "description": "Das Telefonbuch",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

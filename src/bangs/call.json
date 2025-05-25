@@ -4,5 +4,5 @@
   "url": "http://qrzcq.com/?q=%s&action=search&page=search",
   "description": "QRZCQ",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

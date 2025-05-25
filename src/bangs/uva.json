@@ -4,5 +4,5 @@
   "url": "http://www.virginia.edu/search/site/%s",
   "description": "University of Virginia",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

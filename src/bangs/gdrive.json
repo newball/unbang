@@ -4,5 +4,5 @@
   "url": "https://drive.google.com/drive/search?q=%s",
   "description": "Google Drive",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

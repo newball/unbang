@@ -4,5 +4,5 @@
   "url": "http://www.chemspider.com/Search.aspx?q=%s",
   "description": "ChemSpider",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

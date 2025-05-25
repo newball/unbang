@@ -4,5 +4,5 @@
   "url": "http://rdoc.info/find/github?q=%s",
   "description": "RubyDoc.info",
   "category": "Tech",
-  "sub-category": "Languages (ruby)"
+  "subcategory": "Languages (ruby)"
 }

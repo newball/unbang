@@ -4,5 +4,5 @@
   "url": "http://www.gofundme.com/mvc.php?route=search&term=%s",
   "description": "GoFundMe",
   "category": "Online Services",
-  "sub-category": "Tools (fundraising)"
+  "subcategory": "Tools (fundraising)"
 }

@@ -4,5 +4,5 @@
   "url": "https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=%s&search_type=all",
   "description": "NIST Vulnerability Database Statistical View",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

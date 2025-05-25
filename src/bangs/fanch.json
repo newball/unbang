@@ -4,5 +4,5 @@
   "url": "http://www.qth.fr/?s=%s",
   "description": "Quick Troll Hosted",
   "category": "Tech",
-  "sub-category": "Sysadmin (debian)"
+  "subcategory": "Sysadmin (debian)"
 }

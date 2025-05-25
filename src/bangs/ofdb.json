@@ -4,5 +4,5 @@
   "url": "http://www.ofdb.de/view.php?SText=%s&Kat=All&page=suchergebnis",
   "description": "Online Film Datenbank",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

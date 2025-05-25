@@ -4,5 +4,5 @@
   "url": "http://www.newegg.com/Product/ProductList.aspx?Submit=ENE&DEPA=0&Description=%s",
   "description": "Newegg",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

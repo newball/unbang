@@ -4,5 +4,5 @@
   "url": "http://mtg-hunter.com/?q=%s",
   "description": "MTG-Hunter",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

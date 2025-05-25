@@ -4,5 +4,5 @@
   "url": "http://www.list.am/category?q=%s",
   "description": "List.am",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

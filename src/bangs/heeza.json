@@ -4,5 +4,5 @@
   "url": "http://www.heeza.fr/fr/recherche?orderby=position&orderway=desc&search_query=%s&submit_search=Rechercher",
   "description": "HEEZA - L'Univers du Cartoon",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

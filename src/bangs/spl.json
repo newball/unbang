@@ -4,5 +4,5 @@
   "url": "https://seattle.bibliocommons.com/search?utf8=%E2%9C%93&t=smart&search_category=keyword&commit=Search&q=%s",
   "description": "The Seattle Public Library",
   "category": "Multimedia",
-  "sub-category": "General"
+  "subcategory": "General"
 }

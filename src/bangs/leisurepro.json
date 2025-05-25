@@ -4,5 +4,5 @@
   "url": "http://www.leisurepro.com/search?searchinfo=%s",
   "description": "LeisurePro",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

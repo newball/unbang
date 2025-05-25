@@ -4,5 +4,5 @@
   "url": "https://www.nielsen.com/us/en/search.html?q=%s&sp_cs=UTF-8",
   "description": "Nielsen",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

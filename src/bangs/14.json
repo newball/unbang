@@ -4,5 +4,5 @@
   "url": "https://14-tage-wettervorhersage.de/suche/?q=%s&lg=de",
   "description": "14-tage-wettervorhersage.de",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

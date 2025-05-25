@@ -4,5 +4,5 @@
   "url": "https://www.pathe.nl/Zoek?q=%s",
   "description": "Pathe",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

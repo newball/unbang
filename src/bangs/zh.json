@@ -4,5 +4,5 @@
   "url": "https://www.zerohedge.com/search-content?search_api_fulltext=%s",
   "description": "Zero Hedge",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

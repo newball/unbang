@@ -4,5 +4,5 @@
   "url": "http://webchat.freenode.net/?channels=%s",
   "description": "Freenode",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

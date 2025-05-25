@@ -4,5 +4,5 @@
   "url": "https://fuglymugcompany.com/search?type=product&q=%s",
   "description": "The Fugly Mug Company",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

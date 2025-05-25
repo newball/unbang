@@ -4,5 +4,5 @@
   "url": "http://www.walgreens.com/search/results.jsp?Ntt=%s&x=0&y=0",
   "description": "Walgreens",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

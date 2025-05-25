@@ -4,5 +4,5 @@
   "url": "http://anandtech.com/SearchResults?q=%s",
   "description": "Anandtech",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

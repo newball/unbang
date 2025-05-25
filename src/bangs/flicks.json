@@ -4,5 +4,5 @@
   "url": "https://www.flicks.co.nz/search/?q=%s",
   "description": "Flicks.co.nz",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

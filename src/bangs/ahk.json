@@ -4,5 +4,5 @@
   "url": "http://www.autohotkey.com/search/search.php?site=4&refine=0&template_demo=phpdig.html&result_page=search.php&search=Go+...&limite=100&option=start&path=docs/&query_string=%s",
   "description": "AutoHotkey",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

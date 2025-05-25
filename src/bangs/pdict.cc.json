@@ -4,5 +4,5 @@
   "url": "http://pocket.dict.cc/?s=%s",
   "description": "Pocket dict.cc",
   "category": "Research",
-  "sub-category": "Reference (words intl)"
+  "subcategory": "Reference (words intl)"
 }

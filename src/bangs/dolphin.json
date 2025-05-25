@@ -4,5 +4,5 @@
   "url": "https://wiki.dolphin-emu.org/index.php?title=Special%3ASearch&profile=default&search=%s&fulltext=Search",
   "description": "Dolphin Emulator Wiki",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

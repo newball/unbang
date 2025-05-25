@@ -4,5 +4,5 @@
   "url": "http://www.martinus.sk/?uMod=list&uTyp=search&uQ=%s",
   "description": "Martinus",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

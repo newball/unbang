@@ -4,5 +4,5 @@
   "url": "https://mediabiasfactcheck.com/?s=%s",
   "description": "Media Bias/Fact Check",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

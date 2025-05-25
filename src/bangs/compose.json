@@ -4,5 +4,5 @@
   "url": "https://mail.google.com/mail/?view=cm&to=&su=%s",
   "description": "Compose Email (Gmail)",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

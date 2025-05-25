@@ -4,5 +4,5 @@
   "url": "http://www.yummly.com/recipes?q=%s",
   "description": "Yummly",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

@@ -4,5 +4,5 @@
   "url": "http://slovnik.seznam.cz/de/?q=%s",
   "description": "slovnik.seznam.cz němčina",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.popsci.com/find/%s",
   "description": "Popular Science",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

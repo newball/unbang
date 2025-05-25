@@ -4,5 +4,5 @@
   "url": "http://www.wimp.com/search/%s",
   "description": "wimp.com",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

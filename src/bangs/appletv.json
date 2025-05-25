@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s%20site%3Atv.apple.com",
   "description": "Apple TV",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

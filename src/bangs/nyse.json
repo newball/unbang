@@ -4,5 +4,5 @@
   "url": "https://www.nyse.com/quote/XNYS:%s",
   "description": "New York Stock Exchange",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

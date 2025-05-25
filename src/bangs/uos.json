@@ -4,5 +4,5 @@
   "url": "https://www.surrey.ac.uk/search?query=%s",
   "description": "University of Surrey",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

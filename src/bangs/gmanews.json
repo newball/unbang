@@ -4,5 +4,5 @@
   "url": "https://www.gmanetwork.com/news/search/?q=%s",
   "description": "GMA NEWS",
   "category": "News",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

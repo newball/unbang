@@ -4,5 +4,5 @@
   "url": "https://forum.minetest.net/search.php?keywords=%s",
   "description": "Minetest Forums",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

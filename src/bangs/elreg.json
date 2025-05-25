@@ -4,5 +4,5 @@
   "url": "http://search.theregister.co.uk/?q=%s",
   "description": "The Register",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

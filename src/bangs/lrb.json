@@ -4,5 +4,5 @@
   "url": "http://www.lrb.co.uk/search?q=%s",
   "description": "The London Review of Books",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

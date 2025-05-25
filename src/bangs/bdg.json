@@ -4,5 +4,5 @@
   "url": "http://www.bedetheque.com/search/tout?RechTexte=%s&RechWhere=0 ",
   "description": "Bedetheque",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

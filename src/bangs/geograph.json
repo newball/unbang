@@ -4,5 +4,5 @@
   "url": "https://www.geograph.org.uk/of/%s",
   "description": "Geograph Britain and Ireland",
   "category": "Research",
-  "sub-category": "Local"
+  "subcategory": "Local"
 }

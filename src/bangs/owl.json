@@ -4,5 +4,5 @@
   "url": "http://buscador.lechuza.org/resultados.php?texto=%s&xx=buscar",
   "description": "http://www.lechuza.org/",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "http://gpsearch.azurewebsites.net/default.aspx?search=%s",
   "description": "Group Policy Search",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

@@ -4,5 +4,5 @@
   "url": "https://passport.baidu.com/v2/?regnamesugg&username=%s",
   "description": "贴吧id",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

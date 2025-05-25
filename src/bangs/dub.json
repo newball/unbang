@@ -4,5 +4,5 @@
   "url": "http://code.dlang.org/search?q=%s",
   "description": "Dub Package Registry",
   "category": "Tech",
-  "sub-category": "Languages (d)"
+  "subcategory": "Languages (d)"
 }

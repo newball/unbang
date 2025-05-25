@@ -4,5 +4,5 @@
   "url": "http://www.tei-c.org/?s=%s",
   "description": "TEI",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

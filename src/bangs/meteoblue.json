@@ -4,5 +4,5 @@
   "url": "https://www.meteoblue.com/en/weather/forecast/14-days/%s",
   "description": "meteoblue",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

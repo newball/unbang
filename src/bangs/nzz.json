@@ -4,5 +4,5 @@
   "url": "http://www.nzz.ch/suche?form%5Bq%5D=%s",
   "description": "Neue Zürcher Zeitung",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

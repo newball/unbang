@@ -4,5 +4,5 @@
   "url": "http://www.essef.be/ndl/cataloog/index.search.asp?zoek=%s",
   "description": "ESSEF (nl)",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

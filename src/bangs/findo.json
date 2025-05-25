@@ -4,5 +4,5 @@
   "url": "https://findo.com/app/search?query=%s",
   "description": "Findo",
   "category": "Multimedia",
-  "sub-category": "Docs"
+  "subcategory": "Docs"
 }

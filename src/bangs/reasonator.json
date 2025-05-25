@@ -4,5 +4,5 @@
   "url": "http://tools.wmflabs.org/reasonator/?find=%s",
   "description": "Reasonator",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

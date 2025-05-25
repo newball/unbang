@@ -4,5 +4,5 @@
   "url": "https://e-gear.se/catalogsearch/result/?q=%s",
   "description": "e-Gear",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

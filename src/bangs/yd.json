@@ -4,5 +4,5 @@
   "url": "http://www.yourdictionary.com/search/?ydQ=%s",
   "description": "YourDictionary",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

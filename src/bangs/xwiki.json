@@ -4,5 +4,5 @@
   "url": "http://www.xwiki.org/xwiki/bin/view/Main/Search?text=%s",
   "description": "XWiki",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

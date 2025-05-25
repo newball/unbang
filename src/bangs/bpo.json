@@ -4,5 +4,5 @@
   "url": "https://bugs.python.org/issue?%40columns=id%2Cactivity%2Ctitle%2Ccreator%2Cassignee%2Cstatus%2Ctype&%40sort=-activity&%40filter=status&%40action=searchid&ignore=file%3Acontent&%40search_text=%s&submit=search&status=-1%2C1%2C2%2C3",
   "description": "Python Bug Tracker",
   "category": "Tech",
-  "sub-category": "Languages (python)"
+  "subcategory": "Languages (python)"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.ptt.cc/bbs/%s",
   "description": "PTT",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

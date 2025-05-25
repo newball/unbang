@@ -4,5 +4,5 @@
   "url": "https://watchkin.com/search.php?q=%s",
   "description": "Watchkin",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

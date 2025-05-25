@@ -4,5 +4,5 @@
   "url": "https://katalog.ub.uni-freiburg.de/opac/RDSIndex/Search?lookfor=%s&source=homepage",
   "description": "Universitätsbibliothek Freiburg",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

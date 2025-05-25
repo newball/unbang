@@ -4,5 +4,5 @@
   "url": "http://www.johnlewis.com/Search/Search.aspx?SearchTerm=%s",
   "description": "John Lewis",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.bibleserver.com/text/LUT/%s",
   "description": "BibleServer Lutherbibel 2017",
   "category": "Research",
-  "sub-category": "Reference (religion)"
+  "subcategory": "Reference (religion)"
 }

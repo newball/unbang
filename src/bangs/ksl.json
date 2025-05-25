@@ -4,5 +4,5 @@
   "url": "https://classifieds.ksl.com/search?keyword=%s",
   "description": "KSL Classifieds",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

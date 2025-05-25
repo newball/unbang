@@ -4,5 +4,5 @@
   "url": "https://vibed.org/api/search?q=%s",
   "description": "vibe.d Documentation",
   "category": "Tech",
-  "sub-category": "Languages (d)"
+  "subcategory": "Languages (d)"
 }

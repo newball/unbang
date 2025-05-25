@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site%3Adocs.oracle.com%2Fjavase%2F8%2Fdocs%2Fapi%2F+%s",
   "description": "Java 8 Documentation",
   "category": "Tech",
-  "sub-category": "Languages (java)"
+  "subcategory": "Languages (java)"
 }

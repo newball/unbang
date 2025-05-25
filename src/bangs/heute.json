@@ -4,5 +4,5 @@
   "url": "https://www.zdf.de/suche?q=%s&synth=true&sender=heute.de&from=&to=&attrs=",
   "description": "ZDF heute",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

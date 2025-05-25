@@ -4,5 +4,5 @@
   "url": "http://www.bbcgoodfood.com/search/recipes?query=%s",
   "description": "BBC Good Food",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

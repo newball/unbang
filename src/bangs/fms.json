@@ -4,5 +4,5 @@
   "url": "http://www.foromedios.com/index.php?app=core&module=search&do=search&andor_type=&sid=&search_app_filters[forums][sortKey]=date&search_app_filters[forums][sortKey]=date&search_app_filters[forums][searchInKey]=&search_term=%s&search_app=forums",
   "description": "Foromedios",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

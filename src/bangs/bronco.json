@@ -4,5 +4,5 @@
   "url": "http://broncowine.com/woocommerce-search/?cat_in=&rs=%s&search_in=product&search_other=product",
   "description": "Bronco Wine Company",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

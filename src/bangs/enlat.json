@@ -4,5 +4,5 @@
   "url": "http://latin-dictionary.net/search/english/%s",
   "description": "Latdict",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

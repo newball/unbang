@@ -4,5 +4,5 @@
   "url": "http://www.wooroll.com/search.html?q=%s&ref=duckduckgo",
   "description": "Wooroll",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.lexilogos.com/latin/gaffiot.php?q=%s",
   "description": "Gaffiot latin -> français",
   "category": "Research",
-  "sub-category": "Learning (intl)"
+  "subcategory": "Learning (intl)"
 }

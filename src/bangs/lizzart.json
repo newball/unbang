@@ -4,5 +4,5 @@
   "url": "http://www.lizzart.fr/boutique/tout/recherche.html?keyword=%s&limitstart=0&option=com_virtuemart&view=category",
   "description": "Lizzart - Original Handmade in France",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

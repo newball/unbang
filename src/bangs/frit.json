@@ -4,5 +4,5 @@
   "url": "http://translate.google.com/#fr/it/%s",
   "description": "Google Translate French to Italian",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

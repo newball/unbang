@@ -4,5 +4,5 @@
   "url": "http://ask.metafilter.com/search.mefi?q=%s",
   "description": "Ask Metafilter",
   "category": "Research",
-  "sub-category": "Topical"
+  "subcategory": "Topical"
 }

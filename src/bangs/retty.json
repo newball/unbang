@@ -4,5 +4,5 @@
   "url": "https://retty.me/restaurant-search/search-result/?free_word_category=%s",
   "description": "Retty",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

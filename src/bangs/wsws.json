@@ -4,5 +4,5 @@
   "url": "https://www.wsws.org/en/search.html?sectionId=&maxResults=100&phrase=%s&submit=Search",
   "description": "Word Socialist Web Site",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

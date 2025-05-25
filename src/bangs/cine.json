@@ -4,5 +4,5 @@
   "url": "http://cinemassacre.com/?s=%s&search.x=0&search.y=0",
   "description": "Cinemassacre",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

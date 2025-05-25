@@ -4,5 +4,5 @@
   "url": "http://www.bbfc.co.uk/search/releases/%s",
   "description": "British Board of Film Classification",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

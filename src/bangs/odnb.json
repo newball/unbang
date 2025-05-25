@@ -4,5 +4,5 @@
   "url": "http://www.oxforddnb.com/search?q=%s",
   "description": "Oxford Dictionary of National Biography",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

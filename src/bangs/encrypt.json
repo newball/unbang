@@ -4,5 +4,5 @@
   "url": "https://www.searchencrypt.com/search?eq=%s",
   "description": "Search Encrypt",
   "category": "Online Services",
-  "sub-category": "Search (Private)"
+  "subcategory": "Search (Private)"
 }

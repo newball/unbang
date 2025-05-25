@@ -4,5 +4,5 @@
   "url": "http://www.nicovideo.jp/search/%s",
   "description": "Nico Nico Douga",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

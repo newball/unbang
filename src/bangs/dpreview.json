@@ -4,5 +4,5 @@
   "url": "http://www.dpreview.com/search/?query=%s&terms=%s",
   "description": "DPReview",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

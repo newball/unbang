@@ -4,5 +4,5 @@
   "url": "http://squarefaction.ru/main/search/google?searchQuery=%s",
   "description": "Square Faction",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

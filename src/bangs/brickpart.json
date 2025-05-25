@@ -4,5 +4,5 @@
   "url": "http://brickset.com/parts?query=%s",
   "description": "Brickset",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.bookbub.com/search?search=%s",
   "description": "BookBub",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

@@ -4,5 +4,5 @@
   "url": "http://trakt.tv/search?utf8=%E2%9C%93&query=%s",
   "description": "Trakt",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.heinzelnisse.info/dict?searchItem=%s ",
   "description": "Heinzelnisse",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

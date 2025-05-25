@@ -4,5 +4,5 @@
   "url": "https://wayne.edu/search/?type=all&q=%s",
   "description": "Wayne State University",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

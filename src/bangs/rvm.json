@@ -4,5 +4,5 @@
   "url": "https://reviewmeta.com/search?q=%s",
   "description": "ReviewMeta",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

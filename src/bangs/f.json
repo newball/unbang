@@ -4,5 +4,5 @@
   "url": "http://www.flickr.com/search/?q=%s",
   "description": "Flickr",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

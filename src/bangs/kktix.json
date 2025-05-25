@@ -4,5 +4,5 @@
   "url": "https://kktix.com/events?search=%s",
   "description": "KKTIX",
   "category": "Entertainment",
-  "sub-category": "Events"
+  "subcategory": "Events"
 }

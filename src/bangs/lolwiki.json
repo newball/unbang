@@ -4,5 +4,5 @@
   "url": "http://leagueoflegends.wikia.com/wiki/Special:Search?search=%s ",
   "description": "League of Legends Wiki",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

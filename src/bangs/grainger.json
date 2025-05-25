@@ -4,5 +4,5 @@
   "url": "http://www.grainger.com/search?nls=1&searchQuery=%s ",
   "description": "Grainger",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

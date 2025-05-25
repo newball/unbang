@@ -4,5 +4,5 @@
   "url": "https://www.heise.de/download/search?terms=%s",
   "description": "Heise Download",
   "category": "Tech",
-  "sub-category": "Downloads (software)"
+  "subcategory": "Downloads (software)"
 }

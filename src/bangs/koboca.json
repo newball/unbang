@@ -4,5 +4,5 @@
   "url": "https://www.kobo.com/ca/en/search?Query=%s",
   "description": "Kobo (Canada)",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

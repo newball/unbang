@@ -4,5 +4,5 @@
   "url": "http://de.bab.la/konjugieren/deutsch/%s",
   "description": "Reverso Konjugator",
   "category": "Research",
-  "sub-category": "Reference (words intl)"
+  "subcategory": "Reference (words intl)"
 }

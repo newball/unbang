@@ -4,5 +4,5 @@
   "url": "https://outof.cards/search/?query=%s",
   "description": "Out of Cards",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

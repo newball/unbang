@@ -4,5 +4,5 @@
   "url": "http://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q=%s",
   "description": "BoardGameGeek",
   "category": "Entertainment",
-  "sub-category": "Games (offline)"
+  "subcategory": "Games (offline)"
 }

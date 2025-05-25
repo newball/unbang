@@ -4,5 +4,5 @@
   "url": "http://www.bbc.co.uk/search/sport/%s?video=on&audio=on&text=on",
   "description": "BBC Sport",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

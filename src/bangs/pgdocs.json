@@ -4,5 +4,5 @@
   "url": "http://www.postgresql.org/search/?u=%2Fdocs%2F&q=%s",
   "description": "PostgreSQL documentation",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

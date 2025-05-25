@@ -4,5 +4,5 @@
   "url": "http://library.gwu.edu/search-all?query=%s",
   "description": "George Washington University Libraries",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

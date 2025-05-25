@@ -4,5 +4,5 @@
   "url": "https://api.posteo.de/v1/public-keys/%s?type=openpgp",
   "description": "Posteo",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

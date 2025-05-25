@@ -4,5 +4,5 @@
   "url": "http://images.math.cnrs.fr/spip.php?page=recherche&page=recherche&recherche=%s",
   "description": "Images des mathématiques",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.chefkoch.de/suche.php?wo=2&suche=%s",
   "description": "chefkoch.de",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

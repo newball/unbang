@@ -4,5 +4,5 @@
   "url": "https://www.zalando.co.uk/catalog/?q=%s",
   "description": "Zalando",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.brookings.edu/search/?s=%s",
   "description": "Brookings Institution",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "https://developer.mozilla.org/en-US/search?q=%s&topic=addons",
   "description": "WebExtension Docs",
   "category": "Tech",
-  "sub-category": "Languages (javascript)"
+  "subcategory": "Languages (javascript)"
 }

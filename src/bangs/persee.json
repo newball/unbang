@@ -4,5 +4,5 @@
   "url": "http://www.persee.fr/search?q=%s",
   "description": "Persée",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

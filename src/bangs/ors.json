@@ -4,5 +4,5 @@
   "url": "https://old.reddit.com/r/%s/",
   "description": "Subreddit (Old Style)",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

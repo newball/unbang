@@ -4,5 +4,5 @@
   "url": "http://www.delfi.lt/paieska/?q=%s",
   "description": "Delfi",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

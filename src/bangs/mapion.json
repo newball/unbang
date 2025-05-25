@@ -4,5 +4,5 @@
   "url": "https://www.mapion.co.jp/s/q=%s/t=spot/",
   "description": "Mapion",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

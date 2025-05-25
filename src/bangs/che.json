@@ -4,5 +4,5 @@
   "url": "https://chrome.google.com/webstore/search/%s?_category=extensions",
   "description": "Chrome Web Store Extensions",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

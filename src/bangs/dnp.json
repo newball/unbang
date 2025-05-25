@@ -4,5 +4,5 @@
   "url": "http://referenceworks.brillonline.com/search?s.q=%s&s.f.s2_parent=s.f.book.der-neue-pauly",
   "description": "Der Neue Pauly",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

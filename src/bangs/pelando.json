@@ -4,5 +4,5 @@
   "url": "https://www.pelando.com.br/search?q=%s",
   "description": "Pelando",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

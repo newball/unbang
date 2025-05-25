@@ -4,5 +4,5 @@
   "url": "https://www.coupang.com/np/search?component=&q=%s",
   "description": "쿠팡",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

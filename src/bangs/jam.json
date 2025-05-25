@@ -4,5 +4,5 @@
   "url": "https://www.jamendo.com/en/search?qs=q=%s",
   "description": "Jamendo",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

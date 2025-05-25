@@ -4,5 +4,5 @@
   "url": "https://math.stackexchange.com/search?q=%s",
   "description": "Math Stack",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

@@ -4,5 +4,5 @@
   "url": "http://japaneseverbconjugator.com/VerbDetails.asp?txtVerb=%s",
   "description": "Japanese Verb Conjugator",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

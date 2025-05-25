@@ -4,5 +4,5 @@
   "url": "http://www.diigo.com/search/my?q=%s",
   "description": "Diigo",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

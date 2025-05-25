@@ -4,5 +4,5 @@
   "url": "http://tolkiengateway.net/wiki/Special:Search?search=%s",
   "description": "Tokien Gateway",
   "category": "Research",
-  "sub-category": "Topical"
+  "subcategory": "Topical"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.snf.ch/en/Search/Pages/default.aspx?k=%s",
   "description": "Swiss National Science Foundation",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

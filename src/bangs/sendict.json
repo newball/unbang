@@ -4,5 +4,5 @@
   "url": "http://sentencedict.com/%s.html",
   "description": "SentenceDict",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

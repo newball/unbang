@@ -4,5 +4,5 @@
   "url": "http://airnav.com/airport/%s",
   "description": "Airnav",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.gorillasports.de/search?page=search&page_action=query&desc=on&sdesc=on&keywords=%s",
   "description": "Gorilla Sports",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

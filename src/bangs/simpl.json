@@ -4,5 +4,5 @@
   "url": "https://www.simplyrecipes.com/?s=%s",
   "description": "Simply Recipes",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

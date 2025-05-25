@@ -4,5 +4,5 @@
   "url": "https://www.thingiverse.com/search?q=%s",
   "description": "Thingiverse",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

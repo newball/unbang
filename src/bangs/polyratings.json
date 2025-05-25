@@ -4,5 +4,5 @@
   "url": "http://polyratings.com/search.php?type=ProfName&terms=%s&format=long&sort=name",
   "description": "Polyratings",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

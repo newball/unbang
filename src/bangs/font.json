@@ -4,5 +4,5 @@
   "url": "http://www.identifont.com/find?font=%s&similar=%s",
   "description": "Identifont",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

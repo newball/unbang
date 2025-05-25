@@ -4,5 +4,5 @@
   "url": "https://www.ssllabs.com/ssltest/analyze.html?d=%s&latest=true",
   "description": "SSL Labs",
   "category": "Tech",
-  "sub-category": "Domains"
+  "subcategory": "Domains"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.google.pt/search?q=%s",
   "description": "Google PT",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

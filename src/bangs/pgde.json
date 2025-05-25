@@ -4,5 +4,5 @@
   "url": "http://gutenberg.spiegel.de/suche?q=%s",
   "description": "Projekt Gutenberg-DE",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

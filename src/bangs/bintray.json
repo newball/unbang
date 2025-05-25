@@ -4,5 +4,5 @@
   "url": "https://bintray.com/search?query=%s",
   "description": "JFrog Bintray",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

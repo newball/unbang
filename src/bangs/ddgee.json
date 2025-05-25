@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?kl=ee-et&q=%s",
   "description": "DuckDuckGo Estonia",
   "category": "Online Services",
-  "sub-category": "Search (DDG)"
+  "subcategory": "Search (DDG)"
 }

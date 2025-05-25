@@ -4,5 +4,5 @@
   "url": "http://www.freebsd.org/cgi/man.cgi?query=%s",
   "description": "FreeBSD Man Pages",
   "category": "Tech",
-  "sub-category": "Sysadmin (FreeBSD)"
+  "subcategory": "Sysadmin (FreeBSD)"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.op.gg/summoner/userName=%s",
   "description": "op.gg",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.quandl.com/search?query=%s",
   "description": "Quandl",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

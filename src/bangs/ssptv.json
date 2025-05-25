@@ -4,5 +4,5 @@
   "url": "http://www.ssptv.com/?s=%s",
   "description": "SSPTV",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

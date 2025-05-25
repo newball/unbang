@@ -4,5 +4,5 @@
   "url": "https://google.com/search?hl=ru&q=%s",
   "description": "Google Ru",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

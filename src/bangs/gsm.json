@@ -4,5 +4,5 @@
   "url": "http://www.gsmarena.com/results.php3?sName=%s",
   "description": "GSMArena",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

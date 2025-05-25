@@ -4,5 +4,5 @@
   "url": "https://www.franceculture.fr/recherche?q=%s",
   "description": "France Culture",
   "category": "Entertainment",
-  "sub-category": "Radio"
+  "subcategory": "Radio"
 }

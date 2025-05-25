@@ -4,5 +4,5 @@
   "url": "https://www.peapod.com/product-search/%s",
   "description": "Peapod",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

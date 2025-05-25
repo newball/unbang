@@ -4,5 +4,5 @@
   "url": "https://www.bing.com/images/search?q=imgurl:%s&view=detailv2&iss=sbi&FORM=IRSBIQ#enterInsights",
   "description": "Bing Reverse Image Search",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

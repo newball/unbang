@@ -4,5 +4,5 @@
   "url": "https://kontoutdrag.plusgirot.se/ku/sokko002?SO_KTO=%s",
   "description": "PlusGirot - Search PlusGiro number",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

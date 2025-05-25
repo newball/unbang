@@ -4,5 +4,5 @@
   "url": "http://moviecovers.com/multicrit.html?titre=%s",
   "description": "MovieCovers",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

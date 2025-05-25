@@ -4,5 +4,5 @@
   "url": "http://hn.algolia.com/#!/story/forever/0/%s",
   "description": "Hacker News",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

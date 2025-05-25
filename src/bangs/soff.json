@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?kp=-2&q=%s",
   "description": "DuckDuckGo SafeOff",
   "category": "Online Services",
-  "sub-category": "Search (DDG)"
+  "subcategory": "Search (DDG)"
 }

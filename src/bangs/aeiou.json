@@ -4,5 +4,5 @@
   "url": "https://austria-forum.org/Search.jsp?category=Austria-Forum&sname=name%2Csuchbegriff&query=%s+&searchType=default&useShortcuts=y&useSynonyms=n&doFuzzy=y&minResults=15",
   "description": "Austria Forum",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

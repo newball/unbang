@@ -4,5 +4,5 @@
   "url": "https://github.com/search?l=TeX&q=org%3Aplanetmath+%s&type=Topics",
   "description": "Planet Math (GitHub repo)",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

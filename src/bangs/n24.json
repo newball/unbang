@@ -4,5 +4,5 @@
   "url": "http://www.news24.com/search?q=%s",
   "description": "News24",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

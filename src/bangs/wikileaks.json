@@ -4,5 +4,5 @@
   "url": "https://search.wikileaks.org/?q=%s",
   "description": "WikiLeaks",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

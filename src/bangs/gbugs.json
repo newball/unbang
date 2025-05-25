@@ -4,5 +4,5 @@
   "url": "https://bugs.gentoo.org/buglist.cgi?quicksearch=%s",
   "description": "Gentoo's Bugzilla",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

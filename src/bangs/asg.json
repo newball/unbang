@@ -4,5 +4,5 @@
   "url": "https://smile.amazon.de/s/?field-keywords=%s",
   "description": "Amazon Smile (Germany)",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

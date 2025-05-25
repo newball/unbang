@@ -4,5 +4,5 @@
   "url": "https://chipublib.bibliocommons.com/search?&t=title&search_category=title&q=%s",
   "description": "Chicago Public Library",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.mofakult.ch/catalogsearch/result/?q=%s",
   "description": "Mofakult",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.aljazeera.com/Services/Search/?q=%s",
   "description": "Aljazeera",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

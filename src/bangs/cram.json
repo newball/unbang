@@ -4,5 +4,5 @@
   "url": "http://www.cram.com/search?query=%s&submit=Search",
   "description": "Cram",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

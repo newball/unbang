@@ -4,5 +4,5 @@
   "url": "http://www.kvraudio.com/q.php?search=1&q=%s",
   "description": "KVR Audio",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

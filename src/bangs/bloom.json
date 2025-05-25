@@ -4,5 +4,5 @@
   "url": "https://www.bloomberg.com/search?query=%s",
   "description": "Bloomberg",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.cuprinol.co.uk/servlet/SiteAdvancedSearchHandler?searchtype=all&searchString=%s",
   "description": "Cuprinol UK",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

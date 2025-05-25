@@ -4,5 +4,5 @@
   "url": "http://cookpad.com/search/%s",
   "description": "Cookpad",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

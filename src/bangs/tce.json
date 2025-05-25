@@ -4,5 +4,5 @@
   "url": "https://www.thecanadianencyclopedia.ca/en/search?search=%s",
   "description": "The Canadian Encyclopedia",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

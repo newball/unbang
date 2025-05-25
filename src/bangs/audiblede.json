@@ -4,5 +4,5 @@
   "url": "http://www.audible.de/search?advsearchKeywords=%s",
   "description": "Audible.de",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

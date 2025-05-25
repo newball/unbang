@@ -4,5 +4,5 @@
   "url": "https://www.mindfactory.de/search_result.php?select_search=0&search_query=%s",
   "description": "Mindfactory",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

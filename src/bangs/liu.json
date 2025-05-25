@@ -4,5 +4,5 @@
   "url": "http://search.liu.se/en/?query=%s",
   "description": "Linköping University",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "https://coincheckup.com/coins/%s",
   "description": "CoinCheckup",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

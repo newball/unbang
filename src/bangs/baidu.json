@@ -4,5 +4,5 @@
   "url": "http://www.baidu.com/s?wd=%s&cl=3",
   "description": "Baidu",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

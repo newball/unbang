@@ -4,5 +4,5 @@
   "url": "https://www.etsy.com/search?q=%s",
   "description": "Etsy",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

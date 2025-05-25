@@ -4,5 +4,5 @@
   "url": "https://www.kaleva.fi/haku/?search=%s",
   "description": "Kaleva.fi",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

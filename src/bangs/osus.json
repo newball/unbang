@@ -4,5 +4,5 @@
   "url": "http://osusearch.com/search/?title=%s",
   "description": "osu!search",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

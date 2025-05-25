@@ -4,5 +4,5 @@
   "url": "http://www.thinkwiki.org/w/index.php?search=%s&go=Go&title=Special%3ASearch",
   "description": "ThinkWiki",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

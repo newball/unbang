@@ -4,5 +4,5 @@
   "url": "https://www.interencheres.com/recherche/lots?search=%s&area=france",
   "description": "Interencheres",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

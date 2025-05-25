@@ -4,5 +4,5 @@
   "url": "http://plato.stanford.edu/search/searcher.py?query=%s",
   "description": "Stanford Encyclopedia of Philosophy",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

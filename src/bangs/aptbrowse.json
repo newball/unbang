@@ -4,5 +4,5 @@
   "url": "https://www.apt-browse.org/search/?query=%s",
   "description": "Apt-Browse",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

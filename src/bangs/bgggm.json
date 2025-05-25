@@ -4,5 +4,5 @@
   "url": "http://boardgamegeek.com/geekmarket/search?q=%s",
   "description": "na",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

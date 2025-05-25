@@ -4,5 +4,5 @@
   "url": "http://www.schottenland.de/suche/?searchstring=%s",
   "description": "Schottenland",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

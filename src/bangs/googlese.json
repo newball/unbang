@@ -4,5 +4,5 @@
   "url": "http://google.se/?q=%s",
   "description": "Google Sweden",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

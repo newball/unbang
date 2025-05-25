@@ -4,5 +4,5 @@
   "url": "http://www.pro-football-reference.com/player_search.fcgi?search=%s",
   "description": "Pro Football Reference",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

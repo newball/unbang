@@ -4,5 +4,5 @@
   "url": "http://www.cnet.com/search/?query=%s",
   "description": "CNET UK",
   "category": "Tech",
-  "sub-category": "Blogs (intl)"
+  "subcategory": "Blogs (intl)"
 }

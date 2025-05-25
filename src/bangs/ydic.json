@@ -4,5 +4,5 @@
   "url": "http://dic.search.yahoo.co.jp/search?ei=UTF-8&p=%s&stype=full&fr=dic",
   "description": "Yahoo!辞書",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

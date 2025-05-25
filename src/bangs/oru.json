@@ -4,5 +4,5 @@
   "url": "https://www.oru.se/funktioner/sokresultat/?query=%s",
   "description": "Örebro University",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

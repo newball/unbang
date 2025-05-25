@@ -4,5 +4,5 @@
   "url": "http://crackberry.com/search/google/%s?query=%s",
   "description": "Crackberry",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

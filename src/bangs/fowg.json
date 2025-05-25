@@ -4,5 +4,5 @@
   "url": "https://www.fowsystem.com/de/Kartendatenbank?page=&CERCA=cerca&cardname=%s&block=ALL&edition=ALL&REGATT=or&cardnumber=&ABILITYTEXT=&ATKMIN=0&ATKMAX=2500&DEFMIN=0&DEFMAX=2500",
   "description": "Force of Will German Database",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

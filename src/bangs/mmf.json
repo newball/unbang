@@ -4,5 +4,5 @@
   "url": "https://www.myminifactory.com/search/?query=%s&searchType=1",
   "description": "My Mini Factory",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

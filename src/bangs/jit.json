@@ -4,5 +4,5 @@
   "url": "http://www.jobintree.com/emploi?keywords=%s",
   "description": "Jobintree",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

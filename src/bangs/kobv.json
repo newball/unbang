@@ -4,5 +4,5 @@
   "url": "http://portal.kobv.de/simpleSearch.do?query= %s",
   "description": "http://www.kobv.de/",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

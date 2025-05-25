@@ -4,5 +4,5 @@
   "url": "http://www.lolking.net/search?name=%s",
   "description": "LolKing",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.ikea.com/at/de/search/products/?q=%s",
   "description": "IKEA Austria",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

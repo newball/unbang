@@ -4,5 +4,5 @@
   "url": "https://bpl.bibliocommons.com/search?q=%s&t=smart&search_category=keyword&commit=Search&submitsearch=go&se=catalog",
   "description": "Boston Public Library",
   "category": "Multimedia",
-  "sub-category": "General"
+  "subcategory": "General"
 }

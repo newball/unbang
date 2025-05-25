@@ -4,5 +4,5 @@
   "url": "https://www.otto-office.com/de/app/search/index?query[query]=%s",
   "description": "OTTO Office",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.trovaprezzi.it/categoria.aspx?libera=%s&id=-1&prezzomin=&prezzomax=",
   "description": "Trovaprezzi.it",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

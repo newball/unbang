@@ -4,5 +4,5 @@
   "url": "http://www.ibm.com/Search/?q=%s&v=16&en=utf&lang=en&cc=us&Search=Search",
   "description": "IBM",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.moex.com/en/issue.aspx?code=%s",
   "description": "Moscow Exchange",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

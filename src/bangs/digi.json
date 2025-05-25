@@ -4,5 +4,5 @@
   "url": "https://www.digi.no/sok?query=%s",
   "description": "Digi",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

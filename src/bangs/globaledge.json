@@ -4,5 +4,5 @@
   "url": "http://globaledge.msu.edu/search?q=%s",
   "description": "globalEDGE",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

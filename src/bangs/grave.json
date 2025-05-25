@@ -4,5 +4,5 @@
   "url": "http://www.findagrave.com/php/famous.php?globalSearchCriteria=%s",
   "description": "Find A Grave",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

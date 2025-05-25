@@ -4,5 +4,5 @@
   "url": "https://docs.python.org/3.6/library/%s.html",
   "description": "Python 3.6 Documentation",
   "category": "Tech",
-  "sub-category": "Languages (python)"
+  "subcategory": "Languages (python)"
 }

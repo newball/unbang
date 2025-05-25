@@ -4,5 +4,5 @@
   "url": "https://www.radiojavan.com/search?query=%s",
   "description": "RadioJavan",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

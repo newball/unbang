@@ -4,5 +4,5 @@
   "url": "http://howtodoinjava.com/search-results/?q=%s",
   "description": "Howtodoinjava",
   "category": "Tech",
-  "sub-category": "Languages (java)"
+  "subcategory": "Languages (java)"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.tivi.fi/haku/?q=%s",
   "description": "Tivi",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

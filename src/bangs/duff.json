@@ -4,5 +4,5 @@
   "url": "http://www.dotabuff.com/search?q=%s",
   "description": "DOTABUFF",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

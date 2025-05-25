@@ -4,5 +4,5 @@
   "url": "http://man.freebsd.org/%s",
   "description": "FreeBSD Man Pages",
   "category": "Tech",
-  "sub-category": "Sysadmin (man)"
+  "subcategory": "Sysadmin (man)"
 }

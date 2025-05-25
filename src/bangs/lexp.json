@@ -4,5 +4,5 @@
   "url": "http://lexparency.org/eu/EN/search?deep=True&search_words=%s",
   "description": "lexparency.org",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

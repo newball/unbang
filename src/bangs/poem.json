@@ -4,5 +4,5 @@
   "url": "http://www.poemhunter.com/search/?q=%s",
   "description": "PoemHunter",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.reelviews.net/search/%s",
   "description": "Reelviews",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

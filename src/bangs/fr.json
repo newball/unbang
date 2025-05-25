@@ -4,5 +4,5 @@
   "url": "http://www.larousse.fr/dictionnaires/francais/%s",
   "description": "Larousse French Dictionary",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

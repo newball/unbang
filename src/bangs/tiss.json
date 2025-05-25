@@ -4,5 +4,5 @@
   "url": "https://tiss.tuwien.ac.at/adressbuch/adressbuch/suche?suchtext=%s",
   "description": "tiss.tuwien.ac.at",
   "category": "Research",
-  "sub-category": "Local"
+  "subcategory": "Local"
 }

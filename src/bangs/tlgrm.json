@@ -4,5 +4,5 @@
   "url": "https://web.telegram.org/#/im?p=%s ",
   "description": "Telegram",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

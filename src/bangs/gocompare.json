@@ -4,5 +4,5 @@
   "url": "http://www.gocompare.com/searchresults/?q=%s",
   "description": "Gocompare.com",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

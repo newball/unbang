@@ -4,5 +4,5 @@
   "url": "https://developer.ubuntu.com/en/search/?q=%s",
   "description": "Ubuntu Developer",
   "category": "Tech",
-  "sub-category": "Languages (other)"
+  "subcategory": "Languages (other)"
 }

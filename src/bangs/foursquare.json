@@ -4,5 +4,5 @@
   "url": "https://foursquare.com/explore?q=%s",
   "description": "Foursquare",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

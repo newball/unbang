@@ -4,5 +4,5 @@
   "url": "https://hal.archives-ouvertes.fr/search/index/?q=%s",
   "description": "HAL",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

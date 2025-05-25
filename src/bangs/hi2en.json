@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#view=home&op=translate&sl=hi&tl=en&text=%s",
   "description": "Google translate English to Hindi",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

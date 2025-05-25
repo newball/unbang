@@ -4,5 +4,5 @@
   "url": "http://dota2.gamepedia.com/Special:Search/%s",
   "description": "Dota2 Gamepedia",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

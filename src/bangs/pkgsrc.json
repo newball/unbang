@@ -4,5 +4,5 @@
   "url": "http://pkgsrc.se/search.php?so=%s",
   "description": "Pkgsrc.se",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

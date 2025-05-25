@@ -4,5 +4,5 @@
   "url": "https://www.macobserver.com/?s=%s",
   "description": "The Mac Observer",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

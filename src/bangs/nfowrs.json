@@ -4,5 +4,5 @@
   "url": "http://www.infowars.com/?q=%s",
   "description": "Infowars",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

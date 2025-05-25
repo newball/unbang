@@ -4,5 +4,5 @@
   "url": "https://tails.boum.org/ikiwiki.cgi?P=%s",
   "description": "Tails - The Amnesic Incognito Live System",
   "category": "Tech",
-  "sub-category": "Sysadmin (debian)"
+  "subcategory": "Sysadmin (debian)"
 }

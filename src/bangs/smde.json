@@ -4,5 +4,5 @@
   "url": "http://smile.amazon.de/s?field-keywords=%s",
   "description": "Amazon Smile (De)",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "https://market.android.com/search?q=%s&c=apps",
   "description": "Android Market",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

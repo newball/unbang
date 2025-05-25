@@ -4,5 +4,5 @@
   "url": "https://wiki.jvflux.com/index.php?title=Spécial:Recherche&search=%s",
   "description": "Wiki de JV Flux",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

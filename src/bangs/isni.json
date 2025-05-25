@@ -4,5 +4,5 @@
   "url": "https://isni.oclc.org/xslt/CMD?ACT=SRCH&IKT=8006&TRM=%s",
   "description": "International Standard Name Identifier",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

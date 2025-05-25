@@ -4,5 +4,5 @@
   "url": "https://www.musixmatch.com/de/search/%s",
   "description": "Musixmatch DE",
   "category": "Multimedia",
-  "sub-category": "Docs"
+  "subcategory": "Docs"
 }

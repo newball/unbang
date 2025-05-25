@@ -4,5 +4,5 @@
   "url": "http://www.socksandmore.dk/catalogsearch/result/?q=%s",
   "description": "Socks & More",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

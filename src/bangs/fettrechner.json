@@ -4,5 +4,5 @@
   "url": "http://www.fettrechner.de/cgi-bin/kalorientabelle.pl?t=temsearch&sort=BEZEICHNUNG&f=*RUBRIK%2C*SUCHBEGRIFFE%2C*BEZEICHNUNG%2C*HERSTELLER&f1=HERSTELLER&start=1&dif=50&c=%s",
   "description": "Fettrechner",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

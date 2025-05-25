@@ -4,5 +4,5 @@
   "url": "http://www.whoishostingthis.com/?q=%s",
   "description": "WhoIsHostingThis",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

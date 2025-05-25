@@ -4,5 +4,5 @@
   "url": "https://www.plurk.com/search?q=%s",
   "description": "Plurk",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

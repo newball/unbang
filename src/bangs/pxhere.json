@@ -4,5 +4,5 @@
   "url": "https://pxhere.com/en/photos?q=%s",
   "description": "pxhere",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

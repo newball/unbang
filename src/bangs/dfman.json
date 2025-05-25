@@ -4,5 +4,5 @@
   "url": "http://leaf.dragonflybsd.org/cgi/web-man?command=%s&section=ANY",
   "description": "DragonFly BSD manual pages",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

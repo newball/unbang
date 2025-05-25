@@ -4,5 +4,5 @@
   "url": "https://vimeo.com/search?q=%s",
   "description": "Vimeo",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

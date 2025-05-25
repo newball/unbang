@@ -4,5 +4,5 @@
   "url": "http://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=%s",
   "description": "Transfermarkt",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

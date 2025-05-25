@@ -4,5 +4,5 @@
   "url": "https://wiki.mozilla.org/index.php?search=%s",
   "description": "Mozilla Wiki",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

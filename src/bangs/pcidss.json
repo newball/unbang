@@ -4,5 +4,5 @@
   "url": "https://www.pcisecuritystandards.org/search/search.php?query=%s",
   "description": "https://www.pcisecuritystandards.org",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

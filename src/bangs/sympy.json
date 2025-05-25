@@ -4,5 +4,5 @@
   "url": "http://www.sympygamma.com/input/?i=%s",
   "description": "SymPy Gamma",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

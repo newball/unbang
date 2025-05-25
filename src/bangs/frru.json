@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#fr/ru/%s",
   "description": "Google Translate FR-RU",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

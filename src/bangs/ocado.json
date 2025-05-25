@@ -4,5 +4,5 @@
   "url": "https://www.ocado.com/webshop/getSearchProducts.do?entry=%s",
   "description": "Ocado",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "https://search.privacytools.io/?q=%s",
   "description": "search.privacytools.io",
   "category": "Online Services",
-  "sub-category": "Search (Private)"
+  "subcategory": "Search (Private)"
 }

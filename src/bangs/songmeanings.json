@@ -4,5 +4,5 @@
   "url": "http://songmeanings.com/query/?query=%s",
   "description": "SongMeanings",
   "category": "Multimedia",
-  "sub-category": "Music (Lyrics)"
+  "subcategory": "Music (Lyrics)"
 }

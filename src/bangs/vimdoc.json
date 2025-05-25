@@ -4,5 +4,5 @@
   "url": "http://vimdoc.sourceforge.net/search.php?search=%s&docs=help",
   "description": "Vimdoc",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

@@ -4,5 +4,5 @@
   "url": "https://pikabu.ru/search.php?q=%s",
   "description": "pikabu.ru",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

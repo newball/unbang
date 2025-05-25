@@ -4,5 +4,5 @@
   "url": "https://www.predictit.org/markets/search?query=%s",
   "description": "PredictIt",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "https://shopee.ph/search?keyword=%s",
   "description": "Shopee",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

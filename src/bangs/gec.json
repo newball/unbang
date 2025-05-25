@@ -4,5 +4,5 @@
   "url": "https://www.google.com.ec/search?safe=active&q=%s",
   "description": "Google Ecuador",
   "category": "Research",
-  "sub-category": "Local"
+  "subcategory": "Local"
 }

@@ -4,5 +4,5 @@
   "url": "http://listado.mercadolibre.com.ar/%s#D[A:%s]",
   "description": "MercadoLibre",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

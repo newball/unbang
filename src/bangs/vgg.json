@@ -4,5 +4,5 @@
   "url": "http://www.viagogo.com/searchResults.aspx?SearchText=%s",
   "description": "viagogo",
   "category": "Entertainment",
-  "sub-category": "Events"
+  "subcategory": "Events"
 }

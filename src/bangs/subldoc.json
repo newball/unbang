@@ -4,5 +4,5 @@
   "url": "http://docs.sublimetext.info/en/latest/search.html?q=%s",
   "description": "Sublime Text Unofficial Documentation",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

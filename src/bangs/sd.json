@@ -4,5 +4,5 @@
   "url": "https://slickdeals.net/newsearch.php?q=%s&searcharea=deals&searchin=first",
   "description": "SlickDeals",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

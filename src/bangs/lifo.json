@@ -4,5 +4,5 @@
   "url": "https://www.lifo.gr/search?q=%s",
   "description": "Lifo",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

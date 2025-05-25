@@ -4,5 +4,5 @@
   "url": "https://helka.finna.fi/Search/Results?lookfor=%s",
   "description": "Helka",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

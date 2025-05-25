@@ -4,5 +4,5 @@
   "url": "http://docs.meteor.com/#/full/%s",
   "description": "Meteor Docs",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.musicradar.com/search?searchTerm=%s:",
   "description": "MusicRadar",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

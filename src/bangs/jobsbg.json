@@ -4,5 +4,5 @@
   "url": "https://www.jobs.bg/front_job_search.php?zone_id=0&distance=0&location_sid=0&all_categories=0&all_type=0&all_position_level=1&all_company_type=1&keyword=%s&last=0",
   "description": "jobs.bg",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

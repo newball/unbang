@@ -4,5 +4,5 @@
   "url": "https://osmcha.mapbox.com/changesets/%s",
   "description": "OSMCha",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

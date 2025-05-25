@@ -4,5 +4,5 @@
   "url": "https://itunes.apple.com/us/artist/%s",
   "description": "iTunes ",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

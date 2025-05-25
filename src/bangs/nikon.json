@@ -4,5 +4,5 @@
   "url": "http://www.nikonusa.com/en/about-nikon/search.page?searchCollection=SEARCH_ALL&q=%s",
   "description": "Nikon USA",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

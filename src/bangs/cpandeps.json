@@ -4,5 +4,5 @@
   "url": "http://deps.cpantesters.org/?module=%s&perl=any+version&os=any+OS",
   "description": "CPAN Dependencies Checker",
   "category": "Tech",
-  "sub-category": "Languages (perl)"
+  "subcategory": "Languages (perl)"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=%s",
   "description": "alibaba",
   "category": "Shopping",
-  "sub-category": "Online (intl)"
+  "subcategory": "Online (intl)"
 }

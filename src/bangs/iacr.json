@@ -4,5 +4,5 @@
   "url": "https://www.iacr.org/search/?q=%s",
   "description": "IACR",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

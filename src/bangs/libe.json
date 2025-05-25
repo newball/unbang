@@ -4,5 +4,5 @@
   "url": "https://www.liberation.fr/recherche/?q=%s",
   "description": "Libération",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

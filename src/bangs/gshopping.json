@@ -4,5 +4,5 @@
   "url": "https://www.google.com/products?q=%s&sa=N&tab=pf",
   "description": "Google Shopping",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

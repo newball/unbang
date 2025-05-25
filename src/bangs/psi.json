@@ -4,5 +4,5 @@
   "url": "https://www.psi.ch/search/telefonbuch-und-e-mail?q=%s",
   "description": "PSI Phonebook",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

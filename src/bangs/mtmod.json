@@ -4,5 +4,5 @@
   "url": "https://content.minetest.net/packages/?q=%s",
   "description": "Minetest ContentDB",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

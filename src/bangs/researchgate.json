@@ -4,5 +4,5 @@
   "url": "https://www.researchgate.net/search/publications?q=%s",
   "description": "ResearchGate",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

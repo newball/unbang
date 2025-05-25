@@ -4,5 +4,5 @@
   "url": "http://ff14.inven.co.kr/dataninfo/item/?itemname=%s&datagroup=search",
   "description": "파판14 인벤",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

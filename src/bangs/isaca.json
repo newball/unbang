@@ -4,5 +4,5 @@
   "url": "http://www.isaca.org/Search/Pages/DefaultResults.aspx?k=Test&s=%s",
   "description": "ISACA.org",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

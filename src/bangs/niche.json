@@ -4,5 +4,5 @@
   "url": "https://www.niche.com/search/?q=%s",
   "description": "Niche",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

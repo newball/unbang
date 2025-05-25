@@ -4,5 +4,5 @@
   "url": "https://www.euronics.de/search/?sSearch=%s&log=search",
   "description": "Euronics",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

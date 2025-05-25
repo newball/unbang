@@ -4,5 +4,5 @@
   "url": "https://www.frequencycheck.com/search?s=%s",
   "description": "FrequencyCheck",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

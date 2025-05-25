@@ -4,5 +4,5 @@
   "url": "http://man.openbsd.org/?query=%s",
   "description": "OpenBSD",
   "category": "Tech",
-  "sub-category": "Sysadmin (man)"
+  "subcategory": "Sysadmin (man)"
 }

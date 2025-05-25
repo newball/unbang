@@ -4,5 +4,5 @@
   "url": "https://www.encodeproject.org/search/?searchTerm=%s",
   "description": "ENCODE",
   "category": "Research",
-  "sub-category": "Academic (biology)"
+  "subcategory": "Academic (biology)"
 }

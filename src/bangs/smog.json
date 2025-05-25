@@ -4,5 +4,5 @@
   "url": "http://www.smogon.com/search/?q=%s",
   "description": "Smogon University",
   "category": "Entertainment",
-  "sub-category": "Games (Pokemon)"
+  "subcategory": "Games (Pokemon)"
 }

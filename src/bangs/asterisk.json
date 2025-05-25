@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s+site%3Awiki.asterisk.org&ia=web",
   "description": "Asterisk Wiki",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

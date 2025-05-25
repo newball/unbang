@@ -4,5 +4,5 @@
   "url": "http://www.amazon.com/s/&url=search-alias%3Dautomotive&field-keywords=%s",
   "description": "Amazon Automotive",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

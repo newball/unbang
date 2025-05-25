@@ -4,5 +4,5 @@
   "url": "http://www.zdnet.com/search?q=%s",
   "description": "ZDNet",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

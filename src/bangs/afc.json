@@ -4,5 +4,5 @@
   "url": "https://www.arsenal.com/search?search=%s",
   "description": "Arsenal",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

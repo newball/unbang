@@ -4,5 +4,5 @@
   "url": "https://www.happycow.net/searchmap?lat=&lng=&location=%s",
   "description": "HappyCow",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

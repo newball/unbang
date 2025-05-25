@@ -4,5 +4,5 @@
   "url": "http://www.finanzen.net/suchergebnis.asp?strSuchString=%s",
   "description": "finanzen.net",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

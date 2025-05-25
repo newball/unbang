@@ -4,5 +4,5 @@
   "url": "https://www.digitalocean.com/community/tutorials?q=%s",
   "description": "Digital Ocean Tutorials",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

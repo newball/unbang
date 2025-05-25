@@ -4,5 +4,5 @@
   "url": "http://radio.nrk.no/sok?q=%s",
   "description": "NRK Radio",
   "category": "Entertainment",
-  "sub-category": "Radio"
+  "subcategory": "Radio"
 }

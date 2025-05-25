@@ -4,5 +4,5 @@
   "url": "https://jcp.org/en/jsr/summary?id=%s",
   "description": "Java Community Process",
   "category": "Tech",
-  "sub-category": "Languages (java)"
+  "subcategory": "Languages (java)"
 }

@@ -4,5 +4,5 @@
   "url": "https://directory.shoutcast.com/Search?query=%s",
   "description": "Shoutcast Streaming Internet Radio",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.metalstorm.net/home/search.php?search_where=band&search_what=%s&x=0&y=0",
   "description": "Metal Storm",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

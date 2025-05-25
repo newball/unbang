@@ -4,5 +4,5 @@
   "url": "https://www.reciva.com/stations/search?q=%s",
   "description": "Reciva",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

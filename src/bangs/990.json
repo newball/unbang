@@ -4,5 +4,5 @@
   "url": "http://990finder.foundationcenter.org/990results.aspx?990_type=&fn=%s&st=&zp=&ei=&fy=&action=Search",
   "description": "990 Search (Foundation Center)",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

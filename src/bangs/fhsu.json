@@ -4,5 +4,5 @@
   "url": "https://fhsu.edu/searchresults.aspx?query=%s",
   "description": "Fort Hays State University",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

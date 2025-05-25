@@ -4,5 +4,5 @@
   "url": "https://www.ssllabs.com/ssldb/analyze.html?d=%s&hideResults=on",
   "description": "Qualys SSL Labs",
   "category": "Tech",
-  "sub-category": "Domains"
+  "subcategory": "Domains"
 }

@@ -4,5 +4,5 @@
   "url": "http://hackaday.com/?s=%s",
   "description": "HackADay",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

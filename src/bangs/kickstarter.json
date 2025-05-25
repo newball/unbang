@@ -4,5 +4,5 @@
   "url": "https://www.kickstarter.com/projects/search?utf8=✓&term=%s",
   "description": "Kickstarter",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

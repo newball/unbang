@@ -4,5 +4,5 @@
   "url": "http://www.wbur.org/search?q=%s",
   "description": "WBUR",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

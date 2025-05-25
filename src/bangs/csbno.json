@@ -4,5 +4,5 @@
   "url": "http://webopac.csbno.net/opac/search/lst?q=%s",
   "description": "Consorzio Sistema Bibliotecario Nord Ovest",
   "category": "Research",
-  "sub-category": "Learning (intl)"
+  "subcategory": "Learning (intl)"
 }

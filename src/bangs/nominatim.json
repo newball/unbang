@@ -4,5 +4,5 @@
   "url": "http://nominatim.openstreetmap.org/search?q=%s",
   "description": "OpenStreetMap Nominatim",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.clicrbs.com.br/busca/rs/?q=%s ",
   "description": "ClicRBS",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

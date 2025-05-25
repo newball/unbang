@@ -4,5 +4,5 @@
   "url": "https://www.coworking.coffee/places?q=%s",
   "description": "Coworking & Coffee: search for place",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

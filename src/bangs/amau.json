@@ -4,5 +4,5 @@
   "url": "https://www.amazon.com.au/s?k=%s",
   "description": "amazon.com.au",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

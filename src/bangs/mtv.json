@@ -4,5 +4,5 @@
   "url": "http://www.mtv.com/search/?searchterm=%s",
   "description": "MTV",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

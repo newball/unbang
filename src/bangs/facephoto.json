@@ -4,5 +4,5 @@
   "url": "https://www.google.com/search?q=%22%s%22&tbm=isch&tbs=ic:color,isz:lt,itp:face,isg:to&filter=0&safe=off&pws=0&tbs=rl:0",
   "description": "Google",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

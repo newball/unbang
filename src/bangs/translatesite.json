@@ -4,5 +4,5 @@
   "url": "http://www.microsofttranslator.com/bv.aspx?from=&to=en&a=%s",
   "description": "Microsoft Translator (for websites)",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

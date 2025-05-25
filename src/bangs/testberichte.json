@@ -4,5 +4,5 @@
   "url": "http://www.testberichte.de/d/search.php?searchstr=%s&submit=Suchen",
   "description": "Testberichte.de",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

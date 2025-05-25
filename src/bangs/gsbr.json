@@ -4,5 +4,5 @@
   "url": "http://www.google.com.br/search?q=%s&hl=pt-BR&safe=off&biw=1108&bih=651&prmd=imvns&source=univ&tbm=shop&tbo=u&sa=X&ei=ZculTqjGLcvAgQf5n_CxBQ&ved=0CJkBEK0E",
   "description": "Google Shopping (BR)",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

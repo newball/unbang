@@ -4,5 +4,5 @@
   "url": "http://www.decitre.fr/rechercher/result/?q=%s",
   "description": "Decitre",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

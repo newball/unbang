@@ -4,5 +4,5 @@
   "url": "https://forum.sublimetext.com/search?q=%s",
   "description": "Sublime Text Forum",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

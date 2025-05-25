@@ -4,5 +4,5 @@
   "url": "/?q=%s+site:xkcd.com",
   "description": "xkcd",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

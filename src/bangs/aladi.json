@@ -4,5 +4,5 @@
   "url": "https://aladi.diba.cat/search*cat/-%s",
   "description": "Catàleg de la Xarxa de Biblioteques Municipals de la Diputació de Barcelona",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

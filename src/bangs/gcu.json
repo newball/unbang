@@ -4,5 +4,5 @@
   "url": "https://www.google.com/search?q=%s&source=lnt&tbs=ctr:countryCU&cr=countryCU",
   "description": "Google Cuba",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

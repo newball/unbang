@@ -4,5 +4,5 @@
   "url": "https://elpasopl.ent.sirsi.net/client/en_US/default/search/results?ln=en_US&q=%s",
   "description": "El Paso Public Library",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

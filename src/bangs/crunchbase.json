@@ -4,5 +4,5 @@
   "url": "https://www.crunchbase.com/textsearch?q=%s",
   "description": "CrunchBase",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

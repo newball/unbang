@@ -4,5 +4,5 @@
   "url": "http://www.washingtonpost.com/ac2/wp-dyn/NewsSearch?sb=-1&st=%s",
   "description": "The Washington Post",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

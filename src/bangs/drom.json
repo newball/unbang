@@ -4,5 +4,5 @@
   "url": "https://www.drom.ru/search/?q=%s",
   "description": "drom.ru",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

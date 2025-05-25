@@ -4,5 +4,5 @@
   "url": "https://catalog.nexpresslibrary.org/cgi-bin/koha/opac-search.pl?q=%s ",
   "description": "NExpress Catalog",
   "category": "Multimedia",
-  "sub-category": "General"
+  "subcategory": "General"
 }

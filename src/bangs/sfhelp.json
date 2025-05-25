@@ -4,5 +4,5 @@
   "url": "https://help.salesforce.com/search#q=%s",
   "description": "Salesforce Help",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

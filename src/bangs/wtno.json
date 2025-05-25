@@ -4,5 +4,5 @@
   "url": "https://no.wiktionary.org/wiki/index.php?title=Special:Search&search=%s",
   "description": "Wiktionary (Norwegian)",
   "category": "Research",
-  "sub-category": "Learning (intl)"
+  "subcategory": "Learning (intl)"
 }

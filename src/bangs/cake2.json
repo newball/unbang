@@ -4,5 +4,5 @@
   "url": "http://book.cakephp.org/2.0/en/search.html?q=%s",
   "description": "CakePHP 2",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

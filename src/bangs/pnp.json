@@ -4,5 +4,5 @@
   "url": "http://shop.pnp.co.za/b2c_pnp/b2c/display/(cpgsize=12&layout=5.1-6_2_4_86_92_8_3&uiarea=1&carea=%24ROOT&cpgnum=1&cquery=%s)/.do?rf=y",
   "description": "Pick n Pay",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

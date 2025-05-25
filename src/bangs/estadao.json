@@ -4,5 +4,5 @@
   "url": "https://busca.estadao.com.br/?q=%s",
   "description": "O Estado de S. Paulo",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

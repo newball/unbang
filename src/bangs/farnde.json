@@ -4,5 +4,5 @@
   "url": "http://de.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=-3&storeId=10161&categoryName=Alle%20Kategorien&selectedCategoryId=&gs=true&st=%s",
   "description": "Farnell DE",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

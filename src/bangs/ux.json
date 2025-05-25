@@ -4,5 +4,5 @@
   "url": "http://ux.stackexchange.com/search?q=%s",
   "description": "UX stackexchange",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

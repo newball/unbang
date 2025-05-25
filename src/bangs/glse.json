@@ -4,5 +4,5 @@
   "url": "https://german.stackexchange.com/search?q=%s",
   "description": "German Language Stack Exchange",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

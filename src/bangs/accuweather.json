@@ -4,5 +4,5 @@
   "url": "http://www.accuweather.com/us-city-list.asp?zipcode=%s",
   "description": "AccuWeather",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

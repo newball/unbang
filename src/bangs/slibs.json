@@ -4,5 +4,5 @@
   "url": "http://searchlibs.com/?q=%s",
   "description": "SearchLibs",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

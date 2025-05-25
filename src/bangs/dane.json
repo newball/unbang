@@ -4,5 +4,5 @@
   "url": "http://dane.ac-dijon.fr/?s=%s",
   "description": "dane dijon",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

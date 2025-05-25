@@ -4,5 +4,5 @@
   "url": "https://fr.wowhead.com/search?q=%s",
   "description": "Wowhead",
   "category": "Entertainment",
-  "sub-category": "Games (WOW)"
+  "subcategory": "Games (WOW)"
 }

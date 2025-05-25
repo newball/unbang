@@ -4,5 +4,5 @@
   "url": "http://www.buzzfeed.com/search?q=%s",
   "description": "BuzzFeed",
   "category": "Entertainment",
-  "sub-category": "Events"
+  "subcategory": "Events"
 }

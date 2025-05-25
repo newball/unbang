@@ -4,5 +4,5 @@
   "url": "http://borderlands.wikia.com/wiki/Special:Search?query=%s",
   "description": "Borderlands Wiki",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

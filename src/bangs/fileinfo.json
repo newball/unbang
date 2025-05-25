@@ -4,5 +4,5 @@
   "url": "http://fileinfo.com/extension/%s",
   "description": "File info",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

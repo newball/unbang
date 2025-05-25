@@ -4,5 +4,5 @@
   "url": "http://www.tritrans.net/cgibin/translate.cgi?spraak=Engelsk&Fra=%s&button=Translate%21",
   "description": "TriTrans",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

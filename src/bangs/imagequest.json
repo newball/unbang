@@ -4,5 +4,5 @@
   "url": "http://quest.eb.com/search/%s",
   "description": "Britannica ImageQuest",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

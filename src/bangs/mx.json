@@ -4,5 +4,5 @@
   "url": "http://mxtoolbox.com/SuperTool.aspx?action=mx%3a%s&run=networktools",
   "description": "MxToolbox",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

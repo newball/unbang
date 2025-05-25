@@ -4,5 +4,5 @@
   "url": "https://kasperfred.com/posts/?q=%s",
   "description": "Kasperfred",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

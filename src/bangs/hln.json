@@ -4,5 +4,5 @@
   "url": "https://www.hln.be/zoeken?query=%s",
   "description": "Het Laatste Nieuws",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

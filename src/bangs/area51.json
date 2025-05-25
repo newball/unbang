@@ -4,5 +4,5 @@
   "url": "http://discuss.area51.stackexchange.com/search?q= %s",
   "description": "Area51",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

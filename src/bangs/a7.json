@@ -4,5 +4,5 @@
   "url": "https://v7.angular.io/api?query=%s",
   "description": "Angular.io v7",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

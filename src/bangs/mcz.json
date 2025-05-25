@@ -4,5 +4,5 @@
   "url": "https://mapy.cz/?q=%s",
   "description": "Mapy.cz",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

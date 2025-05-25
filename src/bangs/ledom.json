@@ -4,5 +4,5 @@
   "url": "https://ledom.com.ua/search?controller=search&orderby=position&orderway=desc&search_category=all&s=%s",
   "description": "LeDom",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

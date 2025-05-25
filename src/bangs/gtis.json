@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#auto/is/%s",
   "description": "Detect language to Icelandic",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

@@ -4,5 +4,5 @@
   "url": "http://paizo.com/search?q=%s&what=prd&includeUnrated=true&includeUnavailable=true",
   "description": "Pathfinder Reference Document",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

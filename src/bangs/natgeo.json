@@ -4,5 +4,5 @@
   "url": "https://www.nationalgeographic.com/search/?q=%s",
   "description": "National Geographic",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

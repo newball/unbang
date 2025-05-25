@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#auto/lv/%s",
   "description": "Detect language to Latvian",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

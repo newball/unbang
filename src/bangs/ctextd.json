@@ -4,5 +4,5 @@
   "url": "http://ctext.org/dictionary.pl?if=en&char=%s",
   "description": "Chinese Text Project Dictionary",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "http://social.technet.microsoft.com/search/en-us/?query=%s",
   "description": "Microsoft TechNet",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

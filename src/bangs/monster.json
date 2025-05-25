@@ -4,5 +4,5 @@
   "url": "http://jobsearch.monster.com/Search.aspx?re=130&cy=us&brd=1&JSNONREG=1&q=%s&rad=20&rad_units=miles",
   "description": "Monster.com",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

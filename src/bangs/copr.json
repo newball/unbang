@@ -4,5 +4,5 @@
   "url": "http://copr.fedoraproject.org/coprs/fulltext/?fulltext=%s",
   "description": "Fedora Copr",
   "category": "Tech",
-  "sub-category": "Sysadmin (Fedora)"
+  "subcategory": "Sysadmin (Fedora)"
 }

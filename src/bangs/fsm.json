@@ -4,5 +4,5 @@
   "url": "http://futurism.com/?s=%s",
   "description": "Futurism",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

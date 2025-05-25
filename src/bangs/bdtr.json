@@ -4,5 +4,5 @@
   "url": "https://fanyi.baidu.com/#en/zh/%s",
   "description": "百度翻译",
   "category": "Translation",
-  "sub-category": "General"
+  "subcategory": "General"
 }

@@ -4,5 +4,5 @@
   "url": "http://duckduckgo.com/?q=%s+site:https://opam.ocaml.org/packages",
   "description": "OPAM",
   "category": "Tech",
-  "sub-category": "Languages (other)"
+  "subcategory": "Languages (other)"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.scimagojr.com/journalsearch.php?q=%s",
   "description": "Scimago Journal & Country Rank",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

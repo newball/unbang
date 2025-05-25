@@ -4,5 +4,5 @@
   "url": "http://www.flipjuke.fr/search.php?keywords=%s",
   "description": "FlipJuke",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

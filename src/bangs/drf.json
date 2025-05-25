@@ -4,5 +4,5 @@
   "url": "http://www.django-rest-framework.org/?q=%s",
   "description": "Django REST Framework",
   "category": "Tech",
-  "sub-category": "Languages (python)"
+  "subcategory": "Languages (python)"
 }

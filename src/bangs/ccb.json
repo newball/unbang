@@ -4,5 +4,5 @@
   "url": "https://www.climbbybike.com/climbs_selection.asp?Mountainname=%s",
   "description": "Climbbybike.com",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

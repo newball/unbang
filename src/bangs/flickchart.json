@@ -4,5 +4,5 @@
   "url": "http://www.flickchart.com/SearchResults.aspx?s=%s",
   "description": "Flickchart",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

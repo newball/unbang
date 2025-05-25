@@ -4,5 +4,5 @@
   "url": "https://duet3d.dozuki.com/Search?query=%s",
   "description": "Duet3D Documentation",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

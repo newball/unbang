@@ -4,5 +4,5 @@
   "url": "https://shop.messerle.at/dataTransfer/custom/suche.php?keyword=%s",
   "description": "Messerle GmbH",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

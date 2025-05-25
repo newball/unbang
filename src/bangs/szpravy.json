@@ -4,5 +4,5 @@
   "url": "https://www.seznam.cz/zpravy/hledani?q=%s&search--active=1",
   "description": "Seznam Zprávy",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

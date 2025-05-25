@@ -4,5 +4,5 @@
   "url": "https://www.aktuality.sk/vyhladavanie/?q=%s",
   "description": "Aktuality",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

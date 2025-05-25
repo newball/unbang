@@ -4,5 +4,5 @@
   "url": "http://www.thefutoncritic.com/search.aspx?q=%s&type=titles",
   "description": "The Futon Critic",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

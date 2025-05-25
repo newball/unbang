@@ -4,5 +4,5 @@
   "url": "http://www.runehq.com/search.php?q=%s",
   "description": "RuneHQ",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

@@ -4,5 +4,5 @@
   "url": "http://pective.com/search?q=%s",
   "description": "Pective",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

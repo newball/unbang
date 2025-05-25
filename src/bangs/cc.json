@@ -4,5 +4,5 @@
   "url": "https://search.creativecommons.org/search?q=%s",
   "description": "CreativeCommons.org",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

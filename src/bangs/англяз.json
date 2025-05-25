@@ -4,5 +4,5 @@
   "url": "http://engramm.su/start?do=search&id=%s",
   "description": "Вики-учебник Английского Языка",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

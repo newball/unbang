@@ -4,5 +4,5 @@
   "url": "http://japanese.stackexchange.com/search?q=%s",
   "description": "Japanese Language Stack Exchange",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

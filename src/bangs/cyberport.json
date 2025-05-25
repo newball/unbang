@@ -4,5 +4,5 @@
   "url": "http://www.cyberport.de/?EVENT=itemsearch&query=%s",
   "description": "Cyberport",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

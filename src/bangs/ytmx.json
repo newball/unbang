@@ -4,5 +4,5 @@
   "url": "https://www.youtube.com/results?search_query=%s&gl=MX",
   "description": "YouTube (MX)",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

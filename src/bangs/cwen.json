@@ -4,5 +4,5 @@
   "url": "https://en.wikipedia.org/wiki/Special:CiteThisPage?page=%s",
   "description": "Wikipedia - Cite This Page",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

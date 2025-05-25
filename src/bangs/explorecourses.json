@@ -4,5 +4,5 @@
   "url": "http://explorecourses.stanford.edu/search?q=%s",
   "description": "Explore Courses",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

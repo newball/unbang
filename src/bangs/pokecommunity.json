@@ -4,5 +4,5 @@
   "url": "https://www.pokecommunity.com/search.php?do=q%s",
   "description": "Pokécommunity",
   "category": "Entertainment",
-  "sub-category": "Games (Pokemon)"
+  "subcategory": "Games (Pokemon)"
 }

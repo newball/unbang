@@ -4,5 +4,5 @@
   "url": "https://mail.live.com/default.aspx?skws=hello#fid=flsearch&srch=1&skws=%s&sdr=4&satt=0",
   "description": "Outlook",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

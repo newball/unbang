@@ -4,5 +4,5 @@
   "url": "http://docs.wxwidgets.org/trunk/search.php?query=%s",
   "description": "wxWidgets Documentation",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

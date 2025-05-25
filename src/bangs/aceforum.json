@@ -4,5 +4,5 @@
   "url": "http://forum.acelaboratory.com/search.php?keywords=%s",
   "description": "AceLab official forum",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

@@ -4,5 +4,5 @@
   "url": "http://texdoc.net/pkg/%s",
   "description": "Texdoc",
   "category": "Tech",
-  "sub-category": "Languages (latex)"
+  "subcategory": "Languages (latex)"
 }

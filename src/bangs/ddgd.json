@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s&ia=definition",
   "description": "DuckDuckGo dictionary definitions",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

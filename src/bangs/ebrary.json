@@ -4,5 +4,5 @@
   "url": "http://site.ebrary.com/lib/alltitles/search.action?p00=%s ",
   "description": "ebrary",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

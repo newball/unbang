@@ -4,5 +4,5 @@
   "url": "http://www.listal.com/search/%s",
   "description": "Listal",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

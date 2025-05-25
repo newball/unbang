@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#auto/sv/%s",
   "description": "Detect language to Swedish",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

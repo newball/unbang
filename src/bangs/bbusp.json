@@ -4,5 +4,5 @@
   "url": "https://digital.bbm.usp.br/simple-search?location=&query= %s &rpp=100",
   "description": "Biblioteca Brasiliana Guita e José Mindiin",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s+site%3Aapi-platform.com&t=canonical&ia=web",
   "description": "API Platform",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

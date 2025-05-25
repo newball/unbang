@@ -4,5 +4,5 @@
   "url": "https://www.pravda.sk/vyhladavanie/?q=%s",
   "description": "Pravda",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

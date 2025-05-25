@@ -4,5 +4,5 @@
   "url": "https://www.kbb.com/search/?source=homepage&query=%s",
   "description": "Kelly Blue Book",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

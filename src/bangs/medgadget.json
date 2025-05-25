@@ -4,5 +4,5 @@
   "url": "http://www.medgadget.com/?s=%s",
   "description": "Medgadget",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

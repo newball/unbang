@@ -4,5 +4,5 @@
   "url": "http://www.shouldiremoveit.com/programs.aspx?q=%s",
   "description": "Should I remove It?",
   "category": "Tech",
-  "sub-category": "Downloads"
+  "subcategory": "Downloads"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.senscritique.com/recherche?query=%s",
   "description": "SensCritique",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

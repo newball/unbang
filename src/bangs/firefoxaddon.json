@@ -4,5 +4,5 @@
   "url": "https://addons.mozilla.org/en-US/firefox/search/?q=%s",
   "description": "Firefox Addons",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

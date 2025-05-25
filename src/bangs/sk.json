@@ -4,5 +4,5 @@
   "url": "http://www.songkick.com/search?query=%s",
   "description": "Songkick",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

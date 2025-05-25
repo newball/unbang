@@ -4,5 +4,5 @@
   "url": "http://www.kdeblog.com/?s=%s",
   "description": "http://www.kdeblog.com",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

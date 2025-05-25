@@ -4,5 +4,5 @@
   "url": "https://fa.wikipedia.org/wiki/Special:Search?search=%s&go=Go",
   "description": "Persian Wikipedia",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

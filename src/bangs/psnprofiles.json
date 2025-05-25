@@ -4,5 +4,5 @@
   "url": "https://psnprofiles.com/search/games?q=%s",
   "description": "PSN Profiles",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#auto/zh-CN/%s",
   "description": "Detect language to Chinese",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

@@ -4,5 +4,5 @@
   "url": "http://tv.nrk.no/sok?q=%s",
   "description": "NRK TV",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

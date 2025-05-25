@@ -4,5 +4,5 @@
   "url": "http://www.backpackinglight.com/cgi-bin/backpackinglight/search.html?q=%s",
   "description": "Backpacking Light",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

@@ -4,5 +4,5 @@
   "url": "http://tieba.baidu.com/f?ie=utf-8&kw=%s",
   "description": "百度贴吧",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

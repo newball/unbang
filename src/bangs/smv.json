@@ -4,5 +4,5 @@
   "url": "http://www.ohg-ka.de/smv/?s=%s",
   "description": "SMV des OHG in KA",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

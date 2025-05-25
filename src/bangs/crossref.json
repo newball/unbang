@@ -4,5 +4,5 @@
   "url": "http://search.crossref.org/?q=%s",
   "description": "crossref",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

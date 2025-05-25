@@ -4,5 +4,5 @@
   "url": "http://www.moneycontrol.com/stocks/cptmarket/compsearchnew.php?search_data=&cid=&mbsearch_str=&topsearch_type=1&search_str=%s",
   "description": "MoneyControl",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

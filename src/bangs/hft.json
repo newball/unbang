@@ -4,5 +4,5 @@
   "url": "http://www.harborfreight.com/catalogsearch/result?q=%s",
   "description": "Harbor Freight Tools",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

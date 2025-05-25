@@ -4,5 +4,5 @@
   "url": "https://www.gocomics.com/search/results?utf8=%E2%9C%93&terms=%s",
   "description": "GoComics",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

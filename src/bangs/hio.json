@@ -4,5 +4,5 @@
   "url": "https://hackaday.io/search?term=%s",
   "description": "Hackaday.io",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

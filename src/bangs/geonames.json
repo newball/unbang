@@ -4,5 +4,5 @@
   "url": "http://www.geonames.org/search.html?q=%s",
   "description": "GeoNames",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "http://le.utah.gov/solrsearch.jsp?request=%s",
   "description": "Utah State Legislature",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

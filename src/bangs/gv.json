@@ -4,5 +4,5 @@
   "url": "https://www.google.com/search?tbm=vid&q=%s",
   "description": "Google Video",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

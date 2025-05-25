@@ -4,5 +4,5 @@
   "url": "http://www.mondadoristore.it/search/?tpr=10&g=%s&swe=N&search-input=active",
   "description": "Mondadori Store",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

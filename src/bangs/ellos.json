@@ -4,5 +4,5 @@
   "url": "https://www.ellos.se/search?SearchTerm=%s",
   "description": "Ellos",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

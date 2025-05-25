@@ -4,5 +4,5 @@
   "url": "http://search.cam.ac.uk/web?query=%s",
   "description": "University of Cambridge",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

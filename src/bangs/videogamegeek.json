@@ -4,5 +4,5 @@
   "url": "http://videogamegeek.com/geeksearch.php?action=search&objecttype=videogameunified&q=%s&B1=Go",
   "description": "VideoGameGeek",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

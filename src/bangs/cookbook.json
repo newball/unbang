@@ -4,5 +4,5 @@
   "url": "https://supermarket.chef.io/cookbooks?q=%s",
   "description": "Opscode community cookbooks",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

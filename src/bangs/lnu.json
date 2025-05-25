@@ -4,5 +4,5 @@
   "url": "https://lnu-se-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,%s&search_scope=default_scope&sortby=rank&vid=primo-custom-lnu&pcAvailability=false&lang=sv_SE",
   "description": "Linnéuniversitetet Bibliotek LNU",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

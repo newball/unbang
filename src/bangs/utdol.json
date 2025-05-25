@@ -4,5 +4,5 @@
   "url": "https://www.uptodate.com/contents/search?search=%s",
   "description": "uptodate online",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

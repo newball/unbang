@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?t=palemoon&kl=ar-es&ko=1&k1=1&q=%s",
   "description": "DuckDuckGo Argentina con Pale Moon",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

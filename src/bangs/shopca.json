@@ -4,5 +4,5 @@
   "url": "https://www.shop.ca/webapp/wcs/stores/servlet/SearchDisplay?storeId=10201&catalogId=10301&langId=-1&pageSize=48&beginIndex=0&searchSource=Q&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&pageView=imageOnly&searchTermScope=-1&searchTerm=%s",
   "description": "shop.ca",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

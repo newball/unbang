@@ -4,5 +4,5 @@
   "url": "https://www.nasdaq.com/symbol/%s/real-time",
   "description": "NASDAQ",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

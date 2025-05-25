@@ -4,5 +4,5 @@
   "url": "http://www.cubanet.org/?s=%s",
   "description": "Cubanet",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

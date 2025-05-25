@@ -4,5 +4,5 @@
   "url": "http://www.theverge.com/search?q=%s",
   "description": "The Verge",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

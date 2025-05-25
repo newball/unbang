@@ -4,5 +4,5 @@
   "url": "http://www.pseudomonas.com/searchAnnotation.do?strain_ids=107&field1=commonNameFields&input1=%s",
   "description": "Pseudomonas Genome Database",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

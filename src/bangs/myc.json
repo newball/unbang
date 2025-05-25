@@ -4,5 +4,5 @@
   "url": "https://www.mycomicshop.com/search?q=%s",
   "description": "mycomicshop",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

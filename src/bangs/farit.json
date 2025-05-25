@@ -4,5 +4,5 @@
   "url": "http://it.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=-4&storeId=10165&categoryName=Tutte le categorie&selectedCategoryId=&gs=true&st=%s",
   "description": "Farnell Italia",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

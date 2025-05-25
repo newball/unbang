@@ -4,5 +4,5 @@
   "url": "https://www.paloaltonetworks.com/documentation/document-search.html?q=%s",
   "description": "Palo Alto Networks Documentation",
   "category": "Tech",
-  "sub-category": "Sysadmin (network)"
+  "subcategory": "Sysadmin (network)"
 }

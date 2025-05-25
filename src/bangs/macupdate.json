@@ -4,5 +4,5 @@
   "url": "http://www.macupdate.com/find/mac/%s",
   "description": "MacUpdate",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

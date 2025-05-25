@@ -4,5 +4,5 @@
   "url": "http://www.cracked.com/search/search.php?sa=search&q=%s",
   "description": "Cracked",
   "category": "Entertainment",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

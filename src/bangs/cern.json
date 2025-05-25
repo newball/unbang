@@ -4,5 +4,5 @@
   "url": "https://phonebook.cern.ch/phonebook/#search/?query=%s",
   "description": "CERN Phonebook",
   "category": "Research",
-  "sub-category": "Local"
+  "subcategory": "Local"
 }

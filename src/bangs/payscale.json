@@ -4,5 +4,5 @@
   "url": "http://www.payscale.com/rcsearch.aspx?category=&str=%s&CountryName=United+States&SourceId=%2Fresearch%2FUS%2FCountry%3DUnited_States%2FSalary",
   "description": "Payscale",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

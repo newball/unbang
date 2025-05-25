@@ -4,5 +4,5 @@
   "url": "https://hooktube.com/results?search_query=%s",
   "description": "HookTube",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

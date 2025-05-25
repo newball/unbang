@@ -4,5 +4,5 @@
   "url": "http://www.mygofer.com/search=%s",
   "description": "MyGofer",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "https://developer.servicenow.com/app.do#!/search?category=API&q=%s",
   "description": "ServiceNow",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

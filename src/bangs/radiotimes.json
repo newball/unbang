@@ -4,5 +4,5 @@
   "url": "http://www.radiotimes.com/search?q=%s",
   "description": "RadioTimes",
   "category": "Entertainment",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

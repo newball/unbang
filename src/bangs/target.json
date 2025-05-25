@@ -4,5 +4,5 @@
   "url": "http://www.target.com/s?searchTerm=%s",
   "description": "Target",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

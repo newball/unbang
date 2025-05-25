@@ -4,5 +4,5 @@
   "url": "http://www.bbc.co.uk/mundo/search/?q=%s",
   "description": "BBC Mundo",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

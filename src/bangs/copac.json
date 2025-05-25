@@ -4,5 +4,5 @@
   "url": "http://copac.ac.uk/search?&title=%s",
   "description": "COPAC",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

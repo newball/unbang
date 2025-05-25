@@ -4,5 +4,5 @@
   "url": "https://forums.online-go.com/search?q=%s",
   "description": "Online Go Server",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.motorelavoro.it/?q=%s",
   "description": "Motore Lavoro",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

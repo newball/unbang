@@ -4,5 +4,5 @@
   "url": "http://dictionary.cambridge.org/search/british/?source=duckduckgo&q=%s",
   "description": "Cambridge Dictionary",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

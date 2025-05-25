@@ -4,5 +4,5 @@
   "url": "http://www.wotif.com/search/TextSearch?searchTerms=%s",
   "description": "Wotif",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

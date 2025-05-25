@@ -4,5 +4,5 @@
   "url": "https://blackwells.co.uk/bookshop/search/?keyword=%s",
   "description": "Blackwell's",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

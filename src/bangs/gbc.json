@@ -4,5 +4,5 @@
   "url": "https://www.greatbritishchefs.com/search2#?pi=1&ps=48&st=%s&orderby=",
   "description": "Great British Chefs",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

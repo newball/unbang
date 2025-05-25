@@ -4,5 +4,5 @@
   "url": "http://nightvale.wikia.com/wiki/Special:Search?search= %s&fulltext=Search",
   "description": "Welcome To Night Vale Wiki",
   "category": "Entertainment",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

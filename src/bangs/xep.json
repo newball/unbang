@@ -4,5 +4,5 @@
   "url": "https://xmpp.org/extensions/xep-%s.html",
   "description": "XMPP Extensions",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

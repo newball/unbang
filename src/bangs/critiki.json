@@ -4,5 +4,5 @@
   "url": "https://critiki.com/search/?t=%s",
   "description": "Critiki",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

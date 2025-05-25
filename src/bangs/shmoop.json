@@ -4,5 +4,5 @@
   "url": "http://www.shmoop.com/search?q=%s ",
   "description": "Shmoop",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

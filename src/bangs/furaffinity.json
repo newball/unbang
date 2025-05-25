@@ -4,5 +4,5 @@
   "url": "https://www.furaffinity.net/search/?q=%s",
   "description": "FurAffinity",
   "category": "Multimedia",
-  "sub-category": "General"
+  "subcategory": "General"
 }

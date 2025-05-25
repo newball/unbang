@@ -4,5 +4,5 @@
   "url": "https://wiki.evageeks.org/Special:Search?search=%s",
   "description": "evageeks wiki",
   "category": "Research",
-  "sub-category": "Reference (fun)"
+  "subcategory": "Reference (fun)"
 }

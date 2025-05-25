@@ -4,5 +4,5 @@
   "url": "https://pittsburgh.craigslist.org/search/sss?query=%s",
   "description": "craigslist",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

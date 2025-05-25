@@ -4,5 +4,5 @@
   "url": "http://arduino.stackexchange.com/search?q=%s",
   "description": "Arduino Stack Exchange",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

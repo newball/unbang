@@ -4,5 +4,5 @@
   "url": "http://theinfosphere.org/index.php?search=%s&go=Go&title=Special%3ASearch",
   "description": "The Infosphere",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

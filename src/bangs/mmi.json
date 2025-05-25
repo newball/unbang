@@ -4,5 +4,5 @@
   "url": "http://www.mymovies.it/database/ricercalibera/default.asp?q=%s&cx=partner-pub-1699801751737986%3Ax7j961-1g3m&cof=FORID%3A9&ie=ISO-8859-1&sa=Cerca ",
   "description": "My Movies Italia",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

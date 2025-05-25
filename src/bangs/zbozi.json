@@ -4,5 +4,5 @@
   "url": "http://www.zbozi.cz/hledani/?q=%s",
   "description": "Zboží.cz",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

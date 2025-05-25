@@ -4,5 +4,5 @@
   "url": "http://dic.daum.net/search.do?q=%s",
   "description": "Daum 어학사전",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

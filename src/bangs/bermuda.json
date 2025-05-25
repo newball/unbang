@@ -4,5 +4,5 @@
   "url": "http://bermuda.io/dataset?q=%s",
   "description": "Bermuda.io",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

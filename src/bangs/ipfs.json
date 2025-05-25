@@ -4,5 +4,5 @@
   "url": "https://ipfs.io/ipfs/%s",
   "description": "InterPlanetary File System",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

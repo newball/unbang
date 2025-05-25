@@ -4,5 +4,5 @@
   "url": "https://linux.die.net/man/1/%s",
   "description": "Linux Die.net Manual Page 1",
   "category": "Tech",
-  "sub-category": "Sysadmin (man)"
+  "subcategory": "Sysadmin (man)"
 }

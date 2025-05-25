@@ -4,5 +4,5 @@
   "url": "https://ridibooks.com/search/?q=%s",
   "description": "Ridibooks",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

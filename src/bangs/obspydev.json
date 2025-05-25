@@ -4,5 +4,5 @@
   "url": "http://docs.obspy.org/master/search.html?q=%s",
   "description": "Obspy documentation of development version",
   "category": "Tech",
-  "sub-category": "Languages (python)"
+  "subcategory": "Languages (python)"
 }

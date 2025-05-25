@@ -4,5 +4,5 @@
   "url": "https://www.cyclingweekly.com/?s=%s",
   "description": "Cycling Weekly",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

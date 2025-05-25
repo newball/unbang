@@ -4,5 +4,5 @@
   "url": "https://www.netonnet.no/Search?query=%s",
   "description": "NetOnNet",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://cercavino.com/cerca?vino=%s",
   "description": "CercaVino",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

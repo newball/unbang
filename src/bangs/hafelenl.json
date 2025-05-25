@@ -4,5 +4,5 @@
   "url": "https://www.hafele.nl/INTERSHOP/web/WFS/Haefele-HNL-Site/nl_NL/-/EUR/ViewParametricSearch-SimpleOfferSearch?SearchType=all&SearchTerm=%s",
   "description": "Hafele.nl",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

@@ -4,5 +4,5 @@
   "url": "http://slist.amiami.com/top/search/list?s_keywords=%s",
   "description": "Amiami",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

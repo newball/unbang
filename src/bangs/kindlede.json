@@ -4,5 +4,5 @@
   "url": "https://www.amazon.de/s?k=%s&i=digital-text",
   "description": "Kindle Shop (German)",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

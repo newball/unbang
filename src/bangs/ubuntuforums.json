@@ -4,5 +4,5 @@
   "url": "http://ubuntuforums.org/search.php?do=process&query=%s",
   "description": "Ubuntu Forums",
   "category": "Tech",
-  "sub-category": "Sysadmin (Ubuntu)"
+  "subcategory": "Sysadmin (Ubuntu)"
 }

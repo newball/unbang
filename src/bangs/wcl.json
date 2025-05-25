@@ -4,5 +4,5 @@
   "url": "https://www.warcraftlogs.com/search/?term=%s",
   "description": "Warcraftlogs",
   "category": "Entertainment",
-  "sub-category": "Games (WOW)"
+  "subcategory": "Games (WOW)"
 }

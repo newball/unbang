@@ -4,5 +4,5 @@
   "url": "https://www.ctt.pt/feapl_2/app/open/objectSearch/objectSearch.jspx?objects=%s",
   "description": "CTT",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

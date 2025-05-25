@@ -4,5 +4,5 @@
   "url": "http://www.reference.com/web?q=%s",
   "description": "Reference.com",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "https://clark.com/search/?q=%s",
   "description": "Clark Howard",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

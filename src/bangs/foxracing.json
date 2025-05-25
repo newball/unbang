@@ -4,5 +4,5 @@
   "url": "https://www.foxracing.com/store/browse?_dyncharset=UTF-8&Dy=1&Nty=1&searchBox=searchBox&siteScope=ok&_D%3AsiteScope=+&autoSuggestEnabled=true&autoSuggestURL=%2Fstore%2Fassembler%3FassemblerContentCollection%3D%2Fcontent%2FShared%2FAuto-Suggest%2520Panels%26format%3Djson%26Dy%3D1%26Ntt%3D&minAutoSuggestInputLength=3&%2Fatg%2Fendeca%2Fassembler%2FSearchFormHandler.search=search&_D%3A%2Fatg%2Fendeca%2Fassembler%2FSearchFormHandler.search=+&Ntt=%s",
   "description": "Fox Racing",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "https://is.muni.cz/auth/vyhledavani/?search=%s",
   "description": "Information system of Masaryk University",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

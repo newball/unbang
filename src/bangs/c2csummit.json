@@ -4,5 +4,5 @@
   "url": "http://www.camptocamp.org/documents/search?type=summits&q=%s",
   "description": "Camp to Camp",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

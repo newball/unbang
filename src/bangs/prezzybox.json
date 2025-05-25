@@ -4,5 +4,5 @@
   "url": "http://www.prezzybox.com/Search/?s=%s",
   "description": "Prezzybox",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

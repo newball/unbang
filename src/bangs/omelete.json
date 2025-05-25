@@ -4,5 +4,5 @@
   "url": "https://omelete.uol.com.br/busca/?q=%s",
   "description": "omelete",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

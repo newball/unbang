@@ -4,5 +4,5 @@
   "url": "http://www.slovnik-synonym.cz/web.php/hledat?typ_hledani=prefix&cizi_slovo=%s",
   "description": "ABZ slovník českých synonym",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

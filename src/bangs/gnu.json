@@ -4,5 +4,5 @@
   "url": "http://www.gnu.org/cgi-bin/estseek.cgi?phrase=%s",
   "description": "GNU",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

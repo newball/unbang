@@ -4,5 +4,5 @@
   "url": "https://www.toutvendre.fr/s?k=%s",
   "description": "ToutVendre",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

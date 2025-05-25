@@ -4,5 +4,5 @@
   "url": "https://www.elastic.co/search?q=%s&section=Learn%2FDocs%2F",
   "description": "Elasticsearch Documentation",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.google.co.in/search?q=%s",
   "description": "duckduckgo",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

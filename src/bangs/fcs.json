@@ -4,5 +4,5 @@
   "url": "http://portal.fultonschools.org/_layouts/OSSSearchResults.aspx?k=%s",
   "description": "Fulton County Schools",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

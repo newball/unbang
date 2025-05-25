@@ -4,5 +4,5 @@
   "url": "http://www.linuxvoice.com/?s=%s",
   "description": "Linux Voice",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

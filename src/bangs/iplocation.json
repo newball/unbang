@@ -4,5 +4,5 @@
   "url": "https://www.iplocation.net/?query=%s",
   "description": "IP Location",
   "category": "Tech",
-  "sub-category": "Sysadmin (network)"
+  "subcategory": "Sysadmin (network)"
 }

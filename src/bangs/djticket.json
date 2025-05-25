@@ -4,5 +4,5 @@
   "url": "https://code.djangoproject.com/ticket/%s",
   "description": "Django Ticket",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

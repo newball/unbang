@@ -4,5 +4,5 @@
   "url": "http://www.jeuxvideo.com/recherche.php?q=%s",
   "description": "JeuxVideo",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

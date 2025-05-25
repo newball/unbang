@@ -4,5 +4,5 @@
   "url": "http://www.head-fi.org/search.php?search=%s",
   "description": "Head-Fi",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

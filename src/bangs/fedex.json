@@ -4,5 +4,5 @@
   "url": "https://www.fedex.com/fedextrack/?trknbr=%s",
   "description": "FedEx",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

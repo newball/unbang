@@ -4,5 +4,5 @@
   "url": "http://www.oxfordreference.com/search?siteToSearch=aup&q=%s",
   "description": "Oxford Reference",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

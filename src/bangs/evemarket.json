@@ -4,5 +4,5 @@
   "url": "https://eve-marketdata.com/price_check.php?type_name_header=%s",
   "description": "EVE Marketdata",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

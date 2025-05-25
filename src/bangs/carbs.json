@@ -4,5 +4,5 @@
   "url": "http://www.calorieking.com.au/foods/search.php?keywords=%s&showresults=yes&go=Search",
   "description": "Calorie King",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

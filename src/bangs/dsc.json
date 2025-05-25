@@ -4,5 +4,5 @@
   "url": "https://screenshots.debian.net/packages?utf8=✓&search=%s",
   "description": "Debian Screenshots",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.thetvdb.com/search?q=%s&l=en",
   "description": "The TV db",
   "category": "Multimedia",
-  "sub-category": "Docs"
+  "subcategory": "Docs"
 }

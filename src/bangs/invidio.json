@@ -4,5 +4,5 @@
   "url": "https://invidio.us/search?q=%s",
   "description": "invidious",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

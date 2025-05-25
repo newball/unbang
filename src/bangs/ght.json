@@ -4,5 +4,5 @@
   "url": "https://github.com/trending/%s",
   "description": "Github - Trending",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

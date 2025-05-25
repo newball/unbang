@@ -4,5 +4,5 @@
   "url": "https://www.cockroachlabs.com/docs/search.html?q=%s",
   "description": "CockroachDB Docs",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.faucet.com/index.cfm?page=search:browse&term=%s",
   "description": "Faucet.com",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

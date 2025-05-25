@@ -4,5 +4,5 @@
   "url": "http://weezerpedia.com/wiki/index.php?search=%s",
   "description": "Weezerpedia",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.beeradvocate.com/search/?q=%s",
   "description": "BeerAdvocate",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

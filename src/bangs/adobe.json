@@ -4,5 +4,5 @@
   "url": "http://www.adobe.com/cfusion/search/index.cfm?loc=en_us&term=%s",
   "description": "Adobe",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

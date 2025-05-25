@@ -4,5 +4,5 @@
   "url": "http://caml.inria.fr/pub/docs/manual-ocaml/libref/%s.html",
   "description": "OCaml Lib Ref",
   "category": "Tech",
-  "sub-category": "Languages (other)"
+  "subcategory": "Languages (other)"
 }

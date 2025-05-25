@@ -4,5 +4,5 @@
   "url": "https://discountoffice.co.nz/search?type=product&q=%s*",
   "description": "Discount Office",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "https://es.quora.com/search?q=%s",
   "description": "Quora Español",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

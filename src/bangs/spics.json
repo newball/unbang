@@ -4,5 +4,5 @@
   "url": "https://site.pictures/search/images/?q=%s",
   "description": "Site Pictures",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

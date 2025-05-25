@@ -4,5 +4,5 @@
   "url": "https://bandcamp.com/search?q=%s",
   "description": "Bandcamp",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

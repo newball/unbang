@@ -4,5 +4,5 @@
   "url": "https://www.themoviedb.org/search?query=%s",
   "description": "TheMovieDB.org",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

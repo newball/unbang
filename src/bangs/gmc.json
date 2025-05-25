@@ -4,5 +4,5 @@
   "url": "https://www.google.com/maps?q=%s&output=classic",
   "description": "Google Maps Classic",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

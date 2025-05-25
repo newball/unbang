@@ -4,5 +4,5 @@
   "url": "https://share.servicenow.com/app.do#/search-result?search_query=%s",
   "description": "ServiceNow",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

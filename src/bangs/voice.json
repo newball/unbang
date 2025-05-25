@@ -4,5 +4,5 @@
   "url": "https://www.google.com/voice#search/%s",
   "description": "Google Voice",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

@@ -4,5 +4,5 @@
   "url": "http://wortvogel.de/?s=%s",
   "description": "Wortvogel",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

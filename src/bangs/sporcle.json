@@ -4,5 +4,5 @@
   "url": "http://www.sporcle.com/games/tags/%s",
   "description": "Sporcle",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

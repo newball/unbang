@@ -4,5 +4,5 @@
   "url": "http://wordpress.org/search/%s",
   "description": "WordPress.org",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "http://reason.com/search?q=%s",
   "description": "Reason.com",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.data.vic.gov.au/data/dataset?q=%s",
   "description": "Victorian Government Datasets",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

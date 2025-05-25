@@ -4,5 +4,5 @@
   "url": "http://scd.summon.serialssolutions.com/search?s.q=%s",
   "description": "SCD de l'Université de Poitiers (bibliothèques universitaires)",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.morningstar.com/search.html?q=%s",
   "description": "Morningstar Search",
   "category": "Research",
-  "sub-category": "Topical"
+  "subcategory": "Topical"
 }

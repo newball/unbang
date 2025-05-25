@@ -4,5 +4,5 @@
   "url": "http://school.eb.com/levels/elementary/search/articles?query=%s",
   "description": "Britannica School (Elementary)",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

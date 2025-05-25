@@ -4,5 +4,5 @@
   "url": "http://www.rightrelevance.com/search/articles?query=%s",
   "description": "rightrelevance",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

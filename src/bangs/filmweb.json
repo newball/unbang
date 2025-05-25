@@ -4,5 +4,5 @@
   "url": "http://www.filmweb.pl/search?q=%s",
   "description": "Filmweb",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

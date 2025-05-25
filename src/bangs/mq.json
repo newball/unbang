@@ -4,5 +4,5 @@
   "url": "http://www.mapquest.com/?q=%s",
   "description": "MapQuest",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

@@ -4,5 +4,5 @@
   "url": "http://forum.slitaz.org/search.php?q=%s",
   "description": "SliTaz Forums",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

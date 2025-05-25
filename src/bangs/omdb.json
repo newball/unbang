@@ -4,5 +4,5 @@
   "url": "https://www.omdb.org/search?search%5Btext%5D=%s",
   "description": "Open Media Database",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

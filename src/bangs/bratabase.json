@@ -4,5 +4,5 @@
   "url": "http://www.bratabase.com/search/?q=%s",
   "description": "Bratabase",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

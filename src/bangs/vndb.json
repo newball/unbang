@@ -4,5 +4,5 @@
   "url": "http://vndb.org/v/all?sq=%s",
   "description": "VNDB",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

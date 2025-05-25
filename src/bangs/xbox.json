@@ -4,5 +4,5 @@
   "url": "http://www.xbox.com/en-GB/Search?q=%s#All",
   "description": "Xbox",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

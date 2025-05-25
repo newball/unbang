@@ -4,5 +4,5 @@
   "url": "https://www.udemy.com/courses/search/?q=%s",
   "description": "Udemy",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

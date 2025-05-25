@@ -4,5 +4,5 @@
   "url": "http://www.cheaperthandirt.com/SolrSearchResults.aspx?site=All+Products&num=15&q=%s",
   "description": "Cheaper Than Dirt",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

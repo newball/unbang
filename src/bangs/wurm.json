@@ -4,5 +4,5 @@
   "url": "http://wurmpedia.com/index.php?search=%s&fulltext=Search&title=Special%3ASearch",
   "description": "Wurmpedia",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

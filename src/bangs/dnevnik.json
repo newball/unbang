@@ -4,5 +4,5 @@
   "url": "https://www.dnevnik.bg/search/%s",
   "description": "Dnevnik.bg",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

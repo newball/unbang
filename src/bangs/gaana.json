@@ -4,5 +4,5 @@
   "url": "https://gaana.com/search/%s",
   "description": "Gaana",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

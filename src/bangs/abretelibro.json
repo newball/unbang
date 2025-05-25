@@ -4,5 +4,5 @@
   "url": "http://www.abretelibro.com/foro/search.php?keywords=%s&sf=titleonly",
   "description": "Ábretelibro",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

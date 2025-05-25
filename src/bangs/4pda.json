@@ -4,5 +4,5 @@
   "url": "http://4pda.ru/forum/index.php?act=search&source=all&forums[]=all&query=%s&x=0&y=0",
   "description": "4pda",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

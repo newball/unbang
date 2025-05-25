@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s&kl=xl-es&kad=es_ES&ia=about",
   "description": "duckduckgo",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

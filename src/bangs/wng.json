@@ -4,5 +4,5 @@
   "url": "https://world.wng.org/search/site/%s",
   "description": "World News Group",
   "category": "News",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

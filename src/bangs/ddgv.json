@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s&iar=videos&iax=videos&ia=videos",
   "description": "DuckDuckGo Video Search",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

@@ -4,5 +4,5 @@
   "url": "http://buscar.lanacion.com.ar/%s/sort-new",
   "description": "La Nación",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

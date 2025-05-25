@@ -4,5 +4,5 @@
   "url": "http://www.biblestudytools.com/search/?q=%s&s=Bibles&t=niv",
   "description": "BibleStudyTools.com",
   "category": "Research",
-  "sub-category": "Reference (religion)"
+  "subcategory": "Reference (religion)"
 }

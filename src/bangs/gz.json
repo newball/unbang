@@ -4,5 +4,5 @@
   "url": "http://www.geekzone.fr/?s=%s",
   "description": "GeekZone",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

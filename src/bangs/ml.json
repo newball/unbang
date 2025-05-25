@@ -4,5 +4,5 @@
   "url": "https://google.com/maps/search/%s?force=canvas",
   "description": "Google Maps Lite",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

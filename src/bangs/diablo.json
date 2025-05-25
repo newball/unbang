@@ -4,5 +4,5 @@
   "url": "http://diablo.wikia.com/wiki/Special:Search?query=%s",
   "description": "Diablo Wiki",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

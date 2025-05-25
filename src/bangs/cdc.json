@@ -4,5 +4,5 @@
   "url": "http://www.cdc.gov/search.do?queryText=%s",
   "description": "CDC",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

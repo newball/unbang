@@ -4,5 +4,5 @@
   "url": "https://doi.org/%s",
   "description": "Digital Object Identifier",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

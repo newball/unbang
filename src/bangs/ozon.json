@@ -4,5 +4,5 @@
   "url": "http://www.ozon.ru/?context=search&text=%s",
   "description": "OZON.ru",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

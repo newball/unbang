@@ -4,5 +4,5 @@
   "url": "https://smittenkitchen.com/?s=%s",
   "description": "Smitten Kitchen",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

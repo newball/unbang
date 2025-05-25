@@ -4,5 +4,5 @@
   "url": "http://www.frys.com/search?search_type=regular&sqxts=1&query_string=%s",
   "description": "Fry's Electronics",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

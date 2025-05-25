@@ -4,5 +4,5 @@
   "url": "https://searx.me/?q=%s",
   "description": "searX",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

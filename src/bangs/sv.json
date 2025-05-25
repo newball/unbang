@@ -4,5 +4,5 @@
   "url": "https://voat.co/v/%s",
   "description": "Voat",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

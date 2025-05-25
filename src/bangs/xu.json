@@ -4,5 +4,5 @@
   "url": "https://www.xavier.edu/search/?q=%s",
   "description": "Xavier University",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

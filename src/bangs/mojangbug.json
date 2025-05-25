@@ -4,5 +4,5 @@
   "url": "https://bugs.mojang.com/issues/?jql=text ~ '%s'",
   "description": "Mojang Bug Tracker",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

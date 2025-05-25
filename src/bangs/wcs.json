@@ -4,5 +4,5 @@
   "url": "https://cs.wikipedia.org/w/index.php?search=%s",
   "description": "Wikipedia (Cs)",
   "category": "Research",
-  "sub-category": "Learning (intl)"
+  "subcategory": "Learning (intl)"
 }

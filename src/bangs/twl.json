@@ -4,5 +4,5 @@
   "url": "https://twitter.com/search?f=tweets&vertical=news&q=%s",
   "description": "Twitter Latest",
   "category": "Online Services",
-  "sub-category": "Search (Real-time)"
+  "subcategory": "Search (Real-time)"
 }

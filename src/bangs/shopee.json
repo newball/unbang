@@ -4,5 +4,5 @@
   "url": "https://shopee.tw/search/?keyword=%s",
   "description": "shopee 蝦皮",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

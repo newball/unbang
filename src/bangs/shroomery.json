@@ -4,5 +4,5 @@
   "url": "https://www.shroomery.org/search.php?terms=%s",
   "description": "Shroomery",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

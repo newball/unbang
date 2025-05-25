@@ -4,5 +4,5 @@
   "url": "http://www.adidas.fr/search?q=%s",
   "description": "adidas",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

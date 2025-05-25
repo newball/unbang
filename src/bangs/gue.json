@@ -4,5 +4,5 @@
   "url": "http://www.guenstiger.de/Katalog/Preis.pl?suche=%s",
   "description": "guenstiger.de",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

@@ -4,5 +4,5 @@
   "url": "http://duckduckgo.com/?q=%s+site:mathworks.com",
   "description": "Matlab File Exchange",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

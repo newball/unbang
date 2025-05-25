@@ -4,5 +4,5 @@
   "url": "http://www.feedbooks.com/search?query=%s",
   "description": "Feedbooks",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.ving.no/searchresult?q=%s",
   "description": "Ving",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

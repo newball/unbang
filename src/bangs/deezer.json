@@ -4,5 +4,5 @@
   "url": "https://www.deezer.com/search/%s",
   "description": "Deezer",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

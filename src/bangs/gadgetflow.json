@@ -4,5 +4,5 @@
   "url": "http://thegadgetflow.com/?s=%s&submit=Search",
   "description": "The Gadget Flow",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

@@ -4,5 +4,5 @@
   "url": "http://kancolle.wikia.com/wiki/Special:Search?search=%s",
   "description": "Kantai Collection Wiki",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

@@ -4,5 +4,5 @@
   "url": "http://search.forbes.com/search/find?MT=%s",
   "description": "Forbes",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

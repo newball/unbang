@@ -4,5 +4,5 @@
   "url": "http://mcgill.worldcat.org/search?q=%s&qt=owc_search&scope=2",
   "description": "McGill University Library",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

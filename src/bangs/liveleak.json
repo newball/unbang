@@ -4,5 +4,5 @@
   "url": "http://www.liveleak.com/browse?q=%s ",
   "description": "LiveLeak",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

@@ -4,5 +4,5 @@
   "url": "https://cmake.org/cmake/help/latest/search.html?q=%s&check_keywords=yes&area=default",
   "description": "CMake documentation",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

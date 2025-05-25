@@ -4,5 +4,5 @@
   "url": "http://devcenter.heroku.com/articles?q=%s",
   "description": "Heroku Devcenter",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

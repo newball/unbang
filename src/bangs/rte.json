@@ -4,5 +4,5 @@
   "url": "http://www.rte.ie/search/?query=%s",
   "description": "Raidió Teilifís Éireann",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

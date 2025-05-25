@@ -4,5 +4,5 @@
   "url": "http://www.chapters.indigo.ca/home/search/?keywords=%s",
   "description": "Indigo Books",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

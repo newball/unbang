@@ -4,5 +4,5 @@
   "url": "http://europepmc.org/search?query=%s",
   "description": "Europe PMC",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

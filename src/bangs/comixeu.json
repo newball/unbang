@@ -4,5 +4,5 @@
   "url": "https://www.comixology.eu/search?search=%s ",
   "description": "Comixology.eu",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

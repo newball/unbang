@@ -4,5 +4,5 @@
   "url": "https://www.service-public.fr/particuliers/recherche?keyword=%s",
   "description": "service-public.fr",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.usal.es/webusal/usal_buscador?query=%s",
   "description": "usal",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

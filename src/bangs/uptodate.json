@@ -4,5 +4,5 @@
   "url": "http://www.uptodate.com/contents/search?search=%s",
   "description": "UpToDate",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

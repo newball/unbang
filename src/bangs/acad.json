@@ -4,5 +4,5 @@
   "url": "http://dic.academic.ru/searchall.php?SWord=%s",
   "description": "http://dic.academic.ru/",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

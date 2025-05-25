@@ -4,5 +4,5 @@
   "url": "https://pursuit.purescript.org/search?q=%s",
   "description": "Pursuit",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

@@ -4,5 +4,5 @@
   "url": "https://catalyst.library.jhu.edu/multi_search?utf8=✓&search_field=all_fields&q=%s",
   "description": "Johns Hopkins University Library",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

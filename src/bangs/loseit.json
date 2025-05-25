@@ -4,5 +4,5 @@
   "url": "https://www.loseit.com/search/?term=%s",
   "description": "loseit",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

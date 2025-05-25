@@ -4,5 +4,5 @@
   "url": "https://dilbert.com/search_results?terms=%s",
   "description": "Dilbert",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

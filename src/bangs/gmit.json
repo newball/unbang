@@ -4,5 +4,5 @@
   "url": "https://www.google.it/maps/place/%s",
   "description": "Google Maps",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

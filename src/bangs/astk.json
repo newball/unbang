@@ -4,5 +4,5 @@
   "url": "https://stock.adobe.com/search?k=%s",
   "description": "Adobe Stock",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

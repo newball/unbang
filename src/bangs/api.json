@@ -4,5 +4,5 @@
   "url": "https://api.duckduckgo.com/?q=%s&o=json&pretty=1&no_html=1&no_redirect=1",
   "description": "DuckDuckGo API",
   "category": "Online Services",
-  "sub-category": "Search (DDG)"
+  "subcategory": "Search (DDG)"
 }

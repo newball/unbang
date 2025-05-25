@@ -4,5 +4,5 @@
   "url": "http://search.gmarket.co.kr/search.aspx?keyword=%s",
   "description": "GMarket",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

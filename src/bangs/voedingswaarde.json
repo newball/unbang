@@ -4,5 +4,5 @@
   "url": "http://www.voedingswaardetabel.nl/voedingswaarde/?q=%s",
   "description": "Voedingswaardetabel.nl",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

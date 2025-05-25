@@ -4,5 +4,5 @@
   "url": "https://www.diva-portal.org/smash/resultList.jsf?dswid=8805&language=en&searchType=SIMPLE&query=%s&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all",
   "description": "DiVA - Digitala Vetenskapliga Arkivet",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

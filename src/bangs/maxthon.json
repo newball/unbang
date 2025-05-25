@@ -4,5 +4,5 @@
   "url": "http://extension.maxthon.com/all/index.php?keyword=%s",
   "description": "Maxthon 3 Extension",
   "category": "Tech",
-  "sub-category": "Downloads (add-ons)"
+  "subcategory": "Downloads (add-ons)"
 }

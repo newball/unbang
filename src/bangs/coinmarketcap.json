@@ -4,5 +4,5 @@
   "url": "https://coinmarketcap.com/search/?q=%s",
   "description": "Coinmarketcap",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

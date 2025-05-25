@@ -4,5 +4,5 @@
   "url": "http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[%s]",
   "description": "Magic: The Gathering",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

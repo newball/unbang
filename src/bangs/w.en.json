@@ -4,5 +4,5 @@
   "url": "http://en.wikipedia.org/wiki/Special:Search?search=%s",
   "description": "Wikipedia (English)",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

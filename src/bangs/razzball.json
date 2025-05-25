@@ -4,5 +4,5 @@
   "url": "http://razzball.com/index.php?s=%s",
   "description": "Razzball",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

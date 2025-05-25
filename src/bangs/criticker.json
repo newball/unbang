@@ -4,5 +4,5 @@
   "url": "https://www.criticker.com/?search=%s&type=films",
   "description": "Criticker",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

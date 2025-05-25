@@ -4,5 +4,5 @@
   "url": "https://wpackagist.org/search?q=%s&type=any&search=",
   "description": "WordPress Packagist",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

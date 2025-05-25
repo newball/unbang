@@ -4,5 +4,5 @@
   "url": "https://www.liquorland.com.au/Search?q=%s",
   "description": "Liquorland",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.thalia.de/suche?sq=%s",
   "description": "Thalia.de",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

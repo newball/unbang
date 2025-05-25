@@ -4,5 +4,5 @@
   "url": "https://www.qwant.com/maps/?q=%s",
   "description": "Qwant Maps",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

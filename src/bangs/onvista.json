@@ -4,5 +4,5 @@
   "url": "http://www.onvista.de/suche/?onvHeaderSearchBoxAction=true&searchValue=%s",
   "description": "Onvista",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

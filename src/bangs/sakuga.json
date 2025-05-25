@@ -4,5 +4,5 @@
   "url": "https://sakugabooru.com/post?tags=%s",
   "description": "Sakugabooru",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

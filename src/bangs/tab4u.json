@@ -4,5 +4,5 @@
   "url": "http://www.tab4u.com/resultsSimple?tab=songs&type=song&q=%s",
   "description": "tab4u",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

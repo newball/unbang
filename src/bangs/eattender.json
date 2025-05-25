@@ -4,5 +4,5 @@
   "url": "http://eattender.com/recipes/search?q=%s",
   "description": "Eat Tender",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

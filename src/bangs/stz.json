@@ -4,5 +4,5 @@
   "url": "http://www.stuttgarter-zeitung.de/suche?_charset_=UTF-8&searchText=%s",
   "description": "Stuttgarter Zeitung",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

@@ -4,5 +4,5 @@
   "url": "http://endic.naver.com/search.nhn?query=%s",
   "description": "Naver English Dictionary",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

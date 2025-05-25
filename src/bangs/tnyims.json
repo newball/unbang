@@ -4,5 +4,5 @@
   "url": "http://tny.im/yourls-api.php?action=shorturl&url=%s",
   "description": "Tny.im Shorten URL",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

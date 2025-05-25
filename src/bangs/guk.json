@@ -4,5 +4,5 @@
   "url": "https://www.google.co.uk/search?q=%s",
   "description": "Google UK",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

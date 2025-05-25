@@ -4,5 +4,5 @@
   "url": "http://www.songsterr.com/a/wa/search?pattern=%s",
   "description": "Songsterr",
   "category": "Entertainment",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

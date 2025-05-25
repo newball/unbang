@@ -4,5 +4,5 @@
   "url": "http://www.stationsweb.nl/stationlijst.asp?station=%s ",
   "description": "Stationsweb",
   "category": "Research",
-  "sub-category": "Local"
+  "subcategory": "Local"
 }

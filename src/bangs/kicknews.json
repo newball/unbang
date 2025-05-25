@@ -4,5 +4,5 @@
   "url": "http://www.kicknews.net/news/search?q=%s ",
   "description": "KickNews",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

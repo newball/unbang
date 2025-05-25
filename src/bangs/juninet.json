@@ -4,5 +4,5 @@
   "url": "https://www.juniper.net/search/gsa/?keyword=%s",
   "description": "Juniper networks",
   "category": "Tech",
-  "sub-category": "Sysadmin (network)"
+  "subcategory": "Sysadmin (network)"
 }

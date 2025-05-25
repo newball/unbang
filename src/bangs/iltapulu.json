@@ -4,5 +4,5 @@
   "url": "http://www.iltapulu.fi/search.php?q=%s",
   "description": "Iltapulu",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

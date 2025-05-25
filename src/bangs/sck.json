@@ -4,5 +4,5 @@
   "url": "https://api.sck.pm/shorten?%s",
   "description": "sck.pm",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

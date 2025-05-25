@@ -4,5 +4,5 @@
   "url": "http://cygwin.com/cgi-bin2/package-grep.cgi?grep=%s",
   "description": "Cygwin",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

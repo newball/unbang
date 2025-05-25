@@ -4,5 +4,5 @@
   "url": "http://opengameart.org/art-search?keys=%s",
   "description": "OpenGameArt",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

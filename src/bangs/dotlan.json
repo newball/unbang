@@ -4,5 +4,5 @@
   "url": "http://evemaps.dotlan.net/search?q=%s",
   "description": "Dotlan EVE Maps",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

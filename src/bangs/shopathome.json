@@ -4,5 +4,5 @@
   "url": "https://www.shopathome.com/search?query=%s",
   "description": "ShopAtHome.com",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

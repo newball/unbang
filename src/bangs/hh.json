@@ -4,5 +4,5 @@
   "url": "https://www.homehardware.ca/search?query=%s",
   "description": "Home Hardware",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

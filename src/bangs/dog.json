@@ -4,5 +4,5 @@
   "url": "http://canigivemydog.com/?s=%s ",
   "description": "CanIGiveMyDog",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

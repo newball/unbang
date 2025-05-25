@@ -4,5 +4,5 @@
   "url": "http://belfrycomics.net/pg/?searchtype=Titles&searchpat=%s",
   "description": "Belfry Web Comics",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

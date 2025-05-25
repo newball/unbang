@@ -4,5 +4,5 @@
   "url": "https://www.thewire.co.uk/search/?q=%s",
   "description": "The Wire",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

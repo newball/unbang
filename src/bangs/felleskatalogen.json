@@ -4,5 +4,5 @@
   "url": "http://felleskatalogen.no/medisin/sok?sokord=%s",
   "description": "Felleskatalogen",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

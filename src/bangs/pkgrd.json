@@ -4,5 +4,5 @@
   "url": "https://packageradar.com/form?tracking_form[tracking_number]=%s",
   "description": "PackageRadar",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

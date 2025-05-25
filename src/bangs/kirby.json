@@ -4,5 +4,5 @@
   "url": "https://getkirby.com/search?q=%s",
   "description": "Kirby",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

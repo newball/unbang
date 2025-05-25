@@ -4,5 +4,5 @@
   "url": "https://unicode-table.com/en/search/?q=%s",
   "description": "Unicode Character Table",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

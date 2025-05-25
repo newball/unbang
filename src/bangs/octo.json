@@ -4,5 +4,5 @@
   "url": "https://octopart.com/search?q=%s",
   "description": "Octopart",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

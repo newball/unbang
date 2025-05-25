@@ -4,5 +4,5 @@
   "url": "http://luaforge.net/search/?type_of_search=soft&words=%s&Search=Search",
   "description": "LuaForge",
   "category": "Tech",
-  "sub-category": "Languages (lua)"
+  "subcategory": "Languages (lua)"
 }

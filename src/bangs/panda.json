@@ -4,5 +4,5 @@
   "url": "http://pandalook.com/search?controller=search&search_query=%s ",
   "description": "Pandalook",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

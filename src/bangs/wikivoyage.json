@@ -4,5 +4,5 @@
   "url": "http://en.wikivoyage.org/w/index.php?search=%s",
   "description": "Wikivoyage",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

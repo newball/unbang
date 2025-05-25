@@ -4,5 +4,5 @@
   "url": "http://www.ikea.com/ie/en/search/?query=%s ",
   "description": "Ikea Ireland",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

@@ -4,5 +4,5 @@
   "url": "https://theconversation.com/search?q=%s",
   "description": "The Conversation",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

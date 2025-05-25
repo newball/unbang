@@ -4,5 +4,5 @@
   "url": "http://search.rakuten.co.jp/search/mall/%s/",
   "description": "Rakuten",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

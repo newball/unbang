@@ -4,5 +4,5 @@
   "url": "https://vc.ru/search/%s",
   "description": "vc.ru",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

@@ -4,5 +4,5 @@
   "url": "http://hunterxhunter.wikia.com/wiki/Special:Search?query=%s",
   "description": "Hunterpedia",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

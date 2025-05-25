@@ -4,5 +4,5 @@
   "url": "http://haku.yle.fi/?language=fi&UILanguage=fi&q=%s",
   "description": "Yle",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

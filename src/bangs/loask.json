@@ -4,5 +4,5 @@
   "url": "http://ask.libreoffice.org/en/questions/scope:all/sort:activity-desc/page:1/query:=%s/",
   "description": "Ask LibreOffice",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

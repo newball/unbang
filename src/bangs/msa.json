@@ -4,5 +4,5 @@
   "url": "https://academic.microsoft.com/search?q=%s",
   "description": "Microsoft Academic",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

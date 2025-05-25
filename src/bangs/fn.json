@@ -4,5 +4,5 @@
   "url": "https://www.foodnetwork.com/search/%s-",
   "description": "foodnetwork.com",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

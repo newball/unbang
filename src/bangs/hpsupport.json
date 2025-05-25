@@ -4,5 +4,5 @@
   "url": "http://www.support.hp.com/us-en/search?q=%s&filter=",
   "description": "HP Support",
   "category": "Tech",
-  "sub-category": "Downloads"
+  "subcategory": "Downloads"
 }

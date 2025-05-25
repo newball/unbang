@@ -4,5 +4,5 @@
   "url": "http://www.acronymfinder.com/~/search/af.aspx?string=exact&Acronym=%s",
   "description": "Acronyms",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.lynda.com/search?q=%s",
   "description": "Lynda.com",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

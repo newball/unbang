@@ -4,5 +4,5 @@
   "url": "http://www.who.is/whois/%s ",
   "description": "who.is",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

@@ -4,5 +4,5 @@
   "url": "http://imdb.com/showtimes/US/%s",
   "description": "IMDB Showtimes",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

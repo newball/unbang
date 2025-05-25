@@ -4,5 +4,5 @@
   "url": "https://www.postnord.se/sv/verktyg/sok/Sidor/spara-brev-paket-och-pall.aspx?view=item&itemid=%s",
   "description": "Posten AB",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

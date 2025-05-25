@@ -4,5 +4,5 @@
   "url": "https://9gag.com/search?query=%s",
   "description": "9gag",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

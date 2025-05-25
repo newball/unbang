@@ -4,5 +4,5 @@
   "url": "http://www.euronews.com/search?query=%s",
   "description": "Euronews English",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

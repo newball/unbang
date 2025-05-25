@@ -4,5 +4,5 @@
   "url": "https://www.facebook.com/search/results/?q=%s&type=pages",
   "description": "Facebook Pages",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

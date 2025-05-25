@@ -4,5 +4,5 @@
   "url": "http://ralvid.ml/search.php?q=%s",
   "description": "ralvid - YouTube Mirror",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

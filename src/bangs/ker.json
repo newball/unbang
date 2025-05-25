@@ -4,5 +4,5 @@
   "url": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/log/?h=v5.0.1&qt=grep&q=%s",
   "description": "The Linux Kernel Archives",
   "category": "Tech",
-  "sub-category": "Downloads (code)"
+  "subcategory": "Downloads (code)"
 }

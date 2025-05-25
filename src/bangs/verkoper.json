@@ -4,5 +4,5 @@
   "url": "https://www.politie.nl/zoek?query=%s",
   "description": "Controleer verkopergegevens Politie",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

@@ -4,5 +4,5 @@
   "url": "https://sok.deichman.no/search?query=%s",
   "description": "Deichmanske Biblotek",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

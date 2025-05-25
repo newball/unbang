@@ -4,5 +4,5 @@
   "url": "https://www.douglas.nl/douglas/search.html?query=%s&searchType=search&init=true",
   "description": "Douglas",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

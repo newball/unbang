@@ -4,5 +4,5 @@
   "url": "http://fxr.watson.org/fxr/ident?i=%s",
   "description": "FreeBSD Cross Reference",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

@@ -4,5 +4,5 @@
   "url": "http://dialnet.unirioja.es/buscar/documentos?querysDismax.DOCUMENTAL_TODO=%s",
   "description": "Dialnet",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

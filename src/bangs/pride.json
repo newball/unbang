@@ -4,5 +4,5 @@
   "url": "https://www.outcast.amsterdam/search?type=product&q=%s",
   "description": "Outcast Amsterdam",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

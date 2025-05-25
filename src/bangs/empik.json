@@ -4,5 +4,5 @@
   "url": "http://www.empik.com/szukaj/produkt?q=%s",
   "description": "Empik",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

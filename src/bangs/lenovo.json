@@ -4,5 +4,5 @@
   "url": "http://shop.lenovo.com/SEUILibrary/controller/e/web/LenovoPortal/en_US/site.workflow:SimpleSiteSearch?q=%s&v=15&lang=en&cc=us&en=utf&Search.x=0&Search.y=0&Search=Search",
   "description": "Lenovo",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

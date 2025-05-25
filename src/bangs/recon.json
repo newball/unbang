@@ -4,5 +4,5 @@
   "url": "http://www.watchrecon.com/?query=%s",
   "description": "Watch Recon",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

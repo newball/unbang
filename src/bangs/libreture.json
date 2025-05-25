@@ -4,5 +4,5 @@
   "url": "https://www.libreture.com/search/?q=%s",
   "description": "Libreture",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

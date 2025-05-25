@@ -4,5 +4,5 @@
   "url": "http://www.cnrtl.fr/concordance/%s",
   "description": "cnrtl concordance",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

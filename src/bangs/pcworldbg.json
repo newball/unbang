@@ -4,5 +4,5 @@
   "url": "http://pcworld.bg/search/all/%s",
   "description": "PC World Bulgaria",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

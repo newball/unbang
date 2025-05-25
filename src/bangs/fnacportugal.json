@@ -4,5 +4,5 @@
   "url": "http://pesquisa.fnac.pt/Search/SearchResult.aspx?Search=%s",
   "description": "Fnac Portugal",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

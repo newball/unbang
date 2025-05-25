@@ -4,5 +4,5 @@
   "url": "https://www.mijnserie.nl/zoeken/?search=%s",
   "description": "MijnSerie",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

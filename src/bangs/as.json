@@ -4,5 +4,5 @@
   "url": "http://smile.amazon.com/s?url=search-alias%3Daps&field-keywords=%s",
   "description": "Amazon Smile",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

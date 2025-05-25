@@ -4,5 +4,5 @@
   "url": "http://www.iens.nl/restaurant?q=%s",
   "description": "IENS",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

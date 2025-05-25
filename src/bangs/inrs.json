@@ -4,5 +4,5 @@
   "url": "http://www.inrs.fr/header/recherche.html?queryStr=%s",
   "description": "INRS",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

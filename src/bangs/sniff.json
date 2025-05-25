@@ -4,5 +4,5 @@
   "url": "https://websniffer.cc/?url=%s",
   "description": "Websniffer",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

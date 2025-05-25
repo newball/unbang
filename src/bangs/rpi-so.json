@@ -4,5 +4,5 @@
   "url": "http://raspberrypi.stackexchange.com/search?q=%s",
   "description": "Raspberry pi Stackexchange",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

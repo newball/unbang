@@ -4,5 +4,5 @@
   "url": "http://www.postnord.no/minside/SOPS/%s",
   "description": "Postnord",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

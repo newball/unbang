@@ -4,5 +4,5 @@
   "url": "http://netbsd.gw.com/cgi-bin/man-cgi?%s",
   "description": "NetBSD manual pages",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

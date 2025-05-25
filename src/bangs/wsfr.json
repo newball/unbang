@@ -4,5 +4,5 @@
   "url": "https://fr.wikisource.org/w/index.php?search=%s&title=Sp%C3%A9cial%3ARecherche&go=Lire",
   "description": "Wikisource (FR)",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "http://student.mit.edu/catalog/search.cgi?search=%s",
   "description": "MIT Subject Listing & Schedule",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

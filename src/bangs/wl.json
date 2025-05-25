@@ -4,5 +4,5 @@
   "url": "https://search.wikileaks.org/?q=%s",
   "description": "WikiLeaks",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

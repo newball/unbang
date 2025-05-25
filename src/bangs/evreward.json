@@ -4,5 +4,5 @@
   "url": "http://evreward.com/store/find?store[name]=%s",
   "description": "Evreward",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

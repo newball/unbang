@@ -4,5 +4,5 @@
   "url": "https://apps.sandstorm.io/search?term=%s",
   "description": "Sandstorm App Market",
   "category": "Tech",
-  "sub-category": "Downloads (apps)"
+  "subcategory": "Downloads (apps)"
 }

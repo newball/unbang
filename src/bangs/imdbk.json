@@ -4,5 +4,5 @@
   "url": "http://www.imdb.com/find?s=kw&q=%s",
   "description": "IMDb Keywords",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

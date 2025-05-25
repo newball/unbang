@@ -4,5 +4,5 @@
   "url": "http://www.oldversion.com/search?query=%s",
   "description": "OldVersion",
   "category": "Tech",
-  "sub-category": "Downloads (software)"
+  "subcategory": "Downloads (software)"
 }

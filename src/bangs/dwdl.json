@@ -4,5 +4,5 @@
   "url": "http://www.dwdl.de/features/suche/?suche=%s ",
   "description": "DWDL",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

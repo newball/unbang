@@ -4,5 +4,5 @@
   "url": "http://www.musimundo.com/Busqueda?cbrand=0&title=0&artist=0&categories=&search=%s&typeGrid=grid",
   "description": "Musimundo",
   "category": "Shopping",
-  "sub-category": "Online (intl)"
+  "subcategory": "Online (intl)"
 }

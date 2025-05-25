@@ -4,5 +4,5 @@
   "url": "http://www.centredaily.com/search/?q=%s",
   "description": "Centre Daily Times",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

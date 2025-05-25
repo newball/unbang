@@ -4,5 +4,5 @@
   "url": "https://freemidi.org/search?q=%s",
   "description": "freemidi.org",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

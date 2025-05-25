@@ -4,5 +4,5 @@
   "url": "https://www.iex.nl/Zoeken/Default.aspx?q=%s",
   "description": "IEX",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

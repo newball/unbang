@@ -4,5 +4,5 @@
   "url": "http://www.archives.nd.edu/cgi-bin/wordz.pl?english=%s",
   "description": "Whitaker's Words English",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

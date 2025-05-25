@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/translate#en/id/%s",
   "description": "Google Translate",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.dictjuggler.net/en/yakugo/?word=%s",
   "description": "DictJuggler.net Japanese-English and English-Japanese Translation Dictionary",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

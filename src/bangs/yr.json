@@ -4,5 +4,5 @@
   "url": "http://www.yr.no/soek/soek.aspx?sted=%s",
   "description": "yr.no/NRK/Meteorologisk institutt Weather",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

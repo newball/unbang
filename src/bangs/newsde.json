@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s&iar=news&ia=news&kl=de-de",
   "description": "DuckDuckGo News Germany",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

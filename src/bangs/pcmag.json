@@ -4,5 +4,5 @@
   "url": "http://www.pcmag.com/search_redirect/?qry=%s&searchSection=0&site=3",
   "description": "PCMag",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

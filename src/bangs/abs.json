@@ -4,5 +4,5 @@
   "url": "http://www.allbookstores.com/search?q=%s",
   "description": "AllBookstores",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

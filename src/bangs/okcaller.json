@@ -4,5 +4,5 @@
   "url": "http://www.okcaller.com/detail.php?number=%s",
   "description": "okcaller.com",
   "category": "Online Services",
-  "sub-category": "Search (Real-time)"
+  "subcategory": "Search (Real-time)"
 }

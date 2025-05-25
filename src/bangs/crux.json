@@ -4,5 +4,5 @@
   "url": "http://crux.nu/portdb/?a=search&q=%s",
   "description": "CRUX",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

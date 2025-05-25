@@ -4,5 +4,5 @@
   "url": "http://bookcrossing.by/books?find=%s",
   "description": "BookCrossing",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

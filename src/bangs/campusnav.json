@@ -4,5 +4,5 @@
   "url": "https://navigator.tu-dresden.de/erweitertesuche/%s",
   "description": "TU Dresden Campus Navigator",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

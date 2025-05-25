@@ -4,5 +4,5 @@
   "url": "http://kaosx.tk/packages/?act=search&subdir=&sortby=date&order=descending&searchpattern=%s ",
   "description": "KaOS packages",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

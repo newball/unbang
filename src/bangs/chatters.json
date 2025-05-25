@@ -4,5 +4,5 @@
   "url": "https://chatters.ca/catalogsearch/result/?q=%s",
   "description": "Chatters Salons",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

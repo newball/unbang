@@ -4,5 +4,5 @@
   "url": "http://m.flexikon.doccheck.com/en/search/?q=%s",
   "description": "DocCheck",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

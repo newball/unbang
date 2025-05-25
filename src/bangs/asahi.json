@@ -4,5 +4,5 @@
   "url": "http://sitesearch.asahi.com/.cgi/sitesearch/sitesearch.pl?Keywords=%s",
   "description": "朝日新聞",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

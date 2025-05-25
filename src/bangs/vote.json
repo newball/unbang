@@ -4,5 +4,5 @@
   "url": "https://vote.us.org/search/?q=%s",
   "description": "Vote",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

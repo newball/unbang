@@ -4,5 +4,5 @@
   "url": "http://es.pokemon.wikia.com/wiki/WikiDex=%s",
   "description": "Wikidex",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

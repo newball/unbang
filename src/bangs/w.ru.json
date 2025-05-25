@@ -4,5 +4,5 @@
   "url": "https://ru.wikipedia.org/w/index.php?search=%s",
   "description": "Russian Wikipedia",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

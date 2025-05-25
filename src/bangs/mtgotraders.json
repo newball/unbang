@@ -4,5 +4,5 @@
   "url": "http://www.mtgotraders.com/store/search.php?q=%s&x=0&y=0",
   "description": "MTGO Traders",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

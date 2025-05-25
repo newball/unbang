@@ -4,5 +4,5 @@
   "url": "http://www.yelp.com/search?find_desc=%s&ns=1&rpp=10&find_loc=",
   "description": "Yelp",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.musik-sammler.de/search/%s/",
   "description": "Musik-Sammler",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

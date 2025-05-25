@@ -4,5 +4,5 @@
   "url": "https://www.jamieoliver.com/search/?s=%s",
   "description": "Jamie Oliver",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

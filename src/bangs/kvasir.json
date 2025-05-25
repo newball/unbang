@@ -4,5 +4,5 @@
   "url": "http://www.kvasir.no/alle?q=%s",
   "description": "kvasir",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

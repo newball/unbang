@@ -4,5 +4,5 @@
   "url": "http://fr.audiofanzine.com/recherche/%s.html",
   "description": "Audiofanzine",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

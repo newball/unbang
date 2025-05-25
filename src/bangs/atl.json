@@ -4,5 +4,5 @@
   "url": "http://atlwiki.net/Special:Search/%s",
   "description": "ATL Wiki",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

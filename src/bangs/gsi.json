@@ -4,5 +4,5 @@
   "url": "https://www.google.si/search?q=%s",
   "description": "Google SI",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

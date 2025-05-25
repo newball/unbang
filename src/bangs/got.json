@@ -4,5 +4,5 @@
   "url": "http://gathering.tweakers.net/forum/find?keyword=%s",
   "description": "Gathering of Tweakers",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

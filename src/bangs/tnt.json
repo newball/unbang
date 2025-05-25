@@ -4,5 +4,5 @@
   "url": "http://webtracker.tnt.com/webtracker/tracking.do?requestType=GEN&searchType=CON&respLang=en&respCountry=US&sourceID=1&sourceCountry=ww&cons=%s",
   "description": "TNT",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

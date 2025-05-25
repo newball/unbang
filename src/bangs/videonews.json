@@ -4,5 +4,5 @@
   "url": "https://www.videonews.com/?s=%s",
   "description": "Video News",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

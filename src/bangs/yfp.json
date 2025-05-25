@@ -4,5 +4,5 @@
   "url": "http://finance.yahoo.com/q/pr?s=%s+Profile",
   "description": "Yahoo Finance (Company Profile)",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

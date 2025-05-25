@@ -4,5 +4,5 @@
   "url": "http://bitbucket.org/repo/all/?name=%s",
   "description": "BitBucket.org",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

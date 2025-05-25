@@ -4,5 +4,5 @@
   "url": "http://www.trictrac.net/recherche?query=%s",
   "description": "Tric Trac",
   "category": "Entertainment",
-  "sub-category": "Games (offline)"
+  "subcategory": "Games (offline)"
 }

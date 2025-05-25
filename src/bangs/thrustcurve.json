@@ -4,5 +4,5 @@
   "url": "http://www.thrustcurve.org/motorsearch.jsp?designation=%s",
   "description": "ThrustCurve Hobby Rocket Motor Data",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

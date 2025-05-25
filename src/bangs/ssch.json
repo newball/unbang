@@ -4,5 +4,5 @@
   "url": "https://www.semanticscholar.org/search?q=%s&sort=relevance&ae=false",
   "description": "SemanticScholar",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

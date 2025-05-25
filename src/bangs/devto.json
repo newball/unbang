@@ -4,5 +4,5 @@
   "url": "https://dev.to/search?q=%s",
   "description": "DEV.to",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

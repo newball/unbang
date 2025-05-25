@@ -4,5 +4,5 @@
   "url": "https://www.ohloh.net/search?q=%s",
   "description": "ohloh",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

@@ -4,5 +4,5 @@
   "url": "https://brakdag.nl/?s=%s",
   "description": "Brakdag",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

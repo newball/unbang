@@ -4,5 +4,5 @@
   "url": "https://cubash.com/users?filter=0&query=%s",
   "description": "Cubash",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

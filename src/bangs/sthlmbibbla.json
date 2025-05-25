@@ -4,5 +4,5 @@
   "url": "https://biblioteket.stockholm.se/sok?freetext=%s",
   "description": "Stockholms stadsbibliotek",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

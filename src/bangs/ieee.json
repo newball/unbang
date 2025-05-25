@@ -4,5 +4,5 @@
   "url": "http://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=%s",
   "description": "IEEE Xplore",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

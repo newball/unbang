@@ -4,5 +4,5 @@
   "url": "http://verbix.com/find-verb/?verb=%s",
   "description": "Verbix",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

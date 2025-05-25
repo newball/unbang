@@ -4,5 +4,5 @@
   "url": "https://www.onlinelibrary.wiley.com/action/doSearch?AllField=%s",
   "description": "Wiley Online Library",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

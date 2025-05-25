@@ -4,5 +4,5 @@
   "url": "http://cinemaclock.com/search?r=bri&m=Vancouver&key=%s ",
   "description": "cinemaclock",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

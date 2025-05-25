@@ -4,5 +4,5 @@
   "url": "http://www.apple.com/search/?q=%s",
   "description": "Apple",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

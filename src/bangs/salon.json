@@ -4,5 +4,5 @@
   "url": "https://www.salon.com/search/%s",
   "description": "Salon.com",
   "category": "News",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

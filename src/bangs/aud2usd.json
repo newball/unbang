@@ -4,5 +4,5 @@
   "url": "http://www.xe.com/currencyconverter/convert/?Amount=%s&From=AUD&To=USD",
   "description": "XE (AUD2USD)",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

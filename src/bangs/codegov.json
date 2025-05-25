@@ -4,5 +4,5 @@
   "url": "https://code.gov/search?query=%s",
   "description": "Code.gov",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

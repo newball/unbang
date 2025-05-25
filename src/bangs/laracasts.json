@@ -4,5 +4,5 @@
   "url": "https://laracasts.com/search?q=%s",
   "description": "Laracasts",
   "category": "Tech",
-  "sub-category": "Languages (php)"
+  "subcategory": "Languages (php)"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.perseus.tufts.edu/hopper/morph?l=%s&la=la",
   "description": "Perseus word study tool",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

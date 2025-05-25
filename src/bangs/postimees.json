@@ -4,5 +4,5 @@
   "url": "http://www.postimees.ee/search?query=%s",
   "description": "Postimees",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

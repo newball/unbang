@@ -4,5 +4,5 @@
   "url": "http://www.nerdscoop.com/?s=%s",
   "description": "Nerdscoop",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

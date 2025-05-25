@@ -4,5 +4,5 @@
   "url": "https://www.vans.com/webapp/wcs/stores/servlet/VFSearchDisplay?storeId=10153&catalogId=10703&langId=-1&beginIndex=0&searchSource=Q&sType=SimpleSearch&searchTerm=%s",
   "description": "Vans",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

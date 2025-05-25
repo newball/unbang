@@ -4,5 +4,5 @@
   "url": "http://www.chewy.com/s?dept=all&query=%s",
   "description": "chewy.com",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

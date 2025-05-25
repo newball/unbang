@@ -4,5 +4,5 @@
   "url": "https://www.dallasnews.com/search?q=%s",
   "description": "The Dallas Morning News",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

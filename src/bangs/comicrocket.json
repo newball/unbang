@@ -4,5 +4,5 @@
   "url": "https://www.comic-rocket.com/search?q=%s",
   "description": "Comic Rocket",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

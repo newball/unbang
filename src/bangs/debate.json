@@ -4,5 +4,5 @@
   "url": "http://www.debate.org/search?q=%s",
   "description": "debate.org",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

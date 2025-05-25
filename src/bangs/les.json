@@ -4,5 +4,5 @@
   "url": "http://www.linguee.es/espanol-ingles/search?source=auto&query=%s",
   "description": "Linguee",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

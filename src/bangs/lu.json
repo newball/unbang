@@ -4,5 +4,5 @@
   "url": "https://www.liberty.edu/search/?q=%s",
   "description": "Liberty University",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

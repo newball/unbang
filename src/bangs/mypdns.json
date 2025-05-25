@@ -4,5 +4,5 @@
   "url": "http://www.mypdns.org/trac/search?q=%s",
   "description": "My Private DNS",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

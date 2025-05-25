@@ -4,5 +4,5 @@
   "url": "https://security-tracker.debian.org/tracker/%s",
   "description": "Debian Security Tracker",
   "category": "Tech",
-  "sub-category": "Sysadmin (debian)"
+  "subcategory": "Sysadmin (debian)"
 }

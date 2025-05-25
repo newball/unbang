@@ -4,5 +4,5 @@
   "url": "http://www.ctvnews.ca/search-results/search-ctv-news-7.137?q=%s",
   "description": "CTV News",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

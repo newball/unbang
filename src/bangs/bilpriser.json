@@ -4,5 +4,5 @@
   "url": "http://www.bilpriser.se/bilvardering?regnr=%s",
   "description": "Bilpriser",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.nutritionix.com/search?q=%s",
   "description": "Nutritionix",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

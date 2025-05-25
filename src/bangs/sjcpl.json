@@ -4,5 +4,5 @@
   "url": "http://stjos.sjcpl.lib.in.us/search/?searchtype=X&SORT=D&searcharg=%s ",
   "description": "St. Joeseph Co. Public Library",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

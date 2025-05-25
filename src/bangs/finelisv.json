@@ -4,5 +4,5 @@
   "url": "https://fineli.fi/fineli/sv/elintarvikkeet?q=%s",
   "description": "Fineli Swedish",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

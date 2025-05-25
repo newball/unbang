@@ -4,5 +4,5 @@
   "url": "http://pkmncards.com/?s=%s&display=card&sort=date",
   "description": "PkmnCards",
   "category": "Entertainment",
-  "sub-category": "Games (Pokemon)"
+  "subcategory": "Games (Pokemon)"
 }

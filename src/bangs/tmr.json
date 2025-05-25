@@ -4,5 +4,5 @@
   "url": "http://www.rezeptwelt.de/search/?rec_all=0&search=%s",
   "description": "rezeptwelt.de",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

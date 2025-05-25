@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site%3A%s",
   "description": "DuckDuckGo site: search operator shortcut",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

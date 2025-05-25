@@ -4,5 +4,5 @@
   "url": "http://softwarerecs.stackexchange.com/search?q=%s",
   "description": "Software Recommendations",
   "category": "Tech",
-  "sub-category": "Downloads (software)"
+  "subcategory": "Downloads (software)"
 }

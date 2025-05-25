@@ -4,5 +4,5 @@
   "url": "https://www.tageswoche.ch/search/?q=%s",
   "description": "Tageswoche",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

@@ -4,5 +4,5 @@
   "url": "https://newstral.com/search/articles?&q=%s",
   "description": "Newstral",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

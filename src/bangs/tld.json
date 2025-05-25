@@ -4,5 +4,5 @@
   "url": "http://wiki.teamliquid.net/dota2/index.php?search=%s",
   "description": "Liquipedia Dota 2 Wiki",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

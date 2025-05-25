@@ -4,5 +4,5 @@
   "url": "https://tracking.dpd.de/cgi-bin/delistrack?typ=1&pknr=%s",
   "description": "DPD Online Tracking",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

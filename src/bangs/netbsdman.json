@@ -4,5 +4,5 @@
   "url": "http://man.netbsd.org/man/%s",
   "description": "NetBSD Manual Pages",
   "category": "Tech",
-  "sub-category": "Sysadmin (man)"
+  "subcategory": "Sysadmin (man)"
 }

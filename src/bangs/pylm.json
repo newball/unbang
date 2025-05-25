@@ -4,5 +4,5 @@
   "url": "http://pylint-messages.wikidot.com/messages:%s",
   "description": "PyLint Messages",
   "category": "Tech",
-  "sub-category": "Languages (python)"
+  "subcategory": "Languages (python)"
 }

@@ -4,5 +4,5 @@
   "url": "https://unixhow.com/search?q=%s",
   "description": "Unix How",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

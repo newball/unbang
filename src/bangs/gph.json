@@ -4,5 +4,5 @@
   "url": "https://www.google.com.ph/search?hl=en&q=%s&tbs=ctr:countryPH&cr=countryPH ",
   "description": "Google Philippines",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

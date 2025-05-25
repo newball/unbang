@@ -4,5 +4,5 @@
   "url": "http://www.le-dictionnaire.com/resultats.php?mot=%s",
   "description": "Le Dictionnaire",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

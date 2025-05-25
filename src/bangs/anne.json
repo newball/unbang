@@ -4,5 +4,5 @@
   "url": "http://www.animenewsnetwork.com/encyclopedia/search/name?only=anime&q=%s",
   "description": "AnimeNewsNetwork Encyclopedia",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

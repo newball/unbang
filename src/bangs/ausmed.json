@@ -4,5 +4,5 @@
   "url": "http://www.ausmed.com.au/sitesearch?q=%s",
   "description": "Ausmed Education",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

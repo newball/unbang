@@ -4,5 +4,5 @@
   "url": "https://www.avvo.com/search?query=%s&commit=Search",
   "description": "avvo.com",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

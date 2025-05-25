@@ -4,5 +4,5 @@
   "url": "https://search.bangkokpost.com/search/result_advanced?category=all&xChannel=&q=%s",
   "description": "Bangkok Post",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

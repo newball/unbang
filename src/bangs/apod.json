@@ -4,5 +4,5 @@
   "url": "https://apod.nasa.gov/apod/ap%s.html",
   "description": "NASA - Astronomy Picture of the Day",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

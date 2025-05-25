@@ -4,5 +4,5 @@
   "url": "https://www.neos.io/download-and-extend/packages.html?search=%s",
   "description": "Neos.io",
   "category": "Tech",
-  "sub-category": "Downloads (add-ons)"
+  "subcategory": "Downloads (add-ons)"
 }

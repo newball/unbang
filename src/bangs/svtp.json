@@ -4,5 +4,5 @@
   "url": "http://www.svtplay.se/sok?q=%s",
   "description": "SVT Play",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.eki.ee/dict/qs/index.cgi?Q=%s",
   "description": "Eesti Õigekeelsussõnaraamat",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

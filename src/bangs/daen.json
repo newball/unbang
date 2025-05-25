@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#da/en/%s",
   "description": "Google Translate da-en",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

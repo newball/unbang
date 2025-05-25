@@ -4,5 +4,5 @@
   "url": "http://www.newsday.com/7.25434?q=%s",
   "description": "NewsDay.com",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

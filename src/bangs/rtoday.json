@@ -4,5 +4,5 @@
   "url": "https://www.rt.com/search?q=%s",
   "description": "RT - Russial Today",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

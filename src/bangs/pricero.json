@@ -4,5 +4,5 @@
   "url": "https://www.price.ro/index.php?action=q&text=%s&submit=Cauta",
   "description": "price.ro",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.moo.com/search?query=%s",
   "description": "MOO",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

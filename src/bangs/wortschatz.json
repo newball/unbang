@@ -4,5 +4,5 @@
   "url": "http://corpora.uni-leipzig.de/de/res?corpusId=deu_newscrawl_2011&word=%s",
   "description": "Wortschatz",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

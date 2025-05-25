@@ -4,5 +4,5 @@
   "url": "http://search.seznam.cz/?q=%s",
   "description": "Seznam",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

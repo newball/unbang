@@ -4,5 +4,5 @@
   "url": "http://html5doctor.com/search/?q=%s",
   "description": "HTML5 Doctor",
   "category": "Tech",
-  "sub-category": "Languages (html)"
+  "subcategory": "Languages (html)"
 }

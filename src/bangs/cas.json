@@ -4,5 +4,5 @@
   "url": "http://www.commonchemistry.org/ChemicalDetail.aspx?ref=%s",
   "description": "Common Chemistry (CAS Registry Number)",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

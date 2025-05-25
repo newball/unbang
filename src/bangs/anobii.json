@@ -4,5 +4,5 @@
   "url": "http://www.anobii.com/search?s=1&keyword=%s",
   "description": "anobii",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

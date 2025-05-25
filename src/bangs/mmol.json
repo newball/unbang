@@ -4,5 +4,5 @@
   "url": "https://medieval.bodleian.ox.ac.uk/?q=%s",
   "description": "Medieval Manuscripts in Oxford Libraries",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

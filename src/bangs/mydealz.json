@@ -4,5 +4,5 @@
   "url": "https://www.mydealz.de/search?q=%s",
   "description": "MyDealz",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

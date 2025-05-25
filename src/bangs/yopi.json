@@ -4,5 +4,5 @@
   "url": "http://www.yopi.de/search?search_str=%s",
   "description": "Yopi Tests und Preise",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

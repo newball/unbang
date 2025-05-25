@@ -4,5 +4,5 @@
   "url": "http://forum.palemoon.org/search.php?keywords=%s",
   "description": "Pale Moon forum",
   "category": "Tech",
-  "sub-category": "Downloads (software)"
+  "subcategory": "Downloads (software)"
 }

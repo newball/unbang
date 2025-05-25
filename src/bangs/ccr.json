@@ -4,5 +4,5 @@
   "url": "https://ccr.chakralinux.org/packages.php?O=0&K=%s&do_Search=+Go+",
   "description": "Chakra Community Repository",
   "category": "Tech",
-  "sub-category": "Sysadmin (packages)"
+  "subcategory": "Sysadmin (packages)"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.consumeraffairs.com/search.html?q=%s&cat=homepage",
   "description": "Consumer Affairs",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

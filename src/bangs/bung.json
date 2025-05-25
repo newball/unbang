@@ -4,5 +4,5 @@
   "url": "http://www.lawyersaroundme.com/search/?term=%s",
   "description": "Lawyers Around Me",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

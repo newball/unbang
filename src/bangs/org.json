@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site:http://orgmode.org/manual/+%s",
   "description": "Org Manual",
   "category": "Tech",
-  "sub-category": "Languages (other)"
+  "subcategory": "Languages (other)"
 }

@@ -4,5 +4,5 @@
   "url": "https://search.vt.edu/search/pages.html;sa=Search&q=%s",
   "description": "Virginia Tech",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

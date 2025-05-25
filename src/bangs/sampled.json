@@ -4,5 +4,5 @@
   "url": "http://www.whosampled.com/search/artists/?q=%s",
   "description": "whosampled",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

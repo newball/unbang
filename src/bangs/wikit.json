@@ -4,5 +4,5 @@
   "url": "http://wikitravel.org/en/Special:Search?search=%s&go=Go",
   "description": "Wikitravel",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

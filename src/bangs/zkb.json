@@ -4,5 +4,5 @@
   "url": "https://zkillboard.com/search/%s/",
   "description": "zKillboard",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

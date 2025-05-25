@@ -4,5 +4,5 @@
   "url": "https://theconversation.com/global/search?utf8=✓&q=%s",
   "description": "The Conversation",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

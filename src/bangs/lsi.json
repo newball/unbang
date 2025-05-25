@@ -4,5 +4,5 @@
   "url": "http://search.letssingit.com/cgi-exe/am.cgi?a=search&l=archive&typeid=2&s=%s",
   "description": "Let's sing it",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

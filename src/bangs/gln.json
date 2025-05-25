@@ -4,5 +4,5 @@
   "url": "https://www.gepir.de/?search=%s",
   "description": "GEPIR Suche",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

@@ -4,5 +4,5 @@
   "url": "https://old.reddit.com/search?q=%s",
   "description": "old.reddit.com",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

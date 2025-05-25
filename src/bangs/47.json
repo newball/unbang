@@ -4,5 +4,5 @@
   "url": "https://www.47news.jp/search?phrase=%s",
   "description": "47 News",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

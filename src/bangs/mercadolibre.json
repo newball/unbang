@@ -4,5 +4,5 @@
   "url": "http://mercadolibre.com/?q= %s",
   "description": "MercadoLibre",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

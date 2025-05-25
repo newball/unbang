@@ -4,5 +4,5 @@
   "url": "https://ls2pac.lapl.org/?section=search&term=%s",
   "description": "Los Angeles Public Library",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

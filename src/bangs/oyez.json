@@ -4,5 +4,5 @@
   "url": "https://www.oyez.org/search/%s",
   "description": "Oyez",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

@@ -4,5 +4,5 @@
   "url": "https://openwhyd.org/search?q=%s",
   "description": "Open Whyd",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

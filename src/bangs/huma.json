@@ -4,5 +4,5 @@
   "url": "http://www.humanite.fr/search/%s",
   "description": "L'Humanité",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

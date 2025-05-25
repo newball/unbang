@@ -4,5 +4,5 @@
   "url": "http://wikirhymer.com/words/%s",
   "description": "WikiRhymer",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

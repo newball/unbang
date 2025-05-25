@@ -4,5 +4,5 @@
   "url": "http://www.konga.com/catalogsearch/result/?cat=0&q=%s ",
   "description": "Konga",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

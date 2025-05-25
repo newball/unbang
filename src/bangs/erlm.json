@@ -4,5 +4,5 @@
   "url": "http://erlang.org/doc/man/%s.html",
   "description": "Erlang Module Documentation",
   "category": "Tech",
-  "sub-category": "Languages (erlang)"
+  "subcategory": "Languages (erlang)"
 }

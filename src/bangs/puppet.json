@@ -4,5 +4,5 @@
   "url": "http://forge.puppetlabs.com/modules?q=%s&commit=Go",
   "description": "Puppet Forge",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

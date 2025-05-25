@@ -4,5 +4,5 @@
   "url": "http://finzi.psych.upenn.edu/cgi-bin/namazu.cgi?query=%s&max=100&result=normal&sort=score&idxname=functions&idxname=vignettes&idxname=views",
   "description": "cran.r-project.org",
   "category": "Tech",
-  "sub-category": "Languages (r)"
+  "subcategory": "Languages (r)"
 }

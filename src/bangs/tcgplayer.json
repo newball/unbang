@@ -4,5 +4,5 @@
   "url": "http://store.tcgplayer.com/magic/product/show?cardname=%s",
   "description": "TCGPlayer",
   "category": "Entertainment",
-  "sub-category": "Games (offline)"
+  "subcategory": "Games (offline)"
 }

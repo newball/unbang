@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#auto/ca/%s",
   "description": "Detect language to Catalan",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

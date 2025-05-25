@@ -4,5 +4,5 @@
   "url": "http://www.webmd.com/search/search_results/default.aspx?query=%s",
   "description": "WebMD",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

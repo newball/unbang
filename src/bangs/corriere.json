@@ -4,5 +4,5 @@
   "url": "http://sitesearch.corriere.it/forward.jsp?q=%s",
   "description": "Corriere della Sera",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

@@ -4,5 +4,5 @@
   "url": "http://deredactie.be/cm/vrtnieuws/1.516538?text=%s&action=submit",
   "description": "deredactie.be",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

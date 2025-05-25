@@ -4,5 +4,5 @@
   "url": "http://www.programmingsimplified.com/search/node/%s",
   "description": "Programming Simplified",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

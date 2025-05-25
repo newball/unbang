@@ -4,5 +4,5 @@
   "url": "https://www.google.com/search?tbm=isch&tbs=itp:face&q=%s",
   "description": "Google Images (Faces)",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

@@ -4,5 +4,5 @@
   "url": "https://app.kanjialive.com/search/%s",
   "description": "Kanji Alive",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

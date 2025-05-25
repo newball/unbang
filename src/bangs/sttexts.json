@@ -4,5 +4,5 @@
   "url": "http://www.sacred-texts.com/cat/srchtitl.htm?search_str=%s",
   "description": "Sacred Texts",
   "category": "Research",
-  "sub-category": "Reference (religion)"
+  "subcategory": "Reference (religion)"
 }

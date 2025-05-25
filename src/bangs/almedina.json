@@ -4,5 +4,5 @@
   "url": "https://www.almedina.net/search.php?query=%s",
   "description": "Livraria Almedina",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

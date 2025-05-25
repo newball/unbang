@@ -4,5 +4,5 @@
   "url": "http://discovery.nationalarchives.gov.uk/results/r?_q=%s",
   "description": "The National Archives Discovery",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

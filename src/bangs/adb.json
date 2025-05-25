@@ -4,5 +4,5 @@
   "url": "http://arquivodabola.com.br/busca.html?termo=%s",
   "description": "Arquivo da Bola",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

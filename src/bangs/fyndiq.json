@@ -4,5 +4,5 @@
   "url": "https://fyndiq.se/search/?q=%s",
   "description": "Fyndiq",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

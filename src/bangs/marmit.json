@@ -4,5 +4,5 @@
   "url": "http://www.marmiton.org/recettes/recherche.aspx?s=%s ",
   "description": "Marmiton",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

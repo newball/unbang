@@ -4,5 +4,5 @@
   "url": "http://youtubeonrepeat.com/results/?search_query=%s",
   "description": "YouTube On Repeat",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

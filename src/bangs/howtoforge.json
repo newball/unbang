@@ -4,5 +4,5 @@
   "url": "http://www.howtoforge.com/trip_search?keys=%s",
   "description": "HowtoForge",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

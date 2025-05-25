@@ -4,5 +4,5 @@
   "url": "http://ricerca.repubblica.it/ricerca/repubblica?query=%s",
   "description": "La Repubblica",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

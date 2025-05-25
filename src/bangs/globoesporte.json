@@ -4,5 +4,5 @@
   "url": "https://globoesporte.globo.com/busca/?q=%s",
   "description": "GloboEsporte.com",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

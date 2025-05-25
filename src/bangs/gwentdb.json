@@ -4,5 +4,5 @@
   "url": "http://www.gwentdb.com/search?search=%s",
   "description": "GwentDB",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

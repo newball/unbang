@@ -4,5 +4,5 @@
   "url": "http://api.cakephp.org/search/%s",
   "description": "CakePHP API",
   "category": "Tech",
-  "sub-category": "Languages (php)"
+  "subcategory": "Languages (php)"
 }

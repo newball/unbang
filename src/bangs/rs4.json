@@ -4,5 +4,5 @@
   "url": "http://rs.4chan.org/?s=%s&from=ALL",
   "description": "rs.4chan.org",
   "category": "Multimedia",
-  "sub-category": "General"
+  "subcategory": "General"
 }

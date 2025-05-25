@@ -4,5 +4,5 @@
   "url": "http://steamcharts.com/search/?q=%s",
   "description": "Steam Charts",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

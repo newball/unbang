@@ -4,5 +4,5 @@
   "url": "http://ideas.repec.org/cgi-bin/htsearch?q=%s&cmd=Search!",
   "description": "RePEc IDEAS",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

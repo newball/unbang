@@ -4,5 +4,5 @@
   "url": "https://www.google.com.ec/search?safe=active&q=%s ",
   "description": "Google Ecuador",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

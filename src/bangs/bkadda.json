@@ -4,5 +4,5 @@
   "url": "http://www.bookadda.com/general-search?searchkey=%s",
   "description": "BookAdda",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

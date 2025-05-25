@@ -4,5 +4,5 @@
   "url": "http://djangopackages.com/search/?q=%s",
   "description": "Django Packages",
   "category": "Tech",
-  "sub-category": "Languages (python)"
+  "subcategory": "Languages (python)"
 }

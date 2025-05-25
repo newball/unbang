@@ -4,5 +4,5 @@
   "url": "http://docs.aws.amazon.com/search/doc-search.html?searchPath=documentation-guide&searchQuery=%s&this_doc_product=AWS+CloudFormation&this_doc_guide=User+Guide&doc_locale=en_us#facet_doc_product=AWS%20CloudFormation&facet_doc_guide=User%20Guide",
   "description": "AWS CloudFormation Documentation",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

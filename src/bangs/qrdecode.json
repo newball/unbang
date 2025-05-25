@@ -4,5 +4,5 @@
   "url": "http://zxing.org/w/decode?u=%s",
   "description": "ZXing QR decode",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

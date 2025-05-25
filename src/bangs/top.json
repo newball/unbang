@@ -4,5 +4,5 @@
   "url": "https://www.techopedia.com/search?q=%s&section=all",
   "description": "Techopedia",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

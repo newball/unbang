@@ -4,5 +4,5 @@
   "url": "http://eol.org/search?q=%s&search=Go",
   "description": "Encyclopedia of Life",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

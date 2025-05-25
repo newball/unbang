@@ -4,5 +4,5 @@
   "url": "https://www.deepl.com/translator#xx/en/%s",
   "description": "DeepL",
   "category": "Translation",
-  "sub-category": "General"
+  "subcategory": "General"
 }

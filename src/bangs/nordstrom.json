@@ -4,5 +4,5 @@
   "url": "http://shop.nordstrom.com/sr?origin=keywordsearch&keyword=%s",
   "description": "Nordstrom",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

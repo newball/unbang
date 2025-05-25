@@ -4,5 +4,5 @@
   "url": "https://search.kompas.com/search/?q=%s&submit=Submit+Query",
   "description": "Kompas",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

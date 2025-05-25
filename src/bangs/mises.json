@@ -4,5 +4,5 @@
   "url": "https://mises.org/search/site/%s",
   "description": "Mises Institute",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

@@ -4,5 +4,5 @@
   "url": "https://forum.manjaro.org/search?expanded=true&q=%s",
   "description": "Manjaro Forum",
   "category": "Tech",
-  "sub-category": "Sysadmin (Arch)"
+  "subcategory": "Sysadmin (Arch)"
 }

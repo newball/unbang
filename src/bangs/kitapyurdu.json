@@ -4,5 +4,5 @@
   "url": "https://www.kitapyurdu.com/index.php?route=product/search&filter_name=%s",
   "description": "http://kitapyurdu.com/",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

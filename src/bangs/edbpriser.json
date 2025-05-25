@@ -4,5 +4,5 @@
   "url": "http://www.edbpriser.dk/Search/General.aspx?q=%s}",
   "description": "EDBpriser.dk",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

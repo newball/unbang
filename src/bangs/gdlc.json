@@ -4,5 +4,5 @@
   "url": "http://www.diccionari.cat/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=%s&x=0&y=0",
   "description": "Gran diccionari de la llengua catalana",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

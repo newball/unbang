@@ -4,5 +4,5 @@
   "url": "https://launchpad.support.sap.com/#/solutions/notesv2/?q=%s",
   "description": "SAP Launchpad",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

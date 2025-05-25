@@ -4,5 +4,5 @@
   "url": "https://electron.atom.io/apps/?q=%s",
   "description": "electron.atom.io",
   "category": "Tech",
-  "sub-category": "Downloads (apps)"
+  "subcategory": "Downloads (apps)"
 }

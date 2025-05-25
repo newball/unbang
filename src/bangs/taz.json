@@ -4,5 +4,5 @@
   "url": "http://www.taz.de/!s=%s/",
   "description": "taz.die tageszeitung",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

@@ -4,5 +4,5 @@
   "url": "http://warframe.wikia.com/wiki/Special:WikiaSearch?search=%s&fulltext=Search",
   "description": "WARFRAME Wiki",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

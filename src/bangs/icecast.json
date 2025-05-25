@@ -4,5 +4,5 @@
   "url": "http://dir.xiph.org/search?search=%s ",
   "description": "Icecast Directory",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

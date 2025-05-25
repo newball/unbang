@@ -4,5 +4,5 @@
   "url": "http://www.topgeek.net/fr/recherche?controller=search&orderby=position&orderway=desc&search_query=%s&submit_search=Rechercher",
   "description": "Top Geek",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

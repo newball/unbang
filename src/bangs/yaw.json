@@ -4,5 +4,5 @@
   "url": "https://yandex.ru/pogoda/search?request=%s",
   "description": "Yandex Weather",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

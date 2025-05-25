@@ -4,5 +4,5 @@
   "url": "http://browser.geekbench.com/v4/cpu/search?q=%s",
   "description": "Geekbench Browser",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

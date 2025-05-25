@@ -4,5 +4,5 @@
   "url": "http://www.waitrose.com/shop/HeaderSearchCmd?searchTerm=%s",
   "description": "Waitrose",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

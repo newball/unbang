@@ -4,5 +4,5 @@
   "url": "https://www.cbc.ca/search?q=%s",
   "description": "CBC News",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

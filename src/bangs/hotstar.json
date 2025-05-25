@@ -4,5 +4,5 @@
   "url": "http://www.hotstar.com/search?q=%s",
   "description": "Hotstar",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

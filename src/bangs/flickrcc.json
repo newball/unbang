@@ -4,5 +4,5 @@
   "url": "https://www.flickr.com/search/?text=%s&license=2%2C3%2C4%2C5%2C6%2C9",
   "description": "Flickr (All Creative Commons)",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.admin.ch/opc/search/?lang=de&language[]=de&product[]=fg&product[]=oc&product[]=cc&product[]=ba&product[]=jcd&date_range_min=&date_range_max=&d_compilation=both&d_is_in_force=yes&text=%s",
   "description": "admin.ch - Systematische Rechtssammlung",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

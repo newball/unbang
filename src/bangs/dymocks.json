@@ -4,5 +4,5 @@
   "url": "https://www.dymocks.com.au/books/?term=%s",
   "description": "Dymocks Booksellers",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

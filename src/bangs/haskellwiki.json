@@ -4,5 +4,5 @@
   "url": "http://www.haskell.org/haskellwiki/Special:Search/%s",
   "description": "Haskell Wiki",
   "category": "Tech",
-  "sub-category": "Languages (haskell)"
+  "subcategory": "Languages (haskell)"
 }

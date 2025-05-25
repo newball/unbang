@@ -4,5 +4,5 @@
   "url": "https://www.mailinator.com/v3/index.jsp?zone=public&query=%s",
   "description": "Mailinator",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

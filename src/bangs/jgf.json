@@ -4,5 +4,5 @@
   "url": "http://www.jazzguitar.be/forum/search.php?searchid=%s",
   "description": "The Jazz Guitar Forum",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.monash.edu/search?query=%s",
   "description": "Monash University",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

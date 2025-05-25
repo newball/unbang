@@ -4,5 +4,5 @@
   "url": "https://www.amazon.com.br/s?k=%s ",
   "description": "Amazon Brazil",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

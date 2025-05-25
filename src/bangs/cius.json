@@ -4,5 +4,5 @@
   "url": "https://caniuse.com/#search=%s",
   "description": "can i use ",
   "category": "Tech",
-  "sub-category": "Languages (other)"
+  "subcategory": "Languages (other)"
 }

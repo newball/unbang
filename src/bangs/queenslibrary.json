@@ -4,5 +4,5 @@
   "url": "http://www.queenslibrary.org/search/apachesolr_search/%s",
   "description": "QueensLibrary",
   "category": "Multimedia",
-  "sub-category": "General"
+  "subcategory": "General"
 }

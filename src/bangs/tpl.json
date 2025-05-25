@@ -4,5 +4,5 @@
   "url": "http://www.torontopubliclibrary.ca/search.jsp?Ntt=%s",
   "description": "Toronto Public Library",
   "category": "Research",
-  "sub-category": "Local"
+  "subcategory": "Local"
 }

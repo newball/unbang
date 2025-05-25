@@ -4,5 +4,5 @@
   "url": "http://www.unizar.es/search/node/%s",
   "description": "Universidad de Zaragoza",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

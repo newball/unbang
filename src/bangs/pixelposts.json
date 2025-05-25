@@ -4,5 +4,5 @@
   "url": "http://pixels.thetangible.in/search/%s",
   "description": "PixelPosts",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.openstreetmap.org/way/%s",
   "description": "OpenStreetMap Way",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

@@ -4,5 +4,5 @@
   "url": "https://ja.wikisource.org/w/index.php?search=%s",
   "description": "Japanese Wikisource",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

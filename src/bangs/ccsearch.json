@@ -4,5 +4,5 @@
   "url": "https://ccsearch.creativecommons.org/search?q=%s",
   "description": "Creative commons search",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

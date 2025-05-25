@@ -4,5 +4,5 @@
   "url": "http://www.icd9data.com/Search/?q=%s",
   "description": "ICD9Data.com",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

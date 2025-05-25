@@ -4,5 +4,5 @@
   "url": "http://www.nitrc.org/search/?type_of_search=group&term[]=%s",
   "description": "NITRC",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

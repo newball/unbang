@@ -4,5 +4,5 @@
   "url": "https://shop.bsigroup.com/SearchResults/?q=%s",
   "description": "BSI Shop",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

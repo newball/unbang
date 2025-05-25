@@ -4,5 +4,5 @@
   "url": "https://www.epicgames.com/store/en-US/store-search?q=%s",
   "description": "Epic Games Store",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

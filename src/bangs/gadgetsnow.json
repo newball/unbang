@@ -4,5 +4,5 @@
   "url": "https://www.gadgetsnow.com/topic/%s?SEARCH_STRING=%s",
   "description": "Gadgets Now",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

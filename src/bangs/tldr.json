@@ -4,5 +4,5 @@
   "url": "https://tldr.inbrowser.app/search?query=%s",
   "description": "Tldr",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

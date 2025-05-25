@@ -4,5 +4,5 @@
   "url": "https://www.powershellgallery.com/packages?q=%s",
   "description": "PowerShell Gallery",
   "category": "Tech",
-  "sub-category": "Languages (other)"
+  "subcategory": "Languages (other)"
 }

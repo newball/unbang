@@ -4,5 +4,5 @@
   "url": "http://www.pixiv.net/search.php?word=%s",
   "description": "Pixiv",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

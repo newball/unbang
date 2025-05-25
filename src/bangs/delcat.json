@@ -4,5 +4,5 @@
   "url": "https://delcat.worldcat.org/search?qt=wc_org_delcat&q=%s&scope=0&oldscope=0&wcsbtn2w=Search&fq=&dblist=1461%2C1542%2C638",
   "description": "DELCAT Discovery",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

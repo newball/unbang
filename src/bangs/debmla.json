@@ -4,5 +4,5 @@
   "url": "http://lists.debian.org/debian-%s/",
   "description": "Debian mailing list archives",
   "category": "Tech",
-  "sub-category": "Sysadmin (debian)"
+  "subcategory": "Sysadmin (debian)"
 }

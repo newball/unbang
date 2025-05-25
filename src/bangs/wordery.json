@@ -4,5 +4,5 @@
   "url": "https://wordery.com/search?term=%s",
   "description": "Wordery",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

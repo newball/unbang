@@ -4,5 +4,5 @@
   "url": "http://www.linguee.de/deutsch-franzoesisch/search?source=auto&query=%s",
   "description": "Linguee",
   "category": "Research",
-  "sub-category": "Learning (intl)"
+  "subcategory": "Learning (intl)"
 }

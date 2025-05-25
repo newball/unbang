@@ -4,5 +4,5 @@
   "url": "http://jbovlaste.lojban.org/dict/%s",
   "description": "Jbovlaste - search the lojban dictionary in any language",
   "category": "Research",
-  "sub-category": "Reference (words intl)"
+  "subcategory": "Reference (words intl)"
 }

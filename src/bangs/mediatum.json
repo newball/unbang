@@ -4,5 +4,5 @@
   "url": "https://mediatum.ub.tum.de/?query=%s",
   "description": "mediaTUM",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

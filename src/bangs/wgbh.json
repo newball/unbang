@@ -4,5 +4,5 @@
   "url": "http://wgbhnews.org/search/google/%s ",
   "description": "WGBH News",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

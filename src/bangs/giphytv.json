@@ -4,5 +4,5 @@
   "url": "http://tv.giphy.com/%s",
   "description": "Giphy TV",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

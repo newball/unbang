@@ -4,5 +4,5 @@
   "url": "https://savannah.gnu.org/search/?type_of_search=soft&words=%s",
   "description": "Savannah",
   "category": "Tech",
-  "sub-category": "Downloads (software)"
+  "subcategory": "Downloads (software)"
 }

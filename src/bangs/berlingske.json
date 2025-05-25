@@ -4,5 +4,5 @@
   "url": "http://b.dk/search/%s",
   "description": "Berlingske",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

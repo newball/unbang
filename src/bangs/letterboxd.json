@@ -4,5 +4,5 @@
   "url": "http://letterboxd.com/search/films/%s/",
   "description": "Letterboxd",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

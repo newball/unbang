@@ -4,5 +4,5 @@
   "url": "https://www.linguee.fr/francais-anglais/search?source=anglais&query=%s",
   "description": "Linguee",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "http://irecommend.ru/srch?query=%s",
   "description": "IRecommend",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

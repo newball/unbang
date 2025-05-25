@@ -4,5 +4,5 @@
   "url": "https://osdn.net/search/?iq=%s",
   "description": "OSDN",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

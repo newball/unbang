@@ -4,5 +4,5 @@
   "url": "https://open.spotify.com/search/results/%s",
   "description": "Spotify",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

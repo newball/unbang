@@ -4,5 +4,5 @@
   "url": "http://www.cellartracker.com/list.asp?fInStock=0&Table=List&iUserOverride=0&szSearch=%s",
   "description": "CellarTracker",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

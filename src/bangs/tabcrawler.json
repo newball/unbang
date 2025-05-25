@@ -4,5 +4,5 @@
   "url": "http://tabcrawler.com/search/%s",
   "description": "Tabcrawler",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

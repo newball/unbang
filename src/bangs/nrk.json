@@ -4,5 +4,5 @@
   "url": "https://www.nrk.no/sok/?q=%s",
   "description": "NRK",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

@@ -4,5 +4,5 @@
   "url": "https://jizdnirady.idnes.cz/vlakyautobusymhdvse/spojeni/?f=%s&t=%s",
   "description": "Idos",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

@@ -4,5 +4,5 @@
   "url": "https://ml.wikipedia.org/w/index.php?search=%s",
   "description": "Wikipedia (Malayalam)",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

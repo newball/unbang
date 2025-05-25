@@ -4,5 +4,5 @@
   "url": "https://aalto.finna.fi/Search/Results?lookfor=%s",
   "description": "aalto.finna.fi",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

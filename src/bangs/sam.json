@@ -4,5 +4,5 @@
   "url": "http://www.samsung.com/au/search/?q=%s",
   "description": "Samsung",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

@@ -4,5 +4,5 @@
   "url": "http://dsp.stackexchange.com/search?q=%s",
   "description": "StackExchange Signal Processing",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

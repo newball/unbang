@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#auto/mn/%s",
   "description": "Detect language to Mongolian",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

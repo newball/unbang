@@ -4,5 +4,5 @@
   "url": "http://jigsaw.w3.org/css-validator/validator?uri=%s&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en",
   "description": "CSS Validation Service",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

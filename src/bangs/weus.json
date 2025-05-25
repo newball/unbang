@@ -4,5 +4,5 @@
   "url": "https://eu.wikipedia.org/wiki/Special:Search?search=%s",
   "description": "Wikipedia Euskaraz (in Basque)",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

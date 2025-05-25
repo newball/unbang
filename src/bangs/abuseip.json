@@ -4,5 +4,5 @@
   "url": "https://www.abuseipdb.com/check/%s",
   "description": "AbuseIPDB",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

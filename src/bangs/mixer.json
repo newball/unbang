@@ -4,5 +4,5 @@
   "url": "http://www.drinksmixer.com/search/?q=%s&d=1&p=1",
   "description": "DrinksMixer",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

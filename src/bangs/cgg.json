@@ -4,5 +4,5 @@
   "url": "http://champion.gg/champion/%s",
   "description": "Champion.gg",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

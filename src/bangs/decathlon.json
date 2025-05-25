@@ -4,5 +4,5 @@
   "url": "http://www.decathlon.co.uk/Buy/%s",
   "description": "Decathlon",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

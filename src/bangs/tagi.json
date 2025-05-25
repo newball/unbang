@@ -4,5 +4,5 @@
   "url": "https://www.tagesanzeiger.ch/service/suche/suche.html?date=alle&order=date&key=%s",
   "description": "tagesanzeiger",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

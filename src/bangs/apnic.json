@@ -4,5 +4,5 @@
   "url": "https://wq.apnic.net/static/search.html?query=%s",
   "description": "APNIC Whois",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

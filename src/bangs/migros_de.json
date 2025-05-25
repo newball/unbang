@@ -4,5 +4,5 @@
   "url": "https://search.migros.ch/de/q:%s",
   "description": "Migros (DE)",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.holidaycheck.de/schnellsuche.php?q=%s",
   "description": "HolidayCheck",
   "category": "Entertainment",
-  "sub-category": "Games (WOW)"
+  "subcategory": "Games (WOW)"
 }

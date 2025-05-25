@@ -4,5 +4,5 @@
   "url": "https://www.google.de/#q=%s",
   "description": "Google Germany",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

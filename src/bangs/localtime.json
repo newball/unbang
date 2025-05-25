@@ -4,5 +4,5 @@
   "url": "http://www.timeanddate.com/time/zone/?query=%s",
   "description": "Time an Date (local time)",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

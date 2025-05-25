@@ -4,5 +4,5 @@
   "url": "https://medium.com/search?q=%s",
   "description": "Medium",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

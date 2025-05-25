@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site:emacswiki.org+%s",
   "description": "EmacsWiki",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

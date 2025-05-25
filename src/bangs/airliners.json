@@ -4,5 +4,5 @@
   "url": "http://www.airliners.net/search?keywords=%s",
   "description": "Airliners.net",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

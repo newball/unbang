@@ -4,5 +4,5 @@
   "url": "https://www.ibm.com/support/knowledgecenter/search/%s?scope=SSEPEK_11.0.0",
   "description": "IBM DB2 for z/OS doc search",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

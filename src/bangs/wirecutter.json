@@ -4,5 +4,5 @@
   "url": "http://thewirecutter.com/search/?s=%s",
   "description": "The Wirecutter",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

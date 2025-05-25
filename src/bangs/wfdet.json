@@ -4,5 +4,5 @@
   "url": "http://www.weltfussball.de/suche/?q=%s&kind=2",
   "description": "weltfussball.de",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

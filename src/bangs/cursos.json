@@ -4,5 +4,5 @@
   "url": "http://www.gesformacion.es/buscar?controller=search&search_query=%s",
   "description": "Ges Formacion",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

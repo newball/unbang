@@ -4,5 +4,5 @@
   "url": "http://flickr.com/search/?q=%s",
   "description": "Flickr",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.discogs.com/search?q=%s&btn=&type=all",
   "description": "Discogs",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

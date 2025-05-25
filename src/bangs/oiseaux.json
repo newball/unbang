@@ -4,5 +4,5 @@
   "url": "http://www.oiseaux.net/search/?q=%s",
   "description": "Oiseaux.net",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

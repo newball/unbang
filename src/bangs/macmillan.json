@@ -4,5 +4,5 @@
   "url": "http://www.macmillandictionary.com/dictionary/american/%s",
   "description": "MacMillan Dictionary",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

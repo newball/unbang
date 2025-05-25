@@ -4,5 +4,5 @@
   "url": "http://dns-tools.domaintools.com/?method=ping&query=%s",
   "description": "DomainTools.com",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

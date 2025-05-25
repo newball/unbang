@@ -4,5 +4,5 @@
   "url": "http://www.seriouseats.com/search?term=%s&site=all",
   "description": "Serious Eats",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

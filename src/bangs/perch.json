@@ -4,5 +4,5 @@
   "url": "http://forum.grabaperch.com/forum/search?query=%s",
   "description": "Perch Forum",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

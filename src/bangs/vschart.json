@@ -4,5 +4,5 @@
   "url": "http://vschart.com/search?q=%s",
   "description": "vsChart.com",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

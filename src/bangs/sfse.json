@@ -4,5 +4,5 @@
   "url": "http://salesforce.stackexchange.com/search?q=%s",
   "description": "Salesforce Stack Exchange",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

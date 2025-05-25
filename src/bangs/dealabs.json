@@ -4,5 +4,5 @@
   "url": "http://www.dealabs.com/search/?q=%s",
   "description": "Dealabs",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

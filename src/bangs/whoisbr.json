@@ -4,5 +4,5 @@
   "url": "https://registro.br/cgi-bin/whois/?qr=%s",
   "description": "Registro.br",
   "category": "Tech",
-  "sub-category": "Sysadmin (network)"
+  "subcategory": "Sysadmin (network)"
 }

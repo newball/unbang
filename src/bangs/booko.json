@@ -4,5 +4,5 @@
   "url": "http://booko.com.au/books/search?q=%s",
   "description": "Booko",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

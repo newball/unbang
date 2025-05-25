@@ -4,5 +4,5 @@
   "url": "http://elpais.com/buscador/?qt=%s",
   "description": "El Pais",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

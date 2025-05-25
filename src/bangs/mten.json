@@ -4,5 +4,5 @@
   "url": "http://www.mandarintools.com/cgi-bin/wordlook.pl?word=%s&searchtype=english&where=whole",
   "description": "Mandarin Tools Chinese-English Dictionary (English)",
   "category": "Research",
-  "sub-category": "Reference (words intl)"
+  "subcategory": "Reference (words intl)"
 }

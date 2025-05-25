@@ -4,5 +4,5 @@
   "url": "https://www.google.ru/search?q=%s&tbm=isch",
   "description": "Google Images Russian",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

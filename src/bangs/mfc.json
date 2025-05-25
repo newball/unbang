@@ -4,5 +4,5 @@
   "url": "http://myfigurecollection.net/browse.v4.php?keywords=%s",
   "description": "MyFigureCollection",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

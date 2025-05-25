@@ -4,5 +4,5 @@
   "url": "http://www.arabnews.com/search/google/%s",
   "description": "Arab News",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

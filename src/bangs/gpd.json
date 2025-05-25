@@ -4,5 +4,5 @@
   "url": "http://go.pkgdoc.org/?q=%s",
   "description": "GoPkgDoc",
   "category": "Tech",
-  "sub-category": "Languages (go)"
+  "subcategory": "Languages (go)"
 }

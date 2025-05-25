@@ -4,5 +4,5 @@
   "url": "https://dyn.manpages.debian.org/jump?q=%s",
   "description": "Debian Manual Pages",
   "category": "Tech",
-  "sub-category": "Sysadmin (debian)"
+  "subcategory": "Sysadmin (debian)"
 }

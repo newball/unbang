@@ -4,5 +4,5 @@
   "url": "https://s.taobao.com/search?q=%s",
   "description": "Taobao",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

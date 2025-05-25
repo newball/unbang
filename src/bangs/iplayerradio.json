@@ -4,5 +4,5 @@
   "url": "http://www.bbc.co.uk/radio/programmes/a-z/by/%s/player",
   "description": "BBC iPlayer Radio",
   "category": "Entertainment",
-  "sub-category": "Radio"
+  "subcategory": "Radio"
 }

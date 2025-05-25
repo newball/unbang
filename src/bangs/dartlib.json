@@ -4,5 +4,5 @@
   "url": "http://libcat.dartmouth.edu/search/X?%s",
   "description": "Dartmouth College Libraries",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

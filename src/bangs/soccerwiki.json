@@ -4,5 +4,5 @@
   "url": "http://soccerwiki.com/wiki.php?action=search&q=%s&searchType=players",
   "description": "Soccer Wiki",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

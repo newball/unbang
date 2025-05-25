@@ -4,5 +4,5 @@
   "url": "http://minnie.tuhs.org/cgi-bin/utree.pl?filesearch=%s&submit=Go",
   "description": "The Unix Tree",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

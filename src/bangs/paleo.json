@@ -4,5 +4,5 @@
   "url": "https://www.paleohacks.com/searches?utf8=%E2%9C%93&query=%s&commit=Search",
   "description": "Paleo Hacks",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

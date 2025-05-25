@@ -4,5 +4,5 @@
   "url": "http://www.neowin.net/search/news?terms=%s",
   "description": "Neowin",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

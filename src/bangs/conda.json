@@ -4,5 +4,5 @@
   "url": "https://anaconda.org/search?q=%s",
   "description": "https://anaconda.org",
   "category": "Tech",
-  "sub-category": "Downloads"
+  "subcategory": "Downloads"
 }

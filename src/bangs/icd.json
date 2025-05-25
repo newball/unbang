@@ -4,5 +4,5 @@
   "url": "http://www.icd-code.de/suche/icd/recherche.html?sp=0&sp=S%s ",
   "description": "Code Suche",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

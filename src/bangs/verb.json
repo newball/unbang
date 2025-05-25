@@ -4,5 +4,5 @@
   "url": "http://conjugator.reverso.net/conjugation-english-verb-%s.html",
   "description": "Verb-o-Matic",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

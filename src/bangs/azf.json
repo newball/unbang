@@ -4,5 +4,5 @@
   "url": "https://www.amazon.fr/s?k=%s",
   "description": "Amazon fr",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

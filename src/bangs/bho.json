@@ -4,5 +4,5 @@
   "url": "http://www.british-history.ac.uk/search?query=%s",
   "description": "British History Online",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

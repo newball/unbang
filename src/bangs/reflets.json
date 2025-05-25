@@ -4,5 +4,5 @@
   "url": "http://reflets.info/?s=%s",
   "description": "Reflets.info",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.dns-shop.ru/search/?q=%s",
   "description": "DNS",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

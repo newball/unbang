@@ -4,5 +4,5 @@
   "url": "https://smpl.bibliocommons.com/search?t=smart&search_category=keyword&q=%s",
   "description": "Santa Monica Public Library",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

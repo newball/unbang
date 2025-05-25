@@ -4,5 +4,5 @@
   "url": "http://www.elcorteingles.es/search?s=%s",
   "description": "El Corte Ingles",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

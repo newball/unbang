@@ -4,5 +4,5 @@
   "url": "http://bible.oremus.org/?passage=%s",
   "description": "oremus Bible Browser",
   "category": "Research",
-  "sub-category": "Reference (religion)"
+  "subcategory": "Reference (religion)"
 }

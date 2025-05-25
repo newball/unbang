@@ -4,5 +4,5 @@
   "url": "http://golang.org/search?q=%s",
   "description": "Go Programming Language",
   "category": "Tech",
-  "sub-category": "Languages (go)"
+  "subcategory": "Languages (go)"
 }

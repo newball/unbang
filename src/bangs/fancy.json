@@ -4,5 +4,5 @@
   "url": "http://www.thefancy.com/search?q=%s ",
   "description": "TheFancy",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

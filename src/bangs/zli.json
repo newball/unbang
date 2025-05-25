@@ -4,5 +4,5 @@
   "url": "https://www.zli.ch/service/suche/?q=%s",
   "description": "ZLI Zürich",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

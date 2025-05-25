@@ -4,5 +4,5 @@
   "url": "https://preisvergleich.check24.de/suche.html?query=%s",
   "description": "Check24 Preisvergleich",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

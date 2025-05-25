@@ -4,5 +4,5 @@
   "url": "http://www.searchtempest.com/search?location=12345&search_string=%s&cityselect=zip",
   "description": "Search Tempest",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

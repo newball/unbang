@@ -4,5 +4,5 @@
   "url": "https://www.heraldsun.com.au/?s=%s",
   "description": "Herald Sun",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

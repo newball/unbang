@@ -4,5 +4,5 @@
   "url": "http://dblp.uni-trier.de/search?q=%s",
   "description": "BDLP",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

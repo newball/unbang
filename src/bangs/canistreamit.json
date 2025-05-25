@@ -4,5 +4,5 @@
   "url": "http://www.canistream.it/search/term/%s",
   "description": "Can I Stream It",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

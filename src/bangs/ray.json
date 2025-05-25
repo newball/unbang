@@ -4,5 +4,5 @@
   "url": "https://www.raywenderlich.com/?s=%s",
   "description": "Ray Wenderlich",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

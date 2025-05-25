@@ -4,5 +4,5 @@
   "url": "https://bugs.debian.org/%s",
   "description": "Debian Bug Tracking System",
   "category": "Tech",
-  "sub-category": "Sysadmin (debian)"
+  "subcategory": "Sysadmin (debian)"
 }

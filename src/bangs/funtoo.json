@@ -4,5 +4,5 @@
   "url": "http://www.funtoo.org/index.php?search=%s",
   "description": "Funtoo",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

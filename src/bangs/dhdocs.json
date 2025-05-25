@@ -4,5 +4,5 @@
   "url": "https://docs.docker.com/search/?q=%s",
   "description": "Dockerhub docs",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.portagefilelist.de/site/query/file/?file=%s&unique_packages=yes&do",
   "description": "Portage File List",
   "category": "Tech",
-  "sub-category": "Sysadmin (Gentoo)"
+  "subcategory": "Sysadmin (Gentoo)"
 }

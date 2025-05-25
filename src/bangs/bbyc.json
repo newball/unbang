@@ -4,5 +4,5 @@
   "url": "https://m.bestbuy.ca/en-CA/search?search=%s",
   "description": "Bestbuy.ca",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

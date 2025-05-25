@@ -4,5 +4,5 @@
   "url": "http://packman.links2linux.org/search?q=%s",
   "description": "PackMan",
   "category": "Tech",
-  "sub-category": "Sysadmin (packages)"
+  "subcategory": "Sysadmin (packages)"
 }

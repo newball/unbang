@@ -4,5 +4,5 @@
   "url": "http://www.opendns.com/search/?s=%s",
   "description": "OpenDNS",
   "category": "Tech",
-  "sub-category": "Sysadmin (network)"
+  "subcategory": "Sysadmin (network)"
 }

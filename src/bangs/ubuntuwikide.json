@@ -4,5 +4,5 @@
   "url": "http://duckduckgo.com/?q=site%3Awiki.ubuntuusers.de+%s",
   "description": "Ubuntuusers Wiki",
   "category": "Tech",
-  "sub-category": "Sysadmin (Ubuntu)"
+  "subcategory": "Sysadmin (Ubuntu)"
 }

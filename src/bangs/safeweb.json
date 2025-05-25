@@ -4,5 +4,5 @@
   "url": "https://safeweb.norton.com/report/show?url=%s",
   "description": "Norton Safe Web",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

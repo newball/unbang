@@ -4,5 +4,5 @@
   "url": "http://woerterbuchnetz.de/Meyers/?lemme=%s",
   "description": "Meyers Großes Konversationslexikon",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

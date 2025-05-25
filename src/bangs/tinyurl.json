@@ -4,5 +4,5 @@
   "url": "http://tinyurl.com/create.php?url=%s",
   "description": "TinyURL.com",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

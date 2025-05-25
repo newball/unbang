@@ -4,5 +4,5 @@
   "url": "http://www.hamdata.com/getcall.html?callsign=%s",
   "description": "http://www.hamdata.com/getcall.html",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

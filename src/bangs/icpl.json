@@ -4,5 +4,5 @@
   "url": "https://catpro.icpl.org/iii/encore/search?lang=eng&target=%s",
   "description": "Iowa City Public Library",
   "category": "Research",
-  "sub-category": "Local"
+  "subcategory": "Local"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.codewars.com/kata/search/?q=%s",
   "description": "CodeWars",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

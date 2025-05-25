@@ -4,5 +4,5 @@
   "url": "http://www.etymonline.com/search?q=%s",
   "description": "Etymonline",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

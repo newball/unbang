@@ -4,5 +4,5 @@
   "url": "http://celticmusicpodcast.com/?s=%s",
   "description": "Irish & Celtic Music Podcast",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

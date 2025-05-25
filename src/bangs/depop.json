@@ -4,5 +4,5 @@
   "url": "https://www.depop.com/search/?q=%s",
   "description": "Depop",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

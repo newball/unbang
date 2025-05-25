@@ -4,5 +4,5 @@
   "url": "https://iplookup.flagfox.net/?ip=%s",
   "description": "Geotool",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

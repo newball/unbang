@@ -4,5 +4,5 @@
   "url": "http://www.nicovideo.jp/search/%s?track=nicouni_search_keyword",
   "description": "Nicovideo jp",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

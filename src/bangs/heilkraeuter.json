@@ -4,5 +4,5 @@
   "url": "http://heilkraeuter.de/cgi-bin/search.cgi?Terms=%s",
   "description": "Heilkraeuter",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

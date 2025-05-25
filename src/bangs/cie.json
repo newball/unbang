@@ -4,5 +4,5 @@
   "url": "https://paper.sc/search/?as=page&query=%s",
   "description": "Paper.sc",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

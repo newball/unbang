@@ -4,5 +4,5 @@
   "url": "http://tkkrlab.nl/wiki/Special:Search?search=%s&go=Go",
   "description": "tkkrlab",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

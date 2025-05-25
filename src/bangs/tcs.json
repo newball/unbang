@@ -4,5 +4,5 @@
   "url": "http://www.statutes.legis.state.tx.us/SearchResults.aspx?CP=1&Code=ZZ&Phrase=%s",
   "description": "Texas Constitution and Statutes",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

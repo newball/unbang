@@ -4,5 +4,5 @@
   "url": "http://forum.debianizzati.org/search.php?keywords=%s",
   "description": "Forum Debianizzati.org",
   "category": "Tech",
-  "sub-category": "Sysadmin (debian)"
+  "subcategory": "Sysadmin (debian)"
 }

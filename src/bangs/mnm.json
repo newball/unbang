@@ -4,5 +4,5 @@
   "url": "https://www.nexusmods.com/morrowind/search/?gsearch=%s&gsearchtype=mods",
   "description": "Morrowind NexusMods",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

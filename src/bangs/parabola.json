@@ -4,5 +4,5 @@
   "url": "https://www.parabola.nu/packages/?q=%s",
   "description": "Parabola GNU/Linux-libre",
   "category": "Tech",
-  "sub-category": "Sysadmin (packages)"
+  "subcategory": "Sysadmin (packages)"
 }

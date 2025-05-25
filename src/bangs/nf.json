@@ -4,5 +4,5 @@
   "url": "https://www.netflix.com/search?q=%s",
   "description": "Netflix",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

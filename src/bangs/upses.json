@@ -4,5 +4,5 @@
   "url": "https://www.ups.com/track?loc=es_ES&tracknum=%s",
   "description": "UPS Spain",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

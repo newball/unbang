@@ -4,5 +4,5 @@
   "url": "https://www.newport.com/search/?text=%s",
   "description": "Newport",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

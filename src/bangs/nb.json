@@ -4,5 +4,5 @@
   "url": "http://www.nb.no/nbsok/search?page=0&menuOpen=false&instant=true&action=search&currentHit=-1&searchString=%s",
   "description": "Nasjonalbiblioteket",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

@@ -4,5 +4,5 @@
   "url": "https://peer.tube/search?search=%s",
   "description": "PeerTube",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

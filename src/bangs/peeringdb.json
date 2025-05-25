@@ -4,5 +4,5 @@
   "url": "https://www.peeringdb.com/search?q=%s",
   "description": "PeeringDB",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

@@ -4,5 +4,5 @@
   "url": "http://qaz.wtf/u/convert.cgi?text=%s",
   "description": "Unicode Text Converter",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "http://steamrep.com/id/%s",
   "description": "SteamRep (by ID)",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

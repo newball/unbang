@@ -4,5 +4,5 @@
   "url": "https://www.bloombergquint.com/search?q=%s",
   "description": "BloombergQuint",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

@@ -4,5 +4,5 @@
   "url": "http://liu.diva-portal.org/smash/resultList.jsf?searchType=SIMPLE&query=%s",
   "description": "divaliu",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

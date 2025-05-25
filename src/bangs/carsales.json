@@ -4,5 +4,5 @@
   "url": "https://www.carsales.com.au/cars/results/?q=CarAll.keyword(%s).&area=Stock&vertical=car&WT.z_srchsrcx=makemodel",
   "description": "Carsales",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

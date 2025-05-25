@@ -4,5 +4,5 @@
   "url": "https://www.kanopy.com/s?query=%s",
   "description": "Kanopy",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

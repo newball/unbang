@@ -4,5 +4,5 @@
   "url": "http://kb.avg.com/pkb_Home?q=%s",
   "description": "AVG Knowledge Base",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

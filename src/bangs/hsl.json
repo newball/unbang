@@ -4,5 +4,5 @@
   "url": "https://www.hsl.fi/search/solr?keywords=%s",
   "description": "Helsingin Seudun Liikenne",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

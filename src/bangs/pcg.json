@@ -4,5 +4,5 @@
   "url": "https://www.pcgamer.com/search/?searchTerm=%s",
   "description": "PC Gamer",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

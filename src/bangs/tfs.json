@@ -4,5 +4,5 @@
   "url": "http://www.thermofisher.com/search/results?query=%s",
   "description": "Thermo Fisher Scientific",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

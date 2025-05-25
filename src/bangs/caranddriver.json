@@ -4,5 +4,5 @@
   "url": "http://caranddriver.com/search/%s",
   "description": "Car and Driver",
   "category": "Entertainment",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

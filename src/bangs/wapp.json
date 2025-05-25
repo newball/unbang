@@ -4,5 +4,5 @@
   "url": "https://api.whatsapp.com/send?phone=%s&text=",
   "description": "WhatsApp",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

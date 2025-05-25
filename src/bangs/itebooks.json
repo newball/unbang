@@ -4,5 +4,5 @@
   "url": "http://it-ebooks.info/search/?q=%s&type=title",
   "description": "http://it-ebooks.info/",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

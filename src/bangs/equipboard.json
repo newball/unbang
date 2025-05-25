@@ -4,5 +4,5 @@
   "url": "http://equipboard.com/search?search_term=%s",
   "description": "Equipboard",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

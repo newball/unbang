@@ -4,5 +4,5 @@
   "url": "https://www.gov.uk/search?q=%s",
   "description": "GOV.UK",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

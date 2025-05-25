@@ -4,5 +4,5 @@
   "url": "http://flickriver.com/search/%s/",
   "description": "Flickriver",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

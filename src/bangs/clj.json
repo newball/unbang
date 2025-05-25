@@ -4,5 +4,5 @@
   "url": "https://clojuredocs.org/search?q=%s",
   "description": "ClojureDocs",
   "category": "Tech",
-  "sub-category": "Languages (clojure)"
+  "subcategory": "Languages (clojure)"
 }

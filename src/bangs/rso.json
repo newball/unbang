@@ -4,5 +4,5 @@
   "url": "http://stackoverflow.com/search?q=[r]+%s",
   "description": "R questions on Stack Overflow",
   "category": "Tech",
-  "sub-category": "Languages (r)"
+  "subcategory": "Languages (r)"
 }

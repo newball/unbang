@@ -4,5 +4,5 @@
   "url": "http://www.spiegel.de/suche/index.html?suchbegriff= %s",
   "description": "www.spiegel.de",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

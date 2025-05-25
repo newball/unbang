@@ -4,5 +4,5 @@
   "url": "http://rpmfind.net/linux/rpm2html/search.php?query=%s&submit=Search+...",
   "description": "RPMfind.net",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

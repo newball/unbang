@@ -4,5 +4,5 @@
   "url": "https://gamedev.stackexchange.com/search?q=%s",
   "description": "Gamedev Stackexchange",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

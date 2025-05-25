@@ -4,5 +4,5 @@
   "url": "http://www.timeanddate.com/search/results.html?query=%s",
   "description": "TimeAndDate",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.metacrawler.com/search/web?q=%s",
   "description": "MetaCrawler",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.tagesschau.de/suche2.html?query=%s",
   "description": "Tagesschau",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

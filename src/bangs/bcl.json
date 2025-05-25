@@ -4,5 +4,5 @@
   "url": "https://boston.craigslist.org/search/sss?query=%s",
   "description": "boston.craigslist.org",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

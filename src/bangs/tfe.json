@@ -4,5 +4,5 @@
   "url": "https://ticketforevent.com/events/?q=%s",
   "description": "TickeForEvent",
   "category": "Entertainment",
-  "sub-category": "Events"
+  "subcategory": "Events"
 }

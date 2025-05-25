@@ -4,5 +4,5 @@
   "url": "https://atom.io/packages/search?q=%s",
   "description": "Atom Packages",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

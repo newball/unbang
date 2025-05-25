@@ -4,5 +4,5 @@
   "url": "https://www.archlinux.org/packages/?sort=&q=%s",
   "description": "Arch Linux Packages",
   "category": "Tech",
-  "sub-category": "Sysadmin (Arch)"
+  "subcategory": "Sysadmin (Arch)"
 }

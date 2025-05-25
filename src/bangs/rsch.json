@@ -4,5 +4,5 @@
   "url": "https://www.admin.ch/opc/search/?text=%s&lang=fr&product[]=cc&date_range_min=&date_range_max=&d_compilation=both&d_is_in_force=yes&thesaurus=1",
   "description": "admin.ch -  Recueil systématique ",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

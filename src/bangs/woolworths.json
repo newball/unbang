@@ -4,5 +4,5 @@
   "url": "https://www.woolworths.com.au/shop/search/products?searchTerm=%s",
   "description": "Woolworths",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

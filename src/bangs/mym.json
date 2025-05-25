@@ -4,5 +4,5 @@
   "url": "http://www.mymovies.it/database/ricerca/?q=%s",
   "description": "MYmovies",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

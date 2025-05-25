@@ -4,5 +4,5 @@
   "url": "http://www.google.com/patents?q=%s&btnG=Search+Patents",
   "description": "Google Patents",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.metal-archives.com/search?type=band_name&searchString=%s",
   "description": "Encyclopaedia metallum",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

@@ -4,5 +4,5 @@
   "url": "https://openparliament.ca/search/?q=%s",
   "description": "openparliament.ca",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.youtube.com/watch?v=%s",
   "description": "Youtube video",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

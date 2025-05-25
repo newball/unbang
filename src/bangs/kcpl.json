@@ -4,5 +4,5 @@
   "url": "http://catalog.kentonlibrary.org/eg/opac/results?query=%s",
   "description": "Kenton County Public Library",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

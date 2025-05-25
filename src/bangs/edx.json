@@ -4,5 +4,5 @@
   "url": "https://www.edx.org/course?search_query=%s",
   "description": "Edx",
   "category": "Multimedia",
-  "sub-category": "General"
+  "subcategory": "General"
 }

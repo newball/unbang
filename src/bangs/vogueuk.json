@@ -4,5 +4,5 @@
   "url": "https://www.vogue.co.uk/search?q=%s",
   "description": "Vogue.co.uk",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

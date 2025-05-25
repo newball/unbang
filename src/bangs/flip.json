@@ -4,5 +4,5 @@
   "url": "http://www.flipkart.com/search?q=%s&as=off&as-show=on&otracker=start",
   "description": "Flipkart",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

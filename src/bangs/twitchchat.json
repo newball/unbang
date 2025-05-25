@@ -4,5 +4,5 @@
   "url": "https://www.twitch.tv/%s/chat?popout=",
   "description": "Twitch Chat",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

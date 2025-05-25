@@ -4,5 +4,5 @@
   "url": "https://www.prisjakt.nu/search?search=%s",
   "description": "Prisjakt",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

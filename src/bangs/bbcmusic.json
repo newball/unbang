@@ -4,5 +4,5 @@
   "url": "http://www.bbc.co.uk/music/search-results?q=%s",
   "description": "BBC Music",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

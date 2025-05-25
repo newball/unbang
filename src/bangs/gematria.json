@@ -4,5 +4,5 @@
   "url": "https://www.gematrix.org/?word=%s",
   "description": "Gematrix",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

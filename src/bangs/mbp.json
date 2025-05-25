@@ -4,5 +4,5 @@
   "url": "https://musicbrainz.org/search?query=%s&type=place&method=indexed",
   "description": "MusicBrainz places",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

@@ -4,5 +4,5 @@
   "url": "http://suche.uni-regensburg.de/index.php?q=%s",
   "description": "Universität Regensburg",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.lexml.gov.br/busca/search?keyword=%s&f1-tipoDocumento=",
   "description": "LexML Brasil",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

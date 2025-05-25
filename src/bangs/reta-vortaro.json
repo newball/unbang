@@ -4,5 +4,5 @@
   "url": "http://www.reta-vortaro.de/cgi-bin/sercxu.pl?sercxata=%s&kadroj=1",
   "description": "Reta Vortaro",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "http://lubimyczytac.pl/szukaj/ksiazki?phrase=%s",
   "description": "lubimyczytac",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

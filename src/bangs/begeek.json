@@ -4,5 +4,5 @@
   "url": "http://www.begeek.fr/?s=%s",
   "description": "Begeek",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

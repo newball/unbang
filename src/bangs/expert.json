@@ -4,5 +4,5 @@
   "url": "https://www.expert.nl/catalogsearch/result/?q=%s",
   "description": "Expert",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

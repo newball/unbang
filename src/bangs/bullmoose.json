@@ -4,5 +4,5 @@
   "url": "http://www.bullmoose.com/search?q=%s&SC=1",
   "description": "Bull Moose",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

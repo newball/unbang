@@ -4,5 +4,5 @@
   "url": "http://dict.youdao.com/search?q=%s",
   "description": "Youdao Dict",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

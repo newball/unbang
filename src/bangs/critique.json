@@ -4,5 +4,5 @@
   "url": "https://critiquebrainz.org/search/?query=%s&type=artist",
   "description": "CritiqueBrainz",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

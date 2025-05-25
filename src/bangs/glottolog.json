@@ -4,5 +4,5 @@
   "url": "http://glottolog.org/glottolog?search=%s",
   "description": "Glottolog",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

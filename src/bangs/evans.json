@@ -4,5 +4,5 @@
   "url": "http://www.evanscycles.com/search?query=%s&x=0&y=0",
   "description": "Evans Cycles",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.bankgirot.se/en/sok-bg-nr/?bgnr=%s",
   "description": "Bankgirot - Search Bankgiro number",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

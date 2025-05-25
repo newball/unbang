@@ -4,5 +4,5 @@
   "url": "http://dr.loudness-war.info/album/list?album=%s",
   "description": "Dynamic Range Database (album)",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "https://pixabay.com/en/photos/?q=%s&image_type=vector&cat=&min_width=&min_height=",
   "description": "Pixabay Vector Graphics",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

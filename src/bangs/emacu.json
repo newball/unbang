@@ -4,5 +4,5 @@
   "url": "https://emaculation.com/doku.php/mac_emulation?do=search&id=mac_emulation&q=%s",
   "description": "E-Maculation",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

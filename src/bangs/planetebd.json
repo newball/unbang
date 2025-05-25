@@ -4,5 +4,5 @@
   "url": "http://www.planetebd.com/recherche?mot-clef=%s",
   "description": "Planète BD",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

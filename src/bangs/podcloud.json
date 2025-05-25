@@ -4,5 +4,5 @@
   "url": "https://podcloud.fr/search?q=%s",
   "description": "podCloud",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

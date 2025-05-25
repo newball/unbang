@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site%3Ahyperphysics.phy-astr.gsu.edu+%s",
   "description": "HyperPhysics",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

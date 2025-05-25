@@ -4,5 +4,5 @@
   "url": "https://www.jutarnji.hr/search/?q=%s",
   "description": "Jutarnji.hr",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

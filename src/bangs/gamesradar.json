@@ -4,5 +4,5 @@
   "url": "https://www.gamesradar.com/search/?searchTerm=%s",
   "description": "GamesRadar",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

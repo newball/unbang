@@ -4,5 +4,5 @@
   "url": "https://www.xe.com/currencyconverter/convert/?Amount=%s&From=GBP&To=BRL",
   "description": "XE",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

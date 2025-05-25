@@ -4,5 +4,5 @@
   "url": "http://quote.morningstar.com/stock/s.aspx?t=%s",
   "description": "Morningstar Quote",
   "category": "Research",
-  "sub-category": "Topical"
+  "subcategory": "Topical"
 }

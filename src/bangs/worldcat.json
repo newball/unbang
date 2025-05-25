@@ -4,5 +4,5 @@
   "url": "http://www.worldcat.org/search?qt=worldcat_org_all&q=%s",
   "description": "WorldCat.org",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

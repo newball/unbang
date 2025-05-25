@@ -4,5 +4,5 @@
   "url": "http://jedipedia.wikia.com/wiki/Spezial:Suche?search=%s&fulltext=Search",
   "description": "Jedipedia Wikia",
   "category": "Entertainment",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

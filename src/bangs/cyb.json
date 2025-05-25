@@ -4,5 +4,5 @@
   "url": "https://cyberlearn.hes-so.ch/course/search.php?search=%s",
   "description": "Cyberlearn",
   "category": "Multimedia",
-  "sub-category": "Docs"
+  "subcategory": "Docs"
 }

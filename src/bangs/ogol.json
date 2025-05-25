@@ -4,5 +4,5 @@
   "url": "http://www.ogol.com.br/search.php?inputString=%s",
   "description": "OGol",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

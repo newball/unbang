@@ -4,5 +4,5 @@
   "url": "https://docs.google.com/spreadsheets/u/0/?q=%s",
   "description": "Google Sheets",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

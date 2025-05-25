@@ -4,5 +4,5 @@
   "url": "http://listado.mercadolibre.cl/%s#D[A:%s]",
   "description": "Mercadolibre.cl",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

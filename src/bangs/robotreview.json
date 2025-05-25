@@ -4,5 +4,5 @@
   "url": "https://robot-review.ru/search?q=%s",
   "description": "RobotReview",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

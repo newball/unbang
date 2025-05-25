@@ -4,5 +4,5 @@
   "url": "https://www.komplett.no/search?q=%s",
   "description": "Komplett",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

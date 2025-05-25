@@ -4,5 +4,5 @@
   "url": "http://musopen.org/search?q=%s",
   "description": "Musopen",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

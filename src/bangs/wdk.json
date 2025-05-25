@@ -4,5 +4,5 @@
   "url": "https://da.wikipedia.org/w/index.php?search=%s",
   "description": "Wikipedia (DK)",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

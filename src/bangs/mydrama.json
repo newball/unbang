@@ -4,5 +4,5 @@
   "url": "https://mydramalist.com/search?q=%s",
   "description": "MyDramaList",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

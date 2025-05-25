@@ -4,5 +4,5 @@
   "url": "https://london.eater.com/search?q=%s",
   "description": "Eater London",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

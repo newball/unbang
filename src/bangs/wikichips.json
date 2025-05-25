@@ -4,5 +4,5 @@
   "url": "https://en.wikichip.org/w/index.php?title=Special%3ASearch&search=%s",
   "description": "WikiChips",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

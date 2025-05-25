@@ -4,5 +4,5 @@
   "url": "https://www.coolblue.nl/zoeken?query=%s",
   "description": "Coolblue",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

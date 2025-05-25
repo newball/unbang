@@ -4,5 +4,5 @@
   "url": "https://www.google.com/search?sitesearch=http%3A%2F%2Fwww.freedesktop.org%2Fwiki%2F&q=%s&gws_rd=ssl",
   "description": "freedesktop.org",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.google.com/search?site=imghp&tbm=isch&q=%s",
   "description": "Google Image Search",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

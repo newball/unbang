@@ -4,5 +4,5 @@
   "url": "http://cdon.dk/search?q=%s",
   "description": "CDON.com (Denmark/Danmark)",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://bookdepository.com/search?searchTerm=%s&search=Find+book",
   "description": "bookdepository",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

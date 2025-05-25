@@ -4,5 +4,5 @@
   "url": "http://www.foodnetwork.com/search/delegate.do?fnSearchString=%s&fnSearchType=site",
   "description": "Food Network",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

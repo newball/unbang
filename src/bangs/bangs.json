@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/bang?q=%s",
   "description": "Search all !bangs",
   "category": "Online Services",
-  "sub-category": "Search (DDG)"
+  "subcategory": "Search (DDG)"
 }

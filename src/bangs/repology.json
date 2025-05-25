@@ -4,5 +4,5 @@
   "url": "https://repology.org/metapackages/?search=%s",
   "description": "Repology",
   "category": "Tech",
-  "sub-category": "Downloads (code)"
+  "subcategory": "Downloads (code)"
 }

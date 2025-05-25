@@ -4,5 +4,5 @@
   "url": "https://www.google.gr/?gws_rd=ssl#q=%s",
   "description": "https://www.google.gr/?gws_rd=ssl",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

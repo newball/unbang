@@ -4,5 +4,5 @@
   "url": "http://www.qrz.com/db/?callsign=%s&cmd=Search",
   "description": "QRZ.com",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

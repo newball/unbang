@@ -4,5 +4,5 @@
   "url": "http://%s.wordpress.com",
   "description": "WordPress.com",
   "category": "Entertainment",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

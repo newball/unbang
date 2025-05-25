@@ -4,5 +4,5 @@
   "url": "https://www.desiclik.com/_search.php?page=1&q=%s",
   "description": "DesiClik",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

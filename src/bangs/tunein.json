@@ -4,5 +4,5 @@
   "url": "http://tunein.com/search/?query=%s",
   "description": "TuneIn",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

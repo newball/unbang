@@ -4,5 +4,5 @@
   "url": "https://worldwide.espacenet.com/searchResults?ST=singleline&query=%s&Submit=Search",
   "description": "Espacenet",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

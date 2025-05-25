@@ -4,5 +4,5 @@
   "url": "http://portableapps.com/search/node/%s%20type%3Aapp",
   "description": "PortableApps.com",
   "category": "Tech",
-  "sub-category": "Downloads (software)"
+  "subcategory": "Downloads (software)"
 }

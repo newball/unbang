@@ -4,5 +4,5 @@
   "url": "http://www.oeticket.com/Tickets.html?affiliate=EOE&fun=search&fuzzy=yes&doc=search&action=grouped&inline=false&suchbegriff=%s",
   "description": "oeticket",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

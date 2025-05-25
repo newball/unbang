@@ -4,5 +4,5 @@
   "url": "http://www.autocar.co.uk/SearchResults.aspx?q=%s",
   "description": "Autocar.co.uk",
   "category": "Shopping",
-  "sub-category": "Online (intl)"
+  "subcategory": "Online (intl)"
 }

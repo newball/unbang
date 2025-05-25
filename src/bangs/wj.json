@@ -4,5 +4,5 @@
   "url": "https://ja.wikipedia.org/wiki/%s",
   "description": "Wikipedia in Japanese",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.youtube.fr/results?search_query=%s",
   "description": "YouTube France",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

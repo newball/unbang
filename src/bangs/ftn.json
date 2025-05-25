@@ -4,5 +4,5 @@
   "url": "https://www.fortuneo.fr/recherche?term=%s",
   "description": "Fortuneo",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

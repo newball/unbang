@@ -4,5 +4,5 @@
   "url": "http://www.dd-wrt.com/wiki/index.php/Special:Search?search=%s",
   "description": "DD-WRT Wiki",
   "category": "Tech",
-  "sub-category": "Downloads (software)"
+  "subcategory": "Downloads (software)"
 }

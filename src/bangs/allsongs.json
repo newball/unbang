@@ -4,5 +4,5 @@
   "url": "http://allsongs.tv/search/?q=%s",
   "description": "AllSongs",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

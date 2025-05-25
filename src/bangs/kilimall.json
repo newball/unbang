@@ -4,5 +4,5 @@
   "url": "https://www.kilimall.co.ke/?act=search&keyword=%s",
   "description": "Kilimall",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=%s&owner=exclude&action=getcompany",
   "description": "SEC Edgar",
   "category": "Research",
-  "sub-category": "Topical"
+  "subcategory": "Topical"
 }

@@ -4,5 +4,5 @@
   "url": "http://erlang.org/doc/search/?q=%s",
   "description": "Erlang Docs",
   "category": "Tech",
-  "sub-category": "Languages (erlang)"
+  "subcategory": "Languages (erlang)"
 }

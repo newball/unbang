@@ -4,5 +4,5 @@
   "url": "https://www.bankgirot.se/en/sok-bg-nr/?company=%s",
   "description": "Bankgirot - Search Bankgiro number by Company Name",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

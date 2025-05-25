@@ -4,5 +4,5 @@
   "url": "https://www.bing.com/search?q=%s&cc=nl",
   "description": "Bing Netherlands",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

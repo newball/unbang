@@ -4,5 +4,5 @@
   "url": "http://oxfordindex.oup.com/search?q=%s",
   "description": "Oxford Index",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

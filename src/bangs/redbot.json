@@ -4,5 +4,5 @@
   "url": "http://redbot.org/?uri=%s",
   "description": "REDbot",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

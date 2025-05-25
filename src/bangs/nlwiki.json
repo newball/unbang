@@ -4,5 +4,5 @@
   "url": "https://nl.wikipedia.org/wiki/Speciaal:Zoeken/%s",
   "description": "Dutch Wikipedia",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.ikea.com/cz/cs/search/?query=%s",
   "description": "Ikea Czech Republic",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

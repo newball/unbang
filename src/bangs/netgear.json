@@ -4,5 +4,5 @@
   "url": "http://netgear.com/Search.aspx?q=%s",
   "description": "Netgear",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

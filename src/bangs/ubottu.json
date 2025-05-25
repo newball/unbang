@@ -4,5 +4,5 @@
   "url": "http://ubottu.com/factoids.cgi?search=%s",
   "description": "Ubottu.com",
   "category": "Tech",
-  "sub-category": "Sysadmin (Ubuntu)"
+  "subcategory": "Sysadmin (Ubuntu)"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.cairn.info/resultats_recherche.php?searchTerm=%s",
   "description": "Cairn",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

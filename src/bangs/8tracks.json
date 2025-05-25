@@ -4,5 +4,5 @@
   "url": "http://8tracks.com/explore/all?q=%s",
   "description": "8tracks",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

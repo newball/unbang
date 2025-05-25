@@ -4,5 +4,5 @@
   "url": "http://www.shoptimate.com/search?q=%s",
   "description": "Shoptimate",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

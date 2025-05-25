@@ -4,5 +4,5 @@
   "url": "http://tracking.dpd.de/parcelstatus?query=%s&locale=en_DE",
   "description": "DPD",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

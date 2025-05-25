@@ -4,5 +4,5 @@
   "url": "http://go-search.org/search?q=%s",
   "description": "Go Search",
   "category": "Tech",
-  "sub-category": "Languages (go)"
+  "subcategory": "Languages (go)"
 }

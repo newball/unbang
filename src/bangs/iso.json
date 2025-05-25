@@ -4,5 +4,5 @@
   "url": "https://distrowatch.com/table.php?distribution=%s",
   "description": "Distrowatch",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

@@ -4,5 +4,5 @@
   "url": "http://thenounproject.com/search/?q=%s",
   "description": "The Noun Project",
   "category": "Tech",
-  "sub-category": "Downloads"
+  "subcategory": "Downloads"
 }

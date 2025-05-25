@@ -4,5 +4,5 @@
   "url": "https://www.google.com/searchbyimage?image_url=%s",
   "description": "Google Search by Image",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

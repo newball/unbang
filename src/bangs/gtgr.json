@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#view=home&op=translate&sl=auto&tl=el&text=%s",
   "description": "Detect language to Greek",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

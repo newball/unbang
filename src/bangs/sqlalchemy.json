@@ -4,5 +4,5 @@
   "url": "http://www.sqlalchemy.org/docs/search.html?q=%s&check_keywords=yes&area=default",
   "description": "SQL Alchemy Docs",
   "category": "Tech",
-  "sub-category": "Languages (python)"
+  "subcategory": "Languages (python)"
 }

@@ -4,5 +4,5 @@
   "url": "http://tools.tracemyip.org/lookup/%s",
   "description": "tracemyip",
   "category": "Tech",
-  "sub-category": "Domains"
+  "subcategory": "Domains"
 }

@@ -4,5 +4,5 @@
   "url": "https://google.com/search?q=%s",
   "description": "Google with SSL",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

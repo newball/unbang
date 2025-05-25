@@ -4,5 +4,5 @@
   "url": "http://search-hadoop.com/?q=%s",
   "description": "Search-Hadoop",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.ncbi.nlm.nih.gov/sra/?term=%s",
   "description": "SRA",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

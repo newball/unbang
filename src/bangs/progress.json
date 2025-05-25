@@ -4,5 +4,5 @@
   "url": "http://knowledgebase.progress.com/pkb_Home?q=%s",
   "description": "Progress",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

@@ -4,5 +4,5 @@
   "url": "http://trademarks.justia.com/search.php?q=%s",
   "description": "Justia.com trademarks",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

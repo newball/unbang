@@ -4,5 +4,5 @@
   "url": "https://openclassrooms.com/courses?q=%s",
   "description": "OpenClassroom Cours",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

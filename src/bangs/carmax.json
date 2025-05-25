@@ -4,5 +4,5 @@
   "url": "https://www.carmax.com/search#FreeText=%s",
   "description": "CarMax",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

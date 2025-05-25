@@ -4,5 +4,5 @@
   "url": "http://www.digitaltrends.com/?s=%s",
   "description": "DigitalTrends",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

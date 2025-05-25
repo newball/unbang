@@ -4,5 +4,5 @@
   "url": "http://dejure.org/gesetze/BGB/%s.html",
   "description": "BGB - dejure.org",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

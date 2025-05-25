@@ -4,5 +4,5 @@
   "url": "http://www.plombservice.fr/catalogsearch/result/?imageField.x=0&imageField.y=0&q=%s",
   "description": "Plombservice",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

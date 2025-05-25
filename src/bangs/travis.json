@@ -4,5 +4,5 @@
   "url": "https://travis-ci.org/search/%s",
   "description": "Travis CI",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

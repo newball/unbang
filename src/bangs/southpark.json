@@ -4,5 +4,5 @@
   "url": "http://www.southparkstudios.com/search?keywords=%s",
   "description": "South Park Studios",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

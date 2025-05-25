@@ -4,5 +4,5 @@
   "url": "https://chrome.google.com/webstore/search/%s",
   "description": "Chrome Web Store",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

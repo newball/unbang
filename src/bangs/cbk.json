@@ -4,5 +4,5 @@
   "url": "http://carminbook.com/?s=%s",
   "description": "Carminbook",
   "category": "Entertainment",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

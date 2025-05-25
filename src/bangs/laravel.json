@@ -4,5 +4,5 @@
   "url": "https://laravel.com/docs/%s",
   "description": "Laravel",
   "category": "Tech",
-  "sub-category": "Languages (php)"
+  "subcategory": "Languages (php)"
 }

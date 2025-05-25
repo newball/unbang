@@ -4,5 +4,5 @@
   "url": "http://www.pricegrabber.com/%s/products.html/form_keyword=%s/st=query/sv=findit_top",
   "description": "Price Grabber",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

@@ -4,5 +4,5 @@
   "url": "http://putusan.mahkamahagung.go.id/main/pencarian/?q=%s",
   "description": "Supreme Court of Indonesia",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

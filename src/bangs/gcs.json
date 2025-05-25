@@ -4,5 +4,5 @@
   "url": "https://cloudsearch.google.com/cloudsearch/search?q=%s",
   "description": "Google Cloud Search",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

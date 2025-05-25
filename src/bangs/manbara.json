@@ -4,5 +4,5 @@
   "url": "http://manga.akihabara.cz/vyhledavani/%s",
   "description": "Manga Akihabara",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

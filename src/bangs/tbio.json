@@ -4,5 +4,5 @@
   "url": "http://www.treccani.it/biografie/?q=%s",
   "description": "Treccani Biografie",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

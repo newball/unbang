@@ -4,5 +4,5 @@
   "url": "https://www.amazon.co.uk/s?k=%s&i=digital-text",
   "description": "Amazon UK Kindle",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

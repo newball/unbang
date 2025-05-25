@@ -4,5 +4,5 @@
   "url": "http://kuldnebors.ee/search/search.mec?search_evt=onsearch&pob_action=search&search_O_string=%s",
   "description": "Kuldne Börs",
   "category": "Shopping",
-  "sub-category": "Online (intl)"
+  "subcategory": "Online (intl)"
 }

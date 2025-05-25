@@ -4,5 +4,5 @@
   "url": "http://www.sunnysports.com/search?searchinfo=%s",
   "description": "SunnySports",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "https://ottawacitizen.com/?s=%s",
   "description": "Ottawa Citizen",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

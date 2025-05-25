@@ -4,5 +4,5 @@
   "url": "https://myanimelist.net/anime.php?q=%s",
   "description": "My Anime List",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

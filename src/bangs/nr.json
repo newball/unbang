@@ -4,5 +4,5 @@
   "url": "https://github.com/NixOS/nixpkgs/search?q=%s",
   "description": "Nixpkgs Repository",
   "category": "Tech",
-  "sub-category": "Sysadmin (packages)"
+  "subcategory": "Sysadmin (packages)"
 }

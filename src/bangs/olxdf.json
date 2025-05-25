@@ -4,5 +4,5 @@
   "url": "https://df.olx.com.br/?q=%s",
   "description": "OLX DF",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

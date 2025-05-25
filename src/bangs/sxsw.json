@@ -4,5 +4,5 @@
   "url": "https://schedule.sxsw.com/2019/search?q=%s",
   "description": "SXSW Schedule",
   "category": "Entertainment",
-  "sub-category": "Events"
+  "subcategory": "Events"
 }

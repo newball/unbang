@@ -4,5 +4,5 @@
   "url": "http://zetax.net/search/?q=%s",
   "description": "Zetax.net",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.wordnik.com/words?myWord=%s",
   "description": "Wordnik",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

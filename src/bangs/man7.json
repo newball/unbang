@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s+site%3Aman7.org%2Flinux%2Fman-pages",
   "description": "The Linux man-pages project",
   "category": "Tech",
-  "sub-category": "Sysadmin (man)"
+  "subcategory": "Sysadmin (man)"
 }

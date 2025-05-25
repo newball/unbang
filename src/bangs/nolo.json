@@ -4,5 +4,5 @@
   "url": "https://www.nolo.com/search2?type=all&query=%s&location=",
   "description": "Nolo.com",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

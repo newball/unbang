@@ -4,5 +4,5 @@
   "url": "https://new.wordsmith.org/anagram/anagram.cgi?anagram=%s&t=500&a=n",
   "description": "Internet Anagram Server",
   "category": "Research",
-  "sub-category": "Reference (fun)"
+  "subcategory": "Reference (fun)"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.walmart.com/search/?query=%s&country=US",
   "description": "Walmart US",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

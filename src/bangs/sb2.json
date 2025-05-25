@@ -4,5 +4,5 @@
   "url": "https://scratch.mit.edu/search/projects?q=%s",
   "description": "Scratch",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

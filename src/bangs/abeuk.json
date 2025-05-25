@@ -4,5 +4,5 @@
   "url": "http://www.abebooks.co.uk/servlet/SearchResults?kn=%s",
   "description": "abebooks uk",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

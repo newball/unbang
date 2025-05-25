@@ -4,5 +4,5 @@
   "url": "https://sedo.com/search/?keyword=%s",
   "description": "Sedo",
   "category": "Tech",
-  "sub-category": "Domains"
+  "subcategory": "Domains"
 }

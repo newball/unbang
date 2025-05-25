@@ -4,5 +4,5 @@
   "url": "https://www.sephora.com.au/search?q=%s",
   "description": "Sephora Australia",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

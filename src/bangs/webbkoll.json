@@ -4,5 +4,5 @@
   "url": "https://webbkoll.dataskydd.net/en/results?url=%s",
   "description": "Webbkoll",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

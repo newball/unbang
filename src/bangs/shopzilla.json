@@ -4,5 +4,5 @@
   "url": "http://www.shopzilla.com/%s/search",
   "description": "Shopzilla",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

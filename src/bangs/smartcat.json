@@ -4,5 +4,5 @@
   "url": "https://rug.on.worldcat.org/search?databaseList=&queryString=%s",
   "description": "Smartcat",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.adlibris.com/se/searchresult.aspx?search=quickfirstpage&quickvalue=%s",
   "description": "AdLibris SE",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

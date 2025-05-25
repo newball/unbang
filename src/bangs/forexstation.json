@@ -4,5 +4,5 @@
   "url": "https://forex-station.com/search.php?keywords=%s&terms=all&author=&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&t=0&submit=Search",
   "description": "Forex Station",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

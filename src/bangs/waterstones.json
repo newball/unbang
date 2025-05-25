@@ -4,5 +4,5 @@
   "url": "https://www.waterstones.com/books/search/term/%s",
   "description": "Waterstones",
   "category": "Shopping",
-  "sub-category": "Online (intl)"
+  "subcategory": "Online (intl)"
 }

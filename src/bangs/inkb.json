@@ -4,5 +4,5 @@
   "url": "https://inkbunny.net/submissionsviewall.php?rid=&mode=search&page=1&orderby=create_datetime&text=%s&stringtype=and&keywords=yes&title=yes&description=no&artist=&favsby=&type=&sale=&days=&keyword_id=&user_id=&random=&md5=",
   "description": "InkBunny",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

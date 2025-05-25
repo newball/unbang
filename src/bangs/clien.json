@@ -4,5 +4,5 @@
   "url": "https://www.clien.net/service/search?q=%s",
   "description": "Clien",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

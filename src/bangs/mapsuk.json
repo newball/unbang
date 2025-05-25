@@ -4,5 +4,5 @@
   "url": "https://maps.google.co.uk/maps?q=%s",
   "description": "Google Maps UK",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

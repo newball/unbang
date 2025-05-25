@@ -4,5 +4,5 @@
   "url": "http://www.dafoodmall.com/goods/search.asp?sword=%s",
   "description": "dafoodmall",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

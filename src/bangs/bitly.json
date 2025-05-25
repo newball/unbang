@@ -4,5 +4,5 @@
   "url": "https://bitly.com/?url=%s",
   "description": "Bitly",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

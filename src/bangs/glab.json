@@ -4,5 +4,5 @@
   "url": "https://gitlab.com/search?utf8=✓&search=%s",
   "description": "GitLab",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

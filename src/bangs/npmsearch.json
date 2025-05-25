@@ -4,5 +4,5 @@
   "url": "https://npmsearch.com/?q=%s",
   "description": "node.js Package Search Utility",
   "category": "Tech",
-  "sub-category": "Languages (javascript)"
+  "subcategory": "Languages (javascript)"
 }

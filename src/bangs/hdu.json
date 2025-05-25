@@ -4,5 +4,5 @@
   "url": "http://acm.hdu.edu.cn/search.php?field=problem&key=%s",
   "description": "Hangzhou Dianzi University Online Judge",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

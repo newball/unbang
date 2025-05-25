@@ -4,5 +4,5 @@
   "url": "https://www.vogue.com/?s=%s",
   "description": "Vogue.com",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

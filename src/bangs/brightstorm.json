@@ -4,5 +4,5 @@
   "url": "http://www.brightstorm.com/search/?k=%s",
   "description": "Brightstorm",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

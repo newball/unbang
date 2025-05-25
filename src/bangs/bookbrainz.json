@@ -4,5 +4,5 @@
   "url": "https://bookbrainz.org/search?q=%s",
   "description": "BookBrainz",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

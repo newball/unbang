@@ -4,5 +4,5 @@
   "url": "https://www.c-span.org/search/basic/?query=%s",
   "description": "C-SPAN",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

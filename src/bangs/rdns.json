@@ -4,5 +4,5 @@
   "url": "http://mxtoolbox.com/SuperTool.aspx?action=ptr%3a%s&run=toolpage",
   "description": "MXToolbox",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

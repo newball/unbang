@@ -4,5 +4,5 @@
   "url": "http://search.amd.com/en-us/Pages/results-all.aspx?k=%s",
   "description": "AMD",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

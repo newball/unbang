@@ -4,5 +4,5 @@
   "url": "https://gowatchit.com/search?terms=%s",
   "description": "Gowatchit",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

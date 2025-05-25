@@ -4,5 +4,5 @@
   "url": "http://sales.starcitygames.com/search.php?substring=%s",
   "description": "StarCityGames",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

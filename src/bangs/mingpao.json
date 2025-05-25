@@ -4,5 +4,5 @@
   "url": "https://news.mingpao.com/cfm/search2.cfm?keywords=%s",
   "description": "Ming Pao",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

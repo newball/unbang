@@ -4,5 +4,5 @@
   "url": "https://dehr.dict.cc/?s=%s",
   "description": "dict.cc DE <> HR",
   "category": "Translation",
-  "sub-category": "General"
+  "subcategory": "General"
 }

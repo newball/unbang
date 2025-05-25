@@ -4,5 +4,5 @@
   "url": "http://www.mysupermarket.co.uk/Shopping/FindProducts.aspx?Query=%s",
   "description": "mysupermarket.co.uk",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

@@ -4,5 +4,5 @@
   "url": "http://udallas.edu/searchresults.html?q=%s",
   "description": "University of Dallas",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.indeed.ca/jobs?q=%s",
   "description": "Indeed Canada",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

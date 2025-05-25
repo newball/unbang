@@ -4,5 +4,5 @@
   "url": "https://www.periscope.tv/search?q=%s",
   "description": "Periscope",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

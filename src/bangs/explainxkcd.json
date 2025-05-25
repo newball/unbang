@@ -4,5 +4,5 @@
   "url": "http://www.explainxkcd.com/wiki/index.php?search=%s",
   "description": "explain xkcd",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

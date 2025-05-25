@@ -4,5 +4,5 @@
   "url": "http://dle.rae.es/srv/fetch?w=%s&m=30",
   "description": "Diccionario de la Lengua Española",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.paypal.com/us/selfhelp/search?q=%s&helpSearchButton=Search",
   "description": "PayPal",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

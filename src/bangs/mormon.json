@@ -4,5 +4,5 @@
   "url": "https://www.mormon.org/searchresults#?query=%s",
   "description": "mormon.org",
   "category": "Research",
-  "sub-category": "Reference (religion)"
+  "subcategory": "Reference (religion)"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.tv.com/search?q= %s",
   "description": "tv.com",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

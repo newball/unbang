@@ -4,5 +4,5 @@
   "url": "https://cbdb.cz/hledat?text=%s",
   "description": "Československá bibliografická databáze",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

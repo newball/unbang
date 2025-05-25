@@ -4,5 +4,5 @@
   "url": "http://www.smashwords.com/books/search?query=%s",
   "description": "Smashwords",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

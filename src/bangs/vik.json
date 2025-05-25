@@ -4,5 +4,5 @@
   "url": "https://www.viki.com/search?q=%s",
   "description": "Viki.com",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

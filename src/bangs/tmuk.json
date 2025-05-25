@@ -4,5 +4,5 @@
   "url": "http://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=%s&x=0&y=0",
   "description": "Transfermarkt",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

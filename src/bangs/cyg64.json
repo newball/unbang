@@ -4,5 +4,5 @@
   "url": "https://cygwin.com/cgi-bin2/package-grep.cgi?grep=%s&arch=x86_64",
   "description": "Cygwin Package Search",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

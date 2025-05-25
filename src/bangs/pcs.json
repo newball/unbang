@@ -4,5 +4,5 @@
   "url": "https://www.procyclingstats.com/search.php?term=%s",
   "description": "Pro Cycling Stats",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

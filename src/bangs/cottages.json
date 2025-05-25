@@ -4,5 +4,5 @@
   "url": "https://selfcater.com/find?query=%s",
   "description": "Self Cater",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

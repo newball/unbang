@@ -4,5 +4,5 @@
   "url": "https://en.wikibooks.org/wiki/Search?search=%s&prefix=LaTeX",
   "description": "LaTeX - Wikibooks",
   "category": "Tech",
-  "sub-category": "Languages (latex)"
+  "subcategory": "Languages (latex)"
 }

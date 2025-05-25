@@ -4,5 +4,5 @@
   "url": "http://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=%s",
   "description": "Māori Dictionary",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

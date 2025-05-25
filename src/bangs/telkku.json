@@ -4,5 +4,5 @@
   "url": "http://www.telkku.com/search?searchText=%s",
   "description": "Telkku.com",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

@@ -4,5 +4,5 @@
   "url": "http://pubman.mpdl.mpg.de/pubman/faces/SearchResultListPage.jsp?cql=escidoc.objecttype%3D%22item%22+AND+escidoc.content-model.objid%3D%22escidoc%3Apersistent4%22+AND+%28%28escidoc.metadata%3D%22%s%22%29+OR+%28%28escidoc.any-identifier%3D%22%s%22+OR+escidoc.property.latest-release.objid%3D%22%s%22%29%29+%29",
   "description": "Max Planck Publication Repository",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

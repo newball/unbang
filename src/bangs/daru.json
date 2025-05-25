@@ -4,5 +4,5 @@
   "url": "http://dic.academic.ru/searchall.php?SWord=%s&from=xx&to=ru&did=&stype=0",
   "description": "dic.academic.ru",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

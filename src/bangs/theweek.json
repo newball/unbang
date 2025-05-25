@@ -4,5 +4,5 @@
   "url": "http://www.theweek.co.uk/search/site/%s",
   "description": "The Week",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

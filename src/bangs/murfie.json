@@ -4,5 +4,5 @@
   "url": "https://www.murfie.com/search?search=%s",
   "description": "Murfie",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

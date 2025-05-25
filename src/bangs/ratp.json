@@ -4,5 +4,5 @@
   "url": "https://www.ratp.fr/itineraires?start=%s&lieu_depart=station&",
   "description": "RATP",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

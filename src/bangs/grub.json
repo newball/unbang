@@ -4,5 +4,5 @@
   "url": "https://www.grubhub.com/search/?cuisine=%s",
   "description": "Grubhub",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

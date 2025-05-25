@@ -4,5 +4,5 @@
   "url": "https://www.vikatan.com/search.php?search=%s",
   "description": "vikatan",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

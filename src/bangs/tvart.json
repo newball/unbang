@@ -4,5 +4,5 @@
   "url": "https://bendodson.com/projects/itunes-artwork-finder/index.html?entity=tvSeason&country=us&query=%s",
   "description": "iTunes TV Artwork Finder",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

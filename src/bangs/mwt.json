@@ -4,5 +4,5 @@
   "url": "http://www.merriam-webster.com/thesaurus/%s",
   "description": "Thesaurus by Merriam-Webster ",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

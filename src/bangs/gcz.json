@@ -4,5 +4,5 @@
   "url": "http://www.google.cz/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
   "description": "Google CZ",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

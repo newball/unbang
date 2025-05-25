@@ -4,5 +4,5 @@
   "url": "https://news.google.com/news/search/section/q/%s/%s?hl=en-CA&ned=ca",
   "description": "Google News (Canada)",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

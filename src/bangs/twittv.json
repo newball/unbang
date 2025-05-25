@@ -4,5 +4,5 @@
   "url": "https://twit.tv/search/%s",
   "description": "TWiT",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

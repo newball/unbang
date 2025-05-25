@@ -4,5 +4,5 @@
   "url": "http://kuopassa.net/haku/?q=%s",
   "description": "Kuopassa.net",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.gutenberg.org/ebooks/search/?query=l.fr+%s",
   "description": "Projet Gutenberg Fr",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

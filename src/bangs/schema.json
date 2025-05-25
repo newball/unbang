@@ -4,5 +4,5 @@
   "url": "https://schema.org/docs/search_results.html?q=%s",
   "description": "schema.org",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

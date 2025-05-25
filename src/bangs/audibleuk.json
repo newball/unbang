@@ -4,5 +4,5 @@
   "url": "http://www.audible.co.uk/search/?advsearchKeywords=%s&filterby=field-keywords&x=0&y=0",
   "description": "Audible UK",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

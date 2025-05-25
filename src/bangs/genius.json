@@ -4,5 +4,5 @@
   "url": "https://genius.com/search?q=%s",
   "description": "genius.com",
   "category": "Multimedia",
-  "sub-category": "Music (Lyrics)"
+  "subcategory": "Music (Lyrics)"
 }

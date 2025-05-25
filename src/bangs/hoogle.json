@@ -4,5 +4,5 @@
   "url": "https://hoogle.haskell.org/?hoogle=%s&scope=set%3Astackage",
   "description": "hoogle",
   "category": "Tech",
-  "sub-category": "Languages (haskell)"
+  "subcategory": "Languages (haskell)"
 }

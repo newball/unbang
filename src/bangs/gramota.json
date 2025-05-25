@@ -4,5 +4,5 @@
   "url": "http://gramota.ru/slovari/dic/?word=%s&all=x",
   "description": "gramota.ru",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

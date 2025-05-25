@@ -4,5 +4,5 @@
   "url": "http://tab-bot.net/botcheck?twitchname_botcheck=%s&submit_twitch=&steam_botcheck=",
   "description": "twitch tab bot",
   "category": "Online Services",
-  "sub-category": "Social news/links"
+  "subcategory": "Social news/links"
 }

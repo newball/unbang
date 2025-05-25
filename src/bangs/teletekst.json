@@ -4,5 +4,5 @@
   "url": "http://teletekst-data.nos.nl/webplus?p=%s",
   "description": "Teletekst",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

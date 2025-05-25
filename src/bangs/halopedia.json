@@ -4,5 +4,5 @@
   "url": "http://www.halopedia.org/index.php?search=%s",
   "description": "Halopedia",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

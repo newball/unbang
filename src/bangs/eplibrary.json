@@ -4,5 +4,5 @@
   "url": "http://ccs.polarislibrary.com/polaris/search/searchresults.aspx?ctx=19.1033.0.0.2&type=Keyword&term=%s&by=KW&sort=PD&limit=TOM=*&query=&page=0&searchid=1",
   "description": "Evanston Public Library",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

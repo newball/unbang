@@ -4,5 +4,5 @@
   "url": "https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Dprime-instant-video&field-keywords=%s",
   "description": "Amazon Prime Video",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

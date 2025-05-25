@@ -4,5 +4,5 @@
   "url": "http://www.ssoar.info/ssoar/discover?query=%s",
   "description": "SSOAR",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

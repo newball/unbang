@@ -4,5 +4,5 @@
   "url": "https://kgov.com/search?query=%s",
   "description": "Bob Enyart Live",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

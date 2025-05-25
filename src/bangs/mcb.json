@@ -4,5 +4,5 @@
   "url": "http://mycallbot.com/numbers/%s",
   "description": "MyCallBot",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

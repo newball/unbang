@@ -4,5 +4,5 @@
   "url": "http://appleinsider.com/search/%s",
   "description": "AppleInsider",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

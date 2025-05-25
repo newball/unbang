@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?kl=ue-es&q=%s",
   "description": "DuckDuckGo Estados Unidos",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

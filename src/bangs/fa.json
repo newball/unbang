@@ -4,5 +4,5 @@
   "url": "http://www.filmaffinity.com/es/search.php?stext=%s&stype=all",
   "description": "FilmAffinity",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

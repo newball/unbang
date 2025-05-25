@@ -4,5 +4,5 @@
   "url": "https://lt.wikipedia.org/w/?search=%s",
   "description": "Vikipedija (Wikipedia LT)",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

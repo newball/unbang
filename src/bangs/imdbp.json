@@ -4,5 +4,5 @@
   "url": "http://pro-labs.imdb.com/find?q=%s ",
   "description": "IMDB pro",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

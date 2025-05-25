@@ -4,5 +4,5 @@
   "url": "http://www.pokepedia.fr/index.php?title=Special%3ARecherche&search=%s",
   "description": "Pokepedia",
   "category": "Entertainment",
-  "sub-category": "Games (Pokemon)"
+  "subcategory": "Games (Pokemon)"
 }

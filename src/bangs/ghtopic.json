@@ -4,5 +4,5 @@
   "url": "https://github.com/topic/%s",
   "description": "GitHub Topic",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

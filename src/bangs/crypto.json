@@ -4,5 +4,5 @@
   "url": "http://crypto.stackexchange.com/search?q=%s",
   "description": "Crypto Stack Exchange",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

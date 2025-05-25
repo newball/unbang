@@ -4,5 +4,5 @@
   "url": "https://kubernetes.io/docs/search/?q=%s",
   "description": "https://kubernetes.io/docs",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

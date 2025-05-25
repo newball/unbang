@@ -4,5 +4,5 @@
   "url": "http://support.apple.com/kb/index?page=search&product=&q=%s&src=support_site.kbase.search.searchresults",
   "description": "Apple Support",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

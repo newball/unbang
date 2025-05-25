@@ -4,5 +4,5 @@
   "url": "http://identi.ca/search/people?q=%s&search=Search",
   "description": "Identi.ca",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

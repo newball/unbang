@@ -4,5 +4,5 @@
   "url": "https://www.rockauto.com/en/partsearch/?partnum=%s",
   "description": "RockAuto",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

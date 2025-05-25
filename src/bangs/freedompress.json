@@ -4,5 +4,5 @@
   "url": "https://freedom.press/search/?query=%s",
   "description": "Freedom of the Press Foundation",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

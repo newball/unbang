@@ -4,5 +4,5 @@
   "url": "https://www.startpage.com/do/search?cmd=process_search&query=%s&with_region=countryNO",
   "description": "StartPage.com (Norwegian)",
   "category": "Online Services",
-  "sub-category": "Search (Private)"
+  "subcategory": "Search (Private)"
 }

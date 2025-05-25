@@ -4,5 +4,5 @@
   "url": "http://datatracker.ietf.org/doc/search/?name=%s&activeDrafts=on&rfcs=on",
   "description": "The IETF",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

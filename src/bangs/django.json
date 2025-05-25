@@ -4,5 +4,5 @@
   "url": "http://docs.djangoproject.com/search/?q=%s",
   "description": "Django Docs",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

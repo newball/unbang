@@ -4,5 +4,5 @@
   "url": "http://wttr.in/%s",
   "description": "Wttr.in",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

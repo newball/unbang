@@ -4,5 +4,5 @@
   "url": "http://www.simplyhired.com/a/jobs/list/q-%s",
   "description": "SimplyHired",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

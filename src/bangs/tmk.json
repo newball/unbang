@@ -4,5 +4,5 @@
   "url": "https://www.tematika.com/buscar.do?txtencoded=%s&idSeccionPropia=0&optSeleccionada=DuckDuckGo.com&idSeccion=0&seccionDeBusqueda=DuckDuckGo.com&texto=%s",
   "description": "Temátika",
   "category": "Shopping",
-  "sub-category": "Online (intl)"
+  "subcategory": "Online (intl)"
 }

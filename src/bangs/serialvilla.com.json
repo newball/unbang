@@ -4,5 +4,5 @@
   "url": "http://serialvilla.com/search? keyword=%s",
   "description": "Serialvilla",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

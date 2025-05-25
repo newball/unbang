@@ -4,5 +4,5 @@
   "url": "https://learn.adafruit.com/search?q=%s",
   "description": "Adafruit Learn",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

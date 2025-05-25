@@ -4,5 +4,5 @@
   "url": "https://www.target.com/s?searchTerm=%s",
   "description": "Target",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://search.maven.org/#search|ga|1|%s",
   "description": "Maven Central Repository",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

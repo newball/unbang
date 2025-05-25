@@ -4,5 +4,5 @@
   "url": "https://clinicaltrials.gov/ct2/results?term=%s",
   "description": "ClinicalTrials.gov",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

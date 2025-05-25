@@ -4,5 +4,5 @@
   "url": "http://canadiancouchpotato.com/?s=%s&submit=Search",
   "description": "Canadian Couch Potato",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

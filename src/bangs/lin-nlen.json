@@ -4,5 +4,5 @@
   "url": "http://www.linguee.nl/nederlands-engels/search?source=auto&query=%s",
   "description": "Linguee (NL-EN)",
   "category": "Research",
-  "sub-category": "Reference (words intl)"
+  "subcategory": "Reference (words intl)"
 }

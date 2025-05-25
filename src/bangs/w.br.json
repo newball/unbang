@@ -4,5 +4,5 @@
   "url": "https://pt.wikipedia.org/wiki/%s",
   "description": "Wikipedia (BR)",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.theaustralian.com.au/search-results?q=%s",
   "description": "The Australian",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

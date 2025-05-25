@@ -4,5 +4,5 @@
   "url": "http://www.foyles.co.uk/qsearch/All/All?term=%s",
   "description": "Foyles",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

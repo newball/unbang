@@ -4,5 +4,5 @@
   "url": "http://vocadb.net/Search?filter=%s",
   "description": "VocaDB",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

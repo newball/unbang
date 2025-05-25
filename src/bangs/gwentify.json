@@ -4,5 +4,5 @@
   "url": "http://gwentify.com/cards/?st=%s",
   "description": "Gwentify",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

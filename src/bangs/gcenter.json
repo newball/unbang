@@ -4,5 +4,5 @@
   "url": "https://www.guitarcenter.com/search?typeAheadSuggestion=true&typeAheadRedirect=true&Ntt=%s",
   "description": "Guitar Center",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

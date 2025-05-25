@@ -4,5 +4,5 @@
   "url": "http://pigu.lt/search?q=%s",
   "description": "Pigu",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

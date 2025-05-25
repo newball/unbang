@@ -4,5 +4,5 @@
   "url": "https://primenow.amazon.co.uk/search?k=%s",
   "description": "Amazon Prime Now UK",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

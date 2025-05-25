@@ -4,5 +4,5 @@
   "url": "http://dribbble.com/search?q=%s",
   "description": "dribbble",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

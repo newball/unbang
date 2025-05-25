@@ -4,5 +4,5 @@
   "url": "https://www.hbl.fi/?s=%s",
   "description": "Hufvudstadsbladet",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.google.com/search?hl=en&tbm=shop&q=%s",
   "description": "Google Product Search",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://journals.aps.org/search?q=%s",
   "description": "APS Journals",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

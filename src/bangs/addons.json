@@ -4,5 +4,5 @@
   "url": "http://addons.prestashop.com/fr/recherche?search_query=%s",
   "description": "PrestaShop Addons",
   "category": "Tech",
-  "sub-category": "Downloads (add-ons)"
+  "subcategory": "Downloads (add-ons)"
 }

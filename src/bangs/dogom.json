@@ -4,5 +4,5 @@
   "url": "http://www.dogomovies.com/search/%s",
   "description": "DOGO movies",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

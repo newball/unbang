@@ -4,5 +4,5 @@
   "url": "https://kart.finn.no/?q=%s",
   "description": "FINN kart",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

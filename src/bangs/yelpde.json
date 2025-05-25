@@ -4,5 +4,5 @@
   "url": "http://www.yelp.de/search?find_desc=%s&ns=1&rpp=10&find_loc=",
   "description": "Yelp.de",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

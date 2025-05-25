@@ -4,5 +4,5 @@
   "url": "http://nlquery.epa.gov/epasearch/epasearch?querytext=%s&fld=&areaname=&typeofsearch=epa&areacontacts=http%3A%2F%2Fwww.epa.gov%2Fepahome%2Fcomments.htm&areasearchurl=&result_template=epafiles_default.xsl&filter=sample4filt.hts&x=0&y=0",
   "description": "US Environmental Protection Agency",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

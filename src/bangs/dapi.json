@@ -4,5 +4,5 @@
   "url": "https://api.drupal.org/api/drupal/latest/search/%s",
   "description": "Drupal API",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

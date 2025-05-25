@@ -4,5 +4,5 @@
   "url": "http://www.leblogduhacker.fr/?s=%s",
   "description": "Le blog du hacker",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

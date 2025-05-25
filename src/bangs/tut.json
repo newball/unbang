@@ -4,5 +4,5 @@
   "url": "http://search.tut.by/?status=1&ru=1&encoding=1&page=0&how=rlv&query=%s",
   "description": "TUT.BY",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

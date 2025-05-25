@@ -4,5 +4,5 @@
   "url": "http://www.myrecipes.com/search/site/%s",
   "description": "http://www.myrecipes.com",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

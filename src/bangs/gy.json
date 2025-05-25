@@ -4,5 +4,5 @@
   "url": "https://google.com/search?q=%s &tbs=qdr:y",
   "description": "Google",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

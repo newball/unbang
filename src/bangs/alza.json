@@ -4,5 +4,5 @@
   "url": "https://www.alza.cz/search.htm?exps=%s",
   "description": "Alza.cz",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

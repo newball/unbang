@@ -4,5 +4,5 @@
   "url": "https://facebookcorewwwi.onion/search.php/?q=%s",
   "description": "Facebook over TOR",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

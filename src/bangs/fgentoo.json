@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site%3Aforums.gentoo.org+%s",
   "description": "Gentoo Forums",
   "category": "Tech",
-  "sub-category": "Sysadmin (Gentoo)"
+  "subcategory": "Sysadmin (Gentoo)"
 }

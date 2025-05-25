@@ -4,5 +4,5 @@
   "url": "http://www.kidrex.org/results/?q=%s",
   "description": "Kidrex",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

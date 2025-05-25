@@ -4,5 +4,5 @@
   "url": "http://www.shazam.com/de/search/%s",
   "description": "Shazam",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

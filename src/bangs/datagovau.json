@@ -4,5 +4,5 @@
   "url": "http://data.gov.au/dataset?q=%s",
   "description": "Australia Government Datasets",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

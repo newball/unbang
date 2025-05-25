@@ -4,5 +4,5 @@
   "url": "http://powo.science.kew.org/?q=%s",
   "description": "Plants of the World Online",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

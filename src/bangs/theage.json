@@ -4,5 +4,5 @@
   "url": "https://www.theage.com.au/search?text=%s",
   "description": "The Age",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

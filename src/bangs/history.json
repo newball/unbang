@@ -4,5 +4,5 @@
   "url": "http://www.history.com/search?search-field=%s&x=0&y=0",
   "description": "History",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

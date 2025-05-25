@@ -4,5 +4,5 @@
   "url": "https://www.youtube.com/results?search_query=%s&gl=US",
   "description": "YouTube (US)",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

@@ -4,5 +4,5 @@
   "url": "http://sjp.pwn.pl/poradnia/szukaj/%s.html",
   "description": "Poradnia Języka Polskiego",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

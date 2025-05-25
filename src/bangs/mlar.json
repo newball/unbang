@@ -4,5 +4,5 @@
   "url": "http://listado.mercadolibre.com.ar/%s",
   "description": "Mercado Libre Argentina",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

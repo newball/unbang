@@ -4,5 +4,5 @@
   "url": "https://www.mtu.edu/search/?q=%s",
   "description": "Michigan Technological University",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

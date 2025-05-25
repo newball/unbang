@@ -4,5 +4,5 @@
   "url": "http://www.grailed.com/search?search=%s ",
   "description": "grailed",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

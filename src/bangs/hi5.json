@@ -4,5 +4,5 @@
   "url": "http://hi5.com/friend/processHeaderNameSearch.do?searchText=%s",
   "description": "Hi5",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

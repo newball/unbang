@@ -4,5 +4,5 @@
   "url": "https://www.freitag.de/@@search?SearchableText=%s&SubmitSearch=Suche",
   "description": "Der Freitag",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

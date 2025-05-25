@@ -4,5 +4,5 @@
   "url": "https://rocketleague.fandom.com/wiki/Special:Search?query=%s",
   "description": "Rocket League Wiki",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

@@ -4,5 +4,5 @@
   "url": "http://bigbasket.com/ps/?q=%s",
   "description": "BigBasket",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

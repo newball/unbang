@@ -4,5 +4,5 @@
   "url": "https://kollekt.fm/search/?q=%s&type=all",
   "description": "Kollekt.FM",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

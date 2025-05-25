@@ -4,5 +4,5 @@
   "url": "https://www.myer.com.au/search?query=%s",
   "description": "Myer",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

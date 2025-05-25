@@ -4,5 +4,5 @@
   "url": "http://indeaparis.com/component/finder/search?q=%s ",
   "description": "Inde à Paris",
   "category": "Entertainment",
-  "sub-category": "Events"
+  "subcategory": "Events"
 }

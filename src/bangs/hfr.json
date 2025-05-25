@@ -4,5 +4,5 @@
   "url": "http://duckduckgo.com/?q=site:linuxfr.org+%s",
   "description": "Forum Hardware.fr",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

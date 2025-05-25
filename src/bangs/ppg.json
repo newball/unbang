@@ -4,5 +4,5 @@
   "url": "https://papago.naver.com/?st=%s",
   "description": "Naver Papago",
   "category": "Translation",
-  "sub-category": "General"
+  "subcategory": "General"
 }

@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#en/nl/%s",
   "description": "Google Translate en-nl English Dutch",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "http://kivy.org/docs/search.html?check_keywords=yes&area=default&q=%s",
   "description": "Kivy API Reference",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

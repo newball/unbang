@@ -4,5 +4,5 @@
   "url": "https://newcatalog.library.cornell.edu/catalog?q=%s",
   "description": "Cornell Library Catalog",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

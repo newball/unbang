@@ -4,5 +4,5 @@
   "url": "https://www.myinstants.com/search/?name=%s",
   "description": "My Instants",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

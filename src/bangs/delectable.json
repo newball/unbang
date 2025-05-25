@@ -4,5 +4,5 @@
   "url": "https://delectable.com/search/%s",
   "description": "Delectable",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

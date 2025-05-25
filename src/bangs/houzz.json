@@ -4,5 +4,5 @@
   "url": "https://www.houzz.com/photos/query/%s",
   "description": "Houzz",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

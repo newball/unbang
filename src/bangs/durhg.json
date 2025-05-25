@@ -4,5 +4,5 @@
   "url": "http://dejure.org/cgi-bin/suche?Suchenach=%s",
   "description": "Dejure.org ",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.homesnap.com/search?q=%s",
   "description": "Homesnap",
   "category": "Research",
-  "sub-category": "Real Estate"
+  "subcategory": "Real Estate"
 }

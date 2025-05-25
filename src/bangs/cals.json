@@ -4,5 +4,5 @@
   "url": "https://www.caloriecount.com/search/foods?searchpro=%s",
   "description": "Calorie Count",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

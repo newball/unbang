@@ -4,5 +4,5 @@
   "url": "https://es.rs-online.com/web/c/?sra=oss&r=t&searchTerm=%s",
   "description": "https://es.rs-online.com/web/home.html",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

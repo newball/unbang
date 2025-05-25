@@ -4,5 +4,5 @@
   "url": "https://www.catawiki.be/search?q=%s",
   "description": "Catawiki",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

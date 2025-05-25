@@ -4,5 +4,5 @@
   "url": "https://chat.stackexchange.com/rooms/%s",
   "description": "Stack Exchange Chat",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

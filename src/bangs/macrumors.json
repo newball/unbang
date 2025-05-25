@@ -4,5 +4,5 @@
   "url": "http://www.macrumors.com/search/?s=%s",
   "description": "MacRumors",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

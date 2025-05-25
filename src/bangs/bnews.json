@@ -4,5 +4,5 @@
   "url": "https://www.bing.com/news/search?q=%s",
   "description": "Bing News",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

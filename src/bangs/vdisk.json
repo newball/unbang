@@ -4,5 +4,5 @@
   "url": "http://vdisk.weibo.com/search/?type=public&keyword=%s",
   "description": "微盘",
   "category": "Multimedia",
-  "sub-category": "General"
+  "subcategory": "General"
 }

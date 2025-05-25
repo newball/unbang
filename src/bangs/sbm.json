@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site%3Asciencebasedmedicine.org+%s",
   "description": "Science-Based Medicine",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

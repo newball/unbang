@@ -4,5 +4,5 @@
   "url": "https://hub.helm.sh/charts?q=%s",
   "description": "Helm Charts",
   "category": "Tech",
-  "sub-category": "Sysadmin (packages)"
+  "subcategory": "Sysadmin (packages)"
 }

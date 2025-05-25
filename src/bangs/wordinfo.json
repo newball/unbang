@@ -4,5 +4,5 @@
   "url": "http://wordinfo.info/results?searchString=%s",
   "description": "Word Information",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

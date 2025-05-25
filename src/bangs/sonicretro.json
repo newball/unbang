@@ -4,5 +4,5 @@
   "url": "http://info.sonicretro.org/Special:Search?search=%s&go=Go",
   "description": "Sonic Retro / Sega Retro",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

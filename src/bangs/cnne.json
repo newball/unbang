@@ -4,5 +4,5 @@
   "url": "http://cnnespanol.cnn.com/?s=%s",
   "description": "CNN en español",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

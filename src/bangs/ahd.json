@@ -4,5 +4,5 @@
   "url": "https://ahdictionary.com/word/search.html?q=%s&submit.x=0&submit.y=0",
   "description": "american heritage dictionary",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

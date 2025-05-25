@@ -4,5 +4,5 @@
   "url": "https://onesearch.library.nd.edu/primo-explore/search?query=any,contains,%s&tab=onesearch&search_scope=malc_blended&vid=NDU&lang=en_US&offset=0",
   "description": "Notre Dame Library OneSearch",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

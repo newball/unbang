@@ -4,5 +4,5 @@
   "url": "https://pinside.com/pinball/forum/search?s=1&q=%s&include_basement=0#results",
   "description": "Pinside Forums",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

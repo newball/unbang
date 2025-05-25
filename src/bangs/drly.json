@@ -4,5 +4,5 @@
   "url": "http://www.directlyrics.com/search/?q=direct+lyrics&ie=utf-8&q=%s",
   "description": "Directlyrics",
   "category": "Multimedia",
-  "sub-category": "Music (Lyrics)"
+  "subcategory": "Music (Lyrics)"
 }

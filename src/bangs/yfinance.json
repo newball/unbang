@@ -4,5 +4,5 @@
   "url": "http://finance.yahoo.com/q?s=%s",
   "description": "Yahoo Finance",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

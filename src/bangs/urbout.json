@@ -4,5 +4,5 @@
   "url": "http://www.urbanoutfitters.com/fr/catalog/search.jsp?q=%s",
   "description": "Urban Outfitters",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

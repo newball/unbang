@@ -4,5 +4,5 @@
   "url": "https://coinmarketcap.com/currencies/search/?q=%s",
   "description": "CryptoCurrency Market",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

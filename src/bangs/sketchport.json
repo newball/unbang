@@ -4,5 +4,5 @@
   "url": "https://www.sketchport.com/search?q=%s",
   "description": "SketchPort",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

@@ -4,5 +4,5 @@
   "url": "http://tracking.newgistics.com/?trackingvalue=%s",
   "description": "Newgistics Tracking",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

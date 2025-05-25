@@ -4,5 +4,5 @@
   "url": "https://avpodcast.net/?s=%s",
   "description": "AVpodcast",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

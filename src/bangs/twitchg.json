@@ -4,5 +4,5 @@
   "url": "https://www.twitch.tv/directory/game/%s",
   "description": "Twitch Game",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

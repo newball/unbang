@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#de/en/%s",
   "description": "Google Translate de->en",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

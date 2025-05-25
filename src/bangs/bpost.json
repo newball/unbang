@@ -4,5 +4,5 @@
   "url": "http://track.bpost.be/btr/web/#/search?itemCode=%s",
   "description": "BPost",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

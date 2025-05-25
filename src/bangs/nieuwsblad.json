@@ -4,5 +4,5 @@
   "url": "http://www.nieuwsblad.be/Search/Index.aspx?searchString=%s",
   "description": "Het Nieuwsblad",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

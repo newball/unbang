@@ -4,5 +4,5 @@
   "url": "https://www.webhallen.com/se/search?searchString=%s&sort=searchRating",
   "description": "Webhallen",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

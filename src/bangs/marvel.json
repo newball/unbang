@@ -4,5 +4,5 @@
   "url": "https://www.marvel.com/search/?query=%s",
   "description": "Marvel.com",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

@@ -4,5 +4,5 @@
   "url": "https://he.wikipedia.org/w/index.php?search=%s&title=Special%3ASearch&go=Go",
   "description": "Hebrew Wikipedia",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

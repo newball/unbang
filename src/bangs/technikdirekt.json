@@ -4,5 +4,5 @@
   "url": "http://www.technikdirekt.de/search?sSearch=%s",
   "description": "TechnikDirekt",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

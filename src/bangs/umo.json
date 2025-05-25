@@ -4,5 +4,5 @@
   "url": "http://www.umart.com.au/newsite/search.php?type=0&keywords=%s",
   "description": "Umart Online",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

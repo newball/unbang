@@ -4,5 +4,5 @@
   "url": "https://repl.it/languages/%s",
   "description": "repl.it",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

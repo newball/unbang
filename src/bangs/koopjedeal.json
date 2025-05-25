@@ -4,5 +4,5 @@
   "url": "https://www.koopjedeal.nl/catalogsearch/result/?q=%s",
   "description": "koopjedeal",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

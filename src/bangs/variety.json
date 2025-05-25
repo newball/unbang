@@ -4,5 +4,5 @@
   "url": "https://variety.com/results/#?q=%s ",
   "description": "Variety",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

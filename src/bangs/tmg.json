@@ -4,5 +4,5 @@
   "url": "https://registry.terraform.io/search?q=%s",
   "description": "Terraform Module Registry",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

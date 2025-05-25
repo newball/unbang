@@ -4,5 +4,5 @@
   "url": "https://www.clarin.com/buscador/?q=%s",
   "description": "Clarín",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

@@ -4,5 +4,5 @@
   "url": "https://headtalker.com/?s=%s&post_type[]=campaigns",
   "description": "HeadTalker",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

@@ -4,5 +4,5 @@
   "url": "https://librarysearch.lse.ac.uk/primo-explore/search?query=any,contains,%s&tab=default_tab&search_scope=CSCOP_ALL&sortby=rank&vid=44LSE_VU1",
   "description": "LSE Library ",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

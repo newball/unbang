@@ -4,5 +4,5 @@
   "url": "https://www.search.ch/?q=%s",
   "description": "Search.ch",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

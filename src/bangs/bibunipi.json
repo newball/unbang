@@ -4,5 +4,5 @@
   "url": "http://onesearch.unipi.it/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=39UPI_V1&frbg=&tb=t&vl(freeText0)=%s&scp.scps=scope%3A(39UPI)%2C39UPI_EbscoLocal%2Cprimo_central_multiple_fe",
   "description": "Onesearch Unipi",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

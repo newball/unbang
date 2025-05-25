@@ -4,5 +4,5 @@
   "url": "https://www.cloudretails.com/search?q=%s",
   "description": "CloudRetails",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

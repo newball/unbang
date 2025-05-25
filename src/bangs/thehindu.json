@@ -4,5 +4,5 @@
   "url": "https://www.thehindu.com/search/?q=%s",
   "description": "The Hindu",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

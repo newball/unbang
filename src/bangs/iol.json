@@ -4,5 +4,5 @@
   "url": "https://www.iol.co.za/search?q=%s",
   "description": "IOL",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

@@ -4,5 +4,5 @@
   "url": "http://elderscrolls.wikia.com/wiki/Special:Search?search=%s",
   "description": "The Elder Scrolls WIki",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

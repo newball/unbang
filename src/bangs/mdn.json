@@ -4,5 +4,5 @@
   "url": "https://developer.mozilla.org/search?q=%s",
   "description": "Mozilla Developer Network",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

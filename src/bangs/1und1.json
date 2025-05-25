@@ -4,5 +4,5 @@
   "url": "https://www.1und1.de/suche?query=%s",
   "description": "1und1",
   "category": "Tech",
-  "sub-category": "Domains"
+  "subcategory": "Domains"
 }

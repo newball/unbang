@@ -4,5 +4,5 @@
   "url": "http://forums.whirlpool.net.au/forum/?action=search&q=%s",
   "description": "Whirlpool Forums",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

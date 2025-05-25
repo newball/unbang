@@ -4,5 +4,5 @@
   "url": "http://slackbuilds.org/result/?search=%s",
   "description": "Slackbuilds",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

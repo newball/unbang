@@ -4,5 +4,5 @@
   "url": "http://bct.comperio.it/opac/search/lst?q=%s",
   "description": "Biblioteche civiche torinesi",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

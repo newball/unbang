@@ -4,5 +4,5 @@
   "url": "http://www.legislation.gov.uk/all?title=%s",
   "description": "UK Legislation (Official Archive)",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

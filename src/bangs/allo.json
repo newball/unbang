@@ -4,5 +4,5 @@
   "url": "http://www.allocine.fr/recherche/?q=%s",
   "description": "Allociné",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

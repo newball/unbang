@@ -4,5 +4,5 @@
   "url": "http://go.galegroup.com/ps/headerQuickSearch.do?quickSearchTerm=%s&inputFieldNames%5B0%5D=OQE&searchType=BasicSearchForm&userGroupName=mlin_m_newtnsh&nwf=y&prodId=GVRL&stw.option=&ebook=&quicksearchIndex=OQE&spellCheck=true&hasCoProduct=false",
   "description": "Gale Virtual Reference Library",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

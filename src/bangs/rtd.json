@@ -4,5 +4,5 @@
   "url": "https://readthedocs.org/search/?q=%s",
   "description": "Read the Docs",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

@@ -4,5 +4,5 @@
   "url": "http://insideschools.org/search?q=%s ",
   "description": "Insideschools",
   "category": "Research",
-  "sub-category": "Local"
+  "subcategory": "Local"
 }

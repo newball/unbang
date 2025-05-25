@@ -4,5 +4,5 @@
   "url": "http://www.coolstuffinc.com/main_search.php?pa=searchOnName&page=1&resultsPerPage=25&q=%s",
   "description": "CoolStuffInc",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

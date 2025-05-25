@@ -4,5 +4,5 @@
   "url": "https://perldoc.pl/search?q=%s",
   "description": "Perldoc Browser",
   "category": "Tech",
-  "sub-category": "Languages (perl)"
+  "subcategory": "Languages (perl)"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.openstreetmap.org/search?query=%s",
   "description": "OpenStreetMap",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

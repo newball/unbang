@@ -4,5 +4,5 @@
   "url": "https://pegi.info/search-pegi?q=%s",
   "description": "PEGI",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

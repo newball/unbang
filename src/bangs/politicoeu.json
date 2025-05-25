@@ -4,5 +4,5 @@
   "url": "http://www.politico.eu/?s=%s",
   "description": "Politico EU",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

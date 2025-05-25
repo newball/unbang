@@ -4,5 +4,5 @@
   "url": "http://pcpartpicker.com/search/?q=%s",
   "description": "PCPartPicker",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

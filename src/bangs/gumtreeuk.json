@@ -4,5 +4,5 @@
   "url": "https://www.gumtree.com/search?search_category=all&q=%s",
   "description": "Gumtree UK",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

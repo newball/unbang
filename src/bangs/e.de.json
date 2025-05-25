@@ -4,5 +4,5 @@
   "url": "http://www.ebay.de/sch/i.html?_nkw=%s",
   "description": "Ebay Germany",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

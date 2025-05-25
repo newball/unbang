@@ -4,5 +4,5 @@
   "url": "http://www.songlyrics.com/index.php?section=search&searchW=%s&submit=Search",
   "description": "SONG LYRICS",
   "category": "Multimedia",
-  "sub-category": "Music (Lyrics)"
+  "subcategory": "Music (Lyrics)"
 }

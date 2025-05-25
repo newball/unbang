@@ -4,5 +4,5 @@
   "url": "http://www.nasdaq.com/symbol/%s/real-time",
   "description": "NASDAQ Real Time Quotes",
   "category": "Online Services",
-  "sub-category": "Search (Real-time)"
+  "subcategory": "Search (Real-time)"
 }

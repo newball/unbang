@@ -4,5 +4,5 @@
   "url": "http://unixtimestamp.com/?unixTimestampInput=%s",
   "description": "Unix Timestamp",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

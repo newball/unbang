@@ -4,5 +4,5 @@
   "url": "http://www.nhs.uk/Search/?q=%s",
   "description": "NHS Choices",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

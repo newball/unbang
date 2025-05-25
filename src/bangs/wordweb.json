@@ -4,5 +4,5 @@
   "url": "http://www.wordwebonline.com/search.pl?w=%s",
   "description": "WordWeb Online",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

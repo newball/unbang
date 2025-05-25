@@ -4,5 +4,5 @@
   "url": "https://www.raspberrypi.org/search/%s",
   "description": "Raspberry Pi",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

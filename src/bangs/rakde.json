@@ -4,5 +4,5 @@
   "url": "https://www.rakuten.de/suchen/%s?category=0",
   "description": "Rakuten.de",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

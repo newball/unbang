@@ -4,5 +4,5 @@
   "url": "http://www.roget.org/scripts/qq.php?seekword=%s",
   "description": "Roget's Hyperlinked Thesaurus",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

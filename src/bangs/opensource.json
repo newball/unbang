@@ -4,5 +4,5 @@
   "url": "https://opensource.com/sitewide-search?search_api_views_fulltext=%s",
   "description": "Opensource.com",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

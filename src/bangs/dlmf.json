@@ -4,5 +4,5 @@
   "url": "http://dlmf.nist.gov/search/search?q=%s",
   "description": "NIST Digital Library of Mathematical Functions",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

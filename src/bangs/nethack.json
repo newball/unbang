@@ -4,5 +4,5 @@
   "url": "http://nethackwiki.com/mediawiki/index.php?title=Special%3ASearch&search=%s&go=Go",
   "description": "NetHack Wiki",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

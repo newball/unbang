@@ -4,5 +4,5 @@
   "url": "http://library.creativecow.net/search.php?q=%s",
   "description": "Creative Cow Library",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

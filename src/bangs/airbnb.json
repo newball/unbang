@@ -4,5 +4,5 @@
   "url": "https://www.airbnb.com/s/%s",
   "description": "airbnb",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

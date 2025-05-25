@@ -4,5 +4,5 @@
   "url": "http://www.bbc.co.uk/search/news/?q=%s",
   "description": "BBC News",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

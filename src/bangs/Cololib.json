@@ -4,5 +4,5 @@
   "url": "https://colostate-primo.hosted.exlibrisgroup.com/primo-explore/search?vid=01COLSU&lang=en_US&primoQueryTemp=d&search_field=any&search_scope=Everything&query=any,contains,%s",
   "description": "Colorado State Universtiy library",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

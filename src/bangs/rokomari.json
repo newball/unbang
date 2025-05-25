@@ -4,5 +4,5 @@
   "url": "http://rokomari.com/search?term=%s",
   "description": "rokomari.com",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

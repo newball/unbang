@@ -4,5 +4,5 @@
   "url": "https://odb.org/search?q=%s",
   "description": "Our Daily Bread",
   "category": "Research",
-  "sub-category": "Reference (religion)"
+  "subcategory": "Reference (religion)"
 }

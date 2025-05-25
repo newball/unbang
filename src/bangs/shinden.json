@@ -4,5 +4,5 @@
   "url": "http://shinden.pl/search?q=%s",
   "description": "Shinden",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

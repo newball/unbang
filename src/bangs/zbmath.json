@@ -4,5 +4,5 @@
   "url": "http://www.zentralblatt-math.org/zbmath/search/?q=%s",
   "description": "Zentralblatt MATH Database",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

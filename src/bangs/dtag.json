@@ -4,5 +4,5 @@
   "url": "http://debtags.debian.net/search/?q=%s",
   "description": "DebTags",
   "category": "Tech",
-  "sub-category": "Sysadmin (debian)"
+  "subcategory": "Sysadmin (debian)"
 }

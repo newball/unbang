@@ -4,5 +4,5 @@
   "url": "http://cocoapods.org/?q=%s",
   "description": "Cocoapods",
   "category": "Tech",
-  "sub-category": "Languages (cocoa)"
+  "subcategory": "Languages (cocoa)"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.kayak.com/sherlock/opensearch/search?q=%s",
   "description": "KAYAK",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.spektrum.de/lexikon/biologie/?q=%s",
   "description": "Spektrum Akademischer Verlag - Lexikon der Biologie",
   "category": "Research",
-  "sub-category": "Academic (biology)"
+  "subcategory": "Academic (biology)"
 }

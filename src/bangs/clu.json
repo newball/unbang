@@ -4,5 +4,5 @@
   "url": "https://catalogue.leidenuniv.nl/primo-explore/search?query=any,contains,%s&tab=all_content&search_scope=All_Content&vid=UBL_V1&lang=en_US&offset=0",
   "description": "Catalogue Leiden University",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

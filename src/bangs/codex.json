@@ -4,5 +4,5 @@
   "url": "http://codex.wordpress.org/?search=%s",
   "description": "WordPress Codex",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks (wordpress)"
+  "subcategory": "Libraries/Frameworks (wordpress)"
 }

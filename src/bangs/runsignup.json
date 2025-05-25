@@ -4,5 +4,5 @@
   "url": "https://runsignup.com/Races?s=&cloudSearch=T&name=%s",
   "description": "RunSignUp",
   "category": "Entertainment",
-  "sub-category": "Events"
+  "subcategory": "Events"
 }

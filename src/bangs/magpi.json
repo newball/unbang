@@ -4,5 +4,5 @@
   "url": "https://www.raspberrypi.org/magpi/?s=%s",
   "description": "MagPi",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

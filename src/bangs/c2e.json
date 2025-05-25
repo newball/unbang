@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#cs/en/%s",
   "description": "Google Translate (Czech to English)",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

@@ -4,5 +4,5 @@
   "url": "https://isc.sans.edu/ipinfo.html?ip=%s",
   "description": "Internet Storm Center",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

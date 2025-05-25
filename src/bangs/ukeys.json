@@ -4,5 +4,5 @@
   "url": "https://keyserver.ubuntu.com/pks/lookup?search=%s&fingerprint=on&hash=on&op=vindex",
   "description": "Ubuntu keyserver",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

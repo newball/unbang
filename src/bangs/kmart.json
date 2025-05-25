@@ -4,5 +4,5 @@
   "url": "http://www.kmart.com/shc/s/search_10151_10104?keyword=%s",
   "description": "Kmart",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

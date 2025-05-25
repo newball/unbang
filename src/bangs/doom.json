@@ -4,5 +4,5 @@
   "url": "http://doomwiki.org/wiki/Special:Search?search=%s",
   "description": "Doom Wiki",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

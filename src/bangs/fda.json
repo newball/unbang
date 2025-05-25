@@ -4,5 +4,5 @@
   "url": "https://search.usa.gov/search?utf8=%E2%9C%93&affiliate=fda&query=%s&commit=Search",
   "description": "FDA",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

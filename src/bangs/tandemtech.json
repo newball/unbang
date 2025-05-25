@@ -4,5 +4,5 @@
   "url": "https://tandemtech.be/search?q=%s",
   "description": "Tandem Tech",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

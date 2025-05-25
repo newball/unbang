@@ -4,5 +4,5 @@
   "url": "http://unicode.party/?query=%s",
   "description": "Unicode Party",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

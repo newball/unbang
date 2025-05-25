@@ -4,5 +4,5 @@
   "url": "http://openbox.org/wiki/Special:Search?search=%s",
   "description": "Openbox",
   "category": "Multimedia",
-  "sub-category": "Docs"
+  "subcategory": "Docs"
 }

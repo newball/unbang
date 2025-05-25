@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s&ia=images&iax=images",
   "description": "DuckDuckGo Images",
   "category": "Online Services",
-  "sub-category": "Search (DDG)"
+  "subcategory": "Search (DDG)"
 }

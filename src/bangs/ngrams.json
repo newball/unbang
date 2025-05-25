@@ -4,5 +4,5 @@
   "url": "https://books.google.com/ngrams/graph?content=%s&year_start=1800&year_end=2000",
   "description": "Google Ngram Viewer",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

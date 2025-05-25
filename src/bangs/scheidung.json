@@ -4,5 +4,5 @@
   "url": "https://www.scheidung.de/suche.html?tx_kesearch_pi1%5Bsword%5D=%s",
   "description": "Scheidung.de",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

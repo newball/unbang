@@ -4,5 +4,5 @@
   "url": "http://wiki.eveonline.com/en/wiki/Special:Search/%s ",
   "description": "Eve Online",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

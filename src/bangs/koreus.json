@@ -4,5 +4,5 @@
   "url": "https://www.koreus.com/search.php?q=%s&sa=Rechercher",
   "description": "Koreus",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.deejay.de/%s",
   "description": "Deejay.de",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

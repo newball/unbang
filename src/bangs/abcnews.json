@@ -4,5 +4,5 @@
   "url": "http://abcnews.go.com/search?searchtext=%s",
   "description": "ABCNews",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

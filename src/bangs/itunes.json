@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s%20site%3Aitunes.apple.com",
   "description": "iTunes",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

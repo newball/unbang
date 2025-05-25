@@ -4,5 +4,5 @@
   "url": "https://google.com/search?q=%2B%5Binurl%3Ahttp%3A%2F%2Fstackoverflow.com%5D+%s",
   "description": "Google over StackOverflow",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

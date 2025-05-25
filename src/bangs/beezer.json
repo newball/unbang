@@ -4,5 +4,5 @@
   "url": "http://www.beezer.com.au/search?type=product&q=%s",
   "description": "Beezer",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.reversebeacon.net/dxsd1/dxsd1.php?f=0&c=%s&t=dx",
   "description": "Reverse Beacon Network - DX station",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

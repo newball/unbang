@@ -4,5 +4,5 @@
   "url": "https://www.wolframalpha.com/input/?i=integral+%s",
   "description": "WolframAlpha integration",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

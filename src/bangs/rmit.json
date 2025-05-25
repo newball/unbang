@@ -4,5 +4,5 @@
   "url": "https://www.rmit.edu.au/search?q=%s",
   "description": "RMIT University",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

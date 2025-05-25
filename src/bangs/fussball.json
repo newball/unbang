@@ -4,5 +4,5 @@
   "url": "http://www.fussball.de/suche/-/text/%s",
   "description": "Fussball.de",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

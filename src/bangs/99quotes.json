@@ -4,5 +4,5 @@
   "url": "https://99quotes.me/search?q=%s",
   "description": "99 Quotes",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

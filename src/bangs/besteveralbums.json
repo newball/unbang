@@ -4,5 +4,5 @@
   "url": "https://www.besteveralbums.com/search.php?s_o=all&s_q=%s",
   "description": "Besteveralbum",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

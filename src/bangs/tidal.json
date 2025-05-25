@@ -4,5 +4,5 @@
   "url": "https://listen.tidal.com/search/%s",
   "description": "Tidal",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

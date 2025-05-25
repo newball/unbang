@@ -4,5 +4,5 @@
   "url": "https://dlc.lib.de.us/client/en_US/default/search/results?qu=%s&te=",
   "description": "Hockessin Library",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

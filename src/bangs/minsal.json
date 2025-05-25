@@ -4,5 +4,5 @@
   "url": "http://cerca.ministerosalute.it/search?q=%s&client=defaultPORT_front-end&proxystylesheet=defaultPORT_front-end&site=default_collection&output=xml_no_dtd&filter=p",
   "description": "Ministero della Salute",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

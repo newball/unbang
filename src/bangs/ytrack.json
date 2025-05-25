@@ -4,5 +4,5 @@
   "url": "https://youtrack.jetbrains.com/issues?q=%s",
   "description": "YouTrack",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

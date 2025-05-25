@@ -4,5 +4,5 @@
   "url": "http://www.mirabileweb.it/ricerca_semplice.aspx?tsearch=%s",
   "description": "Mirabile: Digital Archives for Medieval Culture",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

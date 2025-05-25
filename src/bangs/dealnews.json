@@ -4,5 +4,5 @@
   "url": "http://dealnews.com/search.html?search=%s",
   "description": "Deal News",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

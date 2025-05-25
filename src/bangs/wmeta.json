@@ -4,5 +4,5 @@
   "url": "http://meta.wikimedia.org/w/index.php?title=Special%3ASearch&search=%s",
   "description": "Wikimedia Meta-Wiki",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

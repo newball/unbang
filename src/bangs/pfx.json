@@ -4,5 +4,5 @@
   "url": "http://www.brooksbaseball.net/search.php?name=%s",
   "description": "BrooksBaseball",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

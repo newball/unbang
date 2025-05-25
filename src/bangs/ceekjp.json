@@ -4,5 +4,5 @@
   "url": "http://www.ceek.jp/search.cgi?q=%s",
   "description": "ceek.jp",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

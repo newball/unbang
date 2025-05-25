@@ -4,5 +4,5 @@
   "url": "https://goto.google.com/%s",
   "description": "Goto Google link shortener",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

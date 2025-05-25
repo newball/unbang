@@ -4,5 +4,5 @@
   "url": "http://iopscience.iop.org/nsearch?terms=%s&searchType=yourSearch",
   "description": "Institute of Physics Science",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

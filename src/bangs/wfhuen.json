@@ -4,5 +4,5 @@
   "url": "http://www.webforditas.hu/szotar.php?S= %s&l1=hu&l2=en",
   "description": "Webfordítás hu-en",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

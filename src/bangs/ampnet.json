@@ -4,5 +4,5 @@
   "url": "http://www.auto-medienportal.net/artikel/quicksearch/?searchterm=%s",
   "description": "Auto-Medienportal.Net",
   "category": "News",
-  "sub-category": "Magazine (car)"
+  "subcategory": "Magazine (car)"
 }

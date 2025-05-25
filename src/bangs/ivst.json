@@ -4,5 +4,5 @@
   "url": "https://www.investopedia.com/search?q=%s",
   "description": "Investopedia",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

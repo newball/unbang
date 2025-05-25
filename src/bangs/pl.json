@@ -4,5 +4,5 @@
   "url": "http://publiclab.org/search/%s",
   "description": "Public Lab",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.myvideo.de/Videos_A-Z?searchWord=%s",
   "description": "Myvideo",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

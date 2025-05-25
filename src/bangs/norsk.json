@@ -4,5 +4,5 @@
   "url": "http://ordbok.uib.no/perl/ordbok.cgi?OPP=%s&ant_bokmaal=5&ant_nynorsk=5&begge=+&ordbok=begge",
   "description": "Nynorskordboka og Bokmålsordboka",
   "category": "Research",
-  "sub-category": "Reference (words intl)"
+  "subcategory": "Reference (words intl)"
 }

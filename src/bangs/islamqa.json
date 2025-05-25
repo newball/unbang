@@ -4,5 +4,5 @@
   "url": "http://islamqa.info/en/search?key=%s&yt0=search",
   "description": "Islamqa.com",
   "category": "Research",
-  "sub-category": "Reference (religion)"
+  "subcategory": "Reference (religion)"
 }

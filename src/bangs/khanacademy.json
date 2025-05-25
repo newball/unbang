@@ -4,5 +4,5 @@
   "url": "http://www.khanacademy.org/search?page_search_query=%s",
   "description": "Khan academy",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

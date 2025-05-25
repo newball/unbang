@@ -4,5 +4,5 @@
   "url": "http://metroid.wikia.com/wiki/Special:Search?search=%s",
   "description": "Wikitroid",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

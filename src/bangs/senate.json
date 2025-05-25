@@ -4,5 +4,5 @@
   "url": "http://senat.me/en/?s=%s",
   "description": "Portal Senate",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

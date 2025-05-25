@@ -4,5 +4,5 @@
   "url": "https://en.numista.com/catalogue/index.php?r=%s&mode=simplifie&p=1",
   "description": "Numista",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

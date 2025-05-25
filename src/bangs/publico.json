@@ -4,5 +4,5 @@
   "url": "http://www.publico.pt/pesquisa?q=%s",
   "description": "Publico",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

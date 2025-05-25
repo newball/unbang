@@ -4,5 +4,5 @@
   "url": "http://www.php2python.com/wiki/search/?search_term=%s ",
   "description": "Php2Python",
   "category": "Tech",
-  "sub-category": "Languages (python)"
+  "subcategory": "Languages (python)"
 }

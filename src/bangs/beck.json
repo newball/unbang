@@ -4,5 +4,5 @@
   "url": "https://beck-online.beck.de/Search?words=%s",
   "description": "beck-online",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

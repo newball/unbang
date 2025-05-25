@@ -4,5 +4,5 @@
   "url": "http://dreammoods.com/cgibin/dreamdictionarysearch.pl?method=exact&header=dreamsymbol&search=%s",
   "description": "DreamMoods",
   "category": "Research",
-  "sub-category": "Reference (fun)"
+  "subcategory": "Reference (fun)"
 }

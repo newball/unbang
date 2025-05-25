@@ -4,5 +4,5 @@
   "url": "http://www.zhihu.com/search?q= %s &type=question",
   "description": "知乎",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

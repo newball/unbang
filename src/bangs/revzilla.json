@@ -4,5 +4,5 @@
   "url": "http://www.revzilla.com/search?query=%s&commit=Search",
   "description": "RevZilla",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://tile.openstreetmap.fr/?q=%s",
   "description": "OpenStreetMap-fr",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

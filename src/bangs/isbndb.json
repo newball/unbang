@@ -4,5 +4,5 @@
   "url": "http://isbndb.com/search-all.html?kw=%s",
   "description": "ISBNdb.com",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

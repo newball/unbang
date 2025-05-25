@@ -4,5 +4,5 @@
   "url": "https://m.douban.com/search/?query=%s",
   "description": "Douban",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

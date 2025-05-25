@@ -4,5 +4,5 @@
   "url": "http://www.manga-sanctuary.com/recherche.php?keywords=%s",
   "description": "Manga Sanctuary",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

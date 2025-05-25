@@ -4,5 +4,5 @@
   "url": "http://www.greenpeace.org.uk/search/node/%s",
   "description": "Greenpeace UK",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

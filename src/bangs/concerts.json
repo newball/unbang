@@ -4,5 +4,5 @@
   "url": "http://www.pollstar.com/tour/searchall.pl?By=All&Content=%s&go_green.x=0&go_green.y=0",
   "description": "Pollstar",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.robtex.com/dns-lookup/%s",
   "description": "Robtex",
   "category": "Tech",
-  "sub-category": "Sysadmin (network)"
+  "subcategory": "Sysadmin (network)"
 }

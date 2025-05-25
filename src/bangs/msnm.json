@@ -4,5 +4,5 @@
   "url": "http://investing.money.msn.com/investments/stock-price?Symbol=%s ",
   "description": "MSN Money",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

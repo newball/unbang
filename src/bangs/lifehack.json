@@ -4,5 +4,5 @@
   "url": "http://lifehacker.com/search?q=%s",
   "description": "Lifehacker",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

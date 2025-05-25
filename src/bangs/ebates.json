@@ -4,5 +4,5 @@
   "url": "http://www.ebates.com/search/all.htm?query=%s&position=submit&type=suggest&store_name=%s",
   "description": "Ebates",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

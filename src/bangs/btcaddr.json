@@ -4,5 +4,5 @@
   "url": "https://www.blockchain.com/btc/address/%s",
   "description": "Blockchain",
   "category": "Tech",
-  "sub-category": "Cryptocurrency"
+  "subcategory": "Cryptocurrency"
 }

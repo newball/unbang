@@ -4,5 +4,5 @@
   "url": "https://www.kali.org/?s=%s",
   "description": "kali linux",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

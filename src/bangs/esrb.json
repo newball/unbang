@@ -4,5 +4,5 @@
   "url": "http://www.esrb.org/ratings/search.jsp?titleOrPublisher=%s",
   "description": "Entertainment Software Rating Board",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

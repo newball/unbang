@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s+site%3Awww.tu-chemnitz.de",
   "description": "Technische Universität Chemnitz",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

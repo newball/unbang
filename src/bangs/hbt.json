@@ -4,5 +4,5 @@
   "url": "http://www.homebrewtalk.com/search/?keyword=%s",
   "description": "Home Brew Talk",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

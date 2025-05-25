@@ -4,5 +4,5 @@
   "url": "http://www.mendeley.com/research-papers/search/?query=%s",
   "description": "Mendeley",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

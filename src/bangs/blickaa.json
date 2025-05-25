@@ -4,5 +4,5 @@
   "url": "http://www.blickamabend.ch/suche/?q=%s",
   "description": "Blick am Abend",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

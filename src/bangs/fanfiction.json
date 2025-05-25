@@ -4,5 +4,5 @@
   "url": "https://www.fanfiction.net/search/?keywords=%s",
   "description": "Fanfiction",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

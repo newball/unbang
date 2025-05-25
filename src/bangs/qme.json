@@ -4,5 +4,5 @@
   "url": "http://m.quickmeme.com/search/?q=%s",
   "description": "quickmeme",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

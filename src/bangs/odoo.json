@@ -4,5 +4,5 @@
   "url": "https://www.odoo.com/apps?search=%s",
   "description": "Odoo Apps",
   "category": "Tech",
-  "sub-category": "Downloads (apps)"
+  "subcategory": "Downloads (apps)"
 }

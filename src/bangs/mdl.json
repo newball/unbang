@@ -4,5 +4,5 @@
   "url": "http://mydramalist.com/browse/all?sort[]=relevance&q=%s",
   "description": "MyDramaList",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

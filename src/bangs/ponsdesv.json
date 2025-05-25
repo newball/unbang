@@ -4,5 +4,5 @@
   "url": "https://de.pons.com/%C3%BCbersetzung?q=%s&l=desv&in=&lf=de",
   "description": "pons.com",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

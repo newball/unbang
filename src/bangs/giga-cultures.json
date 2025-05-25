@@ -4,5 +4,5 @@
   "url": "http://giga-cultures.com/recherche?controller=search&search_query=%s:",
   "description": "Giga Cultures",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.techradar.com/search?searchTerm=%s",
   "description": "TechRadar",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.e1.ru/news/search/?search=%s",
   "description": "e1",
   "category": "News",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

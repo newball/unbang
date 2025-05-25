@@ -4,5 +4,5 @@
   "url": "https://store.google.com/search?q=%s",
   "description": "Google Store",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

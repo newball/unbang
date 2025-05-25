@@ -4,5 +4,5 @@
   "url": "http://videosift.com/search?q=%s",
   "description": "Videosift",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

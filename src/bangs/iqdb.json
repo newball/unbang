@@ -4,5 +4,5 @@
   "url": "http://iqdb.org/?url=%s",
   "description": "iqdb",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

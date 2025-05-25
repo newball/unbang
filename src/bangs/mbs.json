@@ -4,5 +4,5 @@
   "url": "http://mapa.buenosaires.gov.ar/buscador/?dir= %s",
   "description": "Mapa Interactivo de Buenos Aires",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

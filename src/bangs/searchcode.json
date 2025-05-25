@@ -4,5 +4,5 @@
   "url": "http://searchco.de/?q=%s",
   "description": "searchco.de",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

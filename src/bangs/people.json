@@ -4,5 +4,5 @@
   "url": "https://people.zoho.com/people/#selfservice/directory/employees-searchstring=%s&searchType=0",
   "description": "Zoho People",
   "category": "Online Services",
-  "sub-category": "Search (Private)"
+  "subcategory": "Search (Private)"
 }

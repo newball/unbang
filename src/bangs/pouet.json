@@ -4,5 +4,5 @@
   "url": "http://pouet.net/search.php?what=%s&type=prod",
   "description": "Pouet",
   "category": "Tech",
-  "sub-category": "Downloads (software)"
+  "subcategory": "Downloads (software)"
 }

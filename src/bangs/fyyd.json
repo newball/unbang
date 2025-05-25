@@ -4,5 +4,5 @@
   "url": "https://fyyd.de/search?search=%s",
   "description": "fyyd",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.drinkify.org/%s",
   "description": "Drinkify",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

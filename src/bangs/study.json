@@ -4,5 +4,5 @@
   "url": "https://study.com/search/text/academy.html?q=%s",
   "description": "Study.com",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

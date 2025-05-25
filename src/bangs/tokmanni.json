@@ -4,5 +4,5 @@
   "url": "https://www.tokmanni.fi/catalogsearch/result/?q=%s",
   "description": "Tokmanni",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

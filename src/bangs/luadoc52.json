@@ -4,5 +4,5 @@
   "url": "https://www.lua.org/manual/5.2/manual.html#pdf-%s",
   "description": "Lua 5.2 Documentation",
   "category": "Tech",
-  "sub-category": "Languages (lua)"
+  "subcategory": "Languages (lua)"
 }

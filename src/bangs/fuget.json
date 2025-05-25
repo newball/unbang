@@ -4,5 +4,5 @@
   "url": "https://www.fuget.org/packages?q=%s",
   "description": "FuGet Gallery",
   "category": "Tech",
-  "sub-category": "Languages (csharp)"
+  "subcategory": "Languages (csharp)"
 }

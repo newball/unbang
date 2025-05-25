@@ -4,5 +4,5 @@
   "url": "https://search.yahoo.co.jp/search?p=%s",
   "description": "Yahoo Japan",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

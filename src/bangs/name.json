@@ -4,5 +4,5 @@
   "url": "http://www.name.com/name?&domain=%s",
   "description": "Name.com ",
   "category": "Tech",
-  "sub-category": "Domains"
+  "subcategory": "Domains"
 }

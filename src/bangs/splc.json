@@ -4,5 +4,5 @@
   "url": "https://www.splcenter.org/resources?keyword=%s",
   "description": "The Southern Poverty Law Center",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

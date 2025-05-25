@@ -4,5 +4,5 @@
   "url": "http://www.linguee.fr/francais-portugais/search?source=portugais&query=%s",
   "description": "Linguee",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "https://search.sindonews.com/search?type=artikel&q=%s",
   "description": "SINDOnews",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

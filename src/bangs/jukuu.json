@@ -4,5 +4,5 @@
   "url": "http://jukuu.com/search.php?q=%s",
   "description": "Jukuu",
   "category": "Research",
-  "sub-category": "Learning (intl)"
+  "subcategory": "Learning (intl)"
 }

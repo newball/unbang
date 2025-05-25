@@ -4,5 +4,5 @@
   "url": "https://www.dell.com/support/search/us/en/19#q=%s&sort=relevancy&f:langFacet=[en]",
   "description": "Dell Support Search",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

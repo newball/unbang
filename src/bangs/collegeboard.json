@@ -4,5 +4,5 @@
   "url": "https://www.collegeboard.org/search?tp=usearch&x=15&x1=t4&y=13&searchType=site&word=%s",
   "description": "CollegeBoard",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

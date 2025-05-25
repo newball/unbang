@@ -4,5 +4,5 @@
   "url": "/?q=site%3Aitunes.apple.com%2Fus%2Fapp%2F+%s",
   "description": "App Store on iTunes",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

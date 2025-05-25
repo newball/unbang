@@ -4,5 +4,5 @@
   "url": "http://www.adafruit.com/search?q=%s&b=1",
   "description": "Adafruit",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

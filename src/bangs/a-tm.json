@@ -4,5 +4,5 @@
   "url": "http://forum.a-tm.co.jp/search?q=hello&searchJSON={%22keywords%22%3A%22%s%22}",
   "description": "Ateam Forum",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

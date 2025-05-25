@@ -4,5 +4,5 @@
   "url": "http://www.isbns.net/search/?query=%s ",
   "description": "isbns.net",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

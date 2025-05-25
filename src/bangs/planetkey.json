@@ -4,5 +4,5 @@
   "url": "https://www.planetkey.de/suche/?s=%s",
   "description": "PlanetKey",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

@@ -4,5 +4,5 @@
   "url": "http://lxr.free-electrons.com/ident?i=%s",
   "description": "Linux Cross Reference",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

@@ -4,5 +4,5 @@
   "url": "http://map.naver.com/?query=%s",
   "description": "Naver Map",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

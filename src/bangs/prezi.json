@@ -4,5 +4,5 @@
   "url": "http://prezi.com/explore/search/?search=%s",
   "description": "Prezi",
   "category": "Multimedia",
-  "sub-category": "Docs"
+  "subcategory": "Docs"
 }

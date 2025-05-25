@@ -4,5 +4,5 @@
   "url": "http://www.theses.fr/?q=%s",
   "description": "Theses.fr",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

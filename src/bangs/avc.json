@@ -4,5 +4,5 @@
   "url": "http://www.avclub.com/search/?q=%s",
   "description": "The A.V. Club",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

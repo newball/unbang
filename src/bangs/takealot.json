@@ -4,5 +4,5 @@
   "url": "http://www.takealot.com/all/?qsearch=%s",
   "description": "takealot.com",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

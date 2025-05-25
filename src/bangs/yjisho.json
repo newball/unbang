@@ -4,5 +4,5 @@
   "url": "http://dic.search.yahoo.co.jp/search?ei=UTF-8&p=%s&fr=dic&stype=prefix",
   "description": "Yahoo Jisho",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

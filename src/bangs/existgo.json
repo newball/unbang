@@ -4,5 +4,5 @@
   "url": "https://exist.ua/price.aspx?pcode=%s&sortType=",
   "description": "Exist.ua",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

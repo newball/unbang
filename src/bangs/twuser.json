@@ -4,5 +4,5 @@
   "url": "https://twitter.com/search/users?q=%s",
   "description": "Twitter users",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

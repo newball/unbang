@@ -4,5 +4,5 @@
   "url": "https://www.thecrag.com/nodes/fuzzy-search/%s?S=%s&ST=w",
   "description": "The Crag",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

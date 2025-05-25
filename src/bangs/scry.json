@@ -4,5 +4,5 @@
   "url": "https://scryfall.com/search?q=%s",
   "description": "Scryfall",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

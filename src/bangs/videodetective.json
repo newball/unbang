@@ -4,5 +4,5 @@
   "url": "http://www.videodetective.com/Search/Results?id=%s",
   "description": "Video Detective",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

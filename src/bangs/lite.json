@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/lite?q=%s",
   "description": "DuckDuckGo Lite",
   "category": "Online Services",
-  "sub-category": "Search (DDG)"
+  "subcategory": "Search (DDG)"
 }

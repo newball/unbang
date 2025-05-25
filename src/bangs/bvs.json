@@ -4,5 +4,5 @@
   "url": "http://pesquisa.bvsalud.org/regional/?q=%s",
   "description": "Biblioteca Virtual em Saúde",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

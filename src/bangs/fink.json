@@ -4,5 +4,5 @@
   "url": "http://pdb.finkproject.org/pdb/browse.php?summary=%s",
   "description": "Fink Project",
   "category": "Tech",
-  "sub-category": "Sysadmin (packages)"
+  "subcategory": "Sysadmin (packages)"
 }

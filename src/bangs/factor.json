@@ -4,5 +4,5 @@
   "url": "http://factornumber.com/?page=%s;",
   "description": "Factor Number",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

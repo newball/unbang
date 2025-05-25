@@ -4,5 +4,5 @@
   "url": "http://www.soku.com/search_video/q_%s",
   "description": "Youku",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

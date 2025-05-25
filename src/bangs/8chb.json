@@ -4,5 +4,5 @@
   "url": "http://8ch.net/boards.php?title=%s",
   "description": "8chan Boards",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

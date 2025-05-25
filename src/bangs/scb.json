@@ -4,5 +4,5 @@
   "url": "http://www.sverigeisiffror.scb.se/hitta-statistik/sok/?query=%s",
   "description": "Statistiska centralbyrån",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

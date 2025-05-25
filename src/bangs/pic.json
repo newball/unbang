@@ -4,5 +4,5 @@
   "url": "http://www.picsearch.com/index.cgi?q=%s",
   "description": "picsearch",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

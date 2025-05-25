@@ -4,5 +4,5 @@
   "url": "http://biblehub.net/search.php?q=%s",
   "description": "BibleHub",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

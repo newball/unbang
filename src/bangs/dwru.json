@@ -4,5 +4,5 @@
   "url": "http://dark-world.ru/search/?q=%s",
   "description": "Dark-World.ru",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

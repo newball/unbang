@@ -4,5 +4,5 @@
   "url": "https://www.befr.ebay.be/sch/items/?_nkw=%s",
   "description": "ebay.be",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

@@ -4,5 +4,5 @@
   "url": "http://libris.kb.se/hitlist?d=libris&q=%s&f=simp&spell=true",
   "description": "Libris",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

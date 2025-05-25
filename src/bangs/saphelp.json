@@ -4,5 +4,5 @@
   "url": "https://help.sap.com/viewer/search?q=%s",
   "description": "SAP Help Portal",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

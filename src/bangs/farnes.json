@@ -4,5 +4,5 @@
   "url": "https://es.farnell.com/search?st=%s",
   "description": "Farnell ES",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

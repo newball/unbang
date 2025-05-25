@@ -4,5 +4,5 @@
   "url": "https://bugzilla.redhat.com/buglist.cgi?quicksearch=%s",
   "description": "Redhat Bugzilla",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

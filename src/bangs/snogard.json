@@ -4,5 +4,5 @@
   "url": "https://www.snogard.de/suche.html?suchwort=%s",
   "description": "Snogard.de",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

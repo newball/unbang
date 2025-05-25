@@ -4,5 +4,5 @@
   "url": "http://archive.org/search.php?query=%s%20AND%20collection%3Aetree",
   "description": "Live Music Archive",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

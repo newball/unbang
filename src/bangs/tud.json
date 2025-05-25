@@ -4,5 +4,5 @@
   "url": "https://www.tudelft.nl/en/search/?q=%s",
   "description": "Delft University of Technology",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

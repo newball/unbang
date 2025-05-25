@@ -4,5 +4,5 @@
   "url": "https://ifttt.com/search/query/%s",
   "description": "IFTTT",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

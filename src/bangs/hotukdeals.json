@@ -4,5 +4,5 @@
   "url": "http://www.hotukdeals.com/search?action=search&keywords=%s",
   "description": "Hotukdeals",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

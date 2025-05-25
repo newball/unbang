@@ -4,5 +4,5 @@
   "url": "http://search.espncricinfo.com/ci/content/site/search.html?search=%s&gblsearch=",
   "description": "Cricinfo",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

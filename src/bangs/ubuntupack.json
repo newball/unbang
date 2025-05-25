@@ -4,5 +4,5 @@
   "url": "http://packages.ubuntu.com/search?keywords=%s",
   "description": "Ubuntu Packages",
   "category": "Tech",
-  "sub-category": "Sysadmin (packages)"
+  "subcategory": "Sysadmin (packages)"
 }

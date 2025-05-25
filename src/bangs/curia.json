@@ -4,5 +4,5 @@
   "url": "http://curia.europa.eu/juris/liste.jsf?&num=%s",
   "description": "InfoCuria",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

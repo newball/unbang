@@ -4,5 +4,5 @@
   "url": "http://peeron.com/cgi-bin/invcgis/psearch?query=%s&limit=none",
   "description": "Peeron",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

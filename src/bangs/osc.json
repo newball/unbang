@@ -4,5 +4,5 @@
   "url": "https://oscobo.co.uk/search.php?q=%s",
   "description": "Oscobo Search",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

@@ -4,5 +4,5 @@
   "url": "http://pennydeals.in/usearch.php?search=%s",
   "description": "best of deals and coupons",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

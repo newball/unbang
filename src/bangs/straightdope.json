@@ -4,5 +4,5 @@
   "url": "http://www.straightdope.com/columns/search?query=%s&action=search",
   "description": "Straight Dope",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

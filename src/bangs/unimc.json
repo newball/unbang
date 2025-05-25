@@ -4,5 +4,5 @@
   "url": "http://www.unimc.it/@@search?SearchableText=%s",
   "description": "Università degli Studi di Macerata",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

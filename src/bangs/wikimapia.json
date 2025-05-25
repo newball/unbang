@@ -4,5 +4,5 @@
   "url": "http://www.wikimapia.org/#search=%s",
   "description": "Wikimapia",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

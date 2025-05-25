@@ -4,5 +4,5 @@
   "url": "http://alternativeto.net/searchresult.aspx?search=%s",
   "description": "AlternativeTo.net",
   "category": "Tech",
-  "sub-category": "Downloads (software)"
+  "subcategory": "Downloads (software)"
 }

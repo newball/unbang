@@ -4,5 +4,5 @@
   "url": "http://myanimelist.net/anime.php?q=%s",
   "description": "MyAnimeList",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

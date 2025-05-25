@@ -4,5 +4,5 @@
   "url": "http://www.finanzen.net/suchergebnis.asp?_search=%s",
   "description": "finanzen.net",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

@@ -4,5 +4,5 @@
   "url": "https://securityshelf.com/index.php?s=%s",
   "description": "Security Shelf",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

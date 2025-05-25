@@ -4,5 +4,5 @@
   "url": "https://si.edu/sisearch?edan_q=%s",
   "description": "Smithsonian",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

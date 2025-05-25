@@ -4,5 +4,5 @@
   "url": "https://eva.fing.edu.uy/course/search.php?search=%s",
   "description": "EVA Fing",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

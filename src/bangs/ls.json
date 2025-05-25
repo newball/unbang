@@ -4,5 +4,5 @@
   "url": "http://littlesis.org/search?q=%s",
   "description": "LittleSis",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

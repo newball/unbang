@@ -4,5 +4,5 @@
   "url": "https://ratamo.verkkokirjasto.fi/web/arena/search?p_p_id=searchResult_WAR_arenaportlets&p_r_p_687834046_search_query=%s",
   "description": "Ratamo-verkkokirjasto",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

@@ -4,5 +4,5 @@
   "url": "http://docs.python.org/3.1/search.html?q=%s&check_keywords=yes&area=default",
   "description": "Python3.1 Docs",
   "category": "Tech",
-  "sub-category": "Languages (python)"
+  "subcategory": "Languages (python)"
 }

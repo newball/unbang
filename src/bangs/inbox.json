@@ -4,5 +4,5 @@
   "url": "https://inbox.google.com/search/%s",
   "description": "Inbox by Gmail",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

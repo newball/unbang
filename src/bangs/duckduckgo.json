@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s",
   "description": "DuckDuckGo",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

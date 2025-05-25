@@ -4,5 +4,5 @@
   "url": "http://pixabay.com/en/photos/?q=%s",
   "description": "Pixabay",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

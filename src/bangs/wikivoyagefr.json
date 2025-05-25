@@ -4,5 +4,5 @@
   "url": "https://fr.wikivoyage.org/wiki/Special:Search?search=%s&go=Go",
   "description": "Wikivoyage (français)",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

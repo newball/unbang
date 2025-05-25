@@ -4,5 +4,5 @@
   "url": "https://search.zoho.com/searchresult?query=%s&search_type=all&index_key=-1&embed=false",
   "description": "Zoho",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

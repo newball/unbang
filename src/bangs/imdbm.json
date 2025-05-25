@@ -4,5 +4,5 @@
   "url": "https://m.imdb.com/find?q=%s",
   "description": "IMDb Mobile",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

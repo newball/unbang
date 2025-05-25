@@ -4,5 +4,5 @@
   "url": "https://de.wikipedia.org/w/index.php?search=%s",
   "description": "Wikipedia (DE)",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

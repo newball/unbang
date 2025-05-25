@@ -4,5 +4,5 @@
   "url": "http://klnavarro.free.fr/spip/spip.php?page=recherche&recherche=%s",
   "description": "MicKey's Land",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

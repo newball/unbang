@@ -4,5 +4,5 @@
   "url": "https://docs.djangoproject.com/en/1.8/search/?q=%s",
   "description": "Django Documentation",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

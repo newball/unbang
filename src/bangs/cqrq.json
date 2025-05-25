@@ -4,5 +4,5 @@
   "url": "https://www.rollcall.com/page/search?keyword=%s&advanced=false&sort=relevance",
   "description": "CQ Roll Call",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

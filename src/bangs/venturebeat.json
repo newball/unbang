@@ -4,5 +4,5 @@
   "url": "http://venturebeat.com/?s=%s",
   "description": "VentureBeat",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

@@ -4,5 +4,5 @@
   "url": "http://openclipart.org/search/?query=%s",
   "description": "OpenClipart",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.jal.co.jp/cgi-bin/jal/insite_search/index.cgi?keyword=%s&collection=jalcojp&charset=shift_jis",
   "description": "JAL",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

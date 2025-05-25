@@ -4,5 +4,5 @@
   "url": "http://habrahabr.ru/search/?q=%s",
   "description": "habrahabr.ru",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

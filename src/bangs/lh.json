@@ -4,5 +4,5 @@
   "url": "http://lifehacker.com/search?q=%s",
   "description": "Lifehacker",
   "category": "Entertainment",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

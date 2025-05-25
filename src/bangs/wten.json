@@ -4,5 +4,5 @@
   "url": "http://en.wiktionary.org/w/index.php?search=%s&button=&title=Special%3ASearch",
   "description": "Wiktionary",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

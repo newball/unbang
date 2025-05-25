@@ -4,5 +4,5 @@
   "url": "https://mellowviews.com/search/?query=%s",
   "description": "Mellowviews",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

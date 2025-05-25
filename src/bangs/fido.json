@@ -4,5 +4,5 @@
   "url": "http://www.fido.ca/consumer/search?q=%s",
   "description": "Fido",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

@@ -4,5 +4,5 @@
   "url": "https://developer.mozilla.org/en-US/search?q=%s&topic=js",
   "description": "Mozilla Developer Network",
   "category": "Tech",
-  "sub-category": "Languages (javascript)"
+  "subcategory": "Languages (javascript)"
 }

@@ -4,5 +4,5 @@
   "url": "https://news.google.com/news/search/section/q/%s/%s?hl=en&ned=us",
   "description": "Google News",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

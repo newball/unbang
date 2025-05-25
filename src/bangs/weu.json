@@ -4,5 +4,5 @@
   "url": "https://eu.wikipedia.org/wiki/%s",
   "description": "Wikipedia",
   "category": "Research",
-  "sub-category": "Learning (intl)"
+  "subcategory": "Learning (intl)"
 }

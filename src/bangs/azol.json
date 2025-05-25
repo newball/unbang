@@ -4,5 +4,5 @@
   "url": "http://azol.de/suche/?q=%s",
   "description": "Augsburger Allgemeine",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

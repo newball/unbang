@@ -4,5 +4,5 @@
   "url": "http://www.redfin.com/homes-for-sale#!search_location=%s",
   "description": "RedFin",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

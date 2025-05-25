@@ -4,5 +4,5 @@
   "url": "http://noticiados.net/blog/buscar/?query=%s",
   "description": "NoticiaDOS",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

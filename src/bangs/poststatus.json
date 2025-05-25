@@ -4,5 +4,5 @@
   "url": "https://poststatus.com/?s=%s",
   "description": "PostStatus",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

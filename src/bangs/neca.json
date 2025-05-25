@@ -4,5 +4,5 @@
   "url": "http://www.newegg.ca/Product/ProductList.aspx?Submit=ENE&DEPA=0&Order=BESTMATCH&Description=%s&N=-1&isNodeId=1",
   "description": "Newegg Canada",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

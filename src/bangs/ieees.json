@@ -4,5 +4,5 @@
   "url": "http://spectrum.ieee.org/searchContent?q=%s",
   "description": "IEEE spectrum",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

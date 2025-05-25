@@ -4,5 +4,5 @@
   "url": "https://hansard.parliament.uk/search?searchTerm=%s",
   "description": "Hansard (UK Parliament)",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

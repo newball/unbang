@@ -4,5 +4,5 @@
   "url": "https://www.diarioregistrado.com/search?text=%s",
   "description": "Diario Registrado",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

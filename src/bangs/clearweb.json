@@ -4,5 +4,5 @@
   "url": "http://www.clearwebstats.com/process.php?q=%s",
   "description": "ClearWebStats",
   "category": "Tech",
-  "sub-category": "Domains"
+  "subcategory": "Domains"
 }

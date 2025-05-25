@@ -4,5 +4,5 @@
   "url": "http://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%s",
   "description": "OJAD - Online Japanese Accent Dictionary",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.allmusic.com/search/all/%s",
   "description": "All Music",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

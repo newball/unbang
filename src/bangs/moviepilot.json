@@ -4,5 +4,5 @@
   "url": "http://www.moviepilot.de/suche?utf8=✓&q=%s",
   "description": "Moviepilot",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

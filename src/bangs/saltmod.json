@@ -4,5 +4,5 @@
   "url": "https://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.%s.html",
   "description": "SaltStack Execution Modules",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

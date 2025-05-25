@@ -4,5 +4,5 @@
   "url": "https://www.google.com/search?tbm=isch&q=%s&tbs=imgo:1",
   "description": "Google Images",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

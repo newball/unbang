@@ -4,5 +4,5 @@
   "url": "http://school.eb.com/levels/middle/search/articles?query=%s",
   "description": "Britannica School (Middle)",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

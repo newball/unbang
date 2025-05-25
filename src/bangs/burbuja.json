@@ -4,5 +4,5 @@
   "url": "http://www.burbuja.info/inmobiliaria/search.php?do=process&query=%s",
   "description": "Burbuja.info",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

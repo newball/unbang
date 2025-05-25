@@ -4,5 +4,5 @@
   "url": "http://my.dot.tk/registration/register?domainname=%s",
   "description": "Dot TK",
   "category": "Tech",
-  "sub-category": "Domains"
+  "subcategory": "Domains"
 }

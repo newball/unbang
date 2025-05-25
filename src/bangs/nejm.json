@@ -4,5 +4,5 @@
   "url": "http://www.nejm.org/search?q=%s&asug=",
   "description": "New England Journal Of Medicine",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

@@ -4,5 +4,5 @@
   "url": "http://ben10.wikia.com/wiki/Special:Search?query=%s",
   "description": "Ben 10 Wiki",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

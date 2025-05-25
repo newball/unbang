@@ -4,5 +4,5 @@
   "url": "http://www.cathdb.info/search?q=%s",
   "description": "CATH database",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

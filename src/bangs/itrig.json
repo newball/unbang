@@ -4,5 +4,5 @@
   "url": "http://www.itrig.de/index.php?serendipity%5Baction%5D=search&serendipity%5Bfullentry%5D=1&serendipity%5BsearchTerm%5D=%s",
   "description": "ITrig",
   "category": "Tech",
-  "sub-category": "Blogs (intl)"
+  "subcategory": "Blogs (intl)"
 }

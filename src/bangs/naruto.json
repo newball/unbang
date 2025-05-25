@@ -4,5 +4,5 @@
   "url": "http://naruto.wikia.com/wiki/Special:Search?search=%s",
   "description": "Narutopedia",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

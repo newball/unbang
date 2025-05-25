@@ -4,5 +4,5 @@
   "url": "https://docs.blender.org/manual/en/latest/search.html?q=%s&check_keywords=yes",
   "description": "Blender Manual",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

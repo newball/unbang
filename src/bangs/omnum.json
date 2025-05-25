@@ -4,5 +4,5 @@
   "url": "http://omnum.se/search/?q=%s",
   "description": "Omnum",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

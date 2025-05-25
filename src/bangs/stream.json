@@ -4,5 +4,5 @@
   "url": "https://www.stream.cz/vyhledavani?dotaz=%s",
   "description": "Internetová televize Stream",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.turbosquid.com/Search/Index.cfm?keyword=%s",
   "description": "TurboSquid",
   "category": "Tech",
-  "sub-category": "Downloads"
+  "subcategory": "Downloads"
 }

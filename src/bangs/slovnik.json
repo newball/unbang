@@ -4,5 +4,5 @@
   "url": "https://slovnik.seznam.cz/en/?q=%s",
   "description": "Seznam Slovník",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

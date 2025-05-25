@@ -4,5 +4,5 @@
   "url": "http://pl.pons.com/tłumaczenie?q=%s&l=itpl",
   "description": "Pons it<>pl",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

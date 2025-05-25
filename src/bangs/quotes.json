@@ -4,5 +4,5 @@
   "url": "http://en.wikiquote.org/wiki/Special:Search?search=%s",
   "description": "WikiQuote",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

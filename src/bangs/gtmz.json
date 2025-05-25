@@ -4,5 +4,5 @@
   "url": "https://geektimes.ru/search/?q=%s",
   "description": "GeekTimes",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

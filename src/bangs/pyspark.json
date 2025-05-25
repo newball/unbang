@@ -4,5 +4,5 @@
   "url": "https://spark.apache.org/docs/latest/api/python/search.html?q=%s",
   "description": "PySpark documentation",
   "category": "Tech",
-  "sub-category": "Languages (python)"
+  "subcategory": "Languages (python)"
 }

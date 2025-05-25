@@ -4,5 +4,5 @@
   "url": "http://www.mediamarkt.be/fr/search.html?query=%s",
   "description": "MediaMarkt FR",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

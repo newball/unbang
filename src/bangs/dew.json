@@ -4,5 +4,5 @@
   "url": "https://de.wikipedia.org/wiki/%s",
   "description": "de.wikipedia.org",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

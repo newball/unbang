@@ -4,5 +4,5 @@
   "url": "http://www.wnyc.org/search/?q=%s",
   "description": "WNYC",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

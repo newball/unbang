@@ -4,5 +4,5 @@
   "url": "http://www.icstation.com/advanced_search_result.php?keywords=%s&search_in_description=1",
   "description": "icstation.com",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

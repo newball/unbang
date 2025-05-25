@@ -4,5 +4,5 @@
   "url": "https://www.3bmeteo.com/meteo/%s",
   "description": "3Bmeteo",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

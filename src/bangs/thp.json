@@ -4,5 +4,5 @@
   "url": "http://www.huffingtonpost.com/search.php/?q=%s",
   "description": "The Huffington Post",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

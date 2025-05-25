@@ -4,5 +4,5 @@
   "url": "https://torob.com/search/?query=%s",
   "description": "Torob",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

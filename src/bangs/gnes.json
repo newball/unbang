@@ -4,5 +4,5 @@
   "url": "https://www.google.es/search?q=%s&prmd=nvi&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiTxIfujK3XAhXItRoKHTQfDLYQ_AUIEigB&biw=375&bih=553",
   "description": "Google News Spain",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

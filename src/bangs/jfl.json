@@ -4,5 +4,5 @@
   "url": "https://www.liberty.edu/library/search-results/?type=all&q=%s",
   "description": "Jerry Falwell Library",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "http://cantonese.org/search.php?q=%s",
   "description": "CC-Canto - A Cantonese Dictionary",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

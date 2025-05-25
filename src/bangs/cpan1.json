@@ -4,5 +4,5 @@
   "url": "https://metacpan.org/search?q=%s&lucky=1",
   "description": "MetaCPAN",
   "category": "Tech",
-  "sub-category": "Languages (perl)"
+  "subcategory": "Languages (perl)"
 }

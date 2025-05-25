@@ -4,5 +4,5 @@
   "url": "http://www.qobuz.com/recherche?q=%s",
   "description": "Qobuz",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

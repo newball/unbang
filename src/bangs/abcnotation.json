@@ -4,5 +4,5 @@
   "url": "http://abcnotation.com/searchTunes?q=%s&f=c&o=a&s=0",
   "description": "abcnotation.com",
   "category": "Entertainment",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

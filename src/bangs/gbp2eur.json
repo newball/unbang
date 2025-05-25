@@ -4,5 +4,5 @@
   "url": "http://www.xe.com/currencyconverter/convert/?Amount=%s&From=GBP&To=EUR",
   "description": "xe.com",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

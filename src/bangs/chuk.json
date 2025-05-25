@@ -4,5 +4,5 @@
   "url": "https://beta.companieshouse.gov.uk/search?q=%s",
   "description": "Companies House",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

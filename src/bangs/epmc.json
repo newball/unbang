@@ -4,5 +4,5 @@
   "url": "http://europepmc.org/search?query=%s",
   "description": "European Pubmed Central",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

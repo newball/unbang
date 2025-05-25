@@ -4,5 +4,5 @@
   "url": "https://apstudent.collegeboard.org/search?searchq=%s&searchType=aps_site&tp=aps_site",
   "description": "AP Central College Board",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.amazon.co.uk/s?k=%s&i=digital-music",
   "description": "Amazon.co.uk MP3",
   "category": "Shopping",
-  "sub-category": "Online (intl)"
+  "subcategory": "Online (intl)"
 }

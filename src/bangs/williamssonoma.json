@@ -4,5 +4,5 @@
   "url": "http://www.williams-sonoma.com/search/results.html?words=%s",
   "description": "Williams-Sonoma",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

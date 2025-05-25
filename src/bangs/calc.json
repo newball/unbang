@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s&ia=calculator",
   "description": "DuckDuckGo Calculator",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

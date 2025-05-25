@@ -4,5 +4,5 @@
   "url": "http://opengameart.org/art-search?keys=%s",
   "description": "OpenGameArt.org",
   "category": "Multimedia",
-  "sub-category": "General"
+  "subcategory": "General"
 }

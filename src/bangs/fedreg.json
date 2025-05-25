@@ -4,5 +4,5 @@
   "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%s",
   "description": "Federal Register",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

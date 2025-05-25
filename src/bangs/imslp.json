@@ -4,5 +4,5 @@
   "url": "http://imslp.org/index.php?title=Special:Search&search=%s",
   "description": "IMSLP",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

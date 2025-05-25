@@ -4,5 +4,5 @@
   "url": "https://openaccessbutton.org/?url=%s",
   "description": "Open Access Button",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

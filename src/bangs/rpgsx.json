@@ -4,5 +4,5 @@
   "url": "http://rpg.stackexchange.com/search?q=%s",
   "description": "RPG Stack Exchange",
   "category": "Entertainment",
-  "sub-category": "Games (offline)"
+  "subcategory": "Games (offline)"
 }

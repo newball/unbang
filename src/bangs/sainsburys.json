@@ -4,5 +4,5 @@
   "url": "https://www.sainsburys.co.uk/webapp/wcs/stores/servlet/SearchDisplayView?storeId=10151&searchTerm=%s",
   "description": "Sainsbury's",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

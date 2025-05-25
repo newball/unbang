@@ -4,5 +4,5 @@
   "url": "http://www.skysports.com/search?q=%s",
   "description": "Skysports",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

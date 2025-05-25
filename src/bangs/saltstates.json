@@ -4,5 +4,5 @@
   "url": "https://docs.saltstack.com/en/latest/ref/states/all/salt.states.%s.html",
   "description": "SaltStack State Modules",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

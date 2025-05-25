@@ -4,5 +4,5 @@
   "url": "https://et.wikipedia.org/w/index.php?search=%s ",
   "description": "Estonian Wikipedia (Vikipeedia)",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

@@ -4,5 +4,5 @@
   "url": "https://medium.com/search?q=%s",
   "description": "medium.com",
   "category": "Entertainment",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

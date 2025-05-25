@@ -4,5 +4,5 @@
   "url": "http://www.msarnoff.org/chipdb/%s",
   "description": "msarnoff.org ChipDB",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.google.com/?gws_rd=ssl#q=%s&tbs=ida:1&gl=us",
   "description": "Google (In Depth Articles)",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

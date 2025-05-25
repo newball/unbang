@@ -4,5 +4,5 @@
   "url": "http://www.bibsonomy.org/search/%s",
   "description": "BibSonomy",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

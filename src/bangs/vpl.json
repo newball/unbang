@@ -4,5 +4,5 @@
   "url": "https://vpl.bibliocommons.com/search?q=%s&t=smart&search_category=keyword",
   "description": "Vancouver Public Library",
   "category": "Research",
-  "sub-category": "Local"
+  "subcategory": "Local"
 }

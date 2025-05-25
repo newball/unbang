@@ -4,5 +4,5 @@
   "url": "https://library.linode.com/search?query=%s",
   "description": "Linode Library",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

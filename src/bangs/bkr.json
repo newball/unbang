@@ -4,5 +4,5 @@
   "url": "http://www.basketball-reference.com/player_search.cgi?search=%s",
   "description": "Basketball Reference",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

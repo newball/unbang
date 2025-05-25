@@ -4,5 +4,5 @@
   "url": "https://www.wind.gr/search?_dyncharset=utf-8&Dy=1&Ntt=%s",
   "description": "Wind",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

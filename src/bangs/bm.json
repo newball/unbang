@@ -4,5 +4,5 @@
   "url": "https://www.bing.com/maps/?q=%s&obox=1",
   "description": "bing maps",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

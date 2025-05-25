@@ -4,5 +4,5 @@
   "url": "http://www.lemonde.fr/recherche/?search_keywords=%s",
   "description": "Le Monde",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

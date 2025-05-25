@@ -4,5 +4,5 @@
   "url": "http://wiki.nginx.org/Special:Search?search=%s&fulltext=Search",
   "description": "nginx wiki",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

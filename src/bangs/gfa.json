@@ -4,5 +4,5 @@
   "url": "https://www.google.com/search?hl=fa&q=%s",
   "description": "Persian Google",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

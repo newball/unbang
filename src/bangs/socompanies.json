@@ -4,5 +4,5 @@
   "url": "https://stackoverflow.com/jobs/companies?q=%s",
   "description": "StackOverflow Companies",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

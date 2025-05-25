@@ -4,5 +4,5 @@
   "url": "http://www.grnpedia.org/trrust/result.php?gene=%s&species=human&confirm=0",
   "description": "TRRUST",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

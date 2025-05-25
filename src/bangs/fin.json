@@ -4,5 +4,5 @@
   "url": "https://finviz.com/search.ashx?p=%s",
   "description": "finviz.com",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

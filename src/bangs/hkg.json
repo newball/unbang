@@ -4,5 +4,5 @@
   "url": "https://hackage.haskell.org/packages/search?terms=%s",
   "description": "Hackage",
   "category": "Tech",
-  "sub-category": "Languages (haskell)"
+  "subcategory": "Languages (haskell)"
 }

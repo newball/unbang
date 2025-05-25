@@ -4,5 +4,5 @@
   "url": "http://www.nu.nl/zoeken/?q=%s ",
   "description": "Nu.nl",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

@@ -4,5 +4,5 @@
   "url": "http://bioconductor.org/help/search/index.html?q=%s",
   "description": "Bioconductor",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

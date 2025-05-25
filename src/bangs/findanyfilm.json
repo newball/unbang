@@ -4,5 +4,5 @@
   "url": "http://www.findanyfilm.com/search?term=%s",
   "description": "FindAnyFilm",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

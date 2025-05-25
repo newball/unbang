@@ -4,5 +4,5 @@
   "url": "https://www.stuffyoushouldknow.com/search.php?terms=%s",
   "description": "Stuff You Should Know",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

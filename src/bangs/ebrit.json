@@ -4,5 +4,5 @@
   "url": "https://www.britannica.com/search?query=%s",
   "description": "Encyclopedia Britanica",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

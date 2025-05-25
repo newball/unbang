@@ -4,5 +4,5 @@
   "url": "https://www.couchsurfing.org/?q=%s",
   "description": "Couchsurfing",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

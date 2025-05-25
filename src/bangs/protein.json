@@ -4,5 +4,5 @@
   "url": "https://www.ncbi.nlm.nih.gov/protein/?term=%s",
   "description": "NCBI Protein",
   "category": "Research",
-  "sub-category": "Academic (biology)"
+  "subcategory": "Academic (biology)"
 }

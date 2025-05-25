@@ -4,5 +4,5 @@
   "url": "https://tuxdb.com/section/db&page=0&search=%s",
   "description": "TuxDB",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

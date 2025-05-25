@@ -4,5 +4,5 @@
   "url": "http://educators.brainpop.com/search/?q=%s",
   "description": "BrainPOP Educators",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

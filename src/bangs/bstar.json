@@ -4,5 +4,5 @@
   "url": "https://www.biostars.org/local/search/page/?q=%s",
   "description": "Biostars",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

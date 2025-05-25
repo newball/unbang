@@ -4,5 +4,5 @@
   "url": "http://techbase.kde.org/Special:Search?search=%s&fulltext=Search",
   "description": "KDE TechBase",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

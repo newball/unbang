@@ -4,5 +4,5 @@
   "url": "https://www.geeksforgeeks.org/?q=%s",
   "description": "geeksforgeeks",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

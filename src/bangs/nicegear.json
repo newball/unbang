@@ -4,5 +4,5 @@
   "url": "http://nicegear.co.nz/search/?q=%s",
   "description": "nicegear",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

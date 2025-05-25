@@ -4,5 +4,5 @@
   "url": "http://anilist.co/search?q=%s",
   "description": "AniList",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.coolblue.be/zoeken?query=%s",
   "description": "Coolblue België",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

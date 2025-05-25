@@ -4,5 +4,5 @@
   "url": "https://www.sba.gov/search/?q=%s",
   "description": "SBA",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

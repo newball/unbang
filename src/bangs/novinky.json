@@ -4,5 +4,5 @@
   "url": "http://www.novinky.cz/hledej?w=%s",
   "description": "Novinky.cz",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

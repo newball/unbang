@@ -4,5 +4,5 @@
   "url": "http://www.printfriendly.com/print/?source=site&url=%s",
   "description": "PrintFriendly",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

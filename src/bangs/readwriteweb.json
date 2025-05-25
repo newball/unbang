@@ -4,5 +4,5 @@
   "url": "http://readwrite.com/search?keyword=%s",
   "description": "ReadWriteWeb",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

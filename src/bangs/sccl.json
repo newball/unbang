@@ -4,5 +4,5 @@
   "url": "https://sccl.bibliocommons.com/search/?t=smart&searchOpt=catalogue&q= %s&search_category=keyword",
   "description": "Sana Clara County Library District",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

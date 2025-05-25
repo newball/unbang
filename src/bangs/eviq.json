@@ -4,5 +4,5 @@
   "url": "https://www.eviq.org.au/search?searchtext=%s",
   "description": "eviQ",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

@@ -4,5 +4,5 @@
   "url": "https://prisguiden.no/sok?q=%s",
   "description": "Prisguiden.no",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

@@ -4,5 +4,5 @@
   "url": "https://hy.wikipedia.org/w/index.php?search=%s",
   "description": "Armenian Wikipedia (HY)",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

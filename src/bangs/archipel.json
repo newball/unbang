@@ -4,5 +4,5 @@
   "url": "http://catalogue.biu-toulouse.fr/ipac20/ipac.jsp?menu=search&aspect=subtab26&npp=10&ipp=20&spp=20&profile=sicd&ri=&index=.GK&term=%s",
   "description": "Archipel",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

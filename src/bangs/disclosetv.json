@@ -4,5 +4,5 @@
   "url": "http://www.disclose.tv/search/desk?title=%s",
   "description": "Disclose.tv",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

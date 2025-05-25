@@ -4,5 +4,5 @@
   "url": "http://www.oxfordbibliographies.com/search?q=%s",
   "description": "Oxford Bibliographies",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

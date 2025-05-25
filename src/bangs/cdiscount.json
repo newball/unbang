@@ -4,5 +4,5 @@
   "url": "http://www.cdiscount.com/search/10/%s.html",
   "description": "Cdiscount",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

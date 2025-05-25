@@ -4,5 +4,5 @@
   "url": "http://wanelo.com/search?query=%s",
   "description": "Wanelo",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.mathsisfun.com/sphider/search.php?query=%s&submit=&search=1",
   "description": "Math is fun",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

@@ -4,5 +4,5 @@
   "url": "https://atom.io/packages/search?utf8=%E2%9C%93&q=%s",
   "description": "atom.io",
   "category": "Tech",
-  "sub-category": "Downloads (add-ons)"
+  "subcategory": "Downloads (add-ons)"
 }

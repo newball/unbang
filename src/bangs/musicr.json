@@ -4,5 +4,5 @@
   "url": "http://www.musicradar.com/search?searchTerm=%s ",
   "description": "Music Radar",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

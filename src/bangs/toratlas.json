@@ -4,5 +4,5 @@
   "url": "https://atlas.torproject.org/#search/%s",
   "description": "Atlas (Tor Project)",
   "category": "Tech",
-  "sub-category": "Domains"
+  "subcategory": "Domains"
 }

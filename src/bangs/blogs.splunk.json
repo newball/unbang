@@ -4,5 +4,5 @@
   "url": "http://blogs.splunk.com/?s=%s",
   "description": "blogs.splunk.com",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.dropbox.com/search/personal?query=%s",
   "description": "Dropbox",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

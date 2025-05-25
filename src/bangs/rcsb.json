@@ -4,5 +4,5 @@
   "url": "http://rcsb.org/pdb/explore/explore.do?structureId=%s",
   "description": "RCSB",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

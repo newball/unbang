@@ -4,5 +4,5 @@
   "url": "http://careers.stackoverflow.com/jobs?searchTerm=%s",
   "description": "Stack Overflow Careers",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

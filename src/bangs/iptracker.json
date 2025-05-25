@@ -4,5 +4,5 @@
   "url": "http://www.ip-tracker.org/locator/ip-lookup.php?ip=%s ",
   "description": "IP Tracker",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

@@ -4,5 +4,5 @@
   "url": "https://library.seg.org/action/doSearch?AllField=%s",
   "description": "SEG Digital Library",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

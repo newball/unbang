@@ -4,5 +4,5 @@
   "url": "https://orcid.org/orcid-search/quick-search?searchQuery=%s ",
   "description": "ORCID",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

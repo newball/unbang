@@ -4,5 +4,5 @@
   "url": "http://babel.hathitrust.org/cgi/ls?field1=ocr;q1=%s;a=srchls",
   "description": "HathiTrust",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

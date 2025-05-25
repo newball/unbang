@@ -4,5 +4,5 @@
   "url": "https://npms.io/search?q=%s",
   "description": "npms",
   "category": "Tech",
-  "sub-category": "Languages (javascript)"
+  "subcategory": "Languages (javascript)"
 }

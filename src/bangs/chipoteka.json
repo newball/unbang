@@ -4,5 +4,5 @@
   "url": "https://www.chipoteka.hr/search?q=%s",
   "description": "Chipoteka",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

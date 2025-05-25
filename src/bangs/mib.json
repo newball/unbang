@@ -4,5 +4,5 @@
   "url": "http://search.mibbit.com/search/%s",
   "description": "Mibbit",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

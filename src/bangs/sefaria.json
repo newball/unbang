@@ -4,5 +4,5 @@
   "url": "http://www.sefaria.org/search?q=%s",
   "description": "Sefaria",
   "category": "Research",
-  "sub-category": "Reference (religion)"
+  "subcategory": "Reference (religion)"
 }

@@ -4,5 +4,5 @@
   "url": "http://translate.google.com/#en/sl/%s",
   "description": "Google Translate en-sl",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

@@ -4,5 +4,5 @@
   "url": "https://docs.microsoft.com/dotnet/api/?term=%s",
   "description": ".NET API Browser",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

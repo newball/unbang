@@ -4,5 +4,5 @@
   "url": "http://stackoverflow.com/search?q=[excel]+%s",
   "description": "Stack Overflow MS Excel Search",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

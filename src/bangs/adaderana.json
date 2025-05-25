@@ -4,5 +4,5 @@
   "url": "http://adaderana.lk/search_results.php?mode=1&show=1&query=%s",
   "description": "AdaDerana",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

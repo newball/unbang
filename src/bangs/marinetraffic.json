@@ -4,5 +4,5 @@
   "url": "https://www.marinetraffic.com/en/ais/index/search/all?keyword=%s",
   "description": "Marine Traffic",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

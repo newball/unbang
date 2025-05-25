@@ -4,5 +4,5 @@
   "url": "https://www.wunderground.com/cgi-bin/findweather/getForecast?query=%s",
   "description": "WunderGround",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

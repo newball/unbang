@@ -4,5 +4,5 @@
   "url": "https://bugs.koha-community.org/bugzilla3/buglist.cgi?quicksearch=%s",
   "description": "Koha Bugzilla",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

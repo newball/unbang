@@ -4,5 +4,5 @@
   "url": "https://www.mybeercellar.com/?search=%s",
   "description": "mybeercellar",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

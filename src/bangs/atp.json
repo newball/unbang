@@ -4,5 +4,5 @@
   "url": "http://www.atpworldtour.com/Search/Site.aspx?q=%s",
   "description": "ATP World Tour",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

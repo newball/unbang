@@ -4,5 +4,5 @@
   "url": "http://dlc.lib.de.us/client/default/search/results?qu=%s&te=",
   "description": "Delaware Library Search",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

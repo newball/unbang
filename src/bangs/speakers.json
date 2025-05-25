@@ -4,5 +4,5 @@
   "url": "https://www.speakersassociates.com/search?search_api_views_fulltext=%s",
   "description": "Speakers Associates",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

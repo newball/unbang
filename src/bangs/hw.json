@@ -4,5 +4,5 @@
   "url": "http://halo.umbc.edu/cgi-bin/haloweb/nrc1.pl?display=json&operation=search&keyword=%s",
   "description": "HaloWeb",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

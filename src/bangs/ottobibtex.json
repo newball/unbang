@@ -4,5 +4,5 @@
   "url": "http://www.ottobib.com/isbn/%s/bibtex",
   "description": "http://www.ottobib.com",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

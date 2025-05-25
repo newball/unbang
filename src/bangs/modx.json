@@ -4,5 +4,5 @@
   "url": "https://docs.modx.org/current/en/search?q=%s",
   "description": "MODX",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

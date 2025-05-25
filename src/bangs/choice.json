@@ -4,5 +4,5 @@
   "url": "https://www.choice.com.au/search?q=%s",
   "description": "Choice",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.fotmob.com/search?q=%s",
   "description": "FotMob",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

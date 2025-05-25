@@ -4,5 +4,5 @@
   "url": "https://open-store.io/?sort=relevance&search=%s",
   "description": "OpenStore",
   "category": "Tech",
-  "sub-category": "Downloads (apps)"
+  "subcategory": "Downloads (apps)"
 }

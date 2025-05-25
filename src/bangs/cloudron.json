@@ -4,5 +4,5 @@
   "url": "https://cloudron.io/appstore.html?search=%s",
   "description": "Cloudron",
   "category": "Tech",
-  "sub-category": "Downloads (apps)"
+  "subcategory": "Downloads (apps)"
 }

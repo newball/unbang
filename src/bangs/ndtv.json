@@ -4,5 +4,5 @@
   "url": "http://ndtv.com/topic/%s",
   "description": "NDTV",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

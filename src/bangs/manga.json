@@ -4,5 +4,5 @@
   "url": "http://myanimelist.net/manga.php?q=%s",
   "description": "MyAnimeList Manga",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

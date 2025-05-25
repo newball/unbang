@@ -4,5 +4,5 @@
   "url": "http://ddh5.duckduckgo.com/?q=%s",
   "description": "DuckDuckGo DDH5",
   "category": "Online Services",
-  "sub-category": "Search (DDG)"
+  "subcategory": "Search (DDG)"
 }

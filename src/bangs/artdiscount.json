@@ -4,5 +4,5 @@
   "url": "https://www.artdiscount.co.uk/catalogsearch/result/?cat=0&q=%s",
   "description": "ArtDiscount",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

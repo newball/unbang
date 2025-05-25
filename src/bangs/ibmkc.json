@@ -4,5 +4,5 @@
   "url": "https://www.ibm.com/support/knowledgecenter/en/search/%s",
   "description": "IBM Knowledge Center",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

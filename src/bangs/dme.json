@@ -4,5 +4,5 @@
   "url": "https://eikaiwa.dmm.com/uknow/search/?keyword=%s",
   "description": "DMM英会話なんてuKnow?",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

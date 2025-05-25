@@ -4,5 +4,5 @@
   "url": "http://search.debian.org/cgi-bin/omega?DB=en&P=%s",
   "description": "Debian",
   "category": "Tech",
-  "sub-category": "Sysadmin (debian)"
+  "subcategory": "Sysadmin (debian)"
 }

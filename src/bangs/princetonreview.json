@@ -4,5 +4,5 @@
   "url": "https://www.princetonreview.com/search-results?q=%s",
   "description": "Princeton Review",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

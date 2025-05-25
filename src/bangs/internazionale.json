@@ -4,5 +4,5 @@
   "url": "http://www.internazionale.it/search/%s",
   "description": "Internazionale",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

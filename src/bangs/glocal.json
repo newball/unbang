@@ -4,5 +4,5 @@
   "url": "http://local.google.com/maps?f=q&source=s_q&geocode=&q=%s",
   "description": "Google Local",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

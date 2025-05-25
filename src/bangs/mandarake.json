@@ -4,5 +4,5 @@
   "url": "http://ekizo.mandarake.co.jp/shop/en/search.do?action=keyword&doujin=all&searchStrategy=keyword&keyword=%s",
   "description": "Mandarake",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

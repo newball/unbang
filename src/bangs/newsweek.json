@@ -4,5 +4,5 @@
   "url": "https://www.newsweek.com/search/site/%s",
   "description": "Newsweek",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

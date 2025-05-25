@@ -4,5 +4,5 @@
   "url": "https://reverb.com/marketplace?query=%s",
   "description": "Reverb",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

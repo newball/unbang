@@ -4,5 +4,5 @@
   "url": "http://www.biblegateway.com/keyword/?search=%s&version1=47&searchtype=all",
   "description": "BibleGateway",
   "category": "Research",
-  "sub-category": "Reference (religion)"
+  "subcategory": "Reference (religion)"
 }

@@ -4,5 +4,5 @@
   "url": "http://search.uncg.edu/search?q=%s&site=default_collection&client=default_frontend&output=xml_no_dtd&proxystylesheet=default_frontend",
   "description": "University of North Caroline at Greensboro",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

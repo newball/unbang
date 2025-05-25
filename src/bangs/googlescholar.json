@@ -4,5 +4,5 @@
   "url": "http://scholar.google.com/scholar?hl=en&q=%s",
   "description": "Google Scholar",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

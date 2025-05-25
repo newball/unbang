@@ -4,5 +4,5 @@
   "url": "http://www.zerozero.pt/search.php?op=all&inputString=%s",
   "description": "ZeroZero",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

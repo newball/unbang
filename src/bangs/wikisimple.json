@@ -4,5 +4,5 @@
   "url": "https://simple.wikipedia.org/wiki/Special:Search?search=%s",
   "description": "Wikipedia Simple",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

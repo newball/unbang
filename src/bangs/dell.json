@@ -4,5 +4,5 @@
   "url": "http://search.dell.com/results.aspx?s=gen&c=us&l=en&cs=&k=%s&cat=all",
   "description": "Dell",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

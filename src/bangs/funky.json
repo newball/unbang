@@ -4,5 +4,5 @@
   "url": "https://funkytime.tv/search?q=%s",
   "description": "Funkytime.tv",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

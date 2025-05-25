@@ -4,5 +4,5 @@
   "url": "http://steamcommunity.com/actions/Search?K=%s",
   "description": "Steam Community",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

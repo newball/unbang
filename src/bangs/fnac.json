@@ -4,5 +4,5 @@
   "url": "http://recherche.fnac.com/SearchResult/ResultList.aspx?Search=%s",
   "description": "fnac",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

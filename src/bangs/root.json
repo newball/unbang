@@ -4,5 +4,5 @@
   "url": "http://root.cern.ch/drupal/search/node/%s",
   "description": "ROOT",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.crunchyroll.com/search?from=&q=%s",
   "description": "Crunchyroll",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

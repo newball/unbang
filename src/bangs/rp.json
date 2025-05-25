@@ -4,5 +4,5 @@
   "url": "http://www.raspberrypi.org/phpBB3/search.php?keywords=%s",
   "description": "Raspberry Pi",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

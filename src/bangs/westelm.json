@@ -4,5 +4,5 @@
   "url": "http://www.westelm.com/search/results.html?words=%s",
   "description": "West Elm",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.werstreamt.es/filme-serien?q=%s&action_results=suchen",
   "description": "werstreamt.es",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

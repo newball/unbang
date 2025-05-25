@@ -4,5 +4,5 @@
   "url": "http://dictionary.reverso.net/english-french/%s",
   "description": "!reversofren",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

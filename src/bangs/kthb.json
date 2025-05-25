@@ -4,5 +4,5 @@
   "url": "https://kth-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,%s&vid=46KTH_VU1_L&search_scope=default_scope&sortby=rank&tab=default_tab&lang=en_US&mode=simple&fromRedirectFilter=true",
   "description": "KTH Library",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

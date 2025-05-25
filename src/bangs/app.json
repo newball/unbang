@@ -4,5 +4,5 @@
   "url": "https://www.amazon.com/s/search-alias%3Dpantry&field-keywords=%s",
   "description": "Amazon Prime Pantry",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

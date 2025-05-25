@@ -4,5 +4,5 @@
   "url": "https://dragonage.fandom.com/wiki/Special:Search?query=%s",
   "description": "Dragon Age wiki",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

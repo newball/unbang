@@ -4,5 +4,5 @@
   "url": "https://www.servershop24.de/?ActionCall=WebActionArticleSearch&BranchId=0&multishop_id=0&customer_class=9&lang=de&Params[SearchParam]=%s",
   "description": "servershop24",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

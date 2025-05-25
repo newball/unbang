@@ -4,5 +4,5 @@
   "url": "https://www.okkazeo.com/jeux/searchJeux?rech_nom=%s",
   "description": "Okkazeo",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

@@ -4,5 +4,5 @@
   "url": "http://crosswordtracker.com/answer/%s/",
   "description": "Crossword Tracker",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

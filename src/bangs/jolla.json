@@ -4,5 +4,5 @@
   "url": "https://together.jolla.com/questions/scope:all/sort:activity-desc/page:1/query:%s/",
   "description": "Jolla Questions",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

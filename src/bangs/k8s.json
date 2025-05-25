@@ -4,5 +4,5 @@
   "url": "https://kubernetes.io/search/?q=%s",
   "description": "Kubernetes",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

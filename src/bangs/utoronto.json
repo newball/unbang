@@ -4,5 +4,5 @@
   "url": "http://find.utoronto.ca/search?proxystylesheet=default_frontend&q=%s",
   "description": "University of Toronto",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

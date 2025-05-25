@@ -4,5 +4,5 @@
   "url": "http://allthetropes.wikia.com/wiki/Special:Search?search=%s",
   "description": "All the tropes",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

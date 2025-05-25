@@ -4,5 +4,5 @@
   "url": "http://api.kde.org/mapsearcher.php?class=%s&module=ALL&version=ALL&go=Go",
   "description": "KDE API Reference",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks (KDE)"
+  "subcategory": "Libraries/Frameworks (KDE)"
 }

@@ -4,5 +4,5 @@
   "url": "http://k-on.wikia.com/wiki/Special:Search?query=%s",
   "description": "K-ON! Wiki",
   "category": "Multimedia",
-  "sub-category": "Docs"
+  "subcategory": "Docs"
 }

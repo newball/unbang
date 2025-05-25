@@ -4,5 +4,5 @@
   "url": "/bang?q=%s",
   "description": "Search all !bangs",
   "category": "Tech",
-  "sub-category": "Search (DDG)"
+  "subcategory": "Search (DDG)"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.openstreetmap.org/node/%s",
   "description": "OpenStreetMap Node",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

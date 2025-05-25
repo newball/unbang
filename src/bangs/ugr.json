@@ -4,5 +4,5 @@
   "url": "http://www.ugr.es/pages/search?query=%s",
   "description": "Universidad de Granada",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

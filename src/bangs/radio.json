@@ -4,5 +4,5 @@
   "url": "https://radiopaedia.org/search?utf8=%E2%9C%93&q=%s&scope=all",
   "description": "https://radiopaedia.org/",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

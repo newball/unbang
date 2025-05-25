@@ -4,5 +4,5 @@
   "url": "https://blog.yechiel.me/search?q=%s",
   "description": "Rabbi On Rails",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

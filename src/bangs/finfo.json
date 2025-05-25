@@ -4,5 +4,5 @@
   "url": "https://www.francetvinfo.fr/recherche/?request=%s",
   "description": "France Info",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

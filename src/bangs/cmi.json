@@ -4,5 +4,5 @@
   "url": "http://library.cmi.ac.in/cgi-bin/koha/opac-search.pl?q=%s",
   "description": "CMI Library",
   "category": "Online Services",
-  "sub-category": "Search (Private)"
+  "subcategory": "Search (Private)"
 }

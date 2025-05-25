@@ -4,5 +4,5 @@
   "url": "http://www.geenstijl.nl/fastsearch?query=%s&zoek=zoek",
   "description": "Geenstijl",
   "category": "Entertainment",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

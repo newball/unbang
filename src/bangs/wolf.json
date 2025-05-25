@@ -4,5 +4,5 @@
   "url": "https://www.wolframalpha.com/input/?i=%s",
   "description": "Wolfram Alpha",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

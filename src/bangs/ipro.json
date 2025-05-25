@@ -4,5 +4,5 @@
   "url": "http://www.iprofesional.com/index.php?p=buscadorProfesional&texto=%s",
   "description": "iProfesional.com",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

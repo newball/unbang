@@ -4,5 +4,5 @@
   "url": "http://ap.org/Search/SearchResults?searchkeywords=%s",
   "description": "AP",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

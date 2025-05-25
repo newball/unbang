@@ -4,5 +4,5 @@
   "url": "https://www.youtube.com/results?search_query=%s",
   "description": "YouTube",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

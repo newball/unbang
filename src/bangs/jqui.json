@@ -4,5 +4,5 @@
   "url": "http://api.jqueryui.com/?s=%s",
   "description": "JQuery UI",
   "category": "Tech",
-  "sub-category": "Languages (javascript)"
+  "subcategory": "Languages (javascript)"
 }

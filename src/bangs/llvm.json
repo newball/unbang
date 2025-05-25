@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site%3Allvm.org+%s",
   "description": "LLVM Compiler Infrastructure",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

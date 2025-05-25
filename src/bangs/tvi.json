@@ -4,5 +4,5 @@
   "url": "http://www.tvi24.iol.pt/pesquisa/%s ",
   "description": "tvi24",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

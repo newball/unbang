@@ -4,5 +4,5 @@
   "url": "http://www.linternaute.com/encyclopedie/recherche/?f_libelle=%s",
   "description": "linternaute",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

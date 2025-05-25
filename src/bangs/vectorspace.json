@@ -4,5 +4,5 @@
   "url": "http://vectorspace.ai/recommend/app/crypto_discover?query=%s",
   "description": "Vectorspace AI",
   "category": "Research",
-  "sub-category": "Reference (fun)"
+  "subcategory": "Reference (fun)"
 }

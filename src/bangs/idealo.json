@@ -4,5 +4,5 @@
   "url": "http://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=%s",
   "description": "idealo.de",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

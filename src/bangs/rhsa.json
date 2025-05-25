@@ -4,5 +4,5 @@
   "url": "https://rhn.redhat.com/errata/RHSA-%s.html",
   "description": "Red Hat Security Advisory",
   "category": "Tech",
-  "sub-category": "Sysadmin (RedHat)"
+  "subcategory": "Sysadmin (RedHat)"
 }

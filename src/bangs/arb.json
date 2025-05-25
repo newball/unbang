@@ -4,5 +4,5 @@
   "url": "https://ruby.libhunt.com/search?query=%s",
   "description": "Awesome Ruby (LibHun)",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

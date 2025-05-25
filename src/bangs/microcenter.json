@@ -4,5 +4,5 @@
   "url": "http://www.microcenter.com/search/search_results.phtml?Ntt=%s",
   "description": "Micro Center",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=All&SearchWord=%s",
   "description": "aladin",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

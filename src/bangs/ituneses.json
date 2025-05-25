@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s+site%3Aitunes.apple.com%2Fes%2F",
   "description": "iTunes (Spain)",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

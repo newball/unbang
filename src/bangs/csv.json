@@ -4,5 +4,5 @@
   "url": "https://www.csv.de/artsearchresult.php?STICHWORT=%s",
   "description": "Computer Service & Vertrieb",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

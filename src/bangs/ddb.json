@@ -4,5 +4,5 @@
   "url": "https://www.deutsche-digitale-bibliothek.de/searchresults?query=%s",
   "description": "Deutsche Digitale Bibliothek",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

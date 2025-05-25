@@ -4,5 +4,5 @@
   "url": "https://google.com/search?tbm=isch&q=%s&tbs=imgo:1",
   "description": "Google Image",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

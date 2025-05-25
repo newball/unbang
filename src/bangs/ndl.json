@@ -4,5 +4,5 @@
   "url": "https://ndlonline.ndl.go.jp/#!/search?keyword=%s",
   "description": "National Diet Library Online",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.deutschlandradio.de/text-und-audio-suche.287.de.html?search%5Bsubmit%5D=1&search%5Bword%5D=%s",
   "description": "dradio.de",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.nfib.com/search/?query=%s",
   "description": "National Federation of Independent Business",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

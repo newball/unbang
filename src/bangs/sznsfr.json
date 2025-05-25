@@ -4,5 +4,5 @@
   "url": "https://slovnik.seznam.cz/fr-cz/?q=%s",
   "description": "Seznam.cz slovník Fr-Cz",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

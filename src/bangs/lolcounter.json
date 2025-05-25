@@ -4,5 +4,5 @@
   "url": "http://www.lolcounter.com/champions/%s",
   "description": "LOL counter",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

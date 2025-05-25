@@ -4,5 +4,5 @@
   "url": "http://www.sheetmusicdirect.com/Search.aspx?query=%s",
   "description": "sheetmusicdirect.com",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

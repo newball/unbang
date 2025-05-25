@@ -4,5 +4,5 @@
   "url": "http://stadtplan-ilmenau.de/?query=%s",
   "description": "Stadtplan Ilmenau",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

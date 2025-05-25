@@ -4,5 +4,5 @@
   "url": "http://www.seek.com.au/JobSearch?SearchFrom=quick&Keywords=%s",
   "description": "Seek",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

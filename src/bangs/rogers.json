@@ -4,5 +4,5 @@
   "url": "https://www.rogers.com/customer/search?searchTerm=%s",
   "description": "Rogers",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

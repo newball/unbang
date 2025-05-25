@@ -4,5 +4,5 @@
   "url": "http://www.cnet.com/es/busqueda/?query=%s",
   "description": "CNET en español",
   "category": "Tech",
-  "sub-category": "Blogs (intl)"
+  "subcategory": "Blogs (intl)"
 }

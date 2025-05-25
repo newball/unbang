@@ -4,5 +4,5 @@
   "url": "http://anarchopedia.org/Special:Search?search=%s",
   "description": "Anarchopedia",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

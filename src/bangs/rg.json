@@ -4,5 +4,5 @@
   "url": "http://rapgenius.com/search?q=%s",
   "description": "Rap Genius",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

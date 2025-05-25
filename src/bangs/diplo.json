@@ -4,5 +4,5 @@
   "url": "http://www.monde-diplomatique.fr/recherche?s=%s",
   "description": "Le Monde Diplomatique",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

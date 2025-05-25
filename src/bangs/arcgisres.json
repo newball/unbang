@@ -4,5 +4,5 @@
   "url": "http://resources.arcgis.com/content/search-result?searchKeyWord=%s",
   "description": "ArcGIS Resource Center",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

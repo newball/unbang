@@ -4,5 +4,5 @@
   "url": "https://scienceblog.com/?s=%s",
   "description": "ScienceBlog.com",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

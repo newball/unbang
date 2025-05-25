@@ -4,5 +4,5 @@
   "url": "http://%s.rtfd.io",
   "description": "Read the Docs",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.philly.com/philly/search/?search=y&adv=y&searchKeywords=%s&minscore=50&pagesize=20&sites=philly&fields=full&sections=5&queryType=all",
   "description": "The Philadelphia Inquirer",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

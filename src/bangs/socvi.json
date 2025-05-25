@@ -4,5 +4,5 @@
   "url": "https://stackoverflow.com/search?q=[labwindows]+%s",
   "description": "stackoverflow.com",
   "category": "Tech",
-  "sub-category": "Languages (other)"
+  "subcategory": "Languages (other)"
 }

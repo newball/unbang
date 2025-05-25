@@ -4,5 +4,5 @@
   "url": "http://stat.ripe.net/%s",
   "description": "RIPEstat",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.artstation.com/search?q=%s&sorting=recent",
   "description": "Artstation",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

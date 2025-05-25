@@ -4,5 +4,5 @@
   "url": "https://candidat.pole-emploi.fr/offres/recherche?motsCles=%s",
   "description": "www.pole-emploi.fr",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

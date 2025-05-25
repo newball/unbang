@@ -4,5 +4,5 @@
   "url": "https://notabug.org/explore/repos?q=%s",
   "description": "notabug.org (free code hosting)",
   "category": "Tech",
-  "sub-category": "Downloads (code)"
+  "subcategory": "Downloads (code)"
 }

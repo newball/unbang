@@ -4,5 +4,5 @@
   "url": "https://www.google.fi/search?q=%s",
   "description": "Google finland",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

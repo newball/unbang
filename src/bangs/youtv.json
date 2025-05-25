@@ -4,5 +4,5 @@
   "url": "https://www.youtv.de/suche?search[q]=%s",
   "description": "YouTV",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

@@ -4,5 +4,5 @@
   "url": "http://chiebukuro.search.yahoo.co.jp/search?p=%s",
   "description": "Yahoo! Japan Chiebukuro",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

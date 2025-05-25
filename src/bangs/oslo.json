@@ -4,5 +4,5 @@
   "url": "https://www.oslo.kommune.no/sokeresultater/?q=%s",
   "description": "Oslo kommune",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

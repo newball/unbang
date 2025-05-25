@@ -4,5 +4,5 @@
   "url": "http://www.wordreference.com/definition/%s",
   "description": "WordReference Definition",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

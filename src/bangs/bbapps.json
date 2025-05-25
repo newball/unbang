@@ -4,5 +4,5 @@
   "url": "http://appworld.blackberry.com/webstore/search/%s",
   "description": "BlackBerry App World",
   "category": "Tech",
-  "sub-category": "Downloads (apps)"
+  "subcategory": "Downloads (apps)"
 }

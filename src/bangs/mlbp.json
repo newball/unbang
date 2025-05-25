@@ -4,5 +4,5 @@
   "url": "http://espn.go.com/mlb/players?=1&search=%s ",
   "description": "MLB Player Search",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

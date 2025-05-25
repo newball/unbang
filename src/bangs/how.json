@@ -4,5 +4,5 @@
   "url": "https://howcode.org/search?q=%s",
   "description": "howCode",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

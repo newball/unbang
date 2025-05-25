@@ -4,5 +4,5 @@
   "url": "https://eic.rsc.org/searchresults?qkeyword=%s",
   "description": "Education in Chemistry",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

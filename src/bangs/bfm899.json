@@ -4,5 +4,5 @@
   "url": "https://www.bfm.my/podcast.html?qseaid=%s&pseaid=latest&iseaid=all&dsseaid=&deseaid=&tag=&prg=",
   "description": "BFM: The Business Radio Station",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

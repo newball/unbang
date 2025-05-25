@@ -4,5 +4,5 @@
   "url": "http://www.rug.nl/search/?searchtext=%s",
   "description": "University of Groningen",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

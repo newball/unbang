@@ -4,5 +4,5 @@
   "url": "https://learn.microsoft.com/en-us/dotnet/api/?term=%s",
   "description": ".NET API Browser",
   "category": "Tech",
-  "sub-category": "Languages (.net)"
+  "subcategory": "Languages (.net)"
 }

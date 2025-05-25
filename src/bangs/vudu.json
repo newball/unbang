@@ -4,5 +4,5 @@
   "url": "https://www.vudu.com/content/movies/search?searchString=%s",
   "description": "Vudu",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

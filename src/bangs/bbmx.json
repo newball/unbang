@@ -4,5 +4,5 @@
   "url": "https://www.bestbuy.com.mx/c/buscar-best-buy/buscar?query=%s",
   "description": "BestBuy México",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.kicktraq.com/search/?find=%s",
   "description": "Kicktraq",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

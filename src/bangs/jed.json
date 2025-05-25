@@ -4,5 +4,5 @@
   "url": "https://extensions.joomla.org/extensions/extension/?searchall=%s&filter%5Btags%5D%5B%5D=&filter%5Bcore_catid%5D=&filter%5Bincludes%5D=&filter%5Bversions%5D=&filter%5Btype%5D=&filter%5Bhasdemo%5D=&filter%5Bnewupdated%5D=&filter%5Bscore%5D=&dir=DESC&limitstart=&controller=filter&view=extension&layout=list&Itemid=145&clearorders=0&clearfilters=1",
   "description": "Joomla Extensions",
   "category": "Tech",
-  "sub-category": "Downloads (add-ons)"
+  "subcategory": "Downloads (add-ons)"
 }

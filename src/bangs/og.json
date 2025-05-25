@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s+site%3Aomniglot.com",
   "description": "Omniglot",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

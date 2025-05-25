@@ -4,5 +4,5 @@
   "url": "https://www.globetrotter.de/search?q=%s",
   "description": "Globetrotter",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

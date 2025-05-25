@@ -4,5 +4,5 @@
   "url": "https://www.hitta.se/sök?vad=%s",
   "description": "Hitta.se",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

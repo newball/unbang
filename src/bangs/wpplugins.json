@@ -4,5 +4,5 @@
   "url": "http://wordpress.org/extend/plugins/search.php?q=%s&sort=",
   "description": "WordPress.org Plugins",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

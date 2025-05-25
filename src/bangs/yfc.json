@@ -4,5 +4,5 @@
   "url": "http://finance.yahoo.com/echarts?s=%s",
   "description": "Yahoo Finance Charts",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

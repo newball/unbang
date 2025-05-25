@@ -4,5 +4,5 @@
   "url": "http://www.guardiana.net/MDG-Database/Search/?search_value=%s ",
   "description": "Guardiana",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

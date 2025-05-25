@@ -4,5 +4,5 @@
   "url": "https://www.travelgator.com/en/search/?locationquery=%s",
   "description": "TravelGator",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.counterpunch.org/search-results/?q=%s",
   "description": "Counterpunch",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

@@ -4,5 +4,5 @@
   "url": "http://nautil.us/search/%s",
   "description": "Nautil.us",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

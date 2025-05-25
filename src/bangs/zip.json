@@ -4,5 +4,5 @@
   "url": "https://www.zip-codes.com/search.asp?srch-type=fuzzy&q=%s",
   "description": "Zip-Codes.com",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

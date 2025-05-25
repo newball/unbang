@@ -4,5 +4,5 @@
   "url": "https://www.emich.edu/search/?q=%s",
   "description": "Eastern Michigan University",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

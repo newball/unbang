@@ -4,5 +4,5 @@
   "url": "http://thefederalist.com/?s=%s",
   "description": "www.thefederalist.com",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

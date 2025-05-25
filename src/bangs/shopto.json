@@ -4,5 +4,5 @@
   "url": "https://www.shopto.net/search/newSearchPage?Filter_department=&newsearch=%s",
   "description": "ShopTo.net",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.cardhoarder.com/cards?data[search]=%s",
   "description": "Cardhoarder",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

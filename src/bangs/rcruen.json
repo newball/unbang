@@ -4,5 +4,5 @@
   "url": "https://context.reverso.net/translation/russian-english/%s",
   "description": "Reverso Context Russian-English",
   "category": "Translation",
-  "sub-category": "General"
+  "subcategory": "General"
 }

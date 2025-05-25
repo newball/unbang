@@ -4,5 +4,5 @@
   "url": "http://www.giantbomb.com/search/?q=%s",
   "description": "GiantBomb",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

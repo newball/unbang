@@ -4,5 +4,5 @@
   "url": "http://decode.org/?q=%s",
   "description": "Decode",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

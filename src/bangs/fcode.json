@@ -4,5 +4,5 @@
   "url": "https://search.freecodecamp.org/?q=%s",
   "description": "freeCodeCamp",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

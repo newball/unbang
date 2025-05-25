@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site%3Aelixir-lang.org%2Fdocs+%s",
   "description": "Elixir Documentation",
   "category": "Tech",
-  "sub-category": "Languages (other)"
+  "subcategory": "Languages (other)"
 }

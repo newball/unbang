@@ -4,5 +4,5 @@
   "url": "https://buecher-doerner.buchhandlung.de/shop/quickSearch?searchString=%s",
   "description": "Bücher Dörner Onlineshop",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

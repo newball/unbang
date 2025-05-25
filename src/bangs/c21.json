@@ -4,5 +4,5 @@
   "url": "https://www.channel21.de/catalogsearch/result/?q=%s",
   "description": "Channel21",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

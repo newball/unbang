@@ -4,5 +4,5 @@
   "url": "http://www.nina.gov.pl/searchresult?query=%s",
   "description": "Narodowy Instytut Audiowizualny (nina.gov.pl)",
   "category": "Multimedia",
-  "sub-category": "General"
+  "subcategory": "General"
 }

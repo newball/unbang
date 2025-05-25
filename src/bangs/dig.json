@@ -4,5 +4,5 @@
   "url": "http://networking.ringofsaturn.com/Tools/dig.php?domain=ANY+%s",
   "description": "dig Lookup",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

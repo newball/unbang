@@ -4,5 +4,5 @@
   "url": "http://www.n-tv.de/suche/?a=search&at=all&q=%s&submit=Suche starten",
   "description": "n-tv",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

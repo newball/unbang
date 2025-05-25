@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s+site%3Aherber.de",
   "description": "Herber",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

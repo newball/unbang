@@ -4,5 +4,5 @@
   "url": "https://www.snort.org/search?query=%s",
   "description": "Snort",
   "category": "Tech",
-  "sub-category": "Sysadmin (network)"
+  "subcategory": "Sysadmin (network)"
 }

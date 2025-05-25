@@ -4,5 +4,5 @@
   "url": "https://www.timesnownews.com/latest-news?search=%s",
   "description": "Times Now",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

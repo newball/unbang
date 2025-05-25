@@ -4,5 +4,5 @@
   "url": "https://greasyfork.org/scripts/search?q=%s",
   "description": "Greasy Fork",
   "category": "Tech",
-  "sub-category": "Downloads (add-ons)"
+  "subcategory": "Downloads (add-ons)"
 }

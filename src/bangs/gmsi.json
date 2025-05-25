@@ -4,5 +4,5 @@
   "url": "https://www.google.si/maps/search/%s/",
   "description": "Google Maps SI",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

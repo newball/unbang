@@ -4,5 +4,5 @@
   "url": "http://www.sinemalar.com/ara/?type=all&page=1&q=%s",
   "description": "Sinemalar",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

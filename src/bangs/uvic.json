@@ -4,5 +4,5 @@
   "url": "https://www.uvic.ca/search/q/web.php?q=%s&t=4&p=1&g=true",
   "description": "The University of Victoria",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

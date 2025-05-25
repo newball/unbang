@@ -4,5 +4,5 @@
   "url": "http://www.onestopenglish.com/searchResults.aspx?keywords=%s",
   "description": "Onestopenglish",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

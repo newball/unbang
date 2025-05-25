@@ -4,5 +4,5 @@
   "url": "https://www.redmine.org/search?q=%s",
   "description": "Redmine",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

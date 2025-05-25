@@ -4,5 +4,5 @@
   "url": "https://media.ccc.de/search/?q=%s",
   "description": "media.ccc.de",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

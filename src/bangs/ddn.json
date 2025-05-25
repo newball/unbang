@@ -4,5 +4,5 @@
   "url": "https://www.daytondailynews.com/google-search/?q=%s",
   "description": "Dayton Daily News",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/?hl=es&tab=TT#auto/es/%s",
   "description": "Google Translate to Spanish",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

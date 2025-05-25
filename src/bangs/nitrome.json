@@ -4,5 +4,5 @@
   "url": "http://www.nitrome.com/search.php?id=%s&search_type=default",
   "description": "Nitrome",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

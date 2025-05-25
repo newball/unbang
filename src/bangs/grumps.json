@@ -4,5 +4,5 @@
   "url": "https://www.youtube.com/user/GameGrumps/search?query=%s",
   "description": "Game Grumps",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

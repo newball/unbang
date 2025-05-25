@@ -4,5 +4,5 @@
   "url": "http://labs.adsabs.harvard.edu/ui/cgi-bin/topicSearch?q=%s",
   "description": "NASA ADS Labs",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

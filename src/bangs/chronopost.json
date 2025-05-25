@@ -4,5 +4,5 @@
   "url": "http://www.chronopost.fr/fr/chrono_suivi_search?lang=fr&listeNumerosLT=%s",
   "description": "Chronopost France",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

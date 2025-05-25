@@ -4,5 +4,5 @@
   "url": "https://www.infowars.com/?s=%s",
   "description": "Infowars",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

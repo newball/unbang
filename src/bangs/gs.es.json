@@ -4,5 +4,5 @@
   "url": "https://www.google.es/search?tbm=shop&q=%s",
   "description": "Google Shopping ES",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

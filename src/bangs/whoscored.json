@@ -4,5 +4,5 @@
   "url": "http://www.whoscored.com/Search/?t=%s",
   "description": "WhoScored",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

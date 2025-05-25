@@ -4,5 +4,5 @@
   "url": "https://auspost.com.au/search?q=%s",
   "description": "Australia Post Postcode Lookup",
   "category": "Research",
-  "sub-category": "Local"
+  "subcategory": "Local"
 }

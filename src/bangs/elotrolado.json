@@ -4,5 +4,5 @@
   "url": "http://www.elotrolado.net/search.php?keywords=%s&type=h",
   "description": "ElOtroLado",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

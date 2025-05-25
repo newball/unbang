@@ -4,5 +4,5 @@
   "url": "https://www.xe.com/currencyconverter/convert/?From=CNY&To=EUR&Amount=%s",
   "description": "XE",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

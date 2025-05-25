@@ -4,5 +4,5 @@
   "url": "http://emonitoring.poczta-polska.pl/?numer=%s",
   "description": "Poczta Polska",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

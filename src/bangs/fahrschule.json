@@ -4,5 +4,5 @@
   "url": "http://www.fahrschule-berne.de/component/search/?searchword=%s",
   "description": "Fahrschule Berne",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

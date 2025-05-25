@@ -4,5 +4,5 @@
   "url": "http://www.searchum.umd.edu/search?site=UMCP&client=UMCP&proxystylesheet=UMCP&output=xml_no_dtd&q=%s",
   "description": "University of Maryland",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.esvbible.org/search/?q=%s",
   "description": "ESV Bible",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

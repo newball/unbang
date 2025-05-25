@@ -4,5 +4,5 @@
   "url": "http://theanarchistlibrary.org/search?query=%s",
   "description": "The Anarchist Library",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

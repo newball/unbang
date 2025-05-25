@@ -4,5 +4,5 @@
   "url": "https://devrant.com/search?term=%s",
   "description": "devRant",
   "category": "Tech",
-  "sub-category": "Blogs (intl)"
+  "subcategory": "Blogs (intl)"
 }

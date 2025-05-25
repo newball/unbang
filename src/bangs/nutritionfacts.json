@@ -4,5 +4,5 @@
   "url": "https://nutritionfacts.org/?s=%s",
   "description": "NutritionFacts.org",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

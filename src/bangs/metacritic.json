@@ -4,5 +4,5 @@
   "url": "http://www.metacritic.com/search/all/%s/results",
   "description": "Metacritic",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

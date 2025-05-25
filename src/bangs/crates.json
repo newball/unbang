@@ -4,5 +4,5 @@
   "url": "https://crates.io/search?q=%s",
   "description": "The Rust community's crate host",
   "category": "Tech",
-  "sub-category": "Languages (other)"
+  "subcategory": "Languages (other)"
 }

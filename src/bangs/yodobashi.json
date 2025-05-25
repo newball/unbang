@@ -4,5 +4,5 @@
   "url": "http://www.yodobashi.com/ec/category/index.html?word=%s",
   "description": "Yodobashi.com",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "https://initium.fandom.com/wiki/Special:Search?query=%s",
   "description": "initium wiki",
   "category": "Research",
-  "sub-category": "Reference (fun)"
+  "subcategory": "Reference (fun)"
 }

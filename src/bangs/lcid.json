@@ -4,5 +4,5 @@
   "url": "http://id.loc.gov/search/?q=%s&q=",
   "description": "Library of Congress Linked Data",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

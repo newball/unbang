@@ -4,5 +4,5 @@
   "url": "http://www.smogon.com/dex/xy/pokemon/%s",
   "description": "Smogon X/Y strategydex",
   "category": "Entertainment",
-  "sub-category": "Games (Pokemon)"
+  "subcategory": "Games (Pokemon)"
 }

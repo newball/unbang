@@ -4,5 +4,5 @@
   "url": "https://www.friskyradio.com/search/?q=%s",
   "description": "FRISKY Radio",
   "category": "Entertainment",
-  "sub-category": "Radio"
+  "subcategory": "Radio"
 }

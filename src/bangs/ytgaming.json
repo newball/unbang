@@ -4,5 +4,5 @@
   "url": "https://gaming.youtube.com/results?search_query=%s",
   "description": "YouTube Gaming",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

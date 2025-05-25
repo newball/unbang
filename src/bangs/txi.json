@@ -4,5 +4,5 @@
   "url": "http://www.ti.com/sitesearch/docs/universalsearch.tsp?searchTerm=%s",
   "description": "Texas Instruments",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

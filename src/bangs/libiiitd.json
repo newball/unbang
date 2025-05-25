@@ -4,5 +4,5 @@
   "url": "http://library.iiitd.edu.in/cgi-bin/koha/opac-search.pl?idx=&q=%s",
   "description": "IIITD library",
   "category": "Research",
-  "sub-category": "Local"
+  "subcategory": "Local"
 }

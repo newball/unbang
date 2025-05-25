@@ -4,5 +4,5 @@
   "url": "http://www.episodeworld.com/search/?searchitem=%s",
   "description": "Episode World",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

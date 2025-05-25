@@ -4,5 +4,5 @@
   "url": "https://www.aliexpress.com/wholesale?SearchText=%s",
   "description": "aliexpress.com",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

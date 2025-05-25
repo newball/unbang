@@ -4,5 +4,5 @@
   "url": "http://www.uschess.org/datapage/player-search.php?name=%s&state=ANY&ratingmin=&ratingmax=&order=N&rating=R&mode=Find",
   "description": "US Chess Federation",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

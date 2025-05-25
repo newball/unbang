@@ -4,5 +4,5 @@
   "url": "http://www.gamespot.com/search/?q=%s",
   "description": "GameSpot",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

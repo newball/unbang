@@ -4,5 +4,5 @@
   "url": "https://ojibwe.lib.umn.edu/search?utf8=%E2%9C%93&q=%s&commit=Search&type=ojibwe",
   "description": "https://ojibwe.lib.umn.edu",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

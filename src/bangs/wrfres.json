@@ -4,5 +4,5 @@
   "url": "http://www.wordreference.com/fres/%s",
   "description": "Wordreference",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

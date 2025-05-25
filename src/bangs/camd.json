@@ -4,5 +4,5 @@
   "url": "http://dictionary.cambridge.org/search/american-english/direct/?q=%s",
   "description": "http://dictionary.cambridge.org",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

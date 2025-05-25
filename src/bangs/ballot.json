@@ -4,5 +4,5 @@
   "url": "https://ballotpedia.org/wiki/index.php?search=%s",
   "description": "ballotpedia.org",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

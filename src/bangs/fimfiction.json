@@ -4,5 +4,5 @@
   "url": "https://www.fimfiction.net/stories?q=%s",
   "description": "FimFiction.net",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.lachainemeteo.com/synthese-previsions-meteo-%s",
   "description": "La chaine météo",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

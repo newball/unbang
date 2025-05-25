@@ -4,5 +4,5 @@
   "url": "http://www.xe.com/currencyconverter/convert/?Amount=%s&From=GBP&To=USD",
   "description": "xe",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

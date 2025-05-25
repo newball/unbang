@@ -4,5 +4,5 @@
   "url": "http://tyda.se/search/%s?lang%5B0%5D=la&lang%5B1%5D=sv",
   "description": "Tyda.​se Dictionary (Swedish-Latin)",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

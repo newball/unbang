@@ -4,5 +4,5 @@
   "url": "http://www.tanum.no/tanum/search/search.action?query=%s",
   "description": "Tanum",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

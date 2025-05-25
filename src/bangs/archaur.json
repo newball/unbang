@@ -4,5 +4,5 @@
   "url": "https://aur.archlinux.org/packages.php?O=0&K=%s&do_Search=Go",
   "description": "ArchLinux User Repository",
   "category": "Tech",
-  "sub-category": "Languages (other)"
+  "subcategory": "Languages (other)"
 }

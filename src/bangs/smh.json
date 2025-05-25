@@ -4,5 +4,5 @@
   "url": "http://www.smh.com.au/search?text=%s",
   "description": "The Sydney Morning Herald",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

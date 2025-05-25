@@ -4,5 +4,5 @@
   "url": "http://ufind.univie.ac.at/en/search.html?query=%s",
   "description": "University of Vienna",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

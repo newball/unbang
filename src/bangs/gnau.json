@@ -4,5 +4,5 @@
   "url": "https://news.google.com/search?q=%s&hl=en-AU&gl=AU&ceid=AU%3Aen",
   "description": "Google News Australia",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

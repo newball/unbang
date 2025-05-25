@@ -4,5 +4,5 @@
   "url": "https://www.ebay.com/csc/items/?_nkw=%s+&LH_Complete=1",
   "description": "eBay: completed listings",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

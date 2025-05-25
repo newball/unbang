@@ -4,5 +4,5 @@
   "url": "http://currentlydown.com/%s",
   "description": "Currently Down",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

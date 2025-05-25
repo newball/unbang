@@ -4,5 +4,5 @@
   "url": "http://www.yelp.com/search?find_desc=%s&find_loc=san+diego&ns=1",
   "description": "Yelp San Diego",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

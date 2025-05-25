@@ -4,5 +4,5 @@
   "url": "https://ordbokene.no/bm/search?scope=ei&perPage=20&q=%s",
   "description": "Norwegian Bokmål Dictionary",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

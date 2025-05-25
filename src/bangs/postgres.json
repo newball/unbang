@@ -4,5 +4,5 @@
   "url": "http://www.postgresql.org/search/?q=%s&a=1&submit=Search",
   "description": "Postgres",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

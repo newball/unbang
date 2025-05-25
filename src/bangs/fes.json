@@ -4,5 +4,5 @@
   "url": "http://www.folklore.ee/justkui/sonastik/?otsing=%s&paring=Otsi",
   "description": "Eesti fraseologismide elektrooniline alussõnastik",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

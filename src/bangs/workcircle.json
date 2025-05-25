@@ -4,5 +4,5 @@
   "url": "http://www.workcircle.com/jobs/?search=1&query=%s",
   "description": "Workcircle",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

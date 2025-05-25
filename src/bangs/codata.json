@@ -4,5 +4,5 @@
   "url": "https://physics.nist.gov/cgi-bin/cuu/Results?search_for=%s",
   "description": "https://physics.nist.gov/cuu/Constants/index.html",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

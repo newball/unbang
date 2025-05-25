@@ -4,5 +4,5 @@
   "url": "http://www.rugbyleagueproject.org/search/?q=%s",
   "description": "Rugby League Project",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

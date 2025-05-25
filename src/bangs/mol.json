@@ -4,5 +4,5 @@
   "url": "https://paikat.te-palvelut.fi/tpt/?searchPhrase=%s",
   "description": "TE-palvelut",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

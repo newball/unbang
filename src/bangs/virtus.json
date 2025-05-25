@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site:virtus.com+%s",
   "description": "Virtus Investment Partners",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

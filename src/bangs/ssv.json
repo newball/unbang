@@ -4,5 +4,5 @@
   "url": "https://www.shutterstock.com/search?searchterm=%s&image_type=vector",
   "description": "Shutterstock Vector",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

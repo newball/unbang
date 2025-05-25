@@ -4,5 +4,5 @@
   "url": "https://www.fass.se/LIF/result?userType=0&query=%s",
   "description": "Fass Vårdpersonal",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

@@ -4,5 +4,5 @@
   "url": "http://faulkner.lib.virginia.edu/results?type=transcription&q=%s ",
   "description": "Faulkner at Virginia",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

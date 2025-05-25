@@ -4,5 +4,5 @@
   "url": "https://jet.com/search?term=%s",
   "description": "Jet.com",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

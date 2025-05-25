@@ -4,5 +4,5 @@
   "url": "http://forvo.com/search/%s/",
   "description": "Forvo",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

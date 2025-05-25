@@ -4,5 +4,5 @@
   "url": "http://www.movieweb.com/search?search=%s",
   "description": "Movie Web",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

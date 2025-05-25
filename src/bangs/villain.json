@@ -4,5 +4,5 @@
   "url": "http://villains.wikia.com/wiki/Special:Search?search=%s",
   "description": "Villains Wikia",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

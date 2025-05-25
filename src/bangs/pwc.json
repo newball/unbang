@@ -4,5 +4,5 @@
   "url": "https://paperswithcode.com/search?q=%s",
   "description": "https://paperswithcode.com/",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

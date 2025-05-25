@@ -4,5 +4,5 @@
   "url": "https://bg.wikipedia.org/wiki/Special:Search?search=%s",
   "description": "Wikipedia (BG)",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

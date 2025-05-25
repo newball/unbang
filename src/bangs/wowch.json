@@ -4,5 +4,5 @@
   "url": "https://www.worldofwhisky.ch/suche?controller=search&orderby=position&orderway=desc&search_query=%s&submit_search=Search",
   "description": "World of Whisky",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

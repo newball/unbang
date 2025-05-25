@@ -4,5 +4,5 @@
   "url": "http://videogames.pricecharting.com/search?q=%s&type=videogames&go=Go",
   "description": "Price Charting",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

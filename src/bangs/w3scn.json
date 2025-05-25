@@ -4,5 +4,5 @@
   "url": "http://www.google.com/search?q=%s+site:w3school.com.cn",
   "description": "w3school中文",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

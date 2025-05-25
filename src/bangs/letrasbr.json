@@ -4,5 +4,5 @@
   "url": "http://letras.mus.br/?q=%s",
   "description": "letras.mus.br",
   "category": "Multimedia",
-  "sub-category": "Music (Lyrics)"
+  "subcategory": "Music (Lyrics)"
 }

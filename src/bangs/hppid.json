@@ -4,5 +4,5 @@
   "url": "https://id.healthyplusplus.com/search?q=%s",
   "description": "Healthy++ ID",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

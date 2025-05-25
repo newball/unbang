@@ -4,5 +4,5 @@
   "url": "http://checkshorturl.com/expand.php?u=%s",
   "description": "CheckShortURL",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

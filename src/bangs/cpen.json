@@ -4,5 +4,5 @@
   "url": "http://codepen.io/search?q=%s&limit=all&depth=everything&show_forks=false",
   "description": "Codepen",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

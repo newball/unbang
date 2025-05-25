@@ -4,5 +4,5 @@
   "url": "http://pitchfork.com/search/?query=%s",
   "description": "Pitchfork Media",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

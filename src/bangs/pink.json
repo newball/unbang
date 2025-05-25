@@ -4,5 +4,5 @@
   "url": "http://www.pinknews.co.uk/?s=%s ",
   "description": "PinkNews",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.blueletterbible.org/search/search.cfm?Criteria=%s&t=KJV#s=s_primary_0_1",
   "description": "Blue Letter Bible",
   "category": "Research",
-  "sub-category": "Reference (religion)"
+  "subcategory": "Reference (religion)"
 }

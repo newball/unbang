@@ -4,5 +4,5 @@
   "url": "http://jlptdictionary.com/index.php?pn=1&st=0&jl=0&njl=0&sb=0&obt=0&wpp=25&ot=0&k=%s",
   "description": "JLPT Dictionary",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

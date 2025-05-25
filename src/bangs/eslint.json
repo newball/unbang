@@ -4,5 +4,5 @@
   "url": "http://eslint.org/docs/rules/%s",
   "description": "ESLint",
   "category": "Tech",
-  "sub-category": "Languages (javascript)"
+  "subcategory": "Languages (javascript)"
 }

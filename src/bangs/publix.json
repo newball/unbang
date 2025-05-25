@@ -4,5 +4,5 @@
   "url": "http://www.publix.com/search?query=%s",
   "description": "Publix",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

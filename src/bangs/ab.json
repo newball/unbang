@@ -4,5 +4,5 @@
   "url": "http://airbitz.co/search?term=%s",
   "description": "Airbitz",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

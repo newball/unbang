@@ -4,5 +4,5 @@
   "url": "https://www.une.edu.au/search?collection=une-meta&query=%s",
   "description": "University of New England (Australia)",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

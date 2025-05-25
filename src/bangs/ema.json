@@ -4,5 +4,5 @@
   "url": "http://www.ema.europa.eu/ema/index.jsp?curl=pages%2Fincludes%2Fmedicines%2Fmedicines_landing_page.jsp&searchkwByEnter=true&quickSearch=%s",
   "description": "European Medicines Agency",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

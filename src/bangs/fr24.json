@@ -4,5 +4,5 @@
   "url": "https://www.flightradar24.com/data/flights/%s",
   "description": "Flight radar 24 - flights",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

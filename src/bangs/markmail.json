@@ -4,5 +4,5 @@
   "url": "http://markmail.org/search/?q=%s",
   "description": "MarkMail",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

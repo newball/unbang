@@ -4,5 +4,5 @@
   "url": "https://www.futurelearn.com/search?q=%s",
   "description": "futurelearn",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

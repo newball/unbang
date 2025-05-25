@@ -4,5 +4,5 @@
   "url": "https://www.deutsche-biographie.de/search?name=%s&kat=ndbadb&beruf=&orte=&geburtsjahr=&todesjahr=&gnd=&st=erw&facets=&cf=10&number=0&ot=&sl=[]&sort=",
   "description": "Deutsche Biographie (NDB/ADB)",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

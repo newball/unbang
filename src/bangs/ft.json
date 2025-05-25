@@ -4,5 +4,5 @@
   "url": "https://www.ft.com/search?q=%s",
   "description": "Financial Times",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

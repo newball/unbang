@@ -4,5 +4,5 @@
   "url": "http://www.babelfish.de/dict?query=%s&src=auto&dst=en&submit=übersetzen",
   "description": "babelfish.de",
   "category": "Research",
-  "sub-category": "Reference (words intl)"
+  "subcategory": "Reference (words intl)"
 }

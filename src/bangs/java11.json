@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site%3Adocs.oracle.com%2Fen%2Fjava%2Fjavase%2F11%2Fdocs%2Fapi%2F+%s",
   "description": "Java 11 documentation",
   "category": "Tech",
-  "sub-category": "Languages (java)"
+  "subcategory": "Languages (java)"
 }

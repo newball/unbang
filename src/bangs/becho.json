@@ -4,5 +4,5 @@
   "url": "https://www.bournemouthecho.co.uk/search/?search=%s",
   "description": "Bournemouth Echo",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

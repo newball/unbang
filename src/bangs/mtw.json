@@ -4,5 +4,5 @@
   "url": "http://wiki.minetest.net/index.php?search=%s",
   "description": "Minetest Wiki",
   "category": "Entertainment",
-  "sub-category": "Games (Minecraft)"
+  "subcategory": "Games (Minecraft)"
 }

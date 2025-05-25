@@ -4,5 +4,5 @@
   "url": "http://www.mamma.com/result.php?q=%s&type=web",
   "description": "Mamma",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

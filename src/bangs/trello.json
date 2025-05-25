@@ -4,5 +4,5 @@
   "url": "https://trello.com/search?q=%s",
   "description": "Trello",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=site%3Adoc.sagemath.org+%s",
   "description": "SageMath documentation",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

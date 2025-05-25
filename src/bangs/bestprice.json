@@ -4,5 +4,5 @@
   "url": "http://www.bestprice.gr/search?q=%s",
   "description": "BestPrice",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

@@ -4,5 +4,5 @@
   "url": "https://cgit.drupalcode.org/%s",
   "description": "drupalcode.org",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

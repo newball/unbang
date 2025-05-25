@@ -4,5 +4,5 @@
   "url": "http://auctions.search.yahoo.co.jp/search?p=%s",
   "description": "Yahoo! Auctions Japan",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.google.co.uk/search?q=%s&tbm=shop",
   "description": "Google Shopping UK",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

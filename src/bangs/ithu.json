@@ -4,5 +4,5 @@
   "url": "http://translate.google.com/#it/hu/%s",
   "description": "Google Translate it-hu",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

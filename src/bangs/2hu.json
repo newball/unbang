@@ -4,5 +4,5 @@
   "url": "https://touhoudb.com/Search?filter=%s",
   "description": "TouhouDB",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

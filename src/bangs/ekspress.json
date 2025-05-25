@@ -4,5 +4,5 @@
   "url": "http://ekspress.delfi.ee/otsing/?query=%s",
   "description": "Eesti Ekspress",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

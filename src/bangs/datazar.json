@@ -4,5 +4,5 @@
   "url": "https://www.datazar.com/search/data/?q=%s",
   "description": "Datazar",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

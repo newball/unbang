@@ -4,5 +4,5 @@
   "url": "http://ordnet.dk/ddo/ordbog?query=%s+&search=S%C3%B8g",
   "description": "Ordnet",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

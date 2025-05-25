@@ -4,5 +4,5 @@
   "url": "http://www.wionews.com/search?q=%s",
   "description": "WION",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

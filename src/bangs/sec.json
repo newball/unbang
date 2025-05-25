@@ -4,5 +4,5 @@
   "url": "https://secsearch.sec.gov/search?utf8=%3F&affiliate=secsearch&query=%s",
   "description": "SEC.gov",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

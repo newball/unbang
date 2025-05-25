@@ -4,5 +4,5 @@
   "url": "http://tatoeba.org/sentences/search?query=%s",
   "description": "Tatoebla",
   "category": "Research",
-  "sub-category": "Learning (intl)"
+  "subcategory": "Learning (intl)"
 }

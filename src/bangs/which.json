@@ -4,5 +4,5 @@
   "url": "https://search.which.co.uk/search?w=%s",
   "description": "Which",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

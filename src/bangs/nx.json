@@ -4,5 +4,5 @@
   "url": "http://networkx.lanl.gov/search.html?q=%s&check_keywords=yes&area=default",
   "description": "networkx",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

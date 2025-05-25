@@ -4,5 +4,5 @@
   "url": "http://issuu.com/search?q=%s",
   "description": "Issuu",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

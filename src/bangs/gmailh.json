@@ -4,5 +4,5 @@
   "url": "https://mail.google.com/mail/u/0/h/?s=q&q=%s&nvp_site_mail=Search%20Mail",
   "description": "Gmail",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

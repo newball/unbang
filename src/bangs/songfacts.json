@@ -4,5 +4,5 @@
   "url": "http://www.songfacts.com/search-song-1.php?%s",
   "description": "Songfacts",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

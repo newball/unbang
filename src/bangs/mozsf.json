@@ -4,5 +4,5 @@
   "url": "http://searchfox.org/mozilla-central/search?q=%s",
   "description": "Mozilla Searchfox",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

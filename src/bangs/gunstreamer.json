@@ -4,5 +4,5 @@
   "url": "https://gunstreamer.com/search?q=Test&idx=videos&p=0&keyword=%s",
   "description": "Gun Streamer",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

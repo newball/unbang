@@ -4,5 +4,5 @@
   "url": "http://ciied.xyz/?s=%s",
   "description": "CIIED",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

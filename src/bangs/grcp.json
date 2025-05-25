@@ -4,5 +4,5 @@
   "url": "https://www.grc.com/port_%s.htm",
   "description": "GRC Port Authority",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#sv/en/%s",
   "description": "Google Translate (Swedish to English)",
   "category": "Research",
-  "sub-category": "Reference (words intl)"
+  "subcategory": "Reference (words intl)"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.lesnumeriques.com/recherche?q=%s",
   "description": "Les Numériques",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

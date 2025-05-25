@@ -4,5 +4,5 @@
   "url": "http://musicbrainz.org/search?query=%s&type=work&method=indexed",
   "description": "MusicBrainz work",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

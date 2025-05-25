@@ -4,5 +4,5 @@
   "url": "https://www.linkedin.com/search/results/companies/?keywords=%s",
   "description": "linkedin.com/company",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

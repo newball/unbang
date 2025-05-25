@@ -4,5 +4,5 @@
   "url": "http://www.eng-tips.com/search.cfm?q=%s&action=search",
   "description": "Eng Tips",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

@@ -4,5 +4,5 @@
   "url": "http://alexa.com/search?q=%s",
   "description": "Alexa",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

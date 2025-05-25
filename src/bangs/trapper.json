@@ -4,5 +4,5 @@
   "url": "http://www.trappersreport.com/?q=%s",
   "description": "Trapper's Report",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

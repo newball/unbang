@@ -4,5 +4,5 @@
   "url": "https://www.chicagomusicexchange.com/search?query=%s",
   "description": "Chicago Music Exchange",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

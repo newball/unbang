@@ -4,5 +4,5 @@
   "url": "http://www.ticketmaster.co.uk/search?tm_link=tm_homeA_header_search&user_input=test&q=%s",
   "description": "Ticketmaster UK",
   "category": "Shopping",
-  "sub-category": "Online (intl)"
+  "subcategory": "Online (intl)"
 }

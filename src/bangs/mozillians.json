@@ -4,5 +4,5 @@
   "url": "https://mozillians.org/en-US/search/?q=%s",
   "description": "Mozillians",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.scope.dk/sogning?sog=%s ",
   "description": "scope.dk",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

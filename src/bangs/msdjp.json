@@ -4,5 +4,5 @@
   "url": "https://www.msdmanuals.com/ja-jp/ホーム/SearchResults?query=%s",
   "description": "MSD Manual Japanese",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

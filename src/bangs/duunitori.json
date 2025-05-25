@@ -4,5 +4,5 @@
   "url": "https://duunitori.fi/tyopaikat/?haku=%s",
   "description": "Duunitori",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

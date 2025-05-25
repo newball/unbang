@@ -4,5 +4,5 @@
   "url": "http://www.zerohedge.com/search/apachesolr_search/%s",
   "description": "ZeroHedge",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

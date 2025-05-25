@@ -4,5 +4,5 @@
   "url": "http://furaffinity.net/user/%s",
   "description": "FurAffinity User",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

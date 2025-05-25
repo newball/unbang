@@ -4,5 +4,5 @@
   "url": "https://en.oxforddictionaries.com/thesaurus/%s",
   "description": "Oxford Dictionary Thesaurus",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

@@ -4,5 +4,5 @@
   "url": "https://saidit.net/search?q=%s",
   "description": "SaidIt",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

@@ -4,5 +4,5 @@
   "url": "https://openhours.dk/spots?utf8=%E2%9C%93&q=%s",
   "description": "OpenHours Denmark",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

@@ -4,5 +4,5 @@
   "url": "https://carousell.com/search/products/?query=%s ",
   "description": "carousell",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

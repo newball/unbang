@@ -4,5 +4,5 @@
   "url": "https://access.redhat.com/search/#/?q=%s&p=1&srch=any&language=en&documentKind=Documentation",
   "description": "Red Hat Customer Portal",
   "category": "Tech",
-  "sub-category": "Sysadmin (RedHat)"
+  "subcategory": "Sysadmin (RedHat)"
 }

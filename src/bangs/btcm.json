@@ -4,5 +4,5 @@
   "url": "http://bitcoinity.org/markets/%s/USD",
   "description": "Bitcoinity Markets",
   "category": "Tech",
-  "sub-category": "Cryptocurrency"
+  "subcategory": "Cryptocurrency"
 }

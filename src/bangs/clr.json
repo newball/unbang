@@ -4,5 +4,5 @@
   "url": "https://clearlinux.org/search?search=%s",
   "description": "Clear Linux* Project",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

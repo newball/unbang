@@ -4,5 +4,5 @@
   "url": "http://de.pons.com/übersetzung?q=%s&l=dela&in=&lf=de",
   "description": "Pons",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

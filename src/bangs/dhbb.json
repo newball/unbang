@@ -4,5 +4,5 @@
   "url": "http://www.fgv.br/cpdoc/acervo/arquivo?busca= %s &TipoUD=0&MacroTipoUD=0&nItens=100",
   "description": "Dicionário Histórico e Biográfico Brasileiro do CPDOC",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

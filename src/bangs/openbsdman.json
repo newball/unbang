@@ -4,5 +4,5 @@
   "url": "http://man.openbsd.org/?query=%s&apropos=0&sec=0&arch=default&manpath=OpenBSD-current",
   "description": "man.openbsd.org",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

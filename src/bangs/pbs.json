@@ -4,5 +4,5 @@
   "url": "https://www.pbs.org/search/?q=%s",
   "description": "PBS",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

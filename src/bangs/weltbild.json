@@ -4,5 +4,5 @@
   "url": "https://www.weltbild.de/suche?q=%s",
   "description": "www.weltbild.de",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

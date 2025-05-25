@@ -4,5 +4,5 @@
   "url": "http://jsonlint.com/?json=%s",
   "description": "JsonLint",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

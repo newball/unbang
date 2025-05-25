@@ -4,5 +4,5 @@
   "url": "http://mathworld.wolfram.com/search/?query=%s&x=0&y=0",
   "description": "mathworld",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

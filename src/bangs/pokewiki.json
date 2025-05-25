@@ -4,5 +4,5 @@
   "url": "http://www.pokewiki.de/index.php?search=%s&button=&title=Spezial%3ASuche",
   "description": "PokéWiki",
   "category": "Entertainment",
-  "sub-category": "Games (Pokemon)"
+  "subcategory": "Games (Pokemon)"
 }

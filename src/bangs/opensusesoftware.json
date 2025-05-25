@@ -4,5 +4,5 @@
   "url": "http://software.opensuse.org/search?q=%s",
   "description": "OpenSUSE Software Search",
   "category": "Tech",
-  "sub-category": "Downloads (software)"
+  "subcategory": "Downloads (software)"
 }

@@ -4,5 +4,5 @@
   "url": "http://md5.gromweb.com/?md5=%s",
   "description": "MD5 reverse lookup",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

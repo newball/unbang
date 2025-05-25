@@ -4,5 +4,5 @@
   "url": "https://hollis.harvard.edu/primo-explore/search?query=any,contains,%s&tab=everything&search_scope=everything&vid=HVD2&lang=en_US&offset=0",
   "description": "HOLLIS",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

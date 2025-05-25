@@ -4,5 +4,5 @@
   "url": "http://www.dealtaker.com/site/search?q=%s",
   "description": "DealTaker",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

@@ -4,5 +4,5 @@
   "url": "https://community.ubnt.com/t5/forums/searchpage/tab/message?q=%s",
   "description": "Ubiquiti Forums",
   "category": "Tech",
-  "sub-category": "Sysadmin (network)"
+  "subcategory": "Sysadmin (network)"
 }

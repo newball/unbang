@@ -4,5 +4,5 @@
   "url": "https://www.loveseat.com/search/?term=%s",
   "description": "Loveseat",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.weather.com/search/enhancedlocalsearch?where=%s&loctypes=1/5/9/11/13/19/&from=hdr",
   "description": "Weather.com",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

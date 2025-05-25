@@ -4,5 +4,5 @@
   "url": "https://www.snapeda.com/search/?q=%s&search-type=parts",
   "description": "SnapEDA",
   "category": "Tech",
-  "sub-category": "Design"
+  "subcategory": "Design"
 }

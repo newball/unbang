@@ -4,5 +4,5 @@
   "url": "https://www.google.com/doodles?q=%s",
   "description": "Google Doodles",
   "category": "Multimedia",
-  "sub-category": "General"
+  "subcategory": "General"
 }

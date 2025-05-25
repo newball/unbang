@@ -4,5 +4,5 @@
   "url": "https://stats.stackexchange.com/search?q=%s",
   "description": "Cross Validated",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

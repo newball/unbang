@@ -4,5 +4,5 @@
   "url": "http://en.opensuse.org/Special:Search?search=%s",
   "description": "OpenSUSE",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

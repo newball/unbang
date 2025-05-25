@@ -4,5 +4,5 @@
   "url": "https://zenodo.org/search?q=%s",
   "description": "Zenodo",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.gyakorikerdesek.hu/kereses.php?keres=%s",
   "description": "Gyakorikérdések",
   "category": "Research",
-  "sub-category": "Local"
+  "subcategory": "Local"
 }

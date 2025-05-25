@@ -4,5 +4,5 @@
   "url": "http://www3.tivo.com/tivo-tco/search.do?dispatch=simplesearch&searchFor=%s",
   "description": "TiVo",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

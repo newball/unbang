@@ -4,5 +4,5 @@
   "url": "https://tienda.mercadona.es/search-results?query=%s",
   "description": "Mercadona",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

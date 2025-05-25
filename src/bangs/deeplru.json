@@ -4,5 +4,5 @@
   "url": "https://www.deepl.com/ru/translator#en/ru/%s",
   "description": "DeepL Translator (RU)",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

@@ -4,5 +4,5 @@
   "url": "http://wetten.overheid.nl/zoeken/rs/2,3,4/titel/%s/",
   "description": "Nederlandse wet- en regelgeving",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

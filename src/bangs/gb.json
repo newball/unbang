@@ -4,5 +4,5 @@
   "url": "http://books.google.com/books?q=%s&btnG=Search+Books",
   "description": "Google Books",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

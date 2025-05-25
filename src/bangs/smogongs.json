@@ -4,5 +4,5 @@
   "url": "http://www.smogon.com/dex/gs/pokemon/%s",
   "description": "Strategy Pokedex Gold Silver Smogon",
   "category": "Entertainment",
-  "sub-category": "Games (Pokemon)"
+  "subcategory": "Games (Pokemon)"
 }

@@ -4,5 +4,5 @@
   "url": "https://anilyrics.com/?s=%s",
   "description": "AniLyrics",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

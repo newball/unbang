@@ -4,5 +4,5 @@
   "url": "http://openports.se/search.php?so=%s",
   "description": "OpenPorts",
   "category": "Tech",
-  "sub-category": "Downloads (software)"
+  "subcategory": "Downloads (software)"
 }

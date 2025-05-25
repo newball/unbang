@@ -4,5 +4,5 @@
   "url": "http://www.ugodecoracion.com/buscar?controller=search&orderby=position&orderway=desc&search-cat-select=0&search_query=%s&submit_search=",
   "description": "UGO decoración",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

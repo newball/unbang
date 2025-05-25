@@ -4,5 +4,5 @@
   "url": "https://danbooru.donmai.us/posts?tags=%s+rating:safe",
   "description": "Danbooru",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

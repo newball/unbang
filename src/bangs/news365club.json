@@ -4,5 +4,5 @@
   "url": "http://news365.club/arama?q=%s",
   "description": "News365 Club",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

@@ -4,5 +4,5 @@
   "url": "https://godoc.org/?q=%s",
   "description": "GoDoc",
   "category": "Tech",
-  "sub-category": "Languages (go)"
+  "subcategory": "Languages (go)"
 }

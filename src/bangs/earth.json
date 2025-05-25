@@ -4,5 +4,5 @@
   "url": "https://earth.google.com/web/search/%s",
   "description": "Google Earth",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

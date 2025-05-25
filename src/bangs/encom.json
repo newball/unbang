@@ -4,5 +4,5 @@
   "url": "http://www.encyclopedia.com/searchresults.aspx?q=%s",
   "description": "Encyclopedia.com",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

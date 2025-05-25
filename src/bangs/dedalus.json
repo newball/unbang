@@ -4,5 +4,5 @@
   "url": "http://dedalus.usp.br/F/?func=find-b&request=%s",
   "description": "University of Sao Paulo Library",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

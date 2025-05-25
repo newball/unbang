@@ -4,5 +4,5 @@
   "url": "https://www.kahtahaber.com/search?q=%s",
   "description": "Kahta Haber",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

@@ -4,5 +4,5 @@
   "url": "https://packages.debian.org/search?searchon=contents&keywords=%s",
   "description": "Debian",
   "category": "Tech",
-  "sub-category": "Sysadmin (debian)"
+  "subcategory": "Sysadmin (debian)"
 }

@@ -4,5 +4,5 @@
   "url": "http://lyrics.wikia.com/Special:Search?search=%s&fulltext=Search",
   "description": "Lyric Wiki",
   "category": "Multimedia",
-  "sub-category": "Music (Lyrics)"
+  "subcategory": "Music (Lyrics)"
 }

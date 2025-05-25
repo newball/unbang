@@ -4,5 +4,5 @@
   "url": "http://search.books.com.tw/search/query/key/%s/cat/all",
   "description": "博客來",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

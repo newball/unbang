@@ -4,5 +4,5 @@
   "url": "https://www.planttherapy.com/search?Store_Code=PT&q=%s",
   "description": "Plant Therapy",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

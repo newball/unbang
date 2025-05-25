@@ -4,5 +4,5 @@
   "url": "https://openrepos.net/search/node/%s",
   "description": "OpenRepos",
   "category": "Tech",
-  "sub-category": "Sysadmin (packages)"
+  "subcategory": "Sysadmin (packages)"
 }

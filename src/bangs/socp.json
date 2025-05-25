@@ -4,5 +4,5 @@
   "url": "http://careers.stackoverflow.com/companies?searchTerm=%s",
   "description": "Stack Overflow Careers (Company Pages)",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

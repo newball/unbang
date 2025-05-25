@@ -4,5 +4,5 @@
   "url": "https://forum.finf.uni-hannover.de/index.php?form=Search&q=%s",
   "description": "Finf-Forum (Forum des Fachrats Informatik der Leibniz Universität Hannover)",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

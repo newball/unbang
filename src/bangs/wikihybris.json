@@ -4,5 +4,5 @@
   "url": "https://wiki.hybris.com/dosearchsite.action?queryString=%s",
   "description": "Hybris Wiki",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

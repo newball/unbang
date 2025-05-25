@@ -4,5 +4,5 @@
   "url": "http://foldoc.org/%s",
   "description": "FOLDOC (Free On-line Dictionary of Computing)",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

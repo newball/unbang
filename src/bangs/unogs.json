@@ -4,5 +4,5 @@
   "url": "http://unogs.com/search/?q=%s",
   "description": "uNoGS",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

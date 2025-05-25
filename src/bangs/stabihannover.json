@@ -4,5 +4,5 @@
   "url": "https://bibliothek.hannover-stadt.de/alswww3.dll/APS_ZONES?fn=SEARCH?q=%s",
   "description": "Stadtbibliothek Hannover OPAC",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

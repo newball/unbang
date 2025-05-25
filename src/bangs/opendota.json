@@ -4,5 +4,5 @@
   "url": "https://www.opendota.com/search?q=%s",
   "description": "OpenDota",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

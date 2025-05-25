@@ -4,5 +4,5 @@
   "url": "https://primo-pmtna01.hosted.exlibrisgroup.com/primo-explore/search?institution=UMB&vid=UMB&tab=default_tab&search_scope=UManitoba&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any,contains,%s&displayField=all&pcAvailabiltyMode=true&sortby=rank&lang=en_US",
   "description": "University of Manitoba Library",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

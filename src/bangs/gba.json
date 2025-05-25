@@ -4,5 +4,5 @@
   "url": "https://mail.google.com/mail/u/%s",
   "description": "Gmail by account",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.biblestudytools.com/search/?q=%s&t=kjv&s=Bibles",
   "description": "Strong's Exhaustive Concordance",
   "category": "Research",
-  "sub-category": "Reference (religion)"
+  "subcategory": "Reference (religion)"
 }

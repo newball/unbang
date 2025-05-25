@@ -4,5 +4,5 @@
   "url": "https://www.bing.com/weather/forecast?q=%s",
   "description": "Bing Weather",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

@@ -4,5 +4,5 @@
   "url": "https://npsd.party/?s=%s",
   "description": "НПСД",
   "category": "News",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

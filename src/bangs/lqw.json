@@ -4,5 +4,5 @@
   "url": "http://wiki.linuxquestions.org/index.php?search=%s",
   "description": "Linux Questions Wiki",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

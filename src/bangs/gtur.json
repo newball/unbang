@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#auto/ur/%s",
   "description": "Detect language to Urdu",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

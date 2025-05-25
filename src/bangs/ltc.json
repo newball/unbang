@@ -4,5 +4,5 @@
   "url": "https://litecoin.holytransaction.com/address/%s",
   "description": "Litecoin Holy Transaction",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.fotbollskanalen.se/sok?q=%s",
   "description": "Fotbollskanalen",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

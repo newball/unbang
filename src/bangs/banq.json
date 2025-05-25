@@ -4,5 +4,5 @@
   "url": "http://www.banq.qc.ca/techno/recherche/rms.html?keyword=%s&Recherche=tout&fonction=chercher&afficherPortail=checked&afficherIris=checked&afficherPistard=checked&afficherColNum=checked",
   "description": "Bibliothèque et Archives Nationales du Québec",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

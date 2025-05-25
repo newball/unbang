@@ -4,5 +4,5 @@
   "url": "https://answersingenesis.org/search/?q=%s",
   "description": "Answers in Genesis",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

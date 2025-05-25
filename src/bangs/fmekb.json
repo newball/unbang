@@ -4,5 +4,5 @@
   "url": "https://knowledge.safe.com/search.html?f=&type=question+OR+idea+OR+kbentry&c=&redirect=search%2Fsearch&sort=relevance&q=%s:",
   "description": "Safe.com knowledge center",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

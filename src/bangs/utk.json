@@ -4,5 +4,5 @@
   "url": "https://utk-almaprimo.hosted.exlibrisgroup.com/primo-explore/search?vid=01UTK&institution=01UTK&facet=rtype,exclude,reviews&facet=rtype,exclude,reference_entrys&search_scope=OneSearch&tab=default_tab&onCampus=false&group=GUEST&query=any,contains,%s&lang=en_US",
   "description": "UTK Library OneSearch",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

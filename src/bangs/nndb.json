@@ -4,5 +4,5 @@
   "url": "http://search.nndb.com/search/nndb.cgi?nndb=1&omenu=unspecified&query=%s",
   "description": "NNDB",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

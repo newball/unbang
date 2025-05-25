@@ -4,5 +4,5 @@
   "url": "http://www.postgresql.org/search?q=%s&a=1&submit=Search",
   "description": "PostgreSQL.org",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

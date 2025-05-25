@@ -4,5 +4,5 @@
   "url": "https://www.google.ch/search?q=%s",
   "description": "Google Suisse/Schweiz/Switzerland",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

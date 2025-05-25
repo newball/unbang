@@ -4,5 +4,5 @@
   "url": "https://en.wiktionary.org/wiki/%s",
   "description": "Wictionary",
   "category": "Research",
-  "sub-category": "Reference (words intl)"
+  "subcategory": "Reference (words intl)"
 }

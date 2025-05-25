@@ -4,5 +4,5 @@
   "url": "http://lookup.computerlanguage.com/host_app/search?cid=C999999&term=%s&lookup.x=0&lookup.y=0",
   "description": "Computer Desktop Encyclopedia",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

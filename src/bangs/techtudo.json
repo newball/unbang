@@ -4,5 +4,5 @@
   "url": "http://www.techtudo.com.br/busca/?q=%s",
   "description": "TechTudo",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

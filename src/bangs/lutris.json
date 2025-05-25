@@ -4,5 +4,5 @@
   "url": "https://lutris.net/games/?q=%s",
   "description": "Lutris - Open Gaming Platform",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

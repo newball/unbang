@@ -4,5 +4,5 @@
   "url": "https://coinmarketcap.com/search/?q=%s",
   "description": "CoinMarketCap",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

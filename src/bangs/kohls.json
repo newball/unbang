@@ -4,5 +4,5 @@
   "url": "http://www.kohls.com/search.jsp?search=%s",
   "description": "Kohl's",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

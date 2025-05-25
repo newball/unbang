@@ -4,5 +4,5 @@
   "url": "https://osf.io/search/?q=%s",
   "description": "Open Science Framework",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

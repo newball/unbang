@@ -4,5 +4,5 @@
   "url": "https://elcomercio.pe/buscar/?query=%s",
   "description": "El Comercio",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

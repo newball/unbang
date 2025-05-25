@@ -4,5 +4,5 @@
   "url": "https://www.atlasobscura.com/search?q=%s&kind=keyword",
   "description": "Atlas Obscura",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

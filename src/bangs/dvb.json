@@ -4,5 +4,5 @@
   "url": "https://m.dvb.de/de/verbindungsauskunft/verbindungen.do?vaform%5Bstartname%5D=%s",
   "description": "DVB",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.tdg.ch/services/recherche/?order=date&q=%s&submitSearch=Chercher&date=alle",
   "description": "Tribune de Genève",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

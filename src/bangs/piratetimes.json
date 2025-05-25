@@ -4,5 +4,5 @@
   "url": "http://piratetimes.net/?s=%s&submit=Search",
   "description": "Pirate Times",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

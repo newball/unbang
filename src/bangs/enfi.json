@@ -4,5 +4,5 @@
   "url": "http://translate.google.com/#en/fi/%s",
   "description": "Google Translate to Finnish",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

@@ -4,5 +4,5 @@
   "url": "http://dic.search.yahoo.co.jp/search?p=%s",
   "description": "Yahoo Search Japan",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

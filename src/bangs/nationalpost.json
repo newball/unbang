@@ -4,5 +4,5 @@
   "url": "https://nationalpost.com/?s=%s",
   "description": "National Post",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

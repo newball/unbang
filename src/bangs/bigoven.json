@@ -4,5 +4,5 @@
   "url": "http://www.bigoven.com/recipes/%s/best",
   "description": "BigOven",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

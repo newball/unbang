@@ -4,5 +4,5 @@
   "url": "http://wiki.call-cc.org/search?text=%s&ident=",
   "description": "Chicken Scheme Wiki",
   "category": "Tech",
-  "sub-category": "Languages (scheme)"
+  "subcategory": "Languages (scheme)"
 }

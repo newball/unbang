@@ -4,5 +4,5 @@
   "url": "https://smashbomb.com/search?keyword=%s",
   "description": "Smashbomb",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

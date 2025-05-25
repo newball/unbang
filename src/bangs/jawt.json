@@ -4,5 +4,5 @@
   "url": "https://ja.wiktionary.org/w/index.php?search=%s",
   "description": "Japanese Wiktionary",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

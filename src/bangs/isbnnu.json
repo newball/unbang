@@ -4,5 +4,5 @@
   "url": "http://isbn.nu/%s",
   "description": "isbn.nu",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

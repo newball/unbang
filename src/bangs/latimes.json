@@ -4,5 +4,5 @@
   "url": "http://search.latimes.com/search?q=%s",
   "description": "LATimes",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

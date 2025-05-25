@@ -4,5 +4,5 @@
   "url": "http://www.columbian.com/search/?q=%s",
   "description": "The Columbian",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

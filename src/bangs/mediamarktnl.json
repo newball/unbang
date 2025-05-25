@@ -4,5 +4,5 @@
   "url": "http://www.mediamarkt.nl/nl/search.html?query=%s&searchProfile=onlineshop&channel=mmnlnl",
   "description": "MediaMarkt Nederland",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

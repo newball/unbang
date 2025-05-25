@@ -4,5 +4,5 @@
   "url": "http://chemsearch.kovsky.net/index.php?q=%s",
   "description": "Chemistry Reference Resolver",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

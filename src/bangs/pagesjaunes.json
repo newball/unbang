@@ -4,5 +4,5 @@
   "url": "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=%s&monochamp=%s",
   "description": "Pages Jaunes",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

@@ -4,5 +4,5 @@
   "url": "http://pkgs.alpinelinux.org/packages?name=%s",
   "description": "Alpine packages",
   "category": "Tech",
-  "sub-category": "Sysadmin (packages)"
+  "subcategory": "Sysadmin (packages)"
 }

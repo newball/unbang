@@ -4,5 +4,5 @@
   "url": "http://ucblibraries.summon.serialssolutions.com/search?q=%s",
   "description": "University of Colorado Libraries Catalog",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

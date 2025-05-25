@@ -4,5 +4,5 @@
   "url": "http://www.chicagotribune.com/search/dispatcher.front?Query=%s&sortby=display_time+descending&subheader-search-button=Go&target=article",
   "description": "The Chicago Tribune",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

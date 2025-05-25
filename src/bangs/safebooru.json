@@ -4,5 +4,5 @@
   "url": "http://safebooru.org/index.php?page=post&s=list&tags=%s",
   "description": "Safebooru",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

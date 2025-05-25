@@ -4,5 +4,5 @@
   "url": "http://www.oed.com/search?searchType=dictionary&q=%s&_searchBtn=Search",
   "description": "OED - Oxford English Dictionary",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

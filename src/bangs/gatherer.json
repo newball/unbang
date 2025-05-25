@@ -4,5 +4,5 @@
   "url": "http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[%s]",
   "description": "Gatherer",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

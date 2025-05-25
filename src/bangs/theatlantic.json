@@ -4,5 +4,5 @@
   "url": "http://www.theatlantic.com/search/?q=%s ",
   "description": "The Atlantic",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

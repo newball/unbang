@@ -4,5 +4,5 @@
   "url": "http://www.netlib.org/lapack/complex16/%s.f",
   "description": "Netlib",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

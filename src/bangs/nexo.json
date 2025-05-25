@@ -4,5 +4,5 @@
   "url": "https://www.nexojornal.com.br/utility/search/?q=%s",
   "description": "Nexo Jornal",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

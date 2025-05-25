@@ -4,5 +4,5 @@
   "url": "http://aminet.net/search?query=%s",
   "description": "Aminet",
   "category": "Tech",
-  "sub-category": "Downloads"
+  "subcategory": "Downloads"
 }

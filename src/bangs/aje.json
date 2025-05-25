@@ -4,5 +4,5 @@
   "url": "http://www.aljazeera.com/Search/?q=%s",
   "description": "Al Jazeera (English)",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

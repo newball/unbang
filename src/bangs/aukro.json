@@ -4,5 +4,5 @@
   "url": "http://aukro.cz/listing.php/search?string=%s",
   "description": "Aukro",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

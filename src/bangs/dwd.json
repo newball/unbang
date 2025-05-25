@@ -4,5 +4,5 @@
   "url": "https://www.dwd.de/DE/wetter/warnungen/warnWetter_node.html?ort=%s",
   "description": "Deutscher Wetterdienst (WarnWetter)",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

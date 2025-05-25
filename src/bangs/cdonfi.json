@@ -4,5 +4,5 @@
   "url": "http://cdon.fi/search?q=%s",
   "description": "CDON.com (Finland/Suomi)",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

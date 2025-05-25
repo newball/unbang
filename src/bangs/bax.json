@@ -4,5 +4,5 @@
   "url": "http://www.bax-shop.nl/assortiment?keyword=%s&avz=true",
   "description": "Bax-shop",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

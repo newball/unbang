@@ -4,5 +4,5 @@
   "url": "http://news.search.yahoo.com/news/search?ei=UTF-8&fr=news-us-ss&c=&p=%s",
   "description": "Yahoo! News",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

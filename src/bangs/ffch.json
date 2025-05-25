@@ -4,5 +4,5 @@
   "url": "https://www.admin.ch/opc/search/?lang=fr&language[]=fr&product[]=fg&text=%s&lang=fr",
   "description": "admin.ch - Feuille fédérale",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

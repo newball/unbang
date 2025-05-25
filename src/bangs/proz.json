@@ -4,5 +4,5 @@
   "url": "https://www.proz.com/search/?term=%s",
   "description": "Proz.com Forums",
   "category": "Translation",
-  "sub-category": "General"
+  "subcategory": "General"
 }

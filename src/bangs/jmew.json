@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?q=%s site:wiki.jmonkeyengine.org",
   "description": "jMonkeyEngine WIki",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

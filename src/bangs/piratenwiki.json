@@ -4,5 +4,5 @@
   "url": "https://wiki.piratenpartei.de/Spezial:Suche?search=%s&fulltext=Suchen",
   "description": "Wiki der Piratenpartei Deutschland",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

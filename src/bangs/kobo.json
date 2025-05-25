@@ -4,5 +4,5 @@
   "url": "https://www.kobo.com/us/en/search?Query=%s",
   "description": "Kobo",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

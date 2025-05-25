@@ -4,5 +4,5 @@
   "url": "https://rcf.fr/rechercher/%s",
   "description": "RCF, Radio Chrétienne Francophone",
   "category": "Entertainment",
-  "sub-category": "Radio"
+  "subcategory": "Radio"
 }

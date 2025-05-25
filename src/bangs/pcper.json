@@ -4,5 +4,5 @@
   "url": "http://www.pcper.com/search/node/%s",
   "description": "PC Perspective",
   "category": "News",
-  "sub-category": "Specialty"
+  "subcategory": "Specialty"
 }

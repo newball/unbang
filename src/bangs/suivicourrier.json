@@ -4,5 +4,5 @@
   "url": "http://www.csuivi.courrier.laposte.fr/suivi/index?id=%s#",
   "description": "La Poste",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

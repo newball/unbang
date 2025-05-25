@@ -4,5 +4,5 @@
   "url": "http://translate.google.com/#auto/ko/%s",
   "description": "Google Translate to Korean",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

@@ -4,5 +4,5 @@
   "url": "https://ore.spongepowered.org/?q=%s",
   "description": "Package Repository for Minecraft",
   "category": "Tech",
-  "sub-category": "Downloads (add-ons)"
+  "subcategory": "Downloads (add-ons)"
 }

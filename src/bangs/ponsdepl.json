@@ -4,5 +4,5 @@
   "url": "http://en.pons.com/translate?q=%s&l=depl&in=&lf=de",
   "description": "Pons German-Polish",
   "category": "Research",
-  "sub-category": "Learning (intl)"
+  "subcategory": "Learning (intl)"
 }

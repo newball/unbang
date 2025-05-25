@@ -4,5 +4,5 @@
   "url": "https://support.mozilla.org/search?q=%s",
   "description": "Mozilla Support",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

@@ -4,5 +4,5 @@
   "url": "http://filmow.com/buscar/?q=%s",
   "description": "Filmow",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

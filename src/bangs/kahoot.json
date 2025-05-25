@@ -4,5 +4,5 @@
   "url": "https://create.kahoot.it/search?filter=1&query=science&tags=%s",
   "description": "Kahoot",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

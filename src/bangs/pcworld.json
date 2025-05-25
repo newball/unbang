@@ -4,5 +4,5 @@
   "url": "http://www.pcworld.com/search?qt=%s&tk=srch_top",
   "description": "PC World",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

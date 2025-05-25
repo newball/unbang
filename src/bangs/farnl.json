@@ -4,5 +4,5 @@
   "url": "https://nl.farnell.com/webapp/wcs/stores/servlet/Search?&st=%s",
   "description": "Farnell (NL)",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

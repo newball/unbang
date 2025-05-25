@@ -4,5 +4,5 @@
   "url": "https://build.opensuse.org/search?search_text=%s ",
   "description": "openSUSE Build Service",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

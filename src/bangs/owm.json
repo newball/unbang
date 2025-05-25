@@ -4,5 +4,5 @@
   "url": "http://openweathermap.org/find?q=%s",
   "description": "Open Weather Map",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

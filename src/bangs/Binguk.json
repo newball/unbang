@@ -4,5 +4,5 @@
   "url": "http://bing.co.uk/?q=%s",
   "description": "Bing UK",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

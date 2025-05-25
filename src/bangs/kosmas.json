@@ -4,5 +4,5 @@
   "url": "http://www.kosmas.cz/hledani/?query=%s",
   "description": "Kosmas",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

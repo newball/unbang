@@ -4,5 +4,5 @@
   "url": "http://www.biblionetka.pl/search.aspx?searchType=book_catalog&searchPhrase=%s",
   "description": "Biblionetka.pl",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

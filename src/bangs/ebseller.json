@@ -4,5 +4,5 @@
   "url": "http://www.ebay.com/sch/%s/m.html",
   "description": "eBay",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

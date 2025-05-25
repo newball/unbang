@@ -4,5 +4,5 @@
   "url": "http://www.baseball-reference.com/pl/player_search.cgi?search=%s",
   "description": "Baseball-Reference",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

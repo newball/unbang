@@ -4,5 +4,5 @@
   "url": "http://filmaster.com/search/?q=%s",
   "description": "Filmaster",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

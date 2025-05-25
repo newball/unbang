@@ -4,5 +4,5 @@
   "url": "http://www.labirint.ru/search/%s",
   "description": "Лабиринт",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

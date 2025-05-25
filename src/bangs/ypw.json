@@ -4,5 +4,5 @@
   "url": "https://wiki.yoctoproject.org/wiki/index.php?search=%s",
   "description": "Yocto Project Wiki",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

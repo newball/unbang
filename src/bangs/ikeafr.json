@@ -4,5 +4,5 @@
   "url": "http://www.ikea.com/fr/fr/search/?query=%s",
   "description": "Ikea FR",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

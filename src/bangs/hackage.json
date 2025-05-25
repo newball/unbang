@@ -4,5 +4,5 @@
   "url": "http://hackage.haskell.org/packages/search?terms=%s",
   "description": "Hackage",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

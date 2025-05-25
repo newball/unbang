@@ -4,5 +4,5 @@
   "url": "http://gdz.sub.uni-goettingen.de/en/dms/suche/?tx_goobit3_search[formquery]=%s&tx_goobit3_search[order]=1&tx_goobit3_search[default]=METADATA&tx_goobit3_search[orderfield]=BYCREATOR&tx_goobit3_search[link]=0",
   "description": "Göttinger Digitalsieriungszentrum",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

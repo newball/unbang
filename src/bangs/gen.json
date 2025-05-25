@@ -4,5 +4,5 @@
   "url": "http://genius.com/search?q=%s",
   "description": "Genius",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

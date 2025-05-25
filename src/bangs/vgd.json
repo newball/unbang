@@ -4,5 +4,5 @@
   "url": "http://v.gd/create.php?url=%s",
   "description": "v.gd",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

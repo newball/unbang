@@ -4,5 +4,5 @@
   "url": "http://library.deakin.edu.au/search/?searchtype=X&SORT=D&searcharg=%s&searchscope=1",
   "description": "Deakin University Library",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

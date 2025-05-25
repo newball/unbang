@@ -4,5 +4,5 @@
   "url": "https://docs.bazel.build/search.html?q=%s",
   "description": "bazel documentation",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.hyves.nl/search/hyver/?searchterms=%s",
   "description": "Hyves",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

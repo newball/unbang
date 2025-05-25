@@ -4,5 +4,5 @@
   "url": "https://login.salesforce.com/_ui/search/ui/UnifiedSearchResults?str=%s",
   "description": "Salesforce",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

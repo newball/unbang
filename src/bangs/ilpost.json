@@ -4,5 +4,5 @@
   "url": "http://www.ilpost.it/?s=%s",
   "description": "Il Post",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

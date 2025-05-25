@@ -4,5 +4,5 @@
   "url": "https://www.mountainproject.com/search?q=%s",
   "description": "Mountain Project",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

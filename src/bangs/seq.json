@@ -4,5 +4,5 @@
   "url": "http://oeis.org/search?q=%s",
   "description": "The Online Encyclopedia Of Integer Sequences",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

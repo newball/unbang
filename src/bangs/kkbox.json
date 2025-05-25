@@ -4,5 +4,5 @@
   "url": "https://www.kkbox.com/search.php?search=mix&word=%s",
   "description": "KKBOX",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

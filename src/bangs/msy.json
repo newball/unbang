@@ -4,5 +4,5 @@
   "url": "http://www.msy.com.au/saonline/search?controller=search&orderby=position&orderway=desc&search_query=%s&submit_search=Go",
   "description": "MSY (SA)",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

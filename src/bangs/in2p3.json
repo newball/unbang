@@ -4,5 +4,5 @@
   "url": "https://annuaire.in2p3.fr/search/%s",
   "description": "Annuaire in2p3 - CNRS",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

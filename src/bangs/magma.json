@@ -4,5 +4,5 @@
   "url": "http://magma.maths.usyd.edu.au/magma/handbook/search?query=%s&intrinsics=1",
   "description": "Magma",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

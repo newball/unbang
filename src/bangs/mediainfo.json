@@ -4,5 +4,5 @@
   "url": "http://media.info/search?s=%s",
   "description": "media.info",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

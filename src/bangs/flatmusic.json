@@ -4,5 +4,5 @@
   "url": "https://flat.io/search?q=%s",
   "description": "Flat",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

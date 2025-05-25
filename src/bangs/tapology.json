@@ -4,5 +4,5 @@
   "url": "https://www.tapology.com/search?term=%s",
   "description": "Tapology",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

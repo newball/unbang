@@ -4,5 +4,5 @@
   "url": "https://www.fosshub.com/search/%s",
   "description": "FossHub",
   "category": "Tech",
-  "sub-category": "Downloads"
+  "subcategory": "Downloads"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.meteoswiss.admin.ch/home/search.html?query=%s ",
   "description": "Meteo Suisse / Schweiz",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

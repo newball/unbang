@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#auto/af/%s",
   "description": "Detect language to Afrikaans",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

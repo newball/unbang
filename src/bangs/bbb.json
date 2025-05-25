@@ -4,5 +4,5 @@
   "url": "http://www.bbb.org/us/Find-Business-Reviews/name/%s",
   "description": "Better Business Bureau",
   "category": "Research",
-  "sub-category": "Local"
+  "subcategory": "Local"
 }

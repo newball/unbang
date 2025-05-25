@@ -4,5 +4,5 @@
   "url": "http://dict-navi.com/de/dictionary/list/?type=search&search_term=%s",
   "description": "Dict-Na'vi.com",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

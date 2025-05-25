@@ -4,5 +4,5 @@
   "url": "https://www.re3data.org/search?query=%s",
   "description": "Registry of Research Data Repositories",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "https://translate.google.com/#auto/km/%s",
   "description": "Detect language to Khmer",
   "category": "Translation",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

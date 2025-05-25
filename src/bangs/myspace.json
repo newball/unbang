@@ -4,5 +4,5 @@
   "url": "http://searchservice.myspace.com/index.cfm?fuseaction=sitesearch.results&orig=search_Header&origpfc=Splash&type=People&qry=%s&submit=Search",
   "description": "MySpace",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

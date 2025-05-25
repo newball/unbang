@@ -4,5 +4,5 @@
   "url": "http://orthonet.sdv.fr/php/rech_mot.php?mot=%s&x=0&y=0",
   "description": "orthonet",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

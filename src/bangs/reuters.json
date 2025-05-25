@@ -4,5 +4,5 @@
   "url": "https://www.reuters.com/search/news?blob=%s",
   "description": "Reuters",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

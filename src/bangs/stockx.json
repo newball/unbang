@@ -4,5 +4,5 @@
   "url": "https://stockx.com/search?s=%s",
   "description": "StockX",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.zap.co.il/search.aspx?keyword=%s",
   "description": "Zap",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

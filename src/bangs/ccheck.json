@@ -4,5 +4,5 @@
   "url": "https://www.codecheck.info/product.search?q=%s&OK=Suchen",
   "description": "Codecheck",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

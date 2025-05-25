@@ -4,5 +4,5 @@
   "url": "https://inkbunny.net/submissionsviewall.php?mode=search&stringtype=and&keywords=yes&title=yes&description=yes&text=%s",
   "description": "Inkbunny",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.verbformen.de/konjugation/?i=%s",
   "description": "VerbFormen",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

@@ -4,5 +4,5 @@
   "url": "http://stackoverflow.com/search?q=[java]+%s",
   "description": "Java questions on Stack Overflow",
   "category": "Tech",
-  "sub-category": "Languages (java)"
+  "subcategory": "Languages (java)"
 }

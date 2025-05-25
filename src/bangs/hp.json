@@ -4,5 +4,5 @@
   "url": "http://search.hp.com/query.html?lang=en&submit.x=0&submit.y=0&qt=%s&la=en&cc=us",
   "description": "HP",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

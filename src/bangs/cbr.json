@@ -4,5 +4,5 @@
   "url": "http://comicbookroundup.com/search_results.php?f_search=%s",
   "description": "Comic Book Roundup",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

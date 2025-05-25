@@ -4,5 +4,5 @@
   "url": "https://developer.blackberry.com/native/search/?search=%s&searchaction=Search",
   "description": "BlackBerry Developer",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

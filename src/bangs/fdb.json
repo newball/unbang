@@ -4,5 +4,5 @@
   "url": "http://www.fdb.cz/vyhledavani.php?co=vsechno&hledat=%s",
   "description": "Filmová Databáze",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

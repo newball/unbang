@@ -4,5 +4,5 @@
   "url": "http://arstechnica.co.uk/search/?query=%s",
   "description": "Ars Technica UK",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.pinterest.com/search/pins/?q=%s",
   "description": "Pinterest",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.elgiganten.se/search?SearchTerm=%s",
   "description": "Elgiganten",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

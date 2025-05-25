@@ -4,5 +4,5 @@
   "url": "https://www.film.nl/?q=%s",
   "description": "Film.nl",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

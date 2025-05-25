@@ -4,5 +4,5 @@
   "url": "http://www.cinemagay.it/ricerca.asp?tipo=0&campo=%s&Submit=Cerca",
   "description": "CinemaGay",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

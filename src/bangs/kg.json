@@ -4,5 +4,5 @@
   "url": "http://kg-portal.ru/?search&s_str= %s",
   "description": "KG-Portal",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

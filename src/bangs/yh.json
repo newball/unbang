@@ -4,5 +4,5 @@
   "url": "https://yandex.com.tr/harita/?text=%s",
   "description": "Yandex Haritalar",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

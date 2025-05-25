@@ -4,5 +4,5 @@
   "url": "http://www.cheapshark.com/search?q=%s",
   "description": "CheapShark",
   "category": "Shopping",
-  "sub-category": "Online (deals)"
+  "subcategory": "Online (deals)"
 }

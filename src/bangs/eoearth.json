@@ -4,5 +4,5 @@
   "url": "http://www.eoearth.org/results/all/?searchnext=true&q=%s",
   "description": "Encyclopedia of Earth",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.trustpilot.com/search?query=%s",
   "description": "Trustpilot",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

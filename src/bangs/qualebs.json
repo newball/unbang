@@ -4,5 +4,5 @@
   "url": "https://www.qualebs.com/techbay/search?query=%s",
   "description": "Techbay",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

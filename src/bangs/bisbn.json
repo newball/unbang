@@ -4,5 +4,5 @@
   "url": "http://bookprice.co/isbn/%s",
   "description": "BookPrice",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

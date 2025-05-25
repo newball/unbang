@@ -4,5 +4,5 @@
   "url": "https://bevvy.co/search?q=%s",
   "description": "Bevvy",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.nps.gov/search/?affiliate=nps&query=%s",
   "description": "National Park Service (USA)",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

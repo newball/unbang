@@ -4,5 +4,5 @@
   "url": "http://sporing.posten.no/sporing.html?lang=no&q=%s&submit=",
   "description": "Posten",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

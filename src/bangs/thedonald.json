@@ -4,5 +4,5 @@
   "url": "https://www.reddit.com/r/the_donald/search?q=%s&restrict_sr=on&sort=relevance&t=all",
   "description": "Reddit r/the_donald",
   "category": "News",
-  "sub-category": "Aggregators"
+  "subcategory": "Aggregators"
 }

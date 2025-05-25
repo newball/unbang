@@ -4,5 +4,5 @@
   "url": "https://www.biblegateway.com/quicksearch/?quicksearch=%s&qs_version=NKJV",
   "description": "Bible Gateway: New King James Version (NKJV)",
   "category": "Research",
-  "sub-category": "Reference (religion)"
+  "subcategory": "Reference (religion)"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.bilibili.com/search?keyword=%s:",
   "description": "bilibili",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

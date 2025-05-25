@@ -4,5 +4,5 @@
   "url": "https://ndr.de/suche10.html?query=%s",
   "description": "NDR.de - Der Norddeutsche Rundfunk",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

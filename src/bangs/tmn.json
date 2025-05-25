@@ -4,5 +4,5 @@
   "url": "http://www.travelmath.com/nearest-airport/%s",
   "description": "TravelMath",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

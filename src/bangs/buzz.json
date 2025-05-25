@@ -4,5 +4,5 @@
   "url": "http://www.playbuzz.com/search?query=%s",
   "description": "Playbuzz",
   "category": "Entertainment",
-  "sub-category": "Misc"
+  "subcategory": "Misc"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.jstor.org/action/doBasicSearch?Query=%s",
   "description": "JSTOR",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

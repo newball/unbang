@@ -4,5 +4,5 @@
   "url": "https://www.tunefind.com/search/site?q=%s",
   "description": "TuneFind",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.ultimate-guitar.com/search.php?search_type=title&value=%s",
   "description": "Ultimate Guitar",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

@@ -4,5 +4,5 @@
   "url": "https://dict.naver.com/frkodict/#/search?query=%s",
   "description": "Naver Dictionnaire Fr",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

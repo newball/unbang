@@ -4,5 +4,5 @@
   "url": "https://www.uni-mannheim.de/suche/?tx_solr%5Bq%5D=%s",
   "description": "Uni Mannheim",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

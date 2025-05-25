@@ -4,5 +4,5 @@
   "url": "https://cooking.nytimes.com/search?q=%s",
   "description": "NYT Cooking",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

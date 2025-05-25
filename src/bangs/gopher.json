@@ -4,5 +4,5 @@
   "url": "http://gopher.floodgap.com/gopher/gw?ss=gopher%3A%2F%2Fgopher.floodgap.com%3A70%2F7%2Fv2%2Fvs&sq=%s",
   "description": "Floodgap Gopher Proxy",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

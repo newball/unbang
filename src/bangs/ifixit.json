@@ -4,5 +4,5 @@
   "url": "http://www.ifixit.com/search?x=0&y=0&query=%s",
   "description": "iFixit",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

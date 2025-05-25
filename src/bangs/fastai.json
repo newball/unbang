@@ -4,5 +4,5 @@
   "url": "https://forums.fast.ai/search?q=%s",
   "description": "fast.ai forums",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

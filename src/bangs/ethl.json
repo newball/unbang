@@ -4,5 +4,5 @@
   "url": "https://search.library.ethz.ch/primo-explore/search?query=any,contains,%s&tab=default_tab&search_scope=default_scope&vid=DADS&lang=en_US&offset=0",
   "description": "ETH Library",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

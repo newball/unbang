@@ -4,5 +4,5 @@
   "url": "https://boards.4chan.org/news/catalog#s=%s",
   "description": "4chan's /news/ board",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

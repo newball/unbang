@@ -4,5 +4,5 @@
   "url": "http://www.polito.it/search/?lang=it&q=%s",
   "description": "Politecnico di Torino",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "https://search.bodybuilding.com/slp/full?context=all&query=%s",
   "description": "bodybuilding.com",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.gesetze-im-internet.de/cgi-bin/htsearch?config=Gesamt_bmjhome2005&method=and&words=%s",
   "description": "Gesetze im Internet",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

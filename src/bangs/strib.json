@@ -4,5 +4,5 @@
   "url": "http://www.startribune.com/search/?q=%s",
   "description": "Star Tribune",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

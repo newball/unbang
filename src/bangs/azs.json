@@ -4,5 +4,5 @@
   "url": "https://azspot.net/search/%s",
   "description": "AZspot",
   "category": "News",
-  "sub-category": "Magazine"
+  "subcategory": "Magazine"
 }

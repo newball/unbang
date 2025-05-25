@@ -4,5 +4,5 @@
   "url": "https://www.vodafone.com/content/index/search.html?search-query=%s",
   "description": "Vodafone",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

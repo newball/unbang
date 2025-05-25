@@ -4,5 +4,5 @@
   "url": "https://www.google.fr/search?q=site:www.superphysique.org+%s",
   "description": "Superphysique",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

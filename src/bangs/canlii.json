@@ -4,5 +4,5 @@
   "url": "http://www.canlii.ca/en/search/search.do?all=%s",
   "description": "CanLII",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

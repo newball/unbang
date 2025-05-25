@@ -4,5 +4,5 @@
   "url": "http://www.sfgate.com/search/?action=search&query=%s",
   "description": "SFGate",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

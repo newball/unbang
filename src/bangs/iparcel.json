@@ -4,5 +4,5 @@
   "url": "https://tracking.i-parcel.com/secure/track.aspx?track=%s",
   "description": "i-parcel Tracking",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

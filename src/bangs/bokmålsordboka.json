@@ -4,5 +4,5 @@
   "url": "http://ordbok.uib.no/perl/ordbok.cgi?OPP=+%s&ant_bokmaal=5&ant_nynorsk=5&bokmaal=+&ordbok=bokmaal",
   "description": "http://ordbok.uib.no/",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

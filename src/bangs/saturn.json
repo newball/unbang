@@ -4,5 +4,5 @@
   "url": "https://www.saturn.de/de/search.html?query=%s&searchProfile=onlineshop&channel=sedede",
   "description": "Saturn",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

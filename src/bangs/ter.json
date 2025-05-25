@@ -4,5 +4,5 @@
   "url": "https://extensions.typo3.org/?L=0&id=1&tx_solr[q]=%s",
   "description": "TYPO3 Extension repository",
   "category": "Tech",
-  "sub-category": "Downloads"
+  "subcategory": "Downloads"
 }

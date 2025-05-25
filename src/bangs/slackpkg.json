@@ -4,5 +4,5 @@
   "url": "http://packages.slackware.com/?search=%s",
   "description": "Slackware Package Browser",
   "category": "Tech",
-  "sub-category": "Sysadmin (packages)"
+  "subcategory": "Sysadmin (packages)"
 }

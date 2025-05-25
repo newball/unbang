@@ -4,5 +4,5 @@
   "url": "https://mobile.bahn.de/bin/mobil/bhftafel.exe/dox?input=%s&productsFilter=1111111111000000&time=actual&maxJourneys=40&start=Suchen&boardType=Abfahrt&rt=1",
   "description": "Abfahrtsplan Deutsche Bahn",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

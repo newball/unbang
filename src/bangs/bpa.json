@@ -4,5 +4,5 @@
   "url": "http://bulbapedia.bulbagarden.net/wiki/%s",
   "description": "Bulbapedia",
   "category": "Entertainment",
-  "sub-category": "Games (Pokemon)"
+  "subcategory": "Games (Pokemon)"
 }

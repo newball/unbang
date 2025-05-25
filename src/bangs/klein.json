@@ -4,5 +4,5 @@
   "url": "https://www.ebay-kleinanzeigen.de/%s/k0",
   "description": "eBay Kleinanzeigen",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

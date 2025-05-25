@@ -4,5 +4,5 @@
   "url": "https://multcolib.org/search/site/%s",
   "description": "Multnomah County Library",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

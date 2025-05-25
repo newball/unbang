@@ -4,5 +4,5 @@
   "url": "https://www.tradingview.com/chart/?symbol=%s",
   "description": "TradingView",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

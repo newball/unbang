@@ -4,5 +4,5 @@
   "url": "http://www.npr.org/search/index.php?query=%s",
   "description": "NPR.org",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

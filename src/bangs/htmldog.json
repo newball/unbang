@@ -4,5 +4,5 @@
   "url": "http://www.htmldog.com/search/?q=%s",
   "description": "HTML Dog",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

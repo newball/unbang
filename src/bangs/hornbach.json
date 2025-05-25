@@ -4,5 +4,5 @@
   "url": "https://www.hornbach.de/shop/suche/sortiment/%s",
   "description": "Hornbach",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

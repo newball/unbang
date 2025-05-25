@@ -4,5 +4,5 @@
   "url": "http://es.gizmodo.com/search?q=%s",
   "description": "Gizmodo en español",
   "category": "Tech",
-  "sub-category": "Blogs (intl)"
+  "subcategory": "Blogs (intl)"
 }

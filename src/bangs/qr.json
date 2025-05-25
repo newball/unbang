@@ -4,5 +4,5 @@
   "url": "https://api.qrserver.com/v1/create-qr-code/?qzone=1&data=%s",
   "description": "QR Code Search",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

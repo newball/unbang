@@ -4,5 +4,5 @@
   "url": "http://lista.mercadolivre.com.br/%s",
   "description": "Mercado Livre",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

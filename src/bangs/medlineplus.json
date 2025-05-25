@@ -4,5 +4,5 @@
   "url": "http://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&query=%s",
   "description": "MedlinePlus",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

@@ -4,5 +4,5 @@
   "url": "http://catalogue.bnf.fr/rechercher.do?motRecherche=%s",
   "description": "Catalogue BNF",
   "category": "Research",
-  "sub-category": "Reference"
+  "subcategory": "Reference"
 }

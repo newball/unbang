@@ -4,5 +4,5 @@
   "url": "http://www.france3.fr/recherche?s=%s",
   "description": "France 3",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

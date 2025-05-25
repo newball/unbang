@@ -4,5 +4,5 @@
   "url": "http://www.cymath.com/answer.php?q=%s",
   "description": "Cymath",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

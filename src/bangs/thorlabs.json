@@ -4,5 +4,5 @@
   "url": "http://www.thorlabs.de/search/thorsearch.cfm?search=%s",
   "description": "Thorlabs",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

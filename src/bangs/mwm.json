@@ -4,5 +4,5 @@
   "url": "https://meta.wikimedia.org/w/index.php?&title=Special%3ASearch&go=Go&search=%s",
   "description": "Wikimedia Meta",
   "category": "Multimedia",
-  "sub-category": "General"
+  "subcategory": "General"
 }

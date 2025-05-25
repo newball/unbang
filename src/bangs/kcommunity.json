@@ -4,5 +4,5 @@
   "url": "http://community.kde.org/index.php?title=Special:Search&search=%s",
   "description": "KDE Community Wiki",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

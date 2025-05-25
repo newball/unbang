@@ -4,5 +4,5 @@
   "url": "https://voterly.com/search/politicians?q=%s",
   "description": "Voterly",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

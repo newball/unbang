@@ -4,5 +4,5 @@
   "url": "https://www.easymerchant.co.uk/?product_cat=&s=%s&post_type=product",
   "description": "EasyMerchant",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

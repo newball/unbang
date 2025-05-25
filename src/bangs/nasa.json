@@ -4,5 +4,5 @@
   "url": "https://nasasearch.nasa.gov/search?query=%s&affiliate=nasa&utf8=%E2%9C%93",
   "description": "NASA",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

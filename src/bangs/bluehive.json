@@ -4,5 +4,5 @@
   "url": "https://www.bluehive.com/providers/search/%s",
   "description": "BlueHive",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.ishr.ch/advanced-search?term=%s ",
   "description": "ishr.ch",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

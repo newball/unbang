@@ -4,5 +4,5 @@
   "url": "https://www.linkcorreios.com.br/%s",
   "description": "Correios",
   "category": "Online Services",
-  "sub-category": "Tracking"
+  "subcategory": "Tracking"
 }

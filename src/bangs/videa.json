@@ -4,5 +4,5 @@
   "url": "https://videa.seznam.cz/?q=%s",
   "description": "Seznam Videa",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

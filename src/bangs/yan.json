@@ -4,5 +4,5 @@
   "url": "https://yandex.com/search/?text=%s",
   "description": "yandex.com",
   "category": "Online Services",
-  "sub-category": "Search (Private)"
+  "subcategory": "Search (Private)"
 }

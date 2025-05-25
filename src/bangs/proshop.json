@@ -4,5 +4,5 @@
   "url": "https://www.proshop.dk/?s=%s",
   "description": "Proshop",
   "category": "Shopping",
-  "sub-category": "Tech"
+  "subcategory": "Tech"
 }

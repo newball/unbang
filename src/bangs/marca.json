@@ -4,5 +4,5 @@
   "url": "http://cgi.marca.com/buscador/archivo_marca.html?q=%s",
   "description": "Marca",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

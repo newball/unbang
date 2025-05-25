@@ -4,5 +4,5 @@
   "url": "http://www.wjec.co.uk/search/pf_search.php?q=%s",
   "description": "WJEC",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

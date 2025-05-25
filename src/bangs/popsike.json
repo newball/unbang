@@ -4,5 +4,5 @@
   "url": "http://www.popsike.com/php/quicksearch.php?searchtext=%s",
   "description": "Popsike",
   "category": "Entertainment",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

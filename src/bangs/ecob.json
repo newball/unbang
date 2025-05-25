@@ -4,5 +4,5 @@
   "url": "https://www.ecobookstore.de/shop/quickSearch?searchString=%s",
   "description": "ecobookstore.de/",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

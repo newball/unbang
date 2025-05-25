@@ -4,5 +4,5 @@
   "url": "http://www.askapatient.com/searchresults.asp?searchField=%s ",
   "description": "AskaPatient.com",
   "category": "Research",
-  "sub-category": "Health"
+  "subcategory": "Health"
 }

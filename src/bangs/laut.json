@@ -4,5 +4,5 @@
   "url": "https://www.laut.de/Suche?q=%s",
   "description": "laut.de",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

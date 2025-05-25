@@ -4,5 +4,5 @@
   "url": "http://bloons.wikia.com/search?query=%s",
   "description": "Bloons Wiki",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

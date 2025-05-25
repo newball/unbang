@@ -4,5 +4,5 @@
   "url": "https://www.rtbf.be/info/recherche?q=%s",
   "description": "RTBF Info",
   "category": "News",
-  "sub-category": "Broadcast"
+  "subcategory": "Broadcast"
 }

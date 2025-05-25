@@ -4,5 +4,5 @@
   "url": "http://tel.search.ch/?q=%s",
   "description": "Search.ch Phonebook (Switzerland)",
   "category": "Online Services",
-  "sub-category": "Social (intl)"
+  "subcategory": "Social (intl)"
 }

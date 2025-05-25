@@ -4,5 +4,5 @@
   "url": "https://pubmed.ncbi.nlm.nih.gov/?term=%s",
   "description": "PubMed Labs",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

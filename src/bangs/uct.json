@@ -4,5 +4,5 @@
   "url": "http://unicode-table.com/search/?q=%s",
   "description": "unicode-table.com",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

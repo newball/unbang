@@ -4,5 +4,5 @@
   "url": "http://www.mvdbase.com/index.php?term=%s&field=vid&page=results",
   "description": "mvdbase",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

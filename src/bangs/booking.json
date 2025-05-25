@@ -4,5 +4,5 @@
   "url": "http://www.booking.com/searchresults.html?ss=%s&si=ai",
   "description": "Booking",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

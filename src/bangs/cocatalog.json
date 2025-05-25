@@ -4,5 +4,5 @@
   "url": "http://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?Search_Arg=%s&Search_Code=TALL&CNT=25&HIST=1",
   "description": "Copyright Catalog (title)",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

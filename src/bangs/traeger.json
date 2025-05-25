@@ -4,5 +4,5 @@
   "url": "https://www.traegergrills.com/recipes?types=RecipeDetail&term=%s",
   "description": "Traeger Pellet Grill Recipes",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

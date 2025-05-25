@@ -4,5 +4,5 @@
   "url": "http://goodfil.ms/search?term=%s",
   "description": "Goodfil.ms",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

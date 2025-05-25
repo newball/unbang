@@ -4,5 +4,5 @@
   "url": "http://www.buienalarm.nl/location/%s",
   "description": "http://www.buienalarm.nl/",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

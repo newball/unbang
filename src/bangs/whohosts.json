@@ -4,5 +4,5 @@
   "url": "http://www.whoishostingthis.com/?q=%s",
   "description": "Who Is Hosting This?",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

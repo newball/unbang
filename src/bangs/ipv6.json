@@ -4,5 +4,5 @@
   "url": "http://ready.chair6.net/?url=%s",
   "description": "chair6.net",
   "category": "Tech",
-  "sub-category": "Sysadmin (network)"
+  "subcategory": "Sysadmin (network)"
 }

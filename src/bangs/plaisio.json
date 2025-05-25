@@ -4,5 +4,5 @@
   "url": "http://www.plaisio.gr/search.aspx?query=%s&catalogue=all&mode=searchlist",
   "description": "plaisio.gr",
   "category": "Shopping",
-  "sub-category": "Big box/department"
+  "subcategory": "Big box/department"
 }

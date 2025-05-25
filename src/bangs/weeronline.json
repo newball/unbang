@@ -4,5 +4,5 @@
   "url": "http://www.weeronline.nl/Go/Search/SearchResults?searchCriteria=%s&pageIndex=0&searchAction=WeatherInformation",
   "description": "Weeronline",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

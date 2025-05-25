@@ -4,5 +4,5 @@
   "url": "http://biblio.vub.ac.be/vubissmartweb/List.csp?SearchT1=%s&Index1=Vuballewoorden&Database=3_UB01&OpacLanguage=dut&NumberToRetrieve=20&SearchMethod=Find_1&SearchTerm1=test&Profile=Default&PreviousList=Start&PageType=Start&EncodedRequest=p*20W*20*0A*20*B5*86*DF*D6*7E*A7*15*FD*0F*5E&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&MyChannelCount=",
   "description": "Bibliotheek van de Vrije Univesiteit Brussel",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

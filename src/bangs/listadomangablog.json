@@ -4,5 +4,5 @@
   "url": "http://www.listadomanga.es/blog/?s=%s",
   "description": "Listado manga blog",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

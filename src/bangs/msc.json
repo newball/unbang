@@ -4,5 +4,5 @@
   "url": "http://www.ams.org/mathscinet/search/publications.html?pg4=ALLF&s4=%s",
   "description": "AMS MathScinet",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

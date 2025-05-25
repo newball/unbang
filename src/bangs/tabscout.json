@@ -4,5 +4,5 @@
   "url": "http://www.tabscout.com/?action=search&query=%s",
   "description": "TabScout",
   "category": "Multimedia",
-  "sub-category": "Music (Lyrics)"
+  "subcategory": "Music (Lyrics)"
 }

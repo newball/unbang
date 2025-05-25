@@ -4,5 +4,5 @@
   "url": "http://www.chegg.com/search/%s",
   "description": "Chegg",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

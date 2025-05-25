@@ -4,5 +4,5 @@
   "url": "https://community.sophos.com/search?q=%s",
   "description": "Sophos Community",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

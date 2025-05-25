@@ -4,5 +4,5 @@
   "url": "http://www.theglobeandmail.com/search/?q=%s",
   "description": "The Globe and Mail",
   "category": "News",
-  "sub-category": "Newspaper (intl)"
+  "subcategory": "Newspaper (intl)"
 }

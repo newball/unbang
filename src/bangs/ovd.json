@@ -4,5 +4,5 @@
   "url": "https://www.overdrive.com/search?q=%s",
   "description": "OverDrive",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

@@ -4,5 +4,5 @@
   "url": "https://portal.dnb.de/opac.htm?query=%s&method=simpleSearch",
   "description": "Deutsche National Bibliothek",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "http://openradar.appspot.com/search?query=%s",
   "description": "OpenRadar",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

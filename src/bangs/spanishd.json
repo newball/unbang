@@ -4,5 +4,5 @@
   "url": "http://www.spanishdict.com/translate/%s",
   "description": "SpanishDict",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

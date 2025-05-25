@@ -4,5 +4,5 @@
   "url": "http://xkcd.com/%s/",
   "description": "XKCD Number",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

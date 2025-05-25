@@ -4,5 +4,5 @@
   "url": "https://booko.com.au/products/search?product_type=3&q=%s",
   "description": "Booko (eBooks)",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

@@ -4,5 +4,5 @@
   "url": "https://wiki.zimbra.com/index.php?search=%s",
   "description": "Zimbra wiki",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

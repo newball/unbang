@@ -4,5 +4,5 @@
   "url": "http://www.theonion.com/search/?q=%s",
   "description": "The Onion",
   "category": "Entertainment",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

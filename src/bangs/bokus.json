@@ -4,5 +4,5 @@
   "url": "http://www.bokus.com/cgi-bin/product_search.cgi?ac_used=no&search_word=%s",
   "description": "Bokus",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

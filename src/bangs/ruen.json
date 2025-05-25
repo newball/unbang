@@ -4,5 +4,5 @@
   "url": "http://translate.google.com/#ru/en/%s",
   "description": "Google Translate",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

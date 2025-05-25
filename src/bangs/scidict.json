@@ -4,5 +4,5 @@
   "url": "http://thesciencedictionary.org/search2/?q=%s",
   "description": "The Science Dictionary",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

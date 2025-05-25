@@ -4,5 +4,5 @@
   "url": "http://www.ctv.ca/searchResult.aspx?q=%s",
   "description": "CTV",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

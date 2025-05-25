@@ -4,5 +4,5 @@
   "url": "https://wiki.eclipse.org/index.php?search=%s&fulltext=search",
   "description": "Eclipse Wiki (Eclipsepedia)",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

@@ -4,5 +4,5 @@
   "url": "https://launchpad.support.sap.com/#/softwarecenter/search/%s",
   "description": "SAP Downloads",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

@@ -4,5 +4,5 @@
   "url": "http://dsc.discovery.com/search.htm?terms=%s",
   "description": "Discovery.com",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

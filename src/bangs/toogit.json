@@ -4,5 +4,5 @@
   "url": "https://www.toogit.com/find-freelance-jobs?JobSearch%5Bsearch_text%5D=%s",
   "description": "Toogit",
   "category": "Online Services",
-  "sub-category": "Jobs"
+  "subcategory": "Jobs"
 }

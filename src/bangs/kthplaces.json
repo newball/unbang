@@ -4,5 +4,5 @@
   "url": "https://www.kth.se/places/search/?query=%s",
   "description": "https://www.kth.se/places/",
   "category": "Online Services",
-  "sub-category": "Maps"
+  "subcategory": "Maps"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.wetteronline.de/wetter/%s",
   "description": "Wetter Online",
   "category": "News",
-  "sub-category": "Weather"
+  "subcategory": "Weather"
 }

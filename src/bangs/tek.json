@@ -4,5 +4,5 @@
   "url": "https://www.tek.com/search?keywords=%s",
   "description": "Tektronix",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

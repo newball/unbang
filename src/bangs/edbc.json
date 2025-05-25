@@ -4,5 +4,5 @@
   "url": "https://www.exploit-db.com/search/?action=search&text=%s",
   "description": "exploit-db.com",
   "category": "Tech",
-  "sub-category": "Downloads (code)"
+  "subcategory": "Downloads (code)"
 }

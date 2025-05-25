@@ -4,5 +4,5 @@
   "url": "https://salsa.debian.org/search?search=%s",
   "description": "Debian Salsa",
   "category": "Tech",
-  "sub-category": "Sysadmin (debian)"
+  "subcategory": "Sysadmin (debian)"
 }

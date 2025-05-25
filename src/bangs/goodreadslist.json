@@ -4,5 +4,5 @@
   "url": "https://www.goodreads.com/search?search_type=lists&q=%s",
   "description": "Goodreads Lists",
   "category": "Multimedia",
-  "sub-category": "Books"
+  "subcategory": "Books"
 }

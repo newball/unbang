@@ -4,5 +4,5 @@
   "url": "http://search.lib.sfu.ca/?q=%s",
   "description": "Simon Fraser University Library",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

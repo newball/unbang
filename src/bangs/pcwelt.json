@@ -4,5 +4,5 @@
   "url": "https://www.pcwelt.de/suche?searchStr=%s",
   "description": "PC-Welt",
   "category": "News",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

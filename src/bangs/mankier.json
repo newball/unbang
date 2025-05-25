@@ -4,5 +4,5 @@
   "url": "http://www.mankier.com/?q=%s",
   "description": "Mankier",
   "category": "Tech",
-  "sub-category": "Sysadmin (man)"
+  "subcategory": "Sysadmin (man)"
 }

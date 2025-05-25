@@ -4,5 +4,5 @@
   "url": "https://www.lesoir.be/archives/recherche?word=%s&sort=date%20desc&datefilter=lastyear&form_build_id=form-OccakxlLTXnbavxnbgZGoqHzkT0bEeOrjy3PPlFais4&form_id=dpidamwidgets_damsimplesearch_content_type_search_form",
   "description": "Le Soir",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

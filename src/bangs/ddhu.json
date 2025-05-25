@@ -4,5 +4,5 @@
   "url": "http://duckduckhack.com/u/%s",
   "description": "DuckDuckHack",
   "category": "Online Services",
-  "sub-category": "Search (DDG)"
+  "subcategory": "Search (DDG)"
 }

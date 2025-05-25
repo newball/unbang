@@ -4,5 +4,5 @@
   "url": "https://stellarfed.org/search?q=%s",
   "description": "StellarFed",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

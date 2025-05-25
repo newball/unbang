@@ -4,5 +4,5 @@
   "url": "http://iscrapapp.com/?SearchTxt=%s",
   "description": "iScrapApp",
   "category": "Research",
-  "sub-category": "Local"
+  "subcategory": "Local"
 }

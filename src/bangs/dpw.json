@@ -4,5 +4,5 @@
   "url": "http://www.dogpile.com/search/web?q=%s",
   "description": "Dogpile Web",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

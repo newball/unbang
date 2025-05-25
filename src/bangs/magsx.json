@@ -4,5 +4,5 @@
   "url": "http://magento.stackexchange.com/search?q=%s",
   "description": "http://magento.stackexchange.com/",
   "category": "Tech",
-  "sub-category": "Languages (php)"
+  "subcategory": "Languages (php)"
 }

@@ -4,5 +4,5 @@
   "url": "https://ru.wikivoyage.org/wiki/Special:Search?search=%s&go=Go",
   "description": "Wikivoyage (Русский)",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

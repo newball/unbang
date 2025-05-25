@@ -4,5 +4,5 @@
   "url": "http://hyperdictionary.com/search.aspx?define=%s",
   "description": "Hyperdictionary",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }

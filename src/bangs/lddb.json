@@ -4,5 +4,5 @@
   "url": "http://www.lddb.com/search.php?search=%s",
   "description": "LaserDisc Database",
   "category": "Entertainment",
-  "sub-category": "Movies"
+  "subcategory": "Movies"
 }

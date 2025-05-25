@@ -4,5 +4,5 @@
   "url": "https://www.opencaching.us/search.php?searchto=searchbyname&showresult=1&expert=0&output=HTML&sort=bydistance&f_inactive=0&f_ignored=0&f_userfound=0&f_userowner=0&f_watched=0&f_geokret=0&cachename=https://www.opencaching.us/search.php?searchto=searchbyname&showresult=1&expert=0&output=HTML&sort=bydistance&f_inactive=0&f_ignored=0&f_userfound=0&f_userowner=0&f_watched=0&f_geokret=0&cachename=%s&submit=Search&submit=Search",
   "description": "Opencaching NA",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

@@ -4,5 +4,5 @@
   "url": "http://www.kicktraq.com/search/?find=%s",
   "description": "Kicktraq",
   "category": "Online Services",
-  "sub-category": "Tools (fundraising)"
+  "subcategory": "Tools (fundraising)"
 }

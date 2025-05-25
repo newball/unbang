@@ -4,5 +4,5 @@
   "url": "http://law.justia.com/lawsearch?query=%s",
   "description": "Justia",
   "category": "Research",
-  "sub-category": "Law"
+  "subcategory": "Law"
 }

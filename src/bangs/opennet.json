@@ -4,5 +4,5 @@
   "url": "http://www.opennet.ru/search.shtml?exclude=index%7C%2Fman.shtml&words=%s",
   "description": "OpenNET",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

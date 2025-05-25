@@ -4,5 +4,5 @@
   "url": "https://www.webstaurantstore.com/search/%s.html",
   "description": "WebstaurantStore",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

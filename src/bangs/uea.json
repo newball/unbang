@@ -4,5 +4,5 @@
   "url": "https://answers.unrealengine.com/search.html?q=%s",
   "description": "Unreal Engine 4 Answerhub",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

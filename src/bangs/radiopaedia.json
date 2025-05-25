@@ -4,5 +4,5 @@
   "url": "http://radiopaedia.org/search?q=%s",
   "description": "Radiopaedia.org",
   "category": "Research",
-  "sub-category": "Reference (science)"
+  "subcategory": "Reference (science)"
 }

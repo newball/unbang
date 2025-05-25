@@ -4,5 +4,5 @@
   "url": "https://www.dn.se/sok/?q=%s&page=1&sort=relevance",
   "description": "Dagens Nyheter",
   "category": "News",
-  "sub-category": "Newspaper"
+  "subcategory": "Newspaper"
 }

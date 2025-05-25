@@ -4,5 +4,5 @@
   "url": "https://www.chilango.com/?s=%s",
   "description": "Chilango",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

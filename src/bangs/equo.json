@@ -4,5 +4,5 @@
   "url": "https://packages.sabayon.org/quicksearch?q=%s",
   "description": "Sabayon Entropy Packages",
   "category": "Tech",
-  "sub-category": "Sysadmin (packages)"
+  "subcategory": "Sysadmin (packages)"
 }

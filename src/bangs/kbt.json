@@ -4,5 +4,5 @@
   "url": "https://kabutan.jp/stock/?code=%s",
   "description": "Kabutan",
   "category": "News",
-  "sub-category": "Business"
+  "subcategory": "Business"
 }

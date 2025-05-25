@@ -4,5 +4,5 @@
   "url": "https://www.ncbi.nlm.nih.gov/mesh/?term=%s",
   "description": "https://www.ncbi.nlm.nih.gov/mesh",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

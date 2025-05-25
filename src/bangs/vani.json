@@ -4,5 +4,5 @@
   "url": "https://vanillawowdb.com/?search=%s",
   "description": "Vanilla WoW DB",
   "category": "Entertainment",
-  "sub-category": "Games (WOW)"
+  "subcategory": "Games (WOW)"
 }

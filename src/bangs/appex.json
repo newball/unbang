@@ -4,5 +4,5 @@
   "url": "https://appexchange.salesforce.com/results?keywords=%s",
   "description": "Salesforce.com AppExchange",
   "category": "Tech",
-  "sub-category": "Downloads (apps)"
+  "subcategory": "Downloads (apps)"
 }

@@ -4,5 +4,5 @@
   "url": "https://www.worldcat.org/search?q=%s",
   "description": "OCLC Worldcat",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "https://quant.stackexchange.com/search?q=%s",
   "description": "Stack Overflow Quantitative Finance",
   "category": "Research",
-  "sub-category": "Academic (math/cs)"
+  "subcategory": "Academic (math/cs)"
 }

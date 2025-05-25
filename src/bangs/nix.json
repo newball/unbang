@@ -4,5 +4,5 @@
   "url": "https://nixos.wiki/index.php?search=%s",
   "description": "NixOs Wiki",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

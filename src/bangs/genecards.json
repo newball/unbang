@@ -4,5 +4,5 @@
   "url": "http://www.genecards.org/index.php?path=/Search/keyword/%s",
   "description": "GeneCards",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

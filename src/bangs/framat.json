@@ -4,5 +4,5 @@
   "url": "https://framatube.org/search?search=%s",
   "description": "FramaTube",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

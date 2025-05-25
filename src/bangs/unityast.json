@@ -4,5 +4,5 @@
   "url": "https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=relevance/query=%s",
   "description": "Unity asset store",
   "category": "Tech",
-  "sub-category": "Downloads (add-ons)"
+  "subcategory": "Downloads (add-ons)"
 }

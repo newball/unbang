@@ -4,5 +4,5 @@
   "url": "http://www.mtggoldfish.com/q?query_string=%s",
   "description": "mtgGoldfish",
   "category": "Entertainment",
-  "sub-category": "Games (offline)"
+  "subcategory": "Games (offline)"
 }

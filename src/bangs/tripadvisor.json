@@ -4,5 +4,5 @@
   "url": "http://www.tripadvisor.com/Search?q=%s&sub-search=Go",
   "description": "Trip Advisor",
   "category": "Research",
-  "sub-category": "Travel"
+  "subcategory": "Travel"
 }

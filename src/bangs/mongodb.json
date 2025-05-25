@@ -4,5 +4,5 @@
   "url": "http://docs.mongodb.org/manual/search/?query=%s",
   "description": "MongoDB",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

@@ -4,5 +4,5 @@
   "url": "http://www1.cbn.com/cbn-search?search_term=%s&site=default_collection",
   "description": "Christian Broadcasting Network",
   "category": "Entertainment",
-  "sub-category": "TV"
+  "subcategory": "TV"
 }

@@ -4,5 +4,5 @@
   "url": "https://yarnpkg.com/en/packages?q=%s",
   "description": "Yarn",
   "category": "Tech",
-  "sub-category": "Downloads"
+  "subcategory": "Downloads"
 }

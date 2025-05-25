@@ -4,5 +4,5 @@
   "url": "https://forum.shmakerspace.org/search?q=%s",
   "description": "SHM Forum",
   "category": "Entertainment",
-  "sub-category": "Forum"
+  "subcategory": "Forum"
 }

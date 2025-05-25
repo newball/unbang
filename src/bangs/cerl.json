@@ -4,5 +4,5 @@
   "url": "http://thesaurus.cerl.org/cgi-bin/search.pl?type=l&type=i&type=p&type=c&query=%s",
   "description": "CERL Thesaurus",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

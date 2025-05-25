@@ -4,5 +4,5 @@
   "url": "http://schoolido.lu/cards/?search=%s&name=&rarity=&attribute=&is_promo=&is_special=&is_event=&skill=&translated_collection=&collection=&main_unit=&sub_unit=&idol_school=&idol_year=&release_after=&release_before=&view=cards&albumbuilder_account=15585&account=&ordering=id&reverse_order=on",
   "description": "schoolido.lu",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

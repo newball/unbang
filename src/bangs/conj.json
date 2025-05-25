@@ -4,5 +4,5 @@
   "url": "https://leconjugueur.lefigaro.fr/conjugaison/verbe/%s",
   "description": "Le conjugueur",
   "category": "Online Services",
-  "sub-category": "Search (non-US)"
+  "subcategory": "Search (non-US)"
 }

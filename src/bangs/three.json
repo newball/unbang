@@ -4,5 +4,5 @@
   "url": "http://www.three.co.uk/Search/?q=%s",
   "description": "Three",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

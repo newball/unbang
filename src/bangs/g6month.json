@@ -4,5 +4,5 @@
   "url": "https://www.google.com/search?tbs=qdr:m6&q=%s&safe=off&ie=utf-8&oe=utf-8",
   "description": "Google (Past 6 Months)",
   "category": "Online Services",
-  "sub-category": "Google"
+  "subcategory": "Google"
 }

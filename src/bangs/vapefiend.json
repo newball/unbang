@@ -4,5 +4,5 @@
   "url": "https://vapefiend.co.uk/search?q=%s&type=product",
   "description": "Vapefiend",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

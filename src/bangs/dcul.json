@@ -4,5 +4,5 @@
   "url": "https://capitadiscovery.co.uk/dcu/items?query=%s",
   "description": "Dublin City University Library Catalogue",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

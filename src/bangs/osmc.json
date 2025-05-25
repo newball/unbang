@@ -4,5 +4,5 @@
   "url": "https://discourse.osmc.tv/search?q=%s",
   "description": "OSMC",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

@@ -4,5 +4,5 @@
   "url": "https://duckduckgo.com/?kl=no-no&q=%s",
   "description": "DuckDuckGo Norway",
   "category": "Online Services",
-  "sub-category": "Search (DDG)"
+  "subcategory": "Search (DDG)"
 }

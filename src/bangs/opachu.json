@@ -4,5 +4,5 @@
   "url": "https://hu-berlin.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,%s&search_scope=default_scope&displayField=all&pcAvailabiltyMode=false&dum=true&vid=hub_ub&displayMode=full&bulkSize=30&mode=Basic&tab=default_tab&highlight=true&institution=HUB_UB&sortby=rank&lang=de_DE",
   "description": "Universitätsbibliothek Humboldt (Grimmzentrum)",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

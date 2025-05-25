@@ -4,5 +4,5 @@
   "url": "https://www.marktplaats.nl/z.html?query=%s",
   "description": "Marktplaats",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

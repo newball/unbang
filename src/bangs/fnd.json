@@ -4,5 +4,5 @@
   "url": "https://fnd.io/#/us/search?mediaType=all&term=%s",
   "description": "fnd",
   "category": "Tech",
-  "sub-category": "Downloads"
+  "subcategory": "Downloads"
 }

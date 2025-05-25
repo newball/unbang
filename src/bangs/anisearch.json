@@ -4,5 +4,5 @@
   "url": "https://www.anisearch.com/search?q=%s",
   "description": "aniSearch",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

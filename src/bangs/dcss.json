@@ -4,5 +4,5 @@
   "url": "http://crawl.chaosforge.org/index.php?title=Special%3ASearch&profile=default&search=%s&fulltext=Search",
   "description": "Crawl Wiki",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

@@ -4,5 +4,5 @@
   "url": "https://adventuregamers.com/games/search?keywords=%s",
   "description": "Adventure Gamers",
   "category": "Entertainment",
-  "sub-category": "Games (general)"
+  "subcategory": "Games (general)"
 }

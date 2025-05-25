@@ -4,5 +4,5 @@
   "url": "https://www.pharmgkb.org/search?query=%s",
   "description": "PharmGKB",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

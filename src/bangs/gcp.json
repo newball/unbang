@@ -4,5 +4,5 @@
   "url": "https://cloud.google.com/s/results/?q=%s",
   "description": "Google Cloud Platform",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

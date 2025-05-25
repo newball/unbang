@@ -4,5 +4,5 @@
   "url": "http://solo.bodleian.ox.ac.uk/primo-explore/search?query=any,contains,%s&tab=local&search_scope=LSCOP_ALL&vid=SOLO&facet=rtype,include,journals&lang=en_US&offset=0",
   "description": "SOLO journals",
   "category": "Online Services",
-  "sub-category": "Search (Private)"
+  "subcategory": "Search (Private)"
 }

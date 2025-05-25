@@ -4,5 +4,5 @@
   "url": "https://unsplash.com/search?utf8=✓&keyword=%s",
   "description": "Unsplash",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

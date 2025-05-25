@@ -4,5 +4,5 @@
   "url": "http://society6.com/search/?q=%s",
   "description": "Society6",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

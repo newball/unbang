@@ -4,5 +4,5 @@
   "url": "https://www.hltv.org/search?query=%s",
   "description": "HLTV.org",
   "category": "Entertainment",
-  "sub-category": "Games (specific)"
+  "subcategory": "Games (specific)"
 }

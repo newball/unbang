@@ -4,5 +4,5 @@
   "url": "https://man.archlinux.org/search?q=%s&go=Go",
   "description": "Arch manual pages",
   "category": "Tech",
-  "sub-category": "Sysadmin (man)"
+  "subcategory": "Sysadmin (man)"
 }

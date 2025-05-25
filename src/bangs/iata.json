@@ -4,5 +4,5 @@
   "url": "http://airportcodes.aero/%s",
   "description": "IATA Airport Code",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

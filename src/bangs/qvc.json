@@ -4,5 +4,5 @@
   "url": "http://www.qvc.com/catalog/search.html?langId=-1&storeId=10251&catalogId=10151&keyword=%s",
   "description": "QVC",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

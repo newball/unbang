@@ -4,5 +4,5 @@
   "url": "https://www.urbandictionary.com/define.php?term=%s",
   "description": "Urban Dictionary",
   "category": "Research",
-  "sub-category": "Reference (fun)"
+  "subcategory": "Reference (fun)"
 }

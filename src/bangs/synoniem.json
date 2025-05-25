@@ -4,5 +4,5 @@
   "url": "http://synoniemen.net/index.php?zoekterm=%s",
   "description": "Synoniemen.net",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

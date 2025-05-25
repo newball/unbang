@@ -4,5 +4,5 @@
   "url": "https://cannabis.community.forums.ozstoners.com/index.php?app=core&module=search&do=search&andor_type=and&sid=58ffdab89aaeb17e49a50f52929f35d6&search_content=both&search_app_filters[ccs][searchInKey]=pages&search_app_filters[ccs][pages][sortKey]=date&search_app_filters[ccs][pages][sortDir]=0&search_app_filters[ccs][database_1][sortKey]=date_added&search_app_filters[ccs][database_1][sortDir]=0&search_term=%s&search_app=forums",
   "description": "OZ Stoners",
   "category": "Online Services",
-  "sub-category": "Social"
+  "subcategory": "Social"
 }

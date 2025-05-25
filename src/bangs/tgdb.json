@@ -4,5 +4,5 @@
   "url": "http://thegamesdb.net/search/?string=%s&function=Search",
   "description": "TheGamesDB",
   "category": "Research",
-  "sub-category": "Reference (fun)"
+  "subcategory": "Reference (fun)"
 }

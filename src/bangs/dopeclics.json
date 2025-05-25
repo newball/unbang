@@ -4,5 +4,5 @@
   "url": "http://www.dopeclics.com/search?q=%s",
   "description": "Dopeclics",
   "category": "Entertainment",
-  "sub-category": "Sports"
+  "subcategory": "Sports"
 }

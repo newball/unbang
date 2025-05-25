@@ -4,5 +4,5 @@
   "url": "https://botlist.co/search?query=%s",
   "description": "Botlist",
   "category": "Tech",
-  "sub-category": "Downloads (add-ons)"
+  "subcategory": "Downloads (add-ons)"
 }

@@ -4,5 +4,5 @@
   "url": "https://swappa.com/search?q=%s",
   "description": "Swappa",
   "category": "Shopping",
-  "sub-category": "Online"
+  "subcategory": "Online"
 }

@@ -4,5 +4,5 @@
   "url": "http://community.adobe.com/help/search.html?searchterm=%s&go=go&q=%s&l=coldfusion_product_adobelr&x=0&y=0&area=0&lr=en_US",
   "description": "ColdFusion Docs",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

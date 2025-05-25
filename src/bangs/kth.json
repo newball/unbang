@@ -4,5 +4,5 @@
   "url": "https://www.kth.se/search/search?q=%s",
   "description": "KTH",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

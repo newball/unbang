@@ -4,5 +4,5 @@
   "url": "https://learn.getgrav.org/search?q=%s",
   "description": "learn.getgrav.org",
   "category": "Tech",
-  "sub-category": "Libraries/Frameworks"
+  "subcategory": "Libraries/Frameworks"
 }

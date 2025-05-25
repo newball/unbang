@@ -4,5 +4,5 @@
   "url": "https://learning.oreilly.com/search/?query=%s",
   "description": "https://learning.oreilly.com/home/",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

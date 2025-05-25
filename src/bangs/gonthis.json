@@ -4,5 +4,5 @@
   "url": "http://gossiponthis.com/search/%s",
   "description": "Gossip on This",
   "category": "Entertainment",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

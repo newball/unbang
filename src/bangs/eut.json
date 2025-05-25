@@ -4,5 +4,5 @@
   "url": "https://www.essen-und-trinken.de/suche#site=eut&category=Rezept&query=%s&page=1&sorting=relevance",
   "description": "Essen und Trinken",
   "category": "Research",
-  "sub-category": "Food"
+  "subcategory": "Food"
 }

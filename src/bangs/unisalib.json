@@ -4,5 +4,5 @@
   "url": "http://search.library.unisa.edu.au/?query=any,contains,%s",
   "description": "UniSA Library Catalogue",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

@@ -4,5 +4,5 @@
   "url": "http://awoiaf.westeros.org/index.php?search=%s",
   "description": "A Wiki of Ice and Fire",
   "category": "Research",
-  "sub-category": "Topical"
+  "subcategory": "Topical"
 }

@@ -4,5 +4,5 @@
   "url": "https://packages.gentoo.org/packages/search?q=%s",
   "description": "Gentoo Packages",
   "category": "Online Services",
-  "sub-category": "Search"
+  "subcategory": "Search"
 }

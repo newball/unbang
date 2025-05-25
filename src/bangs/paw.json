@@ -4,5 +4,5 @@
   "url": "http://wiki.archusers.ir/index.php?search=%s",
   "description": "Persian ArchWiki",
   "category": "Tech",
-  "sub-category": "Sysadmin (Arch)"
+  "subcategory": "Sysadmin (Arch)"
 }

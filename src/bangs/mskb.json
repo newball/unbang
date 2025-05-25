@@ -4,5 +4,5 @@
   "url": "https://support.microsoft.com/en-us/search?query=%s",
   "description": "Microsoft Knowledge Base",
   "category": "Tech",
-  "sub-category": "Companies"
+  "subcategory": "Companies"
 }

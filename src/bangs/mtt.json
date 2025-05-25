@@ -4,5 +4,5 @@
   "url": "http://www.multitracks.com/search/?q=%s",
   "description": "Multitracks",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

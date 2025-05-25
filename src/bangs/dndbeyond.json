@@ -4,5 +4,5 @@
   "url": "https://www.dndbeyond.com/search?q=%s",
   "description": "Dnd Beyond",
   "category": "Entertainment",
-  "sub-category": "Games (offline)"
+  "subcategory": "Games (offline)"
 }

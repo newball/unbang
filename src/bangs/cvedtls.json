@@ -4,5 +4,5 @@
   "url": "https://www.cvedetails.com/google-search-results.php?q=%s&sa=Search",
   "description": "CVE Details",
   "category": "Tech",
-  "sub-category": "Sysadmin (network)"
+  "subcategory": "Sysadmin (network)"
 }

@@ -4,5 +4,5 @@
   "url": "http://ddh1.duckduckgo.com/?q=%s",
   "description": "ddh1",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

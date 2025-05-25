@@ -4,5 +4,5 @@
   "url": "https://stock.adobe.com/fr/search?k=%s",
   "description": "Adobe Stock",
   "category": "Multimedia",
-  "sub-category": "Images"
+  "subcategory": "Images"
 }

@@ -4,5 +4,5 @@
   "url": "https://robertchristgau.com/get_artist.php?name=%s",
   "description": "Robert Christgau CG",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

@@ -4,5 +4,5 @@
   "url": "https://nl.wikipedia.org/w/index.php?search=%s",
   "description": "Wikipedia Nederland",
   "category": "Multimedia",
-  "sub-category": "Docs"
+  "subcategory": "Docs"
 }

@@ -4,5 +4,5 @@
   "url": "http://biblio.com/search.php?keyisbn=%s",
   "description": "Biblio",
   "category": "Shopping",
-  "sub-category": "Online (marketplace)"
+  "subcategory": "Online (marketplace)"
 }

@@ -4,5 +4,5 @@
   "url": "https://github.com/KaOS-Community-Packages?query=%s",
   "description": "KaOS",
   "category": "Tech",
-  "sub-category": "Sysadmin"
+  "subcategory": "Sysadmin"
 }

@@ -4,5 +4,5 @@
   "url": "https://podcastlist.ca/?s=%s",
   "description": "Podcast List",
   "category": "Entertainment",
-  "sub-category": "Audio"
+  "subcategory": "Audio"
 }

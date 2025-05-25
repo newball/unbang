@@ -4,5 +4,5 @@
   "url": "http://so.tudou.com/nisearch.do?kw=%s",
   "description": "土豆网",
   "category": "Multimedia",
-  "sub-category": "Video"
+  "subcategory": "Video"
 }

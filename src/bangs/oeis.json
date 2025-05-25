@@ -4,5 +4,5 @@
   "url": "http://oeis.org/search?q=%s&language=english&go=Search",
   "description": "The On-Line Encyclopedia of Integer Sequences",
   "category": "Online Services",
-  "sub-category": "Tools"
+  "subcategory": "Tools"
 }

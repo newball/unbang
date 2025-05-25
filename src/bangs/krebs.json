@@ -4,5 +4,5 @@
   "url": "https://krebsonsecurity.com/?s=%s",
   "description": "Krebs On Security",
   "category": "Tech",
-  "sub-category": "Blogs"
+  "subcategory": "Blogs"
 }

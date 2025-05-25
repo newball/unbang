@@ -4,5 +4,5 @@
   "url": "http://inspirehep.net/search?p=%s",
   "description": "InspireHEP",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

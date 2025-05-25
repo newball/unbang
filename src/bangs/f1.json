@@ -4,5 +4,5 @@
   "url": "http://www.f1zone.net/news/index.php?s=%s",
   "description": "F1Zone",
   "category": "News",
-  "sub-category": "International"
+  "subcategory": "International"
 }

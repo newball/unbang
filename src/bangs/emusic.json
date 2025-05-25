@@ -4,5 +4,5 @@
   "url": "https://www.emusic.com/search/%s",
   "description": "eMusic",
   "category": "Multimedia",
-  "sub-category": "Music"
+  "subcategory": "Music"
 }

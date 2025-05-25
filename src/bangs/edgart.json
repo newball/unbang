@@ -4,5 +4,5 @@
   "url": "http://www.sec.gov/cgi-bin/browse-edgar?company=&match=&CIK=%s&filenum=&State=&Country=&SIC=&owner=exclude&Find=Find+Companies&action=getcompany",
   "description": "Edgar",
   "category": "Research",
-  "sub-category": "Government"
+  "subcategory": "Government"
 }

@@ -4,5 +4,5 @@
   "url": "http://marvel.com/search/?q=%s&category=comics",
   "description": "Comics in marvel.com",
   "category": "Entertainment",
-  "sub-category": "Comics"
+  "subcategory": "Comics"
 }

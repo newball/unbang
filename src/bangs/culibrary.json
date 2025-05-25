@@ -4,5 +4,5 @@
   "url": "http://libraries.clemson.edu/?s=%s",
   "description": "Clemson University Library",
   "category": "Research",
-  "sub-category": "Academic"
+  "subcategory": "Academic"
 }

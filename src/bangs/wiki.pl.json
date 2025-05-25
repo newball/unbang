@@ -4,5 +4,5 @@
   "url": "https://pl.wikipedia.org/wiki/%s",
   "description": "Wikipedia Polska",
   "category": "Research",
-  "sub-category": "Learning"
+  "subcategory": "Learning"
 }

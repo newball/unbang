@@ -4,5 +4,5 @@
   "url": "https://www.postnl.nl/search?q=%s&searchEntry=searchfield&boosting_label=",
   "description": "PostNL",
   "category": "Shopping",
-  "sub-category": "Services"
+  "subcategory": "Services"
 }

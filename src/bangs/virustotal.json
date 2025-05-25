@@ -4,5 +4,5 @@
   "url": "https://www.virustotal.com/url/submission/?force=1&url=%s",
   "description": "VirusTotal",
   "category": "Online Services",
-  "sub-category": "Tools (URLs)"
+  "subcategory": "Tools (URLs)"
 }

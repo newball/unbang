@@ -4,5 +4,5 @@
   "url": "http://opengrok.libreoffice.org/search?q=%s&project=core",
   "description": "LibreOffice Source Code",
   "category": "Tech",
-  "sub-category": "Programming"
+  "subcategory": "Programming"
 }

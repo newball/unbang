@@ -4,5 +4,5 @@
   "url": "https://www.lexico.com/search?utf8=%E2%9C%93&filter=dictionary&dictionary=en&query=%s",
   "description": "Oxford Dictionary",
   "category": "Research",
-  "sub-category": "Reference (words)"
+  "subcategory": "Reference (words)"
 }
