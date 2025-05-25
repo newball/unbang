@@ -1,0 +1,8 @@
+{
+  "bang": "java4",
+  "domain": "https://search.oracle.com",
+  "url": "http://search.oracle.com/search/search?tzoffset=420&default=true&q=%s+url:/javase/1.4.2/docs&start=1&nodeid=&fid=&showSimilarDoc=true&group=Documentation&keyword=&x=0&y=0",
+  "description": "Java4 Docs",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

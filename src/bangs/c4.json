@@ -1,0 +1,8 @@
+{
+  "bang": "c4",
+  "domain": "https://www.channel4.com",
+  "url": "http://www.channel4.com/search/?q=%s",
+  "description": "Channel 4",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

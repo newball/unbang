@@ -1,0 +1,8 @@
+{
+  "bang": "patreon",
+  "domain": "https://www.patreon.com",
+  "url": "http://www.patreon.com/search?q=%s ",
+  "description": "Patreon",
+  "category": "Online Services",
+  "sub-category": "Tools (fundraising)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "plone",
+  "domain": "https://plone.org",
+  "url": "https://plone.org/@@search?SearchableText=%s",
+  "description": "Plone",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

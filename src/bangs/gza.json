@@ -1,0 +1,8 @@
+{
+  "bang": "gza",
+  "domain": "https://www.google.co.za",
+  "url": "http://www.google.co.za/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google ZA",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

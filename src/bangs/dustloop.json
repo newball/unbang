@@ -1,0 +1,8 @@
+{
+  "bang": "dustloop",
+  "domain": "https://www.dustloop.com",
+  "url": "http://www.dustloop.com/wiki/index.php?search=%s",
+  "description": "Dustloop Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

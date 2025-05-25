@@ -1,0 +1,8 @@
+{
+  "bang": "gmail",
+  "domain": "https://mail.google.com",
+  "url": "https://mail.google.com/mail/#search/%s",
+  "description": "GMail.com",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

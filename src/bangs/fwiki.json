@@ -1,0 +1,8 @@
+{
+  "bang": "fwiki",
+  "domain": "https://fortranwiki.org",
+  "url": "http://fortranwiki.org/fortran/search?query=%s",
+  "description": "Fortran Wiki",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

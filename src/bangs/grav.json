@@ -1,0 +1,8 @@
+{
+  "bang": "grav",
+  "domain": "https://learn.getgrav.org",
+  "url": "https://learn.getgrav.org/search?q=%s",
+  "description": "learn.getgrav.org",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

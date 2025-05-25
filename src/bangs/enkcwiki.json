@@ -1,0 +1,8 @@
+{
+  "bang": "enkcwiki",
+  "domain": "https://en.kancollewiki.net",
+  "url": "http://en.kancollewiki.net/index.php?search=%s&title=Special%3ASearch&go=Go",
+  "description": "Kancolle Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

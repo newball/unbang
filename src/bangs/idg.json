@@ -1,0 +1,8 @@
+{
+  "bang": "idg",
+  "domain": "https://www.doomworld.com",
+  "url": "https://www.doomworld.com/idgames//index.php?search=1&field=title&sort=time&order=desc&word=%s",
+  "description": "Doomworld/idgames",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "pcpp",
+  "domain": "https://pcpartpicker.com",
+  "url": "http://pcpartpicker.com/search/?q=%s",
+  "description": "PcPartPicker",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

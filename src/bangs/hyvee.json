@@ -1,0 +1,8 @@
+{
+  "bang": "hyvee",
+  "domain": "https://www.hy-vee.com",
+  "url": "https://www.hy-vee.com/grocery/search?search=%s",
+  "description": "Hy-Vee",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

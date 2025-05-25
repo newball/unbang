@@ -1,0 +1,8 @@
+{
+  "bang": "intaljazeera",
+  "domain": "https://www.aljazeera.com",
+  "url": "http://www.aljazeera.com/Services/Search/?q=%s",
+  "description": "Aljazeera",
+  "category": "News",
+  "sub-category": "International"
+}

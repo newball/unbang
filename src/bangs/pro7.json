@@ -1,0 +1,8 @@
+{
+  "bang": "pro7",
+  "domain": "https://www.prosieben.de",
+  "url": "http://www.prosieben.de/suche?q=%s",
+  "description": "ProSieben",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

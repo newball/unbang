@@ -1,0 +1,8 @@
+{
+  "bang": "whoizh",
+  "domain": "https://whoiz.herokuapp.com",
+  "url": "http://whoiz.herokuapp.com/lookup?url=%s",
+  "description": "Heroku Whoiz",
+  "category": "Tech",
+  "sub-category": "Sysadmin (network)"
+}

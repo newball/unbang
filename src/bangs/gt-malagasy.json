@@ -1,0 +1,8 @@
+{
+  "bang": "gt-malagasy",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/mg/%s",
+  "description": "Detect language to Malagasy",
+  "category": "Translation",
+  "sub-category": "Google"
+}

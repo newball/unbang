@@ -1,0 +1,8 @@
+{
+  "bang": "ca",
+  "domain": "https://www.amazon.ca",
+  "url": "https://www.amazon.ca/s?k=%s",
+  "description": "Amazon Canada",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

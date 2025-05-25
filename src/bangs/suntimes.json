@@ -1,0 +1,8 @@
+{
+  "bang": "suntimes",
+  "domain": "https://chicago.suntimes.com",
+  "url": "https://chicago.suntimes.com/?s=%s",
+  "description": "SunTimes",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

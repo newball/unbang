@@ -1,0 +1,8 @@
+{
+  "bang": "dbgb",
+  "domain": "https://dejure.org",
+  "url": "http://dejure.org/gesetze/BGB/%s.html",
+  "description": "BGB - dejure.org",
+  "category": "Research",
+  "sub-category": "Law"
+}

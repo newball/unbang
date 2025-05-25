@@ -1,0 +1,8 @@
+{
+  "bang": "pricerun",
+  "domain": "https://www.pricerunner.dk",
+  "url": "http://www.pricerunner.dk/search?q=%s",
+  "description": "Pricerunner",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

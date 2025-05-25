@@ -1,0 +1,8 @@
+{
+  "bang": "wayfair",
+  "domain": "https://www.wayfair.com",
+  "url": "http://www.wayfair.com/keyword.php?keyword=%s",
+  "description": "Wayfair",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

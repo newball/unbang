@@ -1,0 +1,8 @@
+{
+  "bang": "nimvelo",
+  "domain": "https://kb.nimvelo.com",
+  "url": "http://kb.nimvelo.com/search?query=%s",
+  "description": "Nimvelo",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

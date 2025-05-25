@@ -1,0 +1,8 @@
+{
+  "bang": "teradata",
+  "domain": "https://www.teradata.com",
+  "url": "https://www.teradata.com/Search?SearchText=%s",
+  "description": "Teradata",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

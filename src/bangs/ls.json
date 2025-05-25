@@ -1,0 +1,8 @@
+{
+  "bang": "ls",
+  "domain": "https://littlesis.org",
+  "url": "http://littlesis.org/search?q=%s",
+  "description": "LittleSis",
+  "category": "Research",
+  "sub-category": "Government"
+}

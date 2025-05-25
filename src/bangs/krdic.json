@@ -1,0 +1,8 @@
+{
+  "bang": "krdic",
+  "domain": "https://krdic.naver.com",
+  "url": "http://krdic.naver.com/search.nhn?query=%s",
+  "description": "Naver Korean Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

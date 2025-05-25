@@ -1,0 +1,8 @@
+{
+  "bang": "sporum",
+  "domain": "https://forum.spore.com",
+  "url": "http://forum.spore.com/jforum/jforum.page?module=search&action=search&search_keywords=%s",
+  "description": "The Sporum",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

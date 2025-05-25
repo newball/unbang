@@ -1,0 +1,8 @@
+{
+  "bang": "osi",
+  "domain": "https://opensource.org",
+  "url": "http://opensource.org/search/node/%s",
+  "description": "Open Source Initiative",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

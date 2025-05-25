@@ -1,0 +1,8 @@
+{
+  "bang": "egear",
+  "domain": "https://e-gear.se",
+  "url": "https://e-gear.se/catalogsearch/result/?q=%s",
+  "description": "e-Gear",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

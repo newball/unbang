@@ -1,0 +1,8 @@
+{
+  "bang": "pcmasters",
+  "domain": "https://www.pcmasters.de",
+  "url": "http://www.pcmasters.de/suche?search_keywords=%s",
+  "description": "PCMasters.de",
+  "category": "News",
+  "sub-category": "Magazine"
+}

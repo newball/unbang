@@ -1,0 +1,8 @@
+{
+  "bang": "flickr",
+  "domain": "https://flickr.com",
+  "url": "http://flickr.com/search/?q=%s",
+  "description": "Flickr",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

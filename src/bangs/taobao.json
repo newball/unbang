@@ -1,0 +1,8 @@
+{
+  "bang": "taobao",
+  "domain": "https://s.taobao.com",
+  "url": "https://s.taobao.com/search?q=%s",
+  "description": "Taobao",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

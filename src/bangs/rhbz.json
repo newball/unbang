@@ -1,0 +1,8 @@
+{
+  "bang": "rhbz",
+  "domain": "https://bugzilla.redhat.com",
+  "url": "https://bugzilla.redhat.com/buglist.cgi?quicksearch=%s",
+  "description": "Red Hat Bugzilla",
+  "category": "Tech",
+  "sub-category": "Sysadmin (RedHat)"
+}

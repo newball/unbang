@@ -1,0 +1,8 @@
+{
+  "bang": "tbaddons",
+  "domain": "https://addons.thunderbird.net",
+  "url": "https://addons.thunderbird.net/en-US/thunderbird/search/?q=%s",
+  "description": "Add-ons for Thunderbird",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

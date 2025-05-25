@@ -1,0 +1,8 @@
+{
+  "bang": "wpost",
+  "domain": "https://www.washingtonpost.com",
+  "url": "http://www.washingtonpost.com/newssearch/search.html?st=%s",
+  "description": "Washington Post",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

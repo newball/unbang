@@ -1,0 +1,8 @@
+{
+  "bang": "gday",
+  "domain": "https://www.google.com",
+  "url": "http://www.google.com/search?q=%s&tbs=qdr:d",
+  "description": "Google (Past Day)",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

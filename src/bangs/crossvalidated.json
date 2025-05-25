@@ -1,0 +1,8 @@
+{
+  "bang": "crossvalidated",
+  "domain": "https://stats.stackexchange.com",
+  "url": "http://stats.stackexchange.com/search?q=%s",
+  "description": "Cross Validated (Stats StackExchange)",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

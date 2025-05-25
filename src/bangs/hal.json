@@ -1,0 +1,8 @@
+{
+  "bang": "hal",
+  "domain": "https://hal.archives-ouvertes.fr",
+  "url": "https://hal.archives-ouvertes.fr/search/index/?q=%s",
+  "description": "HAL",
+  "category": "Research",
+  "sub-category": "Academic"
+}

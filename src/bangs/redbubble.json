@@ -1,0 +1,8 @@
+{
+  "bang": "redbubble",
+  "domain": "https://www.redbubble.com",
+  "url": "http://www.redbubble.com/shop/%s",
+  "description": "RedBubble",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

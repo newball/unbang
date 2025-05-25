@@ -1,0 +1,8 @@
+{
+  "bang": "cri",
+  "domain": "https://www.criterion.com",
+  "url": "https://www.criterion.com/search#stq=%s",
+  "description": "The Criterion Collection",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

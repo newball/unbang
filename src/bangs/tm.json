@@ -1,0 +1,8 @@
+{
+  "bang": "tm",
+  "domain": "https://www.trademe.co.nz",
+  "url": "http://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=%s",
+  "description": "Trade Me",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

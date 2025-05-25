@@ -1,0 +1,8 @@
+{
+  "bang": "hdt",
+  "domain": "https://www.hdtracks.com",
+  "url": "https://www.hdtracks.com/catalogsearch/result/?q=%s",
+  "description": "HDtracks.com",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

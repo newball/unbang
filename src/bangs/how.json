@@ -1,0 +1,8 @@
+{
+  "bang": "how",
+  "domain": "https://howcode.org",
+  "url": "https://howcode.org/search?q=%s",
+  "description": "howCode",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

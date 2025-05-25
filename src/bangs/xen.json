@@ -1,0 +1,8 @@
+{
+  "bang": "xen",
+  "domain": "https://en.xen.wiki",
+  "url": "https://en.xen.wiki/index.php?search=%s",
+  "description": "Xenharmonic Wiki",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

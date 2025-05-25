@@ -1,0 +1,8 @@
+{
+  "bang": "ne.se",
+  "domain": "https://www.ne.se",
+  "url": "http://www.ne.se/s%C3%B6k/?t=uppslagsverk&q=%s",
+  "description": "Svenska Nationalencyklopedin",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wrc",
+  "domain": "https://www.wordreference.com",
+  "url": "http://www.wordreference.com/conj/FrVerbs.aspx?v=%s",
+  "description": "WordReference",
+  "category": "Research",
+  "sub-category": "Learning"
+}

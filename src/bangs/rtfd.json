@@ -1,0 +1,8 @@
+{
+  "bang": "rtfd",
+  "domain": "https://%s.rtfd.io",
+  "url": "http://%s.rtfd.io",
+  "description": "Read the Docs",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

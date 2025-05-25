@@ -1,0 +1,8 @@
+{
+  "bang": "hotels",
+  "domain": "https://hotels.com",
+  "url": "https://hotels.com/search.do?q-destination=%s",
+  "description": "Hotels",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "tvspielfilm",
+  "domain": "https://www.tvspielfilm.de",
+  "url": "http://www.tvspielfilm.de/suche/?q=%s ",
+  "description": "TV Spielfilm",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

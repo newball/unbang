@@ -1,0 +1,8 @@
+{
+  "bang": "wtvi",
+  "domain": "https://vi.wiktionary.org",
+  "url": "https://vi.wiktionary.org/w/index.php?search=%s",
+  "description": "Wiktionary tiếng Việt",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

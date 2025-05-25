@@ -1,0 +1,8 @@
+{
+  "bang": "unic",
+  "domain": "https://unicode-table.com",
+  "url": "https://unicode-table.com/en/search/?q=%s",
+  "description": "Unicode Character Table",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

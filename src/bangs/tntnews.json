@@ -1,0 +1,8 @@
+{
+  "bang": "tntnews",
+  "domain": "https://www.tntnews.net",
+  "url": "https://www.tntnews.net/?s=%s",
+  "description": "https://www.tntnews.net/",
+  "category": "News",
+  "sub-category": "Magazine"
+}

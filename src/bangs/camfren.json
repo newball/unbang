@@ -1,0 +1,8 @@
+{
+  "bang": "camfren",
+  "domain": "https://dictionary.cambridge.org",
+  "url": "https://dictionary.cambridge.org/dictionary/french-english/%s",
+  "description": "Cambridge French-English Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

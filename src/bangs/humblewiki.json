@@ -1,0 +1,8 @@
+{
+  "bang": "humblewiki",
+  "domain": "https://humble.wikia.com",
+  "url": "http://humble.wikia.com/w/%s",
+  "description": "The Humble Wiki",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

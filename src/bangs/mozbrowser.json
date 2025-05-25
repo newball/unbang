@@ -1,0 +1,8 @@
+{
+  "bang": "mozbrowser",
+  "domain": "https://www.mozbrowser.nl",
+  "url": "http://www.mozbrowser.nl/forum/search.php?keywords=%s",
+  "description": "MozBrowser.nl",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

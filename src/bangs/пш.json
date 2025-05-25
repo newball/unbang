@@ -1,0 +1,8 @@
+{
+  "bang": "пш",
+  "domain": "https://www.google.ru",
+  "url": "https://www.google.ru/search?tbm=isch&q=%s",
+  "description": "Google Images",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

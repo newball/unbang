@@ -1,0 +1,8 @@
+{
+  "bang": "wizh",
+  "domain": "https://zh.wikipedia.org",
+  "url": "https://zh.wikipedia.org/w/index.php?search=%s",
+  "description": "wikipedia(Chinese)",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

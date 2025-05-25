@@ -1,0 +1,8 @@
+{
+  "bang": "goodreads",
+  "domain": "https://www.goodreads.com",
+  "url": "http://www.goodreads.com/search/search?search_type=books&search[query]=%s",
+  "description": "GoodReads",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

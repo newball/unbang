@@ -1,0 +1,8 @@
+{
+  "bang": "nginx",
+  "domain": "https://www.nginx.com",
+  "url": "https://www.nginx.com/resources/wiki/search/?q=%s",
+  "description": "Nginx wiki",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "dtag",
+  "domain": "https://debtags.debian.net",
+  "url": "http://debtags.debian.net/search/?q=%s",
+  "description": "DebTags",
+  "category": "Tech",
+  "sub-category": "Sysadmin (debian)"
+}

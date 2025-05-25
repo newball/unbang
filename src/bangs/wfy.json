@@ -1,0 +1,8 @@
+{
+  "bang": "wfy",
+  "domain": "https://fy.wikipedia.org",
+  "url": "https://fy.wikipedia.org/w/index.php?search=%s",
+  "description": "Frisian Wikipedia",
+  "category": "Research",
+  "sub-category": "Reference"
+}

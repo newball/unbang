@@ -1,0 +1,8 @@
+{
+  "bang": "racing",
+  "domain": "https://www.racing.com",
+  "url": "http://www.racing.com/search?q=%s",
+  "description": "RACING.COM",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

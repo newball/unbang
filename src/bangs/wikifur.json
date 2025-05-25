@@ -1,0 +1,8 @@
+{
+  "bang": "wikifur",
+  "domain": "https://en.wikifur.com",
+  "url": "https://en.wikifur.com/wiki/Special:Search?search=%s&go=Go",
+  "description": "WikiFur",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

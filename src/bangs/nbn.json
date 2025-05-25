@@ -1,0 +1,8 @@
+{
+  "bang": "nbn",
+  "domain": "https://nbn-resolving.org",
+  "url": "https://nbn-resolving.org/%s",
+  "description": "URN:NBN Resolver for Germany & Switzerland",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

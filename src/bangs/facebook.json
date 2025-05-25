@@ -1,0 +1,8 @@
+{
+  "bang": "facebook",
+  "domain": "https://www.facebook.com",
+  "url": "http://www.facebook.com/s.php?q=%s",
+  "description": "Facebook",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

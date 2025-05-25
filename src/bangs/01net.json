@@ -1,0 +1,8 @@
+{
+  "bang": "01net",
+  "domain": "https://www.01net.com",
+  "url": "http://www.01net.com/recherche/recherche.php?searchstring=%s&chaine=home",
+  "description": "01net",
+  "category": "Tech",
+  "sub-category": "Downloads (apps)"
+}

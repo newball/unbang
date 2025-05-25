@@ -1,0 +1,8 @@
+{
+  "bang": "inktweb",
+  "domain": "https://www.inktweb.nl",
+  "url": "https://www.inktweb.nl/search.php?search=%s",
+  "description": "Inktweb.nl",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

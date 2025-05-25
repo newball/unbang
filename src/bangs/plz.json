@@ -1,0 +1,8 @@
+{
+  "bang": "plz",
+  "domain": "https://www.postdirekt.de",
+  "url": "https://www.postdirekt.de/plzserver/PlzSearchServlet?finda=miniapp&city=%s",
+  "description": "German Postal Codes",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "nature",
+  "domain": "https://www.nature.com",
+  "url": "http://www.nature.com/search/executeSearch?sp-q-1=&sp-q=%s",
+  "description": "Nature",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

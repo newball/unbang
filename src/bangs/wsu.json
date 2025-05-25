@@ -1,0 +1,8 @@
+{
+  "bang": "wsu",
+  "domain": "https://wayne.edu",
+  "url": "https://wayne.edu/search/?q=%s&type=all",
+  "description": "Wayne State University",
+  "category": "Research",
+  "sub-category": "Academic"
+}

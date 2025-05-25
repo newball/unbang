@@ -1,0 +1,8 @@
+{
+  "bang": "howtoforge",
+  "domain": "https://www.howtoforge.com",
+  "url": "http://www.howtoforge.com/trip_search?keys=%s",
+  "description": "HowtoForge",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

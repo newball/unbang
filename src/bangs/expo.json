@@ -1,0 +1,8 @@
+{
+  "bang": "expo",
+  "domain": "https://docs.expo.io",
+  "url": "https://docs.expo.io/versions/latest/sdk/%s",
+  "description": "Expo Documentation",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

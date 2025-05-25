@@ -1,0 +1,8 @@
+{
+  "bang": "ean",
+  "domain": "https://www.ean-search.org",
+  "url": "http://www.ean-search.org/perl/ean-search.pl?q=%s",
+  "description": "EAN Search",
+  "category": "Research",
+  "sub-category": "Reference"
+}

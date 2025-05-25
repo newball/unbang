@@ -1,0 +1,8 @@
+{
+  "bang": "ndla",
+  "domain": "https://ndla.no",
+  "url": "https://ndla.no/en/search/apachesolr_search/%s?language[]=und&filters=1/",
+  "description": "NDLA",
+  "category": "Research",
+  "sub-category": "Academic"
+}

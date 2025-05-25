@@ -1,0 +1,8 @@
+{
+  "bang": "digitaltrends",
+  "domain": "https://www.digitaltrends.com",
+  "url": "http://www.digitaltrends.com/?s=%s",
+  "description": "DigitalTrends",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

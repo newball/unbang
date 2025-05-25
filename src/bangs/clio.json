@@ -1,0 +1,8 @@
+{
+  "bang": "clio",
+  "domain": "https://clio.columbia.edu",
+  "url": "https://clio.columbia.edu/catalog?q=%s",
+  "description": "CLIO: Columbia University Library Catalog",
+  "category": "Research",
+  "sub-category": "Academic"
+}

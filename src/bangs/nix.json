@@ -1,0 +1,8 @@
+{
+  "bang": "nix",
+  "domain": "https://nixos.wiki",
+  "url": "https://nixos.wiki/index.php?search=%s",
+  "description": "NixOs Wiki",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

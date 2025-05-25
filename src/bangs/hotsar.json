@@ -1,0 +1,8 @@
+{
+  "bang": "hotsar",
+  "domain": "https://www.hotstar.com",
+  "url": "http://www.hotstar.com/search?q=%s",
+  "description": "Hotsar",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

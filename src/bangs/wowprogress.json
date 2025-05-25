@@ -1,0 +1,8 @@
+{
+  "bang": "wowprogress",
+  "domain": "https://www.wowprogress.com",
+  "url": "https://www.wowprogress.com/search?q=%s",
+  "description": "WoWProgress",
+  "category": "Entertainment",
+  "sub-category": "Games (WOW)"
+}

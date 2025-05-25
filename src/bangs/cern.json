@@ -1,0 +1,8 @@
+{
+  "bang": "cern",
+  "domain": "https://phonebook.cern.ch",
+  "url": "https://phonebook.cern.ch/phonebook/#search/?query=%s",
+  "description": "CERN Phonebook",
+  "category": "Research",
+  "sub-category": "Local"
+}

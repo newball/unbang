@@ -1,0 +1,8 @@
+{
+  "bang": "brt",
+  "domain": "https://www.britannica.com",
+  "url": "http://www.britannica.com/search?query=%s",
+  "description": "Britannyca",
+  "category": "Research",
+  "sub-category": "Reference"
+}

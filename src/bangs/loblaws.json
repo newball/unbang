@@ -1,0 +1,8 @@
+{
+  "bang": "loblaws",
+  "domain": "https://www.loblaws.ca",
+  "url": "https://www.loblaws.ca/search/?search-bar=%s",
+  "description": "Loblaws",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

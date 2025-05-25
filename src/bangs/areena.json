@@ -1,0 +1,8 @@
+{
+  "bang": "areena",
+  "domain": "https://haku.yle.fi",
+  "url": "http://haku.yle.fi/?q=%s&category=Areena",
+  "description": "YLE Areena",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

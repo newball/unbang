@@ -1,0 +1,8 @@
+{
+  "bang": "bpl",
+  "domain": "https://www.backpackinglight.com",
+  "url": "http://www.backpackinglight.com/cgi-bin/backpackinglight/search.html?q=%s",
+  "description": "Backpacking Light",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

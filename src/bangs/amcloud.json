@@ -1,0 +1,8 @@
+{
+  "bang": "amcloud",
+  "domain": "https://www.amazon.com",
+  "url": "https://www.amazon.com/clouddrive/#G=0&path=%s",
+  "description": "Amazon Cloud",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

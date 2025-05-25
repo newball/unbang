@@ -1,0 +1,8 @@
+{
+  "bang": "asksteem",
+  "domain": "https://www.asksteem.com",
+  "url": "https://www.asksteem.com/search?q=%s",
+  "description": "AskSteem",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

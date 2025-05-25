@@ -1,0 +1,8 @@
+{
+  "bang": "trending",
+  "domain": "https://trendingimages.in",
+  "url": "https://trendingimages.in/search/images/?q=%s",
+  "description": "TrendingImages",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

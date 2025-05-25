@@ -1,0 +1,8 @@
+{
+  "bang": "coin",
+  "domain": "https://coinmarketcap.com",
+  "url": "https://coinmarketcap.com/search/?q=%s",
+  "description": "CoinMarketCap",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ghu",
+  "domain": "https://www.google.hu",
+  "url": "http://www.google.hu/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google HU",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

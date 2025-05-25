@@ -1,0 +1,8 @@
+{
+  "bang": "yw",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Aweather.yahoo.com+%s",
+  "description": "Yahoo! Weather",
+  "category": "News",
+  "sub-category": "Weather"
+}

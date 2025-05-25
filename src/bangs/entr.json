@@ -1,0 +1,8 @@
+{
+  "bang": "entr",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#en/tr/%s ",
+  "description": "Google Translate",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

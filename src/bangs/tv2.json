@@ -1,0 +1,8 @@
+{
+  "bang": "tv2",
+  "domain": "https://search.tv2.dk",
+  "url": "https://search.tv2.dk/?query=%s&sort=relevance&page=1",
+  "description": "TV2",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "iberlibro",
+  "domain": "https://www.iberlibro.com",
+  "url": "https://www.iberlibro.com/servlet/SearchResults?sts=t&an=&tn=&kn=%s&isbn=",
+  "description": "Iberlibro",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

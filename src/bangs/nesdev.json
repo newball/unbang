@@ -1,0 +1,8 @@
+{
+  "bang": "nesdev",
+  "domain": "https://wiki.nesdev.com",
+  "url": "http://wiki.nesdev.com/w/index.php?title=Special%3ASearch&search=%s&fulltext=1",
+  "description": "NESDev Wiki",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

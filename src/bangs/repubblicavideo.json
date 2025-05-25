@@ -1,0 +1,8 @@
+{
+  "bang": "repubblicavideo",
+  "domain": "https://ricerca.repubblica.it",
+  "url": "http://ricerca.repubblica.it/ricerca/repubblica-video?query=%s&view=repubblica-video",
+  "description": "La Repubblica",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

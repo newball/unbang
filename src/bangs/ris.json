@@ -1,0 +1,8 @@
+{
+  "bang": "ris",
+  "domain": "https://www.ris.bka.gv.at",
+  "url": "https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Gesamtabfrage&SearchInAsylGH=False&SearchInAvn=False&SearchInAvsv=False&SearchInBegut=False&SearchInBgblAlt=False&SearchInBgblAuth=False&SearchInBgblPdf=False&SearchInBks=False&SearchInBundesnormen=False&SearchInDok=False&SearchInDsk=False&SearchInErlaesse=False&SearchInGbk=False&SearchInGemeinderecht=False&SearchInJustiz=False&SearchInBvwg=False&SearchInLvwg=False&SearchInLgbl=False&SearchInLgblNO=False&SearchInLgblAuth=False&SearchInLrBgld=False&SearchInLrK=False&SearchInLrNO=False&SearchInLrOO=False&SearchInLrSbg=False&SearchInLrStmk=False&SearchInLrT=False&SearchInLrVbg=False&SearchInLrW=False&SearchInNormenliste=False&SearchInPvak=False&SearchInRegV=False&SearchInUbas=False&SearchInUmse=False&SearchInUvs=False&SearchInVerg=False&SearchInVfgh=False&SearchInVwgh=False&ImRisSeit=Undefined&ResultPageSize=100&Suchworte=%s&Position=1",
+  "description": "RIS",
+  "category": "Research",
+  "sub-category": "Reference"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "drugbank",
+  "domain": "https://www.drugbank.ca",
+  "url": "http://www.drugbank.ca/search?query=%s ",
+  "description": "drugbank.ca",
+  "category": "Research",
+  "sub-category": "Health"
+}

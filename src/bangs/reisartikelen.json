@@ -1,0 +1,8 @@
+{
+  "bang": "reisartikelen",
+  "domain": "https://www.reisartikelen.nl",
+  "url": "https://www.reisartikelen.nl/search/?q=%s",
+  "description": "Reisartikelen.nl",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ghk",
+  "domain": "https://www.google.com.hk",
+  "url": "http://www.google.com.hk/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google HK",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

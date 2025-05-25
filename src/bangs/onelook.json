@@ -1,0 +1,8 @@
+{
+  "bang": "onelook",
+  "domain": "https://onelook.com",
+  "url": "http://onelook.com/?w=%s",
+  "description": "OneLook",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

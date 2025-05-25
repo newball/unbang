@@ -1,0 +1,8 @@
+{
+  "bang": "askubnt",
+  "domain": "https://askubuntu.com",
+  "url": "http://askubuntu.com/search?q=%s",
+  "description": "Ask Ubuntu",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

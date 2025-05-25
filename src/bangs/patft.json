@@ -1,0 +1,8 @@
+{
+  "bang": "patft",
+  "domain": "https://patft.uspto.gov",
+  "url": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&OS=&RS=%22%s%22&Query=%22%s%22&TD=&Srch1=%22%s%22&NextList1=xxx",
+  "description": "US Patent Database Search",
+  "category": "Research",
+  "sub-category": "Government"
+}

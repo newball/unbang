@@ -1,0 +1,8 @@
+{
+  "bang": "wmo",
+  "domain": "https://public.wmo.int",
+  "url": "https://public.wmo.int/en/search?search_api_views_fulltext=%s",
+  "description": "World Meteorological Organisation",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

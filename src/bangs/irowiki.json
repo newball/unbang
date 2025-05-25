@@ -1,0 +1,8 @@
+{
+  "bang": "irowiki",
+  "domain": "https://irowiki.org",
+  "url": "http://irowiki.org/w/index.php?search=%s",
+  "description": "IroWiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "aptbrowse",
+  "domain": "https://www.apt-browse.org",
+  "url": "https://www.apt-browse.org/search/?query=%s",
+  "description": "Apt-Browse",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

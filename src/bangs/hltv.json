@@ -1,0 +1,8 @@
+{
+  "bang": "hltv",
+  "domain": "https://www.hltv.org",
+  "url": "https://www.hltv.org/search?query=%s",
+  "description": "HLTV.org",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

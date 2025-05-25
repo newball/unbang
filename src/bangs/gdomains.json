@@ -1,0 +1,8 @@
+{
+  "bang": "gdomains",
+  "domain": "https://domains.google.com",
+  "url": "https://domains.google.com/registrar?s=%s",
+  "description": "Google Domains",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

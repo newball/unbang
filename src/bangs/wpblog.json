@@ -1,0 +1,8 @@
+{
+  "bang": "wpblog",
+  "domain": "https://%s.wordpress.com",
+  "url": "http://%s.wordpress.com",
+  "description": "WordPress.com",
+  "category": "Entertainment",
+  "sub-category": "Blogs"
+}

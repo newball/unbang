@@ -1,0 +1,8 @@
+{
+  "bang": "campl",
+  "domain": "https://dictionary.cambridge.org",
+  "url": "http://dictionary.cambridge.org/dictionary/english-polish/%s",
+  "description": "Cambridge PL",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

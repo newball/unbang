@@ -1,0 +1,8 @@
+{
+  "bang": "itebooks",
+  "domain": "https://it-ebooks.info",
+  "url": "http://it-ebooks.info/search/?q=%s&type=title",
+  "description": "http://it-ebooks.info/",
+  "category": "Research",
+  "sub-category": "Learning"
+}

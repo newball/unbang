@@ -1,0 +1,8 @@
+{
+  "bang": "skimage",
+  "domain": "https://scikit-image.org",
+  "url": "http://scikit-image.org/docs/dev/search.html?q=%s&check_keywords=yes&area=default",
+  "description": "scikit-image",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

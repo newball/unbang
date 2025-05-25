@@ -1,0 +1,8 @@
+{
+  "bang": "gw2wiki",
+  "domain": "https://wiki.guildwars2.com",
+  "url": "http://wiki.guildwars2.com/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "Guild Wars 2 Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

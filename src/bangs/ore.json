@@ -1,0 +1,8 @@
+{
+  "bang": "ore",
+  "domain": "https://ore.spongepowered.org",
+  "url": "https://ore.spongepowered.org/?q=%s",
+  "description": "Package Repository for Minecraft",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

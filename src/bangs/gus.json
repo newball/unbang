@@ -1,0 +1,8 @@
+{
+  "bang": "gus",
+  "domain": "https://www.google.com",
+  "url": "http://www.google.com/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google US",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

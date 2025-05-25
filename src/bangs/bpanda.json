@@ -1,0 +1,8 @@
+{
+  "bang": "bpanda",
+  "domain": "https://www.boredpanda.com",
+  "url": "https://www.boredpanda.com/?s=%s",
+  "description": "Bored Panda",
+  "category": "Entertainment",
+  "sub-category": "Blogs"
+}

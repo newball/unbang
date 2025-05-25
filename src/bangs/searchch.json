@@ -1,0 +1,8 @@
+{
+  "bang": "searchch",
+  "domain": "https://www.search.ch",
+  "url": "http://www.search.ch/?q=%s&search=Suchen",
+  "description": "search.ch",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

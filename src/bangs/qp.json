@@ -1,0 +1,8 @@
+{
+  "bang": "qp",
+  "domain": "https://www.quip.com",
+  "url": "https://www.quip.com/search?q=%s",
+  "description": "Quip",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

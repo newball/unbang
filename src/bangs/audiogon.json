@@ -1,0 +1,8 @@
+{
+  "bang": "audiogon",
+  "domain": "https://app.audiogon.com",
+  "url": "https://app.audiogon.com/listings?&global_search_text=%s",
+  "description": "Audiogon",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

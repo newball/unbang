@@ -1,0 +1,8 @@
+{
+  "bang": "uaar",
+  "domain": "https://www.uaar.it",
+  "url": "http://www.uaar.it/news/?s=%s",
+  "description": "UAAR",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

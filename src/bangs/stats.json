@@ -1,0 +1,8 @@
+{
+  "bang": "stats",
+  "domain": "https://statisticsbyjim.com",
+  "url": "https://statisticsbyjim.com/?s=%s",
+  "description": "Statistics By Jim",
+  "category": "Research",
+  "sub-category": "Academic"
+}

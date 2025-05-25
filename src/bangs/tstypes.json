@@ -1,0 +1,8 @@
+{
+  "bang": "tstypes",
+  "domain": "https://www.npmjs.com",
+  "url": "https://www.npmjs.com/search?q=%40types%2F%s",
+  "description": "DefinitelyTyped",
+  "category": "Tech",
+  "sub-category": "Languages (javascript)"
+}

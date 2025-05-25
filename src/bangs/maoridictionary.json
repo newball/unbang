@@ -1,0 +1,8 @@
+{
+  "bang": "maoridictionary",
+  "domain": "https://maoridictionary.co.nz",
+  "url": "http://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=%s",
+  "description": "Māori Dictionary",
+  "category": "Research",
+  "sub-category": "Reference"
+}

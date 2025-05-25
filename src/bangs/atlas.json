@@ -1,0 +1,8 @@
+{
+  "bang": "atlas",
+  "domain": "https://atlas.torproject.org",
+  "url": "https://atlas.torproject.org/#search/%s",
+  "description": "Atlas",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

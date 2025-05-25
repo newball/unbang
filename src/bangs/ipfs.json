@@ -1,0 +1,8 @@
+{
+  "bang": "ipfs",
+  "domain": "https://ipfs.io",
+  "url": "https://ipfs.io/ipfs/%s",
+  "description": "InterPlanetary File System",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

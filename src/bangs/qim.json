@@ -1,0 +1,8 @@
+{
+  "bang": "qim",
+  "domain": "https://www.qim.com",
+  "url": "http://www.qim.com/artistes/artiste.asp?search=%s",
+  "description": "Québec Info Musique",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

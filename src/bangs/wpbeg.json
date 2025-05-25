@@ -1,0 +1,8 @@
+{
+  "bang": "wpbeg",
+  "domain": "https://www.wpbeginner.com",
+  "url": "http://www.wpbeginner.com/search/?q=%s",
+  "description": "WP Beginner",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "sanakirja",
+  "domain": "https://www.sanakirja.org",
+  "url": "http://www.sanakirja.org/search.php?q=%s ",
+  "description": "Sanakirja.org",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

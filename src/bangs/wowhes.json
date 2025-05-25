@@ -1,0 +1,8 @@
+{
+  "bang": "wowhes",
+  "domain": "https://es.wowhead.com",
+  "url": "https://es.wowhead.com/search?q=%s",
+  "description": "Wowhead (Español)",
+  "category": "Entertainment",
+  "sub-category": "Games (WOW)"
+}

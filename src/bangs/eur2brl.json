@@ -1,0 +1,8 @@
+{
+  "bang": "eur2brl",
+  "domain": "https://www.xe.com",
+  "url": "https://www.xe.com/currencyconverter/convert/?Amount=%s&From=EUR&To=BRL",
+  "description": "XE",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "almanac",
+  "domain": "https://www.almanac.com",
+  "url": "http://www.almanac.com/store/product-search?keys=%s",
+  "description": "The Old Farmer's Almanac",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

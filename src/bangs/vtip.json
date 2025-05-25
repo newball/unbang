@@ -1,0 +1,8 @@
+{
+  "bang": "vtip",
+  "domain": "https://www.virustotal.com",
+  "url": "https://www.virustotal.com/en/ip-address/%s/information/",
+  "description": "www.virustotal.com",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

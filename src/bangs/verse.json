@@ -1,0 +1,8 @@
+{
+  "bang": "verse",
+  "domain": "https://www.bible.com",
+  "url": "https://www.bible.com/search/bible?q=%s",
+  "description": "Bible.com",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

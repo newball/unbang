@@ -1,0 +1,8 @@
+{
+  "bang": "ta",
+  "domain": "https://www.tripadvisor.com",
+  "url": "http://www.tripadvisor.com/Search?q=%s ",
+  "description": "tripadvisor",
+  "category": "Research",
+  "sub-category": "Travel"
+}

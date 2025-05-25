@@ -1,0 +1,8 @@
+{
+  "bang": "cproj",
+  "domain": "https://www.codeproject.com",
+  "url": "http://www.codeproject.com/search.aspx?q=%s",
+  "description": "Code Project",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

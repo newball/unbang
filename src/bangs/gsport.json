@@ -1,0 +1,8 @@
+{
+  "bang": "gsport",
+  "domain": "https://www.gsport.no",
+  "url": "https://www.gsport.no/magento/sok?q=%s",
+  "description": "G-Sport",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

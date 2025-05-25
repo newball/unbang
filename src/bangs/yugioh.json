@@ -1,0 +1,8 @@
+{
+  "bang": "yugioh",
+  "domain": "https://yugipedia.com",
+  "url": "https://yugipedia.com/wiki/Special:Search?search=%s&button=Go",
+  "description": "Yu-Gi-Oh! Wikia",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

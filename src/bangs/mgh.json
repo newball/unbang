@@ -1,0 +1,8 @@
+{
+  "bang": "mgh",
+  "domain": "https://www.dmgh.de",
+  "url": "https://www.dmgh.de/de/fs1/search/query.html?fulltext=%s",
+  "description": "Monumenta Germaniae Historica",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "utopia",
+  "domain": "https://wiki.utopia-game.com",
+  "url": "http://wiki.utopia-game.com/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "Utopia Wikipedia",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

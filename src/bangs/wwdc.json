@@ -1,0 +1,8 @@
+{
+  "bang": "wwdc",
+  "domain": "https://asciiwwdc.com",
+  "url": "http://asciiwwdc.com/search?q=%s",
+  "description": "ASCIIwwdc",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

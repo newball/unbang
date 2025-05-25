@@ -1,0 +1,8 @@
+{
+  "bang": "appcel",
+  "domain": "https://developer.appcelerator.com",
+  "url": "http://developer.appcelerator.com/apidoc/search/mobile/latest?q=%s",
+  "description": "Appcelerator API Docs",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

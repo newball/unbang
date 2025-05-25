@@ -1,0 +1,8 @@
+{
+  "bang": "au",
+  "domain": "https://aur.archlinux.org",
+  "url": "https://aur.archlinux.org/packages/?K=%s",
+  "description": "Arch Linux User Repository",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

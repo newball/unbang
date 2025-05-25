@@ -1,0 +1,8 @@
+{
+  "bang": "geoip",
+  "domain": "https://www.infosniper.net",
+  "url": "http://www.infosniper.net/index.php?ip_address=%s",
+  "description": "InfoSniper",
+  "category": "Tech",
+  "sub-category": "Sysadmin (packages)"
+}

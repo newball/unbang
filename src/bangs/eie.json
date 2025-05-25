@@ -1,0 +1,8 @@
+{
+  "bang": "eie",
+  "domain": "https://www.ebay.ie",
+  "url": "https://www.ebay.ie/sch/items/?_nkw=%s",
+  "description": "ebay.ie",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

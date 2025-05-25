@@ -1,0 +1,8 @@
+{
+  "bang": "5",
+  "domain": "https://fiverr.com",
+  "url": "http://fiverr.com/gigs/search?query=%s",
+  "description": "Fiverr",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

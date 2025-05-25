@@ -1,0 +1,8 @@
+{
+  "bang": "qiita",
+  "domain": "https://qiita.com",
+  "url": "http://qiita.com/search?q=%s",
+  "description": "Qiita",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

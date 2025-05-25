@@ -1,0 +1,8 @@
+{
+  "bang": "berlinmap",
+  "domain": "https://www.berlin.de",
+  "url": "http://www.berlin.de/stadtplan/?ADR_STREET=%s",
+  "description": "Berlin.de – Stadtplan",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

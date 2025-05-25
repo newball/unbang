@@ -1,0 +1,8 @@
+{
+  "bang": "revenit",
+  "domain": "https://context.reverso.net",
+  "url": "http://context.reverso.net/translation/english-italian/%s",
+  "description": "Reverso Context",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

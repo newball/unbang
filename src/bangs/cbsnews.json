@@ -1,0 +1,8 @@
+{
+  "bang": "cbsnews",
+  "domain": "https://search.cbsnews.com",
+  "url": "http://search.cbsnews.com/?source=cbs&q=%s",
+  "description": "CBSNews",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

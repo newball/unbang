@@ -1,0 +1,8 @@
+{
+  "bang": "gowifi",
+  "domain": "https://www.gowifi.co.nz",
+  "url": "http://www.gowifi.co.nz/product-search.html?keyword=%s",
+  "description": "Go Wireless NZ",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

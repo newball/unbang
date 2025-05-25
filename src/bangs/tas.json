@@ -1,0 +1,8 @@
+{
+  "bang": "tas",
+  "domain": "https://tasvideos.org",
+  "url": "http://tasvideos.org/Search.html?key=%s ",
+  "description": "TASVideos",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

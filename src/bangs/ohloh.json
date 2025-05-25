@@ -1,0 +1,8 @@
+{
+  "bang": "ohloh",
+  "domain": "https://www.ohloh.net",
+  "url": "https://www.ohloh.net/search?q=%s",
+  "description": "ohloh",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

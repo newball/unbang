@@ -1,0 +1,8 @@
+{
+  "bang": "freebsdman",
+  "domain": "https://man.freebsd.org",
+  "url": "http://man.freebsd.org/%s",
+  "description": "FreeBSD Man Pages",
+  "category": "Tech",
+  "sub-category": "Sysadmin (man)"
+}

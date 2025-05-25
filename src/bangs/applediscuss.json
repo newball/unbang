@@ -1,0 +1,8 @@
+{
+  "bang": "applediscuss",
+  "domain": "https://discussions.apple.com",
+  "url": "https://discussions.apple.com/search.jspa?peopleEnabled=true&userID=&containerType=&container=&spotlight=true&q=%s",
+  "description": "Apple Discussions",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

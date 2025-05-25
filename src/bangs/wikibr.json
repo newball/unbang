@@ -1,0 +1,8 @@
+{
+  "bang": "wikibr",
+  "domain": "https://pt.wikipedia.org",
+  "url": "https://pt.wikipedia.org/wiki/%s",
+  "description": "Wikipédia Brasil",
+  "category": "Research",
+  "sub-category": "Learning"
+}

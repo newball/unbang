@@ -1,0 +1,8 @@
+{
+  "bang": "askfedora",
+  "domain": "https://ask.fedoraproject.org",
+  "url": "https://ask.fedoraproject.org/en/questions/scope:all/sort:activity-desc/page:1/query:%s/",
+  "description": "Ask Fedora",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Fedora)"
+}

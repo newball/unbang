@@ -1,0 +1,8 @@
+{
+  "bang": "shoopde",
+  "domain": "https://www.shoop.de",
+  "url": "https://www.shoop.de/suche?q=%s",
+  "description": "Shoop.de",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

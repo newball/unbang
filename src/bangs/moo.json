@@ -1,0 +1,8 @@
+{
+  "bang": "moo",
+  "domain": "https://www.moo.com",
+  "url": "https://www.moo.com/search?query=%s",
+  "description": "MOO",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

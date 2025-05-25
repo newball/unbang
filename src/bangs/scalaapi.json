@@ -1,0 +1,8 @@
+{
+  "bang": "scalaapi",
+  "domain": "https://www.scala-lang.org",
+  "url": "http://www.scala-lang.org/api/current/index.html?search=%s",
+  "description": "Scala Standard Library",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

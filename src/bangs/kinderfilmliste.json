@@ -1,0 +1,8 @@
+{
+  "bang": "kinderfilmliste",
+  "domain": "https://www.kinderfilmliste.de",
+  "url": "http://www.kinderfilmliste.de/?suche=%s",
+  "description": "KinderFilmListe.de",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "intohu",
+  "domain": "https://into.hu",
+  "url": "http://into.hu/kereses.php?kereses=%s&cikk=1&forum=1&letolt=1&fal=1&zene=1&kerdesek=1&page=1",
+  "description": "Into.hu",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

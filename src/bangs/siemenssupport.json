@@ -1,0 +1,8 @@
+{
+  "bang": "siemenssupport",
+  "domain": "https://support.industry.siemens.com",
+  "url": "https://support.industry.siemens.com/cs/search?search=%s",
+  "description": "Siemens Industry Support",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

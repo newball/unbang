@@ -1,0 +1,8 @@
+{
+  "bang": "lmwiki",
+  "domain": "https://luigi-mansion.wikia.com",
+  "url": "http://luigi-mansion.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Luigi's Mansion Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

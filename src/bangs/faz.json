@@ -1,0 +1,8 @@
+{
+  "bang": "faz",
+  "domain": "https://www.faz.net",
+  "url": "http://www.faz.net/suche/?query=%s",
+  "description": "Frankfurter Allgemeine",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

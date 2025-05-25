@@ -1,0 +1,8 @@
+{
+  "bang": "mdc",
+  "domain": "https://developer.mozilla.org",
+  "url": "https://developer.mozilla.org/search?q=%s",
+  "description": "Mozilla Developer Center",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

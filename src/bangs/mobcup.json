@@ -1,0 +1,8 @@
+{
+  "bang": "mobcup",
+  "domain": "https://mobcup.net",
+  "url": "https://mobcup.net/search?q=%s",
+  "description": "MobCup",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

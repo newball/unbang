@@ -1,0 +1,8 @@
+{
+  "bang": "fake",
+  "domain": "https://www.fakespot.com",
+  "url": "https://www.fakespot.com/analyze?url=%s",
+  "description": "Fakespot",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "stackshare",
+  "domain": "https://stackshare.io",
+  "url": "http://stackshare.io/search/q=%s",
+  "description": "StackShare",
+  "category": "Tech",
+  "sub-category": "Startups"
+}

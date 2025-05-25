@@ -1,0 +1,8 @@
+{
+  "bang": "frida",
+  "domain": "https://frida.fooddata.dk",
+  "url": "https://frida.fooddata.dk/food/search?lang=en&q=%s",
+  "description": "Frida fooddata.dk",
+  "category": "Research",
+  "sub-category": "Food"
+}

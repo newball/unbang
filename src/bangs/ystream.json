@@ -1,0 +1,8 @@
+{
+  "bang": "ystream",
+  "domain": "https://ystream.tv",
+  "url": "https://ystream.tv/q/?s=%s",
+  "description": "YStream.TV",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

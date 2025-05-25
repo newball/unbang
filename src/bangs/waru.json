@@ -1,0 +1,8 @@
+{
+  "bang": "waru",
+  "domain": "https://www.world-art.ru",
+  "url": "http://www.world-art.ru/search.php?public_search=%s&global_sector=all",
+  "description": "World-Art.ru",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

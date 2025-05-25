@@ -1,0 +1,8 @@
+{
+  "bang": "seen",
+  "domain": "https://seenthis.net",
+  "url": "http://seenthis.net/spip.php?page=recherche&recherche=%s",
+  "description": "SeenThis",
+  "category": "Online Services",
+  "sub-category": "Social news/links"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "sojs",
+  "domain": "https://stackoverflow.com",
+  "url": "https://stackoverflow.com/search?q=[javascript]+%s",
+  "description": "Stack Overflow JavaScript",
+  "category": "Tech",
+  "sub-category": "Languages (javascript)"
+}

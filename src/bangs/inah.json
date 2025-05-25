@@ -1,0 +1,8 @@
+{
+  "bang": "inah",
+  "domain": "https://www.inah.gob.mx",
+  "url": "https://www.inah.gob.mx/buscador?searchword=%s",
+  "description": "Instituto Nacional de Antropología e Historia",
+  "category": "Research",
+  "sub-category": "Academic"
+}

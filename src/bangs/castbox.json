@@ -1,0 +1,8 @@
+{
+  "bang": "castbox",
+  "domain": "https://castbox.fm",
+  "url": "https://castbox.fm/podcasts/%s",
+  "description": "CastBox",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "tyd",
+  "domain": "https://tyda.se",
+  "url": "http://tyda.se/search/%s?lang%5B0%5D=en&lang%5B1%5D=fr&lang%5B2%5D=de&lang%5B3%5D=es&lang%5B4%5D=la&lang%5B5%5D=nb&lang%5B6%5D=da&lang%5B7%5D=sv",
+  "description": "Tyda.se",
+  "category": "Research",
+  "sub-category": "Learning"
+}

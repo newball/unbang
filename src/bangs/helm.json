@@ -1,0 +1,8 @@
+{
+  "bang": "helm",
+  "domain": "https://www.helm.nu",
+  "url": "http://www.helm.nu/Pages/Search.aspx?search=%s",
+  "description": "Helm",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

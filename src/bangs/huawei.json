@@ -1,0 +1,8 @@
+{
+  "bang": "huawei",
+  "domain": "https://consumer.huawei.com",
+  "url": "http://consumer.huawei.com/en/search/index.htm?keywords=%s",
+  "description": "Huawei",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

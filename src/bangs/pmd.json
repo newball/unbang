@@ -1,0 +1,8 @@
+{
+  "bang": "pmd",
+  "domain": "https://www.ncbi.nlm.nih.gov",
+  "url": "http://www.ncbi.nlm.nih.gov/pubmed/?term=%s",
+  "description": "Pubmed",
+  "category": "Research",
+  "sub-category": "Academic"
+}

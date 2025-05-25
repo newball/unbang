@@ -1,0 +1,8 @@
+{
+  "bang": "gwi",
+  "domain": "https://gowatchit.com",
+  "url": "https://gowatchit.com/search?terms=%s",
+  "description": "Gowatchit",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

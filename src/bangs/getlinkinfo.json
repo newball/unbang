@@ -1,0 +1,8 @@
+{
+  "bang": "getlinkinfo",
+  "domain": "https://www.getlinkinfo.com",
+  "url": "http://www.getlinkinfo.com/info?link=%s",
+  "description": "GetLinkInfo",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

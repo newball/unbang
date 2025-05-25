@@ -1,0 +1,8 @@
+{
+  "bang": "pxvg",
+  "domain": "https://pixabay.com",
+  "url": "https://pixabay.com/en/photos/?image_type=vector&cat=&min_width=&min_height=&q=%s&order=latest",
+  "description": "Pixabay vector graphics",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

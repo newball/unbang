@@ -1,0 +1,8 @@
+{
+  "bang": "hypixel",
+  "domain": "https://hypixel.net",
+  "url": "https://hypixel.net/player/%s/",
+  "description": "Hypixel",
+  "category": "Entertainment",
+  "sub-category": "Games (Minecraft)"
+}

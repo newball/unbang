@@ -1,0 +1,8 @@
+{
+  "bang": "ltc",
+  "domain": "https://litecoin.holytransaction.com",
+  "url": "https://litecoin.holytransaction.com/address/%s",
+  "description": "Litecoin Holy Transaction",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

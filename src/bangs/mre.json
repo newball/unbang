@@ -1,0 +1,8 @@
+{
+  "bang": "mre",
+  "domain": "https://m.reddit.com",
+  "url": "https://m.reddit.com/search?q=%s",
+  "description": "Reddit Mobile",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wrighttools",
+  "domain": "https://wright.tools",
+  "url": "http://wright.tools/en/stable/search.html?q=%s&check_keywords=yes&area=default",
+  "description": "Wright Tools",
+  "category": "Research",
+  "sub-category": "Academic"
+}

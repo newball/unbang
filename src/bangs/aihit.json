@@ -1,0 +1,8 @@
+{
+  "bang": "aihit",
+  "domain": "https://www.aihitdata.com",
+  "url": "https://www.aihitdata.com/search/companies?i=%s",
+  "description": "aihit",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

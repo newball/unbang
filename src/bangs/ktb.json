@@ -1,0 +1,8 @@
+{
+  "bang": "ktb",
+  "domain": "https://techbase.kde.org",
+  "url": "http://techbase.kde.org/Special:Search?search=%s&fulltext=Search",
+  "description": "KDE TechBase",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "cstrade",
+  "domain": "https://www.reddit.com",
+  "url": "https://www.reddit.com/r/GlobalOffensiveTrade/search?q=%s&restrict_sr=on&sort=new&t=all",
+  "description": "/r/globaloffensivetrade",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

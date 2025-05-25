@@ -1,0 +1,8 @@
+{
+  "bang": "adelung",
+  "domain": "https://woerterbuchnetz.de",
+  "url": "http://woerterbuchnetz.de/Adelung/?lemma=%s",
+  "description": "Adelung: Grammatisch-Kritisches Wörterbuch der Hochdeutschen Mundart",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

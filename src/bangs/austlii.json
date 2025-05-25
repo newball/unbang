@@ -1,0 +1,8 @@
+{
+  "bang": "austlii",
+  "domain": "https://www.austlii.edu.au",
+  "url": "http://www.austlii.edu.au/cgi-bin/sinosrch.cgi?query=%s&results=50&submit=Search&mask_world=&mask_path=&callback=on&method=auto&meta=%2Fau",
+  "description": "AustLII (Australasian Legal Information Institute)",
+  "category": "Research",
+  "sub-category": "Law"
+}

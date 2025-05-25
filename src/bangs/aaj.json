@@ -1,0 +1,8 @@
+{
+  "bang": "aaj",
+  "domain": "https://www.allaboutjazz.com",
+  "url": "https://www.allaboutjazz.com/php/article_center.php?in_artist=%s&in_album=&in_label=&in_author=&in_type=0&orderby=dt_pub",
+  "description": "All About Jazz",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

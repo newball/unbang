@@ -1,0 +1,8 @@
+{
+  "bang": "lipsum",
+  "domain": "https://www.lipsum.com",
+  "url": "http://www.lipsum.com/feed/html?amount=%s",
+  "description": "Lorem Ipsum",
+  "category": "Tech",
+  "sub-category": "Design"
+}

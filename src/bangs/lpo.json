@@ -1,0 +1,8 @@
+{
+  "bang": "lpo",
+  "domain": "https://www.lapoliticaonline.com",
+  "url": "http://www.lapoliticaonline.com/0/buscar/index.vnc?id=%s",
+  "description": "La Política Online",
+  "category": "News",
+  "sub-category": "International"
+}

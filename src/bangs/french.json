@@ -1,0 +1,8 @@
+{
+  "bang": "french",
+  "domain": "https://french.stackexchange.com",
+  "url": "http://french.stackexchange.com/search?q=%s",
+  "description": "French Language and Usage",
+  "category": "Research",
+  "sub-category": "Learning"
+}

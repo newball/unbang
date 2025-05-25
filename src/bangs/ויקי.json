@@ -1,0 +1,8 @@
+{
+  "bang": "ויקי",
+  "domain": "https://he.wikipedia.org",
+  "url": "https://he.wikipedia.org/w/index.php?search=%s&title=מיוחד%3Aחיפוש&go=לערך",
+  "description": "Hebrew wikipedia",
+  "category": "Research",
+  "sub-category": "Academic"
+}

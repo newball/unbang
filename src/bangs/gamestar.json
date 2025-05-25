@@ -1,0 +1,8 @@
+{
+  "bang": "gamestar",
+  "domain": "https://www.gamestar.de",
+  "url": "http://www.gamestar.de/index.cfm?pid=109&s=%s",
+  "description": "GameStar",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

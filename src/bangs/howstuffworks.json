@@ -1,0 +1,8 @@
+{
+  "bang": "howstuffworks",
+  "domain": "https://www.howstuffworks.com",
+  "url": "http://www.howstuffworks.com/search.php?terms=%s",
+  "description": "How Stuff Works",
+  "category": "Research",
+  "sub-category": "Learning"
+}

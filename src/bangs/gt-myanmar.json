@@ -1,0 +1,8 @@
+{
+  "bang": "gt-myanmar",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/my/%s",
+  "description": "Detect language to Myanmar (Burmese)",
+  "category": "Translation",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wilko",
+  "domain": "https://www.wilko.com",
+  "url": "http://www.wilko.com/search?q=%s",
+  "description": "wilko",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

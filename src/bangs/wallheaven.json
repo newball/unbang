@@ -1,0 +1,8 @@
+{
+  "bang": "wallheaven",
+  "domain": "https://wallhaven.cc",
+  "url": "https://wallhaven.cc/search?q=%s",
+  "description": "wallhaven",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

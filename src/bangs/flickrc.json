@@ -1,0 +1,8 @@
+{
+  "bang": "flickrc",
+  "domain": "https://www.flickr.com",
+  "url": "http://www.flickr.com/search/?q=%s&l=commderiv",
+  "description": "Flickr (comm/deriv)",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

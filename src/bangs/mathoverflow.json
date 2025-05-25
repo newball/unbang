@@ -1,0 +1,8 @@
+{
+  "bang": "mathoverflow",
+  "domain": "https://mathoverflow.net",
+  "url": "http://mathoverflow.net/search?q=%s",
+  "description": "MathOverflow",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

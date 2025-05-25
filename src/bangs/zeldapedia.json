@@ -1,0 +1,8 @@
+{
+  "bang": "zeldapedia",
+  "domain": "https://zelda.wikia.com",
+  "url": "http://zelda.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Zeldapedia",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

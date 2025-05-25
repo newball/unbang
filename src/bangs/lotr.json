@@ -1,0 +1,8 @@
+{
+  "bang": "lotr",
+  "domain": "https://lotr.wikia.com",
+  "url": "http://lotr.wikia.com/wiki/Special:Search?query=%s",
+  "description": "One Wiki to Rule Them All:  The Lord of the Rings Wiki",
+  "category": "Research",
+  "sub-category": "Topical"
+}

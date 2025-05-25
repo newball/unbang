@@ -1,0 +1,8 @@
+{
+  "bang": "ebsold",
+  "domain": "https://ebay.com",
+  "url": "https://ebay.com/sch/i.html?isRefine=true&_nkw=%s&LH_Sold=1",
+  "description": "eBay Sold",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "omni",
+  "domain": "https://omni.se",
+  "url": "http://omni.se/sok?q=%s",
+  "description": "Omni",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

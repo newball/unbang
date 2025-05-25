@@ -1,0 +1,8 @@
+{
+  "bang": "dejure",
+  "domain": "https://dejure.org",
+  "url": "https://dejure.org/cgi-bin/suche?Suchenach=%s",
+  "description": "Dejure",
+  "category": "Research",
+  "sub-category": "Law"
+}

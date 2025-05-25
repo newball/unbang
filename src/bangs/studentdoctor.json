@@ -1,0 +1,8 @@
+{
+  "bang": "studentdoctor",
+  "domain": "https://www.studentdoctor.net",
+  "url": "http://www.studentdoctor.net/search-sdn/?cx=%s",
+  "description": "Student Doctor Network",
+  "category": "Research",
+  "sub-category": "Learning"
+}

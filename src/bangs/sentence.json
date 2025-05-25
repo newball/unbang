@@ -1,0 +1,8 @@
+{
+  "bang": "sentence",
+  "domain": "https://sentence.yourdictionary.com",
+  "url": "http://sentence.yourdictionary.com/%s",
+  "description": "Your Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

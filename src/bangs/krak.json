@@ -1,0 +1,8 @@
+{
+  "bang": "krak",
+  "domain": "https://www.krak.dk",
+  "url": "https://www.krak.dk/search?searchQuery=%s",
+  "description": "Krak",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

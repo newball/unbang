@@ -1,0 +1,8 @@
+{
+  "bang": "fsd",
+  "domain": "https://directory.fsf.org",
+  "url": "http://directory.fsf.org/wiki/%s",
+  "description": "Free Software Directory",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

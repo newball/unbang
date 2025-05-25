@@ -1,0 +1,8 @@
+{
+  "bang": "b5",
+  "domain": "https://babylon5.wikia.com",
+  "url": "http://babylon5.wikia.com/wiki/Special:Search?search=%s",
+  "description": "The Babylon Project",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

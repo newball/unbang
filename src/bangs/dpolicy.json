@@ -1,0 +1,8 @@
+{
+  "bang": "dpolicy",
+  "domain": "https://www.debian.org",
+  "url": "https://www.debian.org/doc/debian-policy %s",
+  "description": "Debian Policy Manual",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

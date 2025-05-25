@@ -1,0 +1,8 @@
+{
+  "bang": "grailed",
+  "domain": "https://www.grailed.com",
+  "url": "http://www.grailed.com/search?search=%s ",
+  "description": "grailed",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

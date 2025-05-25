@@ -1,0 +1,8 @@
+{
+  "bang": "ddgpd",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?df=d&q=%s",
+  "description": "DuckDuckGo Past Day",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "kprojects",
+  "domain": "https://projects.kde.org",
+  "url": "https://projects.kde.org/search?q=%s&all_words=1&projects=1&submit=Submit",
+  "description": "KDE Git Projects",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

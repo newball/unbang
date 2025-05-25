@@ -1,0 +1,8 @@
+{
+  "bang": "channel5",
+  "domain": "https://www.channel5.com",
+  "url": "http://www.channel5.com/search?q=%s",
+  "description": "Channel 5",
+  "category": "News",
+  "sub-category": "Online"
+}

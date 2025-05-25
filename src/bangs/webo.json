@@ -1,0 +1,8 @@
+{
+  "bang": "webo",
+  "domain": "https://www.webopedia.com",
+  "url": "https://www.webopedia.com/sgsearch/results?q=%s",
+  "description": "Webopedia",
+  "category": "Research",
+  "sub-category": "Reference"
+}

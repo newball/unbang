@@ -1,0 +1,8 @@
+{
+  "bang": "utlibrary",
+  "domain": "https://catalog.lib.utexas.edu",
+  "url": "https://catalog.lib.utexas.edu/search/?searchtype=X&SORT=D&searcharg=%s&searchscope=29",
+  "description": "University of Texas in Austin - Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

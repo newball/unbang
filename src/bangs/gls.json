@@ -1,0 +1,8 @@
+{
+  "bang": "gls",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Agolang.org+%s",
+  "description": "golang.org",
+  "category": "Tech",
+  "sub-category": "Languages (go)"
+}

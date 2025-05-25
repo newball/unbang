@@ -1,0 +1,8 @@
+{
+  "bang": "truesteam",
+  "domain": "https://truesteamachievements.com",
+  "url": "https://truesteamachievements.com/searchresults.aspx?search=%s",
+  "description": "TrueSteamAchievements",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

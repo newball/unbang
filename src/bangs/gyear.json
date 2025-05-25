@@ -1,0 +1,8 @@
+{
+  "bang": "gyear",
+  "domain": "https://www.google.com",
+  "url": "http://www.google.com/search?q=%s&tbs=qdr:y",
+  "description": "Google (Past Year)",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

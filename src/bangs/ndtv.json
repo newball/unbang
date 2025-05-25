@@ -1,0 +1,8 @@
+{
+  "bang": "ndtv",
+  "domain": "https://ndtv.com",
+  "url": "http://ndtv.com/topic/%s",
+  "description": "NDTV",
+  "category": "News",
+  "sub-category": "Magazine"
+}

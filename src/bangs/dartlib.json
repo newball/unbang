@@ -1,0 +1,8 @@
+{
+  "bang": "dartlib",
+  "domain": "https://libcat.dartmouth.edu",
+  "url": "http://libcat.dartmouth.edu/search/X?%s",
+  "description": "Dartmouth College Libraries",
+  "category": "Research",
+  "sub-category": "Academic"
+}

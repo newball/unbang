@@ -1,0 +1,8 @@
+{
+  "bang": "let",
+  "domain": "https://www.lowendtalk.com",
+  "url": "http://www.lowendtalk.com/search?Search=%s",
+  "description": "LowEndTalk",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

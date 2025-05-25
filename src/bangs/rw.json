@@ -1,0 +1,8 @@
+{
+  "bang": "rw",
+  "domain": "https://rationalwiki.org",
+  "url": "http://rationalwiki.org/w/index.php?search=%s",
+  "description": "RationalWiki",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

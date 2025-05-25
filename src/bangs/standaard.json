@@ -1,0 +1,8 @@
+{
+  "bang": "standaard",
+  "domain": "https://www.standaard.be",
+  "url": "http://www.standaard.be/zoeken?keyword=%s",
+  "description": "De Standaard",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

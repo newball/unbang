@@ -1,0 +1,8 @@
+{
+  "bang": "lingfp",
+  "domain": "https://www.linguee.fr",
+  "url": "http://www.linguee.fr/francais-portugais/search?source=auto&query=%s",
+  "description": "Linguee",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

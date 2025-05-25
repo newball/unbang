@@ -1,0 +1,8 @@
+{
+  "bang": "discountoffice",
+  "domain": "https://discountoffice.co.nz",
+  "url": "https://discountoffice.co.nz/search?type=product&q=%s*",
+  "description": "Discount Office",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

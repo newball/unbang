@@ -1,0 +1,8 @@
+{
+  "bang": "tsc",
+  "domain": "https://www.theshoppingchannel.com",
+  "url": "https://www.theshoppingchannel.com/search/%s",
+  "description": "The Shopping Channel",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

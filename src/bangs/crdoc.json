@@ -1,0 +1,8 @@
+{
+  "bang": "crdoc",
+  "domain": "https://crystal-lang.org",
+  "url": "https://crystal-lang.org/docs/?q=%s",
+  "description": "Crystal Language",
+  "category": "Tech",
+  "sub-category": "Languages (Crystal)"
+}

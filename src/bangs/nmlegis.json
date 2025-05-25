@@ -1,0 +1,8 @@
+{
+  "bang": "nmlegis",
+  "domain": "https://nmlegis.gov",
+  "url": "https://nmlegis.gov/?q=%s",
+  "description": "New Mexico Legislature",
+  "category": "Research",
+  "sub-category": "Government"
+}

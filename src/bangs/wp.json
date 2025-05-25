@@ -1,0 +1,8 @@
+{
+  "bang": "wp",
+  "domain": "https://wordpress.org",
+  "url": "http://wordpress.org/search/%s",
+  "description": "WordPress.org",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "skyrock",
+  "domain": "https://www.skyrock.com",
+  "url": "http://www.skyrock.com/search/people/?q=%s",
+  "description": "SkyRock",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

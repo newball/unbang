@@ -1,0 +1,8 @@
+{
+  "bang": "texture",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s+texture&iax=images&ia=images",
+  "description": "Google Images",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

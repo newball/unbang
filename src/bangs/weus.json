@@ -1,0 +1,8 @@
+{
+  "bang": "weus",
+  "domain": "https://eu.wikipedia.org",
+  "url": "https://eu.wikipedia.org/wiki/Special:Search?search=%s",
+  "description": "Wikipedia Euskaraz (in Basque)",
+  "category": "Research",
+  "sub-category": "Academic"
+}

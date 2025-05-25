@@ -1,0 +1,8 @@
+{
+  "bang": "pep",
+  "domain": "https://www.python.org",
+  "url": "http://www.python.org/dev/peps/pep-%s/",
+  "description": "Python PEP",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

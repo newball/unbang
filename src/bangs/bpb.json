@@ -1,0 +1,8 @@
+{
+  "bang": "bpb",
+  "domain": "https://www.bpb.de",
+  "url": "http://www.bpb.de/suche/?suchwort=%s&suchen=Suchen",
+  "description": "Bundeszentrale für politische Bildung",
+  "category": "Research",
+  "sub-category": "Government"
+}

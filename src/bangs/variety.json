@@ -1,0 +1,8 @@
+{
+  "bang": "variety",
+  "domain": "https://variety.com",
+  "url": "https://variety.com/results/#?q=%s ",
+  "description": "Variety",
+  "category": "News",
+  "sub-category": "Magazine"
+}

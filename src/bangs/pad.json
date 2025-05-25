@@ -1,0 +1,8 @@
+{
+  "bang": "pad",
+  "domain": "https://pad.wikia.com",
+  "url": "http://pad.wikia.com/wiki/Special:Search?search=%s&fulltext=Search&ns0=1&ns14=1",
+  "description": "Puzzle & Dragons Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

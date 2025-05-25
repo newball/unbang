@@ -1,0 +1,8 @@
+{
+  "bang": "hackeradana",
+  "domain": "https://blog.hackeradana.org",
+  "url": "https://blog.hackeradana.org/search?q=%s",
+  "description": "Hacker Adana Blog",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

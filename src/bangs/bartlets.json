@@ -1,0 +1,8 @@
+{
+  "bang": "bartlets",
+  "domain": "https://www.bartleby.com",
+  "url": "https://www.bartleby.com/search?q=%s",
+  "description": "Bartelby",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

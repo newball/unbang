@@ -1,0 +1,8 @@
+{
+  "bang": "verbcat",
+  "domain": "https://www.verbs.cat",
+  "url": "http://www.verbs.cat/ca/conjugacio.html?infinitive=%s ",
+  "description": "Verbs.cat",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

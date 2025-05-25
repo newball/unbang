@@ -1,0 +1,8 @@
+{
+  "bang": "manjaro",
+  "domain": "https://wiki.manjaro.org",
+  "url": "https://wiki.manjaro.org/index.php?search=%s&title=Special%3ASearch",
+  "description": "Manjaro Wiki",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

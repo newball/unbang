@@ -1,0 +1,8 @@
+{
+  "bang": "theblaze",
+  "domain": "https://www.theblaze.com",
+  "url": "https://www.theblaze.com/search/?q=%s",
+  "description": "TheBlaze",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

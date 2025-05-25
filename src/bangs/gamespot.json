@@ -1,0 +1,8 @@
+{
+  "bang": "gamespot",
+  "domain": "https://www.gamespot.com",
+  "url": "http://www.gamespot.com/search/?q=%s",
+  "description": "GameSpot",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

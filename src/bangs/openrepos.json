@@ -1,0 +1,8 @@
+{
+  "bang": "openrepos",
+  "domain": "https://openrepos.net",
+  "url": "https://openrepos.net/search/node/%s",
+  "description": "OpenRepos",
+  "category": "Tech",
+  "sub-category": "Sysadmin (packages)"
+}

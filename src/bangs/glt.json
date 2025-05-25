@@ -1,0 +1,8 @@
+{
+  "bang": "glt",
+  "domain": "https://www.google.lt",
+  "url": "http://www.google.lt/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google LT",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

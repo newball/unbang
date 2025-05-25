@@ -1,0 +1,8 @@
+{
+  "bang": "geotool",
+  "domain": "https://iplookup.flagfox.net",
+  "url": "https://iplookup.flagfox.net/?ip=%s",
+  "description": "Geotool",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

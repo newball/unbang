@@ -1,0 +1,8 @@
+{
+  "bang": "portableapps",
+  "domain": "https://portableapps.com",
+  "url": "http://portableapps.com/search/node/%s",
+  "description": "PortableApps.com",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

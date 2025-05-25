@@ -1,0 +1,8 @@
+{
+  "bang": "sucuri",
+  "domain": "https://sitecheck.sucuri.net",
+  "url": "https://sitecheck.sucuri.net/results/%s",
+  "description": "Sucuri",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

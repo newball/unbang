@@ -1,0 +1,8 @@
+{
+  "bang": "unizar",
+  "domain": "https://www.unizar.es",
+  "url": "http://www.unizar.es/search/node/%s",
+  "description": "Universidad de Zaragoza",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

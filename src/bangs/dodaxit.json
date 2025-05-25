@@ -1,0 +1,8 @@
+{
+  "bang": "dodaxit",
+  "domain": "https://www.dodax.it",
+  "url": "https://www.dodax.it/it-it/search/?s=%s",
+  "description": "dodax.it",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

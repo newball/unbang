@@ -1,0 +1,8 @@
+{
+  "bang": "tidal",
+  "domain": "https://listen.tidal.com",
+  "url": "https://listen.tidal.com/search/%s",
+  "description": "Tidal",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

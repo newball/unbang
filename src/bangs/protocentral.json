@@ -1,0 +1,8 @@
+{
+  "bang": "protocentral",
+  "domain": "https://www.protocentral.com",
+  "url": "https://www.protocentral.com/search?controller=search&orderby=position&orderway=desc&search_query=%s",
+  "description": "Protocentral",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

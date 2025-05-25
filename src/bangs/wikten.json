@@ -1,0 +1,8 @@
+{
+  "bang": "wikten",
+  "domain": "https://en.wiktionary.org",
+  "url": "http://en.wiktionary.org/wiki/Special:Search?search=%s&go=Define",
+  "description": "Wiktionary",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

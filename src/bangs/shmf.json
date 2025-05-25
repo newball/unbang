@@ -1,0 +1,8 @@
+{
+  "bang": "shmf",
+  "domain": "https://forum.shmakerspace.org",
+  "url": "https://forum.shmakerspace.org/search?q=%s",
+  "description": "SHM Forum",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

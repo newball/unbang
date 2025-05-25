@@ -1,0 +1,8 @@
+{
+  "bang": "libreture",
+  "domain": "https://www.libreture.com",
+  "url": "https://www.libreture.com/search/?q=%s",
+  "description": "Libreture",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

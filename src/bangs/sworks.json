@@ -1,0 +1,8 @@
+{
+  "bang": "sworks",
+  "domain": "https://searchworks.stanford.edu",
+  "url": "http://searchworks.stanford.edu/?utf8=✓&search_field=search&q=%s",
+  "description": "Stanford SearchWorks",
+  "category": "Research",
+  "sub-category": "Academic"
+}

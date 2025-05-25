@@ -1,0 +1,8 @@
+{
+  "bang": "frink",
+  "domain": "https://www.futureboy.us",
+  "url": "http://www.futureboy.us/fsp/frink.fsp?fromVal=%s",
+  "description": "Frink Web Interface",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

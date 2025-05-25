@@ -1,0 +1,8 @@
+{
+  "bang": "kbt",
+  "domain": "https://kabutan.jp",
+  "url": "https://kabutan.jp/stock/?code=%s",
+  "description": "Kabutan",
+  "category": "News",
+  "sub-category": "Business"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "lor",
+  "domain": "https://www.linux.org.ru",
+  "url": "https://www.linux.org.ru/search.jsp?q=%s&range=ALL&interval=ALL&user=&_usertopic=on",
+  "description": "Linux.org.ru",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

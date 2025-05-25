@@ -1,0 +1,8 @@
+{
+  "bang": "lawyer",
+  "domain": "https://www.avvo.com",
+  "url": "https://www.avvo.com/search?query=%s",
+  "description": "Avvo",
+  "category": "Research",
+  "sub-category": "Law"
+}

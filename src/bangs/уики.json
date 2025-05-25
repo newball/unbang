@@ -1,0 +1,8 @@
+{
+  "bang": "уики",
+  "domain": "https://bg.wikipedia.org",
+  "url": "https://bg.wikipedia.org/wiki/%s",
+  "description": "Wikipedia (BG)",
+  "category": "Translation",
+  "sub-category": "Google"
+}

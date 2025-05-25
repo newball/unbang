@@ -1,0 +1,8 @@
+{
+  "bang": "ebc",
+  "domain": "https://www.ebay.ca",
+  "url": "https://www.ebay.ca/sch/%s",
+  "description": "ebay (Canada)",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

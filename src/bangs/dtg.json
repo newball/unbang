@@ -1,0 +1,8 @@
+{
+  "bang": "dtg",
+  "domain": "https://www.data.gouv.fr",
+  "url": "https://www.data.gouv.fr/search/?q=%s",
+  "description": "data.gouv.fr",
+  "category": "Research",
+  "sub-category": "Government"
+}

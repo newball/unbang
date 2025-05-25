@@ -1,0 +1,8 @@
+{
+  "bang": "wissen",
+  "domain": "https://www.wissen.de",
+  "url": "http://www.wissen.de/wissensserver/search?keyword=%s",
+  "description": "wissen.de",
+  "category": "Research",
+  "sub-category": "Academic"
+}

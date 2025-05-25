@@ -1,0 +1,8 @@
+{
+  "bang": "kchannet",
+  "domain": "https://konachan.net",
+  "url": "http://konachan.net/post?tags=%s",
+  "description": "konachan.net",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "genea",
+  "domain": "https://www.genealogieonline.nl",
+  "url": "https://www.genealogieonline.nl/en/zoeken/?q=%s ",
+  "description": "Genealogie Online",
+  "category": "Research",
+  "sub-category": "Reference"
+}

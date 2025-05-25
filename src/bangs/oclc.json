@@ -1,0 +1,8 @@
+{
+  "bang": "oclc",
+  "domain": "https://www.worldcat.org",
+  "url": "https://www.worldcat.org/search?q=%s",
+  "description": "OCLC Worldcat",
+  "category": "Research",
+  "sub-category": "Academic"
+}

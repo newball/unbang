@@ -1,0 +1,8 @@
+{
+  "bang": "nasdaq",
+  "domain": "https://www.nasdaq.com",
+  "url": "https://www.nasdaq.com/symbol/%s/real-time",
+  "description": "NASDAQ",
+  "category": "News",
+  "sub-category": "Business"
+}

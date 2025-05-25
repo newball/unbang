@@ -1,0 +1,8 @@
+{
+  "bang": "boto3",
+  "domain": "https://boto3.readthedocs.io",
+  "url": "https://boto3.readthedocs.io/en/latest/search.html?q=%s&check_keywords=yes&area=default",
+  "description": "Boto 3 Docs",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

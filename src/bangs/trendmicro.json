@@ -1,0 +1,8 @@
+{
+  "bang": "trendmicro",
+  "domain": "https://www.trendmicro.com",
+  "url": "https://www.trendmicro.com/en_us/common/cse.html#?cludoquery=%s",
+  "description": "Trend Micro",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "compumundo",
+  "domain": "https://www.compumundo.com.ar",
+  "url": "https://www.compumundo.com.ar/q/%s/srch?q=%s",
+  "description": "Compumundo",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "chat",
+  "domain": "https://www.duckduckgo.com",
+  "url": "https://www.duckduckgo.com/?q=%s&ia=chat&bang=true ",
+  "description": "Duck.ai",
+  "category": "Research",
+  "sub-category": "Reference"
+}

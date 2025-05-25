@@ -1,0 +1,8 @@
+{
+  "bang": "gentoowiki",
+  "domain": "https://wiki.gentoo.org",
+  "url": "https://wiki.gentoo.org/index.php?search=%s",
+  "description": "gentoo wiki",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Gentoo)"
+}

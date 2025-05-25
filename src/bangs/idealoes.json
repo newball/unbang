@@ -1,0 +1,8 @@
+{
+  "bang": "idealoes",
+  "domain": "https://www.idealo.es",
+  "url": "https://www.idealo.es/resultados.html?q=%s",
+  "description": "Idealo.es",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "faff",
+  "domain": "https://www.filmaffinity.com",
+  "url": "http://www.filmaffinity.com/es/search.php?stext=%s &stype=all",
+  "description": "Film Affinity",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

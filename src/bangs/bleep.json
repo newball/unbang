@@ -1,0 +1,8 @@
+{
+  "bang": "bleep",
+  "domain": "https://bleep.com",
+  "url": "https://bleep.com/search/query?q=%s",
+  "description": "Bleep",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

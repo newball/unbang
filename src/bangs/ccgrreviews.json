@@ -1,0 +1,8 @@
+{
+  "bang": "ccgrreviews",
+  "domain": "https://www.christcenteredgamer.com",
+  "url": "https://www.christcenteredgamer.com/index.php/component/search/?searchword=%s&ordering=newest&searchphrase=all&areas[0]=blogs",
+  "description": "Christ Centered Gamer Reviews",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "true",
+  "domain": "https://www.truecaller.com",
+  "url": "https://www.truecaller.com/search/in/%s",
+  "description": "Truecaller India",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

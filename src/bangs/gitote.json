@@ -1,0 +1,8 @@
+{
+  "bang": "gitote",
+  "domain": "https://gitote.in",
+  "url": "https://gitote.in/explore/repos?q=%s",
+  "description": "Gitote",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

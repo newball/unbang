@@ -1,0 +1,8 @@
+{
+  "bang": "gazeta",
+  "domain": "https://www.gazetadopovo.com.br",
+  "url": "https://www.gazetadopovo.com.br/busca/?q=%s",
+  "description": "Gazeta do Povo",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

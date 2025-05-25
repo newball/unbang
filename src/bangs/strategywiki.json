@@ -1,0 +1,8 @@
+{
+  "bang": "strategywiki",
+  "domain": "https://strategywiki.org",
+  "url": "https://strategywiki.org/w/index.php?search=%s",
+  "description": "StrategyWiki",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

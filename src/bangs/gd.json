@@ -1,0 +1,8 @@
+{
+  "bang": "gd",
+  "domain": "https://docs.google.com",
+  "url": "https://docs.google.com/document/u/0/?q=%s",
+  "description": "Google Docs",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

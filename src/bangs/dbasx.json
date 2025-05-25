@@ -1,0 +1,8 @@
+{
+  "bang": "dbasx",
+  "domain": "https://dba.stackexchange.com",
+  "url": "http://dba.stackexchange.com/search?q=%s",
+  "description": "DBA StackExchange",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

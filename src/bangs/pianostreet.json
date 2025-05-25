@@ -1,0 +1,8 @@
+{
+  "bang": "pianostreet",
+  "domain": "https://www.pianostreet.com",
+  "url": "https://www.pianostreet.com/index_sr.php?q=%s",
+  "description": "Pianostreet",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

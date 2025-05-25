@@ -1,0 +1,8 @@
+{
+  "bang": "kji",
+  "domain": "https://kanji.jitenon.jp",
+  "url": "http://kanji.jitenon.jp/cat/search.php?getdata=%s",
+  "description": "漢字辞典オンライン (Online kanji dictionary)",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

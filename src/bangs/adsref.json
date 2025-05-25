@@ -1,0 +1,8 @@
+{
+  "bang": "adsref",
+  "domain": "https://adsabs.harvard.edu",
+  "url": "http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=ALL&bibcode=%s ",
+  "description": "NASA ADS Bibliographical reference search",
+  "category": "Research",
+  "sub-category": "Academic"
+}

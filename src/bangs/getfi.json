@@ -1,0 +1,8 @@
+{
+  "bang": "getfi",
+  "domain": "https://glosbe.com",
+  "url": "https://glosbe.com/et/fi/%s",
+  "description": "glosbe (estonian - finnish)",
+  "category": "Translation",
+  "sub-category": "General"
+}

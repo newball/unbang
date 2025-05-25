@@ -1,0 +1,8 @@
+{
+  "bang": "wko",
+  "domain": "https://ko.wikipedia.org",
+  "url": "https://ko.wikipedia.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikipedia (KO)",
+  "category": "Research",
+  "sub-category": "Learning"
+}

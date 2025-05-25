@@ -1,0 +1,8 @@
+{
+  "bang": "overdrive",
+  "domain": "https://www.overdrive.com",
+  "url": "https://www.overdrive.com/search?q=%s",
+  "description": "OverDrive",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

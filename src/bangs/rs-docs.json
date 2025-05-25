@@ -1,0 +1,8 @@
+{
+  "bang": "rs-docs",
+  "domain": "https://docs.rs",
+  "url": "https://docs.rs/%s",
+  "description": "docs.rs (rust crate documentation)",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

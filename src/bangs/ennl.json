@@ -1,0 +1,8 @@
+{
+  "bang": "ennl",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#en/nl/%s",
+  "description": "Google translate",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

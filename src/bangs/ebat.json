@@ -1,0 +1,8 @@
+{
+  "bang": "ebat",
+  "domain": "https://www.ebay.at",
+  "url": "http://www.ebay.at/sch/i.html?_nkw=%s",
+  "description": "ebay.at",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

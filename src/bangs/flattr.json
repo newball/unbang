@@ -1,0 +1,8 @@
+{
+  "bang": "flattr",
+  "domain": "https://flattr.com",
+  "url": "https://flattr.com/q/%s",
+  "description": "Flattr",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

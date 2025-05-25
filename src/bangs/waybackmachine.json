@@ -1,0 +1,8 @@
+{
+  "bang": "waybackmachine",
+  "domain": "https://web.archive.org",
+  "url": "http://web.archive.org/web/*/%s",
+  "description": "Internet Wayback Machine",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

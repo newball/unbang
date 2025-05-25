@@ -1,0 +1,8 @@
+{
+  "bang": "ar",
+  "domain": "https://allrecipes.com",
+  "url": "http://allrecipes.com/search/default.aspx?qt=k&wt=%s&rt=r&origin=Recipe%20Search%20Results",
+  "description": "all recipes",
+  "category": "Research",
+  "sub-category": "Food"
+}

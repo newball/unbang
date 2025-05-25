@@ -1,0 +1,8 @@
+{
+  "bang": "pcmr",
+  "domain": "https://www.reddit.com",
+  "url": "https://www.reddit.com/r/pcmasterrace/search?q=%s&restrict_sr=on&sort=relevance&t=all",
+  "description": "Reddit PC Master Race",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "smartos",
+  "domain": "https://smartos.org",
+  "url": "https://smartos.org/man/%s",
+  "description": "SmartOS Man Pages",
+  "category": "Tech",
+  "sub-category": "Sysadmin (man)"
+}

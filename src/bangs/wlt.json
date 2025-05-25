@@ -1,0 +1,8 @@
+{
+  "bang": "wlt",
+  "domain": "https://lt.wikipedia.org",
+  "url": "https://lt.wikipedia.org/w/?search=%s",
+  "description": "Vikipedija (Wikipedia LT)",
+  "category": "Research",
+  "sub-category": "Reference"
+}

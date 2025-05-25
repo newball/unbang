@@ -1,0 +1,8 @@
+{
+  "bang": "ccode",
+  "domain": "https://www.country-codes.org",
+  "url": "http://www.country-codes.org/%s",
+  "description": "Country calling codes",
+  "category": "Research",
+  "sub-category": "Reference"
+}

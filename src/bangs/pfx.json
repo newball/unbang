@@ -1,0 +1,8 @@
+{
+  "bang": "pfx",
+  "domain": "https://www.brooksbaseball.net",
+  "url": "http://www.brooksbaseball.net/search.php?name=%s",
+  "description": "BrooksBaseball",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

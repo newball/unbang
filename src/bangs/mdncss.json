@@ -1,0 +1,8 @@
+{
+  "bang": "mdncss",
+  "domain": "https://developer.mozilla.org",
+  "url": "https://developer.mozilla.org/en-US/search?q=%s&topic=css",
+  "description": "Mozilla Developer Network CSS",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

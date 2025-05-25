@@ -1,0 +1,8 @@
+{
+  "bang": "mbreleasegroup",
+  "domain": "https://musicbrainz.org",
+  "url": "https://musicbrainz.org/search?query=%s&type=release_group",
+  "description": "MusicBrainz Release Groups",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

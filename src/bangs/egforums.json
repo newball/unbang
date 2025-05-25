@@ -1,0 +1,8 @@
+{
+  "bang": "egforums",
+  "domain": "https://duckduckgo.com",
+  "url": "http://duckduckgo.com/?q=site:eurogamer.net/forums+%s",
+  "description": "Eurogamer forums",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

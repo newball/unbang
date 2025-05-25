@@ -1,0 +1,8 @@
+{
+  "bang": "ecim",
+  "domain": "https://www.ecosia.org",
+  "url": "https://www.ecosia.org/images?q=%s",
+  "description": "Ecosia Image Search",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "memidex",
+  "domain": "https://www.memidex.com",
+  "url": "http://www.memidex.com/%s",
+  "description": "Memidex",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

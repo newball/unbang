@@ -1,0 +1,8 @@
+{
+  "bang": "newsarchive",
+  "domain": "https://www.google.com",
+  "url": "http://www.google.com/#q=%s&hl=en&tbm=nws&prmd=imvnsfd&source=lnt&tbs=ar:1&sa=X&ei=UJrnT8LwO8Sf6QGHmIjhDg&ved=0CCcQpwUoBQ&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=3c6a142c5aa1edc2&biw=1366&bih=706",
+  "description": "Google News Archive",
+  "category": "News",
+  "sub-category": "Specialty"
+}

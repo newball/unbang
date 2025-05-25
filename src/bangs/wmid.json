@@ -1,0 +1,8 @@
+{
+  "bang": "wmid",
+  "domain": "https://passport.webmoney.ru",
+  "url": "https://passport.webmoney.ru/asp/CertView.asp?wmid=%s",
+  "description": "WebMoney Transfer",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

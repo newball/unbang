@@ -1,0 +1,8 @@
+{
+  "bang": "snopes",
+  "domain": "https://www.snopes.com",
+  "url": "http://www.snopes.com/?s=%s",
+  "description": "Snopes",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

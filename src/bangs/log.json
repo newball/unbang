@@ -1,0 +1,8 @@
+{
+  "bang": "log",
+  "domain": "https://logeion.uchicago.edu",
+  "url": "http://logeion.uchicago.edu/%s",
+  "description": "Logeion",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

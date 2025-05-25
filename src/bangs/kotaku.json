@@ -1,0 +1,8 @@
+{
+  "bang": "kotaku",
+  "domain": "https://kotaku.com",
+  "url": "http://kotaku.com/search?q=%s",
+  "description": "Kotaku",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "revolve",
+  "domain": "https://www.revolve.com",
+  "url": "https://www.revolve.com/r/Search.jsp?search=%s",
+  "description": "Revolve",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

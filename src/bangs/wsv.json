@@ -1,0 +1,8 @@
+{
+  "bang": "wsv",
+  "domain": "https://sv.wikipedia.org",
+  "url": "http://sv.wikipedia.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikipedia (SV)",
+  "category": "Research",
+  "sub-category": "Academic"
+}

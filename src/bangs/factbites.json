@@ -1,0 +1,8 @@
+{
+  "bang": "factbites",
+  "domain": "https://www.factbites.com",
+  "url": "http://www.factbites.com/topics/%s",
+  "description": "Factbites",
+  "category": "Research",
+  "sub-category": "Reference"
+}

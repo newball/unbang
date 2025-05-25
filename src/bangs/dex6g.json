@@ -1,0 +1,8 @@
+{
+  "bang": "dex6g",
+  "domain": "https://www.pokebip.com",
+  "url": "https://www.pokebip.com/pokedex/index.php?phppage=recherche&req=%s",
+  "description": "Pokdex Pokebip",
+  "category": "Entertainment",
+  "sub-category": "Games (Pokemon)"
+}

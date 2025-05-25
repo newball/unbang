@@ -1,0 +1,8 @@
+{
+  "bang": "bogle",
+  "domain": "https://www.bogleheads.org",
+  "url": "http://www.bogleheads.org/w/index.php?search=%s",
+  "description": "Bogleheads Wiki",
+  "category": "Research",
+  "sub-category": "Topical"
+}

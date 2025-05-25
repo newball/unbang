@@ -1,0 +1,8 @@
+{
+  "bang": "nationalpost",
+  "domain": "https://nationalpost.com",
+  "url": "https://nationalpost.com/?s=%s",
+  "description": "National Post",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

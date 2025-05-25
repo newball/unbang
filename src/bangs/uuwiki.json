@@ -1,0 +1,8 @@
+{
+  "bang": "uuwiki",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site:wiki.ubuntuusers.de+%s",
+  "description": "Ubuntu Users Wiki",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Ubuntu)"
+}

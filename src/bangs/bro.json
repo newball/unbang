@@ -1,0 +1,8 @@
+{
+  "bang": "bro",
+  "domain": "https://bropages.org",
+  "url": "http://bropages.org/%s",
+  "description": "BroPages",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "primo",
+  "domain": "https://fu-berlin.hosted.exlibrisgroup.com",
+  "url": "https://fu-berlin.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,%s&tab=fub&search_scope=FUB_ALL&vid=FUB&lang=de_DE&offset=0",
+  "description": "Bibliothekskatalog Primo der FU Berlin",
+  "category": "Research",
+  "sub-category": "Academic"
+}

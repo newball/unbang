@@ -1,0 +1,8 @@
+{
+  "bang": "folkwiki",
+  "domain": "https://www.folkwiki.se",
+  "url": "http://www.folkwiki.se/?n=Meta.Start&action=search&q=%s",
+  "description": "FolkWiki",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

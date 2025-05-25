@@ -1,0 +1,8 @@
+{
+  "bang": "dewiki",
+  "domain": "https://de.wikipedia.org",
+  "url": "http://de.wikipedia.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "de.wikipedia.org",
+  "category": "Research",
+  "sub-category": "Topical"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "pluralsight",
+  "domain": "https://www.pluralsight.com",
+  "url": "http://www.pluralsight.com/search/?searchTerm=%s",
+  "description": "Pluralsight",
+  "category": "Research",
+  "sub-category": "Learning"
+}

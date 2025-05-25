@@ -1,0 +1,8 @@
+{
+  "bang": "pci",
+  "domain": "https://www.pcinpact.com",
+  "url": "http://www.pcinpact.com/recherche?_search=%s",
+  "description": "PC INpact",
+  "category": "News",
+  "sub-category": "Magazine"
+}

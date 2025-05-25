@@ -1,0 +1,8 @@
+{
+  "bang": "verben",
+  "domain": "https://www.verbformen.de",
+  "url": "http://www.verbformen.de/konjugation/?i=%s",
+  "description": "VerbFormen",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

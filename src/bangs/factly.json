@@ -1,0 +1,8 @@
+{
+  "bang": "factly",
+  "domain": "https://factly.in",
+  "url": "https://factly.in/?s=%s",
+  "description": "Factly",
+  "category": "News",
+  "sub-category": "Magazine"
+}

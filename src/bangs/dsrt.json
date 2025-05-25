@@ -1,0 +1,8 @@
+{
+  "bang": "dsrt",
+  "domain": "https://search.disroot.org",
+  "url": "https://search.disroot.org/?q=%s",
+  "description": "Disroot Search",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

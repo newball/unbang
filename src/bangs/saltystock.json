@@ -1,0 +1,8 @@
+{
+  "bang": "saltystock",
+  "domain": "https://www.saltystock.com",
+  "url": "http://www.saltystock.com/search.pp?keyword=%s",
+  "description": "saltystock",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

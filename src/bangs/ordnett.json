@@ -1,0 +1,8 @@
+{
+  "bang": "ordnett",
+  "domain": "https://www.ordnett.no",
+  "url": "https://www.ordnett.no/search?language=no&phrase=%s",
+  "description": "Ordnett",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

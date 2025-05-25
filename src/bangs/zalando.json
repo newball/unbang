@@ -1,0 +1,8 @@
+{
+  "bang": "zalando",
+  "domain": "https://www.zalando.co.uk",
+  "url": "https://www.zalando.co.uk/catalog/?q=%s",
+  "description": "Zalando",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

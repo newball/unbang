@@ -1,0 +1,8 @@
+{
+  "bang": "dt",
+  "domain": "https://deskthority.net",
+  "url": "https://deskthority.net/wiki/index.php?search=%s",
+  "description": "Deskthority Wiki",
+  "category": "Research",
+  "sub-category": "Reference"
+}

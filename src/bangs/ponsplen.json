@@ -1,0 +1,8 @@
+{
+  "bang": "ponsplen",
+  "domain": "https://en.pons.com",
+  "url": "https://en.pons.com/translate?q=%s&l=enpl&in=&lf=en",
+  "description": "Pons PL-EN",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

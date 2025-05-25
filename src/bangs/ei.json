@@ -1,0 +1,8 @@
+{
+  "bang": "ei",
+  "domain": "https://www.ecosia.org",
+  "url": "https://www.ecosia.org/images?q=%s",
+  "description": "Ecosia Images",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

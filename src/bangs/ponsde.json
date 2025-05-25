@@ -1,0 +1,8 @@
+{
+  "bang": "ponsde",
+  "domain": "https://de.pons.com",
+  "url": "https://de.pons.com/%C3%BCbersetzung?q=%s&l=deen&in=&lf=de",
+  "description": "Pons",
+  "category": "Research",
+  "sub-category": "Learning"
+}

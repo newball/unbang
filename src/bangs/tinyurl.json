@@ -1,0 +1,8 @@
+{
+  "bang": "tinyurl",
+  "domain": "https://tinyurl.com",
+  "url": "http://tinyurl.com/create.php?url=%s",
+  "description": "TinyURL.com",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

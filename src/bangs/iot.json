@@ -1,0 +1,8 @@
+{
+  "bang": "iot",
+  "domain": "https://www.roomalert.ro",
+  "url": "https://www.roomalert.ro/search?q=%s",
+  "description": "RoomAlert.ro",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

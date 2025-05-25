@@ -1,0 +1,8 @@
+{
+  "bang": "engtips",
+  "domain": "https://www.eng-tips.com",
+  "url": "http://www.eng-tips.com/search.cfm?q=%s&action=search",
+  "description": "Eng Tips",
+  "category": "Tech",
+  "sub-category": "Design"
+}

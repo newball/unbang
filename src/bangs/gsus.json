@@ -1,0 +1,8 @@
+{
+  "bang": "gsus",
+  "domain": "https://www.google.com",
+  "url": "https://www.google.com/search?tbm=shop&q=%s&gws_rd=cr",
+  "description": "Google Shopping US",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

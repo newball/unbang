@@ -1,0 +1,8 @@
+{
+  "bang": "tbio",
+  "domain": "https://www.treccani.it",
+  "url": "http://www.treccani.it/biografie/?q=%s",
+  "description": "Treccani Biografie",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

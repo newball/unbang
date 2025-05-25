@@ -1,0 +1,8 @@
+{
+  "bang": "wikipediait",
+  "domain": "https://it.wikipedia.org",
+  "url": "https://it.wikipedia.org/w/index.php?search=%s",
+  "description": "Wikipedia in Italiano",
+  "category": "Research",
+  "sub-category": "Learning"
+}

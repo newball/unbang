@@ -1,0 +1,8 @@
+{
+  "bang": "cpan1",
+  "domain": "https://metacpan.org",
+  "url": "https://metacpan.org/search?q=%s&lucky=1",
+  "description": "MetaCPAN",
+  "category": "Tech",
+  "sub-category": "Languages (perl)"
+}

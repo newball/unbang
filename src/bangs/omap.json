@@ -1,0 +1,8 @@
+{
+  "bang": "omap",
+  "domain": "https://www.openstreetmap.org",
+  "url": "https://www.openstreetmap.org/search?query=%s",
+  "description": "Open Street Maps",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

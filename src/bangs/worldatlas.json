@@ -1,0 +1,8 @@
+{
+  "bang": "worldatlas",
+  "domain": "https://www.worldatlas.com",
+  "url": "https://www.worldatlas.com/search?q=%s",
+  "description": "World Atlas",
+  "category": "Research",
+  "sub-category": "Academic"
+}

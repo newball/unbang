@@ -1,0 +1,8 @@
+{
+  "bang": "sublime",
+  "domain": "https://sublime.wbond.net",
+  "url": "https://sublime.wbond.net/search/%s",
+  "description": "Sublime Package Control",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

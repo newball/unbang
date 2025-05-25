@@ -1,0 +1,8 @@
+{
+  "bang": "rossde",
+  "domain": "https://www.rossmann.de",
+  "url": "https://www.rossmann.de/verbraucherportal/toolbox/suche.html?query=%s",
+  "description": "Rossmann(DE)",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

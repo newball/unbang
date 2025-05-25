@@ -1,0 +1,8 @@
+{
+  "bang": "natgeo",
+  "domain": "https://www.nationalgeographic.com",
+  "url": "https://www.nationalgeographic.com/search/?q=%s",
+  "description": "National Geographic",
+  "category": "News",
+  "sub-category": "Magazine"
+}

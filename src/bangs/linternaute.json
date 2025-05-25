@@ -1,0 +1,8 @@
+{
+  "bang": "linternaute",
+  "domain": "https://www.linternaute.com",
+  "url": "http://www.linternaute.com/encyclopedie/recherche/?f_libelle=%s",
+  "description": "linternaute",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

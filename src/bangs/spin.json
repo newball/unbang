@@ -1,0 +1,8 @@
+{
+  "bang": "spin",
+  "domain": "https://www.spin.de",
+  "url": "https://www.spin.de/search?q=%s",
+  "description": "Spin.de",
+  "category": "Online Services",
+  "sub-category": "Social (intl)"
+}

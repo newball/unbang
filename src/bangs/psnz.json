@@ -1,0 +1,8 @@
+{
+  "bang": "psnz",
+  "domain": "https://pricespy.co.nz",
+  "url": "https://pricespy.co.nz/search?q=%s",
+  "description": "PriceSpy",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

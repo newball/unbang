@@ -1,0 +1,8 @@
+{
+  "bang": "mcat",
+  "domain": "https://www.monstercat.com",
+  "url": "https://www.monstercat.com/search?term=%s",
+  "description": "Monstercat",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

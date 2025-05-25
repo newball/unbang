@@ -1,0 +1,8 @@
+{
+  "bang": "shabbat",
+  "domain": "https://www.hebcal.com",
+  "url": "https://www.hebcal.com/shabbat/?cfg=json&m=50&b=18&zip=%s&a=on",
+  "description": "https://www.hebcal.com/",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

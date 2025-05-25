@@ -1,0 +1,8 @@
+{
+  "bang": "vgmdb",
+  "domain": "https://vgmdb.net",
+  "url": "https://vgmdb.net/search?q=%s",
+  "description": "Vgmdb",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

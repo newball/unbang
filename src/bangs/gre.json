@@ -1,0 +1,8 @@
+{
+  "bang": "gre",
+  "domain": "https://bigenc.ru",
+  "url": "https://bigenc.ru/search?q=%s",
+  "description": "Great Russian Encyclopedia",
+  "category": "Research",
+  "sub-category": "Reference"
+}

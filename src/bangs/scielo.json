@@ -1,0 +1,8 @@
+{
+  "bang": "scielo",
+  "domain": "https://search.scielo.org",
+  "url": "http://search.scielo.org/?q=%s&where=ORG",
+  "description": "Scientific Electronic Library Online",
+  "category": "Research",
+  "sub-category": "Health"
+}

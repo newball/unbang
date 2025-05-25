@@ -1,0 +1,8 @@
+{
+  "bang": "laz",
+  "domain": "https://www.lazada.com.ph",
+  "url": "http://www.lazada.com.ph/catalog/?q=%s",
+  "description": "Lazada",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

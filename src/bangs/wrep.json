@@ -1,0 +1,8 @@
+{
+  "bang": "wrep",
+  "domain": "https://www.wordreference.com",
+  "url": "http://www.wordreference.com/pten/%s",
+  "description": "Word Reference English to Portuguese",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

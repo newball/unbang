@@ -1,0 +1,8 @@
+{
+  "bang": "couch",
+  "domain": "https://www.couchsurfing.org",
+  "url": "https://www.couchsurfing.org/?q=%s",
+  "description": "Couchsurfing",
+  "category": "Research",
+  "sub-category": "Travel"
+}

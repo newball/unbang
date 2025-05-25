@@ -1,0 +1,8 @@
+{
+  "bang": "dbnf",
+  "domain": "https://data.bnf.fr",
+  "url": "http://data.bnf.fr/search?term=%s",
+  "description": "Data Bnf",
+  "category": "Research",
+  "sub-category": "Reference"
+}

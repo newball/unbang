@@ -1,0 +1,8 @@
+{
+  "bang": "naslovi",
+  "domain": "https://www.naslovi.net",
+  "url": "http://www.naslovi.net/search.php?q=%s",
+  "description": "Naslovi.net",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "dev.to",
+  "domain": "https://dev.to",
+  "url": "https://dev.to/search?q=%s",
+  "description": "dev.to",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

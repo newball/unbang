@@ -1,0 +1,8 @@
+{
+  "bang": "pedigree",
+  "domain": "https://www.pedigreedatabase.com",
+  "url": "http://www.pedigreedatabase.com/search.html?q=%s ",
+  "description": "Pedigree Database",
+  "category": "Research",
+  "sub-category": "Reference"
+}

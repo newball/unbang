@@ -1,0 +1,8 @@
+{
+  "bang": "mcu",
+  "domain": "https://marvelcinematicuniverse.wikia.com",
+  "url": "http://marvelcinematicuniverse.wikia.com/wiki/Special:Search?query=%s",
+  "description": "Marvel Cinematic Universe wiki",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "dpcs",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s+site:doc.pcsoft.fr&ia=web",
+  "description": "PCsoft",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

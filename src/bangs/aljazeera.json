@@ -1,0 +1,8 @@
+{
+  "bang": "aljazeera",
+  "domain": "https://english.aljazeera.net",
+  "url": "http://english.aljazeera.net/Services/Search/?q=%s",
+  "description": "Aljazeera English",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "jargon",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s+site%3Acatb.org+inurl%3Ajargon",
+  "description": "Jargon File",
+  "category": "Online Services",
+  "sub-category": "Search (DDG)"
+}

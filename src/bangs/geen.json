@@ -1,0 +1,8 @@
+{
+  "bang": "geen",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#ge/en/%s",
+  "description": "Google Translate German to English",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

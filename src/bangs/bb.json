@@ -1,0 +1,8 @@
+{
+  "bang": "bb",
+  "domain": "https://bitbucket.org",
+  "url": "https://bitbucket.org/repo/all/?name=%s",
+  "description": "Bitbucket",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

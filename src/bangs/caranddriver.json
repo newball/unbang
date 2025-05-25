@@ -1,0 +1,8 @@
+{
+  "bang": "caranddriver",
+  "domain": "https://caranddriver.com",
+  "url": "http://caranddriver.com/search/%s",
+  "description": "Car and Driver",
+  "category": "Entertainment",
+  "sub-category": "Blogs"
+}

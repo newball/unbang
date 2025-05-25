@@ -1,0 +1,8 @@
+{
+  "bang": "blendle",
+  "domain": "https://blendle.nl",
+  "url": "https://blendle.nl/search/%s",
+  "description": "Blendle",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

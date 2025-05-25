@@ -1,0 +1,8 @@
+{
+  "bang": "reciva",
+  "domain": "https://www.reciva.com",
+  "url": "https://www.reciva.com/stations/search?q=%s",
+  "description": "Reciva",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

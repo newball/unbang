@@ -1,0 +1,8 @@
+{
+  "bang": "edhrec",
+  "domain": "https://edhrec.com",
+  "url": "https://edhrec.com/cards/%s",
+  "description": "EDHREC",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

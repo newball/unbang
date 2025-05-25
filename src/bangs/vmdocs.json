@@ -1,0 +1,8 @@
+{
+  "bang": "vmdocs",
+  "domain": "https://docs.vmware.com",
+  "url": "https://docs.vmware.com/en/search/#/%s",
+  "description": "VMware Docs",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

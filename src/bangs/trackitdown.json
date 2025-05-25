@@ -1,0 +1,8 @@
+{
+  "bang": "trackitdown",
+  "domain": "https://www.trackitdown.net",
+  "url": "http://www.trackitdown.net/search/keyword?q=%s",
+  "description": "Trackitdown",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "analog",
+  "domain": "https://careers.analog.com",
+  "url": "https://careers.analog.com/search-results?keywords=%s",
+  "description": "Analog Devices Careers",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

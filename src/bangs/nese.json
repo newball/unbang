@@ -1,0 +1,8 @@
+{
+  "bang": "nese",
+  "domain": "https://www.ne.se",
+  "url": "http://www.ne.se/sok?q=%s",
+  "description": "Nationalencyklopedin",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

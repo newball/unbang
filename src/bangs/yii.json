@@ -1,0 +1,8 @@
+{
+  "bang": "yii",
+  "domain": "https://www.yiiframework.com",
+  "url": "http://www.yiiframework.com/search/?q=%s",
+  "description": "Yii Framework",
+  "category": "Tech",
+  "sub-category": "Languages (php)"
+}

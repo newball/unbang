@@ -1,0 +1,8 @@
+{
+  "bang": "adminwiki",
+  "domain": "https://www.adminwiki.fr",
+  "url": "https://www.adminwiki.fr/start?do=search&id=%s",
+  "description": "AdminWiki",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

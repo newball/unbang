@@ -1,0 +1,8 @@
+{
+  "bang": "kooponline",
+  "domain": "https://www.kooponline.com",
+  "url": "https://www.kooponline.com/search.php?q=%s",
+  "description": "Koop Online",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

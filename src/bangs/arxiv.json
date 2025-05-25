@@ -1,0 +1,8 @@
+{
+  "bang": "arxiv",
+  "domain": "https://arxiv.org",
+  "url": "http://arxiv.org/search?query=%s&searchtype=all",
+  "description": "arXiv",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

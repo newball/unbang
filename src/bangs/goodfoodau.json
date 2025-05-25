@@ -1,0 +1,8 @@
+{
+  "bang": "goodfoodau",
+  "domain": "https://www.goodfood.com.au",
+  "url": "https://www.goodfood.com.au/search?text=%s&type=recipe",
+  "description": "Good Food Australia recipes",
+  "category": "Research",
+  "sub-category": "Food"
+}

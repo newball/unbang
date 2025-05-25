@@ -1,0 +1,8 @@
+{
+  "bang": "azure",
+  "domain": "https://azure.microsoft.com",
+  "url": "https://azure.microsoft.com/en-us/search/?q=%s",
+  "description": "Azure Documentation",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

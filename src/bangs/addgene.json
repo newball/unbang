@@ -1,0 +1,8 @@
+{
+  "bang": "addgene",
+  "domain": "https://www.addgene.org",
+  "url": "https://www.addgene.org/search/advanced/?q=%s",
+  "description": "Addgene",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

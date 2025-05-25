@@ -1,0 +1,8 @@
+{
+  "bang": "tedi",
+  "domain": "https://www.tedi-shop.com",
+  "url": "http://www.tedi-shop.com/catalogsearch/result/?q=%s",
+  "description": "TEDi Onlineshop",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

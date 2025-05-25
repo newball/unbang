@@ -1,0 +1,8 @@
+{
+  "bang": "qual",
+  "domain": "https://www.qualtrics.com",
+  "url": "https://www.qualtrics.com/support/search/?q=%s",
+  "description": "Qualtrics Support",
+  "category": "Research",
+  "sub-category": "Academic"
+}

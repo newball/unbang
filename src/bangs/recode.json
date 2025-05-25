@@ -1,0 +1,8 @@
+{
+  "bang": "recode",
+  "domain": "https://www.recode.net",
+  "url": "https://www.recode.net/search?q=%s",
+  "description": "Recode",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "tax",
+  "domain": "https://isittaxed.ca",
+  "url": "http://isittaxed.ca/search.php?q=%s",
+  "description": "Txt Tax",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

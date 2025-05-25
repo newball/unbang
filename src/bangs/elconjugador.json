@@ -1,0 +1,8 @@
+{
+  "bang": "elconjugador",
+  "domain": "https://www.elconjugador.com",
+  "url": "http://www.elconjugador.com/conjugaison/verbe/espagnol/%s.html",
+  "description": "El conjugador",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "cds",
+  "domain": "https://cdsportal.u-strasbg.fr",
+  "url": "http://cdsportal.u-strasbg.fr/#%s",
+  "description": "CDS Portal",
+  "category": "Research",
+  "sub-category": "Academic"
+}

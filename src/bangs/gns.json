@@ -1,0 +1,8 @@
+{
+  "bang": "gns",
+  "domain": "https://google.com",
+  "url": "https://google.com/search?q=%s&hl=es&prmd=niv&source=lnms&tbm=nws&sa=",
+  "description": "Google News Spain",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

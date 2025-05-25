@@ -1,0 +1,8 @@
+{
+  "bang": "stm",
+  "domain": "https://stmblog.com",
+  "url": "http://stmblog.com/?s=%s",
+  "description": "STM-Blog",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

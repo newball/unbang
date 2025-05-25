@@ -1,0 +1,8 @@
+{
+  "bang": "parking",
+  "domain": "https://www.parkwhiz.com",
+  "url": "http://www.parkwhiz.com/search/?destination=%s",
+  "description": "ParkWhiz",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

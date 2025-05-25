@@ -1,0 +1,8 @@
+{
+  "bang": "reasonator",
+  "domain": "https://tools.wmflabs.org",
+  "url": "http://tools.wmflabs.org/reasonator/?find=%s",
+  "description": "Reasonator",
+  "category": "Research",
+  "sub-category": "Reference"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gbooks",
+  "domain": "https://www.google.com",
+  "url": "https://www.google.com/search?nfpr=1&tbm=bks&q=%s",
+  "description": "Books.google.com",
+  "category": "Research",
+  "sub-category": "Reference"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "goldenline",
+  "domain": "https://www.goldenline.pl",
+  "url": "http://www.goldenline.pl/szukaj/?q=%s",
+  "description": "GoldenLine",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

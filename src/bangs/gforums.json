@@ -1,0 +1,8 @@
+{
+  "bang": "gforums",
+  "domain": "https://productforums.google.com",
+  "url": "https://productforums.google.com/forum/#!topicsearch/%s",
+  "description": "Google Forums",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

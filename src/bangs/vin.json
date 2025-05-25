@@ -1,0 +1,8 @@
+{
+  "bang": "vin",
+  "domain": "https://www.decodethis.com",
+  "url": "http://www.decodethis.com/VINdecoder/65/vin/%s",
+  "description": "Decode This!",
+  "category": "Research",
+  "sub-category": "Reference"
+}

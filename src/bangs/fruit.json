@@ -1,0 +1,8 @@
+{
+  "bang": "fruit",
+  "domain": "https://www.adafruit.com",
+  "url": "http://www.adafruit.com/search?q=%s&b=1",
+  "description": "Adafruit",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "inkeri",
+  "domain": "https://inkeri-klubi.radioviola.net",
+  "url": "http://inkeri-klubi.radioviola.net/system/app/pages/search?scope=search-site&q=%s",
+  "description": "Inkeri Klubi – Клуб Ингрия",
+  "category": "News",
+  "sub-category": "Specialty"
+}

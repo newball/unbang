@@ -1,0 +1,8 @@
+{
+  "bang": "clojars",
+  "domain": "https://clojars.org",
+  "url": "https://clojars.org/search?q=%s",
+  "description": "Clojars",
+  "category": "Tech",
+  "sub-category": "Languages (clojure)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "msocial",
+  "domain": "https://mastodon.social",
+  "url": "https://mastodon.social/tags/%s",
+  "description": "Mastodon Social",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "jsonlint",
+  "domain": "https://jsonlint.com",
+  "url": "http://jsonlint.com/?json=%s",
+  "description": "JsonLint",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

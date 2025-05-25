@@ -1,0 +1,8 @@
+{
+  "bang": "fr.wiktionary",
+  "domain": "https://fr.wiktionary.org",
+  "url": "https://fr.wiktionary.org/wiki/%s",
+  "description": "Wiktionary Français",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

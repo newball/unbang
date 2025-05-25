@@ -1,0 +1,8 @@
+{
+  "bang": "puredata",
+  "domain": "https://puredata.info",
+  "url": "http://puredata.info/search?SearchableText=%s",
+  "description": "Pure Data",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

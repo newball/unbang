@@ -1,0 +1,8 @@
+{
+  "bang": "pclo",
+  "domain": "https://www.parcello.org",
+  "url": "https://www.parcello.org/tracking?tid=%s",
+  "description": "Parcello",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

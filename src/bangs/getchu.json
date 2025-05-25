@@ -1,0 +1,8 @@
+{
+  "bang": "getchu",
+  "domain": "https://www.getchu.com",
+  "url": "http://www.getchu.com/php/nsearch.phtml?search_keyword=%s",
+  "description": "Getchu.com",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

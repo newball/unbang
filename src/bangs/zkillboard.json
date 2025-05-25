@@ -1,0 +1,8 @@
+{
+  "bang": "zkillboard",
+  "domain": "https://zkillboard.com",
+  "url": "https://zkillboard.com/search/%s/",
+  "description": "zkillboard",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

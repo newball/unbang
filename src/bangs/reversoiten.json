@@ -1,0 +1,8 @@
+{
+  "bang": "reversoiten",
+  "domain": "https://dictionary.reverso.net",
+  "url": "http://dictionary.reverso.net/italian-english/%s",
+  "description": "Reverso DIctionary",
+  "category": "Research",
+  "sub-category": "Travel"
+}

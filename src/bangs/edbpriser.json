@@ -1,0 +1,8 @@
+{
+  "bang": "edbpriser",
+  "domain": "https://www.edbpriser.dk",
+  "url": "http://www.edbpriser.dk/Search/General.aspx?q=%s}",
+  "description": "EDBpriser.dk",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

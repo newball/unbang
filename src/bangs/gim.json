@@ -1,0 +1,8 @@
+{
+  "bang": "gim",
+  "domain": "https://google.com",
+  "url": "https://google.com/search?tbm=isch&q=%s&tbs=imgo:1",
+  "description": "Google Images",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

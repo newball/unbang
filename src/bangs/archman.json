@@ -1,0 +1,8 @@
+{
+  "bang": "archman",
+  "domain": "https://man.archlinux.org",
+  "url": "https://man.archlinux.org/search?q=%s&go=Go",
+  "description": "Arch manual pages",
+  "category": "Tech",
+  "sub-category": "Sysadmin (man)"
+}

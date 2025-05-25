@@ -1,0 +1,8 @@
+{
+  "bang": "yjm",
+  "domain": "https://map.yahoo.co.jp",
+  "url": "https://map.yahoo.co.jp/mapsearch/search?p=%s",
+  "description": "yahoo japan map",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

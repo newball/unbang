@@ -1,0 +1,8 @@
+{
+  "bang": "gtbengali",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/bn/%s",
+  "description": "Detect language to Bengali",
+  "category": "Translation",
+  "sub-category": "Google"
+}

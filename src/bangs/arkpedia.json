@@ -1,0 +1,8 @@
+{
+  "bang": "arkpedia",
+  "domain": "https://ark.gamepedia.com",
+  "url": "http://ark.gamepedia.com/index.php?search=%s&title=Special%3ASearch&go=Go",
+  "description": "Ark Gamepedia",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

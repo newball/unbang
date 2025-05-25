@@ -1,0 +1,8 @@
+{
+  "bang": "lesnum",
+  "domain": "https://www.lesnumeriques.com",
+  "url": "http://www.lesnumeriques.com/recherche?q=%s",
+  "description": "Les Numériques",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

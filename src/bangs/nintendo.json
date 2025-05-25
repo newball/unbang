@@ -1,0 +1,8 @@
+{
+  "bang": "nintendo",
+  "domain": "https://www.nintendo.com",
+  "url": "https://www.nintendo.com/search/#category=all&page=1&query=%s",
+  "description": "Nintendo",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

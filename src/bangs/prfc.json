@@ -1,0 +1,8 @@
+{
+  "bang": "prfc",
+  "domain": "https://pretty-rfc.herokuapp.com",
+  "url": "http://pretty-rfc.herokuapp.com/search?q=%s",
+  "description": "Pretty-RFC",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

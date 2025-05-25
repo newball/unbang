@@ -1,0 +1,8 @@
+{
+  "bang": "uwflow",
+  "domain": "https://uwflow.com",
+  "url": "https://uwflow.com/courses?keywords=%s",
+  "description": "University of Waterloo Flow",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

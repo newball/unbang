@@ -1,0 +1,8 @@
+{
+  "bang": "babpl",
+  "domain": "https://pl.bab.la",
+  "url": "http://pl.bab.la/slownik/angielski-polski/%s",
+  "description": "Bab.la",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

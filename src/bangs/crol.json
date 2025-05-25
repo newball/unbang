@@ -1,0 +1,8 @@
+{
+  "bang": "crol",
+  "domain": "https://www.crol.hr",
+  "url": "https://www.crol.hr/index.php/search?searchword=%s&searchphrase=all",
+  "description": "CroL",
+  "category": "News",
+  "sub-category": "Specialty"
+}

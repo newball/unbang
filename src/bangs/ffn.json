@@ -1,0 +1,8 @@
+{
+  "bang": "ffn",
+  "domain": "https://www.fanfiction.net",
+  "url": "https://www.fanfiction.net/search/?keywords=%s&ready=1&type=story",
+  "description": "FanFiction",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

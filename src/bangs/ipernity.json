@@ -1,0 +1,8 @@
+{
+  "bang": "ipernity",
+  "domain": "https://www.ipernity.com",
+  "url": "http://www.ipernity.com/search/doc?q=%s&w=on",
+  "description": "Ipernity",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

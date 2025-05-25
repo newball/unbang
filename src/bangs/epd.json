@@ -1,0 +1,8 @@
+{
+  "bang": "epd",
+  "domain": "https://www.episodate.com",
+  "url": "https://www.episodate.com/search?q=%s",
+  "description": "EpisoDate",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bitly",
+  "domain": "https://bitly.com",
+  "url": "https://bitly.com/?url=%s",
+  "description": "Bitly",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wsi",
+  "domain": "https://sl.wikipedia.org",
+  "url": "https://sl.wikipedia.org/w/index.php?search=%s",
+  "description": "Slovenian Wikipedia ",
+  "category": "Research",
+  "sub-category": "Reference"
+}

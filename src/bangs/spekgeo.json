@@ -1,0 +1,8 @@
+{
+  "bang": "spekgeo",
+  "domain": "https://www.spektrum.de",
+  "url": "https://www.spektrum.de/lexikon/geographie/?q=%s",
+  "description": "Spektrum",
+  "category": "Research",
+  "sub-category": "Academic"
+}

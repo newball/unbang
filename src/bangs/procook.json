@@ -1,0 +1,8 @@
+{
+  "bang": "procook",
+  "domain": "https://www.procook.co.uk",
+  "url": "http://www.procook.co.uk/shop/search/?searchDep=main+site&searchstr=%s",
+  "description": "ProCook",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

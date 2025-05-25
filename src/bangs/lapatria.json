@@ -1,0 +1,8 @@
+{
+  "bang": "lapatria",
+  "domain": "https://lapatria.com",
+  "url": "http://lapatria.com/?q=%s",
+  "description": "La Patria",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

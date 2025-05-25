@@ -1,0 +1,8 @@
+{
+  "bang": "mathse",
+  "domain": "https://math.stackexchange.com",
+  "url": "http://math.stackexchange.com/search?q=%s",
+  "description": "Mathematics - Stack Exchange",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

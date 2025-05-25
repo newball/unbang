@@ -1,0 +1,8 @@
+{
+  "bang": "mxtool",
+  "domain": "https://mxtoolbox.com",
+  "url": "https://mxtoolbox.com/SuperTool.aspx?action=%s",
+  "description": "MxToolBox",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

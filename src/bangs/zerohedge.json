@@ -1,0 +1,8 @@
+{
+  "bang": "zerohedge",
+  "domain": "https://www.zerohedge.com",
+  "url": "http://www.zerohedge.com/search/apachesolr_search/%s",
+  "description": "ZeroHedge",
+  "category": "News",
+  "sub-category": "Business"
+}

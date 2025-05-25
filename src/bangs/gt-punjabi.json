@@ -1,0 +1,8 @@
+{
+  "bang": "gt-punjabi",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/pa/%s",
+  "description": "Detect language to Punjabi",
+  "category": "Translation",
+  "sub-category": "Google"
+}

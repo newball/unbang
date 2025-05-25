@@ -1,0 +1,8 @@
+{
+  "bang": "pcs",
+  "domain": "https://www.procyclingstats.com",
+  "url": "https://www.procyclingstats.com/search.php?term=%s",
+  "description": "Pro Cycling Stats",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

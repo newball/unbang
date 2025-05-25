@@ -1,0 +1,8 @@
+{
+  "bang": "20m",
+  "domain": "https://www.20minutes.fr",
+  "url": "http://www.20minutes.fr/search?q=%s",
+  "description": "20 Minutes",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

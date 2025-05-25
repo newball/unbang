@@ -1,0 +1,8 @@
+{
+  "bang": "mayo",
+  "domain": "https://www.mayoclinic.org",
+  "url": "https://www.mayoclinic.org/search/search-results?q=%s",
+  "description": "Mayo Clinic",
+  "category": "Research",
+  "sub-category": "Health"
+}

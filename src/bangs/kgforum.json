@@ -1,0 +1,8 @@
+{
+  "bang": "kgforum",
+  "domain": "https://forum.kvinneguiden.no",
+  "url": "http://forum.kvinneguiden.no/?q=%s",
+  "description": "Kvinneguiden forum",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

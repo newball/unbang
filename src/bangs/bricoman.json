@@ -1,0 +1,8 @@
+{
+  "bang": "bricoman",
+  "domain": "https://www.bricoman.it",
+  "url": "https://www.bricoman.it/search/?q=%s",
+  "description": "Bricoman",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

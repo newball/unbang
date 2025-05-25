@@ -1,0 +1,8 @@
+{
+  "bang": "byond",
+  "domain": "https://www.byond.com",
+  "url": "http://www.byond.com/games/?text=%s",
+  "description": "Byond",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

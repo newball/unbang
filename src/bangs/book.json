@@ -1,0 +1,8 @@
+{
+  "bang": "book",
+  "domain": "https://www.booking.com",
+  "url": "http://www.booking.com/searchresults.html?ss=%s&si=ai",
+  "description": "booking.com",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

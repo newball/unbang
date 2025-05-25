@@ -1,0 +1,8 @@
+{
+  "bang": "dlf",
+  "domain": "https://www.deutschlandfunk.de",
+  "url": "http://www.deutschlandfunk.de/suchergebnisse.448.de.html?search%5Bsubmit%5D=1&search%5BwithNews%5D%5B%5D=WithNews&search%5Bword%5D=%s",
+  "description": "dlf",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

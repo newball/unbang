@@ -1,0 +1,8 @@
+{
+  "bang": "forrester",
+  "domain": "https://www.forrester.com",
+  "url": "https://www.forrester.com/search?tmtxt=%s",
+  "description": "Forrester",
+  "category": "Research",
+  "sub-category": "Learning"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ytes",
+  "domain": "https://www.youtube.com",
+  "url": "https://www.youtube.com/results?search_query=%s&gl=ES&hl=es",
+  "description": "Youtube ES",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

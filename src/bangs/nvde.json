@@ -1,0 +1,8 @@
+{
+  "bang": "nvde",
+  "domain": "https://dict.naver.com",
+  "url": "https://dict.naver.com/dekodict/#/search?query=%s",
+  "description": "Naver german-korean dictionary",
+  "category": "Translation",
+  "sub-category": "General"
+}

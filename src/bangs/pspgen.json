@@ -1,0 +1,8 @@
+{
+  "bang": "pspgen",
+  "domain": "https://www.pspgen.com",
+  "url": "http://www.pspgen.com/s/%s/",
+  "description": "PSP GEN",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

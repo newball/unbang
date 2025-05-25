@@ -1,0 +1,8 @@
+{
+  "bang": "grubhub",
+  "domain": "https://www.grubhub.com",
+  "url": "https://www.grubhub.com/search?queryText=%s",
+  "description": "GrubHub",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

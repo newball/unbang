@@ -1,0 +1,8 @@
+{
+  "bang": "lewrockwell",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Alewrockwell.com+%s ",
+  "description": "LewRockwell.com",
+  "category": "News",
+  "sub-category": "Specialty"
+}

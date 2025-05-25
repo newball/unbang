@@ -1,0 +1,8 @@
+{
+  "bang": "mod",
+  "domain": "https://modarchive.org",
+  "url": "http://modarchive.org/index.php?request=search&query=%s&submit=Find&search_type=filename_or_songtitle",
+  "description": "Modarchive",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

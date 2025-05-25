@@ -1,0 +1,8 @@
+{
+  "bang": "chordwiki",
+  "domain": "https://ja.chordwiki.org",
+  "url": "https://ja.chordwiki.org/search.html?q=%s",
+  "description": "Chord Wiki",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

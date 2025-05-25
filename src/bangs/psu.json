@@ -1,0 +1,8 @@
+{
+  "bang": "psu",
+  "domain": "https://www.psu.edu",
+  "url": "http://www.psu.edu/search/gss?query=%s",
+  "description": "The Pennsylvania State University",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

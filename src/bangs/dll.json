@@ -1,0 +1,8 @@
+{
+  "bang": "dll",
+  "domain": "https://www.dll-files.com",
+  "url": "http://www.dll-files.com/search.php?q=%s",
+  "description": "DLL-files.com",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

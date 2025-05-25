@@ -1,0 +1,8 @@
+{
+  "bang": "psudc",
+  "domain": "https://www.collegian.psu.edu",
+  "url": "http://www.collegian.psu.edu/search/?f=html&q=%s",
+  "description": "The Daily Collegian",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

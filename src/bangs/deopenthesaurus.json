@@ -1,0 +1,8 @@
+{
+  "bang": "deopenthesaurus",
+  "domain": "https://www.openthesaurus.de",
+  "url": "https://www.openthesaurus.de/synonyme/?q=%s",
+  "description": "https://www.openthesaurus.de",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

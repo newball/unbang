@@ -1,0 +1,8 @@
+{
+  "bang": "roll205e",
+  "domain": "https://roll20.net",
+  "url": "https://roll20.net/compendium/dnd5e/searchbook/?terms=%s",
+  "description": "Roll20 DnD 5e Compendium",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

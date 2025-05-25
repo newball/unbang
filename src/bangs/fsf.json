@@ -1,0 +1,8 @@
+{
+  "bang": "fsf",
+  "domain": "https://www.fsf.org",
+  "url": "http://www.fsf.org/search?SearchableText=%s ",
+  "description": "Free Software Foundation",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

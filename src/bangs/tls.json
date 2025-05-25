@@ -1,0 +1,8 @@
+{
+  "bang": "tls",
+  "domain": "https://www.thorlabs.com",
+  "url": "https://www.thorlabs.com/search/thorsearch.cfm?search= %s",
+  "description": "Thorlabs",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

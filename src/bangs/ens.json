@@ -1,0 +1,8 @@
+{
+  "bang": "ens",
+  "domain": "https://www.ensembl.org",
+  "url": "http://www.ensembl.org/Multi/psychic?q=%s",
+  "description": "Ensembl",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

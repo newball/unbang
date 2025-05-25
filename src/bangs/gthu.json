@@ -1,0 +1,8 @@
+{
+  "bang": "gthu",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/hu/%s",
+  "description": "Detect language to Hungarian",
+  "category": "Translation",
+  "sub-category": "Google"
+}

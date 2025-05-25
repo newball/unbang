@@ -1,0 +1,8 @@
+{
+  "bang": "yegg",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Ahttp%3A%2F%2Fwww.gabrielweinberg.com%2Fblog+%s",
+  "description": "Gabriel Weinberg's Blog",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

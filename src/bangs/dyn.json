@@ -1,0 +1,8 @@
+{
+  "bang": "dyn",
+  "domain": "https://dynasty-scans.com",
+  "url": "https://dynasty-scans.com/search?q=%s",
+  "description": "Dynasty Reader",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

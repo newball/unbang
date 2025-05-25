@@ -1,0 +1,8 @@
+{
+  "bang": "residentadvisor",
+  "domain": "https://www.residentadvisor.net",
+  "url": "http://www.residentadvisor.net/search.aspx?searchstr=%s",
+  "description": "Resident Advisor",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

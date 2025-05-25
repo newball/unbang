@@ -1,0 +1,8 @@
+{
+  "bang": "libthing",
+  "domain": "https://www.librarything.com",
+  "url": "https://www.librarything.com/search.php?term=%s",
+  "description": "LibraryThing",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

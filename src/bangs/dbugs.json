@@ -1,0 +1,8 @@
+{
+  "bang": "dbugs",
+  "domain": "https://bugs.debian.org",
+  "url": "http://bugs.debian.org/%s",
+  "description": "Debian Bugs",
+  "category": "Tech",
+  "sub-category": "Sysadmin (debian)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bnbr",
+  "domain": "https://www.bing.com",
+  "url": "http://www.bing.com/search?q=%s&rf=1&qpvt=%s",
+  "description": "Bing Narrow by Region",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

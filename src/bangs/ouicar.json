@@ -1,0 +1,8 @@
+{
+  "bang": "ouicar",
+  "domain": "https://www.ouicar.fr",
+  "url": "http://www.ouicar.fr/car/search?where=%s&from=ddgbang",
+  "description": "OuiCar",
+  "category": "Research",
+  "sub-category": "Travel"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "p",
+  "domain": "https://www.pinterest.com",
+  "url": "https://www.pinterest.com/search/pins/?q=%s",
+  "description": "Pinterest",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

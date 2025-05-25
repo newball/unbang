@@ -1,0 +1,8 @@
+{
+  "bang": "kdeblog",
+  "domain": "https://www.kdeblog.com",
+  "url": "http://www.kdeblog.com/?s=%s",
+  "description": "http://www.kdeblog.com",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "mri",
+  "domain": "https://mri.iop.kcl.ac.uk",
+  "url": "https://mri.iop.kcl.ac.uk/mediawiki/index.php?search=%s&title=Special%3ASearch&go=Go",
+  "description": "MRI Wiki",
+  "category": "Research",
+  "sub-category": "Academic"
+}

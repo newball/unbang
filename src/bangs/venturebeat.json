@@ -1,0 +1,8 @@
+{
+  "bang": "venturebeat",
+  "domain": "https://venturebeat.com",
+  "url": "http://venturebeat.com/?s=%s",
+  "description": "VentureBeat",
+  "category": "News",
+  "sub-category": "Business"
+}

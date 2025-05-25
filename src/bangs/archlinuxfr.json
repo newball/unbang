@@ -1,0 +1,8 @@
+{
+  "bang": "archlinuxfr",
+  "domain": "https://wiki.archlinux.fr",
+  "url": "https://wiki.archlinux.fr/index.php?title=Spécial%3ARecherche&profile=default&fulltext=Search&search=%s",
+  "description": "Wiki Français Archlinux",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Arch)"
+}

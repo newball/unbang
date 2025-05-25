@@ -1,0 +1,8 @@
+{
+  "bang": "mydealz",
+  "domain": "https://www.mydealz.de",
+  "url": "https://www.mydealz.de/search?q=%s",
+  "description": "MyDealz",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

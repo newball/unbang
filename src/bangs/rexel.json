@@ -1,0 +1,8 @@
+{
+  "bang": "rexel",
+  "domain": "https://www.rexel.de",
+  "url": "https://www.rexel.de/search/?text=%s",
+  "description": "Rexel",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

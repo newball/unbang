@@ -1,0 +1,8 @@
+{
+  "bang": "cocoa",
+  "domain": "https://developer.apple.com",
+  "url": "https://developer.apple.com/search/index.php?q=%s ",
+  "description": "Apple Developer",
+  "category": "Tech",
+  "sub-category": "Languages (cocoa)"
+}

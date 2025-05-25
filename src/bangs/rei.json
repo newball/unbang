@@ -1,0 +1,8 @@
+{
+  "bang": "rei",
+  "domain": "https://www.rei.com",
+  "url": "https://www.rei.com/search?q=%s",
+  "description": "REI",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

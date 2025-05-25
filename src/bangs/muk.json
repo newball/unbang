@@ -1,0 +1,8 @@
+{
+  "bang": "muk",
+  "domain": "https://www.google.co.uk",
+  "url": "https://www.google.co.uk/maps/?hl=en&q=%s",
+  "description": "Google Maps UK (en_US)",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

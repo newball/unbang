@@ -1,0 +1,8 @@
+{
+  "bang": "vtkcd",
+  "domain": "https://www.vtk.org",
+  "url": "http://www.vtk.org/doc/nightly/html/class%s.html",
+  "description": "Visualization Toolkit (VTK) class documentation (devel)",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "aur4",
+  "domain": "https://aur4.archlinux.org",
+  "url": "https://aur4.archlinux.org/packages/?K=%s",
+  "description": "Arch User Repository v4",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Arch)"
+}

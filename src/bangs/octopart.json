@@ -1,0 +1,8 @@
+{
+  "bang": "octopart",
+  "domain": "https://octopart.com",
+  "url": "https://octopart.com/search?q=%s",
+  "description": "Octopart",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

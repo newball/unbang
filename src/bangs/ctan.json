@@ -1,0 +1,8 @@
+{
+  "bang": "ctan",
+  "domain": "https://ctan.org",
+  "url": "http://ctan.org/search/?phrase=%s&x=1&PORTAL=on&PKG=on&AUTHORS=on&TOPICS=on&max=16",
+  "description": "CTAN.org",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

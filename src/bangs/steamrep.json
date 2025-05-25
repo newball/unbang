@@ -1,0 +1,8 @@
+{
+  "bang": "steamrep",
+  "domain": "https://steamrep.com",
+  "url": "http://steamrep.com/?q=%s",
+  "description": "SteamRep",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

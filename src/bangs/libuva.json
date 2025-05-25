@@ -1,0 +1,8 @@
+{
+  "bang": "libuva",
+  "domain": "https://lib.uva.nl",
+  "url": "https://lib.uva.nl/primo-explore/search?query=any,contains,%s&tab=all&search_scope=uva_all&vid=UVA",
+  "description": "UvA CataloguePlus",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ks",
+  "domain": "https://www.kickstarter.com",
+  "url": "http://www.kickstarter.com/projects/search?utf8=✓&term=%s+",
+  "description": "Kickstarter",
+  "category": "Online Services",
+  "sub-category": "Tools (fundraising)"
+}

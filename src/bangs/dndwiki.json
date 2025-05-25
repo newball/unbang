@@ -1,0 +1,8 @@
+{
+  "bang": "dndwiki",
+  "domain": "https://dungeons.wikia.com",
+  "url": "http://dungeons.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Dungeons and Dragons Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

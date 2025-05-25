@@ -1,0 +1,8 @@
+{
+  "bang": "regex",
+  "domain": "https://www.regexlib.com",
+  "url": "http://www.regexlib.com/Search.aspx?k=%s ",
+  "description": "Regular Expression Library",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

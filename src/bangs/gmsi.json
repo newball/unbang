@@ -1,0 +1,8 @@
+{
+  "bang": "gmsi",
+  "domain": "https://www.google.si",
+  "url": "https://www.google.si/maps/search/%s/",
+  "description": "Google Maps SI",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "pfss",
+  "domain": "https://www.netgate.com",
+  "url": "https://www.netgate.com/docs/pfsense/search.html?q=%s&check_keywords=yes&area=default",
+  "description": "pfSense Doc",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

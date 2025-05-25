@@ -1,0 +1,8 @@
+{
+  "bang": "gr",
+  "domain": "https://www.goodreads.com",
+  "url": "https://www.goodreads.com/search?q=%s",
+  "description": "Goodreads",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

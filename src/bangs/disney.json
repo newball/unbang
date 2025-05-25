@@ -1,0 +1,8 @@
+{
+  "bang": "disney",
+  "domain": "https://search.disney.go.com",
+  "url": "http://search.disney.go.com/?q=%s",
+  "description": "Disney.com",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

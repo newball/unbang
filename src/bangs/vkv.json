@@ -1,0 +1,8 @@
+{
+  "bang": "vkv",
+  "domain": "https://vk.com",
+  "url": "https://vk.com/video?q=%s",
+  "description": "Vkontakte video",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

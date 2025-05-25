@@ -1,0 +1,8 @@
+{
+  "bang": "elb",
+  "domain": "https://www.bibleserver.com",
+  "url": "http://www.bibleserver.com/text/ELB/%s",
+  "description": "Bibleserver",
+  "category": "Research",
+  "sub-category": "Topical"
+}

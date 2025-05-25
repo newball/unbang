@@ -1,0 +1,8 @@
+{
+  "bang": "loopbackjs",
+  "domain": "https://duckduckgo.com",
+  "url": "http://duckduckgo.com/?q=site:loopback.io/doc/en/lb3+%s",
+  "description": "LoopbackJS Documentations site",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

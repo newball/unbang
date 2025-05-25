@@ -1,0 +1,8 @@
+{
+  "bang": "bird",
+  "domain": "https://www.allaboutbirds.org",
+  "url": "https://www.allaboutbirds.org/search/?q=%s",
+  "description": "All About Birds",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wai",
+  "domain": "https://www.w3.org",
+  "url": "https://www.w3.org/WAI/search/?q=%s",
+  "description": "W3C Web Accessibility Initiative",
+  "category": "Research",
+  "sub-category": "Learning"
+}

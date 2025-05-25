@@ -1,0 +1,8 @@
+{
+  "bang": "gwlib",
+  "domain": "https://library.gwu.edu",
+  "url": "http://library.gwu.edu/search-all?query=%s",
+  "description": "George Washington University Libraries",
+  "category": "Research",
+  "sub-category": "Academic"
+}

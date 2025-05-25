@@ -1,0 +1,8 @@
+{
+  "bang": "govuk",
+  "domain": "https://www.gov.uk",
+  "url": "https://www.gov.uk/search?q= %s",
+  "description": "GOV.UK",
+  "category": "Research",
+  "sub-category": "Government"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "termcat",
+  "domain": "https://www.termcat.cat",
+  "url": "https://www.termcat.cat/cercaterm/%s?type=basic",
+  "description": "Termcat",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

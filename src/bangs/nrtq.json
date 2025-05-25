@@ -1,0 +1,8 @@
+{
+  "bang": "nrtq",
+  "domain": "https://www.nasdaq.com",
+  "url": "http://www.nasdaq.com/symbol/%s/real-time",
+  "description": "NASDAQ Real Time Quotes",
+  "category": "Online Services",
+  "sub-category": "Search (Real-time)"
+}

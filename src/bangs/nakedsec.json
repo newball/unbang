@@ -1,0 +1,8 @@
+{
+  "bang": "nakedsec",
+  "domain": "https://nakedsecurity.sophos.com",
+  "url": "https://nakedsecurity.sophos.com/?s=%s",
+  "description": "Naked Security (by Sophos)",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

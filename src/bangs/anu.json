@@ -1,0 +1,8 @@
+{
+  "bang": "anu",
+  "domain": "https://find.anu.edu.au",
+  "url": "http://find.anu.edu.au/search?filter=0&client=anu_frontend&proxystylesheet=anu_frontend&site=default_collection&btnG=Search&q=%s&search1=Go",
+  "description": "The Australian National University",
+  "category": "Research",
+  "sub-category": "Academic"
+}

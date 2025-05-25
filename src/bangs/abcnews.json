@@ -1,0 +1,8 @@
+{
+  "bang": "abcnews",
+  "domain": "https://abcnews.go.com",
+  "url": "http://abcnews.go.com/search?searchtext=%s",
+  "description": "ABCNews",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "doujinshi",
+  "domain": "https://www.doujinshi.org",
+  "url": "http://www.doujinshi.org/search/simple/?T=objects&sn=%s",
+  "description": "Doujinshi.org",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

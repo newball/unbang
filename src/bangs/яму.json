@@ -1,0 +1,8 @@
+{
+  "bang": "яму",
+  "domain": "https://music.yandex.com",
+  "url": "https://music.yandex.com/search?text=%s",
+  "description": "Yandex Music",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

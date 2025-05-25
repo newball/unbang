@@ -1,0 +1,8 @@
+{
+  "bang": "habr",
+  "domain": "https://habr.com",
+  "url": "https://habr.com/ru/search/?&q=%s",
+  "description": "HabraHabr",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

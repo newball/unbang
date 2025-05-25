@@ -1,0 +1,8 @@
+{
+  "bang": "jutarnji",
+  "domain": "https://www.jutarnji.hr",
+  "url": "https://www.jutarnji.hr/search/?q=%s",
+  "description": "Jutarnji.hr",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

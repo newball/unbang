@@ -1,0 +1,8 @@
+{
+  "bang": "grafikart",
+  "domain": "https://www.grafikart.fr",
+  "url": "http://www.grafikart.fr/search?q=%s",
+  "description": "Grafikart",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

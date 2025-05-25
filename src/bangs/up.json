@@ -1,0 +1,8 @@
+{
+  "bang": "up",
+  "domain": "https://packages.ubuntu.com",
+  "url": "http://packages.ubuntu.com/search?keywords=%s&searchon=names",
+  "description": "Ubuntu Packages",
+  "category": "Tech",
+  "sub-category": "Sysadmin (packages)"
+}

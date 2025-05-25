@@ -1,0 +1,8 @@
+{
+  "bang": "doe",
+  "domain": "https://www.dasoertliche.de",
+  "url": "http://www.dasoertliche.de/Controller?form_name=search_inv&page=5&context=4&action=43&ph=%s",
+  "description": "Das Örtliche",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

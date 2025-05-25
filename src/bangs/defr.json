@@ -1,0 +1,8 @@
+{
+  "bang": "defr",
+  "domain": "https://defr.dict.cc",
+  "url": "http://defr.dict.cc/?s=%s",
+  "description": "dict.cc Deutsch-Französisch",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

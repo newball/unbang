@@ -1,0 +1,8 @@
+{
+  "bang": "ikeait",
+  "domain": "https://www.ikea.com",
+  "url": "http://www.ikea.com/it/it/search/?query=%s",
+  "description": "Ikea (Italia)",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

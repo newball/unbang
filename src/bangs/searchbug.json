@@ -1,0 +1,8 @@
+{
+  "bang": "searchbug",
+  "domain": "https://www.searchbug.com",
+  "url": "http://www.searchbug.com/tools/reverse-phone-lookup.aspx?TYPE=phonerev&TAG=tools&FULLPHONE=%s",
+  "description": "SearchBug",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

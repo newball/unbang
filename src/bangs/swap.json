@@ -1,0 +1,8 @@
+{
+  "bang": "swap",
+  "domain": "https://swappa.com",
+  "url": "https://swappa.com/search?q=%s",
+  "description": "Swappa",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

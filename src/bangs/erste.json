@@ -1,0 +1,8 @@
+{
+  "bang": "erste",
+  "domain": "https://www.daserste.de",
+  "url": "https://www.daserste.de/search/index.jsp?searchText=%s",
+  "description": "Das Erste",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

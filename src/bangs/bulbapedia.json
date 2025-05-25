@@ -1,0 +1,8 @@
+{
+  "bang": "bulbapedia",
+  "domain": "https://bulbapedia.bulbagarden.net",
+  "url": "http://bulbapedia.bulbagarden.net/w/index.php?title=Special:Search&search=%s&go=Go",
+  "description": "Bulbapedia",
+  "category": "Entertainment",
+  "sub-category": "Games (Pokemon)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "kgitlab",
+  "domain": "https://invent.kde.org",
+  "url": "https://invent.kde.org/search?utf8=✓&snippets=&scope=&search=%s",
+  "description": "KDE GitLab",
+  "category": "Tech",
+  "sub-category": "Downloads (code)"
+}

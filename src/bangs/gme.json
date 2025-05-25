@@ -1,0 +1,8 @@
+{
+  "bang": "gme",
+  "domain": "https://www.gme.cz",
+  "url": "https://www.gme.cz/vysledky-vyhledavani?search_keyword= %s",
+  "description": "GM electronic",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

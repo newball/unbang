@@ -1,0 +1,8 @@
+{
+  "bang": "ubuntupack",
+  "domain": "https://packages.ubuntu.com",
+  "url": "http://packages.ubuntu.com/search?keywords=%s",
+  "description": "Ubuntu Packages",
+  "category": "Tech",
+  "sub-category": "Sysadmin (packages)"
+}

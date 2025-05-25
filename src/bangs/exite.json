@@ -1,0 +1,8 @@
+{
+  "bang": "exite",
+  "domain": "https://msxml.excite.com",
+  "url": "http://msxml.excite.com/search/web?q=%s ",
+  "description": "Excite",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

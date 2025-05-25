@@ -1,0 +1,8 @@
+{
+  "bang": "britannica",
+  "domain": "https://www.britannica.com",
+  "url": "http://www.britannica.com/search?query=%s",
+  "description": "Britannica.com",
+  "category": "Research",
+  "sub-category": "Reference"
+}

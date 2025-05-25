@@ -1,0 +1,8 @@
+{
+  "bang": "amkt",
+  "domain": "https://marketplace.atlassian.com",
+  "url": "https://marketplace.atlassian.com/search?q=%s",
+  "description": "Atlassian Marketplace",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

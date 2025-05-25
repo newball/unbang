@@ -1,0 +1,8 @@
+{
+  "bang": "yad",
+  "domain": "https://slovari.yandex.ru",
+  "url": "https://slovari.yandex.ru/%s/",
+  "description": "Yandex Dictionaries",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

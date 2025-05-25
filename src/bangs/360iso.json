@@ -1,0 +1,8 @@
+{
+  "bang": "360iso",
+  "domain": "https://image.so.com",
+  "url": "http://image.so.com/i?q=%s",
+  "description": "360图片",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

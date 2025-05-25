@@ -1,0 +1,8 @@
+{
+  "bang": "eff",
+  "domain": "https://www.eff.org",
+  "url": "https://www.eff.org/search/site/%s",
+  "description": "Electronic Frontier Foundation",
+  "category": "Research",
+  "sub-category": "Law"
+}

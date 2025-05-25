@@ -1,0 +1,8 @@
+{
+  "bang": "we",
+  "domain": "https://en.wikipedia.org",
+  "url": "http://en.wikipedia.org/wiki/%s",
+  "description": "Wikipedia",
+  "category": "Research",
+  "sub-category": "Reference"
+}

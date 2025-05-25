@@ -1,0 +1,8 @@
+{
+  "bang": "hklii",
+  "domain": "https://www.hklii.hk",
+  "url": "http://www.hklii.hk/cgi-bin/sinosrch.cgi?query=%s&results=50&submit=Search&mask_world=&mask_path=&callback=on&method=auto&meta=%2Fhklii",
+  "description": "HKLII",
+  "category": "Research",
+  "sub-category": "Law"
+}

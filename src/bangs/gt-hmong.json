@@ -1,0 +1,8 @@
+{
+  "bang": "gt-hmong",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/hmn/%s",
+  "description": "Detect language to Hmong",
+  "category": "Translation",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "securedrop",
+  "domain": "https://securedrop.readthedocs.org",
+  "url": "https://securedrop.readthedocs.org/en/latest/search.html?q=%s",
+  "description": "SecureDrop Read the Docs",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

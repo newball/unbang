@@ -1,0 +1,8 @@
+{
+  "bang": "newport",
+  "domain": "https://www.newport.com",
+  "url": "https://www.newport.com/search/?text=%s",
+  "description": "Newport",
+  "category": "Research",
+  "sub-category": "Academic"
+}

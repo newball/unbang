@@ -1,0 +1,8 @@
+{
+  "bang": "gossip",
+  "domain": "https://www.numbergossip.com",
+  "url": "http://www.numbergossip.com/?number=%s",
+  "description": "Number Gossip",
+  "category": "Research",
+  "sub-category": "Learning"
+}

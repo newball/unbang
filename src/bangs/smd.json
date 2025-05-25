@@ -1,0 +1,8 @@
+{
+  "bang": "smd",
+  "domain": "https://www.sheetmusicdirect.com",
+  "url": "http://www.sheetmusicdirect.com/Search.aspx?query=%s",
+  "description": "sheetmusicdirect.com",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

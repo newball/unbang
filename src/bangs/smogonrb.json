@@ -1,0 +1,8 @@
+{
+  "bang": "smogonrb",
+  "domain": "https://www.smogon.com",
+  "url": "http://www.smogon.com/dex/rb/pokemon/%s",
+  "description": "Strategy Pokedex Re Blue Smogon",
+  "category": "Entertainment",
+  "sub-category": "Games (Pokemon)"
+}

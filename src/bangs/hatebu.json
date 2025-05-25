@@ -1,0 +1,8 @@
+{
+  "bang": "hatebu",
+  "domain": "https://b.hatena.ne.jp",
+  "url": "http://b.hatena.ne.jp/search/text?q=%s",
+  "description": "Hatena Bookmark",
+  "category": "Online Services",
+  "sub-category": "Social news/links"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "crc",
+  "domain": "https://www.chainreactioncycles.com",
+  "url": "http://www.chainreactioncycles.com/s?q=%s&sort=pricelow",
+  "description": "Chain Reaction Cycles",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "twitchbots",
+  "domain": "https://twitchbots.info",
+  "url": "https://twitchbots.info/check?username=%s",
+  "description": "Twitch Bit Directory",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

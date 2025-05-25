@@ -1,0 +1,8 @@
+{
+  "bang": "bio-online",
+  "domain": "https://www.biology-online.org",
+  "url": "http://www.biology-online.org/search.php?search=%s",
+  "description": "Biology Online",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

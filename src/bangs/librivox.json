@@ -1,0 +1,8 @@
+{
+  "bang": "librivox",
+  "domain": "https://librivox.org",
+  "url": "http://librivox.org/newcatalog/search.php?title=%s&author=&status=all&action=Search",
+  "description": "LibriVox",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

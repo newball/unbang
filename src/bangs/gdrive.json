@@ -1,0 +1,8 @@
+{
+  "bang": "gdrive",
+  "domain": "https://drive.google.com",
+  "url": "https://drive.google.com/drive/search?q=%s",
+  "description": "Google Drive",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

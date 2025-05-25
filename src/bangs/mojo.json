@@ -1,0 +1,8 @@
+{
+  "bang": "mojo",
+  "domain": "https://boxofficemojo.com",
+  "url": "http://boxofficemojo.com/search/?q=%s",
+  "description": "Box Office Mojo",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

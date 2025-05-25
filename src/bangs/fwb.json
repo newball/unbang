@@ -1,0 +1,8 @@
+{
+  "bang": "fwb",
+  "domain": "https://www.filmweb.pl",
+  "url": "https://www.filmweb.pl/search?q=%s",
+  "description": "Filmweb",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

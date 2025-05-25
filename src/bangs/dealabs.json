@@ -1,0 +1,8 @@
+{
+  "bang": "dealabs",
+  "domain": "https://www.dealabs.com",
+  "url": "http://www.dealabs.com/search/?q=%s",
+  "description": "Dealabs",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

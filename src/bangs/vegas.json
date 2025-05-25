@@ -1,0 +1,8 @@
+{
+  "bang": "vegas",
+  "domain": "https://find.vegas.com",
+  "url": "http://find.vegas.com/search?entqr=1&output=xml_no_dtd&sort=date%3AD%3AL%3Ad1&entsp=0&client=vegas&ud=1&oe=UTF-8&ie=UTF-8&proxystylesheet=vegas&site=vegas&q=%s&btnG=%E2%8C%95",
+  "description": "Vegas",
+  "category": "Research",
+  "sub-category": "Travel"
+}

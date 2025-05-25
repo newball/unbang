@@ -1,0 +1,8 @@
+{
+  "bang": "neti",
+  "domain": "https://www.neti.ee",
+  "url": "http://www.neti.ee/cgi-bin/otsing?src=web&query=%s ",
+  "description": "NETI",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

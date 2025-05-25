@@ -1,0 +1,8 @@
+{
+  "bang": "pwde",
+  "domain": "https://www.pokewiki.de",
+  "url": "http://www.pokewiki.de/index.php?search=%s&title=Spezial%3ASuche&go=Seite",
+  "description": "http://www.pokewiki.de/",
+  "category": "Entertainment",
+  "sub-category": "Games (Pokemon)"
+}

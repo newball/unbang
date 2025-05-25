@@ -1,0 +1,8 @@
+{
+  "bang": "defkey",
+  "domain": "https://defkey.com",
+  "url": "https://defkey.com/search?irq=%s",
+  "description": "defkey",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

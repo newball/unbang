@@ -1,0 +1,8 @@
+{
+  "bang": "tib",
+  "domain": "https://opac.tib.uni-hannover.de",
+  "url": "http://opac.tib.uni-hannover.de/DB=1/CHARSET=UTF-8/SRCH?IKT=1016&TRM=%s",
+  "description": "TIB/UB-OPAC (Library of Leibniz Universität Hannover)",
+  "category": "Research",
+  "sub-category": "Academic"
+}

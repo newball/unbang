@@ -1,0 +1,8 @@
+{
+  "bang": "cddai",
+  "domain": "https://cdda-trunk.chezzo.com",
+  "url": "http://cdda-trunk.chezzo.com/search?q=%s",
+  "description": "CDDA Item Browser",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

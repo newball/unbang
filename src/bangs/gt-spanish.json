@@ -1,0 +1,8 @@
+{
+  "bang": "gt-spanish",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/es/%s",
+  "description": "Detect language to Spanish",
+  "category": "Translation",
+  "sub-category": "Google"
+}

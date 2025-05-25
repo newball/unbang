@@ -1,0 +1,8 @@
+{
+  "bang": "ytp",
+  "domain": "https://www.youtube.com",
+  "url": "https://www.youtube.com/results?q=%s&sp=EgIQAw%253D%253D",
+  "description": "Youtube playlists",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

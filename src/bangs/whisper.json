@@ -1,0 +1,8 @@
+{
+  "bang": "whisper",
+  "domain": "https://whisper.sh",
+  "url": "http://whisper.sh/search?q=%s",
+  "description": "Whisper.sh",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

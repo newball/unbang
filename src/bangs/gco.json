@@ -1,0 +1,8 @@
+{
+  "bang": "gco",
+  "domain": "https://www.google.com.co",
+  "url": "http://www.google.com.co/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google CO",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

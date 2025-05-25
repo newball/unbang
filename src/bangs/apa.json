@@ -1,0 +1,8 @@
+{
+  "bang": "apa",
+  "domain": "https://apastyle.org",
+  "url": "http://apastyle.org/search.aspx?query=%s",
+  "description": "APA Style",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wvde",
+  "domain": "https://de.wikivoyage.org",
+  "url": "https://de.wikivoyage.org/w/index.php?search=%s",
+  "description": "Wikivoyage Deutsch",
+  "category": "Research",
+  "sub-category": "Travel"
+}

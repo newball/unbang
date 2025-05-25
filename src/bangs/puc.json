@@ -1,0 +1,8 @@
+{
+  "bang": "puc",
+  "domain": "https://packages.ubuntu.com",
+  "url": "http://packages.ubuntu.com/%s",
+  "description": "Ubuntu Packages Search",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Ubuntu)"
+}

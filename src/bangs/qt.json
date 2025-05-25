@@ -1,0 +1,8 @@
+{
+  "bang": "qt",
+  "domain": "https://doc.qt.io",
+  "url": "https://doc.qt.io/qt-5/search-results.html?q=%s",
+  "description": "Qt Documentation",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

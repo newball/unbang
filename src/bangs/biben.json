@@ -1,0 +1,8 @@
+{
+  "bang": "biben",
+  "domain": "https://www.biblestudytools.com",
+  "url": "http://www.biblestudytools.com/search/?s=references&q=%s&rc=ENC&rc2=",
+  "description": "BibleStudyTools Encyclopedias",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

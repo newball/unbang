@@ -1,0 +1,8 @@
+{
+  "bang": "gca",
+  "domain": "https://www.google.ca",
+  "url": "http://www.google.ca/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google CA",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

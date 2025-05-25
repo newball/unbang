@@ -1,0 +1,8 @@
+{
+  "bang": "tigdb",
+  "domain": "https://db.tigsource.com",
+  "url": "http://db.tigsource.com/search?game[name]=%s",
+  "description": "The Indie Game Database",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

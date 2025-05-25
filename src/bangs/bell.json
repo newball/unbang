@@ -1,0 +1,8 @@
+{
+  "bang": "bell",
+  "domain": "https://www.bell.ca",
+  "url": "http://www.bell.ca/Search?q=%s",
+  "description": "Bell",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

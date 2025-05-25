@@ -1,0 +1,8 @@
+{
+  "bang": "ggb",
+  "domain": "https://www.geogebra.org",
+  "url": "http://www.geogebra.org/cms/%s",
+  "description": "Geogebra",
+  "category": "Tech",
+  "sub-category": "Design"
+}

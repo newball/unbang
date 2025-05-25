@@ -1,0 +1,8 @@
+{
+  "bang": "stortinget",
+  "domain": "https://sok.stortinget.no",
+  "url": "https://sok.stortinget.no/?querytext=%s",
+  "description": "Stortinget",
+  "category": "News",
+  "sub-category": "International"
+}

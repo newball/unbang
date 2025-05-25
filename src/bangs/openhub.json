@@ -1,0 +1,8 @@
+{
+  "bang": "openhub",
+  "domain": "https://www.openhub.net",
+  "url": "https://www.openhub.net/p?query=%s&sort=relevance",
+  "description": "Open HUB",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

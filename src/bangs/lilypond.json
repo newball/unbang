@@ -1,0 +1,8 @@
+{
+  "bang": "lilypond",
+  "domain": "https://lsr.di.unimi.it",
+  "url": "http://lsr.di.unimi.it/LSR/Search?q=%s",
+  "description": "LilyPond Snippet Repository",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

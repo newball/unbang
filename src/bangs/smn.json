@@ -1,0 +1,8 @@
+{
+  "bang": "smn",
+  "domain": "https://songmeanings.com",
+  "url": "http://songmeanings.com/query/?query=%s",
+  "description": "songmeanings",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

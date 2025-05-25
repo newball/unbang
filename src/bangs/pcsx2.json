@@ -1,0 +1,8 @@
+{
+  "bang": "pcsx2",
+  "domain": "https://wiki.pcsx2.net",
+  "url": "https://wiki.pcsx2.net/index.php?search=%s",
+  "description": "PCSX2",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

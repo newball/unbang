@@ -1,0 +1,8 @@
+{
+  "bang": "scp-es",
+  "domain": "https://lafundacionscp.wikidot.com",
+  "url": "http://lafundacionscp.wikidot.com/search:site/a/pf/q/%s",
+  "description": "scp",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

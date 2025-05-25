@@ -1,0 +1,8 @@
+{
+  "bang": "jrs",
+  "domain": "https://jrsbelgium.org",
+  "url": "https://jrsbelgium.org/spip.php?page=recherche&recherche=%s",
+  "description": "Jesuit Refugee Service Belgium",
+  "category": "News",
+  "sub-category": "Online"
+}

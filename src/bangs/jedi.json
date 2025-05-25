@@ -1,0 +1,8 @@
+{
+  "bang": "jedi",
+  "domain": "https://www.jedipedia.net",
+  "url": "https://www.jedipedia.net/w/index.php?search=%s",
+  "description": "Jedipedia.net",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

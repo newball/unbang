@@ -1,0 +1,8 @@
+{
+  "bang": "chuck",
+  "domain": "https://chuck-nbc.wikia.com",
+  "url": "http://chuck-nbc.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Chuck Wiki",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "dailymail",
+  "domain": "https://www.dailymail.co.uk",
+  "url": "https://www.dailymail.co.uk/home/search.html?sel=site&searchPhrase=%s",
+  "description": "Daily Mail Online",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

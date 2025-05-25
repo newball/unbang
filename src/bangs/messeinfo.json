@@ -1,0 +1,8 @@
+{
+  "bang": "messeinfo",
+  "domain": "https://egliseinfo.catholique.fr",
+  "url": "http://egliseinfo.catholique.fr/horaires/%s",
+  "description": "Eglise info",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

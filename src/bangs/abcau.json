@@ -1,0 +1,8 @@
+{
+  "bang": "abcau",
+  "domain": "https://search.abc.net.au",
+  "url": "http://search.abc.net.au/s/search.html?query=%s&collection=abcall_meta&form=simple",
+  "description": "ABC Australia",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

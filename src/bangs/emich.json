@@ -1,0 +1,8 @@
+{
+  "bang": "emich",
+  "domain": "https://www.emich.edu",
+  "url": "https://www.emich.edu/search/?q=%s",
+  "description": "Eastern Michigan University",
+  "category": "Research",
+  "sub-category": "Academic"
+}

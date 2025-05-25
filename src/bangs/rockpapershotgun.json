@@ -1,0 +1,8 @@
+{
+  "bang": "rockpapershotgun",
+  "domain": "https://www.rockpapershotgun.com",
+  "url": "http://www.rockpapershotgun.com/?s=%s",
+  "description": "Rock Paper Shotgun",
+  "category": "News",
+  "sub-category": "Specialty"
+}

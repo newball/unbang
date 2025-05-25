@@ -1,0 +1,8 @@
+{
+  "bang": "lsf",
+  "domain": "https://www.lsf.com.ar",
+  "url": "http://www.lsf.com.ar/resulta.aspx?key=%s",
+  "description": "Librerías Santa Fe",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

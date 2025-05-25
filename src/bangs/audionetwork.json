@@ -1,0 +1,8 @@
+{
+  "bang": "audionetwork",
+  "domain": "https://www.audionetwork.com",
+  "url": "http://www.audionetwork.com/show-production-results.aspx?stype=4&keywords=%s",
+  "description": "Audio Network",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

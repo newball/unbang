@@ -1,0 +1,8 @@
+{
+  "bang": "bf",
+  "domain": "https://www.buzzfeed.com",
+  "url": "http://www.buzzfeed.com/search?q=%s",
+  "description": "BuzzFeed",
+  "category": "Entertainment",
+  "sub-category": "Events"
+}

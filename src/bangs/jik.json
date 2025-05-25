@@ -1,0 +1,8 @@
+{
+  "bang": "jik",
+  "domain": "https://jisho.org",
+  "url": "https://jisho.org/search/%23kanji%20%s",
+  "description": "Jisho (kanji search)",
+  "category": "Research",
+  "sub-category": "Learning (intl)"
+}

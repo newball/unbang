@@ -1,0 +1,8 @@
+{
+  "bang": "opg",
+  "domain": "https://www.op.gg",
+  "url": "http://www.op.gg/champion/%s",
+  "description": "Opgg Champion",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

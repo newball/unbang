@@ -1,0 +1,8 @@
+{
+  "bang": "chtsh",
+  "domain": "https://cheat.sh",
+  "url": "https://cheat.sh/%s",
+  "description": "cheat.sh",
+  "category": "Tech",
+  "sub-category": "Sysadmin (man)"
+}

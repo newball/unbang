@@ -1,0 +1,8 @@
+{
+  "bang": "tatoeba",
+  "domain": "https://tatoeba.org",
+  "url": "http://tatoeba.org/sentences/search?query=%s",
+  "description": "Tatoeba",
+  "category": "Research",
+  "sub-category": "Learning"
+}

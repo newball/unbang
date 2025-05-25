@@ -1,0 +1,8 @@
+{
+  "bang": "mix",
+  "domain": "https://www.cogimix.com",
+  "url": "https://www.cogimix.com/?q=%s",
+  "description": "Cogimix",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

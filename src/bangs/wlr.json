@@ -1,0 +1,8 @@
+{
+  "bang": "wlr",
+  "domain": "https://reference.wolfram.com",
+  "url": "http://reference.wolfram.com/search/?q=%s",
+  "description": "Wolfram Mathematica Reference",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

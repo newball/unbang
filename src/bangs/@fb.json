@@ -1,0 +1,8 @@
+{
+  "bang": "@fb",
+  "domain": "https://facebook.com",
+  "url": "https://facebook.com/%s",
+  "description": "Facebook User Page",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

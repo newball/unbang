@@ -1,0 +1,8 @@
+{
+  "bang": "swipl",
+  "domain": "https://www.swi-prolog.org",
+  "url": "http://www.swi-prolog.org/pldoc/search?for=%s&in=all&match=summary",
+  "description": "SWI-Prolog",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

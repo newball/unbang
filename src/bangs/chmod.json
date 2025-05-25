@@ -1,0 +1,8 @@
+{
+  "bang": "chmod",
+  "domain": "https://chmodcommand.com",
+  "url": "https://chmodcommand.com/chmod-%s/",
+  "description": "Chmod Calculator",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

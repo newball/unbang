@@ -1,0 +1,8 @@
+{
+  "bang": "flat",
+  "domain": "https://flathub.org",
+  "url": "https://flathub.org/apps/search/%s",
+  "description": "Flatpak",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

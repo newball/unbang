@@ -1,0 +1,8 @@
+{
+  "bang": "thriftyfoods",
+  "domain": "https://www.thriftyfoods.com",
+  "url": "https://www.thriftyfoods.com/search?k=%s",
+  "description": "Thrifty Foods",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

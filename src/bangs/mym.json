@@ -1,0 +1,8 @@
+{
+  "bang": "mym",
+  "domain": "https://www.mymovies.it",
+  "url": "http://www.mymovies.it/database/ricerca/?q=%s",
+  "description": "MYmovies",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

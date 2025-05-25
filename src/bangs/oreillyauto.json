@@ -1,0 +1,8 @@
+{
+  "bang": "oreillyauto",
+  "domain": "https://www.oreillyauto.com",
+  "url": "https://www.oreillyauto.com/search/?q=%s",
+  "description": "O'Reilly Auto Parts",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

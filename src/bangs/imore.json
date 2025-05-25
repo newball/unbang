@@ -1,0 +1,8 @@
+{
+  "bang": "imore",
+  "domain": "https://www.imore.com",
+  "url": "http://www.imore.com/search/%s?query=%s",
+  "description": "iMore",
+  "category": "Tech",
+  "sub-category": "Blogs (intl)"
+}

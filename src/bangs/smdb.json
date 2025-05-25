@@ -1,0 +1,8 @@
+{
+  "bang": "smdb",
+  "domain": "https://smdb.kb.se",
+  "url": "http://smdb.kb.se/catalog/search?q=%s",
+  "description": "Svensk Mediedatabas",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

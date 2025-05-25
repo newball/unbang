@@ -1,0 +1,8 @@
+{
+  "bang": "mtawiki",
+  "domain": "https://wiki.multitheftauto.com",
+  "url": "https://wiki.multitheftauto.com/index.php?title=Special%3ASearch&profile=default&fulltext=Search&search=%s",
+  "description": "Multi Theft Auto Wiki",
+  "category": "Research",
+  "sub-category": "Learning"
+}

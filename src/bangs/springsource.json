@@ -1,0 +1,8 @@
+{
+  "bang": "springsource",
+  "domain": "https://www.springsource.org",
+  "url": "http://www.springsource.org/search/google?query=%s",
+  "description": "SpringSource",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "usegalaxy",
+  "domain": "https://galaxyproject.org",
+  "url": "https://galaxyproject.org/search/?q=%s",
+  "description": "Galaxy Community Hub",
+  "category": "Research",
+  "sub-category": "Academic"
+}

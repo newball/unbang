@@ -1,0 +1,8 @@
+{
+  "bang": "op",
+  "domain": "https://openplaques.org",
+  "url": "https://openplaques.org/search?utf8=%E2%9C%93&phrase=%s",
+  "description": "OpenPlaques",
+  "category": "Research",
+  "sub-category": "Local"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "psgca",
+  "domain": "https://store.playstation.com",
+  "url": "https://store.playstation.com/en-ca/grid/search-game/1?query=%s",
+  "description": "PlayStation Store Games Canada",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

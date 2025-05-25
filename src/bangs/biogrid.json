@@ -1,0 +1,8 @@
+{
+  "bang": "biogrid",
+  "domain": "https://thebiogrid.org",
+  "url": "http://thebiogrid.org/search.php?search=%s",
+  "description": "BioGRID",
+  "category": "Research",
+  "sub-category": "Academic"
+}

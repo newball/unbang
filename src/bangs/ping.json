@@ -1,0 +1,8 @@
+{
+  "bang": "ping",
+  "domain": "https://dns-tools.domaintools.com",
+  "url": "http://dns-tools.domaintools.com/?method=ping&query=%s",
+  "description": "DomainTools.com",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

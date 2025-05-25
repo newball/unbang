@@ -1,0 +1,8 @@
+{
+  "bang": "od",
+  "domain": "https://oxforddictionaries.com",
+  "url": "http://oxforddictionaries.com/definition/english/%s?q=%s",
+  "description": "Oxford Dictionary",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "fwpkg",
+  "domain": "https://frugalware.org",
+  "url": "http://frugalware.org/packages?op=pkg&arch=all&ver=current&srch=%s",
+  "description": "Frugalware packages",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

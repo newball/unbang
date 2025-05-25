@@ -1,0 +1,8 @@
+{
+  "bang": "diigt",
+  "domain": "https://www.diigo.com",
+  "url": "https://www.diigo.com/tag/%s?year=2",
+  "description": "Diigo (tags)",
+  "category": "Research",
+  "sub-category": "Learning"
+}

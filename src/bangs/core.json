@@ -1,0 +1,8 @@
+{
+  "bang": "core",
+  "domain": "https://core.ac.uk",
+  "url": "https://core.ac.uk/search?q=%s",
+  "description": "CORE",
+  "category": "Research",
+  "sub-category": "Academic"
+}

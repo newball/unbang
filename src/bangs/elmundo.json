@@ -1,0 +1,8 @@
+{
+  "bang": "elmundo",
+  "domain": "https://ariadna.elmundo.es",
+  "url": "http://ariadna.elmundo.es/buscador/archivo.html?q=%s&b_avanzada=",
+  "description": "El Mundo",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gas",
+  "domain": "https://www.google.as",
+  "url": "http://www.google.as/search?q=%s",
+  "description": "Google American Samoa",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

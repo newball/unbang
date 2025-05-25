@@ -1,0 +1,8 @@
+{
+  "bang": "wnl",
+  "domain": "https://nl.wikipedia.org",
+  "url": "https://nl.wikipedia.org/w/index.php?search=%s",
+  "description": "Wikipedia (NL)",
+  "category": "Research",
+  "sub-category": "Reference"
+}

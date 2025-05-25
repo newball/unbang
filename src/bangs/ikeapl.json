@@ -1,0 +1,8 @@
+{
+  "bang": "ikeapl",
+  "domain": "https://www.ikea.com",
+  "url": "https://www.ikea.com/pl/pl/search/?query=%s",
+  "description": "ikea.pl",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

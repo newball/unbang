@@ -1,0 +1,8 @@
+{
+  "bang": "bpop",
+  "domain": "https://www.brainpop.com",
+  "url": "https://www.brainpop.com/search/?keyword=%s",
+  "description": "BrainPOP",
+  "category": "Tech",
+  "sub-category": "Design"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "asianwiki",
+  "domain": "https://asianwiki.com",
+  "url": "http://asianwiki.com/index.php?title=Special%3ASearch&search=%s&fulltext=Search",
+  "description": "AsianWiki",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

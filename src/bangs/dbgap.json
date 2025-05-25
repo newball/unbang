@@ -1,0 +1,8 @@
+{
+  "bang": "dbgap",
+  "domain": "https://www.ncbi.nlm.nih.gov",
+  "url": "https://www.ncbi.nlm.nih.gov/gap/?term=%s",
+  "description": "dbGaP",
+  "category": "Research",
+  "sub-category": "Academic"
+}

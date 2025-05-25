@@ -1,0 +1,8 @@
+{
+  "bang": "msupdate",
+  "domain": "https://www.catalog.update.microsoft.com",
+  "url": "https://www.catalog.update.microsoft.com/Search.aspx?q=%s",
+  "description": "Microsoft Update Catalog",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

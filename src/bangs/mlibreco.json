@@ -1,0 +1,8 @@
+{
+  "bang": "mlibreco",
+  "domain": "https://listado.mercadolibre.com.co",
+  "url": "https://listado.mercadolibre.com.co/%s",
+  "description": "MercadoLibre Colombia",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

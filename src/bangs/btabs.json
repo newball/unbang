@@ -1,0 +1,8 @@
+{
+  "bang": "btabs",
+  "domain": "https://www.ultimate-guitar.com",
+  "url": "http://www.ultimate-guitar.com/search.php?s=%s&w=songs",
+  "description": "UltimateGuitar.com",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "acronyms",
+  "domain": "https://www.acronymfinder.com",
+  "url": "http://www.acronymfinder.com/~/search/af.aspx?string=exact&Acronym=%s",
+  "description": "Acronyms",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

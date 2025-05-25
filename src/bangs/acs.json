@@ -1,0 +1,8 @@
+{
+  "bang": "acs",
+  "domain": "https://pubs.acs.org",
+  "url": "http://pubs.acs.org/action/doSearch?AllField=%s",
+  "description": "http://pubs.acs.org/",
+  "category": "Research",
+  "sub-category": "Academic"
+}

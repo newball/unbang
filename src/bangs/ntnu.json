@@ -1,0 +1,8 @@
+{
+  "bang": "ntnu",
+  "domain": "https://www.ntnu.edu",
+  "url": "http://www.ntnu.edu/sok?query=%s",
+  "description": "Norwegian University of Science and Technology",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "fdic",
+  "domain": "https://finedictionary.com",
+  "url": "http://finedictionary.com/%s.html",
+  "description": "finedictionary",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

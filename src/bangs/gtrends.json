@@ -1,0 +1,8 @@
+{
+  "bang": "gtrends",
+  "domain": "https://trends.google.com",
+  "url": "https://trends.google.com/trends/explore?date=all&geo=US&q=%s",
+  "description": "Google Trends",
+  "category": "Research",
+  "sub-category": "Reference"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "des",
+  "domain": "https://es.thefreedictionary.com",
+  "url": "http://es.thefreedictionary.com/%s",
+  "description": "The free dictionary ES",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

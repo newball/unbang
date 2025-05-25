@@ -1,0 +1,8 @@
+{
+  "bang": "spinoza",
+  "domain": "https://www.spinoza.it",
+  "url": "http://www.spinoza.it/?s=%s",
+  "description": "Spinoza",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

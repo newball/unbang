@@ -1,0 +1,8 @@
+{
+  "bang": "tanks",
+  "domain": "https://www.tanks-encyclopedia.com",
+  "url": "http://www.tanks-encyclopedia.com/?s=%s",
+  "description": "Tank Encyclopedia",
+  "category": "Research",
+  "sub-category": "Learning (intl)"
+}

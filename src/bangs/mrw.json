@@ -1,0 +1,8 @@
+{
+  "bang": "mrw",
+  "domain": "https://www.mrw.es",
+  "url": "https://www.mrw.es/seguimiento_envios/MRW_resultados_consultas.asp?modo=nacional&envio=%s",
+  "description": "MRW España",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

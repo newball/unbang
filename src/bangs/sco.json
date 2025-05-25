@@ -1,0 +1,8 @@
+{
+  "bang": "sco",
+  "domain": "https://www.slant.co",
+  "url": "https://www.slant.co/search?query=%s",
+  "description": "Slant.co",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

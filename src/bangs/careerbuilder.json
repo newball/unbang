@@ -1,0 +1,8 @@
+{
+  "bang": "careerbuilder",
+  "domain": "https://www.careerbuilder.com",
+  "url": "http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?IPath=QH&ch=&rs=&s_rawwords=%s&s_jobtypes=ALL&s_freshness=30&s_education=DRNS&s_freeloc=&qsbButton=Find+Jobs+%3E%3E",
+  "description": "CareerBuilder",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

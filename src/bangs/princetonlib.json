@@ -1,0 +1,8 @@
+{
+  "bang": "princetonlib",
+  "domain": "https://library.princeton.edu",
+  "url": "https://library.princeton.edu/find/all/%s",
+  "description": "Princeton University Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

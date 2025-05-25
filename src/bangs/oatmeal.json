@@ -1,0 +1,8 @@
+{
+  "bang": "oatmeal",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s+site:theoatmeal.com",
+  "description": "The Oatmeal",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

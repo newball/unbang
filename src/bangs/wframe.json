@@ -1,0 +1,8 @@
+{
+  "bang": "wframe",
+  "domain": "https://warframe.wikia.com",
+  "url": "http://warframe.wikia.com/wiki/Special:Search?search=%s&fulltext=Search&ns0=1&ns14=1",
+  "description": "Warframe",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

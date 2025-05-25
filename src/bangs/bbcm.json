@@ -1,0 +1,8 @@
+{
+  "bang": "bbcm",
+  "domain": "https://www.bbc.co.uk",
+  "url": "http://www.bbc.co.uk/mundo/search/?q=%s",
+  "description": "BBC Mundo",
+  "category": "News",
+  "sub-category": "International"
+}

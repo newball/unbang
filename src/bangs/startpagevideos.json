@@ -1,0 +1,8 @@
+{
+  "bang": "startpagevideos",
+  "domain": "https://startpage.com",
+  "url": "https://startpage.com/do/search?cat=video&cmd=process_search&query=%s",
+  "description": "StartPage (videos)",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

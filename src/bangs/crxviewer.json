@@ -1,0 +1,8 @@
+{
+  "bang": "crxviewer",
+  "domain": "https://robwu.nl",
+  "url": "https://robwu.nl/crxviewer/?crx=%s",
+  "description": "Extension Source Viewer",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

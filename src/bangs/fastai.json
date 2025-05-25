@@ -1,0 +1,8 @@
+{
+  "bang": "fastai",
+  "domain": "https://forums.fast.ai",
+  "url": "https://forums.fast.ai/search?q=%s",
+  "description": "fast.ai forums",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

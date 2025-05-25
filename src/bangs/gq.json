@@ -1,0 +1,8 @@
+{
+  "bang": "gq",
+  "domain": "https://www.gq.com",
+  "url": "http://www.gq.com/search?qt=dismax&sort=score+desc&query=%s",
+  "description": "GQ",
+  "category": "News",
+  "sub-category": "Magazine (fashion)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "nice",
+  "domain": "https://www.nice.org.uk",
+  "url": "https://www.nice.org.uk/search?q=%s",
+  "description": "NICE - National Institute for Health and Care Excellence",
+  "category": "Research",
+  "sub-category": "Health"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gtsl",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/sl/%s",
+  "description": "Detect language to Slovenian",
+  "category": "Translation",
+  "sub-category": "Google"
+}

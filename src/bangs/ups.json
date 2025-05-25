@@ -1,0 +1,8 @@
+{
+  "bang": "ups",
+  "domain": "https://wwwapps.ups.com",
+  "url": "https://wwwapps.ups.com/WebTracking/processInputRequest?tracknum=%s&",
+  "description": "UPS Tracking",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

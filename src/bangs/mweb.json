@@ -1,0 +1,8 @@
+{
+  "bang": "mweb",
+  "domain": "https://www.merriam-webster.com",
+  "url": "https://www.merriam-webster.com/dictionary/%s",
+  "description": "Merriam-Webster",
+  "category": "Research",
+  "sub-category": "Reference"
+}

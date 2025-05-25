@@ -1,0 +1,8 @@
+{
+  "bang": "ray",
+  "domain": "https://www.raywenderlich.com",
+  "url": "https://www.raywenderlich.com/?s=%s",
+  "description": "Ray Wenderlich",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

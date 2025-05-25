@@ -1,0 +1,8 @@
+{
+  "bang": "gcl",
+  "domain": "https://www.google.cl",
+  "url": "http://www.google.cl/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google CL",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

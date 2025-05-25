@@ -1,0 +1,8 @@
+{
+  "bang": "חוק",
+  "domain": "https://he.wikisource.org",
+  "url": "https://he.wikisource.org/w/index.php?search=חוק+%s",
+  "description": "Israeli Open Law project at Hebrew Wikisource",
+  "category": "Research",
+  "sub-category": "Law"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bpa",
+  "domain": "https://bulbapedia.bulbagarden.net",
+  "url": "http://bulbapedia.bulbagarden.net/wiki/%s",
+  "description": "Bulbapedia",
+  "category": "Entertainment",
+  "sub-category": "Games (Pokemon)"
+}

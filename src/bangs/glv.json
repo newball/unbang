@@ -1,0 +1,8 @@
+{
+  "bang": "glv",
+  "domain": "https://www.google.lv",
+  "url": "http://www.google.lv/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google LV",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

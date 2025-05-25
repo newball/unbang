@@ -1,0 +1,8 @@
+{
+  "bang": "eup",
+  "domain": "https://edinboro.edu",
+  "url": "http://edinboro.edu/search/search.html?keyword=%s",
+  "description": "Edinboro University of Pennsylvania",
+  "category": "Research",
+  "sub-category": "Academic"
+}

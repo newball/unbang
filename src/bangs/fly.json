@@ -1,0 +1,8 @@
+{
+  "bang": "fly",
+  "domain": "https://flybase.org",
+  "url": "http://flybase.org/search/%s",
+  "description": "FlyBase",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

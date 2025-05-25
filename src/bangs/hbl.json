@@ -1,0 +1,8 @@
+{
+  "bang": "hbl",
+  "domain": "https://www.hbl.fi",
+  "url": "https://www.hbl.fi/?s=%s",
+  "description": "Hufvudstadsbladet",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

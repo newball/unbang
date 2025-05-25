@@ -1,0 +1,8 @@
+{
+  "bang": "sndocs",
+  "domain": "https://docs.servicenow.com",
+  "url": "https://docs.servicenow.com/search?q=%s",
+  "description": "ServiceNow Product Docs",
+  "category": "Research",
+  "sub-category": "Reference"
+}

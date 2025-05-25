@@ -1,0 +1,8 @@
+{
+  "bang": "riten",
+  "domain": "https://context.reverso.net",
+  "url": "http://context.reverso.net/translation/italian-english/%s",
+  "description": "Reverso context",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

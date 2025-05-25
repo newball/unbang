@@ -1,0 +1,8 @@
+{
+  "bang": "ponsenfr",
+  "domain": "https://en.pons.eu",
+  "url": "http://en.pons.eu/translate?q=%s&l=enfr&in=&lf=fr",
+  "description": "Pons.eu",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "steamsc",
+  "domain": "https://steamcommunity.com",
+  "url": "https://steamcommunity.com/search/users/#text=%s",
+  "description": "Steam Community",
+  "category": "Tech",
+  "sub-category": "Startups"
+}

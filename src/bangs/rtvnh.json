@@ -1,0 +1,8 @@
+{
+  "bang": "rtvnh",
+  "domain": "https://www.rtvnh.nl",
+  "url": "http://www.rtvnh.nl/zoeken/1/%s",
+  "description": "RTVNH",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

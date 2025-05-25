@@ -1,0 +1,8 @@
+{
+  "bang": "est",
+  "domain": "https://emacs.stackexchange.com",
+  "url": "http://emacs.stackexchange.com/search?q=%s",
+  "description": "Emacs Stack Exchange",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

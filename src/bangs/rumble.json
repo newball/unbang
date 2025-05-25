@@ -1,0 +1,8 @@
+{
+  "bang": "rumble",
+  "domain": "https://rumble.com",
+  "url": "https://rumble.com/all/q/%s/?type=videos",
+  "description": "Rumble",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

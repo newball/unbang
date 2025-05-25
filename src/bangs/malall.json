@@ -1,0 +1,8 @@
+{
+  "bang": "malall",
+  "domain": "https://myanimelist.net",
+  "url": "https://myanimelist.net/search/all?q=%s",
+  "description": "MyAnimeList Search All",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

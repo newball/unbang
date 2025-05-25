@@ -1,0 +1,8 @@
+{
+  "bang": "cppreference",
+  "domain": "https://cppreference.com",
+  "url": "http://cppreference.com/w/?search=%s",
+  "description": "Cppreference",
+  "category": "Tech",
+  "sub-category": "Languages (c++)"
+}

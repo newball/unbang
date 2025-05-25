@@ -1,0 +1,8 @@
+{
+  "bang": "phset",
+  "domain": "https://phi.sh",
+  "url": "http://phi.sh/%s",
+  "description": "phish.net",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

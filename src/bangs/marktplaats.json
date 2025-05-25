@@ -1,0 +1,8 @@
+{
+  "bang": "marktplaats",
+  "domain": "https://www.marktplaats.nl",
+  "url": "https://www.marktplaats.nl/z.html?query=%s",
+  "description": "Marktplaats",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

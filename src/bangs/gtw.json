@@ -1,0 +1,8 @@
+{
+  "bang": "gtw",
+  "domain": "https://www.google.com.tw",
+  "url": "http://www.google.com.tw/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google TW",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

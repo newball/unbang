@@ -1,0 +1,8 @@
+{
+  "bang": "hio",
+  "domain": "https://hackaday.io",
+  "url": "https://hackaday.io/search?term=%s",
+  "description": "Hackaday.io",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

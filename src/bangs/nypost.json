@@ -1,0 +1,8 @@
+{
+  "bang": "nypost",
+  "domain": "https://nypost.com",
+  "url": "https://nypost.com/search/%s/",
+  "description": "NYPost",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

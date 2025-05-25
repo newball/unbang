@@ -1,0 +1,8 @@
+{
+  "bang": "fds",
+  "domain": "https://support.freshdesk.com",
+  "url": "https://support.freshdesk.com/support/search/solutions?term=%s",
+  "description": "Freshdesk solutions",
+  "category": "Tech",
+  "sub-category": "Startups"
+}

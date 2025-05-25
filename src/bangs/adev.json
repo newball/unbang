@@ -1,0 +1,8 @@
+{
+  "bang": "adev",
+  "domain": "https://developer.apple.com",
+  "url": "https://developer.apple.com/search/?q=%s",
+  "description": "Apple Developer",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "encode",
+  "domain": "https://www.encodeproject.org",
+  "url": "https://www.encodeproject.org/search/?searchTerm=%s",
+  "description": "ENCODE",
+  "category": "Research",
+  "sub-category": "Academic (biology)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "smw",
+  "domain": "https://www.mariowiki.com",
+  "url": "http://www.mariowiki.com/index.php?title=Special%3ASearch&search=%s",
+  "description": "Super Mario Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

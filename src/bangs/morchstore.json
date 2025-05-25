@@ -1,0 +1,8 @@
+{
+  "bang": "morchstore",
+  "domain": "https://www.morchstore.com",
+  "url": "https://www.morchstore.com/?post_type=product&s=%s",
+  "description": "MorchStore",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

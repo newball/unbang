@@ -1,0 +1,8 @@
+{
+  "bang": "dsc",
+  "domain": "https://screenshots.debian.net",
+  "url": "https://screenshots.debian.net/packages?utf8=✓&search=%s",
+  "description": "Debian Screenshots",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

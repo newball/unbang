@@ -1,0 +1,8 @@
+{
+  "bang": "ce",
+  "domain": "https://forum.cheatengine.org",
+  "url": "http://forum.cheatengine.org/search.php?q=%s",
+  "description": "Cheat Engine Forums",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

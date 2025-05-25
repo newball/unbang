@@ -1,0 +1,8 @@
+{
+  "bang": "openlistings",
+  "domain": "https://www.openlistings.co",
+  "url": "https://www.openlistings.co/s/%s ",
+  "description": "Open Listings",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

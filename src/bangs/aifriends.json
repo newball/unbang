@@ -1,0 +1,8 @@
+{
+  "bang": "aifriends",
+  "domain": "https://aikatsu-friends.wikia.com",
+  "url": "http://aikatsu-friends.wikia.com/wiki/Special:Search?query=%s",
+  "description": "Aikatsu Friends Wikia",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

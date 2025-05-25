@@ -1,0 +1,8 @@
+{
+  "bang": "wtm",
+  "domain": "https://en.m.wiktionary.org",
+  "url": "https://en.m.wiktionary.org/wiki/%s",
+  "description": "Wiktionary Mobile",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "nng",
+  "domain": "https://cowlevel.net",
+  "url": "https://cowlevel.net/search?q=%s",
+  "description": "cowlevel",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

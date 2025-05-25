@@ -1,0 +1,8 @@
+{
+  "bang": "booko",
+  "domain": "https://booko.com.au",
+  "url": "http://booko.com.au/books/search?q=%s",
+  "description": "Booko",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

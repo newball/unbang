@@ -1,0 +1,8 @@
+{
+  "bang": "gpsies",
+  "domain": "https://gpsies.de",
+  "url": "http://gpsies.de/?q=%s",
+  "description": "GPSies.de",
+  "category": "Research",
+  "sub-category": "Travel"
+}

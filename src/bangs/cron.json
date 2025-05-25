@@ -1,0 +1,8 @@
+{
+  "bang": "cron",
+  "domain": "https://crontab.guru",
+  "url": "https://crontab.guru/#%s",
+  "description": "Crontab.guru",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

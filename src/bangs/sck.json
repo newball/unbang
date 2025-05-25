@@ -1,0 +1,8 @@
+{
+  "bang": "sck",
+  "domain": "https://api.sck.pm",
+  "url": "https://api.sck.pm/shorten?%s",
+  "description": "sck.pm",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

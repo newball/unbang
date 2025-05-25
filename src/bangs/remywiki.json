@@ -1,0 +1,8 @@
+{
+  "bang": "remywiki",
+  "domain": "https://remywiki.com",
+  "url": "https://remywiki.com/index.php?title=Special:Search&search=%s",
+  "description": "RemyWiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

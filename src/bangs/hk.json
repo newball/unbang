@@ -1,0 +1,8 @@
+{
+  "bang": "hk",
+  "domain": "https://hacktips.it",
+  "url": "http://hacktips.it/?s=%s",
+  "description": "HackTips",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

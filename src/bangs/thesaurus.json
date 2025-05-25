@@ -1,0 +1,8 @@
+{
+  "bang": "thesaurus",
+  "domain": "https://www.thesaurus.com",
+  "url": "https://www.thesaurus.com/browse/%s?s=t",
+  "description": "Thesaurus.com",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "borderlands",
+  "domain": "https://borderlands.wikia.com",
+  "url": "http://borderlands.wikia.com/wiki/Special:Search?query=%s",
+  "description": "Borderlands Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

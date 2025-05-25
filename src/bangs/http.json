@@ -1,0 +1,8 @@
+{
+  "bang": "http",
+  "domain": "https://httpstatuses.com",
+  "url": "https://httpstatuses.com/%s ",
+  "description": "HTTP Status Codes",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "clt",
+  "domain": "https://calil.jp",
+  "url": "https://calil.jp/local/search?csid=tokyo&q=%s",
+  "description": "東京都の図書館横断検索 | カーリル",
+  "category": "Research",
+  "sub-category": "Reference"
+}

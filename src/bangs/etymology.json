@@ -1,0 +1,8 @@
+{
+  "bang": "etymology",
+  "domain": "https://www.etymonline.com",
+  "url": "http://www.etymonline.com/index.php?search=%s&searchmode=none",
+  "description": "EtymOnline.com",
+  "category": "Research",
+  "sub-category": "Academic"
+}

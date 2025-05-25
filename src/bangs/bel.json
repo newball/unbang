@@ -1,0 +1,8 @@
+{
+  "bang": "bel",
+  "domain": "https://kgov.com",
+  "url": "https://kgov.com/search?query=%s",
+  "description": "Bob Enyart Live",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wow",
+  "domain": "https://worldofwarcraft.com",
+  "url": "https://worldofwarcraft.com/search?q=%s",
+  "description": "World of Warcraft",
+  "category": "Entertainment",
+  "sub-category": "Games (WOW)"
+}

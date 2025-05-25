@@ -1,0 +1,8 @@
+{
+  "bang": "msulibrary",
+  "domain": "https://lib.msu.edu",
+  "url": "https://lib.msu.edu/searchresults/?Ntt=%s",
+  "description": "Michigan State University Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "repeater",
+  "domain": "https://www.repeaterbook.com",
+  "url": "https://www.repeaterbook.com/repeaters/keyword.php?func=result&keyword=%s",
+  "description": "Repeater Book",
+  "category": "Research",
+  "sub-category": "Reference"
+}

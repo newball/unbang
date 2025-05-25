@@ -1,0 +1,8 @@
+{
+  "bang": "gtja",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/ja/%s",
+  "description": "Detect language to Japanese",
+  "category": "Translation",
+  "sub-category": "Google"
+}

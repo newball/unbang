@@ -1,0 +1,8 @@
+{
+  "bang": "moocs",
+  "domain": "https://www.class-central.com",
+  "url": "https://www.class-central.com/search?q=%s",
+  "description": "Class-Central",
+  "category": "Research",
+  "sub-category": "Learning"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "mapp",
+  "domain": "https://mapper.acme.com",
+  "url": "http://mapper.acme.com/?q=%s ",
+  "description": "ACME Mapper 2.0",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

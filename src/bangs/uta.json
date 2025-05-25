@@ -1,0 +1,8 @@
+{
+  "bang": "uta",
+  "domain": "https://www.uta.edu",
+  "url": "http://www.uta.edu/search/?q=%s",
+  "description": "University of Texas at Arlington",
+  "category": "Research",
+  "sub-category": "Academic"
+}

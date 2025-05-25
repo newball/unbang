@@ -1,0 +1,8 @@
+{
+  "bang": "hphosts",
+  "domain": "https://hosts-file.net",
+  "url": "http://hosts-file.net/default.asp?s=%s",
+  "description": "hphosts",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

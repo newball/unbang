@@ -1,0 +1,8 @@
+{
+  "bang": "feedly",
+  "domain": "https://feedly.com",
+  "url": "https://feedly.com/i/search/%s",
+  "description": "Feedly",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

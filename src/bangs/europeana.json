@@ -1,0 +1,8 @@
+{
+  "bang": "europeana",
+  "domain": "https://europeana.eu",
+  "url": "http://europeana.eu/portal/search.html?query=%s",
+  "description": "Europeana.eu",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

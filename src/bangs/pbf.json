@@ -1,0 +1,8 @@
+{
+  "bang": "pbf",
+  "domain": "https://pbfcomics.com",
+  "url": "http://pbfcomics.com/?s=%s",
+  "description": "Perry Bible Fellowship Comics",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

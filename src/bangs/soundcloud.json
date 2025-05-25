@@ -1,0 +1,8 @@
+{
+  "bang": "soundcloud",
+  "domain": "https://soundcloud.com",
+  "url": "http://soundcloud.com/search?q=%s",
+  "description": "SoundCloud",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "dnw",
+  "domain": "https://search.danawa.com",
+  "url": "http://search.danawa.com/dsearch.php?k1=%s",
+  "description": "Danawa",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "dwell",
+  "domain": "https://www.dwell.com",
+  "url": "https://www.dwell.com/query/%s",
+  "description": "Dwell",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

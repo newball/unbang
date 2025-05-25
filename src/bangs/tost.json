@@ -1,0 +1,8 @@
+{
+  "bang": "tost",
+  "domain": "https://toster.ru",
+  "url": "https://toster.ru/search?q=%s",
+  "description": "Toster",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

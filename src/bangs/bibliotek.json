@@ -1,0 +1,8 @@
+{
+  "bang": "bibliotek",
+  "domain": "https://bibliotek.dk",
+  "url": "https://bibliotek.dk/search/work/%s",
+  "description": "Bibliotek.dk",
+  "category": "Research",
+  "sub-category": "Reference"
+}

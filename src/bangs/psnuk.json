@@ -1,0 +1,8 @@
+{
+  "bang": "psnuk",
+  "domain": "https://store.playstation.com",
+  "url": "http://store.playstation.com/#!/en-gb/search/q=%s",
+  "description": "Playstation Store UK",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "playmusic",
+  "domain": "https://play.google.com",
+  "url": "https://play.google.com/music/listen#/sr/%s",
+  "description": "https://play.google.com/music/listen#/now",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

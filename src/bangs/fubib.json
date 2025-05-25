@@ -1,0 +1,8 @@
+{
+  "bang": "fubib",
+  "domain": "https://www.ub-katalog.fernuni-hagen.de",
+  "url": "https://www.ub-katalog.fernuni-hagen.de/F/?func=find-b&request=%s&find_code=WRD",
+  "description": "Katalogsuche UB FU Hagen",
+  "category": "Research",
+  "sub-category": "Learning"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "dummi",
+  "domain": "https://www.dummies.com",
+  "url": "http://www.dummies.com/search.html?query=%s",
+  "description": "http://www.dummies.com/search.html?query=cisc",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

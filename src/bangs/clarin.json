@@ -1,0 +1,8 @@
+{
+  "bang": "clarin",
+  "domain": "https://www.clarin.com",
+  "url": "https://www.clarin.com/buscador/?q=%s",
+  "description": "Clarín",
+  "category": "News",
+  "sub-category": "International"
+}

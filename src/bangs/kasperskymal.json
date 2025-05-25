@@ -1,0 +1,8 @@
+{
+  "bang": "kasperskymal",
+  "domain": "https://www.securelist.com",
+  "url": "https://www.securelist.com/en/descriptions?words=%s&behavior=&Search=Search&search_type=1",
+  "description": "Securelist Malware info",
+  "category": "Research",
+  "sub-category": "Reference"
+}

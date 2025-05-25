@@ -1,0 +1,8 @@
+{
+  "bang": "ifdb",
+  "domain": "https://ifdb.tads.org",
+  "url": "http://ifdb.tads.org/search?searchbar=%s",
+  "description": "Interactive Fiction Database",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

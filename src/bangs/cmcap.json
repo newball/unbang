@@ -1,0 +1,8 @@
+{
+  "bang": "cmcap",
+  "domain": "https://coinmarketcap.com",
+  "url": "https://coinmarketcap.com/currencies/%s",
+  "description": "CoinMarketCap",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

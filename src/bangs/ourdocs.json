@@ -1,0 +1,8 @@
+{
+  "bang": "ourdocs",
+  "domain": "https://our.umbraco.com",
+  "url": "https://our.umbraco.com/search?q=%s&cat=documentation",
+  "description": "Umbraco Documentation",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

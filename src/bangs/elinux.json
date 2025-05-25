@@ -1,0 +1,8 @@
+{
+  "bang": "elinux",
+  "domain": "https://elinux.org",
+  "url": "http://elinux.org/index.php?search=%s",
+  "description": "eLinux",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

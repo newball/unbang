@@ -1,0 +1,8 @@
+{
+  "bang": "dpv",
+  "domain": "https://www.dogpile.com",
+  "url": "http://www.dogpile.com/search/video?q=%s",
+  "description": "Dogpile Video",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

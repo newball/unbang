@@ -1,0 +1,8 @@
+{
+  "bang": "cnplx",
+  "domain": "https://www.cineplex.com",
+  "url": "http://www.cineplex.com/search-2015?search-query=%s",
+  "description": "Cineplex",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

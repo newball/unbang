@@ -1,0 +1,8 @@
+{
+  "bang": "antonym",
+  "domain": "https://www.synonyms.net",
+  "url": "http://www.synonyms.net/antonyms/%s",
+  "description": "Synonyms.net",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

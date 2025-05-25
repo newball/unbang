@@ -1,0 +1,8 @@
+{
+  "bang": "couponmeup",
+  "domain": "https://www.couponmeup.com",
+  "url": "http://www.couponmeup.com/cgi-bin/display.pl?search=1&q=%s ",
+  "description": "CouponMeUp",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

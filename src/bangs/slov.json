@@ -1,0 +1,8 @@
+{
+  "bang": "slov",
+  "domain": "https://slovari.yandex.ru",
+  "url": "http://slovari.yandex.ru/search.xml?text=%s",
+  "description": "Yandex.Slovari",
+  "category": "Research",
+  "sub-category": "Learning (intl)"
+}

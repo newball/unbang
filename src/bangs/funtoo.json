@@ -1,0 +1,8 @@
+{
+  "bang": "funtoo",
+  "domain": "https://www.funtoo.org",
+  "url": "http://www.funtoo.org/index.php?search=%s",
+  "description": "Funtoo",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

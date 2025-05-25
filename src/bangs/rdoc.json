@@ -1,0 +1,8 @@
+{
+  "bang": "rdoc",
+  "domain": "https://rdoc.info",
+  "url": "http://rdoc.info/find/github?q=%s",
+  "description": "RubyDoc.info",
+  "category": "Tech",
+  "sub-category": "Languages (ruby)"
+}

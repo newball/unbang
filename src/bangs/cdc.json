@@ -1,0 +1,8 @@
+{
+  "bang": "cdc",
+  "domain": "https://www.cdc.gov",
+  "url": "http://www.cdc.gov/search.do?queryText=%s",
+  "description": "CDC",
+  "category": "Research",
+  "sub-category": "Health"
+}

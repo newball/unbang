@@ -1,0 +1,8 @@
+{
+  "bang": "lanpor",
+  "domain": "https://www.microsoft.com",
+  "url": "http://www.microsoft.com/Language/en-US/Search.aspx?sString=%s&langID=pl-pl",
+  "description": "Microsoft Language Portal",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

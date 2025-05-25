@@ -1,0 +1,8 @@
+{
+  "bang": "buffalolib",
+  "domain": "https://www.buffalolib.org",
+  "url": "https://www.buffalolib.org/vufind/Union/Search?lookfor=%s&type=keyword&submit=Find&sort=title",
+  "description": "Buffalo & Erie County Public Library",
+  "category": "Research",
+  "sub-category": "Reference"
+}

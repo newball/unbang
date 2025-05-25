@@ -1,0 +1,8 @@
+{
+  "bang": "in2p3",
+  "domain": "https://annuaire.in2p3.fr",
+  "url": "https://annuaire.in2p3.fr/search/%s",
+  "description": "Annuaire in2p3 - CNRS",
+  "category": "Research",
+  "sub-category": "Academic"
+}

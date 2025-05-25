@@ -1,0 +1,8 @@
+{
+  "bang": "slk",
+  "domain": "https://www.searchlock.com",
+  "url": "https://www.searchlock.com/search?q=%s",
+  "description": "SearchLock",
+  "category": "Online Services",
+  "sub-category": "Search (Private)"
+}

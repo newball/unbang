@@ -1,0 +1,8 @@
+{
+  "bang": "sailguide",
+  "domain": "https://www.sailguide.com",
+  "url": "http://www.sailguide.com/boats?boatname=%s",
+  "description": "Sailguide",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

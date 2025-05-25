@@ -1,0 +1,8 @@
+{
+  "bang": "fsm",
+  "domain": "https://futurism.com",
+  "url": "http://futurism.com/?s=%s",
+  "description": "Futurism",
+  "category": "News",
+  "sub-category": "Specialty"
+}

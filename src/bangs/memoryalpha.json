@@ -1,0 +1,8 @@
+{
+  "bang": "memoryalpha",
+  "domain": "https://en.memory-alpha.org",
+  "url": "http://en.memory-alpha.org/wiki/Special:Search?search=%s&fulltext=Search&resultsLang=en",
+  "description": "Memory Alpha",
+  "category": "Research",
+  "sub-category": "Topical"
+}

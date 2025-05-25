@@ -1,0 +1,8 @@
+{
+  "bang": "ara",
+  "domain": "https://www.ara.cat",
+  "url": "http://www.ara.cat/cercador/?text=%s",
+  "description": "Diari Ara",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

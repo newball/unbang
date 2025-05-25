@@ -1,0 +1,8 @@
+{
+  "bang": "inat",
+  "domain": "https://www.inaturalist.org",
+  "url": "https://www.inaturalist.org/search?q=%s",
+  "description": "iNaturalist",
+  "category": "Research",
+  "sub-category": "Reference"
+}

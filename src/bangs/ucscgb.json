@@ -1,0 +1,8 @@
+{
+  "bang": "ucscgb",
+  "domain": "https://www.genome.ucsc.edu",
+  "url": "http://www.genome.ucsc.edu/cgi-bin/hgTracks?hgsid=592541357_hq8TArn5c0CoLwcXM3n3eZOaR8ZC&org=Human&db=hg38&position=%s&pix=800",
+  "description": "https://www.genome.ucsc.edu",
+  "category": "Research",
+  "sub-category": "Academic"
+}

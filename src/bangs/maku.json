@@ -1,0 +1,8 @@
+{
+  "bang": "maku",
+  "domain": "https://www.maku.fi",
+  "url": "http://www.maku.fi/haku/recipe?q=%s",
+  "description": "Maku.fi",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "porthu",
+  "domain": "https://port.hu",
+  "url": "http://port.hu/kereso?q=%s",
+  "description": "PORT.hu",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

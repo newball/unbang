@@ -1,0 +1,8 @@
+{
+  "bang": "osu",
+  "domain": "https://osu.ppy.sh",
+  "url": "https://osu.ppy.sh/home/search?query=%s",
+  "description": "osu!",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

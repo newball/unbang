@@ -1,0 +1,8 @@
+{
+  "bang": "ftk",
+  "domain": "https://www.farmacotherapeutischkompas.nl",
+  "url": "https://www.farmacotherapeutischkompas.nl/snelzoeken?zoekterm=%s&domein=geneesmiddelen",
+  "description": "Farmacotherapeutisch Kompas",
+  "category": "Research",
+  "sub-category": "Health"
+}

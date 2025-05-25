@@ -1,0 +1,8 @@
+{
+  "bang": "amvid",
+  "domain": "https://www.amazon.com",
+  "url": "https://www.amazon.com/s/url=search-alias%3Dinstant-video&field-keywords=%s",
+  "description": "Amazon Instant Video",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

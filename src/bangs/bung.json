@@ -1,0 +1,8 @@
+{
+  "bang": "bung",
+  "domain": "https://www.lawyersaroundme.com",
+  "url": "http://www.lawyersaroundme.com/search/?term=%s",
+  "description": "Lawyers Around Me",
+  "category": "News",
+  "sub-category": "Business"
+}

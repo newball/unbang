@@ -1,0 +1,8 @@
+{
+  "bang": "wnyc",
+  "domain": "https://www.wnyc.org",
+  "url": "http://www.wnyc.org/search/?q=%s",
+  "description": "WNYC",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

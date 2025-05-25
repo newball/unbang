@@ -1,0 +1,8 @@
+{
+  "bang": "ypp",
+  "domain": "https://yppedia.puzzlepirates.com",
+  "url": "https://yppedia.puzzlepirates.com/Special:Search?search=%s",
+  "description": "Puzzle Pirates YPPedia",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

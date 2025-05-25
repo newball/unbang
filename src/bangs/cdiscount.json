@@ -1,0 +1,8 @@
+{
+  "bang": "cdiscount",
+  "domain": "https://www.cdiscount.com",
+  "url": "http://www.cdiscount.com/search/10/%s.html",
+  "description": "Cdiscount",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

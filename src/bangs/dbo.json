@@ -1,0 +1,8 @@
+{
+  "bang": "dbo",
+  "domain": "https://dev.bukkit.org",
+  "url": "https://dev.bukkit.org/search?search=%s",
+  "description": "BukkitDev",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

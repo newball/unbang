@@ -1,0 +1,8 @@
+{
+  "bang": "discord",
+  "domain": "https://discordapp.com",
+  "url": "https://discordapp.com/invite/%s",
+  "description": "Discord Invite",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

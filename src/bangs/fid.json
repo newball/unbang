@@ -1,0 +1,8 @@
+{
+  "bang": "fid",
+  "domain": "https://www.file.net",
+  "url": "https://www.file.net/process/%s.html",
+  "description": "File.net",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

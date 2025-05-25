@@ -1,0 +1,8 @@
+{
+  "bang": "biluppg",
+  "domain": "https://biluppgifter.se",
+  "url": "https://biluppgifter.se/fordon/%s",
+  "description": "Biluppgifter",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

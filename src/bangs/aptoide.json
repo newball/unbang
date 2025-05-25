@@ -1,0 +1,8 @@
+{
+  "bang": "aptoide",
+  "domain": "https://en.aptoide.com",
+  "url": "https://en.aptoide.com/search?query=%s",
+  "description": "Aptoide.com",
+  "category": "Tech",
+  "sub-category": "Downloads (apps)"
+}

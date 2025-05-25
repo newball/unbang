@@ -1,0 +1,8 @@
+{
+  "bang": "hottopic",
+  "domain": "https://www.hottopic.com",
+  "url": "http://www.hottopic.com/search?q=%s",
+  "description": "Hot Topic",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

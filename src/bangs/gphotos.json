@@ -1,0 +1,8 @@
+{
+  "bang": "gphotos",
+  "domain": "https://photos.google.com",
+  "url": "https://photos.google.com/search/%s",
+  "description": "Google Photos",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "marvelc",
+  "domain": "https://marvel.com",
+  "url": "http://marvel.com/search/?q=%s&category=comics",
+  "description": "Comics in marvel.com",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

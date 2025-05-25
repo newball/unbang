@@ -1,0 +1,8 @@
+{
+  "bang": "adlibrisdk",
+  "domain": "https://www.adlibris.com",
+  "url": "http://www.adlibris.com/dk/searchresult.aspx?search=quickfirstpage&quickvalue=%s",
+  "description": "AdLibris DK",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

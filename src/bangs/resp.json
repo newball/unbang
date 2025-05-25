@@ -1,0 +1,8 @@
+{
+  "bang": "resp",
+  "domain": "https://www.respaper.com",
+  "url": "http://www.respaper.com/s?q=%s",
+  "description": "Respaper",
+  "category": "Research",
+  "sub-category": "Academic"
+}

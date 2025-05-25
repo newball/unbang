@@ -1,0 +1,8 @@
+{
+  "bang": "life",
+  "domain": "https://www.lifesitenews.com",
+  "url": "https://www.lifesitenews.com/archives/search/?q=%s",
+  "description": "LifeSite",
+  "category": "News",
+  "sub-category": "Online"
+}

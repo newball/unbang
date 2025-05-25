@@ -1,0 +1,8 @@
+{
+  "bang": "tydade",
+  "domain": "https://tyda.se",
+  "url": "http://tyda.se/search/%s?lang%5B0%5D=de&lang%5B1%5D=sv",
+  "description": "Tyda.se Dictionary (Swedish-German)",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

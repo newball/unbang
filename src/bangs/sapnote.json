@@ -1,0 +1,8 @@
+{
+  "bang": "sapnote",
+  "domain": "https://launchpad.support.sap.com",
+  "url": "https://launchpad.support.sap.com/#/notes/%s/E",
+  "description": "SAP notes",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

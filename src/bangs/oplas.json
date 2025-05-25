@@ -1,0 +1,8 @@
+{
+  "bang": "oplas",
+  "domain": "https://las.op.gg",
+  "url": "http://las.op.gg/summoner/userName=%s",
+  "description": "OP.GG LAS - League of Legends Summoners statistics and MMR",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

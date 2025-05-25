@@ -1,0 +1,8 @@
+{
+  "bang": "dpr",
+  "domain": "https://www.dpreview.com",
+  "url": "http://www.dpreview.com/search/?query=%s ",
+  "description": "Digital Photgrapy Review",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

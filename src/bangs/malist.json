@@ -1,0 +1,8 @@
+{
+  "bang": "malist",
+  "domain": "https://myanimelist.net",
+  "url": "http://myanimelist.net/anime.php?q=%s",
+  "description": "MyAnimeList",
+  "category": "News",
+  "sub-category": "Specialty"
+}

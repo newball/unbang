@@ -1,0 +1,8 @@
+{
+  "bang": "livemint",
+  "domain": "https://www.livemint.com",
+  "url": "https://www.livemint.com/Search/Link/Keyword/%s",
+  "description": "Live Mint",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

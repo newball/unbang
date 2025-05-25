@@ -1,0 +1,8 @@
+{
+  "bang": "pokecommunity",
+  "domain": "https://www.pokecommunity.com",
+  "url": "https://www.pokecommunity.com/search.php?do=q%s",
+  "description": "Pokécommunity",
+  "category": "Entertainment",
+  "sub-category": "Games (Pokemon)"
+}

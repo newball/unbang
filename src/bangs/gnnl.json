@@ -1,0 +1,8 @@
+{
+  "bang": "gnnl",
+  "domain": "https://www.google.com",
+  "url": "https://www.google.com/search?hl=nl&gl=nl&tbm=nws&q=%s",
+  "description": "Google News Nederland",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

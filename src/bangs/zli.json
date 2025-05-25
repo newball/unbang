@@ -1,0 +1,8 @@
+{
+  "bang": "zli",
+  "domain": "https://www.zli.ch",
+  "url": "https://www.zli.ch/service/suche/?q=%s",
+  "description": "ZLI Zürich",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "fbm",
+  "domain": "https://www.facebook.com",
+  "url": "https://www.facebook.com/messages/search?action=search-snippet&mquery=%s",
+  "description": "Facebook Messages",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

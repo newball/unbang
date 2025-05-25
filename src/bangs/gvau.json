@@ -1,0 +1,8 @@
+{
+  "bang": "gvau",
+  "domain": "https://www.google.com.au",
+  "url": "https://www.google.com.au/search?tbm=vid&q=%s",
+  "description": "Google Videos Australia",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

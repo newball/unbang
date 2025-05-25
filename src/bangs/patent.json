@@ -1,0 +1,8 @@
+{
+  "bang": "patent",
+  "domain": "https://patents.google.com",
+  "url": "https://patents.google.com/?oq=%s",
+  "description": "Google Patents",
+  "category": "Research",
+  "sub-category": "Law"
+}

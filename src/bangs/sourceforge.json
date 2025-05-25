@@ -1,0 +1,8 @@
+{
+  "bang": "sourceforge",
+  "domain": "https://sourceforge.net",
+  "url": "http://sourceforge.net/directory/?q=%s",
+  "description": "SourceForge",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

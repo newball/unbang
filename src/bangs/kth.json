@@ -1,0 +1,8 @@
+{
+  "bang": "kth",
+  "domain": "https://www.kth.se",
+  "url": "https://www.kth.se/search/search?q=%s",
+  "description": "KTH",
+  "category": "Research",
+  "sub-category": "Academic"
+}

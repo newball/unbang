@@ -1,0 +1,8 @@
+{
+  "bang": "overstock",
+  "domain": "https://www.overstock.com",
+  "url": "http://www.overstock.com/search?keywords=%s",
+  "description": "Overstock",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

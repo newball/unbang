@@ -1,0 +1,8 @@
+{
+  "bang": "dz",
+  "domain": "https://www.deezer.com",
+  "url": "https://www.deezer.com/search/%s",
+  "description": "Deezer",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

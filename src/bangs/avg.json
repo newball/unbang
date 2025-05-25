@@ -1,0 +1,8 @@
+{
+  "bang": "avg",
+  "domain": "https://search.avg.com",
+  "url": "http://search.avg.com/search?q=%s",
+  "description": "AVG Secure Search",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

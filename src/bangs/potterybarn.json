@@ -1,0 +1,8 @@
+{
+  "bang": "potterybarn",
+  "domain": "https://www.potterybarn.com",
+  "url": "http://www.potterybarn.com/search/results.html?words=%s",
+  "description": "Pottery Barn",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "debate",
+  "domain": "https://www.debate.org",
+  "url": "http://www.debate.org/search?q=%s",
+  "description": "debate.org",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

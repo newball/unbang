@@ -1,0 +1,8 @@
+{
+  "bang": "a6",
+  "domain": "https://v6.angular.io",
+  "url": "https://v6.angular.io/api?query=%s",
+  "description": "Angular.io v6",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "lafourchette",
+  "domain": "https://www.lafourchette.com",
+  "url": "https://www.lafourchette.com/search-refine/%s",
+  "description": "lafourchette",
+  "category": "Research",
+  "sub-category": "Food"
+}

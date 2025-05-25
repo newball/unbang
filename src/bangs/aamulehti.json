@@ -1,0 +1,8 @@
+{
+  "bang": "aamulehti",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?sites=www.aamulehti.fi&kh=1&q=%s&ia=web",
+  "description": "Aamulehti",
+  "category": "News",
+  "sub-category": "Magazine"
+}

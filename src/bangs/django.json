@@ -1,0 +1,8 @@
+{
+  "bang": "django",
+  "domain": "https://docs.djangoproject.com",
+  "url": "http://docs.djangoproject.com/search/?q=%s",
+  "description": "Django Docs",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

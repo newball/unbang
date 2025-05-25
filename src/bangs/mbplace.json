@@ -1,0 +1,8 @@
+{
+  "bang": "mbplace",
+  "domain": "https://musicbrainz.org",
+  "url": "https://musicbrainz.org/search?query=%s&type=place",
+  "description": "MusicBrainz Places",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

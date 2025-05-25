@@ -1,0 +1,8 @@
+{
+  "bang": "e2c",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#en/cs/%s",
+  "description": "Google Translate (English to Czech)",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

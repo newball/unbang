@@ -1,0 +1,8 @@
+{
+  "bang": "hude",
+  "domain": "https://translate.google.com",
+  "url": "http://translate.google.com/#hu/de/%s",
+  "description": "Google Translate hu-de",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

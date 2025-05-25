@@ -1,0 +1,8 @@
+{
+  "bang": "drupalcode",
+  "domain": "https://cgit.drupalcode.org",
+  "url": "https://cgit.drupalcode.org/%s",
+  "description": "drupalcode.org",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gid",
+  "domain": "https://www.google.co.id",
+  "url": "http://www.google.co.id/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google ID",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

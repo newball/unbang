@@ -1,0 +1,8 @@
+{
+  "bang": "grimd",
+  "domain": "https://grimdawn.wikia.com",
+  "url": "http://grimdawn.wikia.com/wiki/Special:Search?search=%s&fulltext=Search",
+  "description": "Grimdawn Wikia",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

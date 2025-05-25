@@ -1,0 +1,8 @@
+{
+  "bang": "sigfox",
+  "domain": "https://partners.sigfox.com",
+  "url": "https://partners.sigfox.com/search/products?q=%s",
+  "description": "Sigfox Partner Network",
+  "category": "Research",
+  "sub-category": "Topical"
+}

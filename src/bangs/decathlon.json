@@ -1,0 +1,8 @@
+{
+  "bang": "decathlon",
+  "domain": "https://www.decathlon.co.uk",
+  "url": "http://www.decathlon.co.uk/Buy/%s",
+  "description": "Decathlon",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

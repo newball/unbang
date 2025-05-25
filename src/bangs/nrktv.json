@@ -1,0 +1,8 @@
+{
+  "bang": "nrktv",
+  "domain": "https://tv.nrk.no",
+  "url": "http://tv.nrk.no/sok?q=%s",
+  "description": "NRK TV",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "coles",
+  "domain": "https://shop.coles.com.au",
+  "url": "https://shop.coles.com.au/a/a-national/everything/search/%s?pageNumber=1",
+  "description": "Coles",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

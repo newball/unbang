@@ -1,0 +1,8 @@
+{
+  "bang": "howthingswork",
+  "domain": "https://howthingswork.virginia.edu",
+  "url": "http://howthingswork.virginia.edu/search.php?searchs=%s&Go.x=0&Go.y=0&searchq=yes&searcha=yes",
+  "description": "How Things Work",
+  "category": "Research",
+  "sub-category": "Learning"
+}

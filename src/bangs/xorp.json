@@ -1,0 +1,8 @@
+{
+  "bang": "xorp",
+  "domain": "https://blog.xorp.hu",
+  "url": "https://blog.xorp.hu/?s=%s",
+  "description": "Xorp Blog",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

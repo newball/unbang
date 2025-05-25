@@ -1,0 +1,8 @@
+{
+  "bang": "funi",
+  "domain": "https://www.funimation.com",
+  "url": "https://www.funimation.com/search/?q=%s",
+  "description": "Funimation",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

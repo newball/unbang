@@ -1,0 +1,8 @@
+{
+  "bang": "dbmusic",
+  "domain": "https://music.douban.com",
+  "url": "https://music.douban.com/subject_search?search_text=%s&cat=1003",
+  "description": "Douban Music",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

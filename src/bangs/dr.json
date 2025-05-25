@@ -1,0 +1,8 @@
+{
+  "bang": "dr",
+  "domain": "https://dribbble.com",
+  "url": "http://dribbble.com/search?q=%s",
+  "description": "Dribbble",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

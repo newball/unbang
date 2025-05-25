@@ -1,0 +1,8 @@
+{
+  "bang": "fallout",
+  "domain": "https://fallout.wikia.com",
+  "url": "http://fallout.wikia.com/wiki/Special:Search?search=%s&fulltext=Search",
+  "description": "Fallout Wikia",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

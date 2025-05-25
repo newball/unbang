@@ -1,0 +1,8 @@
+{
+  "bang": "tiketti",
+  "domain": "https://www.tiketti.fi",
+  "url": "http://www.tiketti.fi/tapahtumat#q=%s",
+  "description": "Tiketti",
+  "category": "Entertainment",
+  "sub-category": "Events"
+}

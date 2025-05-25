@@ -1,0 +1,8 @@
+{
+  "bang": "climatecounts",
+  "domain": "https://climatecounts.org",
+  "url": "http://climatecounts.org/searchresults.php?p=term&term=%s",
+  "description": "Climate Counts",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

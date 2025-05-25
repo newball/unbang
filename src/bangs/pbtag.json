@@ -1,0 +1,8 @@
+{
+  "bang": "pbtag",
+  "domain": "https://pinboard.in",
+  "url": "https://pinboard.in/t:%s ",
+  "description": "Pinboard.in (Tag)",
+  "category": "Online Services",
+  "sub-category": "Social news/links"
+}

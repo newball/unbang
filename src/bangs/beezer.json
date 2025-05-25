@@ -1,0 +1,8 @@
+{
+  "bang": "beezer",
+  "domain": "https://www.beezer.com.au",
+  "url": "http://www.beezer.com.au/search?type=product&q=%s",
+  "description": "Beezer",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ledict",
+  "domain": "https://www.le-dictionnaire.com",
+  "url": "http://www.le-dictionnaire.com/resultats.php?mot=%s",
+  "description": "Le Dictionnaire",
+  "category": "Research",
+  "sub-category": "Reference"
+}

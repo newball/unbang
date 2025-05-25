@@ -1,0 +1,8 @@
+{
+  "bang": "animeplanet",
+  "domain": "https://www.anime-planet.com",
+  "url": "http://www.anime-planet.com/anime/all?name=%s",
+  "description": "Anime-Planet",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

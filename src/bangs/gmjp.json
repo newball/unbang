@@ -1,0 +1,8 @@
+{
+  "bang": "gmjp",
+  "domain": "https://www.google.co.jp",
+  "url": "https://www.google.co.jp/maps/place/%s",
+  "description": "Google Maps JP",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

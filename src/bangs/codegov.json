@@ -1,0 +1,8 @@
+{
+  "bang": "codegov",
+  "domain": "https://code.gov",
+  "url": "https://code.gov/search?query=%s",
+  "description": "Code.gov",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

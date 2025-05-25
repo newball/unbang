@@ -1,0 +1,8 @@
+{
+  "bang": "discme",
+  "domain": "https://discord.me",
+  "url": "https://discord.me/servers/1/%s",
+  "description": "Discord Me",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

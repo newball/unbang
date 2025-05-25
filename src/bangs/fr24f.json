@@ -1,0 +1,8 @@
+{
+  "bang": "fr24f",
+  "domain": "https://www.flightradar24.com",
+  "url": "https://www.flightradar24.com/data/flights/%s",
+  "description": "Flightradar24 Flight Data",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

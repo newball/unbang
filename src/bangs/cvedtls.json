@@ -1,0 +1,8 @@
+{
+  "bang": "cvedtls",
+  "domain": "https://www.cvedetails.com",
+  "url": "https://www.cvedetails.com/google-search-results.php?q=%s&sa=Search",
+  "description": "CVE Details",
+  "category": "Tech",
+  "sub-category": "Sysadmin (network)"
+}

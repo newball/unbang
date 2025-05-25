@@ -1,0 +1,8 @@
+{
+  "bang": "musipedia",
+  "domain": "https://www.musipedia.org",
+  "url": "http://www.musipedia.org/result.html?tx_mpsearch_pi1[pc]=%s&tx_mpsearch_pi1[submit_button]=Search",
+  "description": "Musipedia",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

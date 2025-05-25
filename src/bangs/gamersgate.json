@@ -1,0 +1,8 @@
+{
+  "bang": "gamersgate",
+  "domain": "https://gamersgate.com",
+  "url": "http://gamersgate.com/games?q=%s",
+  "description": "GamersGate",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

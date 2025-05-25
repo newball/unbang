@@ -1,0 +1,8 @@
+{
+  "bang": "ojad",
+  "domain": "https://www.gavo.t.u-tokyo.ac.jp",
+  "url": "http://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%s",
+  "description": "OJAD - Online Japanese Accent Dictionary",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

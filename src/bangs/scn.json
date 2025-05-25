@@ -1,0 +1,8 @@
+{
+  "bang": "scn",
+  "domain": "https://search.sap.com",
+  "url": "http://search.sap.com/ui/scn#query=%s",
+  "description": "SAP Community Network",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

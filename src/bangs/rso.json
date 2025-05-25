@@ -1,0 +1,8 @@
+{
+  "bang": "rso",
+  "domain": "https://stackoverflow.com",
+  "url": "http://stackoverflow.com/search?q=[r]+%s",
+  "description": "R questions on Stack Overflow",
+  "category": "Tech",
+  "sub-category": "Languages (r)"
+}

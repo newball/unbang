@@ -1,0 +1,8 @@
+{
+  "bang": "ptcg",
+  "domain": "https://pkmncards.com",
+  "url": "http://pkmncards.com/?s=%s&display=card&sort=date",
+  "description": "PkmnCards",
+  "category": "Entertainment",
+  "sub-category": "Games (Pokemon)"
+}

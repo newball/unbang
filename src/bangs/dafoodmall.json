@@ -1,0 +1,8 @@
+{
+  "bang": "dafoodmall",
+  "domain": "https://www.dafoodmall.com",
+  "url": "http://www.dafoodmall.com/goods/search.asp?sword=%s",
+  "description": "dafoodmall",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

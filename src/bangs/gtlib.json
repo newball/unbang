@@ -1,0 +1,8 @@
+{
+  "bang": "gtlib",
+  "domain": "https://gatech-primo.hosted.exlibrisgroup.com",
+  "url": "https://gatech-primo.hosted.exlibrisgroup.com/primo-explore/search?vid=01GALI_GIT&search_scope=Everything&query=any,contains,%s",
+  "description": "Georgia Tech Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

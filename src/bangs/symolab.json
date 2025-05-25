@@ -1,0 +1,8 @@
+{
+  "bang": "symolab",
+  "domain": "https://www.symbolab.com",
+  "url": "http://www.symbolab.com/solver/step-by-step/%s",
+  "description": "Symbolab",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

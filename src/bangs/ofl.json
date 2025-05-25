@@ -1,0 +1,8 @@
+{
+  "bang": "ofl",
+  "domain": "https://openfontlibrary.org",
+  "url": "http://openfontlibrary.org/en/search?query=%s",
+  "description": "Open Font Library",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

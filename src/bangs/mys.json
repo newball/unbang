@@ -1,0 +1,8 @@
+{
+  "bang": "mys",
+  "domain": "https://www.mysupermarket.co.uk",
+  "url": "http://www.mysupermarket.co.uk/Shopping/FindProducts.aspx?Query=%s",
+  "description": "mysupermarket.co.uk",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

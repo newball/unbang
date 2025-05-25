@@ -1,0 +1,8 @@
+{
+  "bang": "rollingstone",
+  "domain": "https://www.rollingstone.com",
+  "url": "http://www.rollingstone.com/search?q=%s",
+  "description": "Rolling Stone",
+  "category": "News",
+  "sub-category": "Magazine"
+}

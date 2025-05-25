@@ -1,0 +1,8 @@
+{
+  "bang": "thm",
+  "domain": "https://www.thomann.de",
+  "url": "http://www.thomann.de/de/search_dir.html?sw=%s",
+  "description": "thomann.de",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

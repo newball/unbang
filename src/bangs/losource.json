@@ -1,0 +1,8 @@
+{
+  "bang": "losource",
+  "domain": "https://opengrok.libreoffice.org",
+  "url": "http://opengrok.libreoffice.org/search?q=%s&project=core",
+  "description": "LibreOffice Source Code",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

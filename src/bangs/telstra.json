@@ -1,0 +1,8 @@
+{
+  "bang": "telstra",
+  "domain": "https://www.telstra.com.au",
+  "url": "https://www.telstra.com.au/search/simple-search?inpSearch=%s&requestSiteId=personal&searchFormSubmited=Yes",
+  "description": "Telstra",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

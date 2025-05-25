@@ -1,0 +1,8 @@
+{
+  "bang": "monstercoupons",
+  "domain": "https://monster-coupons.com",
+  "url": "https://monster-coupons.com/search.php?q=%s",
+  "description": "Monster-Coupons",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

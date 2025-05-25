@@ -1,0 +1,8 @@
+{
+  "bang": "thislife",
+  "domain": "https://www.thisamericanlife.org",
+  "url": "https://www.thisamericanlife.org/archive?keyword=%s",
+  "description": "This American Life",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

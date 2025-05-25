@@ -1,0 +1,8 @@
+{
+  "bang": "myactivity",
+  "domain": "https://myactivity.google.com",
+  "url": "https://myactivity.google.com/myactivity?q=%s",
+  "description": "https://myactivity.google.com/myactivity",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

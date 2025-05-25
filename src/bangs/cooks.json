@@ -1,0 +1,8 @@
+{
+  "bang": "cooks",
+  "domain": "https://www.cooks.com",
+  "url": "http://www.cooks.com/rec/search?q=%s",
+  "description": "Cooks.com",
+  "category": "Research",
+  "sub-category": "Food"
+}

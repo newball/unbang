@@ -1,0 +1,8 @@
+{
+  "bang": "fgow",
+  "domain": "https://fategrandorder.wikia.com",
+  "url": "http://fategrandorder.wikia.com/wiki/Special:Search?query=%s",
+  "description": "Fate/Grand Order Wikia",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

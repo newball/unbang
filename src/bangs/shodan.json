@@ -1,0 +1,8 @@
+{
+  "bang": "shodan",
+  "domain": "https://www.shodan.io",
+  "url": "https://www.shodan.io/search?query=%s",
+  "description": "shodan",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "anarchistlib",
+  "domain": "https://theanarchistlibrary.org",
+  "url": "http://theanarchistlibrary.org/search?query=%s",
+  "description": "The Anarchist Library",
+  "category": "Research",
+  "sub-category": "Government"
+}

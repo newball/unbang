@@ -1,0 +1,8 @@
+{
+  "bang": "invidio",
+  "domain": "https://invidio.us",
+  "url": "https://invidio.us/search?q=%s",
+  "description": "invidious",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

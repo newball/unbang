@@ -1,0 +1,8 @@
+{
+  "bang": "british",
+  "domain": "https://www.britishslang.co.uk",
+  "url": "http://www.britishslang.co.uk/search/default.aspx?q=%s",
+  "description": "British Slang",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

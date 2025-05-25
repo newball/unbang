@@ -1,0 +1,8 @@
+{
+  "bang": "ocal",
+  "domain": "https://www.openclipart.org",
+  "url": "http://www.openclipart.org/search/?query=%s",
+  "description": "Open Clip Art Library",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

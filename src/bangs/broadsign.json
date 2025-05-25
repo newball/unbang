@@ -1,0 +1,8 @@
+{
+  "bang": "broadsign",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Abroadsign.com+%s",
+  "description": "BroadSign",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

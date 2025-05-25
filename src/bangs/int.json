@@ -1,0 +1,8 @@
+{
+  "bang": "int",
+  "domain": "https://www.internazionale.it",
+  "url": "http://www.internazionale.it/search/?q=%s",
+  "description": "Internazionale",
+  "category": "News",
+  "sub-category": "International"
+}

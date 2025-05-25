@@ -1,0 +1,8 @@
+{
+  "bang": "lide",
+  "domain": "https://www.linguee.de",
+  "url": "http://www.linguee.de/deutsch-englisch/search?source=auto&query=%s",
+  "description": "Linguee (Deutsch/Englisch)",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

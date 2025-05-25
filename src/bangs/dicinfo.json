@@ -1,0 +1,8 @@
+{
+  "bang": "dicinfo",
+  "domain": "https://www.dicionarioinformal.com.br",
+  "url": "https://www.dicionarioinformal.com.br/%s/",
+  "description": "Dicionário Informal",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "blogudir",
+  "domain": "https://www.blogudir.com",
+  "url": "https://www.blogudir.com/search?q=%s",
+  "description": "Blogudir",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "smre",
+  "domain": "https://www.swissmilk.ch",
+  "url": "https://www.swissmilk.ch/de/alle-rezepte/suche/?qt=%s&cat=Rezept+Suche&qd=1",
+  "description": "swissmilk - Rezepte",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

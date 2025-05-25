@@ -1,0 +1,8 @@
+{
+  "bang": "mscdirect",
+  "domain": "https://www.mscdirect.com",
+  "url": "https://www.mscdirect.com/browse/?searchterm=%s",
+  "description": "MSC Direct",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

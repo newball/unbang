@@ -1,0 +1,8 @@
+{
+  "bang": "smarty",
+  "domain": "https://www.smarty.net",
+  "url": "http://www.smarty.net/search?q=%s&show=manual-en&x=0&y=0",
+  "description": "Smarty",
+  "category": "Tech",
+  "sub-category": "Languages (php)"
+}

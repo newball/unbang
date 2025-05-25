@@ -1,0 +1,8 @@
+{
+  "bang": "cnbc",
+  "domain": "https://search.cnbc.com",
+  "url": "http://search.cnbc.com/main.do?target=all&keywords=%s",
+  "description": "CNBC",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

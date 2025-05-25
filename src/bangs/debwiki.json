@@ -1,0 +1,8 @@
+{
+  "bang": "debwiki",
+  "domain": "https://wiki.debian.org",
+  "url": "http://wiki.debian.org/FrontPage?action=fullsearch&context=180&value=%s&titlesearch=Titles",
+  "description": "debian.org",
+  "category": "Tech",
+  "sub-category": "Sysadmin (debian)"
+}

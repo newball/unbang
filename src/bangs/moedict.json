@@ -1,0 +1,8 @@
+{
+  "bang": "moedict",
+  "domain": "https://www.moedict.tw",
+  "url": "https://www.moedict.tw/%s",
+  "description": "Moedict",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

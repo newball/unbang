@@ -1,0 +1,8 @@
+{
+  "bang": "myshows",
+  "domain": "https://myshows.me",
+  "url": "http://myshows.me/search/?q=%s",
+  "description": "myshows.ru",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

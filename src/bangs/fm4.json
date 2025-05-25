@@ -1,0 +1,8 @@
+{
+  "bang": "fm4",
+  "domain": "https://fm4.orf.at",
+  "url": "http://fm4.orf.at/search?q=%s&sort=date_desc&submit.x=0&submit.y=0",
+  "description": "http://fm4.orf.at/",
+  "category": "Entertainment",
+  "sub-category": "Radio"
+}

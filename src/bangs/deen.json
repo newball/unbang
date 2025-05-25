@@ -1,0 +1,8 @@
+{
+  "bang": "deen",
+  "domain": "https://www.dict.cc",
+  "url": "http://www.dict.cc/?s=%s",
+  "description": "dict.cc free dictionary (de<>en)",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

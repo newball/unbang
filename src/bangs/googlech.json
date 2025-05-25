@@ -1,0 +1,8 @@
+{
+  "bang": "googlech",
+  "domain": "https://www.google.ch",
+  "url": "https://www.google.ch/search?q=%s",
+  "description": "Google Suisse/Schweiz/Switzerland",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

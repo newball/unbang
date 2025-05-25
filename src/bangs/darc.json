@@ -1,0 +1,8 @@
+{
+  "bang": "darc",
+  "domain": "https://www.d-archive.org",
+  "url": "https://www.d-archive.org/?s=%s",
+  "description": "https://www.d-archive.org/",
+  "category": "News",
+  "sub-category": "International"
+}

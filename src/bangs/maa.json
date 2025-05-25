@@ -1,0 +1,8 @@
+{
+  "bang": "maa",
+  "domain": "https://www.maa.org",
+  "url": "http://www.maa.org/search/node?keys=%s",
+  "description": "Mathematical Association of America",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wikidevi",
+  "domain": "https://wikidevi.com",
+  "url": "https://wikidevi.com/w/index.php?search=%s&title=Special%3ASearch&go=Go",
+  "description": "WikiDevi",
+  "category": "Tech",
+  "sub-category": "Design"
+}

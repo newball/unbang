@@ -1,0 +1,8 @@
+{
+  "bang": "findchips",
+  "domain": "https://www.findchips.com",
+  "url": "http://www.findchips.com/avail?part=%s",
+  "description": "FindChips",
+  "category": "Tech",
+  "sub-category": "Design"
+}

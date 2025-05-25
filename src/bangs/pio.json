@@ -1,0 +1,8 @@
+{
+  "bang": "pio",
+  "domain": "https://platformio.org",
+  "url": "http://platformio.org/lib/search?query=%s",
+  "description": "PlatformIO Libraries",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

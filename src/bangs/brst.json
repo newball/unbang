@@ -1,0 +1,8 @@
+{
+  "bang": "brst",
+  "domain": "https://brawlstars.fandom.com",
+  "url": "https://brawlstars.fandom.com/wiki/Special:Search?query=%s",
+  "description": "Brawl Stars Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

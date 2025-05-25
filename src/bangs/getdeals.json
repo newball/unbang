@@ -1,0 +1,8 @@
+{
+  "bang": "getdeals",
+  "domain": "https://getdeals.co.in",
+  "url": "https://getdeals.co.in/search?q=%s",
+  "description": "GetDeals",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

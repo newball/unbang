@@ -1,0 +1,8 @@
+{
+  "bang": "murl",
+  "domain": "https://murlengine.com",
+  "url": "https://murlengine.com/api/en/search.php?q=%s",
+  "description": "murlengine",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "dboats",
+  "domain": "https://discord.boats",
+  "url": "https://discord.boats/bots?search=%s",
+  "description": "Discord Boats",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

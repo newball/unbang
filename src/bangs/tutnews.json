@@ -1,0 +1,8 @@
+{
+  "bang": "tutnews",
+  "domain": "https://news.tut.by",
+  "url": "http://news.tut.by/search/?str=%s",
+  "description": "Новости TUT.BY / TUT.BY news",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

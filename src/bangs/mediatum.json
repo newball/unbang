@@ -1,0 +1,8 @@
+{
+  "bang": "mediatum",
+  "domain": "https://mediatum.ub.tum.de",
+  "url": "https://mediatum.ub.tum.de/?query=%s",
+  "description": "mediaTUM",
+  "category": "Research",
+  "sub-category": "Academic"
+}

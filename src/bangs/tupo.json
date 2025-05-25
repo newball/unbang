@@ -1,0 +1,8 @@
+{
+  "bang": "tupo",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s+site%3Awww.tutorialspoint.com&ia=web",
+  "description": "Tutorials Point",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

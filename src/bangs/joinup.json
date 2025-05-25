@@ -1,0 +1,8 @@
+{
+  "bang": "joinup",
+  "domain": "https://joinup.ec.europa.eu",
+  "url": "https://joinup.ec.europa.eu/search?keys=%s",
+  "description": "Joinup",
+  "category": "Research",
+  "sub-category": "Government"
+}

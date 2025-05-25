@@ -1,0 +1,8 @@
+{
+  "bang": "icpl",
+  "domain": "https://catpro.icpl.org",
+  "url": "https://catpro.icpl.org/iii/encore/search?lang=eng&target=%s",
+  "description": "Iowa City Public Library",
+  "category": "Research",
+  "sub-category": "Local"
+}

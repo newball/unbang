@@ -1,0 +1,8 @@
+{
+  "bang": "liquipedia",
+  "domain": "https://wiki.teamliquid.net",
+  "url": "http://wiki.teamliquid.net/starcraft2/index.php?title=Special%3ASearch&go=Go&search=%s",
+  "description": "Liquipedia2",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

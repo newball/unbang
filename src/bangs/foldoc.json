@@ -1,0 +1,8 @@
+{
+  "bang": "foldoc",
+  "domain": "https://foldoc.org",
+  "url": "http://foldoc.org/%s",
+  "description": "FOLDOC (Free On-line Dictionary of Computing)",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

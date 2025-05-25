@@ -1,0 +1,8 @@
+{
+  "bang": "dkord",
+  "domain": "https://ordnet.dk",
+  "url": "http://ordnet.dk/ddo/ordbog?query=%s",
+  "description": "Den Danske Ordbog",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "alim",
+  "domain": "https://m.aliexpress.com",
+  "url": "https://m.aliexpress.com/search.htm?keywords=%s",
+  "description": "AliExpress Mobile",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

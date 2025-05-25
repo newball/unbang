@@ -1,0 +1,8 @@
+{
+  "bang": "oi",
+  "domain": "https://oxfordindex.oup.com",
+  "url": "http://oxfordindex.oup.com/search?q=%s",
+  "description": "Oxford Index",
+  "category": "Research",
+  "sub-category": "Reference"
+}

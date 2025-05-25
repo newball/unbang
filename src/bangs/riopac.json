@@ -1,0 +1,8 @@
+{
+  "bang": "riopac",
+  "domain": "https://opac.regesta-imperii.de",
+  "url": "http://opac.regesta-imperii.de/lang_en/suche.php?qs=%s",
+  "description": "Regesta Imperii OPAC",
+  "category": "Research",
+  "sub-category": "Academic"
+}

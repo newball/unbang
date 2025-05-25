@@ -1,0 +1,8 @@
+{
+  "bang": "wpthemes",
+  "domain": "https://wordpress.org",
+  "url": "http://wordpress.org/extend/themes/search.php?q=%s",
+  "description": "WordPress.org Themes",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

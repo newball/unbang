@@ -1,0 +1,8 @@
+{
+  "bang": "whi",
+  "domain": "https://hi.wikipedia.org",
+  "url": "http://hi.wikipedia.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikipedia (HI)",
+  "category": "Research",
+  "sub-category": "Learning"
+}

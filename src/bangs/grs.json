@@ -1,0 +1,8 @@
+{
+  "bang": "grs",
+  "domain": "https://www.google.rs",
+  "url": "https://www.google.rs/search?q=%s",
+  "description": "Google RS",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

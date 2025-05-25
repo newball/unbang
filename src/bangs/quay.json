@@ -1,0 +1,8 @@
+{
+  "bang": "quay",
+  "domain": "https://quay.io",
+  "url": "https://quay.io/search?q=%s",
+  "description": "Quay",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

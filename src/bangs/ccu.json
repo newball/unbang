@@ -1,0 +1,8 @@
+{
+  "bang": "ccu",
+  "domain": "https://coincheckup.com",
+  "url": "https://coincheckup.com/coins/%s",
+  "description": "CoinCheckup",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

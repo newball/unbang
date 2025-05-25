@@ -1,0 +1,8 @@
+{
+  "bang": "dle",
+  "domain": "https://dle.rae.es",
+  "url": "http://dle.rae.es/?w=%s",
+  "description": "Diccionario de la lengua española, 23.ª Edición, RAE",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

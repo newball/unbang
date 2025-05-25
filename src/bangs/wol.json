@@ -1,0 +1,8 @@
+{
+  "bang": "wol",
+  "domain": "https://wol.jw.org",
+  "url": "http://wol.jw.org/wol/finder?q=%s",
+  "description": "Watchtower Online Library",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

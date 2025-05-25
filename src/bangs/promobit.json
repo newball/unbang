@@ -1,0 +1,8 @@
+{
+  "bang": "promobit",
+  "domain": "https://www.promobit.com.br",
+  "url": "https://www.promobit.com.br/buscar?q=%s",
+  "description": "Promobit",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

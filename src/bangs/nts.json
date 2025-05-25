@@ -1,0 +1,8 @@
+{
+  "bang": "nts",
+  "domain": "https://www.nts.live",
+  "url": "https://www.nts.live/find?q=%s&type=all",
+  "description": "NTS",
+  "category": "Entertainment",
+  "sub-category": "Radio"
+}

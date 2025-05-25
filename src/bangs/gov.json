@@ -1,0 +1,8 @@
+{
+  "bang": "gov",
+  "domain": "https://search.usa.gov",
+  "url": "https://search.usa.gov/search?affiliate=usagov&query=%s",
+  "description": "US Government Search",
+  "category": "Research",
+  "sub-category": "Government"
+}

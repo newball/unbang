@@ -1,0 +1,8 @@
+{
+  "bang": "fairtragen",
+  "domain": "https://www.fairtragen.de",
+  "url": "https://www.fairtragen.de/advanced_search_result.php?keywords=%s",
+  "description": "fairtragen",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

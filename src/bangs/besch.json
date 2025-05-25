@@ -1,0 +1,8 @@
+{
+  "bang": "besch",
+  "domain": "https://conjugueur.bescherelle.com",
+  "url": "http://conjugueur.bescherelle.com/ConjugueurWeb/index.jsf?term=%s",
+  "description": "Bescherelle",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

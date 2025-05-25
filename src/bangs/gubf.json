@@ -1,0 +1,8 @@
+{
+  "bang": "gubf",
+  "domain": "https://hds.hebis.de",
+  "url": "https://hds.hebis.de/ubffm/Search/Results?lookfor=%s&type=allfields&submit=Suchen",
+  "description": "Goethe Uni Bib FRA",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

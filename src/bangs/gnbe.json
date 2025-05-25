@@ -1,0 +1,8 @@
+{
+  "bang": "gnbe",
+  "domain": "https://news.google.com",
+  "url": "https://news.google.com/news/search/section/q/%s/?gl=BE&ned=nl_be&hl=nl",
+  "description": "Google news België",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

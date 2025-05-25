@@ -1,0 +1,8 @@
+{
+  "bang": "gundam",
+  "domain": "https://gundam.wikia.com",
+  "url": "http://gundam.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Gundam Wikia",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

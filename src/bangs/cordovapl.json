@@ -1,0 +1,8 @@
+{
+  "bang": "cordovapl",
+  "domain": "https://plugins.cordova.io",
+  "url": "http://plugins.cordova.io/#/search?search=%s",
+  "description": "Apache Cordova Plugins Registry",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

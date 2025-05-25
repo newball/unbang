@@ -1,0 +1,8 @@
+{
+  "bang": "fn",
+  "domain": "https://www.foodnetwork.com",
+  "url": "https://www.foodnetwork.com/search/%s-",
+  "description": "foodnetwork.com",
+  "category": "Research",
+  "sub-category": "Food"
+}

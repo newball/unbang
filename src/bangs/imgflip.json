@@ -1,0 +1,8 @@
+{
+  "bang": "imgflip",
+  "domain": "https://imgflip.com",
+  "url": "https://imgflip.com/search?q=%s",
+  "description": "Imgflip",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

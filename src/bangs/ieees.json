@@ -1,0 +1,8 @@
+{
+  "bang": "ieees",
+  "domain": "https://spectrum.ieee.org",
+  "url": "http://spectrum.ieee.org/searchContent?q=%s",
+  "description": "IEEE spectrum",
+  "category": "News",
+  "sub-category": "Magazine"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "lovdata",
+  "domain": "https://lovdata.no",
+  "url": "http://lovdata.no/sok?q=%s",
+  "description": "Lovdata",
+  "category": "Research",
+  "sub-category": "Law"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "world",
+  "domain": "https://world.wng.org",
+  "url": "https://world.wng.org/search/site/%s}",
+  "description": "WORLD Magazine",
+  "category": "News",
+  "sub-category": "Magazine"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "leboncoin",
+  "domain": "https://www.leboncoin.fr",
+  "url": "https://www.leboncoin.fr/recherche/?text=%s",
+  "description": "Le Bon Coin",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "then",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#th/en/%s",
+  "description": "Google Translate (TH-EN)",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

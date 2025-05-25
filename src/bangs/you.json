@@ -1,0 +1,8 @@
+{
+  "bang": "you",
+  "domain": "https://www.youtube.com",
+  "url": "https://www.youtube.com/results?search_query=%s",
+  "description": "YouTube",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

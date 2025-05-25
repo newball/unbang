@@ -1,0 +1,8 @@
+{
+  "bang": "bisbn",
+  "domain": "https://bookprice.co",
+  "url": "http://bookprice.co/isbn/%s",
+  "description": "BookPrice",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

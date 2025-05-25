@@ -1,0 +1,8 @@
+{
+  "bang": "dir",
+  "domain": "https://www.google.de",
+  "url": "https://www.google.de/maps/dir/%s",
+  "description": "Google.de Maps",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "paloalto",
+  "domain": "https://www.paloaltonetworks.com",
+  "url": "https://www.paloaltonetworks.com/documentation/document-search.html?q=%s",
+  "description": "Palo Alto Networks Documentation",
+  "category": "Tech",
+  "sub-category": "Sysadmin (network)"
+}

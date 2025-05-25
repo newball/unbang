@@ -1,0 +1,8 @@
+{
+  "bang": "falloutlore",
+  "domain": "https://fallout.gamepedia.com",
+  "url": "https://fallout.gamepedia.com/index.php?search=%s",
+  "description": "The Vault Fallout Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

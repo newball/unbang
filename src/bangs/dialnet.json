@@ -1,0 +1,8 @@
+{
+  "bang": "dialnet",
+  "domain": "https://dialnet.unirioja.es",
+  "url": "http://dialnet.unirioja.es/buscar/documentos?querysDismax.DOCUMENTAL_TODO=%s",
+  "description": "Dialnet",
+  "category": "Research",
+  "sub-category": "Academic"
+}

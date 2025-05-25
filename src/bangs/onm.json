@@ -1,0 +1,8 @@
+{
+  "bang": "onm",
+  "domain": "https://www.nexusmods.com",
+  "url": "https://www.nexusmods.com/oblivion/search/?gsearch=%s&gsearchtype=mods",
+  "description": "Oblivion NexusMods",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

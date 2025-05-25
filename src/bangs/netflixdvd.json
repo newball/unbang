@@ -1,0 +1,8 @@
+{
+  "bang": "netflixdvd",
+  "domain": "https://dvd.netflix.com",
+  "url": "https://dvd.netflix.com/Search?v1=%s",
+  "description": "Netflix DVD",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

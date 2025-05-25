@@ -1,0 +1,8 @@
+{
+  "bang": "xivdb",
+  "domain": "https://xivdb.com",
+  "url": "http://xivdb.com/?search=%s",
+  "description": "XIVDB",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

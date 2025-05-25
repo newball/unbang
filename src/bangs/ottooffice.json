@@ -1,0 +1,8 @@
+{
+  "bang": "ottooffice",
+  "domain": "https://www.otto-office.com",
+  "url": "http://www.otto-office.com/de/search/si.obtshop?query[query]=%s",
+  "description": "http://www.otto-office.com/",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

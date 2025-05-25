@@ -1,0 +1,8 @@
+{
+  "bang": "lio",
+  "domain": "https://libraries.io",
+  "url": "https://libraries.io/search?q=%s",
+  "description": "https://libraries.io",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

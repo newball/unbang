@@ -1,0 +1,8 @@
+{
+  "bang": "moviechat",
+  "domain": "https://moviechat.org",
+  "url": "https://moviechat.org/search?name=%s",
+  "description": "MovieChat",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

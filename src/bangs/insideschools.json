@@ -1,0 +1,8 @@
+{
+  "bang": "insideschools",
+  "domain": "https://insideschools.org",
+  "url": "http://insideschools.org/search?q=%s ",
+  "description": "Insideschools",
+  "category": "Research",
+  "sub-category": "Local"
+}

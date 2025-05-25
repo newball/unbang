@@ -1,0 +1,8 @@
+{
+  "bang": "nbooks",
+  "domain": "https://www.notebooksbilliger.de",
+  "url": "http://www.notebooksbilliger.de/produkte/%s",
+  "description": "NotebooksBillger",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

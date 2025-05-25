@@ -1,0 +1,8 @@
+{
+  "bang": "mysku",
+  "domain": "https://mysku.ru",
+  "url": "http://mysku.ru/search/topics/?q=%s",
+  "description": "Mysku.ru",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "csv",
+  "domain": "https://www.csv.de",
+  "url": "https://www.csv.de/artsearchresult.php?STICHWORT=%s",
+  "description": "Computer Service & Vertrieb",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "speedrun",
+  "domain": "https://speedrun.com",
+  "url": "http://speedrun.com/%s",
+  "description": "Speedrun.com",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

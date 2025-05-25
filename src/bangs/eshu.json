@@ -1,0 +1,8 @@
+{
+  "bang": "eshu",
+  "domain": "https://translate.google.hu",
+  "url": "https://translate.google.hu/#es/hu/%s",
+  "description": "Google Translate es-hu",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

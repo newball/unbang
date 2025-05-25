@@ -1,0 +1,8 @@
+{
+  "bang": "unicef",
+  "domain": "https://www.unicef.org",
+  "url": "http://www.unicef.org/search/search.php?q_en=%s",
+  "description": "UNICEF",
+  "category": "Research",
+  "sub-category": "Topical"
+}

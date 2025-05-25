@@ -1,0 +1,8 @@
+{
+  "bang": "dk",
+  "domain": "https://store.docker.com",
+  "url": "https://store.docker.com/search?q=%s",
+  "description": "docker hub",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

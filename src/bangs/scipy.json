@@ -1,0 +1,8 @@
+{
+  "bang": "scipy",
+  "domain": "https://docs.scipy.org",
+  "url": "http://docs.scipy.org/doc/scipy/reference/search.html?q=%s&check_keywords=yes&area=default",
+  "description": "SciPy",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

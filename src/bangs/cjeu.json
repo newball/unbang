@@ -1,0 +1,8 @@
+{
+  "bang": "cjeu",
+  "domain": "https://curia.europa.eu",
+  "url": "http://curia.europa.eu/juris/liste.jsf?language=en&num=%s",
+  "description": "Curia",
+  "category": "Research",
+  "sub-category": "Law"
+}

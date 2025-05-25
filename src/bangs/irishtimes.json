@@ -1,0 +1,8 @@
+{
+  "bang": "irishtimes",
+  "domain": "https://www.irishtimes.com",
+  "url": "https://www.irishtimes.com/search/search-7.4195619?q=%s",
+  "description": "https://www.irishtimes.com/",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

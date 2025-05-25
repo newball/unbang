@@ -1,0 +1,8 @@
+{
+  "bang": "py35",
+  "domain": "https://docs.python.org",
+  "url": "https://docs.python.org/3.5/search.html?q=%s",
+  "description": "Python 3.5 Documentation",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

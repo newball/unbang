@@ -1,0 +1,8 @@
+{
+  "bang": "monstercat",
+  "domain": "https://www.monstercat.com",
+  "url": "https://www.monstercat.com/search?term=%s",
+  "description": "Monstercat",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

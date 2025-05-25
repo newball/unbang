@@ -1,0 +1,8 @@
+{
+  "bang": "3dbrew",
+  "domain": "https://3dbrew.org",
+  "url": "http://3dbrew.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "3DBrew",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

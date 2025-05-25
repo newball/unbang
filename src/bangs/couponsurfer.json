@@ -1,0 +1,8 @@
+{
+  "bang": "couponsurfer",
+  "domain": "https://www.couponsurfer.com",
+  "url": "http://www.couponsurfer.com/coupon_search.cfm?q=%s",
+  "description": "CouponSurfer",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

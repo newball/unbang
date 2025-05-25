@@ -1,0 +1,8 @@
+{
+  "bang": "bitview",
+  "domain": "https://www.bitview.net",
+  "url": "http://www.bitview.net/results.php?search=%s&t=Search+Videos",
+  "description": "BitView",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

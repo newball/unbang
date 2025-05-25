@@ -1,0 +1,8 @@
+{
+  "bang": "canadiantire",
+  "domain": "https://www.canadiantire.ca",
+  "url": "http://www.canadiantire.ca/en/search-results.html?searchByTerm=true&q=%s",
+  "description": "Canadian Tire",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

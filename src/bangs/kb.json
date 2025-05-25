@@ -1,0 +1,8 @@
+{
+  "bang": "kb",
+  "domain": "https://duckduckgo.com",
+  "url": "http://duckduckgo.com/?q=site%3Akeybase.io+%s",
+  "description": "Keybase.io",
+  "category": "Tech",
+  "sub-category": "Startups"
+}

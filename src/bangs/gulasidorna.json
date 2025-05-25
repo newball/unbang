@@ -1,0 +1,8 @@
+{
+  "bang": "gulasidorna",
+  "domain": "https://www.eniro.se",
+  "url": "http://www.eniro.se/query?what=all&search_word=%s",
+  "description": "Eniro",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

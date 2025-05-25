@@ -1,0 +1,8 @@
+{
+  "bang": "tf",
+  "domain": "https://www.tensorflow.org",
+  "url": "https://www.tensorflow.org/s/results/?q=%s",
+  "description": "Tensor Flow",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

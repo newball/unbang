@@ -1,0 +1,8 @@
+{
+  "bang": "dicoiscfren",
+  "domain": "https://dico.isc.cnrs.fr",
+  "url": "http://dico.isc.cnrs.fr/dico/tr/chercher_fr?r=%s",
+  "description": "http://dico.isc.cnrs.fr/fr/index_tr.html",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

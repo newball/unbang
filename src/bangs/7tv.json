@@ -1,0 +1,8 @@
+{
+  "bang": "7tv",
+  "domain": "https://www.7tv.de",
+  "url": "https://www.7tv.de/suche?q=%s",
+  "description": "7TV",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

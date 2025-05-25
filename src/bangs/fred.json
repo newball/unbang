@@ -1,0 +1,8 @@
+{
+  "bang": "fred",
+  "domain": "https://research.stlouisfed.org",
+  "url": "https://research.stlouisfed.org/fred2/search?st=%s",
+  "description": "FRED Economic Data",
+  "category": "Research",
+  "sub-category": "Academic"
+}

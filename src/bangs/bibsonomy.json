@@ -1,0 +1,8 @@
+{
+  "bang": "bibsonomy",
+  "domain": "https://www.bibsonomy.org",
+  "url": "http://www.bibsonomy.org/search/%s",
+  "description": "BibSonomy",
+  "category": "Research",
+  "sub-category": "Academic"
+}

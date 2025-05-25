@@ -1,0 +1,8 @@
+{
+  "bang": "jpd",
+  "domain": "https://www.japandict.com",
+  "url": "https://www.japandict.com/?s=%s",
+  "description": "Japan Dict",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "fip",
+  "domain": "https://www.fip.fr",
+  "url": "https://www.fip.fr/player/%s",
+  "description": "Fip Radio",
+  "category": "Entertainment",
+  "sub-category": "Radio"
+}

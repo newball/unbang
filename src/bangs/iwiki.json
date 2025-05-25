@@ -1,0 +1,8 @@
+{
+  "bang": "iwiki",
+  "domain": "https://www.theiphonewiki.com",
+  "url": "https://www.theiphonewiki.com/w/index.php?search=%s&title=Special%3ASearch&go=Go",
+  "description": "The iPhone Wiki",
+  "category": "Research",
+  "sub-category": "Reference"
+}

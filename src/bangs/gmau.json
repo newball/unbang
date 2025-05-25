@@ -1,0 +1,8 @@
+{
+  "bang": "gmau",
+  "domain": "https://www.google.com.au",
+  "url": "https://www.google.com.au/maps/search/%s ",
+  "description": "Google Maps Australia",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

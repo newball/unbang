@@ -1,0 +1,8 @@
+{
+  "bang": "cmssw",
+  "domain": "https://cmslxr.fnal.gov",
+  "url": "http://cmslxr.fnal.gov/search?_filestring=&_string=%s",
+  "description": "CMSSW Software Cross-Reference",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

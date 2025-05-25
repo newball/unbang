@@ -1,0 +1,8 @@
+{
+  "bang": "q",
+  "domain": "https://www.quora.com",
+  "url": "https://www.quora.com/search?q=%s",
+  "description": "Quora",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

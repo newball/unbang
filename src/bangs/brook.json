@@ -1,0 +1,8 @@
+{
+  "bang": "brook",
+  "domain": "https://www.brookings.edu",
+  "url": "https://www.brookings.edu/search/?s=%s",
+  "description": "Brookings Institution",
+  "category": "Research",
+  "sub-category": "Academic"
+}

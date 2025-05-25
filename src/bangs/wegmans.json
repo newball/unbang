@@ -1,0 +1,8 @@
+{
+  "bang": "wegmans",
+  "domain": "https://www.wegmans.com",
+  "url": "https://www.wegmans.com/search.html?searchKey=%s",
+  "description": "Wegmans",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

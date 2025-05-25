@@ -1,0 +1,8 @@
+{
+  "bang": "politiken",
+  "domain": "https://politiken.dk",
+  "url": "http://politiken.dk/search/?q=%s",
+  "description": "Politiken.dk",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

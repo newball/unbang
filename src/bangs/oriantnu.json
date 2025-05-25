@@ -1,0 +1,8 @@
+{
+  "bang": "oriantnu",
+  "domain": "https://bibsys-almaprimo.hosted.exlibrisgroup.com",
+  "url": "https://bibsys-almaprimo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,%s&tab=default_tab&search_scope=default_scope&vid=NTNU_UB&lang=no_NO&offset=0",
+  "description": "Oria NTNU",
+  "category": "Research",
+  "sub-category": "Academic"
+}

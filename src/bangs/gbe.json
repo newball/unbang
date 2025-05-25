@@ -1,0 +1,8 @@
+{
+  "bang": "gbe",
+  "domain": "https://www.google.be",
+  "url": "http://www.google.be/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google BE",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

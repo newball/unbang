@@ -1,0 +1,8 @@
+{
+  "bang": "chessgames",
+  "domain": "https://www.chessgames.com",
+  "url": "http://www.chessgames.com/perl/ezsearch.pl?search=%s",
+  "description": "Chess Games",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

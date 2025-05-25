@@ -1,0 +1,8 @@
+{
+  "bang": "crdb",
+  "domain": "https://www.cockroachlabs.com",
+  "url": "https://www.cockroachlabs.com/docs/search.html?q=%s",
+  "description": "CockroachDB Docs",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

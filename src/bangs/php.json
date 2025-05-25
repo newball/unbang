@@ -1,0 +1,8 @@
+{
+  "bang": "php",
+  "domain": "https://secure.php.net",
+  "url": "https://secure.php.net/manual-lookup.php?pattern=%s",
+  "description": "PHP.net",
+  "category": "Tech",
+  "sub-category": "Languages (php)"
+}

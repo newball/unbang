@@ -1,0 +1,8 @@
+{
+  "bang": "workcircle",
+  "domain": "https://www.workcircle.com",
+  "url": "http://www.workcircle.com/jobs/?search=1&query=%s",
+  "description": "Workcircle",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

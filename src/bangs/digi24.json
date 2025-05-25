@@ -1,0 +1,8 @@
+{
+  "bang": "digi24",
+  "domain": "https://www.digi24.ro",
+  "url": "https://www.digi24.ro/cautare?q=%s",
+  "description": "Digi24",
+  "category": "News",
+  "sub-category": "Online"
+}

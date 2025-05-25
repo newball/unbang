@@ -1,0 +1,8 @@
+{
+  "bang": "tracemyip",
+  "domain": "https://tools.tracemyip.org",
+  "url": "http://tools.tracemyip.org/lookup/%s",
+  "description": "tracemyip",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

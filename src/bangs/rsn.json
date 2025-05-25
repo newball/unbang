@@ -1,0 +1,8 @@
+{
+  "bang": "rsn",
+  "domain": "https://www.reddit.com",
+  "url": "https://www.reddit.com/r/%s/new/",
+  "description": "Reddit ",
+  "category": "Online Services",
+  "sub-category": "Social news/links"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "citatum",
+  "domain": "https://www.citatum.hu",
+  "url": "https://www.citatum.hu/kereso.php?kereses=%s",
+  "description": "Citatum",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

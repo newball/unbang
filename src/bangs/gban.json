@@ -1,0 +1,8 @@
+{
+  "bang": "gban",
+  "domain": "https://gamebanana.com",
+  "url": "http://gamebanana.com/skins/search?search=%s ",
+  "description": "GameBanana",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

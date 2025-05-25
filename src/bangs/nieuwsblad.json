@@ -1,0 +1,8 @@
+{
+  "bang": "nieuwsblad",
+  "domain": "https://www.nieuwsblad.be",
+  "url": "http://www.nieuwsblad.be/Search/Index.aspx?searchString=%s",
+  "description": "Het Nieuwsblad",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

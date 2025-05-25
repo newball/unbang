@@ -1,0 +1,8 @@
+{
+  "bang": "macports",
+  "domain": "https://www.macports.org",
+  "url": "https://www.macports.org/ports.php?by=name&substr=%s",
+  "description": "MacPorts",
+  "category": "Tech",
+  "sub-category": "Downloads (code)"
+}

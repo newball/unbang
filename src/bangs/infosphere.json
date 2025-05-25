@@ -1,0 +1,8 @@
+{
+  "bang": "infosphere",
+  "domain": "https://theinfosphere.org",
+  "url": "http://theinfosphere.org/index.php?search=%s&go=Go&title=Special%3ASearch",
+  "description": "The Infosphere",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

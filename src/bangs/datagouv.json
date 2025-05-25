@@ -1,0 +1,8 @@
+{
+  "bang": "datagouv",
+  "domain": "https://www.data.gouv.fr",
+  "url": "https://www.data.gouv.fr/fr/search/?q=%s",
+  "description": "DataGouv",
+  "category": "Research",
+  "sub-category": "Government"
+}

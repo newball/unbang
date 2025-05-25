@@ -1,0 +1,8 @@
+{
+  "bang": "readwriteweb",
+  "domain": "https://readwrite.com",
+  "url": "http://readwrite.com/search?keyword=%s",
+  "description": "ReadWriteWeb",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

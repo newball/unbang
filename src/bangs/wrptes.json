@@ -1,0 +1,8 @@
+{
+  "bang": "wrptes",
+  "domain": "https://www.wordreference.com",
+  "url": "http://www.wordreference.com/ptes/%s",
+  "description": "WordReference Português-Español",
+  "category": "Translation",
+  "sub-category": "General"
+}

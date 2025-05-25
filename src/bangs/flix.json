@@ -1,0 +1,8 @@
+{
+  "bang": "flix",
+  "domain": "https://www.flixster.com",
+  "url": "http://www.flixster.com/search/?search=%s ",
+  "description": "Flixster",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

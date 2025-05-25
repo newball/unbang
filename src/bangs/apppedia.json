@@ -1,0 +1,8 @@
+{
+  "bang": "apppedia",
+  "domain": "https://programs.wikia.com",
+  "url": "http://programs.wikia.com/wiki/Special:Search?search=%s",
+  "description": "AppPedia",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

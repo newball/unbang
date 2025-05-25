@@ -1,0 +1,8 @@
+{
+  "bang": "leka",
+  "domain": "https://www.varusteleka.fi",
+  "url": "https://www.varusteleka.fi/fi/bestsearch/%s?q=%s",
+  "description": "Varusteleka",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "theatricalia",
+  "domain": "https://theatricalia.com",
+  "url": "https://theatricalia.com/search?q=%s",
+  "description": "Theatricalia",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

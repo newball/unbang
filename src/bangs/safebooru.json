@@ -1,0 +1,8 @@
+{
+  "bang": "safebooru",
+  "domain": "https://safebooru.org",
+  "url": "http://safebooru.org/index.php?page=post&s=list&tags=%s",
+  "description": "Safebooru",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

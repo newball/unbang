@@ -1,0 +1,8 @@
+{
+  "bang": "floptv",
+  "domain": "https://www.floptv.tv",
+  "url": "http://www.floptv.tv/search/?q=%s",
+  "description": "FlopTV",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

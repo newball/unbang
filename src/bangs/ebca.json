@@ -1,0 +1,8 @@
+{
+  "bang": "ebca",
+  "domain": "https://www.ebay.ca",
+  "url": "https://www.ebay.ca/sch/items/?_nkw=%s",
+  "description": "ebay.ca",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

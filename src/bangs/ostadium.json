@@ -1,0 +1,8 @@
+{
+  "bang": "ostadium",
+  "domain": "https://ostadium.com",
+  "url": "http://ostadium.com/search?q=%s",
+  "description": "OStadium",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

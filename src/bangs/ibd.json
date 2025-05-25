@@ -1,0 +1,8 @@
+{
+  "bang": "ibd",
+  "domain": "https://research.investors.com",
+  "url": "https://research.investors.com/stock-quotes/nasdaq-apple-inc-%s.htm?fromsearch=1",
+  "description": "Investor's business daily",
+  "category": "Research",
+  "sub-category": "Reference"
+}

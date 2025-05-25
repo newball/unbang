@@ -1,0 +1,8 @@
+{
+  "bang": "wiktit",
+  "domain": "https://it.wiktionary.org",
+  "url": "http://it.wiktionary.org/w/index.php?search=%s&title=Speciale%3ARicerca",
+  "description": "Wikizionario, il dizionario libero",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

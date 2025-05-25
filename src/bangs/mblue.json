@@ -1,0 +1,8 @@
+{
+  "bang": "mblue",
+  "domain": "https://www.meteoblue.com",
+  "url": "https://www.meteoblue.com/?q=%s",
+  "description": "meteoblue",
+  "category": "News",
+  "sub-category": "Weather"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "snappy",
+  "domain": "https://snapcraft.io",
+  "url": "https://snapcraft.io/search?q=%s",
+  "description": "Snapcraft",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

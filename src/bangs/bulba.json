@@ -1,0 +1,8 @@
+{
+  "bang": "bulba",
+  "domain": "https://bulbapedia.bulbagarden.net",
+  "url": "http://bulbapedia.bulbagarden.net/w/index.php?title=Special%3ASearch&search=%s",
+  "description": "Bulbapedia",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

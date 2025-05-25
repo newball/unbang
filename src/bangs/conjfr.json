@@ -1,0 +1,8 @@
+{
+  "bang": "conjfr",
+  "domain": "https://conjugueur.reverso.net",
+  "url": "http://conjugueur.reverso.net/conjugaison-francais-verbe-%s.html",
+  "description": "conjugueur.reverso.net",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

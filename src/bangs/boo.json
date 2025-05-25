@@ -1,0 +1,8 @@
+{
+  "bang": "boo",
+  "domain": "https://bugzilla.opensuse.org",
+  "url": "https://bugzilla.opensuse.org/buglist.cgi?quicksearch=%s",
+  "description": "openSUSE Bugzilla",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

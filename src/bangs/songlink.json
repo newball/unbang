@@ -1,0 +1,8 @@
+{
+  "bang": "songlink",
+  "domain": "https://odesli.co",
+  "url": "https://odesli.co/embed?url=%s",
+  "description": "song.link",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

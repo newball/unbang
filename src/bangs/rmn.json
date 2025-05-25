@@ -1,0 +1,8 @@
+{
+  "bang": "rmn",
+  "domain": "https://www.retailmenot.com",
+  "url": "http://www.retailmenot.com/s/%s",
+  "description": "RetailMeNot",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

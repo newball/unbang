@@ -1,0 +1,8 @@
+{
+  "bang": "musicstack",
+  "domain": "https://www.musicstack.com",
+  "url": "http://www.musicstack.com/show.cgi?find=%s",
+  "description": "MusicStack",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

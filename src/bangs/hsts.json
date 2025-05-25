@@ -1,0 +1,8 @@
+{
+  "bang": "hsts",
+  "domain": "https://hstspreload.org",
+  "url": "https://hstspreload.org/?domain=%s",
+  "description": "HSTS preload list",
+  "category": "Tech",
+  "sub-category": "Sysadmin (network)"
+}

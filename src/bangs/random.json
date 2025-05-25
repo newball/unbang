@@ -1,0 +1,8 @@
+{
+  "bang": "random",
+  "domain": "https://www.random.org",
+  "url": "https://www.random.org/search?q=%s",
+  "description": "RANDOM.ORG",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

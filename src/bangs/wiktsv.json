@@ -1,0 +1,8 @@
+{
+  "bang": "wiktsv",
+  "domain": "https://sv.wiktionary.org",
+  "url": "https://sv.wiktionary.org/w/index.php?search=%s&title=Special%3AS%C3%B6k",
+  "description": "Swedish Wiktionary",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

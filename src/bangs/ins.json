@@ -1,0 +1,8 @@
+{
+  "bang": "ins",
+  "domain": "https://www.instructables.com",
+  "url": "http://www.instructables.com/howto/%s",
+  "description": "Instructables",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

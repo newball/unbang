@@ -1,0 +1,8 @@
+{
+  "bang": "pokedex",
+  "domain": "https://www.pokemon.com",
+  "url": "https://www.pokemon.com/us/pokedex/%s",
+  "description": "Pokemon Official Website Pokedex",
+  "category": "Entertainment",
+  "sub-category": "Games (Pokemon)"
+}

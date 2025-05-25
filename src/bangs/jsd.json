@@ -1,0 +1,8 @@
+{
+  "bang": "jsd",
+  "domain": "https://www.jsdelivr.com",
+  "url": "https://www.jsdelivr.com/?query=%s",
+  "description": "jsDelivr",
+  "category": "Tech",
+  "sub-category": "Languages (javascript)"
+}

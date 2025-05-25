@@ -1,0 +1,8 @@
+{
+  "bang": "cdt",
+  "domain": "https://www.collinsdictionary.com",
+  "url": "https://www.collinsdictionary.com/dictionary/english-thesaurus/%s",
+  "description": "Collins Thesaurus",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

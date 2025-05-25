@@ -1,0 +1,8 @@
+{
+  "bang": "answer",
+  "domain": "https://answers.yahoo.com",
+  "url": "http://answers.yahoo.com/search/search_result;_ylt=AmLr_DtDPVmDQzOuA2T6sxAjzKIX;_ylv=3?p=%s&submit-go=Search+Y!+Answers",
+  "description": "Yahoo! Answers",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

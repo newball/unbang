@@ -1,0 +1,8 @@
+{
+  "bang": "netcraft",
+  "domain": "https://toolbar.netcraft.com",
+  "url": "http://toolbar.netcraft.com/site_report?url=%s",
+  "description": "Netcraft",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

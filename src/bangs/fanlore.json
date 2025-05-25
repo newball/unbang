@@ -1,0 +1,8 @@
+{
+  "bang": "fanlore",
+  "domain": "https://fanlore.org",
+  "url": "https://fanlore.org/w/index.php?search=%s",
+  "description": "Fanlore",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

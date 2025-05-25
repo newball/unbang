@@ -1,0 +1,8 @@
+{
+  "bang": "drupal",
+  "domain": "https://drupal.org",
+  "url": "http://drupal.org/search/apachesolr_search/%s",
+  "description": "Drupal",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

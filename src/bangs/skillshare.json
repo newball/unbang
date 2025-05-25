@@ -1,0 +1,8 @@
+{
+  "bang": "skillshare",
+  "domain": "https://www.skillshare.com",
+  "url": "https://www.skillshare.com/search?query=%s",
+  "description": "Skillshare",
+  "category": "Research",
+  "sub-category": "Learning"
+}

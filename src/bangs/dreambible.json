@@ -1,0 +1,8 @@
+{
+  "bang": "dreambible",
+  "domain": "https://www.dreambible.com",
+  "url": "http://www.dreambible.com/search.php?q=%s",
+  "description": "Dream Bible",
+  "category": "Research",
+  "sub-category": "Reference"
+}

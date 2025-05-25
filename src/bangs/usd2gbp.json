@@ -1,0 +1,8 @@
+{
+  "bang": "usd2gbp",
+  "domain": "https://www.xe.com",
+  "url": "http://www.xe.com/currencyconverter/convert/?Amount=%s&From=USD&To=GBP",
+  "description": "xe",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

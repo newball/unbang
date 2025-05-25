@@ -1,0 +1,8 @@
+{
+  "bang": "djangodoc",
+  "domain": "https://docs.djangoproject.com",
+  "url": "https://docs.djangoproject.com/en/1.8/search/?q=%s",
+  "description": "Django Documentation",
+  "category": "Research",
+  "sub-category": "Reference"
+}

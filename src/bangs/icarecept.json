@@ -1,0 +1,8 @@
+{
+  "bang": "icarecept",
+  "domain": "https://www.ica.se",
+  "url": "https://www.ica.se/receptsok/#:search=%s",
+  "description": "ICA - Recept",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

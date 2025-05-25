@@ -1,0 +1,8 @@
+{
+  "bang": "woord",
+  "domain": "https://www.woorden.org",
+  "url": "https://www.woorden.org/woord/%s",
+  "description": "Woorden.org",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gic",
+  "domain": "https://www.google.com",
+  "url": "https://www.google.com/search?q=%s&tbm=isch&sout=1",
+  "description": "Google Images Classic",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

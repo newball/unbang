@@ -1,0 +1,8 @@
+{
+  "bang": "fdblog",
+  "domain": "https://blog.freshdesk.com",
+  "url": "https://blog.freshdesk.com/?s=%s",
+  "description": "Freshdesk blog",
+  "category": "Tech",
+  "sub-category": "Startups"
+}

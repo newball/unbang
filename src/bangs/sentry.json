@@ -1,0 +1,8 @@
+{
+  "bang": "sentry",
+  "domain": "https://docs.sentry.io",
+  "url": "https://docs.sentry.io/search/?q=%s",
+  "description": "Sentry",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

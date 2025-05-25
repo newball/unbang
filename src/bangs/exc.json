@@ -1,0 +1,8 @@
+{
+  "bang": "exc",
+  "domain": "https://www.exclusiveclue.com",
+  "url": "http://www.exclusiveclue.com/?term=%s",
+  "description": "Exclusiveclue",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

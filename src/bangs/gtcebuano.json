@@ -1,0 +1,8 @@
+{
+  "bang": "gtcebuano",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/ceb/%s",
+  "description": "Detect language to Cebuano",
+  "category": "Translation",
+  "sub-category": "Google"
+}

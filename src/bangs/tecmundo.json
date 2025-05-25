@@ -1,0 +1,8 @@
+{
+  "bang": "tecmundo",
+  "domain": "https://www.tecmundo.com.br",
+  "url": "https://www.tecmundo.com.br/busca?q=%s",
+  "description": "Tecmundo",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

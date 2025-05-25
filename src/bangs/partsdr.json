@@ -1,0 +1,8 @@
+{
+  "bang": "partsdr",
+  "domain": "https://partsdr.com",
+  "url": "http://partsdr.com/model-number-search/?query=%s",
+  "description": "Parts Dr",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

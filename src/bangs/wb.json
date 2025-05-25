@@ -1,0 +1,8 @@
+{
+  "bang": "wb",
+  "domain": "https://en.wikibooks.org",
+  "url": "http://en.wikibooks.org/wiki/Special:Search?search=%s",
+  "description": "Wikibooks",
+  "category": "Research",
+  "sub-category": "Academic"
+}

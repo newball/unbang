@@ -1,0 +1,8 @@
+{
+  "bang": "gpl",
+  "domain": "https://www.google.pl",
+  "url": "http://www.google.pl/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google PL",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

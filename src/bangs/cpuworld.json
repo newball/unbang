@@ -1,0 +1,8 @@
+{
+  "bang": "cpuworld",
+  "domain": "https://www.cpu-world.com",
+  "url": "http://www.cpu-world.com/cgi-bin/SearchSite.pl?SEARCH=%s&PROCESS=Search",
+  "description": "cpu-world.com",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

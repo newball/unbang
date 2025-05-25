@@ -1,0 +1,8 @@
+{
+  "bang": "rosw",
+  "domain": "https://wiki.ros.org",
+  "url": "https://wiki.ros.org/%s",
+  "description": "ROS Wiki",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

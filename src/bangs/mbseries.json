@@ -1,0 +1,8 @@
+{
+  "bang": "mbseries",
+  "domain": "https://musicbrainz.org",
+  "url": "https://musicbrainz.org/search?query=%s&type=series",
+  "description": "MusicBrainz series",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bgm",
+  "domain": "https://bgm.tv",
+  "url": "https://bgm.tv/subject_search/%s?cat=all",
+  "description": "Bangumi 番组计划",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

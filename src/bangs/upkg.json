@@ -1,0 +1,8 @@
+{
+  "bang": "upkg",
+  "domain": "https://launchpad.net",
+  "url": "https://launchpad.net/ubuntu/+source/%s",
+  "description": "Ubuntu Launchpad Package Page",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Ubuntu)"
+}

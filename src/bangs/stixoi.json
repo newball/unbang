@@ -1,0 +1,8 @@
+{
+  "bang": "stixoi",
+  "domain": "https://www.stixoi.info",
+  "url": "http://www.stixoi.info/stixoi.php?info=SS&keywords=%s&act=ss",
+  "description": "stixoi.info",
+  "category": "Research",
+  "sub-category": "Learning"
+}

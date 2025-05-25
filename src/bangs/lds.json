@@ -1,0 +1,8 @@
+{
+  "bang": "lds",
+  "domain": "https://www.lds.org",
+  "url": "https://www.lds.org/search?lang=eng&query=%s ",
+  "description": "LDS.org",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gtpt",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/pt/%s",
+  "description": "Detect language to Portuguese",
+  "category": "Translation",
+  "sub-category": "Google"
+}

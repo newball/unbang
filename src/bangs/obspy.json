@@ -1,0 +1,8 @@
+{
+  "bang": "obspy",
+  "domain": "https://docs.obspy.org",
+  "url": "http://docs.obspy.org/search.html?q=%s",
+  "description": "Obspy documentation",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

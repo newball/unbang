@@ -1,0 +1,8 @@
+{
+  "bang": "zdoom",
+  "domain": "https://zdoom.org",
+  "url": "http://zdoom.org/w/index.php?search=%s",
+  "description": "ZDoom Wiki",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

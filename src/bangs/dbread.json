@@ -1,0 +1,8 @@
+{
+  "bang": "dbread",
+  "domain": "https://read.douban.com",
+  "url": "https://read.douban.com/search?q=%s",
+  "description": "read.douban",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

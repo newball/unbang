@@ -1,0 +1,8 @@
+{
+  "bang": "wordery",
+  "domain": "https://wordery.com",
+  "url": "https://wordery.com/search?term=%s",
+  "description": "Wordery",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

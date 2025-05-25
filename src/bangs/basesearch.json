@@ -1,0 +1,8 @@
+{
+  "bang": "basesearch",
+  "domain": "https://www.base-search.net",
+  "url": "http://www.base-search.net/Search/Results?lookfor=%s&refid=duckduckgo",
+  "description": "BASE Search",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "pito",
+  "domain": "https://www.pisatoday.it",
+  "url": "http://www.pisatoday.it/search/query/%s",
+  "description": "Pisa Today",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

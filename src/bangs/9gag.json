@@ -1,0 +1,8 @@
+{
+  "bang": "9gag",
+  "domain": "https://9gag.com",
+  "url": "https://9gag.com/search?query=%s",
+  "description": "9gag",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "enru",
+  "domain": "https://translate.google.com",
+  "url": "http://translate.google.com/#en/ru/%s",
+  "description": "Google Translate",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

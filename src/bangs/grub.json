@@ -1,0 +1,8 @@
+{
+  "bang": "grub",
+  "domain": "https://www.grubhub.com",
+  "url": "https://www.grubhub.com/search/?cuisine=%s",
+  "description": "Grubhub",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

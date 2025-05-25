@@ -1,0 +1,8 @@
+{
+  "bang": "salt",
+  "domain": "https://cse.google.com",
+  "url": "https://cse.google.com/cse?cx=011515552685726825874:ht0p8miksrm&q=%s",
+  "description": "SaltStack",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

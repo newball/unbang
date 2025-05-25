@@ -1,0 +1,8 @@
+{
+  "bang": "czk2eur",
+  "domain": "https://www.xe.com",
+  "url": "https://www.xe.com/currencyconverter/convert/?Amount=%s&From=CZK&To=EUR",
+  "description": "xe",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

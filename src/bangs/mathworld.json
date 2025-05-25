@@ -1,0 +1,8 @@
+{
+  "bang": "mathworld",
+  "domain": "https://mathworld.wolfram.com",
+  "url": "http://mathworld.wolfram.com/search/?query=%s&x=0&y=0",
+  "description": "Wolfram MathWorld",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

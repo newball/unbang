@@ -1,0 +1,8 @@
+{
+  "bang": "djlts",
+  "domain": "https://docs.djangoproject.com",
+  "url": "https://docs.djangoproject.com/en/2.2/search/?q=%s",
+  "description": "Django Documentation",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

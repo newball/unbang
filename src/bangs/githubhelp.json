@@ -1,0 +1,8 @@
+{
+  "bang": "githubhelp",
+  "domain": "https://help.github.com",
+  "url": "https://help.github.com/search/?q=%s",
+  "description": "GitHub Help",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

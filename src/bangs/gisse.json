@@ -1,0 +1,8 @@
+{
+  "bang": "gisse",
+  "domain": "https://gis.stackexchange.com",
+  "url": "https://gis.stackexchange.com/search?q=%s",
+  "description": "Stack Exchange",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

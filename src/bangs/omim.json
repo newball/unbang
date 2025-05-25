@@ -1,0 +1,8 @@
+{
+  "bang": "omim",
+  "domain": "https://omim.org",
+  "url": "http://omim.org/search?index=entry&sort=score+desc%2C+prefix_sort+desc&start=1&limit=10&search=%s ",
+  "description": "OMIM Search",
+  "category": "Research",
+  "sub-category": "Health"
+}

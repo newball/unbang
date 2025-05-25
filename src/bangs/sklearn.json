@@ -1,0 +1,8 @@
+{
+  "bang": "sklearn",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Ahttp%3A%2F%2Fscikit-learn.org%2Fstable%2Fmodules%2Fgenerated%2F+%s&ia=web",
+  "description": "http://scikit-learn.org/",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

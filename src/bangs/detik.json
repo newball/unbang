@@ -1,0 +1,8 @@
+{
+  "bang": "detik",
+  "domain": "https://www.detik.com",
+  "url": "https://www.detik.com/search/searchall?query=%s",
+  "description": "Detik",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

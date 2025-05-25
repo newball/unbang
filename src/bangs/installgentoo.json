@@ -1,0 +1,8 @@
+{
+  "bang": "installgentoo",
+  "domain": "https://wiki.installgentoo.com",
+  "url": "https://wiki.installgentoo.com/index.php/%s",
+  "description": "Gentoo Wiki",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Gentoo)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wcat",
+  "domain": "https://ca.wikipedia.org",
+  "url": "https://ca.wikipedia.org/w/index.php?search=%s",
+  "description": "Viquipèdia",
+  "category": "Research",
+  "sub-category": "Learning"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "hackernews",
+  "domain": "https://hn.algolia.com",
+  "url": "http://hn.algolia.com/#!/all/forever/0/%s",
+  "description": "Hacker News",
+  "category": "Online Services",
+  "sub-category": "Social news/links"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "duedil",
+  "domain": "https://www.duedil.com",
+  "url": "https://www.duedil.com/companies/search?query=%s&op=Companies",
+  "description": "Duedil",
+  "category": "Research",
+  "sub-category": "Local"
+}

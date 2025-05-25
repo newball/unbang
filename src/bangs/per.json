@@ -1,0 +1,8 @@
+{
+  "bang": "per",
+  "domain": "https://personality-database.com",
+  "url": "https://personality-database.com/search?q=%s",
+  "description": "Personality Database",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

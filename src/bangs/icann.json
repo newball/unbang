@@ -1,0 +1,8 @@
+{
+  "bang": "icann",
+  "domain": "https://www.icann.org",
+  "url": "https://www.icann.org/search/#!/?searchText=%s",
+  "description": "ICANN",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

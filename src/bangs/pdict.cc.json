@@ -1,0 +1,8 @@
+{
+  "bang": "pdict.cc",
+  "domain": "https://pocket.dict.cc",
+  "url": "http://pocket.dict.cc/?s=%s",
+  "description": "Pocket dict.cc",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

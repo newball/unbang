@@ -1,0 +1,8 @@
+{
+  "bang": "wxw",
+  "domain": "https://docs.wxwidgets.org",
+  "url": "http://docs.wxwidgets.org/trunk/search.php?query=%s",
+  "description": "wxWidgets Documentation",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

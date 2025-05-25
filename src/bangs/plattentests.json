@@ -1,0 +1,8 @@
+{
+  "bang": "plattentests",
+  "domain": "https://www.plattentests.de",
+  "url": "http://www.plattentests.de/suche.php?parameter=all&suche=%s",
+  "description": "Plattentests.de",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "aemet",
+  "domain": "https://www.aemet.es",
+  "url": "http://www.aemet.es/es/buscador?modo=and&orden=n&tipo=sta&str=%s",
+  "description": "AEMET",
+  "category": "News",
+  "sub-category": "Weather"
+}

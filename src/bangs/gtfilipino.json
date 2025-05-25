@@ -1,0 +1,8 @@
+{
+  "bang": "gtfilipino",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/tl/%s",
+  "description": "Detect language to Filipino",
+  "category": "Translation",
+  "sub-category": "Google"
+}

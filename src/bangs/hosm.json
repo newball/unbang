@@ -1,0 +1,8 @@
+{
+  "bang": "hosm",
+  "domain": "https://help.openstreetmap.org",
+  "url": "https://help.openstreetmap.org/search/?q=%s",
+  "description": "OpenStreetMap Help",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ti",
+  "domain": "https://tunein.com",
+  "url": "http://tunein.com/search/?query=%s",
+  "description": "TuneIn Radio",
+  "category": "Entertainment",
+  "sub-category": "Radio"
+}

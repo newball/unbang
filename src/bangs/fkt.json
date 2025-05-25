@@ -1,0 +1,8 @@
+{
+  "bang": "fkt",
+  "domain": "https://www.felleskatalogen.no",
+  "url": "https://www.felleskatalogen.no/medisin/sok?sokord=%s",
+  "description": "Felleskatalogen",
+  "category": "Research",
+  "sub-category": "Health"
+}

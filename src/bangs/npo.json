@@ -1,0 +1,8 @@
+{
+  "bang": "npo",
+  "domain": "https://www.npo.nl",
+  "url": "https://www.npo.nl/zoeken?term=%s",
+  "description": "NPO",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

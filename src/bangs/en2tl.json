@@ -1,0 +1,8 @@
+{
+  "bang": "en2tl",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#view=home&op=translate&sl=en&tl=tl&text=%s",
+  "description": "Google Translate English to Tagalog",
+  "category": "Translation",
+  "sub-category": "Google"
+}

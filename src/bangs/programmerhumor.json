@@ -1,0 +1,8 @@
+{
+  "bang": "programmerhumor",
+  "domain": "https://www.reddit.com",
+  "url": "https://www.reddit.com/r/ProgrammerHumor/search?q=%s&restrict_sr=on",
+  "description": "Reddit /r/ProgrammerHumor",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

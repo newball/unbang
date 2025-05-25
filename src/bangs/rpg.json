@@ -1,0 +1,8 @@
+{
+  "bang": "rpg",
+  "domain": "https://rpg.stackexchange.com",
+  "url": "http://rpg.stackexchange.com/search?q=%s",
+  "description": "StackExchange RPG",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

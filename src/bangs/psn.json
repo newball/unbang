@@ -1,0 +1,8 @@
+{
+  "bang": "psn",
+  "domain": "https://store.playstation.com",
+  "url": "https://store.playstation.com/#!/en-us/search/q=%s",
+  "description": "Playstation Store",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

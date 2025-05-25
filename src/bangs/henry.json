@@ -1,0 +1,8 @@
+{
+  "bang": "henry",
+  "domain": "https://www.henrys.com",
+  "url": "https://www.henrys.com/Search/%s.aspx?q=%s",
+  "description": "Henrys",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

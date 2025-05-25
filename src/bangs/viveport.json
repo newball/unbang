@@ -1,0 +1,8 @@
+{
+  "bang": "viveport",
+  "domain": "https://www.viveport.com",
+  "url": "https://www.viveport.com/list/desktop?keyword=%s",
+  "description": "Viveport",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

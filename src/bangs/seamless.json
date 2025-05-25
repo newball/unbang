@@ -1,0 +1,8 @@
+{
+  "bang": "seamless",
+  "domain": "https://www.seamless.com",
+  "url": "https://www.seamless.com/search?queryText=%s",
+  "description": "Seamless",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

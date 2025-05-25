@@ -1,0 +1,8 @@
+{
+  "bang": "colormango",
+  "domain": "https://www.colormango.com",
+  "url": "http://www.colormango.com/search/index.asp?keyword=%s",
+  "description": "ColorMango",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

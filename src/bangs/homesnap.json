@@ -1,0 +1,8 @@
+{
+  "bang": "homesnap",
+  "domain": "https://www.homesnap.com",
+  "url": "https://www.homesnap.com/search?q=%s",
+  "description": "Homesnap",
+  "category": "Research",
+  "sub-category": "Real Estate"
+}

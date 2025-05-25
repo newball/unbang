@@ -1,0 +1,8 @@
+{
+  "bang": "gtmaltese",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/mt/%s",
+  "description": "Detect language to Maltese",
+  "category": "Translation",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "optus",
+  "domain": "https://www.optus.com.au",
+  "url": "https://www.optus.com.au/customercentre/search?query=%s",
+  "description": "Optus",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

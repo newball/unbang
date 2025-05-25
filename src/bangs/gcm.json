@@ -1,0 +1,8 @@
+{
+  "bang": "gcm",
+  "domain": "https://www.gcmap.com",
+  "url": "http://www.gcmap.com/mapui?P=%s&MS=wls&DU=nm",
+  "description": "Great Circle Mapper",
+  "category": "Research",
+  "sub-category": "Reference"
+}

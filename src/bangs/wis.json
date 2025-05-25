@@ -1,0 +1,8 @@
+{
+  "bang": "wis",
+  "domain": "https://is.wikipedia.org",
+  "url": "https://is.wikipedia.org/w/index.php?search=%s",
+  "description": "Wikipedia IS",
+  "category": "Research",
+  "sub-category": "Reference"
+}

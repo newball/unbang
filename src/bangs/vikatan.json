@@ -1,0 +1,8 @@
+{
+  "bang": "vikatan",
+  "domain": "https://www.vikatan.com",
+  "url": "https://www.vikatan.com/search.php?search=%s",
+  "description": "vikatan",
+  "category": "News",
+  "sub-category": "Magazine"
+}

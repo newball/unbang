@@ -1,0 +1,8 @@
+{
+  "bang": "googleuk",
+  "domain": "https://www.google.co.uk",
+  "url": "http://www.google.co.uk/search?&source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google UK",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

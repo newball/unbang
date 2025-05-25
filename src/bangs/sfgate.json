@@ -1,0 +1,8 @@
+{
+  "bang": "sfgate",
+  "domain": "https://www.sfgate.com",
+  "url": "http://www.sfgate.com/search/?action=search&query=%s",
+  "description": "SFGate",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

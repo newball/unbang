@@ -1,0 +1,8 @@
+{
+  "bang": "akiduki",
+  "domain": "https://akizukidenshi.com",
+  "url": "http://akizukidenshi.com/catalog/goods/search.aspx?keyword= %s&goods=&number=&name=&min_price=&max_price=&search.x=0&search.y=0",
+  "description": "akizukidenshi",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

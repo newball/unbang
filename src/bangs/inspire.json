@@ -1,0 +1,8 @@
+{
+  "bang": "inspire",
+  "domain": "https://inspirehep.net",
+  "url": "http://inspirehep.net/search?p=%s",
+  "description": "Inspire HEP ",
+  "category": "Research",
+  "sub-category": "Academic"
+}

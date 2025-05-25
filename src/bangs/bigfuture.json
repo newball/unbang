@@ -1,0 +1,8 @@
+{
+  "bang": "bigfuture",
+  "domain": "https://bigfuture.collegeboard.org",
+  "url": "https://bigfuture.collegeboard.org/sitesearch?searchType=bf_site&tp=bf&q=%s",
+  "description": "BigFuture",
+  "category": "Research",
+  "sub-category": "Academic"
+}

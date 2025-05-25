@@ -1,0 +1,8 @@
+{
+  "bang": "twitters",
+  "domain": "https://twitter.com",
+  "url": "https://twitter.com/%s",
+  "description": "Twitter User",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

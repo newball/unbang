@@ -1,0 +1,8 @@
+{
+  "bang": "consplus",
+  "domain": "https://www.consultant.ru",
+  "url": "https://www.consultant.ru/search/?q=%s",
+  "description": "Consultant Plus",
+  "category": "Research",
+  "sub-category": "Law"
+}

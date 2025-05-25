@@ -1,0 +1,8 @@
+{
+  "bang": "biorxiv",
+  "domain": "https://biorxiv.org",
+  "url": "http://biorxiv.org/search/%s",
+  "description": "bioRxiv",
+  "category": "Research",
+  "sub-category": "Academic"
+}

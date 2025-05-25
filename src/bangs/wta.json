@@ -1,0 +1,8 @@
+{
+  "bang": "wta",
+  "domain": "https://www.wtatennis.com",
+  "url": "http://www.wtatennis.com/search/query/%s",
+  "description": "WTA Tennis",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

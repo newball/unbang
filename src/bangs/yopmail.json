@@ -1,0 +1,8 @@
+{
+  "bang": "yopmail",
+  "domain": "https://www.yopmail.com",
+  "url": "http://www.yopmail.com/en/index.php?login=%s",
+  "description": "YopMail",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

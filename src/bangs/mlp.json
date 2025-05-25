@@ -1,0 +1,8 @@
+{
+  "bang": "mlp",
+  "domain": "https://mlp.wikia.com",
+  "url": "http://mlp.wikia.com/wiki/Special:Search?search=%s",
+  "description": "My Little Pony: Friendship is Magic Wiki",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

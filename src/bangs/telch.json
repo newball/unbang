@@ -1,0 +1,8 @@
+{
+  "bang": "telch",
+  "domain": "https://tel.search.ch",
+  "url": "http://tel.search.ch/?q=%s",
+  "description": "Search.ch Phonebook (Switzerland)",
+  "category": "Online Services",
+  "sub-category": "Social (intl)"
+}

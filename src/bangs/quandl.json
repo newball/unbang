@@ -1,0 +1,8 @@
+{
+  "bang": "quandl",
+  "domain": "https://www.quandl.com",
+  "url": "https://www.quandl.com/search?query=%s",
+  "description": "Quandl",
+  "category": "Research",
+  "sub-category": "Reference"
+}

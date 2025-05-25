@@ -1,0 +1,8 @@
+{
+  "bang": "gtzu",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/zu/%s",
+  "description": "Detect language to Zulu",
+  "category": "Translation",
+  "sub-category": "Google"
+}

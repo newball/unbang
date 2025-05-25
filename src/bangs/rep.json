@@ -1,0 +1,8 @@
+{
+  "bang": "rep",
+  "domain": "https://www.replacements.com",
+  "url": "http://www.replacements.com/search/?query=%s",
+  "description": "Replacements.com",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

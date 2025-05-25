@@ -1,0 +1,8 @@
+{
+  "bang": "catalandictionary",
+  "domain": "https://www.catalandictionary.org",
+  "url": "http://www.catalandictionary.org/en/search/?q=%s",
+  "description": "CatalanDictionary.org",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

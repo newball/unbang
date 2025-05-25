@@ -1,0 +1,8 @@
+{
+  "bang": "wordsmyth",
+  "domain": "https://www.wordsmyth.net",
+  "url": "http://www.wordsmyth.net/?level=3&ent=%s",
+  "description": "Wordsmyth",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

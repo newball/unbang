@@ -1,0 +1,8 @@
+{
+  "bang": "oworks",
+  "domain": "https://www.officeworks.com.au",
+  "url": "https://www.officeworks.com.au/shop/SearchDisplay?searchTerm=%s",
+  "description": "Officeworks",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

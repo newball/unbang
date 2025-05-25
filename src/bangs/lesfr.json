@@ -1,0 +1,8 @@
+{
+  "bang": "lesfr",
+  "domain": "https://www.linguee.fr",
+  "url": "https://www.linguee.fr/francais-espagnol/search?source=espagnol&query=%s",
+  "description": "linguee Es-Fr",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

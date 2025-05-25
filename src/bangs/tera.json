@@ -1,0 +1,8 @@
+{
+  "bang": "tera",
+  "domain": "https://tera.wikia.com",
+  "url": "http://tera.wikia.com/wiki/Special:Search?query=%s",
+  "description": "Tera Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

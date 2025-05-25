@@ -1,0 +1,8 @@
+{
+  "bang": "wklt",
+  "domain": "https://lt.wiktionary.org",
+  "url": "https://lt.wiktionary.org/w/index.php?search=%s",
+  "description": "Lithuanian Wiktionary (Vikižodynas)",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "l2d",
+  "domain": "https://www.love2d.org",
+  "url": "http://www.love2d.org/w/index.php?search=%s",
+  "description": "Love2D Wiki",
+  "category": "Tech",
+  "sub-category": "Languages (lua)"
+}

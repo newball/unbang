@@ -1,0 +1,8 @@
+{
+  "bang": "godotqa",
+  "domain": "https://godotengine.org",
+  "url": "https://godotengine.org/qa/search?q=%s",
+  "description": "Godot Engine Q&A",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

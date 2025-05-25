@@ -1,0 +1,8 @@
+{
+  "bang": "gamefly",
+  "domain": "https://www.gamefly.com",
+  "url": "https://www.gamefly.com/#!/search/all?q=%s",
+  "description": "Gamefly",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

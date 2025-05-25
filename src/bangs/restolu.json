@@ -1,0 +1,8 @@
+{
+  "bang": "restolu",
+  "domain": "https://www.resto.lu",
+  "url": "http://www.resto.lu/fr/Luxembourg/guide.cfm?searchmode=classic&RESTOTYPE=isresto&nom=%s&idcuisine_type=&ville=&region=&idprix=ddg@pivert.org",
+  "description": "Resto.lu",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

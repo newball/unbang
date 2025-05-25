@@ -1,0 +1,8 @@
+{
+  "bang": "seclists",
+  "domain": "https://insecure.org",
+  "url": "http://insecure.org/search.html?cx=partner-pub-0078565546631069%3Abx60rb-fytx&cof=FORID%3A9&ie=ISO-8859-1&q=%s&sa=SecSearch",
+  "description": "SecLists.org",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

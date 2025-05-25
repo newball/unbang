@@ -1,0 +1,8 @@
+{
+  "bang": "slashdot",
+  "domain": "https://slashdot.org",
+  "url": "http://slashdot.org/index2.pl?fhfilter=%s",
+  "description": "Slashdot",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

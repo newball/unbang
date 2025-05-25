@@ -1,0 +1,8 @@
+{
+  "bang": "tel",
+  "domain": "https://yellowpages.superpages.com",
+  "url": "http://yellowpages.superpages.com/listings.jsp?C=%s&CS=L&MCBP=true&search=Find+It&SRC=&STYPE=S&SCS=&channelId=&sessionId=",
+  "description": "SuperPages",
+  "category": "Research",
+  "sub-category": "Local"
+}

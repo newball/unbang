@@ -1,0 +1,8 @@
+{
+  "bang": "nws",
+  "domain": "https://forecast.weather.gov",
+  "url": "http://forecast.weather.gov/zipcity.php?inputstring=%s",
+  "description": "National Weather Service",
+  "category": "News",
+  "sub-category": "Weather"
+}

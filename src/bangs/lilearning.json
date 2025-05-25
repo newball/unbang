@@ -1,0 +1,8 @@
+{
+  "bang": "lilearning",
+  "domain": "https://www.linkedin.com",
+  "url": "https://www.linkedin.com/learning/search?keywords=%s",
+  "description": "LinkedIn Learning",
+  "category": "Research",
+  "sub-category": "Learning"
+}

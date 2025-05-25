@@ -1,0 +1,8 @@
+{
+  "bang": "vgcollect",
+  "domain": "https://vgcollect.com",
+  "url": "http://vgcollect.com/search/%s",
+  "description": "VGCollect",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

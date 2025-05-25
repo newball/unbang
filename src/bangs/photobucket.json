@@ -1,0 +1,8 @@
+{
+  "bang": "photobucket",
+  "domain": "https://photobucket.com",
+  "url": "http://photobucket.com/images/%s/",
+  "description": "PhotoBucket.com",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "sprkr",
+  "domain": "https://www.spreaker.com",
+  "url": "https://www.spreaker.com/search?query=%s",
+  "description": "Spreaker",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

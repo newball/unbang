@@ -1,0 +1,8 @@
+{
+  "bang": "osmforumnl",
+  "domain": "https://forum.openstreetmap.org",
+  "url": "https://forum.openstreetmap.org/search.php?action=search&keywords=%s&forums[]=12",
+  "description": "Openstreetmap forum Netherlands",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

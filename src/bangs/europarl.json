@@ -1,0 +1,8 @@
+{
+  "bang": "europarl",
+  "domain": "https://www.europarl.europa.eu",
+  "url": "http://www.europarl.europa.eu/portal/en/search?q=%s",
+  "description": "European Parliament",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

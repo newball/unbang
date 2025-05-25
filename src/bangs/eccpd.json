@@ -1,0 +1,8 @@
+{
+  "bang": "eccpd",
+  "domain": "https://www.encyclo.nl",
+  "url": "http://www.encyclo.nl/zoek.php?woord=%s",
+  "description": "Encyclopedie",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bunware",
+  "domain": "https://www.bunnings.com.au",
+  "url": "http://www.bunnings.com.au/search/products?q=%s &redirectFrom=Any",
+  "description": "Bunnings Warehouse",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

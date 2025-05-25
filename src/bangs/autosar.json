@@ -1,0 +1,8 @@
+{
+  "bang": "autosar",
+  "domain": "https://www.autosar.org",
+  "url": "https://www.autosar.org/nc/document-search/?tx_sysgsearch_pi1%5Bquery%5D=%s",
+  "description": "Autosar",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

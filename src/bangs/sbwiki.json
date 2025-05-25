@@ -1,0 +1,8 @@
+{
+  "bang": "sbwiki",
+  "domain": "https://spongebob.wikia.com",
+  "url": "http://spongebob.wikia.com/wiki/Special:Search?search=%s",
+  "description": "SpongeBob SquarePants Wiki",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

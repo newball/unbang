@@ -1,0 +1,8 @@
+{
+  "bang": "sears",
+  "domain": "https://www.sears.com",
+  "url": "http://www.sears.com/shc/s/search_10153_12605?keyword=%s",
+  "description": "Sears",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

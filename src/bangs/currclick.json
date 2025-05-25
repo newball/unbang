@@ -1,0 +1,8 @@
+{
+  "bang": "currclick",
+  "domain": "https://www.currclick.com",
+  "url": "http://www.currclick.com/browse.php?keywords=%s",
+  "description": "CurrClick",
+  "category": "Research",
+  "sub-category": "Learning"
+}

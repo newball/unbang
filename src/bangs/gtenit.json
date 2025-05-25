@@ -1,0 +1,8 @@
+{
+  "bang": "gtenit",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#en/it/%s",
+  "description": "Google Translate en->it",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

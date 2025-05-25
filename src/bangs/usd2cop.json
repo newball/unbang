@@ -1,0 +1,8 @@
+{
+  "bang": "usd2cop",
+  "domain": "https://www.xe.com",
+  "url": "http://www.xe.com/currencyconverter/convert/?From=USD&To=COP&Amount=%s",
+  "description": "Xe.com",
+  "category": "Research",
+  "sub-category": "Reference"
+}

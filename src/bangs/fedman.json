@@ -1,0 +1,8 @@
+{
+  "bang": "fedman",
+  "domain": "https://linuxmanpages.net",
+  "url": "http://linuxmanpages.net/search.py?q=%s",
+  "description": "Fedora Manuals",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Fedora)"
+}

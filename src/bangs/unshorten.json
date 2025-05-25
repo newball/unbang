@@ -1,0 +1,8 @@
+{
+  "bang": "unshorten",
+  "domain": "https://unshorten.me",
+  "url": "https://unshorten.me/s/%s",
+  "description": "Unshorten.me",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "aramex",
+  "domain": "https://www.aramex.com",
+  "url": "https://www.aramex.com/track-results-multiple.aspx?ShipmentNumber=%s",
+  "description": "Aramex Tracking",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

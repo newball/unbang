@@ -1,0 +1,8 @@
+{
+  "bang": "wallapop",
+  "domain": "https://es.wallapop.com",
+  "url": "https://es.wallapop.com/search?keywords=%s",
+  "description": "Wallapop",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "amd",
+  "domain": "https://search.amd.com",
+  "url": "http://search.amd.com/en-us/Pages/results-all.aspx?k=%s",
+  "description": "AMD",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

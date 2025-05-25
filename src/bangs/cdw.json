@@ -1,0 +1,8 @@
+{
+  "bang": "cdw",
+  "domain": "https://www.cdw.com",
+  "url": "http://www.cdw.com/shop/search/result.aspx?key=%s",
+  "description": "CDW",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

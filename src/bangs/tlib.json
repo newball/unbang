@@ -1,0 +1,8 @@
+{
+  "bang": "tlib",
+  "domain": "https://toolslib.net",
+  "url": "https://toolslib.net/search/projects/?q=%s",
+  "description": "ToolsLib",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

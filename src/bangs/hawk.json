@@ -1,0 +1,8 @@
+{
+  "bang": "hawk",
+  "domain": "https://hawkclothing.uk",
+  "url": "http://hawkclothing.uk/index.php?route=product/search&search=%s",
+  "description": "Hawk",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

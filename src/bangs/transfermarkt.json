@@ -1,0 +1,8 @@
+{
+  "bang": "transfermarkt",
+  "domain": "https://www.transfermarkt.de",
+  "url": "http://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=%s&x=0&y=0",
+  "description": "transfermarkt.de",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "iurl",
+  "domain": "https://google.com",
+  "url": "http://google.com/searchbyimage?image_url=%s",
+  "description": "Google",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

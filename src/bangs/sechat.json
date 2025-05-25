@@ -1,0 +1,8 @@
+{
+  "bang": "sechat",
+  "domain": "https://chat.stackexchange.com",
+  "url": "https://chat.stackexchange.com/rooms/%s",
+  "description": "Stack Exchange Chat",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

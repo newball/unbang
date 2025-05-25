@@ -1,0 +1,8 @@
+{
+  "bang": "sn",
+  "domain": "https://soylentnews.org",
+  "url": "http://soylentnews.org/search.pl?query=%s",
+  "description": "SoylentNews",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

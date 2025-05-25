@@ -1,0 +1,8 @@
+{
+  "bang": "newyorker",
+  "domain": "https://www.newyorker.com",
+  "url": "http://www.newyorker.com/search/q/%s",
+  "description": "The New Yorker",
+  "category": "News",
+  "sub-category": "Magazine"
+}

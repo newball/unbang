@@ -1,0 +1,8 @@
+{
+  "bang": "wadoku",
+  "domain": "https://www.wadoku.de",
+  "url": "http://www.wadoku.de/search/%s",
+  "description": "WaDoKu",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

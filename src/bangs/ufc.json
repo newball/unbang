@@ -1,0 +1,8 @@
+{
+  "bang": "ufc",
+  "domain": "https://ufc.com",
+  "url": "https://ufc.com/search?search=%s&sort_by=created",
+  "description": "Ultimate Fighting Championship",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

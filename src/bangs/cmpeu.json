@@ -1,0 +1,8 @@
+{
+  "bang": "cmpeu",
+  "domain": "https://compare.eu",
+  "url": "http://compare.eu/?fs=%s",
+  "description": "compare.eu",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

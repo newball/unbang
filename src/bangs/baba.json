@@ -1,0 +1,8 @@
+{
+  "bang": "baba",
+  "domain": "https://www.alibaba.com",
+  "url": "https://www.alibaba.com/trade/search?IndexArea=product_en&CatId=&SearchText=%s",
+  "description": "Alibaba",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

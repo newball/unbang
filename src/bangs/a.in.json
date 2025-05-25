@@ -1,0 +1,8 @@
+{
+  "bang": "a.in",
+  "domain": "https://www.amazon.in",
+  "url": "https://www.amazon.in/s?k=%s",
+  "description": "Amazon India",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

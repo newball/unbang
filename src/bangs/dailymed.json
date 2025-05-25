@@ -1,0 +1,8 @@
+{
+  "bang": "dailymed",
+  "domain": "https://dailymed.nlm.nih.gov",
+  "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=%s",
+  "description": "DailyMed",
+  "category": "Research",
+  "sub-category": "Government"
+}

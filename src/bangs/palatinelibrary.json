@@ -1,0 +1,8 @@
+{
+  "bang": "palatinelibrary",
+  "domain": "https://encore.palatinelibrary.org",
+  "url": "http://encore.palatinelibrary.org/iii/encore/search?target=%s",
+  "description": "Palatine Public Library",
+  "category": "Research",
+  "sub-category": "Local"
+}

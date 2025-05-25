@@ -1,0 +1,8 @@
+{
+  "bang": "alibris",
+  "domain": "https://www.alibris.com",
+  "url": "http://www.alibris.com/booksearch?keyword=%s",
+  "description": "alibris",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

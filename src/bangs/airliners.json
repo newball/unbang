@@ -1,0 +1,8 @@
+{
+  "bang": "airliners",
+  "domain": "https://www.airliners.net",
+  "url": "http://www.airliners.net/search?keywords=%s",
+  "description": "Airliners.net",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

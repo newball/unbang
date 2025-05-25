@@ -1,0 +1,8 @@
+{
+  "bang": "inv",
+  "domain": "https://inventaire.io",
+  "url": "https://inventaire.io/search?q=%s",
+  "description": "inventaire.io",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

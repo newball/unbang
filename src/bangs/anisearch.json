@@ -1,0 +1,8 @@
+{
+  "bang": "anisearch",
+  "domain": "https://www.anisearch.com",
+  "url": "https://www.anisearch.com/search?q=%s",
+  "description": "aniSearch",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

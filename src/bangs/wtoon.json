@@ -1,0 +1,8 @@
+{
+  "bang": "wtoon",
+  "domain": "https://www.webtoons.com",
+  "url": "https://www.webtoons.com/search?keyword=%s",
+  "description": "Webtoon",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

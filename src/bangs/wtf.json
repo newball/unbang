@@ -1,0 +1,8 @@
+{
+  "bang": "wtf",
+  "domain": "https://www.mirbsd.org",
+  "url": "https://www.mirbsd.org/wtf.cgi?q=%s",
+  "description": "MirBSD Acronyms Database",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

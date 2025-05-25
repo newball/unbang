@@ -1,0 +1,8 @@
+{
+  "bang": "kbb",
+  "domain": "https://www.kbb.com",
+  "url": "https://www.kbb.com/search/?source=homepage&query=%s",
+  "description": "Kelly Blue Book",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

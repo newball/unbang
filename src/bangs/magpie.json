@@ -1,0 +1,8 @@
+{
+  "bang": "magpie",
+  "domain": "https://store.musicmagpie.co.uk",
+  "url": "http://store.musicmagpie.co.uk/category/?keyword=%s",
+  "description": "MusicMagPie",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

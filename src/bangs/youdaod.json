@@ -1,0 +1,8 @@
+{
+  "bang": "youdaod",
+  "domain": "https://dict.youdao.com",
+  "url": "http://dict.youdao.com/search?q=%s",
+  "description": "有道词典",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

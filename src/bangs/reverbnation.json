@@ -1,0 +1,8 @@
+{
+  "bang": "reverbnation",
+  "domain": "https://www.reverbnation.com",
+  "url": "https://www.reverbnation.com/main/search?q=%s",
+  "description": "Reverb Nation",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "nps",
+  "domain": "https://www.nps.gov",
+  "url": "http://www.nps.gov/search/?affiliate=nps&query=%s",
+  "description": "National Park Service (USA)",
+  "category": "Research",
+  "sub-category": "Travel"
+}

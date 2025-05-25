@@ -1,0 +1,8 @@
+{
+  "bang": "cooksi",
+  "domain": "https://www.cooksillustrated.com",
+  "url": "http://www.cooksillustrated.com/search/results.asp?query=%s",
+  "description": "Cook's Illustrated",
+  "category": "Research",
+  "sub-category": "Food"
+}

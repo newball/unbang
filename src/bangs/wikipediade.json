@@ -1,0 +1,8 @@
+{
+  "bang": "wikipediade",
+  "domain": "https://de.wikipedia.org",
+  "url": "http://de.wikipedia.org/w/index.php?search=%s",
+  "description": "Wikipedia Deutschland",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

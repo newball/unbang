@@ -1,0 +1,8 @@
+{
+  "bang": "guardian",
+  "domain": "https://www.theguardian.com",
+  "url": "https://www.theguardian.com/%s",
+  "description": "The Guardian",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "dubizzle",
+  "domain": "https://dubai.dubizzle.com",
+  "url": "http://dubai.dubizzle.com/search/?keywords=%s&is_basic_search_widget=1&is_search=1",
+  "description": "dubizzle.com",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

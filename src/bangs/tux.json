@@ -1,0 +1,8 @@
+{
+  "bang": "tux",
+  "domain": "https://linuxinthebox.company",
+  "url": "http://linuxinthebox.company/?product_cat=&post_type=product&s=%s",
+  "description": "Linuxinthebox",
+  "category": "Tech",
+  "sub-category": "Startups"
+}

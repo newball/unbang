@@ -1,0 +1,8 @@
+{
+  "bang": "respawners",
+  "domain": "https://www.respawners.net",
+  "url": "https://www.respawners.net/search?query=%s",
+  "description": "Respawners",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

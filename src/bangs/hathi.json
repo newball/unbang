@@ -1,0 +1,8 @@
+{
+  "bang": "hathi",
+  "domain": "https://babel.hathitrust.org",
+  "url": "http://babel.hathitrust.org/cgi/ls?field1=ocr;q1=%s;a=srchls",
+  "description": "HathiTrust",
+  "category": "Research",
+  "sub-category": "Academic"
+}

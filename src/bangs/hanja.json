@@ -1,0 +1,8 @@
+{
+  "bang": "hanja",
+  "domain": "https://hanja.naver.com",
+  "url": "http://hanja.naver.com/search?query=%s",
+  "description": "Naver Hanja Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

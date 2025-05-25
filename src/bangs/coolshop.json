@@ -1,0 +1,8 @@
+{
+  "bang": "coolshop",
+  "domain": "https://www.coolshop.dk",
+  "url": "https://www.coolshop.dk/s/?q=%s",
+  "description": "Coolshop",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

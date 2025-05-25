@@ -1,0 +1,8 @@
+{
+  "bang": "boardgameprices",
+  "domain": "https://www.boardgameprices.com",
+  "url": "http://www.boardgameprices.com/compare-prices-for?q=%s",
+  "description": "BoardGamePrices",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

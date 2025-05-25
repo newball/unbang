@@ -1,0 +1,8 @@
+{
+  "bang": "moly",
+  "domain": "https://moly.hu",
+  "url": "http://moly.hu/kereses?q=%s",
+  "description": "Moly.hu",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

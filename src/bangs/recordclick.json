@@ -1,0 +1,8 @@
+{
+  "bang": "recordclick",
+  "domain": "https://recordclick.com",
+  "url": "http://recordclick.com/?s=%s&x=0&y=0",
+  "description": "RecordClick",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

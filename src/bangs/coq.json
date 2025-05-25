@@ -1,0 +1,8 @@
+{
+  "bang": "coq",
+  "domain": "https://coq.inria.fr",
+  "url": "https://coq.inria.fr/distrib/current/refman/search.html?q=%s",
+  "description": "Coq",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

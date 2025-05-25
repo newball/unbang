@@ -1,0 +1,8 @@
+{
+  "bang": "py",
+  "domain": "https://docs.python.org",
+  "url": "https://docs.python.org/3/search.html?q=%s",
+  "description": "Python",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

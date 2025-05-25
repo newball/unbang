@@ -1,0 +1,8 @@
+{
+  "bang": "soccerway",
+  "domain": "https://int.soccerway.com",
+  "url": "http://int.soccerway.com/search/?q=%s&module=all",
+  "description": "Soccerway",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

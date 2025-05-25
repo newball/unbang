@@ -1,0 +1,8 @@
+{
+  "bang": "npms",
+  "domain": "https://npmsearch.com",
+  "url": "http://npmsearch.com/?q=%s",
+  "description": "NPM Search",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "menards",
+  "domain": "https://www.menards.com",
+  "url": "https://www.menards.com/main/search.html?search=%s",
+  "description": "Menards",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

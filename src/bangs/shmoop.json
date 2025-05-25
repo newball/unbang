@@ -1,0 +1,8 @@
+{
+  "bang": "shmoop",
+  "domain": "https://www.shmoop.com",
+  "url": "http://www.shmoop.com/search?q=%s ",
+  "description": "Shmoop",
+  "category": "Research",
+  "sub-category": "Academic"
+}

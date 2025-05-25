@@ -1,0 +1,8 @@
+{
+  "bang": "ysports",
+  "domain": "https://search.yahoo.com",
+  "url": "https://search.yahoo.com/search?p=/%s",
+  "description": "Yahoo Sports",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

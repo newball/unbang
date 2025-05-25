@@ -1,0 +1,8 @@
+{
+  "bang": "agri",
+  "domain": "https://www.agrireseau.net",
+  "url": "https://www.agrireseau.net/documents?r=%s",
+  "description": "Agri-Réseau",
+  "category": "Research",
+  "sub-category": "Learning"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "tei",
+  "domain": "https://www.tei-c.org",
+  "url": "http://www.tei-c.org/?s=%s",
+  "description": "TEI",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

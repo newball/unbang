@@ -1,0 +1,8 @@
+{
+  "bang": "pcl",
+  "domain": "https://docs.pointclouds.org",
+  "url": "http://docs.pointclouds.org/trunk/search.php?query=%s",
+  "description": "PCL Documentation",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

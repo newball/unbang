@@ -1,0 +1,8 @@
+{
+  "bang": "sherwin",
+  "domain": "https://www.sherwin-williams.com",
+  "url": "https://www.sherwin-williams.com/SearchDisplay?categoryId=&storeId=10151&catalogId=11051&langId=-1&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=list&beginIndex=0&searchType=1000&pageSize=6&globalSearch=true&searchTerm=%s#facet:&productBeginIndex:0&contentBeginIndex:0&orderBy:&orderByContent:&pageView:list&minPrice:&maxPrice:&pageSize:&",
+  "description": "Sherwin-Williams",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

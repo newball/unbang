@@ -1,0 +1,8 @@
+{
+  "bang": "justwatchau",
+  "domain": "https://www.justwatch.com",
+  "url": "https://www.justwatch.com/au/search?q=%s",
+  "description": "JustWatch AU",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

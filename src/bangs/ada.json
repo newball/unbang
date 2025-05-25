@@ -1,0 +1,8 @@
+{
+  "bang": "ada",
+  "domain": "https://www.ada-auth.org",
+  "url": "http://www.ada-auth.org/search-rm05.cgi?SearchA=%s&SearchO=&SearchN=",
+  "description": "Ada 2005 Manual",
+  "category": "Research",
+  "sub-category": "Academic"
+}

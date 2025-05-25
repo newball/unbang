@@ -1,0 +1,8 @@
+{
+  "bang": "linesin",
+  "domain": "https://www.linguee.es",
+  "url": "http://www.linguee.es/espanol-ingles/search?source=auto&query=%s",
+  "description": "Linguee.es (ESP a ING)",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

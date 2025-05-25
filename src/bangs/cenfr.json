@@ -1,0 +1,8 @@
+{
+  "bang": "cenfr",
+  "domain": "https://www.collinsdictionary.com",
+  "url": "http://www.collinsdictionary.com/dictionary/english-french/%s",
+  "description": "Collins French Dictionary (to French)",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

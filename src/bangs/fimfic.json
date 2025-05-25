@@ -1,0 +1,8 @@
+{
+  "bang": "fimfic",
+  "domain": "https://www.fimfiction.net",
+  "url": "https://www.fimfiction.net/stories?q=%s",
+  "description": "FimFiction.net",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

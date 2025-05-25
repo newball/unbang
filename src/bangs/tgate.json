@@ -1,0 +1,8 @@
+{
+  "bang": "tgate",
+  "domain": "https://tolkiengateway.net",
+  "url": "http://tolkiengateway.net/wiki/Special:Search?search=%s&go=Go",
+  "description": "Tolkien Gateway",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

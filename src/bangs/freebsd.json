@@ -1,0 +1,8 @@
+{
+  "bang": "freebsd",
+  "domain": "https://www.freebsd.org",
+  "url": "https://www.freebsd.org/cgi/ports.cgi?query=%s",
+  "description": "FreeBSD Ports",
+  "category": "Tech",
+  "sub-category": "Sysadmin (FreeBSD)"
+}

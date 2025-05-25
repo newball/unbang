@@ -1,0 +1,8 @@
+{
+  "bang": "steamgl",
+  "domain": "https://steamcommunity.com",
+  "url": "https://steamcommunity.com/workshop/browse/?appid=765&searchtext=%s",
+  "description": "Steam Greenlight",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

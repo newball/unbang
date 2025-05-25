@@ -1,0 +1,8 @@
+{
+  "bang": "cfren",
+  "domain": "https://www.collinsdictionary.com",
+  "url": "http://www.collinsdictionary.com/dictionary/french-english/%s",
+  "description": "Collins French Dictionary (to English)",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

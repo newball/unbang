@@ -1,0 +1,8 @@
+{
+  "bang": "carjam",
+  "domain": "https://carjam.co.nz",
+  "url": "https://carjam.co.nz/car/?plate=%s",
+  "description": "CarJam",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

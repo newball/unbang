@@ -1,0 +1,8 @@
+{
+  "bang": "csu",
+  "domain": "https://checkshorturl.com",
+  "url": "http://checkshorturl.com/expand.php?u=%s",
+  "description": "CheckShortURL",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

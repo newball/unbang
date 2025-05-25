@@ -1,0 +1,8 @@
+{
+  "bang": "gtzh-TW",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/zh-TW/%s",
+  "description": "Detect language to traditional Chinese",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

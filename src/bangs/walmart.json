@@ -1,0 +1,8 @@
+{
+  "bang": "walmart",
+  "domain": "https://www.walmart.com",
+  "url": "https://www.walmart.com/search/?query=%s",
+  "description": "Walmart",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

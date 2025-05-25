@@ -1,0 +1,8 @@
+{
+  "bang": "go-search",
+  "domain": "https://go-search.org",
+  "url": "http://go-search.org/search?q=%s",
+  "description": "Go Search",
+  "category": "Tech",
+  "sub-category": "Languages (go)"
+}

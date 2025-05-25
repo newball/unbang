@@ -1,0 +1,8 @@
+{
+  "bang": "sitag",
+  "domain": "https://www.sitag.ch",
+  "url": "http://www.sitag.ch/suchen/?tx_indexedsearch%5Bsword%5D=%s",
+  "description": "SITAG - swiss style at work",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

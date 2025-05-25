@@ -1,0 +1,8 @@
+{
+  "bang": "sha256",
+  "domain": "https://cryptography.cc",
+  "url": "https://cryptography.cc/convert?text=%s&algorithm=sha256",
+  "description": "Cryptography.cc",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

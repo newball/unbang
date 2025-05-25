@@ -1,0 +1,8 @@
+{
+  "bang": "courttv",
+  "domain": "https://www.courttv.com",
+  "url": "https://www.courttv.com/?s=%s",
+  "description": "Court TV",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

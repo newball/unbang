@@ -1,0 +1,8 @@
+{
+  "bang": "iukb",
+  "domain": "https://kb.iu.edu",
+  "url": "https://kb.iu.edu/search?q=%s",
+  "description": "Indiana University Knowledge Base",
+  "category": "Research",
+  "sub-category": "Reference"
+}

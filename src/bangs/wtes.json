@@ -1,0 +1,8 @@
+{
+  "bang": "wtes",
+  "domain": "https://es.wiktionary.org",
+  "url": "https://es.wiktionary.org/w/index.php?search=%s&button=&title=Especial%3ABuscar",
+  "description": "Wikcionario",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

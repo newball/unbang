@@ -1,0 +1,8 @@
+{
+  "bang": "pth",
+  "domain": "https://www.planttherapy.com",
+  "url": "https://www.planttherapy.com/search?Store_Code=PT&q=%s",
+  "description": "Plant Therapy",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

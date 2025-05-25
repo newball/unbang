@@ -1,0 +1,8 @@
+{
+  "bang": "qmaps",
+  "domain": "https://www.qwant.com",
+  "url": "https://www.qwant.com/maps/?q=%s",
+  "description": "Qwant Maps",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

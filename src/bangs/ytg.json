@@ -1,0 +1,8 @@
+{
+  "bang": "ytg",
+  "domain": "https://gaming.youtube.com",
+  "url": "https://gaming.youtube.com/results?search_query=%s",
+  "description": "Youtube Gaming",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "fsh",
+  "domain": "https://wiki.foodsharing.de",
+  "url": "https://wiki.foodsharing.de/index.php?search=%s",
+  "description": "foodsharing.de",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

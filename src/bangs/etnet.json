@@ -1,0 +1,8 @@
+{
+  "bang": "etnet",
+  "domain": "https://etnet.com.hk",
+  "url": "http://etnet.com.hk/?q=%s",
+  "description": "ETNet 經濟通",
+  "category": "News",
+  "sub-category": "Business"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ghuser",
+  "domain": "https://github.com",
+  "url": "https://github.com/search?type=Users&q=%s",
+  "description": "GitHub",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

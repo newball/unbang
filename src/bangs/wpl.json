@@ -1,0 +1,8 @@
+{
+  "bang": "wpl",
+  "domain": "https://pl.wikipedia.org",
+  "url": "http://pl.wikipedia.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikipedia (PL)",
+  "category": "Research",
+  "sub-category": "Academic"
+}

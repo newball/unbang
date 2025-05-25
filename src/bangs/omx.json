@@ -1,0 +1,8 @@
+{
+  "bang": "omx",
+  "domain": "https://theomx.com",
+  "url": "https://theomx.com/companies?keyword%5D=%s",
+  "description": "OMX",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

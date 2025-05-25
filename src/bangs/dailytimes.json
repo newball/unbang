@@ -1,0 +1,8 @@
+{
+  "bang": "dailytimes",
+  "domain": "https://www.delcotimes.com",
+  "url": "http://www.delcotimes.com/search?text=%s",
+  "description": "Delaware County Daily Times",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

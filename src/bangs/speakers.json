@@ -1,0 +1,8 @@
+{
+  "bang": "speakers",
+  "domain": "https://www.speakersassociates.com",
+  "url": "https://www.speakersassociates.com/search?search_api_views_fulltext=%s",
+  "description": "Speakers Associates",
+  "category": "Research",
+  "sub-category": "Reference"
+}

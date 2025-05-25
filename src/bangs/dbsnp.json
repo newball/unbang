@@ -1,0 +1,8 @@
+{
+  "bang": "dbsnp",
+  "domain": "https://www.ncbi.nlm.nih.gov",
+  "url": "http://www.ncbi.nlm.nih.gov/snp?term=%s",
+  "description": "NCBI dbSNP",
+  "category": "Research",
+  "sub-category": "Health"
+}

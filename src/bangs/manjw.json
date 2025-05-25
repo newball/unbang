@@ -1,0 +1,8 @@
+{
+  "bang": "manjw",
+  "domain": "https://wiki.manjaro.org",
+  "url": "https://wiki.manjaro.org/index.php?search=%s",
+  "description": "Manjaro Wiki",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Arch)"
+}

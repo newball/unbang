@@ -1,0 +1,8 @@
+{
+  "bang": "sa",
+  "domain": "https://www.scientificamerican.com",
+  "url": "http://www.scientificamerican.com/search/?q=%s&x=-783&y=-180 ",
+  "description": "Scientific American",
+  "category": "News",
+  "sub-category": "Specialty"
+}

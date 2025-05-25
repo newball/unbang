@@ -1,0 +1,8 @@
+{
+  "bang": "adr",
+  "domain": "https://adrenaline.uol.com.br",
+  "url": "https://adrenaline.uol.com.br/site/pesquisa/%s",
+  "description": "Adrenaline",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

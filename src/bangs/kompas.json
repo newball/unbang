@@ -1,0 +1,8 @@
+{
+  "bang": "kompas",
+  "domain": "https://search.kompas.com",
+  "url": "https://search.kompas.com/search/?q=%s&submit=Submit+Query",
+  "description": "Kompas",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

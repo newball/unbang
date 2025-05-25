@@ -1,0 +1,8 @@
+{
+  "bang": "sys",
+  "domain": "https://www.eki.ee",
+  "url": "http://www.eki.ee/dict/sys/index.cgi?Q=%s&F=M&C06=en",
+  "description": "Sünonüümisõnastik",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

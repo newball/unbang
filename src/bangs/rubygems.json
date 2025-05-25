@@ -1,0 +1,8 @@
+{
+  "bang": "rubygems",
+  "domain": "https://rubygems.org",
+  "url": "http://rubygems.org/search?query=%s",
+  "description": "RubyGems",
+  "category": "Tech",
+  "sub-category": "Languages (ruby)"
+}

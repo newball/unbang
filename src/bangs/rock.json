@@ -1,0 +1,8 @@
+{
+  "bang": "rock",
+  "domain": "https://luarocks.org",
+  "url": "https://luarocks.org/search?q=%s",
+  "description": "LuaRocks",
+  "category": "Tech",
+  "sub-category": "Languages (lua)"
+}

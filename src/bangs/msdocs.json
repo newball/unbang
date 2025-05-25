@@ -1,0 +1,8 @@
+{
+  "bang": "msdocs",
+  "domain": "https://docs.microsoft.com",
+  "url": "https://docs.microsoft.com/en-us/search/index?search=%s",
+  "description": "Microsoft Docs",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

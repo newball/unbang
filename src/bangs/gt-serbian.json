@@ -1,0 +1,8 @@
+{
+  "bang": "gt-serbian",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/sr/%s",
+  "description": "Detect language to Serbian",
+  "category": "Translation",
+  "sub-category": "Google"
+}

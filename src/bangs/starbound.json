@@ -1,0 +1,8 @@
+{
+  "bang": "starbound",
+  "domain": "https://starbounder.org",
+  "url": "http://starbounder.org/mediawiki/index.php?title=Special%3ASearch&search=%s",
+  "description": "Starbound Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

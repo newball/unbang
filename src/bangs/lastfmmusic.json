@@ -1,0 +1,8 @@
+{
+  "bang": "lastfmmusic",
+  "domain": "https://www.last.fm",
+  "url": "https://www.last.fm/music/%s",
+  "description": "last.fm",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

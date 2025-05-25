@@ -1,0 +1,8 @@
+{
+  "bang": "datasheetarchive",
+  "domain": "https://www.datasheetarchive.com",
+  "url": "http://www.datasheetarchive.com/%s-datasheet.html",
+  "description": "Datasheet Archive",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

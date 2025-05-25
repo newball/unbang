@@ -1,0 +1,8 @@
+{
+  "bang": "scan",
+  "domain": "https://www.scan.co.uk",
+  "url": "http://www.scan.co.uk/search.aspx?q=%s",
+  "description": "Scan",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "cpu",
+  "domain": "https://www.cpugeek.co.uk",
+  "url": "https://www.cpugeek.co.uk/search?q=%s",
+  "description": "TheComputerGeek",
+  "category": "Tech",
+  "sub-category": "Blogs (intl)"
+}

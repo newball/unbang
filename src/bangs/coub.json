@@ -1,0 +1,8 @@
+{
+  "bang": "coub",
+  "domain": "https://coub.com",
+  "url": "http://coub.com/search?q=%s",
+  "description": "Coub",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

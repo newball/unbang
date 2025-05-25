@@ -1,0 +1,8 @@
+{
+  "bang": "gex",
+  "domain": "https://search.gexsi.com",
+  "url": "https://search.gexsi.com/en/search/?q=%s",
+  "description": "gexsi",
+  "category": "Online Services",
+  "sub-category": "Search (Private)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "vim",
+  "domain": "https://www.google.com",
+  "url": "https://www.google.com/cse?cx=partner-pub-3005259998294962%3Abvyni59kjr1&q=%s",
+  "description": "Vim.org",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

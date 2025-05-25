@@ -1,0 +1,8 @@
+{
+  "bang": "fsfd",
+  "domain": "https://directory.fsf.org",
+  "url": "http://directory.fsf.org/wiki?title=Special%3ASearch&search=%s&fulltext=Search",
+  "description": "Free Software Directory",
+  "category": "Tech",
+  "sub-category": "Downloads (code)"
+}

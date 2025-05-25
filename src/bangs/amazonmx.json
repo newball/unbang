@@ -1,0 +1,8 @@
+{
+  "bang": "amazonmx",
+  "domain": "https://www.amazon.com.mx",
+  "url": "https://www.amazon.com.mx/s?k=%s",
+  "description": "Amazon México",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

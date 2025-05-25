@@ -1,0 +1,8 @@
+{
+  "bang": "allocine",
+  "domain": "https://www.allocine.fr",
+  "url": "http://www.allocine.fr/recherche/?q=%s",
+  "description": "Allocine.com",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

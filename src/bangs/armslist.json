@@ -1,0 +1,8 @@
+{
+  "bang": "armslist",
+  "domain": "https://www.armslist.com",
+  "url": "https://www.armslist.com/classifieds/search?search=%s&location=usa&category=all&posttype=7&ships=",
+  "description": "ARMSLIST",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

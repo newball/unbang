@@ -1,0 +1,8 @@
+{
+  "bang": "owl",
+  "domain": "https://buscador.lechuza.org",
+  "url": "http://buscador.lechuza.org/resultados.php?texto=%s&xx=buscar",
+  "description": "http://www.lechuza.org/",
+  "category": "Research",
+  "sub-category": "Academic"
+}

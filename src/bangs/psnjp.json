@@ -1,0 +1,8 @@
+{
+  "bang": "psnjp",
+  "domain": "https://store.playstation.com",
+  "url": "https://store.playstation.com/ja-jp/search/%s",
+  "description": "Playstation Store JP",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

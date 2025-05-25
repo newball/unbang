@@ -1,0 +1,8 @@
+{
+  "bang": "gnm",
+  "domain": "https://www.google.com",
+  "url": "http://www.google.com/m/search?site=news&q=%s",
+  "description": "Google News (mobile)",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

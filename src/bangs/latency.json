@@ -1,0 +1,8 @@
+{
+  "bang": "latency",
+  "domain": "https://latency.apex.sh",
+  "url": "https://latency.apex.sh/?url=%s",
+  "description": "latency.apex.sh",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

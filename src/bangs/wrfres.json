@@ -1,0 +1,8 @@
+{
+  "bang": "wrfres",
+  "domain": "https://www.wordreference.com",
+  "url": "http://www.wordreference.com/fres/%s",
+  "description": "Wordreference",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "chambers",
+  "domain": "https://chambers.co.uk",
+  "url": "http://chambers.co.uk/search.php?query=%s&title=21st",
+  "description": "Chambers",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

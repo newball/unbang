@@ -1,0 +1,8 @@
+{
+  "bang": "r2r",
+  "domain": "https://www.rome2rio.com",
+  "url": "https://www.rome2rio.com/map/%s",
+  "description": "Rome2rio",
+  "category": "Research",
+  "sub-category": "Travel"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "rsc",
+  "domain": "https://uk.rs-online.com",
+  "url": "http://uk.rs-online.com/web/c/?searchTerm=%s",
+  "description": "RS Components",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "opensuse",
+  "domain": "https://en.opensuse.org",
+  "url": "http://en.opensuse.org/Special:Search?search=%s",
+  "description": "OpenSUSE",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

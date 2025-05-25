@@ -1,0 +1,8 @@
+{
+  "bang": "itv",
+  "domain": "https://www.itv.com",
+  "url": "https://www.itv.com/itvplayer/search/term/%s",
+  "description": "ITV",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

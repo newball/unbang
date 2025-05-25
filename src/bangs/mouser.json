@@ -1,0 +1,8 @@
+{
+  "bang": "mouser",
+  "domain": "https://www.mouser.com",
+  "url": "http://www.mouser.com/Search/Refine.aspx?Keyword=%s",
+  "description": "Mouser Electronics",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

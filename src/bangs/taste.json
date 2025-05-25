@@ -1,0 +1,8 @@
+{
+  "bang": "taste",
+  "domain": "https://www.taste.com.au",
+  "url": "http://www.taste.com.au/search-recipes/?q=%s",
+  "description": "Taste.com.au",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

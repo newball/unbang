@@ -1,0 +1,8 @@
+{
+  "bang": "housetrip",
+  "domain": "https://www.housetrip.com",
+  "url": "http://www.housetrip.com/en/search-holiday-apartments/%s?guests=2",
+  "description": "HouseTrip",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

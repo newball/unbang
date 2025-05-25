@@ -1,0 +1,8 @@
+{
+  "bang": "webtender",
+  "domain": "https://duckduckgo.com",
+  "url": "http://duckduckgo.com/?q=site%3Awebtender.com+%s",
+  "description": "Webtender",
+  "category": "Online Services",
+  "sub-category": "Search (DDG)"
+}

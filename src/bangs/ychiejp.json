@@ -1,0 +1,8 @@
+{
+  "bang": "ychiejp",
+  "domain": "https://chiebukuro.search.yahoo.co.jp",
+  "url": "http://chiebukuro.search.yahoo.co.jp/search?p=%s",
+  "description": "Yahoo! Japan Chiebukuro",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

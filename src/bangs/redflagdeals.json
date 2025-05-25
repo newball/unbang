@@ -1,0 +1,8 @@
+{
+  "bang": "redflagdeals",
+  "domain": "https://www.redflagdeals.com",
+  "url": "http://www.redflagdeals.com/search/?=%s",
+  "description": "Red Flag Deals",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

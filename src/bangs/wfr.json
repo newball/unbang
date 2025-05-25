@@ -1,0 +1,8 @@
+{
+  "bang": "wfr",
+  "domain": "https://fr.wikipedia.org",
+  "url": "http://fr.wikipedia.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikipedia (FR)",
+  "category": "Research",
+  "sub-category": "Academic"
+}

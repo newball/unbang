@@ -1,0 +1,8 @@
+{
+  "bang": "ut",
+  "domain": "https://www.utexas.edu",
+  "url": "https://www.utexas.edu/search/results?query=%s",
+  "description": "utexas.edu",
+  "category": "Research",
+  "sub-category": "Academic"
+}

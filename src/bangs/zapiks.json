@@ -1,0 +1,8 @@
+{
+  "bang": "zapiks",
+  "domain": "https://www.zapiks.fr",
+  "url": "http://www.zapiks.fr/search.php?action=search&search=%s ",
+  "description": "Zapiks",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "vcp",
+  "domain": "https://shop.vcp-san.at",
+  "url": "http://shop.vcp-san.at/index.php?main_page=advanced_search_result&search_in_description=1&keyword=%s",
+  "description": "VCP Sanitärfachhandel",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

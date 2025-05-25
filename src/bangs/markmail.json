@@ -1,0 +1,8 @@
+{
+  "bang": "markmail",
+  "domain": "https://markmail.org",
+  "url": "http://markmail.org/search/?q=%s",
+  "description": "MarkMail",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

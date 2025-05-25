@@ -1,0 +1,8 @@
+{
+  "bang": "ytc",
+  "domain": "https://www.youtube.com",
+  "url": "https://www.youtube.com/user/%s",
+  "description": "Youtube Channel",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

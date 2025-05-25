@@ -1,0 +1,8 @@
+{
+  "bang": "opensusesoftware",
+  "domain": "https://software.opensuse.org",
+  "url": "http://software.opensuse.org/search?q=%s",
+  "description": "OpenSUSE Software Search",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

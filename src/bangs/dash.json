@@ -1,0 +1,8 @@
+{
+  "bang": "dash",
+  "domain": "https://dash.harvard.edu",
+  "url": "http://dash.harvard.edu/search?scope=%2F&query=%s&rpp=10&sort_by=0&order=DESC",
+  "description": "Digital Access to Scholarship at Harvard",
+  "category": "Research",
+  "sub-category": "Academic"
+}

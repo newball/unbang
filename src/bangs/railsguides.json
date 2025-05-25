@@ -1,0 +1,8 @@
+{
+  "bang": "railsguides",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s+site%3Aguides.rubyonrails.org",
+  "description": "Ruby on Rails Guides",
+  "category": "Tech",
+  "sub-category": "Languages (ruby)"
+}

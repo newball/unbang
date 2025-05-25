@@ -1,0 +1,8 @@
+{
+  "bang": "s6all",
+  "domain": "https://society6.com",
+  "url": "http://society6.com/search/?q=%s",
+  "description": "Society6 (all content)",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

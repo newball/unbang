@@ -1,0 +1,8 @@
+{
+  "bang": "duckgoes",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s&kp=-1&k5=1&kah=wt-wt&kl=xl-es&kad=es_ES",
+  "description": "Duck Duck Go Español",
+  "category": "Online Services",
+  "sub-category": "Search (DDG)"
+}

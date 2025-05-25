@@ -1,0 +1,8 @@
+{
+  "bang": "walkscore",
+  "domain": "https://www.walkscore.com",
+  "url": "http://www.walkscore.com/score/%s",
+  "description": "Walk Score",
+  "category": "Research",
+  "sub-category": "Real Estate"
+}

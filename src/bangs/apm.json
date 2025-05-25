@@ -1,0 +1,8 @@
+{
+  "bang": "apm",
+  "domain": "https://atom.io",
+  "url": "https://atom.io/packages/search?q=%s",
+  "description": "Atom Packages",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

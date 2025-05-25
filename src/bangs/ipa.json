@@ -1,0 +1,8 @@
+{
+  "bang": "ipa",
+  "domain": "https://en.wikipedia.org",
+  "url": "https://en.wikipedia.org/wiki/Help:IPA/%s",
+  "description": "Wikipedia IPA guide",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "fbs",
+  "domain": "https://www.fbschedules.com",
+  "url": "http://www.fbschedules.com/search.php?q=%s",
+  "description": "FBSchedules",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

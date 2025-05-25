@@ -1,0 +1,8 @@
+{
+  "bang": "flexjobs",
+  "domain": "https://www.flexjobs.com",
+  "url": "https://www.flexjobs.com/search?search=%s&Location=",
+  "description": "Flexjobs",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

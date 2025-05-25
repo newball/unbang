@@ -1,0 +1,8 @@
+{
+  "bang": "tekmag",
+  "domain": "https://www.teknikmagasinet.se",
+  "url": "http://www.teknikmagasinet.se/sokresultat?CMS_SearchString=%s",
+  "description": "Teknikmagasinet",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

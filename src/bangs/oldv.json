@@ -1,0 +1,8 @@
+{
+  "bang": "oldv",
+  "domain": "https://www.oldversion.com",
+  "url": "http://www.oldversion.com/search?query=%s",
+  "description": "OldVersion.com",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ytl",
+  "domain": "https://www.youtube.com",
+  "url": "https://www.youtube.com/results?search_type=videos&search_query=%s&search_duration=long&uni=3",
+  "description": "YouTube - long",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

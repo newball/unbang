@@ -1,0 +1,8 @@
+{
+  "bang": "dcwiki",
+  "domain": "https://dc.wikia.com",
+  "url": "http://dc.wikia.com/wiki/Special:Search?search=%s",
+  "description": "DC Wiki",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

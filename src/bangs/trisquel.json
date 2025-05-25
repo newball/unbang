@@ -1,0 +1,8 @@
+{
+  "bang": "trisquel",
+  "domain": "https://trisquel.info",
+  "url": "http://trisquel.info/en/search/node/%s & https://trisquel.info/en/search/node/%s",
+  "description": "Trisquel",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

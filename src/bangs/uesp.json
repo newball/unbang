@@ -1,0 +1,8 @@
+{
+  "bang": "uesp",
+  "domain": "https://en.uesp.net",
+  "url": "http://en.uesp.net/w/index.php?title=Special%3ASearch&profile=default&search=%s&fulltext=Search",
+  "description": "The Unofficial Elder Scrolls Pages",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

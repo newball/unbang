@@ -1,0 +1,8 @@
+{
+  "bang": "fri",
+  "domain": "https://www.franceinter.fr",
+  "url": "https://www.franceinter.fr/recherche?q=%s",
+  "description": "France Inter",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

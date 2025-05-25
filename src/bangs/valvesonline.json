@@ -1,0 +1,8 @@
+{
+  "bang": "valvesonline",
+  "domain": "https://www.valvesonline.co.uk",
+  "url": "https://www.valvesonline.co.uk/catalogsearch/result/?q=%s",
+  "description": "Valves Online",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

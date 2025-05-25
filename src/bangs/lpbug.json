@@ -1,0 +1,8 @@
+{
+  "bang": "lpbug",
+  "domain": "https://bugs.launchpad.net",
+  "url": "https://bugs.launchpad.net/bugs/+bugs?field.searchtext=%s",
+  "description": "Launchpad Bugs",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

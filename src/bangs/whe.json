@@ -1,0 +1,8 @@
+{
+  "bang": "whe",
+  "domain": "https://he.wikipedia.org",
+  "url": "https://he.wikipedia.org/w/index.php?search=%s",
+  "description": "Wikipedia (HE)",
+  "category": "Research",
+  "sub-category": "Learning"
+}

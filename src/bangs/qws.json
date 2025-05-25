@@ -1,0 +1,8 @@
+{
+  "bang": "qws",
+  "domain": "https://www.qwant.com",
+  "url": "https://www.qwant.com/?q=%s&t=social",
+  "description": "Qwant Social",
+  "category": "Online Services",
+  "sub-category": "Social (intl)"
+}

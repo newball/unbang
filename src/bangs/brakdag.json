@@ -1,0 +1,8 @@
+{
+  "bang": "brakdag",
+  "domain": "https://brakdag.nl",
+  "url": "https://brakdag.nl/?s=%s",
+  "description": "Brakdag",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

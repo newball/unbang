@@ -1,0 +1,8 @@
+{
+  "bang": "po",
+  "domain": "https://prensaobrera.com",
+  "url": "https://prensaobrera.com/buscar?q=%s",
+  "description": "Prensa Obrera",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

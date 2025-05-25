@@ -1,0 +1,8 @@
+{
+  "bang": "illumos",
+  "domain": "https://illumos.org",
+  "url": "http://illumos.org/man/%s",
+  "description": "illumos man",
+  "category": "Tech",
+  "sub-category": "Sysadmin (man)"
+}

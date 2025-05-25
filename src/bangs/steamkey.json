@@ -1,0 +1,8 @@
+{
+  "bang": "steamkey",
+  "domain": "https://store.steampowered.com",
+  "url": "https://store.steampowered.com/account/registerkey?key=%s",
+  "description": "Steam Key Redemption",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

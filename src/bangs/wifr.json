@@ -1,0 +1,8 @@
+{
+  "bang": "wifr",
+  "domain": "https://fr.wiktionary.org",
+  "url": "https://fr.wiktionary.org/wiki/%s",
+  "description": "Wiktionary (Français)",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

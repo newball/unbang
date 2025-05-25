@@ -1,0 +1,8 @@
+{
+  "bang": "nds",
+  "domain": "https://www.nachdenkseiten.de",
+  "url": "http://www.nachdenkseiten.de/?s=%s",
+  "description": "Nachdenkseiten",
+  "category": "News",
+  "sub-category": "Specialty"
+}

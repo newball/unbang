@@ -1,0 +1,8 @@
+{
+  "bang": "oxbib",
+  "domain": "https://www.oxfordbibliographies.com",
+  "url": "http://www.oxfordbibliographies.com/search?q=%s",
+  "description": "Oxford Bibliographies",
+  "category": "Research",
+  "sub-category": "Academic"
+}

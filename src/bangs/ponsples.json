@@ -1,0 +1,8 @@
+{
+  "bang": "ponsples",
+  "domain": "https://pl.pons.com",
+  "url": "https://pl.pons.com/t%C5%82umaczenie?q=%s&l=espl&in=&lf=es",
+  "description": "Pons Polish->Spanish",
+  "category": "Translation",
+  "sub-category": "General"
+}

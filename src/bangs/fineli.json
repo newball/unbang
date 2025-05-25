@@ -1,0 +1,8 @@
+{
+  "bang": "fineli",
+  "domain": "https://fineli.fi",
+  "url": "https://fineli.fi/fineli/fi/elintarvikkeet?q=%s",
+  "description": "Fineli",
+  "category": "Research",
+  "sub-category": "Food"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "xf",
+  "domain": "https://forum.xojo.com",
+  "url": "https://forum.xojo.com/conversations/all?search=%s",
+  "description": "Xojo Forums",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

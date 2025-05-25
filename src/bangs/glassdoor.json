@@ -1,0 +1,8 @@
+{
+  "bang": "glassdoor",
+  "domain": "https://www.glassdoor.com",
+  "url": "https://www.glassdoor.com/Job/jobs.htm?sc.keyword=%s",
+  "description": "Glassdoor",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

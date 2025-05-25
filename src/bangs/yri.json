@@ -1,0 +1,8 @@
+{
+  "bang": "yri",
+  "domain": "https://yandex.com",
+  "url": "https://yandex.com/images/search?source=collections&&url=%s&rpt=imageview",
+  "description": "Yandex",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

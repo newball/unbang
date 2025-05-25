@@ -1,0 +1,8 @@
+{
+  "bang": "nifs",
+  "domain": "https://www.niferry.co.uk",
+  "url": "https://www.niferry.co.uk/?s=%s",
+  "description": "NI Ferry Site",
+  "category": "News",
+  "sub-category": "Specialty"
+}

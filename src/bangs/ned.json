@@ -1,0 +1,8 @@
+{
+  "bang": "ned",
+  "domain": "https://ned.ipac.caltech.edu",
+  "url": "http://ned.ipac.caltech.edu/cgi-bin/objsearch?objname=%s",
+  "description": "NASA Extragalactic Database",
+  "category": "Research",
+  "sub-category": "Academic"
+}

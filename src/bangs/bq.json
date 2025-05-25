@@ -1,0 +1,8 @@
+{
+  "bang": "bq",
+  "domain": "https://www.bloombergquint.com",
+  "url": "https://www.bloombergquint.com/search?q=%s",
+  "description": "BloombergQuint",
+  "category": "News",
+  "sub-category": "Business"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "opendns",
+  "domain": "https://www.opendns.com",
+  "url": "http://www.opendns.com/search/?s=%s",
+  "description": "OpenDNS",
+  "category": "Tech",
+  "sub-category": "Sysadmin (network)"
+}

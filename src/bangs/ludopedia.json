@@ -1,0 +1,8 @@
+{
+  "bang": "ludopedia",
+  "domain": "https://ludopedia.com.br",
+  "url": "http://ludopedia.com.br/search?search=%s",
+  "description": "Ludopedia",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

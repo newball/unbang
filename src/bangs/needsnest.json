@@ -1,0 +1,8 @@
+{
+  "bang": "needsnest",
+  "domain": "https://www.needsnest.com",
+  "url": "https://www.needsnest.com/search/?search_keywords=%s",
+  "description": "Needs Nest",
+  "category": "Research",
+  "sub-category": "Health"
+}

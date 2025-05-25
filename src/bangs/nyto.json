@@ -1,0 +1,8 @@
+{
+  "bang": "nyto",
+  "domain": "https://www.nytimes3xbfgragh.onion",
+  "url": "https://www.nytimes3xbfgragh.onion/search?query=%s",
+  "description": "The New York Times Onion Service",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

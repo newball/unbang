@@ -1,0 +1,8 @@
+{
+  "bang": "yopi",
+  "domain": "https://www.yopi.de",
+  "url": "http://www.yopi.de/search?search_str=%s",
+  "description": "Yopi Tests und Preise",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

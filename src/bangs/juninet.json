@@ -1,0 +1,8 @@
+{
+  "bang": "juninet",
+  "domain": "https://www.juniper.net",
+  "url": "https://www.juniper.net/search/gsa/?keyword=%s",
+  "description": "Juniper networks",
+  "category": "Tech",
+  "sub-category": "Sysadmin (network)"
+}

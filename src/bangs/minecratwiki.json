@@ -1,0 +1,8 @@
+{
+  "bang": "minecratwiki",
+  "domain": "https://minecraft.wiki",
+  "url": "http://minecraft.wiki?search=%s",
+  "description": "Minecraft Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (Minecraft)"
+}

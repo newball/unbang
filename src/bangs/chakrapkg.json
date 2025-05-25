@@ -1,0 +1,8 @@
+{
+  "bang": "chakrapkg",
+  "domain": "https://www.chakraos.org",
+  "url": "http://www.chakraos.org/packages/index.php?act=search&subdir=&sortby=date&order=descending&searchpattern=%s",
+  "description": "The Chakra Project Packages",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

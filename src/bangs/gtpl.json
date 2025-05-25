@@ -1,0 +1,8 @@
+{
+  "bang": "gtpl",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/pl/%s",
+  "description": "Detect language to Polish",
+  "category": "Translation",
+  "sub-category": "Google"
+}

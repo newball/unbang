@@ -1,0 +1,8 @@
+{
+  "bang": "trashwiki",
+  "domain": "https://trashwiki.org",
+  "url": "http://trashwiki.org/w/index.php?search=%s&title=Special:Search",
+  "description": "TrashWiki",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

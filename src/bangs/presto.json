@@ -1,0 +1,8 @@
+{
+  "bang": "presto",
+  "domain": "https://www.prestoclassical.co.uk",
+  "url": "http://www.prestoclassical.co.uk/search.php?searchString=%s",
+  "description": "Presto Classical",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

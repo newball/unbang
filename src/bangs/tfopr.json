@@ -1,0 +1,8 @@
+{
+  "bang": "tfopr",
+  "domain": "https://www.terraform.io",
+  "url": "https://www.terraform.io/docs/providers/openstack/r/%s.html",
+  "description": "Terraform Openstack Resource Docs",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

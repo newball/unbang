@@ -1,0 +1,8 @@
+{
+  "bang": "quora",
+  "domain": "https://www.quora.com",
+  "url": "http://www.quora.com/search?q=%s&context_type=&context_id=",
+  "description": "Quora",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

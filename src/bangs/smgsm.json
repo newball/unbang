@@ -1,0 +1,8 @@
+{
+  "bang": "smgsm",
+  "domain": "https://www.smogon.com",
+  "url": "http://www.smogon.com/dex/sm/pokemon/%s",
+  "description": "Smogon Dex Sun and Moon",
+  "category": "Entertainment",
+  "sub-category": "Games (Pokemon)"
+}

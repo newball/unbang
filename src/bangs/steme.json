@@ -1,0 +1,8 @@
+{
+  "bang": "steme",
+  "domain": "https://store.steampowered.com",
+  "url": "https://store.steampowered.com/search/?term=%s",
+  "description": "Steam",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

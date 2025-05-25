@@ -1,0 +1,8 @@
+{
+  "bang": "job",
+  "domain": "https://job.am",
+  "url": "https://job.am/hy/jobs?q=%s",
+  "description": "Job.am",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

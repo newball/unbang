@@ -1,0 +1,8 @@
+{
+  "bang": "green",
+  "domain": "https://www.greentech-news.org",
+  "url": "https://www.greentech-news.org/?s=%s",
+  "description": "https://www.greentech-news.org/",
+  "category": "News",
+  "sub-category": "Business"
+}

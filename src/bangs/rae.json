@@ -1,0 +1,8 @@
+{
+  "bang": "rae",
+  "domain": "https://dle.rae.es",
+  "url": "https://dle.rae.es/?w=%s",
+  "description": "RAE",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

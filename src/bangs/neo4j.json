@@ -1,0 +1,8 @@
+{
+  "bang": "neo4j",
+  "domain": "https://neo4j.com",
+  "url": "https://neo4j.com/?s=%s",
+  "description": "Neo4j",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

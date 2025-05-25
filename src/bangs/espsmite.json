@@ -1,0 +1,8 @@
+{
+  "bang": "espsmite",
+  "domain": "https://smite.esportspedia.com",
+  "url": "http://smite.esportspedia.com/w/index.php?search=%s",
+  "description": "SMITE Esportspedia",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

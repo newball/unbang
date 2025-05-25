@@ -1,0 +1,8 @@
+{
+  "bang": "ixl",
+  "domain": "https://ca.ixl.com",
+  "url": "https://ca.ixl.com/search?q=%s",
+  "description": "IXL",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

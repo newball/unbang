@@ -1,0 +1,8 @@
+{
+  "bang": "zeit",
+  "domain": "https://www.zeit.de",
+  "url": "http://www.zeit.de/suche/index?q=%s",
+  "description": "Zeit Online",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

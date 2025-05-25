@@ -1,0 +1,8 @@
+{
+  "bang": "sreddit",
+  "domain": "https://reddit.com",
+  "url": "http://reddit.com/r/%s",
+  "description": "Subreddit",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

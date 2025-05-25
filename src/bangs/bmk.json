@@ -1,0 +1,8 @@
+{
+  "bang": "bmk",
+  "domain": "https://blendermarket.com",
+  "url": "https://blendermarket.com/search?q=%s",
+  "description": "blendermarket.com",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

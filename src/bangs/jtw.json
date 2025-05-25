@@ -1,0 +1,8 @@
+{
+  "bang": "jtw",
+  "domain": "https://www.just-the-word.com",
+  "url": "http://www.just-the-word.com/api/combinations?word=%s",
+  "description": "Just The Word",
+  "category": "Research",
+  "sub-category": "Learning"
+}

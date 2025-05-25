@@ -1,0 +1,8 @@
+{
+  "bang": "bgs",
+  "domain": "https://www.boardgamesearch.com.au",
+  "url": "http://www.boardgamesearch.com.au/#!/search/%s",
+  "description": "Board Game Search (Australia)",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

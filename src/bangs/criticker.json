@@ -1,0 +1,8 @@
+{
+  "bang": "criticker",
+  "domain": "https://www.criticker.com",
+  "url": "https://www.criticker.com/?search=%s&type=films",
+  "description": "Criticker",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

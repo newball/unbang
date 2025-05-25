@@ -1,0 +1,8 @@
+{
+  "bang": "gnb",
+  "domain": "https://www.bibleserver.com",
+  "url": "https://www.bibleserver.com/search/GNB/%s/1",
+  "description": "Bibleserver Gute Nachricht Bibel",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

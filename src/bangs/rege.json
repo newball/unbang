@@ -1,0 +1,8 @@
+{
+  "bang": "rege",
+  "domain": "https://dictionary.reverso.net",
+  "url": "http://dictionary.reverso.net/german-definition/%s",
+  "description": "Reverso German - Definition",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

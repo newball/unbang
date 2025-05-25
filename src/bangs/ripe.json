@@ -1,0 +1,8 @@
+{
+  "bang": "ripe",
+  "domain": "https://stat.ripe.net",
+  "url": "https://stat.ripe.net/%s",
+  "description": "RIPEstat - Internet Measurments and Analysis",
+  "category": "Tech",
+  "sub-category": "Sysadmin (network)"
+}

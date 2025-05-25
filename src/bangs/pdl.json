@@ -1,0 +1,8 @@
+{
+  "bang": "pdl",
+  "domain": "https://www.placedeslibraires.fr",
+  "url": "https://www.placedeslibraires.fr/listeliv.php?mots_recherche=%s&base=allbooks",
+  "description": "Place des Libraires",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

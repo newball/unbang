@@ -1,0 +1,8 @@
+{
+  "bang": "pkgs",
+  "domain": "https://pkgs.org",
+  "url": "http://pkgs.org/search/?keyword=%s",
+  "description": "Linux Packages Search",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "critique",
+  "domain": "https://critiquebrainz.org",
+  "url": "https://critiquebrainz.org/search/?query=%s&type=artist",
+  "description": "CritiqueBrainz",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

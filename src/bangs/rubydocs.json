@@ -1,0 +1,8 @@
+{
+  "bang": "rubydocs",
+  "domain": "https://rubydocs.org",
+  "url": "https://rubydocs.org/d/ruby-latest/?q=%s",
+  "description": "RubyDocs",
+  "category": "Tech",
+  "sub-category": "Languages (ruby)"
+}

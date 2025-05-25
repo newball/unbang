@@ -1,0 +1,8 @@
+{
+  "bang": "armorgames",
+  "domain": "https://armorgames.com",
+  "url": "http://armorgames.com/search/games?type=games&q=%s",
+  "description": "armorgames",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

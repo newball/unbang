@@ -1,0 +1,8 @@
+{
+  "bang": "datev",
+  "domain": "https://www.datev.de",
+  "url": "https://www.datev.de/web/de/suche/?query=%s",
+  "description": "DATEV",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

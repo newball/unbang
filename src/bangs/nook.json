@@ -1,0 +1,8 @@
+{
+  "bang": "nook",
+  "domain": "https://nookipedia.com",
+  "url": "http://nookipedia.com/w/index.php?title=Special%3ASearch&search=%s",
+  "description": "Nookipedia",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

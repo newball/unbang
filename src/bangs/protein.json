@@ -1,0 +1,8 @@
+{
+  "bang": "protein",
+  "domain": "https://www.ncbi.nlm.nih.gov",
+  "url": "https://www.ncbi.nlm.nih.gov/protein/?term=%s",
+  "description": "NCBI Protein",
+  "category": "Research",
+  "sub-category": "Academic (biology)"
+}

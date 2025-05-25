@@ -1,0 +1,8 @@
+{
+  "bang": "toppreise",
+  "domain": "https://www.toppreise.ch",
+  "url": "http://www.toppreise.ch/index.php?search=%s&res=OK",
+  "description": "Toppreise.ch",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

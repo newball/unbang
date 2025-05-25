@@ -1,0 +1,8 @@
+{
+  "bang": "selfhtml",
+  "domain": "https://de.selfhtml.org",
+  "url": "http://de.selfhtml.org/navigation/suche/index.htm?Suchanfrage=%s",
+  "description": "SELFHTML",
+  "category": "Tech",
+  "sub-category": "Languages (html)"
+}

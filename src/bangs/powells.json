@@ -1,0 +1,8 @@
+{
+  "bang": "powells",
+  "domain": "https://www.powells.com",
+  "url": "https://www.powells.com/searchresults?keyword= %s",
+  "description": "Powells",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

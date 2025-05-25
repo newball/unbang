@@ -1,0 +1,8 @@
+{
+  "bang": "wim",
+  "domain": "https://commons.wikimedia.org",
+  "url": "http://commons.wikimedia.org/w/index.php?search=%s",
+  "description": "Wikimedia Commons",
+  "category": "Research",
+  "sub-category": "Academic"
+}

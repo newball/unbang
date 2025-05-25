@@ -1,0 +1,8 @@
+{
+  "bang": "xenoblade",
+  "domain": "https://xenoblade.wikia.com",
+  "url": "http://xenoblade.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Xenoblade Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

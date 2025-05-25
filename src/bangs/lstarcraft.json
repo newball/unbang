@@ -1,0 +1,8 @@
+{
+  "bang": "lstarcraft",
+  "domain": "https://liquipedia.net",
+  "url": "https://liquipedia.net/starcraft2/index.php?search=%s",
+  "description": "Liquipedia Starcraft 2",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

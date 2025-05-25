@@ -1,0 +1,8 @@
+{
+  "bang": "tasteline",
+  "domain": "https://www.tasteline.com",
+  "url": "http://www.tasteline.com/ReceptSok/%s",
+  "description": "Tasteline",
+  "category": "Research",
+  "sub-category": "Food"
+}

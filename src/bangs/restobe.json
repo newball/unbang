@@ -1,0 +1,8 @@
+{
+  "bang": "restobe",
+  "domain": "https://en.resto.be",
+  "url": "http://en.resto.be/business/search?searchbox=true&businessTypeId=1&fullText=%s",
+  "description": "RestoBE",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

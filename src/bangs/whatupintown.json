@@ -1,0 +1,8 @@
+{
+  "bang": "whatupintown",
+  "domain": "https://whatupintown.com",
+  "url": "https://whatupintown.com/search/?q=%s",
+  "description": "What up in town",
+  "category": "Entertainment",
+  "sub-category": "Events"
+}

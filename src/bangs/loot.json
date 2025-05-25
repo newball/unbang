@@ -1,0 +1,8 @@
+{
+  "bang": "loot",
+  "domain": "https://www.loot.co.za",
+  "url": "http://www.loot.co.za/search?cat=b&terms=%s",
+  "description": "Loot.co.za",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

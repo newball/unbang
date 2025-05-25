@@ -1,0 +1,8 @@
+{
+  "bang": "c2csummit",
+  "domain": "https://www.camptocamp.org",
+  "url": "http://www.camptocamp.org/documents/search?type=summits&q=%s",
+  "description": "Camp to Camp",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

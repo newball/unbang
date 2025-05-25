@@ -1,0 +1,8 @@
+{
+  "bang": "papps",
+  "domain": "https://portableapps.com",
+  "url": "http://portableapps.com/search/node/%s%20type%3Aapp",
+  "description": "PortableApps.com",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

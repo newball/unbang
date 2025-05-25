@@ -1,0 +1,8 @@
+{
+  "bang": "figuya",
+  "domain": "https://figuya.com",
+  "url": "https://figuya.com/en/products?q[query]=%s",
+  "description": "Figuya",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "termium",
+  "domain": "https://www.btb.termiumplus.gc.ca",
+  "url": "http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?srchtxt=%s",
+  "description": "TERMIUM Plus",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

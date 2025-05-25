@@ -1,0 +1,8 @@
+{
+  "bang": "ecoshopper",
+  "domain": "https://www.ecoshopper.de",
+  "url": "http://www.ecoshopper.de/ecoshopper2/faces/SuchErgebnis.jsp?query=%s&brancheDropDown=alle&preisspanneDropDown=0&_charset_=UTF-8&suchen=Suchen&searchrange=namen",
+  "description": "ecoshopper.de",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

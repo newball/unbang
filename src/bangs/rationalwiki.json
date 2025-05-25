@@ -1,0 +1,8 @@
+{
+  "bang": "rationalwiki",
+  "domain": "https://rationalwiki.org",
+  "url": "http://rationalwiki.org/w/index.php?search=%s&button=&title=Special:Search&go=Go",
+  "description": "RationalWiki",
+  "category": "Research",
+  "sub-category": "Reference"
+}

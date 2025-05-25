@@ -1,0 +1,8 @@
+{
+  "bang": "indiabookstore",
+  "domain": "https://www.indiabookstore.net",
+  "url": "https://www.indiabookstore.net/search?q=%s",
+  "description": "IndiaBookStore",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

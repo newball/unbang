@@ -1,0 +1,8 @@
+{
+  "bang": "mdtz",
+  "domain": "https://www.mediatize.info",
+  "url": "https://www.mediatize.info/search?q=%s",
+  "description": "Mediatize",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

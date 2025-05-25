@@ -1,0 +1,8 @@
+{
+  "bang": "ncsulib",
+  "domain": "https://search.lib.ncsu.edu",
+  "url": "http://search.lib.ncsu.edu/?q=%s",
+  "description": "NCSU Libraries",
+  "category": "Research",
+  "sub-category": "Academic"
+}

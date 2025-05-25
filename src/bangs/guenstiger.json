@@ -1,0 +1,8 @@
+{
+  "bang": "guenstiger",
+  "domain": "https://www.guenstiger.de",
+  "url": "http://www.guenstiger.de/Katalog/Preis.pl?suche=%s",
+  "description": "Günstiger.de",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

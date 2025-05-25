@@ -1,0 +1,8 @@
+{
+  "bang": "amusic",
+  "domain": "https://music.amazon.com",
+  "url": "https://music.amazon.com/search/%s",
+  "description": "Amazon Music",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

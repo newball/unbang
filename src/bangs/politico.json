@@ -1,0 +1,8 @@
+{
+  "bang": "politico",
+  "domain": "https://www.politico.com",
+  "url": "http://www.politico.com/search?q=%s",
+  "description": "Politico",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

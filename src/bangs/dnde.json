@@ -1,0 +1,8 @@
+{
+  "bang": "dnde",
+  "domain": "https://dict-navi.com",
+  "url": "http://dict-navi.com/de/dictionary/list/?type=search&search_term=%s",
+  "description": "Dict-Na'vi.com",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

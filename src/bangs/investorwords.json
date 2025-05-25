@@ -1,0 +1,8 @@
+{
+  "bang": "investorwords",
+  "domain": "https://www.investorwords.com",
+  "url": "http://www.investorwords.com/search_cse.php?q=%s",
+  "description": "Investor Words",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

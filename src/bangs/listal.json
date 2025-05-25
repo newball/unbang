@@ -1,0 +1,8 @@
+{
+  "bang": "listal",
+  "domain": "https://www.listal.com",
+  "url": "http://www.listal.com/search/%s",
+  "description": "Listal",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

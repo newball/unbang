@@ -1,0 +1,8 @@
+{
+  "bang": "ib",
+  "domain": "https://www.indiebound.org",
+  "url": "https://www.indiebound.org/search/book?keys=%s",
+  "description": "Indiebound.org",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

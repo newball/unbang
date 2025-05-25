@@ -1,0 +1,8 @@
+{
+  "bang": "ghr",
+  "domain": "https://github.com",
+  "url": "https://github.com/%s",
+  "description": "Github",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

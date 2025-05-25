@@ -1,0 +1,8 @@
+{
+  "bang": "yay",
+  "domain": "https://www.yay.bg",
+  "url": "https://www.yay.bg/index.php?route=product/search&search=%s",
+  "description": "YAY.BG",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "startrek",
+  "domain": "https://memory-alpha.wikia.com",
+  "url": "http://memory-alpha.wikia.com/wiki/Special:Search?search=%s&fulltext=Search&resultsLang=en",
+  "description": "Memory Alpha",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

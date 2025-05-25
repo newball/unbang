@@ -1,0 +1,8 @@
+{
+  "bang": "wtnl",
+  "domain": "https://nl.wiktionary.org",
+  "url": "https://nl.wiktionary.org/w/index.php?search=%s",
+  "description": "WikiWoordenboek",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

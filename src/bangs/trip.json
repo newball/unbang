@@ -1,0 +1,8 @@
+{
+  "bang": "trip",
+  "domain": "https://www.tripdatabase.com",
+  "url": "http://www.tripdatabase.com/search?criteria=%s",
+  "description": "Trip Database",
+  "category": "Research",
+  "sub-category": "Health"
+}

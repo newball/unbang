@@ -1,0 +1,8 @@
+{
+  "bang": "justwatchuk",
+  "domain": "https://www.justwatch.com",
+  "url": "https://www.justwatch.com/uk/search?q=%s",
+  "description": "JustWatch UK",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

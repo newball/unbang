@@ -1,0 +1,8 @@
+{
+  "bang": "bugguide",
+  "domain": "https://bugguide.net",
+  "url": "http://bugguide.net/index.php?q=search&keys=%s",
+  "description": "Bug Guide",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "travis",
+  "domain": "https://travis-ci.org",
+  "url": "https://travis-ci.org/search/%s",
+  "description": "Travis CI",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

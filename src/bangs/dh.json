@@ -1,0 +1,8 @@
+{
+  "bang": "dh",
+  "domain": "https://hub.docker.com",
+  "url": "https://hub.docker.com/search/?q=%s&page=1&isAutomated=0&isOfficial=0&starCount=0&pullCount=0",
+  "description": "Docker Hub",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

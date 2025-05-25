@@ -1,0 +1,8 @@
+{
+  "bang": "conservapedia",
+  "domain": "https://www.conservapedia.com",
+  "url": "http://www.conservapedia.com/index.php?search=%s",
+  "description": "Conservapedia",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

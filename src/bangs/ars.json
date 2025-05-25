@@ -1,0 +1,8 @@
+{
+  "bang": "ars",
+  "domain": "https://arstechnica.com",
+  "url": "https://arstechnica.com/search/?ie=UTF-8&q=%s",
+  "description": "Ars Technica",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

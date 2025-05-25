@@ -1,0 +1,8 @@
+{
+  "bang": "kcpl",
+  "domain": "https://catalog.kentonlibrary.org",
+  "url": "http://catalog.kentonlibrary.org/eg/opac/results?query=%s",
+  "description": "Kenton County Public Library",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

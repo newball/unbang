@@ -1,0 +1,8 @@
+{
+  "bang": "scaladex",
+  "domain": "https://index.scala-lang.org",
+  "url": "https://index.scala-lang.org/search?q=%s ",
+  "description": "Scala Center",
+  "category": "Tech",
+  "sub-category": "Languages (scala)"
+}

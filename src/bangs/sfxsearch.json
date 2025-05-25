@@ -1,0 +1,8 @@
+{
+  "bang": "sfxsearch",
+  "domain": "https://soundeffectssearch.com",
+  "url": "http://soundeffectssearch.com/find-a-sound-library/?library=%s",
+  "description": "Sound Effects Search",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

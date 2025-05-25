@@ -1,0 +1,8 @@
+{
+  "bang": "4chan",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s+site%3A4chan.org&t=ffsb",
+  "description": "4chan",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

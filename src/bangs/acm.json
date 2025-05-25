@@ -1,0 +1,8 @@
+{
+  "bang": "acm",
+  "domain": "https://dl.acm.org",
+  "url": "http://dl.acm.org/results.cfm?dlr=GUIDE&query=%s",
+  "description": "ACM Guide",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

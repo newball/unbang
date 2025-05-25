@@ -1,0 +1,8 @@
+{
+  "bang": "hd",
+  "domain": "https://hudoc.echr.coe.int",
+  "url": "http://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22%s%22],%22documentcollectionid2%22:[%22GRANDCHAMBER%22,%22CHAMBER%22]}",
+  "description": "HUDOC",
+  "category": "Research",
+  "sub-category": "Law"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ovi",
+  "domain": "https://store.ovi.com",
+  "url": "http://store.ovi.com/search?q=%s",
+  "description": "Ovi Store",
+  "category": "Tech",
+  "sub-category": "Downloads (apps)"
+}

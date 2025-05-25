@@ -1,0 +1,8 @@
+{
+  "bang": "ici",
+  "domain": "https://ici.radio-canada.ca",
+  "url": "https://ici.radio-canada.ca/recherche?q=%s",
+  "description": "Radio-Canada",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

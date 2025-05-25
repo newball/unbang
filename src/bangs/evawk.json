@@ -1,0 +1,8 @@
+{
+  "bang": "evawk",
+  "domain": "https://wiki.evageeks.org",
+  "url": "https://wiki.evageeks.org/Special:Search?search=%s",
+  "description": "evageeks wiki",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

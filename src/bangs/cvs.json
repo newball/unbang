@@ -1,0 +1,8 @@
+{
+  "bang": "cvs",
+  "domain": "https://www.cvs.com",
+  "url": "http://www.cvs.com/search/_/N-0?searchTerm=%s&pt=global",
+  "description": "CVS",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "folha",
+  "domain": "https://search.folha.com.br",
+  "url": "http://search.folha.com.br/search?q=%s",
+  "description": "Folha de S. Paulo",
+  "category": "News",
+  "sub-category": "International"
+}

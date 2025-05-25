@@ -1,0 +1,8 @@
+{
+  "bang": "komplett",
+  "domain": "https://www.komplett.no",
+  "url": "https://www.komplett.no/search?q=%s",
+  "description": "Komplett",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

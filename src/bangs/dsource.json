@@ -1,0 +1,8 @@
+{
+  "bang": "dsource",
+  "domain": "https://codesearch.debian.net",
+  "url": "https://codesearch.debian.net/search?q=%s",
+  "description": "Debian Code Search",
+  "category": "Tech",
+  "sub-category": "Sysadmin (debian)"
+}

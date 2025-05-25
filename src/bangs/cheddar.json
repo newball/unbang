@@ -1,0 +1,8 @@
+{
+  "bang": "cheddar",
+  "domain": "https://cheddar.com",
+  "url": "https://cheddar.com/search?q=%s",
+  "description": "Cheddar",
+  "category": "News",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "taginfoch",
+  "domain": "https://taginfo.openstreetmap.ch",
+  "url": "http://taginfo.openstreetmap.ch/search?q=%s",
+  "description": "taginfo Switzerland",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

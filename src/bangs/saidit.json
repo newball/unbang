@@ -1,0 +1,8 @@
+{
+  "bang": "saidit",
+  "domain": "https://saidit.net",
+  "url": "https://saidit.net/search?q=%s",
+  "description": "SaidIt",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

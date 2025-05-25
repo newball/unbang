@@ -1,0 +1,8 @@
+{
+  "bang": "giphytv",
+  "domain": "https://tv.giphy.com",
+  "url": "http://tv.giphy.com/%s",
+  "description": "Giphy TV",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

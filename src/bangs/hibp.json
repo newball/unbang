@@ -1,0 +1,8 @@
+{
+  "bang": "hibp",
+  "domain": "https://haveibeenpwned.com",
+  "url": "https://haveibeenpwned.com/account/%s",
+  "description": "Have I Been Pwned",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

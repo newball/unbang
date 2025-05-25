@@ -1,0 +1,8 @@
+{
+  "bang": "webutation",
+  "domain": "https://www.webutations.org",
+  "url": "http://www.webutations.org/go/review/%s",
+  "description": "Webutation",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

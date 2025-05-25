@@ -1,0 +1,8 @@
+{
+  "bang": "cakebook",
+  "domain": "https://book.cakephp.org",
+  "url": "https://book.cakephp.org/3.0/en/search.html?check_keywords=yes&area=default&q=%s",
+  "description": "CakePHP Cakebook 3.x",
+  "category": "Tech",
+  "sub-category": "Languages (php)"
+}

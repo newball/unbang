@@ -1,0 +1,8 @@
+{
+  "bang": "taz",
+  "domain": "https://www.taz.de",
+  "url": "http://www.taz.de/!s=%s/",
+  "description": "taz.die tageszeitung",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

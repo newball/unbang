@@ -1,0 +1,8 @@
+{
+  "bang": "starticket",
+  "domain": "https://www.starticket.ch",
+  "url": "https://www.starticket.ch/de/suche?_csquery=%s",
+  "description": "Starticket",
+  "category": "Entertainment",
+  "sub-category": "Events"
+}

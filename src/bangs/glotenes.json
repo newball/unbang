@@ -1,0 +1,8 @@
+{
+  "bang": "glotenes",
+  "domain": "https://www.interglot.com",
+  "url": "http://www.interglot.com/dictionary/en/es/search?q=%s ",
+  "description": "Interglot EN -> ES",
+  "category": "Research",
+  "sub-category": "Reference"
+}

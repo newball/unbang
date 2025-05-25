@@ -1,0 +1,8 @@
+{
+  "bang": "emoji",
+  "domain": "https://emojipedia.org",
+  "url": "https://emojipedia.org/search/?q=%s",
+  "description": "emojipedia",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

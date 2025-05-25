@@ -1,0 +1,8 @@
+{
+  "bang": "asa",
+  "domain": "https://sysadmin.libhunt.com",
+  "url": "https://sysadmin.libhunt.com/search?query=%s",
+  "description": "Awesome SysAdmin (LibHunt)",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

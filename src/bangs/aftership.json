@@ -1,0 +1,8 @@
+{
+  "bang": "aftership",
+  "domain": "https://track.aftership.com",
+  "url": "https://track.aftership.com/%s",
+  "description": "Aftership",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

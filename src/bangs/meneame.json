@@ -1,0 +1,8 @@
+{
+  "bang": "meneame",
+  "domain": "https://www.meneame.net",
+  "url": "https://www.meneame.net/search?q=%s",
+  "description": "Menéame",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

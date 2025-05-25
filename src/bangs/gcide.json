@@ -1,0 +1,8 @@
+{
+  "bang": "gcide",
+  "domain": "https://gcide.gnu.org.ua",
+  "url": "http://gcide.gnu.org.ua/?q=%s &define=Define&strategy=.",
+  "description": "GCIDE",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

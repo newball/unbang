@@ -1,0 +1,8 @@
+{
+  "bang": "sharese",
+  "domain": "https://sharepoint.stackexchange.com",
+  "url": "https://sharepoint.stackexchange.com/search?q=%s",
+  "description": "SharePoint Stack Exchange",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "newhome",
+  "domain": "https://www.newhome.se",
+  "url": "http://www.newhome.se/index.php?route=product/search&filter_name=%s",
+  "description": "NewHome.se",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

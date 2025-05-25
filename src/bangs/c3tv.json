@@ -1,0 +1,8 @@
+{
+  "bang": "c3tv",
+  "domain": "https://media.ccc.de",
+  "url": "https://media.ccc.de/search/?q=%s",
+  "description": "C3TV",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

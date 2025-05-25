@@ -1,0 +1,8 @@
+{
+  "bang": "ndl",
+  "domain": "https://ndlonline.ndl.go.jp",
+  "url": "https://ndlonline.ndl.go.jp/#!/search?keyword=%s",
+  "description": "National Diet Library Online",
+  "category": "Research",
+  "sub-category": "Reference"
+}

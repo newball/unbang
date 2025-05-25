@@ -1,0 +1,8 @@
+{
+  "bang": "buchpreis24",
+  "domain": "https://www.buchpreis24.de",
+  "url": "https://www.buchpreis24.de/stichwort/%s",
+  "description": "Buchpreis24",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "yim",
+  "domain": "https://images.search.yahoo.com",
+  "url": "http://images.search.yahoo.com/search/images?p=%s&fr=alltheweb&ei=utf-8&n=30&x=wrt&y=Search",
+  "description": "Yahoo! Images",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "onshape",
+  "domain": "https://cad.onshape.com",
+  "url": "https://cad.onshape.com/documents?resourceType=filter&nodeId=1&column=modifiedAt&order=desc&viewMode=0&q=%s",
+  "description": "Onshape Docs",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

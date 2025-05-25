@@ -1,0 +1,8 @@
+{
+  "bang": "esolang",
+  "domain": "https://esolangs.org",
+  "url": "http://esolangs.org/w/index.php?search=%s",
+  "description": "Esolang",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

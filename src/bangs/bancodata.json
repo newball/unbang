@@ -1,0 +1,8 @@
+{
+  "bang": "bancodata",
+  "domain": "https://bancodata.com.br",
+  "url": "https://bancodata.com.br/busca/?i=%s",
+  "description": "Banco Data",
+  "category": "Research",
+  "sub-category": "Reference"
+}

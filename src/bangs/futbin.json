@@ -1,0 +1,8 @@
+{
+  "bang": "futbin",
+  "domain": "https://www.futbin.com",
+  "url": "https://www.futbin.com/players?search=%s",
+  "description": "Futbin",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

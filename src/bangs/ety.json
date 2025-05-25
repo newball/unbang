@@ -1,0 +1,8 @@
+{
+  "bang": "ety",
+  "domain": "https://www.etymonline.com",
+  "url": "http://www.etymonline.com/index.php?allowed_in_frame=0&search=%s&searchmode=none",
+  "description": "Online Etymology Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "twiki",
+  "domain": "https://trove.wikia.com",
+  "url": "http://trove.wikia.com/wiki/Special:Search?query=%s",
+  "description": "Trove Wikia",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

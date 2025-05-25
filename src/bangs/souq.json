@@ -1,0 +1,8 @@
+{
+  "bang": "souq",
+  "domain": "https://uae.souq.com",
+  "url": "https://uae.souq.com/ae-en/%s/s/?as=1",
+  "description": "Souq",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

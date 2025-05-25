@@ -1,0 +1,8 @@
+{
+  "bang": "argos",
+  "domain": "https://www.argos.co.uk",
+  "url": "http://www.argos.co.uk/search/%s",
+  "description": "http://www.argos.co.uk",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

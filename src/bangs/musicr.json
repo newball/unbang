@@ -1,0 +1,8 @@
+{
+  "bang": "musicr",
+  "domain": "https://www.musicradar.com",
+  "url": "http://www.musicradar.com/search?searchTerm=%s ",
+  "description": "Music Radar",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

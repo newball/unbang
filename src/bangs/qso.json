@@ -1,0 +1,8 @@
+{
+  "bang": "qso",
+  "domain": "https://quant.stackexchange.com",
+  "url": "https://quant.stackexchange.com/search?q=%s",
+  "description": "Stack Overflow Quantitative Finance",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

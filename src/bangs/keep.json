@@ -1,0 +1,8 @@
+{
+  "bang": "keep",
+  "domain": "https://keep.google.com",
+  "url": "https://keep.google.com/#search/text=%s",
+  "description": "Google Keep",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

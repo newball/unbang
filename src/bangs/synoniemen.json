@@ -1,0 +1,8 @@
+{
+  "bang": "synoniemen",
+  "domain": "https://synoniemen.net",
+  "url": "http://synoniemen.net/index.php?zoekterm=%s",
+  "description": "Synoniemen.net",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

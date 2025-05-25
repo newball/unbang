@@ -1,0 +1,8 @@
+{
+  "bang": "writen",
+  "domain": "https://www.wordreference.com",
+  "url": "http://www.wordreference.com/iten/%s",
+  "description": "Wordreference it->en",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

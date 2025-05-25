@@ -1,0 +1,8 @@
+{
+  "bang": "kubadownload",
+  "domain": "https://kubadownload.com",
+  "url": "https://kubadownload.com/search?q=%s",
+  "description": "KubaDownload",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "hum",
+  "domain": "https://www.humblebundle.com",
+  "url": "https://www.humblebundle.com/store/search?sort=bestselling&search=%s",
+  "description": "Humble Bundle",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

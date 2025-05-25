@@ -1,0 +1,8 @@
+{
+  "bang": "htmldog",
+  "domain": "https://www.htmldog.com",
+  "url": "http://www.htmldog.com/search/?q=%s",
+  "description": "HTML Dog",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

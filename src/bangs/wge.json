@@ -1,0 +1,8 @@
+{
+  "bang": "wge",
+  "domain": "https://de.wikipedia.org",
+  "url": "https://de.wikipedia.org/w/index.php?search=%s",
+  "description": "wikipedia german",
+  "category": "Research",
+  "sub-category": "Academic"
+}

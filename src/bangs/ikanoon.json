@@ -1,0 +1,8 @@
+{
+  "bang": "ikanoon",
+  "domain": "https://indiankanoon.org",
+  "url": "https://indiankanoon.org/search/?formInput=%s",
+  "description": "Indian Kanoon",
+  "category": "Research",
+  "sub-category": "Law"
+}

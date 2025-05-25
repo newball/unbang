@@ -1,0 +1,8 @@
+{
+  "bang": "enstex",
+  "domain": "https://english.stackexchange.com",
+  "url": "https://english.stackexchange.com/search?q=%s",
+  "description": "English Language and Usage StackExchange",
+  "category": "Research",
+  "sub-category": "Learning"
+}

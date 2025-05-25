@@ -1,0 +1,8 @@
+{
+  "bang": "agdl",
+  "domain": "https://duckduckgo.com",
+  "url": "http://duckduckgo.com/?q=%s+site:artsites.ucsc.edu/GDead/agdl/+!",
+  "description": "The Annotated Grateful Dead Lyrics",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

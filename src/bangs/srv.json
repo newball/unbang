@@ -1,0 +1,8 @@
+{
+  "bang": "srv",
+  "domain": "https://stukroodvlees.nl",
+  "url": "http://stukroodvlees.nl/?s=%s",
+  "description": "Stuk Rood Vlees",
+  "category": "News",
+  "sub-category": "International"
+}

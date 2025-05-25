@@ -1,0 +1,8 @@
+{
+  "bang": "macupdate",
+  "domain": "https://www.macupdate.com",
+  "url": "http://www.macupdate.com/find/mac/%s",
+  "description": "MacUpdate",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "msn",
+  "domain": "https://www.msn.al",
+  "url": "https://www.msn.al/?s=%s",
+  "description": "MSN",
+  "category": "News",
+  "sub-category": "International"
+}

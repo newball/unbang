@@ -1,0 +1,8 @@
+{
+  "bang": "darkhorse",
+  "domain": "https://www.darkhorse.com",
+  "url": "http://www.darkhorse.com/Search/%s",
+  "description": "Dark Horse Comics",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

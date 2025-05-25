@@ -1,0 +1,8 @@
+{
+  "bang": "reddit",
+  "domain": "https://www.reddit.com",
+  "url": "https://www.reddit.com/search?q=%s",
+  "description": "Reddit",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

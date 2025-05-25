@@ -1,0 +1,8 @@
+{
+  "bang": "pybug",
+  "domain": "https://bugs.python.org",
+  "url": "https://bugs.python.org/issue?search_text=%s",
+  "description": "Python Bug Tracker",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

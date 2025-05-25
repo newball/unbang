@@ -1,0 +1,8 @@
+{
+  "bang": "oh",
+  "domain": "https://www.openhub.net",
+  "url": "https://www.openhub.net/p?q=%s",
+  "description": "Open Hub",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

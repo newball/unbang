@@ -1,0 +1,8 @@
+{
+  "bang": "opskins",
+  "domain": "https://opskins.com",
+  "url": "https://opskins.com/index.php?search_item=%s&min=&max=&grade=Grade&type=Type&sort=f&loc=shop_search",
+  "description": "OPSkins",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bigenc",
+  "domain": "https://bigenc.ru",
+  "url": "https://bigenc.ru/search?q=%s",
+  "description": "Большая российская энциклопедия",
+  "category": "Research",
+  "sub-category": "Reference"
+}

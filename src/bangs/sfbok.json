@@ -1,0 +1,8 @@
+{
+  "bang": "sfbok",
+  "domain": "https://www.sfbok.se",
+  "url": "https://www.sfbok.se/search?keys=%s",
+  "description": "Science Fiction Bokhandeln",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

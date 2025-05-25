@@ -1,0 +1,8 @@
+{
+  "bang": "ebrary",
+  "domain": "https://site.ebrary.com",
+  "url": "http://site.ebrary.com/lib/alltitles/search.action?p00=%s ",
+  "description": "ebrary",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

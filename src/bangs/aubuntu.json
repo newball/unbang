@@ -1,0 +1,8 @@
+{
+  "bang": "aubuntu",
+  "domain": "https://askubuntu.com",
+  "url": "http://askubuntu.com/search?q=%s",
+  "description": "AskUbuntu",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Ubuntu)"
+}

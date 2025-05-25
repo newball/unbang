@@ -1,0 +1,8 @@
+{
+  "bang": "slant",
+  "domain": "https://www.slant.co",
+  "url": "http://www.slant.co/topics/?search=%s",
+  "description": "Slant.co",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

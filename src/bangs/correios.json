@@ -1,0 +1,8 @@
+{
+  "bang": "correios",
+  "domain": "https://www.linkcorreios.com.br",
+  "url": "https://www.linkcorreios.com.br/%s",
+  "description": "Correios",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

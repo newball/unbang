@@ -1,0 +1,8 @@
+{
+  "bang": "wresen",
+  "domain": "https://www.wordreference.com",
+  "url": "http://www.wordreference.com/es/en/translation.asp?spen=%s",
+  "description": "WordReference",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

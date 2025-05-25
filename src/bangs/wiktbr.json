@@ -1,0 +1,8 @@
+{
+  "bang": "wiktbr",
+  "domain": "https://br.wiktionary.org",
+  "url": "https://br.wiktionary.org/w/index.php?search=%s",
+  "description": "Wikeriadur",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

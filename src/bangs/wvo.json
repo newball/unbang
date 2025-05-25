@@ -1,0 +1,8 @@
+{
+  "bang": "wvo",
+  "domain": "https://vo.wikipedia.org",
+  "url": "http://vo.wikipedia.org/w/index.php?search=%s",
+  "description": "Wikipedia (VO)",
+  "category": "Research",
+  "sub-category": "Learning"
+}

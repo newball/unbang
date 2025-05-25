@@ -1,0 +1,8 @@
+{
+  "bang": "gif",
+  "domain": "https://giphy.com",
+  "url": "https://giphy.com/search/%s",
+  "description": "Giphy",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

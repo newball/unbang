@@ -1,0 +1,8 @@
+{
+  "bang": "heaters",
+  "domain": "https://www.heatershop.co.uk",
+  "url": "https://www.heatershop.co.uk/search?query=%s",
+  "description": "Heater Shop",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

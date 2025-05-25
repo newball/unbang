@@ -1,0 +1,8 @@
+{
+  "bang": "lat",
+  "domain": "https://www.archives.nd.edu",
+  "url": "http://www.archives.nd.edu/cgi-bin/wordz.pl?keyword=%s",
+  "description": "Whitaker's Latin",
+  "category": "Research",
+  "sub-category": "Learning (intl)"
+}

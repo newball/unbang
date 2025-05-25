@@ -1,0 +1,8 @@
+{
+  "bang": "snn",
+  "domain": "https://sonic.wikia.com",
+  "url": "http://sonic.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Sonic News Network",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

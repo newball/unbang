@@ -1,0 +1,8 @@
+{
+  "bang": "gfstock",
+  "domain": "https://www.gurufocus.com",
+  "url": "https://www.gurufocus.com/stock/%s/summary",
+  "description": "Gurufocus",
+  "category": "News",
+  "sub-category": "Business"
+}

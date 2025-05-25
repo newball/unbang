@@ -1,0 +1,8 @@
+{
+  "bang": "swtsearch",
+  "domain": "https://www.sweetsearch.com",
+  "url": "http://www.sweetsearch.com/search?q=%s",
+  "description": "Sweet Search",
+  "category": "Research",
+  "sub-category": "Academic"
+}

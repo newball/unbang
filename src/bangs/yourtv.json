@@ -1,0 +1,8 @@
+{
+  "bang": "yourtv",
+  "domain": "https://www.yourtv.com.au",
+  "url": "http://www.yourtv.com.au/guide/search.aspx?q=%s",
+  "description": "yourTV.com.au",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

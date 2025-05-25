@@ -1,0 +1,8 @@
+{
+  "bang": "weboftrust",
+  "domain": "https://www.mywot.com",
+  "url": "https://www.mywot.com/en/scorecard/%s",
+  "description": "Web of Trust",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

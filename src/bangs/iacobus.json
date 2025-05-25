@@ -1,0 +1,8 @@
+{
+  "bang": "iacobus",
+  "domain": "https://iacobus.usc.es",
+  "url": "http://iacobus.usc.es/search*gag/?searchtype=Y&SORT=D&searcharg=%s ",
+  "description": "Catálogo Iacobus - Universidade de Santiago de Compostela",
+  "category": "Research",
+  "sub-category": "Academic"
+}

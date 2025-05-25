@@ -1,0 +1,8 @@
+{
+  "bang": "mixer",
+  "domain": "https://www.drinksmixer.com",
+  "url": "http://www.drinksmixer.com/search/?q=%s&d=1&p=1",
+  "description": "DrinksMixer",
+  "category": "Research",
+  "sub-category": "Food"
+}

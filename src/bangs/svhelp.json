@@ -1,0 +1,8 @@
+{
+  "bang": "svhelp",
+  "domain": "https://help.sitevision.se",
+  "url": "https://help.sitevision.se/SiteVision_4_0/searchhelp.html?query=%s",
+  "description": "SiteVision Developer",
+  "category": "Research",
+  "sub-category": "Learning"
+}

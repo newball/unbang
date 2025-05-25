@@ -1,0 +1,8 @@
+{
+  "bang": "11st",
+  "domain": "https://search.11st.co.kr",
+  "url": "http://search.11st.co.kr/SearchPrdAction.tmall?method=getTotalSearchSeller&kwd=%s",
+  "description": "11번가",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

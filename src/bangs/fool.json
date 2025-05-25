@@ -1,0 +1,8 @@
+{
+  "bang": "fool",
+  "domain": "https://www.fool.com",
+  "url": "http://www.fool.com/search/index.aspx?go=1&site=USMF&q=%s&source=ifltnvsnq0000001&mbbid=BoardID&mbmid=MessageID",
+  "description": "Fool.com",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

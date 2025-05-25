@@ -1,0 +1,8 @@
+{
+  "bang": "paytm",
+  "domain": "https://paytm.com",
+  "url": "https://paytm.com/shop/search/?q=%s",
+  "description": "PayTM",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

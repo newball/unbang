@@ -1,0 +1,8 @@
+{
+  "bang": "wng",
+  "domain": "https://world.wng.org",
+  "url": "https://world.wng.org/search/site/%s",
+  "description": "World News Group",
+  "category": "News",
+  "sub-category": "Online"
+}

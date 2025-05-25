@@ -1,0 +1,8 @@
+{
+  "bang": "dictpl",
+  "domain": "https://dict.pl",
+  "url": "http://dict.pl/dict?word=%s",
+  "description": "Dict.pl",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

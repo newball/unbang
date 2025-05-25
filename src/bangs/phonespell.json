@@ -1,0 +1,8 @@
+{
+  "bang": "phonespell",
+  "domain": "https://phonespell.org",
+  "url": "https://phonespell.org/combo.cgi?n=%s",
+  "description": "PhoneSpell",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

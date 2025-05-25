@@ -1,0 +1,8 @@
+{
+  "bang": "topl",
+  "domain": "https://pl.bab.la",
+  "url": "https://pl.bab.la/slownik/angielski-polski/%s",
+  "description": "pl.bab.la",
+  "category": "Translation",
+  "sub-category": "Google"
+}

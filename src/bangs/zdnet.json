@@ -1,0 +1,8 @@
+{
+  "bang": "zdnet",
+  "domain": "https://www.zdnet.com",
+  "url": "http://www.zdnet.com/search?q=%s",
+  "description": "ZDNet",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

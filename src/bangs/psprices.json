@@ -1,0 +1,8 @@
+{
+  "bang": "psprices",
+  "domain": "https://psprices.com",
+  "url": "https://psprices.com/search/?q=%s",
+  "description": "PSPrices",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

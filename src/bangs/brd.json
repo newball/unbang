@@ -1,0 +1,8 @@
+{
+  "bang": "brd",
+  "domain": "https://boardreader.com",
+  "url": "https://boardreader.com/s/%s.html",
+  "description": "Boardreader",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "eveningstandard",
+  "domain": "https://www.standard.co.uk",
+  "url": "http://www.standard.co.uk/search/site/%s ",
+  "description": "London Evening Standard",
+  "category": "News",
+  "sub-category": "International"
+}

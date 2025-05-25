@@ -1,0 +1,8 @@
+{
+  "bang": "migros_de",
+  "domain": "https://search.migros.ch",
+  "url": "https://search.migros.ch/de/q:%s",
+  "description": "Migros (DE)",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

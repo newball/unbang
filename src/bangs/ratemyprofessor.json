@@ -1,0 +1,8 @@
+{
+  "bang": "ratemyprofessor",
+  "domain": "https://www.ratemyprofessors.com",
+  "url": "http://www.ratemyprofessors.com/search.jsp?query=%s",
+  "description": "Rate My Professor",
+  "category": "Research",
+  "sub-category": "Academic"
+}

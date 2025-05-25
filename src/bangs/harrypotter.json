@@ -1,0 +1,8 @@
+{
+  "bang": "harrypotter",
+  "domain": "https://harrypotter.wikia.com",
+  "url": "http://harrypotter.wikia.com/wiki/Special:Search?query=%s",
+  "description": "Harry Potter wiki",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

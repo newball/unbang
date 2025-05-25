@@ -1,0 +1,8 @@
+{
+  "bang": "fonts",
+  "domain": "https://www.fontsquirrel.com",
+  "url": "http://www.fontsquirrel.com/fonts/list/find_fonts?q[term]=%s&q[search_check]=Y",
+  "description": "Font Squirrel",
+  "category": "Tech",
+  "sub-category": "Design"
+}

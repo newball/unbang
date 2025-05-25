@@ -1,0 +1,8 @@
+{
+  "bang": "gamezebo",
+  "domain": "https://www.gamezebo.com",
+  "url": "http://www.gamezebo.com/search/games?query=%s",
+  "description": "Gamezebo",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

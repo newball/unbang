@@ -1,0 +1,8 @@
+{
+  "bang": "ftln",
+  "domain": "https://www.futurelearn.com",
+  "url": "https://www.futurelearn.com/search?q=%s",
+  "description": "futurelearn",
+  "category": "Research",
+  "sub-category": "Academic"
+}

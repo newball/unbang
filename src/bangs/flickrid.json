@@ -1,0 +1,8 @@
+{
+  "bang": "flickrid",
+  "domain": "https://secure.flickr.com",
+  "url": "https://secure.flickr.com/photo.gne?id=%s",
+  "description": "Flickr (Photo ID)",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "kaspersky",
+  "domain": "https://support.kaspersky.com",
+  "url": "http://support.kaspersky.com/search?query=%s",
+  "description": "Kaspersky Lab Technical Support",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

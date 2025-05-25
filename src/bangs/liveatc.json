@@ -1,0 +1,8 @@
+{
+  "bang": "liveatc",
+  "domain": "https://www.liveatc.net",
+  "url": "https://www.liveatc.net/search/?icao=%s",
+  "description": "LiveATC.net",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

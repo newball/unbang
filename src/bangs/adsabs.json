@@ -1,0 +1,8 @@
+{
+  "bang": "adsabs",
+  "domain": "https://adsabs.harvard.edu",
+  "url": "http://adsabs.harvard.edu//cgi-bin/basic_connect?qsearch=%s",
+  "description": "SAO/NASA Astrophysics Data System",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

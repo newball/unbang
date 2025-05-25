@@ -1,0 +1,8 @@
+{
+  "bang": "indyaconnects",
+  "domain": "https://www.indyaconnects.com",
+  "url": "http://www.indyaconnects.com/catalogsearch/result/?q=%s",
+  "description": "indyaconnects",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "en",
+  "domain": "https://english.stackexchange.com",
+  "url": "http://english.stackexchange.com/search?q=%s",
+  "description": "English StackExchange",
+  "category": "Research",
+  "sub-category": "Learning"
+}

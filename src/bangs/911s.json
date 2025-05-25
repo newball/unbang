@@ -1,0 +1,8 @@
+{
+  "bang": "911s",
+  "domain": "https://www.911tabs.com",
+  "url": "http://www.911tabs.com/search.php?search=%s&type=song",
+  "description": "911 Tabs (Songs)",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "epw",
+  "domain": "https://www.episodeworld.com",
+  "url": "http://www.episodeworld.com/search/?searchitem=%s",
+  "description": "Episode World",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

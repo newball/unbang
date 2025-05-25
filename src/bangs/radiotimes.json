@@ -1,0 +1,8 @@
+{
+  "bang": "radiotimes",
+  "domain": "https://www.radiotimes.com",
+  "url": "http://www.radiotimes.com/search?q=%s",
+  "description": "RadioTimes",
+  "category": "Entertainment",
+  "sub-category": "Blogs"
+}

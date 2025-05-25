@@ -1,0 +1,8 @@
+{
+  "bang": "hdict",
+  "domain": "https://hyperdictionary.com",
+  "url": "http://hyperdictionary.com/search.aspx?define=%s",
+  "description": "Hyperdictionary",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

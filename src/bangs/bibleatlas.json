@@ -1,0 +1,8 @@
+{
+  "bang": "bibleatlas",
+  "domain": "https://biblehub.net",
+  "url": "http://biblehub.net/searchatlas.php?q=%s",
+  "description": "Bible Atlas",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "pursuit",
+  "domain": "https://pursuit.purescript.org",
+  "url": "http://pursuit.purescript.org/search?q=%s",
+  "description": "Pursuit",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

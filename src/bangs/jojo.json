@@ -1,0 +1,8 @@
+{
+  "bang": "jojo",
+  "domain": "https://jojo.wikia.com",
+  "url": "http://jojo.wikia.com/wiki/Special:Search?search=%s&fulltext=Search",
+  "description": "JoJo's Bizarre Encyclopedia",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "evesearch",
+  "domain": "https://eve-search.com",
+  "url": "http://eve-search.com/search/%s",
+  "description": "EVE Search",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

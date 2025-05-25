@@ -1,0 +1,8 @@
+{
+  "bang": "goettingen",
+  "domain": "https://www.wiki-goettingen.de",
+  "url": "http://www.wiki-goettingen.de/index.php?search=%s",
+  "description": "Wiki Göttingen",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

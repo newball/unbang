@@ -1,0 +1,8 @@
+{
+  "bang": "doubtbox",
+  "domain": "https://www.doubtbox.online",
+  "url": "https://www.doubtbox.online/search/?q=%s",
+  "description": "doubt box",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ctimes",
+  "domain": "https://www.collegiatetimes.com",
+  "url": "https://www.collegiatetimes.com/search/?q=%s",
+  "description": "Collegiate Times",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

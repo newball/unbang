@@ -1,0 +1,8 @@
+{
+  "bang": "rightsidenews",
+  "domain": "https://www.rightsidenews.com",
+  "url": "https://www.rightsidenews.com/?s=%s",
+  "description": "Right Side News",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

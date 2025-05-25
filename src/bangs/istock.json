@@ -1,0 +1,8 @@
+{
+  "bang": "istock",
+  "domain": "https://www.istockphoto.com",
+  "url": "http://www.istockphoto.com/photos/%s?phrase=%s",
+  "description": "iStockPhoto",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

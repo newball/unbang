@@ -1,0 +1,8 @@
+{
+  "bang": "tigerdirect",
+  "domain": "https://www.tigerdirect.com",
+  "url": "http://www.tigerdirect.com/applications/SearchTools/search.asp?keywords=%s",
+  "description": "TigerDirect",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

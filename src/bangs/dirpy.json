@@ -1,0 +1,8 @@
+{
+  "bang": "dirpy",
+  "domain": "https://www.dirpy.com",
+  "url": "http://www.dirpy.com/studio?url=%s",
+  "description": "Dirpy",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

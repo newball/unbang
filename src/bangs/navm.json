@@ -1,0 +1,8 @@
+{
+  "bang": "navm",
+  "domain": "https://beta.map.naver.com",
+  "url": "https://beta.map.naver.com/search/%s",
+  "description": "Naver Maps (yanndch)",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

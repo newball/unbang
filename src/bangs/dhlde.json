@@ -1,0 +1,8 @@
+{
+  "bang": "dhlde",
+  "domain": "https://nolp.dhl.de",
+  "url": "http://nolp.dhl.de/nextt-online-public/set_identcodes.do?lang=de&idc=%s&rfn=&extendedSearch=true",
+  "description": "DHL German",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

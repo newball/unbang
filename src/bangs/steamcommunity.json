@@ -1,0 +1,8 @@
+{
+  "bang": "steamcommunity",
+  "domain": "https://steamcommunity.com",
+  "url": "http://steamcommunity.com/actions/Search?K=%s",
+  "description": "Steam Community",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

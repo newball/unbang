@@ -1,0 +1,8 @@
+{
+  "bang": "nixcourse",
+  "domain": "https://discourse.nixos.org",
+  "url": "https://discourse.nixos.org/search?q=%s",
+  "description": "Nix Discourse",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "aikatsu",
+  "domain": "https://aikatsu.wikia.com",
+  "url": "http://aikatsu.wikia.com/wiki/Special:Search?query=%s",
+  "description": "Aikatsu Wikia",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

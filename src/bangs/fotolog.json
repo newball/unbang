@@ -1,0 +1,8 @@
+{
+  "bang": "fotolog",
+  "domain": "https://fotolog.com",
+  "url": "https://fotolog.com/search?query=%s",
+  "description": "Fotolog",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

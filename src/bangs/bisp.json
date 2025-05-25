@@ -1,0 +1,8 @@
+{
+  "bang": "bisp",
+  "domain": "https://www.bisp-surf.de",
+  "url": "https://www.bisp-surf.de/Search/Results?type=AllFields&lookfor=%s&submit=Suchen&limit=20&sort=relevance",
+  "description": "Bisp-Surf",
+  "category": "Research",
+  "sub-category": "Health"
+}

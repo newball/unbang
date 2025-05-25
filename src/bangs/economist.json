@@ -1,0 +1,8 @@
+{
+  "bang": "economist",
+  "domain": "https://www.economist.com",
+  "url": "https://www.economist.com/search?q=%s",
+  "description": "The Economist",
+  "category": "News",
+  "sub-category": "Business"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "sobash",
+  "domain": "https://stackoverflow.com",
+  "url": "http://stackoverflow.com/search?q=[bash]+%s",
+  "description": "Stack Overflow Bash Search",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

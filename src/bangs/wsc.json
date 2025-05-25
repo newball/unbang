@@ -1,0 +1,8 @@
+{
+  "bang": "wsc",
+  "domain": "https://sc.wikipedia.org",
+  "url": "http://sc.wikipedia.org/wiki/%s",
+  "description": "Sardinian Wikipedia",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

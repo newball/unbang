@@ -1,0 +1,8 @@
+{
+  "bang": "janus",
+  "domain": "https://janus.lib.cam.ac.uk",
+  "url": "https://janus.lib.cam.ac.uk/db/node.xsp?search=%s",
+  "description": "Janus: Catalogues of Cambridge Archives",
+  "category": "Research",
+  "sub-category": "Academic"
+}

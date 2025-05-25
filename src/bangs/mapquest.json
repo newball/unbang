@@ -1,0 +1,8 @@
+{
+  "bang": "mapquest",
+  "domain": "https://www.mapquest.com",
+  "url": "http://www.mapquest.com/?q=%s",
+  "description": "Mapquest",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "qstu",
+  "domain": "https://www.topuniversities.com",
+  "url": "https://www.topuniversities.com/search/site/%s",
+  "description": "QS Top Universities",
+  "category": "Research",
+  "sub-category": "Academic"
+}

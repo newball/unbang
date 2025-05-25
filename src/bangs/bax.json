@@ -1,0 +1,8 @@
+{
+  "bang": "bax",
+  "domain": "https://www.bax-shop.nl",
+  "url": "http://www.bax-shop.nl/assortiment?keyword=%s&avz=true",
+  "description": "Bax-shop",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

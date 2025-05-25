@@ -1,0 +1,8 @@
+{
+  "bang": "sfmoma",
+  "domain": "https://www.sfmoma.org",
+  "url": "https://www.sfmoma.org/search/?q=%s",
+  "description": "SFMOMA",
+  "category": "Research",
+  "sub-category": "Academic"
+}

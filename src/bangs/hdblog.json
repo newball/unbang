@@ -1,0 +1,8 @@
+{
+  "bang": "hdblog",
+  "domain": "https://www.hdblog.it",
+  "url": "https://www.hdblog.it/?sName=%s",
+  "description": "Hdblog",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

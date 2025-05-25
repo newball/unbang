@@ -1,0 +1,8 @@
+{
+  "bang": "icd10",
+  "domain": "https://www.icd10data.com",
+  "url": "http://www.icd10data.com/Search.aspx?search=%s",
+  "description": "ICD10Data.com",
+  "category": "Research",
+  "sub-category": "Health"
+}

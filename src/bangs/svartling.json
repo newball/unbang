@@ -1,0 +1,8 @@
+{
+  "bang": "svartling",
+  "domain": "https://www.svartling.net",
+  "url": "http://www.svartling.net/search?q=%s",
+  "description": "Svartling Network",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

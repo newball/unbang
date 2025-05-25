@@ -1,0 +1,8 @@
+{
+  "bang": "mlf",
+  "domain": "https://forum.manjaro.org",
+  "url": "https://forum.manjaro.org/search?q=%s",
+  "description": "Manjaro Linux Forums",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

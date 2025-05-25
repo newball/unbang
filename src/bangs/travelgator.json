@@ -1,0 +1,8 @@
+{
+  "bang": "travelgator",
+  "domain": "https://www.travelgator.com",
+  "url": "https://www.travelgator.com/en/search/?locationquery=%s",
+  "description": "TravelGator",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

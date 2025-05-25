@@ -1,0 +1,8 @@
+{
+  "bang": "audubon",
+  "domain": "https://www.audubon.org",
+  "url": "http://www.audubon.org/search/node?keys=%s",
+  "description": "National Audubon Society",
+  "category": "Research",
+  "sub-category": "Topical"
+}

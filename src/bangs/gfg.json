@@ -1,0 +1,8 @@
+{
+  "bang": "gfg",
+  "domain": "https://www.geeksforgeeks.org",
+  "url": "https://www.geeksforgeeks.org/?q=%s",
+  "description": "geeksforgeeks",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

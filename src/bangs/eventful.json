@@ -1,0 +1,8 @@
+{
+  "bang": "eventful",
+  "domain": "https://eventful.com",
+  "url": "http://eventful.com/events?ga_type=events&ga_search=%s&q=%s",
+  "description": "Eventful",
+  "category": "Entertainment",
+  "sub-category": "Events"
+}

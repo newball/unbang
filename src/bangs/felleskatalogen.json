@@ -1,0 +1,8 @@
+{
+  "bang": "felleskatalogen",
+  "domain": "https://felleskatalogen.no",
+  "url": "http://felleskatalogen.no/medisin/sok?sokord=%s",
+  "description": "Felleskatalogen",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

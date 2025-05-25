@@ -1,0 +1,8 @@
+{
+  "bang": "deit",
+  "domain": "https://deit.dict.cc",
+  "url": "http://deit.dict.cc/?s=%s",
+  "description": "Dict CC DE <> IT",
+  "category": "Research",
+  "sub-category": "Learning"
+}

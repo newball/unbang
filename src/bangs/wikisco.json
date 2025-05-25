@@ -1,0 +1,8 @@
+{
+  "bang": "wikisco",
+  "domain": "https://sco.wikipedia.org",
+  "url": "https://sco.wikipedia.org/w/index.php?search=%s",
+  "description": "Wikipedia-sco",
+  "category": "Research",
+  "sub-category": "Learning (intl)"
+}

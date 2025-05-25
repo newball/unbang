@@ -1,0 +1,8 @@
+{
+  "bang": "esdoc",
+  "domain": "https://doc.esdoc.org",
+  "url": "https://doc.esdoc.org/-/search.html?keyword=%s",
+  "description": "ESDoc",
+  "category": "Tech",
+  "sub-category": "Languages (javascript)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "cocatalogn",
+  "domain": "https://cocatalog.loc.gov",
+  "url": "http://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?Search_Arg=%s&Search_Code=NALL&CNT=25&HIST=1",
+  "description": "Copyright Catalog (name)",
+  "category": "Research",
+  "sub-category": "Law"
+}

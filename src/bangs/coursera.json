@@ -1,0 +1,8 @@
+{
+  "bang": "coursera",
+  "domain": "https://www.coursera.org",
+  "url": "https://www.coursera.org/search?query=%s",
+  "description": "Coursera",
+  "category": "Research",
+  "sub-category": "Academic"
+}

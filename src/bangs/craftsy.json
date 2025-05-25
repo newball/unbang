@@ -1,0 +1,8 @@
+{
+  "bang": "craftsy",
+  "domain": "https://www.craftsy.com",
+  "url": "https://www.craftsy.com/search?query=%s",
+  "description": "Craftsy",
+  "category": "Research",
+  "sub-category": "Learning"
+}

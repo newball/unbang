@@ -1,0 +1,8 @@
+{
+  "bang": "ebay",
+  "domain": "https://www.ebay.com",
+  "url": "https://www.ebay.com/sch/items/?_nkw=%s",
+  "description": "eBay",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ansible-galaxy",
+  "domain": "https://galaxy.ansible.com",
+  "url": "https://galaxy.ansible.com/list#/roles?page=1&page_size=10&autocomplete=%s",
+  "description": "Ansible Galaxy",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

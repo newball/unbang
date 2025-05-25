@@ -1,0 +1,8 @@
+{
+  "bang": "wired",
+  "domain": "https://www.wired.com",
+  "url": "https://www.wired.com/search/?q=%s&page=1&sort=score",
+  "description": "Wired",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

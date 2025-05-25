@@ -1,0 +1,8 @@
+{
+  "bang": "ws",
+  "domain": "https://en.wikisource.org",
+  "url": "https://en.wikisource.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikisource",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

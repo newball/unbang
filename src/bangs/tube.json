@@ -1,0 +1,8 @@
+{
+  "bang": "tube",
+  "domain": "https://bit.tube",
+  "url": "https://bit.tube/results?term=%s",
+  "description": "BitTube",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

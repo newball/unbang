@@ -1,0 +1,8 @@
+{
+  "bang": "cdon",
+  "domain": "https://cdon.se",
+  "url": "http://cdon.se/search?q=%s",
+  "description": "CDON",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

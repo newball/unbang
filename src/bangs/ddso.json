@@ -1,0 +1,8 @@
+{
+  "bang": "ddso",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s+site:stackoverflow.com",
+  "description": "Stack Overflow via DuckDuckGo",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

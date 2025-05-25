@@ -1,0 +1,8 @@
+{
+  "bang": "uoal",
+  "domain": "https://search.library.ualberta.ca",
+  "url": "https://search.library.ualberta.ca/symphony?q=%s",
+  "description": "University of Alberta Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

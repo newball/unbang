@@ -1,0 +1,8 @@
+{
+  "bang": "startupjobs",
+  "domain": "https://startup.jobs",
+  "url": "https://startup.jobs/?q=%s",
+  "description": "Startup Jobs",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

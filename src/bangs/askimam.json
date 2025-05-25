@@ -1,0 +1,8 @@
+{
+  "bang": "askimam",
+  "domain": "https://askimam.org",
+  "url": "http://askimam.org/public/processsearch/Question.keywords:%s/Question.type:1",
+  "description": "ASK IMAM",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

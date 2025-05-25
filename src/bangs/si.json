@@ -1,0 +1,8 @@
+{
+  "bang": "si",
+  "domain": "https://www.si.com",
+  "url": "https://www.si.com/search?q=%s",
+  "description": "Sports Illustrated",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

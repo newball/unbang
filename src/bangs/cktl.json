@@ -1,0 +1,8 @@
+{
+  "bang": "cktl",
+  "domain": "https://www.1001cocktails.com",
+  "url": "http://www.1001cocktails.com/cocktails/rechercheCocktailsNom.php?mot=%s",
+  "description": "1001cocktails",
+  "category": "Research",
+  "sub-category": "Food"
+}

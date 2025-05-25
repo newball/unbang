@@ -1,0 +1,8 @@
+{
+  "bang": "cv",
+  "domain": "https://stats.stackexchange.com",
+  "url": "https://stats.stackexchange.com/search?q=%s",
+  "description": "Cross Validated",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

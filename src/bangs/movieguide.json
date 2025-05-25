@@ -1,0 +1,8 @@
+{
+  "bang": "movieguide",
+  "domain": "https://www.movieguide.org",
+  "url": "http://www.movieguide.org/?s=%s&submit.x=0&submit.y=0&submit=Search&key=hs",
+  "description": "MovieGuide",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

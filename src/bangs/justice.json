@@ -1,0 +1,8 @@
+{
+  "bang": "justice",
+  "domain": "https://or.justice.cz",
+  "url": "https://or.justice.cz/ias/ui/rejstrik-$firma?jenPlatne=PLATNE&nazev=%s",
+  "description": "Justice - obchodní rejstřík",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

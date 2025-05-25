@@ -1,0 +1,8 @@
+{
+  "bang": "kulinarian",
+  "domain": "https://www.kulinarian.com",
+  "url": "https://www.kulinarian.com/recipe/search?q=%s",
+  "description": "kulinarian",
+  "category": "Research",
+  "sub-category": "Food"
+}

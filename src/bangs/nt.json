@@ -1,0 +1,8 @@
+{
+  "bang": "nt",
+  "domain": "https://newstral.com",
+  "url": "https://newstral.com/search/articles?&q=%s",
+  "description": "Newstral",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

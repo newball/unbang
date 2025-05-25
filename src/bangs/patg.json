@@ -1,0 +1,8 @@
+{
+  "bang": "patg",
+  "domain": "https://patents.google.com",
+  "url": "https://patents.google.com/?q=%s",
+  "description": "patents.google.com",
+  "category": "Research",
+  "sub-category": "Law"
+}

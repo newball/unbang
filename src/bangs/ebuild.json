@@ -1,0 +1,8 @@
+{
+  "bang": "ebuild",
+  "domain": "https://gpo.zugaina.org",
+  "url": "http://gpo.zugaina.org/Search?search=%s",
+  "description": "Gentoo Packages",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

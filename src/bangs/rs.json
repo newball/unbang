@@ -1,0 +1,8 @@
+{
+  "bang": "rs",
+  "domain": "https://runescape.wiki",
+  "url": "https://runescape.wiki/?search=%s",
+  "description": "The RuneScape Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

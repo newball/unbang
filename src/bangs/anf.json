@@ -1,0 +1,8 @@
+{
+  "bang": "anf",
+  "domain": "https://www.abercrombie.com",
+  "url": "https://www.abercrombie.com/webapp/wcs/stores/servlet/Search?storeId=10051&catalogId=10901&langId=-1&departmentCategoryId=10000&search-field=%s",
+  "description": "Abercrombie & Fitch",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

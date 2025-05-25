@@ -1,0 +1,8 @@
+{
+  "bang": "enges",
+  "domain": "https://es.engadget.com",
+  "url": "http://es.engadget.com/search/?q=%s",
+  "description": "Engadget en español",
+  "category": "Tech",
+  "sub-category": "Blogs (intl)"
+}

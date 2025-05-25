@@ -1,0 +1,8 @@
+{
+  "bang": "wtpl",
+  "domain": "https://pl.wiktionary.org",
+  "url": "https://pl.wiktionary.org/w/index.php?search=%s",
+  "description": "Wiktionary (PL)",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "samba",
+  "domain": "https://wiki.samba.org",
+  "url": "https://wiki.samba.org/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "Samba Wiki",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

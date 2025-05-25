@@ -1,0 +1,8 @@
+{
+  "bang": "al",
+  "domain": "https://anilist.co",
+  "url": "https://anilist.co/search/anime?search=%s",
+  "description": "AniList",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "rfr",
+  "domain": "https://dictionnaire.reverso.net",
+  "url": "http://dictionnaire.reverso.net/francais-definition/%s",
+  "description": "Reverso French Definition",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

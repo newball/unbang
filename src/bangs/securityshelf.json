@@ -1,0 +1,8 @@
+{
+  "bang": "securityshelf",
+  "domain": "https://securityshelf.com",
+  "url": "https://securityshelf.com/index.php?s=%s",
+  "description": "Security Shelf",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

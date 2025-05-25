@@ -1,0 +1,8 @@
+{
+  "bang": "bittrust",
+  "domain": "https://bittrust.org",
+  "url": "http://bittrust.org/search#stq=%s",
+  "description": "BitTrust",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

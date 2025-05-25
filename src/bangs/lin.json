@@ -1,0 +1,8 @@
+{
+  "bang": "lin",
+  "domain": "https://www.linguee.com",
+  "url": "http://www.linguee.com/english-french/search?source=auto&query=%s ",
+  "description": "Linguee",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

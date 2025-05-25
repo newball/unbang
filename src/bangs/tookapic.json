@@ -1,0 +1,8 @@
+{
+  "bang": "tookapic",
+  "domain": "https://stock.tookapic.com",
+  "url": "https://stock.tookapic.com/search?q=%s",
+  "description": "tookapic",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "jawb",
+  "domain": "https://ja.wikibooks.org",
+  "url": "https://ja.wikibooks.org/w/index.php?search=%s",
+  "description": "Japanese Wikibooks",
+  "category": "Research",
+  "sub-category": "Reference"
+}

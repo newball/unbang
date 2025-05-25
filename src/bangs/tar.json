@@ -1,0 +1,8 @@
+{
+  "bang": "tar",
+  "domain": "https://www.taringa.net",
+  "url": "http://www.taringa.net/buscar/?q=%s",
+  "description": "Taringa!",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

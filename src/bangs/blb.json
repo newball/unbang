@@ -1,0 +1,8 @@
+{
+  "bang": "blb",
+  "domain": "https://www.blb.org",
+  "url": "http://www.blb.org/search/preSearch.cfm?plugin=yes&Criteria=%s",
+  "description": "Blue Letter Bible",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "worldmusic",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s+site%3Arootsworld.com%2Crootsworld.org&ia=web",
+  "description": "RootsWorld",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "democracynow",
+  "domain": "https://www.democracynow.org",
+  "url": "http://www.democracynow.org/search?query=%s",
+  "description": "Democracy Now!",
+  "category": "News",
+  "sub-category": "Specialty"
+}

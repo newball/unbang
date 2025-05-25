@@ -1,0 +1,8 @@
+{
+  "bang": "tesco",
+  "domain": "https://www.tesco.com",
+  "url": "http://www.tesco.com/groceries/product/search/default.aspx?searchBox=%s",
+  "description": "Tesco UK",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

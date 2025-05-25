@@ -1,0 +1,8 @@
+{
+  "bang": "smogrs",
+  "domain": "https://www.smogon.com",
+  "url": "http://www.smogon.com/dex/rs/pokemon/%s/",
+  "description": "Smogon R_S",
+  "category": "Entertainment",
+  "sub-category": "Games (Pokemon)"
+}

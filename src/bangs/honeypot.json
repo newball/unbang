@@ -1,0 +1,8 @@
+{
+  "bang": "honeypot",
+  "domain": "https://www.projecthoneypot.org",
+  "url": "http://www.projecthoneypot.org/ip_%s",
+  "description": "Project Honey Pot",
+  "category": "Tech",
+  "sub-category": "Sysadmin (network)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "pod",
+  "domain": "https://cocoapods.org",
+  "url": "http://cocoapods.org/?q=%s",
+  "description": "Cocoapods",
+  "category": "Tech",
+  "sub-category": "Languages (cocoa)"
+}

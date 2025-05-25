@@ -1,0 +1,8 @@
+{
+  "bang": "news365club",
+  "domain": "https://news365.club",
+  "url": "http://news365.club/arama?q=%s",
+  "description": "News365 Club",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

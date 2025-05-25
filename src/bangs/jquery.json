@@ -1,0 +1,8 @@
+{
+  "bang": "jquery",
+  "domain": "https://api.jquery.com",
+  "url": "http://api.jquery.com/?ns0=1&s=%s",
+  "description": "jQuery Docs",
+  "category": "Tech",
+  "sub-category": "Languages (java)"
+}

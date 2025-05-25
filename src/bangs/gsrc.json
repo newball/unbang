@@ -1,0 +1,8 @@
+{
+  "bang": "gsrc",
+  "domain": "https://www.gradesource.com",
+  "url": "http://www.gradesource.com/findcourse.asp?sb=C&name=%s&st=0&x=0&y=0",
+  "description": "Gradesource",
+  "category": "Research",
+  "sub-category": "Academic"
+}

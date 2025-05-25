@@ -1,0 +1,8 @@
+{
+  "bang": "bsb",
+  "domain": "https://opacplus.bsb-muenchen.de",
+  "url": "https://opacplus.bsb-muenchen.de/InfoGuideClient/start.do?Login=opacext&BaseURL=https%3a%2f%2fopacplus.bsb-muenchen.de%2fInfoGuideClient%2fstart.do%3fLogin%3dopacext&Query=-1=%22%s%22",
+  "description": "Bayerische Staatsbibliothek",
+  "category": "Research",
+  "sub-category": "Academic"
+}

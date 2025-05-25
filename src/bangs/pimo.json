@@ -1,0 +1,8 @@
+{
+  "bang": "pimo",
+  "domain": "https://shop.pimoroni.com",
+  "url": "https://shop.pimoroni.com/search?q=%s",
+  "description": "Pimoroni",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

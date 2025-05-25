@@ -1,0 +1,8 @@
+{
+  "bang": "tlgrm",
+  "domain": "https://web.telegram.org",
+  "url": "https://web.telegram.org/#/im?p=%s ",
+  "description": "Telegram",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

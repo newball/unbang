@@ -1,0 +1,8 @@
+{
+  "bang": "fark",
+  "domain": "https://www.fark.com",
+  "url": "https://www.fark.com/hlsearch?&qq=%s",
+  "description": "Fark.com",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

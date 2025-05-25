@@ -1,0 +1,8 @@
+{
+  "bang": "htmlbook",
+  "domain": "https://htmlbook.ru",
+  "url": "http://htmlbook.ru/search/?as_q=%s",
+  "description": "htmlbook.ru",
+  "category": "Tech",
+  "sub-category": "Languages (html)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "usydlib",
+  "domain": "https://opac.library.usyd.edu.au",
+  "url": "http://opac.library.usyd.edu.au/search/?searchtype=X&SORT=D&searcharg=%s&searchscope=4&submit=Submit",
+  "description": "University of Sydney Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

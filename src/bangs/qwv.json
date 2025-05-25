@@ -1,0 +1,8 @@
+{
+  "bang": "qwv",
+  "domain": "https://www.qwant.com",
+  "url": "https://www.qwant.com/?q=%s&t=videos",
+  "description": "Qwant Videos",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

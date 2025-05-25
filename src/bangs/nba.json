@@ -1,0 +1,8 @@
+{
+  "bang": "nba",
+  "domain": "https://www.nba.com",
+  "url": "http://www.nba.com/search#/%s",
+  "description": "NBA.com",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

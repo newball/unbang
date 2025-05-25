@@ -1,0 +1,8 @@
+{
+  "bang": "gtga",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/ga/%s",
+  "description": "Detect language to Irish",
+  "category": "Translation",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "speur",
+  "domain": "https://www.speurders.nl",
+  "url": "http://www.speurders.nl/overzicht/?query=%s",
+  "description": "Speurders",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

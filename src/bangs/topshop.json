@@ -1,0 +1,8 @@
+{
+  "bang": "topshop",
+  "domain": "https://us.topshop.com",
+  "url": "http://us.topshop.com/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd?langId=-1&storeId=13052&catalogId=33060&beginIndex=1&viewAllFlag=false&pageSize=20&sort_field=Relevance&searchTerm=%s",
+  "description": "Topshop",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

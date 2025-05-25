@@ -1,0 +1,8 @@
+{
+  "bang": "allmovie",
+  "domain": "https://allmovie.com",
+  "url": "http://allmovie.com/search/all/%s",
+  "description": "AllMovie",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

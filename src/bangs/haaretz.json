@@ -1,0 +1,8 @@
+{
+  "bang": "haaretz",
+  "domain": "https://www.haaretz.co.il",
+  "url": "http://www.haaretz.co.il/misc/search-results?searchType=textSearch&simpleSearch=simpleSearch&text=%s",
+  "description": "Haaretz",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

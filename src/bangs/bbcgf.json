@@ -1,0 +1,8 @@
+{
+  "bang": "bbcgf",
+  "domain": "https://www.bbcgoodfood.com",
+  "url": "http://www.bbcgoodfood.com/search/recipes?query=%s",
+  "description": "BBC Good Food",
+  "category": "Research",
+  "sub-category": "Food"
+}

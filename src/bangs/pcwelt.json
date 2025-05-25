@@ -1,0 +1,8 @@
+{
+  "bang": "pcwelt",
+  "domain": "https://www.pcwelt.de",
+  "url": "https://www.pcwelt.de/suche?searchStr=%s",
+  "description": "PC-Welt",
+  "category": "News",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "vs",
+  "domain": "https://www.vividseats.com",
+  "url": "http://www.vividseats.com/Search.action?searchTerm=%s",
+  "description": "Vivid Seats",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

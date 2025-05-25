@@ -1,0 +1,8 @@
+{
+  "bang": "thj",
+  "domain": "https://suche.thulb.uni-jena.de",
+  "url": "https://suche.thulb.uni-jena.de/Search/Results?lookfor=%s",
+  "description": "ThULB Jena",
+  "category": "Research",
+  "sub-category": "Academic"
+}

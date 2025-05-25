@@ -1,0 +1,8 @@
+{
+  "bang": "enpl",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#en/pl/%s",
+  "description": "Google Translate (English to Polish)",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

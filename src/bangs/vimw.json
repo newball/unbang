@@ -1,0 +1,8 @@
+{
+  "bang": "vimw",
+  "domain": "https://vim.wikia.com",
+  "url": "http://vim.wikia.com/wiki/Special:Search?query=%s",
+  "description": "Vim Tips wiki",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "f1",
+  "domain": "https://www.f1zone.net",
+  "url": "http://www.f1zone.net/news/index.php?s=%s",
+  "description": "F1Zone",
+  "category": "News",
+  "sub-category": "International"
+}

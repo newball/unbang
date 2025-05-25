@@ -1,0 +1,8 @@
+{
+  "bang": "gwu",
+  "domain": "https://search.gwu.edu",
+  "url": "https://search.gwu.edu/search?site=gw_main_VCM&client=gw_main_VCM&proxystylesheet=phase2fe&output=xml_no_dtd&q=%s",
+  "description": "The George Washington University",
+  "category": "Research",
+  "sub-category": "Academic"
+}

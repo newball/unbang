@@ -1,0 +1,8 @@
+{
+  "bang": "vcm",
+  "domain": "https://vision.org.au",
+  "url": "https://vision.org.au/site-search/?phrase=%s&cbi=1",
+  "description": "Vision Christian Media",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

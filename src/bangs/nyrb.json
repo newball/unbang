@@ -1,0 +1,8 @@
+{
+  "bang": "nyrb",
+  "domain": "https://www.nybooks.com",
+  "url": "http://www.nybooks.com/search/?s=%s&option_match=&year_after=1963&year_before=2017&type=all&orderby=relevance",
+  "description": "New York Review of Books",
+  "category": "News",
+  "sub-category": "Specialty"
+}

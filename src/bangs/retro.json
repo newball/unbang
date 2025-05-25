@@ -1,0 +1,8 @@
+{
+  "bang": "retro",
+  "domain": "https://retropie.org.uk",
+  "url": "https://retropie.org.uk/forum/search?term=%s&in=titlesposts&matchWords=all&sortBy=relevance&sortDirection=desc&showAs=posts",
+  "description": "RetroPie",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

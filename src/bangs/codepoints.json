@@ -1,0 +1,8 @@
+{
+  "bang": "codepoints",
+  "domain": "https://codepoints.net",
+  "url": "http://codepoints.net/search?q=%s",
+  "description": "Codepoints",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

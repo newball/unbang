@@ -1,0 +1,8 @@
+{
+  "bang": "swag",
+  "domain": "https://forum.shopware.com",
+  "url": "https://forum.shopware.com/search?Search=%s",
+  "description": "Shopware Forum",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

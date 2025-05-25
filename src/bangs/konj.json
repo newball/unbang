@@ -1,0 +1,8 @@
+{
+  "bang": "konj",
+  "domain": "https://de.bab.la",
+  "url": "http://de.bab.la/konjugieren/deutsch/%s",
+  "description": "Reverso Konjugator",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "petitweb",
+  "domain": "https://www.petitweb.fr",
+  "url": "http://www.petitweb.fr/?s=%s",
+  "description": "Petit Web",
+  "category": "News",
+  "sub-category": "Specialty"
+}

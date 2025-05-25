@@ -1,0 +1,8 @@
+{
+  "bang": "wickes",
+  "domain": "https://www.wickes.co.uk",
+  "url": "https://www.wickes.co.uk/search?text=%s",
+  "description": "Wickes",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

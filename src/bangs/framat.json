@@ -1,0 +1,8 @@
+{
+  "bang": "framat",
+  "domain": "https://framatube.org",
+  "url": "https://framatube.org/search?search=%s",
+  "description": "FramaTube",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

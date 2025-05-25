@@ -1,0 +1,8 @@
+{
+  "bang": "proz",
+  "domain": "https://www.proz.com",
+  "url": "https://www.proz.com/search/?term=%s",
+  "description": "Proz.com Forums",
+  "category": "Translation",
+  "sub-category": "General"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "pmos",
+  "domain": "https://forum.peppermintos.com",
+  "url": "https://forum.peppermintos.com/index.php?action=search2&search=%s",
+  "description": "PeppermintOS Community Support Forum",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

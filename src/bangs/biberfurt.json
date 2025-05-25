@@ -1,0 +1,8 @@
+{
+  "bang": "biberfurt",
+  "domain": "https://opac.uni-erfurt.de",
+  "url": "http://opac.uni-erfurt.de/DB=1/SET=3/TTL=11/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM=%s",
+  "description": "Katalog der Universitäts- und Forschungsbibliothek Erfurt/Gotha",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "kpoisk",
+  "domain": "https://www.kinopoisk.ru",
+  "url": "http://www.kinopoisk.ru/index.php?first=no&what=&kp_query=%s",
+  "description": "Kinopoisk",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "rfck",
+  "domain": "https://www.rfc-editor.org",
+  "url": "https://www.rfc-editor.org/search/rfc_search_detail.php?title=%s",
+  "description": "IETF RFC Keyword Search",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

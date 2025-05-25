@@ -1,0 +1,8 @@
+{
+  "bang": "yle",
+  "domain": "https://haku.yle.fi",
+  "url": "http://haku.yle.fi/?language=fi&UILanguage=fi&q=%s",
+  "description": "Yle",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

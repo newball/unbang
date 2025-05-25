@@ -1,0 +1,8 @@
+{
+  "bang": "jdbe",
+  "domain": "https://www.lejournaldubienetre.com",
+  "url": "http://www.lejournaldubienetre.com/search?tag=%s",
+  "description": "Le Journal du Bien être",
+  "category": "Entertainment",
+  "sub-category": "Blogs (intl)"
+}

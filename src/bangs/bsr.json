@@ -1,0 +1,8 @@
+{
+  "bang": "bsr",
+  "domain": "https://www.blueskyrotor.com",
+  "url": "http://www.blueskyrotor.com/performance/search/index.php?keyword=%s",
+  "description": "BlueSkyRotor",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

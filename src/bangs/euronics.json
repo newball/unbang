@@ -1,0 +1,8 @@
+{
+  "bang": "euronics",
+  "domain": "https://www.euronics.de",
+  "url": "https://www.euronics.de/search/?sSearch=%s&log=search",
+  "description": "Euronics",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

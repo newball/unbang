@@ -1,0 +1,8 @@
+{
+  "bang": "apc",
+  "domain": "https://auspost.com.au",
+  "url": "https://auspost.com.au/search?q=%s",
+  "description": "Australia Post Postcode Lookup",
+  "category": "Research",
+  "sub-category": "Local"
+}

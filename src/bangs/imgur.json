@@ -1,0 +1,8 @@
+{
+  "bang": "imgur",
+  "domain": "https://imgur.com",
+  "url": "https://imgur.com/search?q=%s",
+  "description": "Imgur",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

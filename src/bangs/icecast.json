@@ -1,0 +1,8 @@
+{
+  "bang": "icecast",
+  "domain": "https://dir.xiph.org",
+  "url": "http://dir.xiph.org/search?search=%s ",
+  "description": "Icecast Directory",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

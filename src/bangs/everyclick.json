@@ -1,0 +1,8 @@
+{
+  "bang": "everyclick",
+  "domain": "https://www.everyclick.com",
+  "url": "http://www.everyclick.com/search?keyword=%s&filterType=&sortType=&searchArea=web&sbtn=",
+  "description": "Every Click",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

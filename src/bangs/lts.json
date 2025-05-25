@@ -1,0 +1,8 @@
+{
+  "bang": "lts",
+  "domain": "https://www.latoilescoute.net",
+  "url": "http://www.latoilescoute.net/spip.php?page=recherche&recherche=%s ",
+  "description": "LaToileScoute",
+  "category": "News",
+  "sub-category": "Specialty"
+}

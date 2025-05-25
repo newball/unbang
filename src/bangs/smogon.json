@@ -1,0 +1,8 @@
+{
+  "bang": "smogon",
+  "domain": "https://www.smogon.com",
+  "url": "https://www.smogon.com/dex/sm/pokemon/%s",
+  "description": "Smogon University",
+  "category": "Entertainment",
+  "sub-category": "Games (Pokemon)"
+}

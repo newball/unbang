@@ -1,0 +1,8 @@
+{
+  "bang": "nerdwallet",
+  "domain": "https://www.nerdwallet.com",
+  "url": "http://www.nerdwallet.com/search/results#q=%s",
+  "description": "NerdWallet ",
+  "category": "Research",
+  "sub-category": "Topical"
+}

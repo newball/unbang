@@ -1,0 +1,8 @@
+{
+  "bang": "flightaware",
+  "domain": "https://flightaware.com",
+  "url": "https://flightaware.com/live/flight/%s ",
+  "description": "Flightaware",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

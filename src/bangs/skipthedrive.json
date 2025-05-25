@@ -1,0 +1,8 @@
+{
+  "bang": "skipthedrive",
+  "domain": "https://www.skipthedrive.com",
+  "url": "http://www.skipthedrive.com/jobs/?search=%s ",
+  "description": "SkipTheDrive",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

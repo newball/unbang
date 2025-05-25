@@ -1,0 +1,8 @@
+{
+  "bang": "avpod",
+  "domain": "https://avpodcast.net",
+  "url": "https://avpodcast.net/?s=%s",
+  "description": "AVpodcast",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

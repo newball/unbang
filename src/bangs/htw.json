@@ -1,0 +1,8 @@
+{
+  "bang": "htw",
+  "domain": "https://www.htw-dresden.de",
+  "url": "https://www.htw-dresden.de/suche.html?tx_kesearch_pi1[sword]=%s",
+  "description": "HTW Dresden",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "mongo",
+  "domain": "https://docs.mongodb.org",
+  "url": "http://docs.mongodb.org/manual/search/?query=%s",
+  "description": "MongoDB",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

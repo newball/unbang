@@ -1,0 +1,8 @@
+{
+  "bang": "wktde",
+  "domain": "https://de.wiktionary.org",
+  "url": "http://de.wiktionary.org/w/index.php?search= %s",
+  "description": "Wiktionary German",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

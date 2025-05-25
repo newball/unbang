@@ -1,0 +1,8 @@
+{
+  "bang": "mercola",
+  "domain": "https://search.mercola.com",
+  "url": "https://search.mercola.com/results.aspx?q=%s ",
+  "description": "Mercola",
+  "category": "Research",
+  "sub-category": "Health"
+}

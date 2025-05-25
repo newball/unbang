@@ -1,0 +1,8 @@
+{
+  "bang": "myfl",
+  "domain": "https://www.myflorida.com",
+  "url": "http://www.myflorida.com/search_results.html?q=%s#gsc.tab=0&gsc.q=dmv&gsc.page=1",
+  "description": "MyFlorida.com",
+  "category": "Research",
+  "sub-category": "Government"
+}

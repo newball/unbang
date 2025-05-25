@@ -1,0 +1,8 @@
+{
+  "bang": "stockcharts",
+  "domain": "https://stockcharts.com",
+  "url": "http://stockcharts.com/h-sc/ui?s=%s&p=D&yr=0&mn=6&dy=0",
+  "description": "StockCharts",
+  "category": "News",
+  "sub-category": "Business"
+}

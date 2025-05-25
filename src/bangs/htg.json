@@ -1,0 +1,8 @@
+{
+  "bang": "htg",
+  "domain": "https://www.howtogeek.com",
+  "url": "http://www.howtogeek.com/search/?q=%s",
+  "description": "How-To Geek",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

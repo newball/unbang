@@ -1,0 +1,8 @@
+{
+  "bang": "winehq",
+  "domain": "https://www.winehq.org",
+  "url": "https://www.winehq.org/search?q=%s",
+  "description": "WineHQ",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

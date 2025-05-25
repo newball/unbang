@@ -1,0 +1,8 @@
+{
+  "bang": "tap",
+  "domain": "https://tappedout.net",
+  "url": "http://tappedout.net/search/?q=%s",
+  "description": "Tappedout.net",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

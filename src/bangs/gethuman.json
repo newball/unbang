@@ -1,0 +1,8 @@
+{
+  "bang": "gethuman",
+  "domain": "https://gethuman.com",
+  "url": "http://gethuman.com/phone-number/search/?q=%s",
+  "description": "GetHuman",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

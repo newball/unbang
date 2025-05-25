@@ -1,0 +1,8 @@
+{
+  "bang": "symbolab",
+  "domain": "https://www.symbolab.com",
+  "url": "https://www.symbolab.com/solver/step-by-step/%s",
+  "description": "Symbolab",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

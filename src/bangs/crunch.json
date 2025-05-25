@@ -1,0 +1,8 @@
+{
+  "bang": "crunch",
+  "domain": "https://www.crunchbase.com",
+  "url": "https://www.crunchbase.com/textsearch/?q=%s",
+  "description": "Crunchbase",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

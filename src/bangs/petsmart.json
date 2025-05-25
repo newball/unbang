@@ -1,0 +1,8 @@
+{
+  "bang": "petsmart",
+  "domain": "https://www.petsmart.com",
+  "url": "http://www.petsmart.com/search/?q=%s",
+  "description": "PetSmart",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "aj",
+  "domain": "https://www.amazon.co.jp",
+  "url": "https://www.amazon.co.jp/s?k=%s",
+  "description": "http://amazon.co.jp",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

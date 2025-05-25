@@ -1,0 +1,8 @@
+{
+  "bang": "qrz",
+  "domain": "https://www.qrz.com",
+  "url": "http://www.qrz.com/db/?callsign=%s&cmd=Search",
+  "description": "QRZ.com",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

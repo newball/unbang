@@ -1,0 +1,8 @@
+{
+  "bang": "lam",
+  "domain": "https://www.lambdatest.com",
+  "url": "https://www.lambdatest.com/blog/?s=%s",
+  "description": "LambdaTest",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

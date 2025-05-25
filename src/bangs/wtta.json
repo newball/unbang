@@ -1,0 +1,8 @@
+{
+  "bang": "wtta",
+  "domain": "https://ta.wiktionary.org",
+  "url": "https://ta.wiktionary.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "விக்சனரி (Wiktionary Tamil)",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

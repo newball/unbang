@@ -1,0 +1,8 @@
+{
+  "bang": "newsh",
+  "domain": "https://us.newshub.org",
+  "url": "http://us.newshub.org/search/%s/us/all/p1",
+  "description": "NewsHub",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

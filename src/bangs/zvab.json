@@ -1,0 +1,8 @@
+{
+  "bang": "zvab",
+  "domain": "https://www.zvab.com",
+  "url": "http://www.zvab.com/basicSearch.do?anyWords=%s",
+  "description": "ZVAB",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

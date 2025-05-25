@@ -1,0 +1,8 @@
+{
+  "bang": "europepmc",
+  "domain": "https://europepmc.org",
+  "url": "http://europepmc.org/search?query=%s",
+  "description": "Europe PMC",
+  "category": "Research",
+  "sub-category": "Academic"
+}

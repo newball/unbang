@@ -1,0 +1,8 @@
+{
+  "bang": "swift",
+  "domain": "https://developer.apple.com",
+  "url": "https://developer.apple.com/search/?q=%s",
+  "description": "Swift Standard Library",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

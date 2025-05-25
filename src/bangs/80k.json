@@ -1,0 +1,8 @@
+{
+  "bang": "80k",
+  "domain": "https://80000hours.org",
+  "url": "https://80000hours.org/search/?q=%s",
+  "description": "80,000 hours",
+  "category": "Research",
+  "sub-category": "Topical"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "retskriv",
+  "domain": "https://dsn.dk",
+  "url": "https://dsn.dk/?retskriv=%s&ae=0",
+  "description": "Dansk Sprognævn",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

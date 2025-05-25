@@ -1,0 +1,8 @@
+{
+  "bang": "nico",
+  "domain": "https://www.nicovideo.jp",
+  "url": "http://www.nicovideo.jp/search/%s",
+  "description": "Nico Nico Douga",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "sconj",
+  "domain": "https://www.spanishdict.com",
+  "url": "http://www.spanishdict.com/conjugate/%s",
+  "description": "SpanishDict verb conjugation",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

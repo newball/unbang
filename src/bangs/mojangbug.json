@@ -1,0 +1,8 @@
+{
+  "bang": "mojangbug",
+  "domain": "https://bugs.mojang.com",
+  "url": "https://bugs.mojang.com/issues/?jql=text ~ '%s'",
+  "description": "Mojang Bug Tracker",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

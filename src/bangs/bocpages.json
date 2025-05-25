@@ -1,0 +1,8 @@
+{
+  "bang": "bocpages",
+  "domain": "https://bocpages.org",
+  "url": "http://bocpages.org/w/index.php?search=%s",
+  "description": "bocpages",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "reed",
+  "domain": "https://www.reed.co.uk",
+  "url": "http://www.reed.co.uk/job/searchresults.aspx?k=%s",
+  "description": "reed.co.uk",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

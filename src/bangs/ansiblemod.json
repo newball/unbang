@@ -1,0 +1,8 @@
+{
+  "bang": "ansiblemod",
+  "domain": "https://docs.ansible.com",
+  "url": "http://docs.ansible.com/ansible/%s_module.html",
+  "description": "Ansible Module Documentation",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

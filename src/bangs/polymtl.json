@@ -1,0 +1,8 @@
+{
+  "bang": "polymtl",
+  "domain": "https://www.polymtl.ca",
+  "url": "https://www.polymtl.ca/etudes/cours/recherche/*?sigle=%s",
+  "description": "Polytechnique Montreal",
+  "category": "Research",
+  "sub-category": "Academic"
+}

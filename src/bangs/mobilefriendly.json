@@ -1,0 +1,8 @@
+{
+  "bang": "mobilefriendly",
+  "domain": "https://search.google.com",
+  "url": "https://search.google.com/test/mobile-friendly?url=%s",
+  "description": "Mobile-Friendly Test - Google",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ipvoid",
+  "domain": "https://www.ipvoid.com",
+  "url": "http://www.ipvoid.com/scan/%s",
+  "description": "Ipvoid",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

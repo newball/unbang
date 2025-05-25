@@ -1,0 +1,8 @@
+{
+  "bang": "searsca",
+  "domain": "https://www.sears.ca",
+  "url": "http://www.sears.ca/en/search?q=%s&lang=default",
+  "description": "Sears Canada",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

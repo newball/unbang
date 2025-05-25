@@ -1,0 +1,8 @@
+{
+  "bang": "evreward",
+  "domain": "https://evreward.com",
+  "url": "http://evreward.com/store/find?store[name]=%s",
+  "description": "Evreward",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

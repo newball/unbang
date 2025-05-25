@@ -1,0 +1,8 @@
+{
+  "bang": "вс",
+  "domain": "https://ru.wiktionary.org",
+  "url": "https://ru.wiktionary.org/w/index.php?search=%s&ns0=1",
+  "description": "Викисловарь",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

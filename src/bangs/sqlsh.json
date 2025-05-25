@@ -1,0 +1,8 @@
+{
+  "bang": "sqlsh",
+  "domain": "https://sql.sh",
+  "url": "http://sql.sh/?s=%s&submit=Rechercher",
+  "description": "SQL.sh",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

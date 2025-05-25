@@ -1,0 +1,8 @@
+{
+  "bang": "osdn",
+  "domain": "https://osdn.net",
+  "url": "https://osdn.net/search/?iq=%s",
+  "description": "OSDN",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

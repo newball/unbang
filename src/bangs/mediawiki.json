@@ -1,0 +1,8 @@
+{
+  "bang": "mediawiki",
+  "domain": "https://www.mediawiki.org",
+  "url": "https://www.mediawiki.org/w/index.php?search=%s ",
+  "description": "MediaWiki",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

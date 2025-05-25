@@ -1,0 +1,8 @@
+{
+  "bang": "dkwk",
+  "domain": "https://www.dokuwiki.org",
+  "url": "http://www.dokuwiki.org/start?do=search&id=%s",
+  "description": "DokuWiki",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

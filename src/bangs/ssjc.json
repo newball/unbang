@@ -1,0 +1,8 @@
+{
+  "bang": "ssjc",
+  "domain": "https://ssjc.ujc.cas.cz",
+  "url": "http://ssjc.ujc.cas.cz/search.php?heslo=%s",
+  "description": "Slovník spisovného jazyka českého",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

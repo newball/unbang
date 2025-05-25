@@ -1,0 +1,8 @@
+{
+  "bang": "time",
+  "domain": "https://www.unixtimestamp.org",
+  "url": "http://www.unixtimestamp.org/?timestamp=%s",
+  "description": "Unix Timestamp",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

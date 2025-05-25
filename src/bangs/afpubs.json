@@ -1,0 +1,8 @@
+{
+  "bang": "afpubs",
+  "domain": "https://www.e-publishing.af.mil",
+  "url": "http://www.e-publishing.af.mil/index.asp?txtSearchWord=%s&rdoFormPub=rdoPub",
+  "description": "U.S. Air Force Forms and Publications",
+  "category": "Research",
+  "sub-category": "Government"
+}

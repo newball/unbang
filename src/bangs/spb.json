@@ -1,0 +1,8 @@
+{
+  "bang": "spb",
+  "domain": "https://speiderbasen.no",
+  "url": "https://speiderbasen.no/?searchWord=%s",
+  "description": "Speiderbasen",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ddgde",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?kl=de-de&q=%s",
+  "description": "duckduckgo",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

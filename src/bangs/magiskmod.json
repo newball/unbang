@@ -1,0 +1,8 @@
+{
+  "bang": "magiskmod",
+  "domain": "https://github.com",
+  "url": "https://github.com/Magisk-Modules-Repo?&q=%s",
+  "description": "Magisk modules repo",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

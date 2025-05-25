@@ -1,0 +1,8 @@
+{
+  "bang": "umk",
+  "domain": "https://opac.bu.umk.pl",
+  "url": "http://opac.bu.umk.pl/webpac-bin/B_horizonPL/wgbroker.exe?new+-access+top+search+open+CI+%s",
+  "description": "Biblioteka UMK",
+  "category": "Research",
+  "sub-category": "Learning"
+}

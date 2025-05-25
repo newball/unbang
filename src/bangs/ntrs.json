@@ -1,0 +1,8 @@
+{
+  "bang": "ntrs",
+  "domain": "https://ntrs.nasa.gov",
+  "url": "https://ntrs.nasa.gov/?Ntt=%s&Ntx=mode matchallpartial&Nm=123|Collection|NASA STI||17|Collection|NACA",
+  "description": "Nasa technical reports server",
+  "category": "Research",
+  "sub-category": "Government"
+}

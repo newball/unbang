@@ -1,0 +1,8 @@
+{
+  "bang": "dcom",
+  "domain": "https://www.dictionary.com",
+  "url": "http://www.dictionary.com/browse/%s",
+  "description": "Dictionary.com",
+  "category": "Research",
+  "sub-category": "Reference"
+}

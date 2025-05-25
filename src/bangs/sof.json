@@ -1,0 +1,8 @@
+{
+  "bang": "sof",
+  "domain": "https://stackoverflow.com",
+  "url": "https://stackoverflow.com/search?q=%s",
+  "description": "StackOverflow",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

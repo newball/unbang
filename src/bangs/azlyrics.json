@@ -1,0 +1,8 @@
+{
+  "bang": "azlyrics",
+  "domain": "https://search.azlyrics.com",
+  "url": "http://search.azlyrics.com/search.php?q=%s",
+  "description": "AZLyrics",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

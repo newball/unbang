@@ -1,0 +1,8 @@
+{
+  "bang": "ges",
+  "domain": "https://www.google.es",
+  "url": "https://www.google.es/search?q=%s ",
+  "description": "Google Spain",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "eaterlon",
+  "domain": "https://london.eater.com",
+  "url": "https://london.eater.com/search?q=%s",
+  "description": "Eater London",
+  "category": "News",
+  "sub-category": "Specialty"
+}

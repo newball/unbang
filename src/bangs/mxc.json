@@ -1,0 +1,8 @@
+{
+  "bang": "mxc",
+  "domain": "https://www.mixcloud.com",
+  "url": "https://www.mixcloud.com/%s",
+  "description": "MIxcloud",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

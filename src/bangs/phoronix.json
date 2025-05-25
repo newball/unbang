@@ -1,0 +1,8 @@
+{
+  "bang": "phoronix",
+  "domain": "https://www.phoronix.com",
+  "url": "https://www.phoronix.com/scan.php?page=search&q=%s",
+  "description": "Phoronix",
+  "category": "News",
+  "sub-category": "Specialty"
+}

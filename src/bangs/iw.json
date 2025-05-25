@@ -1,0 +1,8 @@
+{
+  "bang": "iw",
+  "domain": "https://instantwatcher.com",
+  "url": "http://instantwatcher.com/search?content_type=1+2&source=1+2+3&q=%s",
+  "description": "instantwatcher",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

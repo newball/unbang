@@ -1,0 +1,8 @@
+{
+  "bang": "deb",
+  "domain": "https://packages.debian.org",
+  "url": "https://packages.debian.org/search?keywords=%s",
+  "description": "Debian Packages",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

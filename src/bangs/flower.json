@@ -1,0 +1,8 @@
+{
+  "bang": "flower",
+  "domain": "https://www.wildflower.org",
+  "url": "http://www.wildflower.org/plants/search.php?search_field=%s&newsearch=true",
+  "description": "Wildflower Center",
+  "category": "Research",
+  "sub-category": "Learning"
+}

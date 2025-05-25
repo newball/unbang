@@ -1,0 +1,8 @@
+{
+  "bang": "csurf",
+  "domain": "https://www.couchsurfing.com",
+  "url": "https://www.couchsurfing.com/?q=%s",
+  "description": "Couchsurfing.org",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

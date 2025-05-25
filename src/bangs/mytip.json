@@ -1,0 +1,8 @@
+{
+  "bang": "mytip",
+  "domain": "https://www.mytip.co",
+  "url": "https://www.mytip.co/explore?search=%s",
+  "description": "MyTip",
+  "category": "Online Services",
+  "sub-category": "Tools (fundraising)"
+}

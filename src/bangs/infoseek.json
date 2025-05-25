@@ -1,0 +1,8 @@
+{
+  "bang": "infoseek",
+  "domain": "https://websearch.rakuten.co.jp",
+  "url": "http://websearch.rakuten.co.jp/Web?qt=%s",
+  "description": "Rakuten Infoseek",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

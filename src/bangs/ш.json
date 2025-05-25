@@ -1,0 +1,8 @@
+{
+  "bang": "ш",
+  "domain": "https://ru.wikipedia.org",
+  "url": "https://ru.wikipedia.org/w/index.php?search=%s",
+  "description": "Wikipedia (ru)",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

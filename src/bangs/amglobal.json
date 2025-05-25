@@ -1,0 +1,8 @@
+{
+  "bang": "amglobal",
+  "domain": "https://www.amazon.com",
+  "url": "https://www.amazon.com/s?k=%s&i=us-worldwide-shipping-aps",
+  "description": "Amazon (GLOBAL)",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

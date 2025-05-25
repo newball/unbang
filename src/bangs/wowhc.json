@@ -1,0 +1,8 @@
+{
+  "bang": "wowhc",
+  "domain": "https://classic.wowhead.com",
+  "url": "https://classic.wowhead.com/search?q=%s",
+  "description": "wowhead classic",
+  "category": "Entertainment",
+  "sub-category": "Games (WOW)"
+}

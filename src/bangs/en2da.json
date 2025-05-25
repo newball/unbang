@@ -1,0 +1,8 @@
+{
+  "bang": "en2da",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#en/da/%s",
+  "description": "Translate English to Danish",
+  "category": "Translation",
+  "sub-category": "Google"
+}

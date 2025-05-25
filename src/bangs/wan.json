@@ -1,0 +1,8 @@
+{
+  "bang": "wan",
+  "domain": "https://an.wikipedia.org",
+  "url": "https://an.wikipedia.org/w/index.php?search=%s&title=Especial%3AMirar",
+  "description": "Wikipedia (AN)",
+  "category": "Research",
+  "sub-category": "Reference"
+}

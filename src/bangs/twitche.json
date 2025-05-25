@@ -1,0 +1,8 @@
+{
+  "bang": "twitche",
+  "domain": "https://twitchemotes.com",
+  "url": "https://twitchemotes.com/search?query=%s",
+  "description": "https://twitchemotes.com",
+  "category": "Research",
+  "sub-category": "Reference"
+}

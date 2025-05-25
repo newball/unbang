@@ -1,0 +1,8 @@
+{
+  "bang": "arcblog",
+  "domain": "https://www.esri.com",
+  "url": "https://www.esri.com/en-us/search/?q=%s",
+  "description": "ArcGIS Blogs",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

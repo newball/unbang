@@ -1,0 +1,8 @@
+{
+  "bang": "unix",
+  "domain": "https://minnie.tuhs.org",
+  "url": "http://minnie.tuhs.org/cgi-bin/utree.pl?filesearch=%s&submit=Go",
+  "description": "The Unix Tree",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

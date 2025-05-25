@@ -1,0 +1,8 @@
+{
+  "bang": "etimo",
+  "domain": "https://etimo.it",
+  "url": "http://etimo.it/?term=%s",
+  "description": "Dizionario Etimologico",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ndr",
+  "domain": "https://www.ndr.de",
+  "url": "https://www.ndr.de/suche10.html?query=%s",
+  "description": "Norddeutscher Rundfunk",
+  "category": "News",
+  "sub-category": "Magazine"
+}

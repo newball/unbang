@@ -1,0 +1,8 @@
+{
+  "bang": "mvnrepository",
+  "domain": "https://mvnrepository.com",
+  "url": "http://mvnrepository.com/search.html?query=%s",
+  "description": "MVNRepository",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "fma",
+  "domain": "https://freemusicarchive.org",
+  "url": "http://freemusicarchive.org/search/?quicksearch=%s&sort=track_interest",
+  "description": "Free Music Archive",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

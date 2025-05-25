@@ -1,0 +1,8 @@
+{
+  "bang": "appsliced",
+  "domain": "https://appsliced.co",
+  "url": "http://appsliced.co/apps?search=%s",
+  "description": "App Sliced",
+  "category": "Tech",
+  "sub-category": "Downloads (apps)"
+}

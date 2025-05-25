@@ -1,0 +1,8 @@
+{
+  "bang": "aip",
+  "domain": "https://scitation.aip.org",
+  "url": "http://scitation.aip.org/search?value1=%s&option1=fulltext",
+  "description": "aip.org",
+  "category": "Research",
+  "sub-category": "Academic"
+}

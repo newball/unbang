@@ -1,0 +1,8 @@
+{
+  "bang": "gt-russian",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/ru/%s",
+  "description": "Detect language to Russian",
+  "category": "Translation",
+  "sub-category": "Google"
+}

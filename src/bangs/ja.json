@@ -1,0 +1,8 @@
+{
+  "bang": "ja",
+  "domain": "https://www.j-archive.com",
+  "url": "http://www.j-archive.com/search.php?search=%s",
+  "description": "j-archive",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "toutvendre",
+  "domain": "https://www.toutvendre.fr",
+  "url": "https://www.toutvendre.fr/s?k=%s",
+  "description": "ToutVendre",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

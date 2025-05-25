@@ -1,0 +1,8 @@
+{
+  "bang": "learnxiny",
+  "domain": "https://learnxinyminutes.com",
+  "url": "https://learnxinyminutes.com/docs/%s/",
+  "description": "Learn X in Y",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

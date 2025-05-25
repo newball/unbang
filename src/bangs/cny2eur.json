@@ -1,0 +1,8 @@
+{
+  "bang": "cny2eur",
+  "domain": "https://www.xe.com",
+  "url": "https://www.xe.com/currencyconverter/convert/?From=CNY&To=EUR&Amount=%s",
+  "description": "XE",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

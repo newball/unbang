@@ -1,0 +1,8 @@
+{
+  "bang": "reviewgeek",
+  "domain": "https://www.reviewgeek.com",
+  "url": "https://www.reviewgeek.com/?s=%s",
+  "description": "ReviewGeek",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "hansard",
+  "domain": "https://hansard.parliament.uk",
+  "url": "https://hansard.parliament.uk/search?searchTerm=%s",
+  "description": "Hansard (UK Parliament)",
+  "category": "Research",
+  "sub-category": "Government"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "noi",
+  "domain": "https://www.noi.cn",
+  "url": "http://www.noi.cn/search.html?q=%s",
+  "description": "CCF NOI 官网",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

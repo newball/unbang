@@ -1,0 +1,8 @@
+{
+  "bang": "intercept",
+  "domain": "https://theintercept.com",
+  "url": "https://theintercept.com/search/?s=%s",
+  "description": "The Intercept",
+  "category": "News",
+  "sub-category": "Specialty"
+}

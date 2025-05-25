@@ -1,0 +1,8 @@
+{
+  "bang": "uptodown",
+  "domain": "https://en.uptodown.com",
+  "url": "https://en.uptodown.com/android/search/%s",
+  "description": "Uptodown",
+  "category": "Tech",
+  "sub-category": "Downloads (apps)"
+}

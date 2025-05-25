@@ -1,0 +1,8 @@
+{
+  "bang": "@",
+  "domain": "https://twitter.com",
+  "url": "https://twitter.com/%s",
+  "description": "Twitter User Page",
+  "category": "News",
+  "sub-category": "International"
+}

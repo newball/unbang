@@ -1,0 +1,8 @@
+{
+  "bang": "nltk",
+  "domain": "https://www.nltk.org",
+  "url": "http://www.nltk.org/search.html?q=%s",
+  "description": "Natural Language ToolKit",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

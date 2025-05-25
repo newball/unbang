@@ -1,0 +1,8 @@
+{
+  "bang": "er",
+  "domain": "https://www.erowid.org",
+  "url": "https://www.erowid.org/search.php?q=%s",
+  "description": "Erowid",
+  "category": "Research",
+  "sub-category": "Health"
+}

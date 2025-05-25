@@ -1,0 +1,8 @@
+{
+  "bang": "osrm",
+  "domain": "https://map.project-osrm.org",
+  "url": "http://map.project-osrm.org/?dest=%s",
+  "description": "Open Source Routing Machine",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "pdqtglobal",
+  "domain": "https://fedsearch.proquest.com",
+  "url": "http://fedsearch.proquest.com/search/sru/pqdtglobal?operation=searchRetrieve&version=1.2&maximumRecords=30&query=%s",
+  "description": "ProQuest Dissertations & Theses Global",
+  "category": "Research",
+  "sub-category": "Academic"
+}

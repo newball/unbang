@@ -1,0 +1,8 @@
+{
+  "bang": "dreg",
+  "domain": "https://www.diarioregistrado.com",
+  "url": "https://www.diarioregistrado.com/search?text=%s",
+  "description": "Diario Registrado",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

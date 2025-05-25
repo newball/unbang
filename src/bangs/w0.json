@@ -1,0 +1,8 @@
+{
+  "bang": "w0",
+  "domain": "https://www.wikizero.com",
+  "url": "https://www.wikizero.com/search.php?s=%s&lang=en",
+  "description": "Wikizero",
+  "category": "Research",
+  "sub-category": "Academic"
+}

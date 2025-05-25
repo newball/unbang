@@ -1,0 +1,8 @@
+{
+  "bang": "plp",
+  "domain": "https://www.playpilot.com",
+  "url": "https://www.playpilot.com/se/en/search/?q=%s",
+  "description": "Playpilot",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

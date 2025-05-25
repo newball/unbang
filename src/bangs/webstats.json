@@ -1,0 +1,8 @@
+{
+  "bang": "webstats",
+  "domain": "https://www.webstatsdomain.com",
+  "url": "http://www.webstatsdomain.com/?q=%s ",
+  "description": "webstatsdomain",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

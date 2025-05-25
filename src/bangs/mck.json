@@ -1,0 +1,8 @@
+{
+  "bang": "mck",
+  "domain": "https://mms.mckesson.com",
+  "url": "https://mms.mckesson.com/catalog?query=%s",
+  "description": "McKesson",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

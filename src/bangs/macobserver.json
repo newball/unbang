@@ -1,0 +1,8 @@
+{
+  "bang": "macobserver",
+  "domain": "https://www.macobserver.com",
+  "url": "https://www.macobserver.com/?s=%s",
+  "description": "The Mac Observer",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

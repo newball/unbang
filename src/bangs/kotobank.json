@@ -1,0 +1,8 @@
+{
+  "bang": "kotobank",
+  "domain": "https://kotobank.jp",
+  "url": "http://kotobank.jp/word/%s ",
+  "description": "コトバンク用語検索",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

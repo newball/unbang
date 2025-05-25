@@ -1,0 +1,8 @@
+{
+  "bang": "wikinl",
+  "domain": "https://nl.wikipedia.org",
+  "url": "https://nl.wikipedia.org/w/index.php?search=%s",
+  "description": "Wikipedia Nederland",
+  "category": "Multimedia",
+  "sub-category": "Docs"
+}

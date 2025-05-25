@@ -1,0 +1,8 @@
+{
+  "bang": "sigma",
+  "domain": "https://www.sigmaaldrich.com",
+  "url": "http://www.sigmaaldrich.com/catalog/search?interface=All&term=%s",
+  "description": "Sigma Aldritch Catalog",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "filefacts",
+  "domain": "https://www.filefacts.net",
+  "url": "http://www.filefacts.net/search.php?ext=%s",
+  "description": "Filefacts",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

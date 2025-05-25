@@ -1,0 +1,8 @@
+{
+  "bang": "fbugs",
+  "domain": "https://bugs.freebsd.org",
+  "url": "https://bugs.freebsd.org/bugzilla/buglist.cgi?quicksearch=%s",
+  "description": "FreeBSD Bugs",
+  "category": "Tech",
+  "sub-category": "Sysadmin (FreeBSD)"
+}

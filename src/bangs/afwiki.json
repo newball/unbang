@@ -1,0 +1,8 @@
+{
+  "bang": "afwiki",
+  "domain": "https://af.wikipedia.org",
+  "url": "https://af.wikipedia.org/w/index.php?search=%s&title=Spesiaal%3ASoek&go=Wys",
+  "description": "Afrikaans Wikipedia",
+  "category": "Research",
+  "sub-category": "Learning"
+}

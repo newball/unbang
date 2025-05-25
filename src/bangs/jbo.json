@@ -1,0 +1,8 @@
+{
+  "bang": "jbo",
+  "domain": "https://jbovlaste.lojban.org",
+  "url": "http://jbovlaste.lojban.org/lookup?Form=lookup.pl1&Strategy=*&Query=%s",
+  "description": " The Logical Language Group Online Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

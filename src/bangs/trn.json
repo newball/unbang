@@ -1,0 +1,8 @@
+{
+  "bang": "trn",
+  "domain": "https://therealnews.com",
+  "url": "https://therealnews.com/?s=%s",
+  "description": "The Real News",
+  "category": "News",
+  "sub-category": "International"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "uitinv",
+  "domain": "https://www.uitinvlaanderen.be",
+  "url": "http://www.uitinvlaanderen.be/agenda/search?query=%s",
+  "description": "UIT in Vlaanderen",
+  "category": "Entertainment",
+  "sub-category": "Events"
+}

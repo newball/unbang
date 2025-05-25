@@ -1,0 +1,8 @@
+{
+  "bang": "pegi",
+  "domain": "https://pegi.info",
+  "url": "https://pegi.info/search-pegi?q=%s",
+  "description": "PEGI",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

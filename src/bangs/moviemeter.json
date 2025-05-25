@@ -1,0 +1,8 @@
+{
+  "bang": "moviemeter",
+  "domain": "https://www.moviemeter.nl",
+  "url": "https://www.moviemeter.nl/site/search?q=%s",
+  "description": "Movie Meter",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "liu",
+  "domain": "https://search.liu.se",
+  "url": "http://search.liu.se/en/?query=%s",
+  "description": "Linköping University",
+  "category": "Research",
+  "sub-category": "Academic"
+}

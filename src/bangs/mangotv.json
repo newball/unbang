@@ -1,0 +1,8 @@
+{
+  "bang": "mangotv",
+  "domain": "https://mangotv.co",
+  "url": "http://mangotv.co/?s=%s",
+  "description": "Mango TV",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "askreddit",
+  "domain": "https://www.reddit.com",
+  "url": "https://www.reddit.com/r/AskReddit/search?q=%s&restrict_sr=on&sort=relevance&t=all",
+  "description": "/r/AskReddit",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

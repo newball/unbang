@@ -1,0 +1,8 @@
+{
+  "bang": "news",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s&iar=news&ia=news",
+  "description": "DuckDuckGo News",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

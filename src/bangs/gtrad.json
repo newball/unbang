@@ -1,0 +1,8 @@
+{
+  "bang": "gtrad",
+  "domain": "https://translate.google.com",
+  "url": "http://translate.google.com/#auto/fr/%s",
+  "description": "Google Translate",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

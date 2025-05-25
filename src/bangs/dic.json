@@ -1,0 +1,8 @@
+{
+  "bang": "dic",
+  "domain": "https://www.merriam-webster.com",
+  "url": "http://www.merriam-webster.com/dictionary/%s",
+  "description": "http://www.merriam-webster.com/",
+  "category": "Research",
+  "sub-category": "Academic"
+}

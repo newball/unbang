@@ -1,0 +1,8 @@
+{
+  "bang": "tgc",
+  "domain": "https://www.thegreatcourses.com",
+  "url": "http://www.thegreatcourses.com/search/result/?q=%s",
+  "description": "The Great Courses",
+  "category": "Research",
+  "sub-category": "Learning"
+}

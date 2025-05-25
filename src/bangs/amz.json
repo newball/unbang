@@ -1,0 +1,8 @@
+{
+  "bang": "amz",
+  "domain": "https://www.amazon.com",
+  "url": "https://www.amazon.com/s?k=%s",
+  "description": "Amazon",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

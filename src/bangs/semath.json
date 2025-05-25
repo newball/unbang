@@ -1,0 +1,8 @@
+{
+  "bang": "semath",
+  "domain": "https://math.stackexchange.com",
+  "url": "https://math.stackexchange.com/search?q=%s",
+  "description": "Mathematics StackExchange",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

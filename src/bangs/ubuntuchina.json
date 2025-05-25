@@ -1,0 +1,8 @@
+{
+  "bang": "ubuntuchina",
+  "domain": "https://forum.ubuntu.org.cn",
+  "url": "https://forum.ubuntu.org.cn/search.php?keywords=%s",
+  "description": "Ubuntu China Forum",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Ubuntu)"
+}

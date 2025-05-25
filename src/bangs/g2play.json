@@ -1,0 +1,8 @@
+{
+  "bang": "g2play",
+  "domain": "https://www.g2play.net",
+  "url": "http://www.g2play.net/catalogsearch/result/index/?q=%s",
+  "description": "G2play",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

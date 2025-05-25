@@ -1,0 +1,8 @@
+{
+  "bang": "datablogger",
+  "domain": "https://www.data-blogger.com",
+  "url": "https://www.data-blogger.com/?s=%s&submit=Search",
+  "description": "Data Blogger",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

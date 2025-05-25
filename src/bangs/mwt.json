@@ -1,0 +1,8 @@
+{
+  "bang": "mwt",
+  "domain": "https://www.merriam-webster.com",
+  "url": "http://www.merriam-webster.com/thesaurus/%s",
+  "description": "Thesaurus by Merriam-Webster ",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "goproblog",
+  "domain": "https://www.goproblog.nl",
+  "url": "https://www.goproblog.nl/component/search/?searchword=%s",
+  "description": "GoPro Blog",
+  "category": "Entertainment",
+  "sub-category": "Blogs (intl)"
+}

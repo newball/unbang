@@ -1,0 +1,8 @@
+{
+  "bang": "tuwlib",
+  "domain": "https://catalogplus.tuwien.ac.at",
+  "url": "https://catalogplus.tuwien.ac.at/primo_library/libweb/action/dlSearch.do?queryfield=&x=0&y=0&institution=UTW&vid=UTW&tab=default_tab&search_scope=UTW&mode=Basic&indx=1&bulkSize=10&dum=true&highlight=true&pcAvailabiltyMode=false&prefLang=en_US&dummyChar=♥&query=any%2Ccontains%2C%s&displayField=title",
+  "description": "TUW Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

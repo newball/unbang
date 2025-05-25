@@ -1,0 +1,8 @@
+{
+  "bang": "pony",
+  "domain": "https://stdlib.ponylang.org",
+  "url": "https://stdlib.ponylang.org/search.html?q=%s",
+  "description": "Pony Standard Library",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

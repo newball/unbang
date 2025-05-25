@@ -1,0 +1,8 @@
+{
+  "bang": "ghus",
+  "domain": "https://github.com",
+  "url": "https://github.com/%s/",
+  "description": "Github User",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

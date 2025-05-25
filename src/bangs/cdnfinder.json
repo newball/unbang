@@ -1,0 +1,8 @@
+{
+  "bang": "cdnfinder",
+  "domain": "https://www.cdnplanet.com",
+  "url": "http://www.cdnplanet.com/tools/cdnfinder/#host:%s ",
+  "description": "CDNPlanet CDN Finder Tool",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

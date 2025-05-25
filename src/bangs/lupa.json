@@ -1,0 +1,8 @@
+{
+  "bang": "lupa",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s+site%3Apiaui.folha.uol.com.br+inurl%3Alupa&ia=web",
+  "description": "(DuckDuckGo) Agência Lupa Fact-Checking Brasil",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

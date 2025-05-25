@@ -1,0 +1,8 @@
+{
+  "bang": "mozpb",
+  "domain": "https://phonebook.mozilla.org",
+  "url": "https://phonebook.mozilla.org/?search/%s",
+  "description": "Mozilla Phonebook",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

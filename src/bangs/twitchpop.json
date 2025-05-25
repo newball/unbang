@@ -1,0 +1,8 @@
+{
+  "bang": "twitchpop",
+  "domain": "https://player.twitch.tv",
+  "url": "https://player.twitch.tv/?volume=0.5&channel=%s",
+  "description": "Twitch.tv",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

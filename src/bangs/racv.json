@@ -1,0 +1,8 @@
+{
+  "bang": "racv",
+  "domain": "https://www.racv.com.au",
+  "url": "https://www.racv.com.au/search-results.html?q=%s",
+  "description": "RACV",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

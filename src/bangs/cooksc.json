@@ -1,0 +1,8 @@
+{
+  "bang": "cooksc",
+  "domain": "https://www.cookscountry.com",
+  "url": "http://www.cookscountry.com/search/?type=&q=%s",
+  "description": "Cook's Country",
+  "category": "Research",
+  "sub-category": "Food"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "clhs",
+  "domain": "https://www.lispworks.com",
+  "url": "http://www.lispworks.com/cgi-bin/search.cgi?q=%s&cmd=Search%21&t=-D--HB-",
+  "description": "CommonLisp HyperSpec",
+  "category": "Tech",
+  "sub-category": "Languages (lisp)"
+}

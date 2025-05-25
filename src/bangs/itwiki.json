@@ -1,0 +1,8 @@
+{
+  "bang": "itwiki",
+  "domain": "https://it.wikipedia.org",
+  "url": "https://it.wikipedia.org/wiki/Special:Search?search=%s",
+  "description": "Italian Wikipedia",
+  "category": "Research",
+  "sub-category": "Reference"
+}

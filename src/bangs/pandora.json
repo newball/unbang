@@ -1,0 +1,8 @@
+{
+  "bang": "pandora",
+  "domain": "https://www.pandora.com",
+  "url": "https://www.pandora.com/search/%s/all",
+  "description": "Pandora",
+  "category": "Entertainment",
+  "sub-category": "Radio"
+}

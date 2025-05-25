@@ -1,0 +1,8 @@
+{
+  "bang": "cmake30",
+  "domain": "https://www.cmake.org",
+  "url": "http://www.cmake.org/cmake/help/v3.0/search.html?q=%s",
+  "description": "CMake 3.0 Documentation",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

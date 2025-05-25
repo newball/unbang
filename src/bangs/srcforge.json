@@ -1,0 +1,8 @@
+{
+  "bang": "srcforge",
+  "domain": "https://sourceforge.net",
+  "url": "http://sourceforge.net/directory/os:windows/freshness:recently-updated/?q=%s",
+  "description": "SourceForge",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

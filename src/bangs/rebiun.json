@@ -1,0 +1,8 @@
+{
+  "bang": "rebiun",
+  "domain": "https://rebiun.baratz.es",
+  "url": "http://rebiun.baratz.es/rebiun/search?q=%s&start=0&rows=12&sort=score+desc&advanced_handler=advanced",
+  "description": "Red de Bibliotecas REBIUN",
+  "category": "Research",
+  "sub-category": "Academic"
+}

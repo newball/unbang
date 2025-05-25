@@ -1,0 +1,8 @@
+{
+  "bang": "ocs",
+  "domain": "https://www.opendesktop.org",
+  "url": "https://www.opendesktop.org/search?projectSearchText=%s",
+  "description": "openDesktop.org",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

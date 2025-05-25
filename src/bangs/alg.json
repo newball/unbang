@@ -1,0 +1,8 @@
+{
+  "bang": "alg",
+  "domain": "https://www.algomation.com",
+  "url": "http://www.algomation.com/search?q=%s",
+  "description": "Algomation",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

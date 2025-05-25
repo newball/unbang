@@ -1,0 +1,8 @@
+{
+  "bang": "ftn",
+  "domain": "https://www.fortuneo.fr",
+  "url": "https://www.fortuneo.fr/recherche?term=%s",
+  "description": "Fortuneo",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

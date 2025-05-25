@@ -1,0 +1,8 @@
+{
+  "bang": "babelnet",
+  "domain": "https://live.babelnet.org",
+  "url": "http://live.babelnet.org/search?word=%s&lang=EN",
+  "description": "BabelNet",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "nayiri",
+  "domain": "https://nayiri.com",
+  "url": "http://nayiri.com/search?query=%s",
+  "description": "Nayiri Armenian dictionary",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

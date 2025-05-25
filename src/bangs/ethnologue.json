@@ -1,0 +1,8 @@
+{
+  "bang": "ethnologue",
+  "domain": "https://www.ethnologue.com",
+  "url": "http://www.ethnologue.com/search?keys=%s",
+  "description": "Ethnologue",
+  "category": "Research",
+  "sub-category": "Reference"
+}

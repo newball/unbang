@@ -1,0 +1,8 @@
+{
+  "bang": "pcworld",
+  "domain": "https://www.pcworld.com",
+  "url": "http://www.pcworld.com/search?qt=%s&tk=srch_top",
+  "description": "PC World",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

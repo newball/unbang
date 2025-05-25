@@ -1,0 +1,8 @@
+{
+  "bang": "sputnikmusic",
+  "domain": "https://www.sputnikmusic.com",
+  "url": "https://www.sputnikmusic.com/search_results.php?search_in=Bands&search_text=%s",
+  "description": "Sputnik Music",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

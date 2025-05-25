@@ -1,0 +1,8 @@
+{
+  "bang": "wit",
+  "domain": "https://it.wikipedia.org",
+  "url": "http://it.wikipedia.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikipedia (IT)",
+  "category": "Research",
+  "sub-category": "Academic"
+}

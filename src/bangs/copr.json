@@ -1,0 +1,8 @@
+{
+  "bang": "copr",
+  "domain": "https://copr.fedoraproject.org",
+  "url": "http://copr.fedoraproject.org/coprs/fulltext/?fulltext=%s",
+  "description": "Fedora Copr",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Fedora)"
+}

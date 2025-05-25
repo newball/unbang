@@ -1,0 +1,8 @@
+{
+  "bang": "prel",
+  "domain": "https://archive.org",
+  "url": "https://archive.org/details/prelinger?and%5B%5D=%s",
+  "description": "Internet Archive - Prelinger Archives",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "cdkeys",
+  "domain": "https://www.cdkeys.com",
+  "url": "https://www.cdkeys.com/catalogsearch/result/?q=%s",
+  "description": "CDKeys",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

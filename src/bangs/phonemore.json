@@ -1,0 +1,8 @@
+{
+  "bang": "phonemore",
+  "domain": "https://www.phonemore.com",
+  "url": "https://www.phonemore.com/search/?q=%s",
+  "description": "PhoneMore",
+  "category": "News",
+  "sub-category": "Specialty"
+}

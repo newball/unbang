@@ -1,0 +1,8 @@
+{
+  "bang": "ttb-ita",
+  "domain": "https://tatoeba.org",
+  "url": "http://tatoeba.org/eng/sentences/search?query=%s&from=und&to=ita",
+  "description": "Tatoeba to Italian",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

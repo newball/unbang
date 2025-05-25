@@ -1,0 +1,8 @@
+{
+  "bang": "digg",
+  "domain": "https://digg.com",
+  "url": "http://digg.com/search?q=%s",
+  "description": "Digg",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

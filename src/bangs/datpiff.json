@@ -1,0 +1,8 @@
+{
+  "bang": "datpiff",
+  "domain": "https://datpiff.com",
+  "url": "http://datpiff.com/mixtapes-search?criteria=%s&sort=rating",
+  "description": "Datpiff",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

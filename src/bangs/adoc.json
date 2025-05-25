@@ -1,0 +1,8 @@
+{
+  "bang": "adoc",
+  "domain": "https://docs.ansible.com",
+  "url": "https://docs.ansible.com/ansible/latest/search.html?q=%s",
+  "description": "Ansible Docs",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

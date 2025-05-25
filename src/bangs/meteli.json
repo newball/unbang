@@ -1,0 +1,8 @@
+{
+  "bang": "meteli",
+  "domain": "https://www.meteli.net",
+  "url": "http://www.meteli.net/tapahtumahaku?q=%s",
+  "description": "Meteli",
+  "category": "Entertainment",
+  "sub-category": "Events"
+}

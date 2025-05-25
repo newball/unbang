@@ -1,0 +1,8 @@
+{
+  "bang": "datasearch",
+  "domain": "https://toolbox.google.com",
+  "url": "https://toolbox.google.com/datasetsearch/search?query=%s",
+  "description": "https://toolbox.google.com/datasetsearch",
+  "category": "Research",
+  "sub-category": "Reference"
+}

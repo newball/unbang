@@ -1,0 +1,8 @@
+{
+  "bang": "kamailio",
+  "domain": "https://www.kamailio.org",
+  "url": "https://www.kamailio.org/w/?s=%s",
+  "description": "Kamailio",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "st",
+  "domain": "https://stocktwits.com",
+  "url": "http://stocktwits.com/search?q=%s",
+  "description": "stocktwits",
+  "category": "News",
+  "sub-category": "Business"
+}

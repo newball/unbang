@@ -1,0 +1,8 @@
+{
+  "bang": "give",
+  "domain": "https://www.givero.com",
+  "url": "https://www.givero.com/search?q=%s",
+  "description": "Givero",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

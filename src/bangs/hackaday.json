@@ -1,0 +1,8 @@
+{
+  "bang": "hackaday",
+  "domain": "https://hackaday.com",
+  "url": "http://hackaday.com/?s=%s",
+  "description": "HackADay",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

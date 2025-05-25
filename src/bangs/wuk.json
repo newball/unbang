@@ -1,0 +1,8 @@
+{
+  "bang": "wuk",
+  "domain": "https://uk.wikipedia.org",
+  "url": "http://uk.wikipedia.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikipedia (UK)",
+  "category": "Research",
+  "sub-category": "Academic"
+}

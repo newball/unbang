@@ -1,0 +1,8 @@
+{
+  "bang": "boardgamegeek",
+  "domain": "https://boardgamegeek.com",
+  "url": "http://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q=%s",
+  "description": "BoardGameGeek",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

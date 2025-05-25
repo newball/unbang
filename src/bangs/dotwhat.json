@@ -1,0 +1,8 @@
+{
+  "bang": "dotwhat",
+  "domain": "https://dotwhat.net",
+  "url": "http://dotwhat.net/search/%s",
+  "description": "DotWhat",
+  "category": "Research",
+  "sub-category": "Reference"
+}

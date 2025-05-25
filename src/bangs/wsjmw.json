@@ -1,0 +1,8 @@
+{
+  "bang": "wsjmw",
+  "domain": "https://www.marketwatch.com",
+  "url": "http://www.marketwatch.com/search?q=%s",
+  "description": "MarketWatch",
+  "category": "News",
+  "sub-category": "Business"
+}

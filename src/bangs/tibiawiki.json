@@ -1,0 +1,8 @@
+{
+  "bang": "tibiawiki",
+  "domain": "https://tibia.wikia.com",
+  "url": "http://tibia.wikia.com/wiki/Special:Search?query=%s",
+  "description": "Tibia Wikia",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

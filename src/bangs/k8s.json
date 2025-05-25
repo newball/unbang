@@ -1,0 +1,8 @@
+{
+  "bang": "k8s",
+  "domain": "https://kubernetes.io",
+  "url": "https://kubernetes.io/search/?q=%s",
+  "description": "Kubernetes",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

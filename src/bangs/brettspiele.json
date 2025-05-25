@@ -1,0 +1,8 @@
+{
+  "bang": "brettspiele",
+  "domain": "https://www.brettspiel-angebote.de",
+  "url": "http://www.brettspiel-angebote.de/spiele/?s=%s&t=",
+  "description": "Brettspiel Angebote",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

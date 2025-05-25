@@ -1,0 +1,8 @@
+{
+  "bang": "algo",
+  "domain": "https://algorithmia.com",
+  "url": "https://algorithmia.com/search?q=%s",
+  "description": "Algorithmia",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

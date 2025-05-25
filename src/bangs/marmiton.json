@@ -1,0 +1,8 @@
+{
+  "bang": "marmiton",
+  "domain": "https://www.marmiton.org",
+  "url": "http://www.marmiton.org/recettes/recherche.aspx?aqt=%s",
+  "description": "Marmiton",
+  "category": "Research",
+  "sub-category": "Food"
+}

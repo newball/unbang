@@ -1,0 +1,8 @@
+{
+  "bang": "ongoal",
+  "domain": "https://ongoal.se",
+  "url": "https://ongoal.se/search?type=article%2Cpage%2Cproduct&q=%s*",
+  "description": "Ongoal",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ms2",
+  "domain": "https://forums.maplestory2.nexon.net",
+  "url": "http://forums.maplestory2.nexon.net/search?Search=%s",
+  "description": "Maplestory 2 Forums",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

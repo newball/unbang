@@ -1,0 +1,8 @@
+{
+  "bang": "lolwikia",
+  "domain": "https://leagueoflegends.wikia.com",
+  "url": "http://leagueoflegends.wikia.com/wiki/Special:Search?query=%s",
+  "description": "LoL Wikia",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

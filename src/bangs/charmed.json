@@ -1,0 +1,8 @@
+{
+  "bang": "charmed",
+  "domain": "https://charmed.wikia.com",
+  "url": "http://charmed.wikia.com/wiki/Special:Search?search=%s ",
+  "description": "The Charmed Wikia",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wiki.splunk",
+  "domain": "https://wiki.splunk.com",
+  "url": "http://wiki.splunk.com/Special:SplunkSearch/wiki?q=%s",
+  "description": "wiki.splunk.com",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

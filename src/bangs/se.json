@@ -1,0 +1,8 @@
+{
+  "bang": "se",
+  "domain": "https://stackexchange.com",
+  "url": "http://stackexchange.com/search?q=%s",
+  "description": "StackExchange",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

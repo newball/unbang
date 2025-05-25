@@ -1,0 +1,8 @@
+{
+  "bang": "wsh",
+  "domain": "https://en.wikishia.net",
+  "url": "http://en.wikishia.net/view/?search=%s",
+  "description": "WikiShia",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

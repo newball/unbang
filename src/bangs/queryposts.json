@@ -1,0 +1,8 @@
+{
+  "bang": "queryposts",
+  "domain": "https://queryposts.com",
+  "url": "http://queryposts.com/?s=%s",
+  "description": "QueryPosts",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks (wordpress)"
+}

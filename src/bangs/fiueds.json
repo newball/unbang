@@ -1,0 +1,8 @@
+{
+  "bang": "fiueds",
+  "domain": "https://search.ebscohost.com.ezproxy.fiu.edu",
+  "url": "http://search.ebscohost.com.ezproxy.fiu.edu/login.aspx?direct=true&scope=site&type=0&site=eds-live&lang=en&bquery=[%s]",
+  "description": "FIU Libraries EDS",
+  "category": "Research",
+  "sub-category": "Academic"
+}

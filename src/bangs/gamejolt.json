@@ -1,0 +1,8 @@
+{
+  "bang": "gamejolt",
+  "domain": "https://gamejolt.com",
+  "url": "http://gamejolt.com/search/?q=%s",
+  "description": "Gamejolt",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

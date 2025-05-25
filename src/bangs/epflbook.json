@@ -1,0 +1,8 @@
+{
+  "bang": "epflbook",
+  "domain": "https://beast-epfl.hosted.exlibrisgroup.com",
+  "url": "https://beast-epfl.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,%s&tab=default_tab&search_scope=default_scope&vid=EPFL&lang=fr_FR&offset=0&fn=search",
+  "description": "EPFL Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bdt",
+  "domain": "https://www.bedetheque.com",
+  "url": "http://www.bedetheque.com/search/tout?RechTexte=%s&RechWhere=0",
+  "description": "Bédéthèque",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

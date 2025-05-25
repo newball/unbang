@@ -1,0 +1,8 @@
+{
+  "bang": "cndic",
+  "domain": "https://cndic.naver.com",
+  "url": "http://cndic.naver.com/search/all?q=%s",
+  "description": "Naver Chinese Dictionary",
+  "category": "Research",
+  "sub-category": "Learning"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "hmiku",
+  "domain": "https://www5.atwiki.jp",
+  "url": "http://www5.atwiki.jp/hmiku/?cmd=search&keyword=%s",
+  "description": "初音ミク Wiki",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

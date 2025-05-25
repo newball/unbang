@@ -1,0 +1,8 @@
+{
+  "bang": "btcaddr",
+  "domain": "https://www.blockchain.com",
+  "url": "https://www.blockchain.com/btc/address/%s",
+  "description": "Blockchain",
+  "category": "Tech",
+  "sub-category": "Cryptocurrency"
+}

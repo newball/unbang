@@ -1,0 +1,8 @@
+{
+  "bang": "gyk",
+  "domain": "https://www.gyakorikerdesek.hu",
+  "url": "http://www.gyakorikerdesek.hu/kereses.php?keres=%s",
+  "description": "Gyakorikérdések.hu",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "edweek",
+  "domain": "https://www.edweek.org",
+  "url": "http://www.edweek.org/search.html?q=%s",
+  "description": "Education Week",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

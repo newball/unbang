@@ -1,0 +1,8 @@
+{
+  "bang": "ipinfo",
+  "domain": "https://ipinfo.io",
+  "url": "http://ipinfo.io/%s",
+  "description": "ipinfo.io",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

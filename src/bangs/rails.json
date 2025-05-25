@@ -1,0 +1,8 @@
+{
+  "bang": "rails",
+  "domain": "https://api.rubyonrails.org",
+  "url": "http://api.rubyonrails.org/?q=%s",
+  "description": "Rails API",
+  "category": "Tech",
+  "sub-category": "Languages (ruby)"
+}

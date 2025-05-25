@@ -1,0 +1,8 @@
+{
+  "bang": "cache",
+  "domain": "https://webcache.googleusercontent.com",
+  "url": "https://webcache.googleusercontent.com/search?q=cache:%s",
+  "description": "Google Cache",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "msmvps",
+  "domain": "https://msmvps.com",
+  "url": "http://msmvps.com/search/SearchResults.aspx?q=%s&o=Relevance",
+  "description": "MSMVPs.com",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

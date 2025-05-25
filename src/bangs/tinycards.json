@@ -1,0 +1,8 @@
+{
+  "bang": "tinycards",
+  "domain": "https://tinycards.duolingo.com",
+  "url": "https://tinycards.duolingo.com/search?query=%s",
+  "description": "Tinycards",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "lbcra",
+  "domain": "https://www.leboncoin.fr",
+  "url": "https://www.leboncoin.fr/recherche/?text=%s&regions=22",
+  "description": "Le Bon Coin Rhone-Alpes",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

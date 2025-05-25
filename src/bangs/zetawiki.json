@@ -1,0 +1,8 @@
+{
+  "bang": "zetawiki",
+  "domain": "https://zetawiki.com",
+  "url": "https://zetawiki.com/w/index.php?search=%s",
+  "description": "zetawiki",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

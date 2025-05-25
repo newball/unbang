@@ -1,0 +1,8 @@
+{
+  "bang": "lingp",
+  "domain": "https://www.linguee.de",
+  "url": "http://www.linguee.de/deutsch-portugiesisch/search?source=auto&query=%s",
+  "description": "linguee",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

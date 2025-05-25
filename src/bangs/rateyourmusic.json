@@ -1,0 +1,8 @@
+{
+  "bang": "rateyourmusic",
+  "domain": "https://rateyourmusic.com",
+  "url": "http://rateyourmusic.com/search?searchterm=%s&searchtype=a",
+  "description": "Rate Your Music",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

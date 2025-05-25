@@ -1,0 +1,8 @@
+{
+  "bang": "metroidwiki",
+  "domain": "https://www.metroidwiki.org",
+  "url": "http://www.metroidwiki.org/w/index.php?title=Special%3ASearch&search=%s",
+  "description": "Metroid Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

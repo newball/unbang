@@ -1,0 +1,8 @@
+{
+  "bang": "ubufr",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Aubuntu-fr.org+%s&ia=web",
+  "description": "https://www.ubuntu-fr.org/",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Ubuntu)"
+}

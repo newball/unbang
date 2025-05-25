@@ -1,0 +1,8 @@
+{
+  "bang": "jn",
+  "domain": "https://www.jellynote.com",
+  "url": "https://www.jellynote.com/en/search?q=%s",
+  "description": "Jellynote",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

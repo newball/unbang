@@ -1,0 +1,8 @@
+{
+  "bang": "synoniem",
+  "domain": "https://synoniemen.net",
+  "url": "http://synoniemen.net/index.php?zoekterm=%s",
+  "description": "Synoniemen.net",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

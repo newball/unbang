@@ -1,0 +1,8 @@
+{
+  "bang": "cia",
+  "domain": "https://www.cia.gov",
+  "url": "https://www.cia.gov/search?q=%s&site=WORLD_FACTBOOK&btnG=Search&x=0&y=0&output=xml_no_dtd&client=CIA&myAction=%2Fsearch&proxystylesheet=CIA&submitMethod=get&sort=date%3AD%3AL%3Ad1&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1",
+  "description": "CIA World Factbook",
+  "category": "Research",
+  "sub-category": "Reference"
+}

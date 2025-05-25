@@ -1,0 +1,8 @@
+{
+  "bang": "imagelayers",
+  "domain": "https://imagelayers.io",
+  "url": "https://imagelayers.io/?images=%s",
+  "description": "ImageLayers",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "stake",
+  "domain": "https://stakingreturns.com",
+  "url": "https://stakingreturns.com/coins/%s",
+  "description": "StakingReturns",
+  "category": "Tech",
+  "sub-category": "Cryptocurrency"
+}

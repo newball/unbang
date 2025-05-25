@@ -1,0 +1,8 @@
+{
+  "bang": "tgdict",
+  "domain": "https://tangorin.com",
+  "url": "https://tangorin.com/words?search=%s",
+  "description": "Tangorin",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

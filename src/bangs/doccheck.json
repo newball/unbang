@@ -1,0 +1,8 @@
+{
+  "bang": "doccheck",
+  "domain": "https://www.doccheck.com",
+  "url": "http://www.doccheck.com/de/search/?q=%s",
+  "description": "doccheck",
+  "category": "Research",
+  "sub-category": "Health"
+}

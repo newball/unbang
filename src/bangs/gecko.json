@@ -1,0 +1,8 @@
+{
+  "bang": "gecko",
+  "domain": "https://www.coingecko.com",
+  "url": "https://www.coingecko.com/en/search/bang?query=%s",
+  "description": "CoinGecko",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

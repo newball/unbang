@@ -1,0 +1,8 @@
+{
+  "bang": "aae",
+  "domain": "https://www.albumartexchange.com",
+  "url": "http://www.albumartexchange.com/covers.php?q=%s",
+  "description": "Album Art Exchange",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

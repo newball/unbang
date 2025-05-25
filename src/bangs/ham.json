@@ -1,0 +1,8 @@
+{
+  "bang": "ham",
+  "domain": "https://www.hamdata.com",
+  "url": "http://www.hamdata.com/getcall.html?callsign=%s",
+  "description": "http://www.hamdata.com/getcall.html",
+  "category": "Research",
+  "sub-category": "Reference"
+}

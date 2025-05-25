@@ -1,0 +1,8 @@
+{
+  "bang": "riksdagen",
+  "domain": "https://www.riksdagen.se",
+  "url": "https://www.riksdagen.se/sv/global/sok/?q=%s&st=1",
+  "description": "Riksdagen.se",
+  "category": "Research",
+  "sub-category": "Government"
+}

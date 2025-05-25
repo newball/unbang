@@ -1,0 +1,8 @@
+{
+  "bang": "investopedia",
+  "domain": "https://www.investopedia.com",
+  "url": "https://www.investopedia.com/search/?search-terms=%s",
+  "description": "Investopedia",
+  "category": "Research",
+  "sub-category": "Learning"
+}

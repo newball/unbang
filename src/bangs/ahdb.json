@@ -1,0 +1,8 @@
+{
+  "bang": "ahdb",
+  "domain": "https://arkhamdb.com",
+  "url": "https://arkhamdb.com/find?q=%s",
+  "description": "ArkhamDB",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

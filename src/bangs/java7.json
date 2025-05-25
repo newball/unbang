@@ -1,0 +1,8 @@
+{
+  "bang": "java7",
+  "domain": "https://docs.oracle.com",
+  "url": "https://docs.oracle.com/apps/search/search.jsp?q=%s&category=java&product=e17409-01",
+  "description": "Oracle Help Center",
+  "category": "Tech",
+  "sub-category": "Languages (java)"
+}

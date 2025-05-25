@@ -1,0 +1,8 @@
+{
+  "bang": "vivino",
+  "domain": "https://www.vivino.com",
+  "url": "https://www.vivino.com/search/wines?q=%s",
+  "description": "Vivino",
+  "category": "Research",
+  "sub-category": "Food"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "nitrc",
+  "domain": "https://www.nitrc.org",
+  "url": "http://www.nitrc.org/search/?type_of_search=group&term[]=%s",
+  "description": "NITRC",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

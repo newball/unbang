@@ -1,0 +1,8 @@
+{
+  "bang": "nos",
+  "domain": "https://nos.nl",
+  "url": "https://nos.nl/zoeken/?q=%s",
+  "description": "NOS",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

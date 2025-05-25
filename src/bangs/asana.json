@@ -1,0 +1,8 @@
+{
+  "bang": "asana",
+  "domain": "https://app.asana.com",
+  "url": "https://app.asana.com/0/search/%s",
+  "description": "Asana",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

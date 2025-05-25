@@ -1,0 +1,8 @@
+{
+  "bang": "googlepl",
+  "domain": "https://www.google.pl",
+  "url": "https://www.google.pl/#q=%s",
+  "description": "Google poland",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "csm",
+  "domain": "https://www.commonsensemedia.org",
+  "url": "https://www.commonsensemedia.org/search/%s",
+  "description": "Common Sense Media",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

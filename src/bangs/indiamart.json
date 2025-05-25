@@ -1,0 +1,8 @@
+{
+  "bang": "indiamart",
+  "domain": "https://dir.indiamart.com",
+  "url": "http://dir.indiamart.com/cgi/catprdsearch.mp?ss=%s",
+  "description": "IndiaMART",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

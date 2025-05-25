@@ -1,0 +1,8 @@
+{
+  "bang": "forvo",
+  "domain": "https://forvo.com",
+  "url": "http://forvo.com/search/%s/",
+  "description": "Forvo",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

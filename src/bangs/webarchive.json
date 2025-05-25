@@ -1,0 +1,8 @@
+{
+  "bang": "webarchive",
+  "domain": "https://web.archive.org",
+  "url": "https://web.archive.org/web/*/%s",
+  "description": "Web Archive",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

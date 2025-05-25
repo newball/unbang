@@ -1,0 +1,8 @@
+{
+  "bang": "reflets",
+  "domain": "https://reflets.info",
+  "url": "http://reflets.info/?s=%s",
+  "description": "Reflets.info",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

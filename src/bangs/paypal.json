@@ -1,0 +1,8 @@
+{
+  "bang": "paypal",
+  "domain": "https://www.paypal.com",
+  "url": "https://www.paypal.com/us/selfhelp/search?q=%s&helpSearchButton=Search",
+  "description": "PayPal",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

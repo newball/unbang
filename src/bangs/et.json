@@ -1,0 +1,8 @@
+{
+  "bang": "et",
+  "domain": "https://www.eltiempo.es",
+  "url": "http://www.eltiempo.es/buscar?q=%s",
+  "description": "El Tiempo",
+  "category": "News",
+  "sub-category": "Weather"
+}

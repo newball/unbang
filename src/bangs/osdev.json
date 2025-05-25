@@ -1,0 +1,8 @@
+{
+  "bang": "osdev",
+  "domain": "https://wiki.osdev.org",
+  "url": "https://wiki.osdev.org/index.php?title=Special%3ASearch&search=%s&fulltext=Search",
+  "description": "OSDev Wiki",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

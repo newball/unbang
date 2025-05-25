@@ -1,0 +1,8 @@
+{
+  "bang": "sweetwater",
+  "domain": "https://www.sweetwater.com",
+  "url": "http://www.sweetwater.com/store/search.php?s=%s",
+  "description": "Sweetwater",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

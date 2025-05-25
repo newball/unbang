@@ -1,0 +1,8 @@
+{
+  "bang": "validate",
+  "domain": "https://validator.w3.org",
+  "url": "http://validator.w3.org/check?uri=%s&charset=%28detect+automatically%29&doctype=Inline&group=0",
+  "description": "W3C Validator",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

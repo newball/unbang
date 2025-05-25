@@ -1,0 +1,8 @@
+{
+  "bang": "ftbwiki",
+  "domain": "https://ftb.gamepedia.com",
+  "url": "https://ftb.gamepedia.com/index.php?title=Special:Search&search=%s",
+  "description": "Unofficial Feed The Beast Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (Minecraft)"
+}

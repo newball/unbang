@@ -1,0 +1,8 @@
+{
+  "bang": "uio",
+  "domain": "https://www.uio.no",
+  "url": "https://www.uio.no/studier/emner/?course-query=%s&vrtx=search&searchMode=emne",
+  "description": "UiO emnesøk",
+  "category": "Online Services",
+  "sub-category": "Search (Private)"
+}

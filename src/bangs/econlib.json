@@ -1,0 +1,8 @@
+{
+  "bang": "econlib",
+  "domain": "https://econlib.org",
+  "url": "http://econlib.org/cgi-bin/fullsearch.pl?query=%s",
+  "description": "Library of Economics and Liberty",
+  "category": "Research",
+  "sub-category": "Academic"
+}

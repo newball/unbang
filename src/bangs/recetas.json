@@ -1,0 +1,8 @@
+{
+  "bang": "recetas",
+  "domain": "https://www.guiarecetas.com",
+  "url": "https://www.guiarecetas.com/?s=%s",
+  "description": "Guia Recetas",
+  "category": "Entertainment",
+  "sub-category": "Blogs (intl)"
+}

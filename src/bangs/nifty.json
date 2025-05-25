@@ -1,0 +1,8 @@
+{
+  "bang": "nifty",
+  "domain": "https://search.nifty.com",
+  "url": "https://search.nifty.com/websearch/search?cflg=%E6%A4%9C%E7%B4%A2&q=%s",
+  "description": "Nifty",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

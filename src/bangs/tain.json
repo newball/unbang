@@ -1,0 +1,8 @@
+{
+  "bang": "tain",
+  "domain": "https://www.tripadvisor.in",
+  "url": "https://www.tripadvisor.in/Search?q=%s",
+  "description": "Tripadvisor.in",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

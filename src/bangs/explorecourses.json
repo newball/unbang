@@ -1,0 +1,8 @@
+{
+  "bang": "explorecourses",
+  "domain": "https://explorecourses.stanford.edu",
+  "url": "http://explorecourses.stanford.edu/search?q=%s",
+  "description": "Explore Courses",
+  "category": "Research",
+  "sub-category": "Learning"
+}

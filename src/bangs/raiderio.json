@@ -1,0 +1,8 @@
+{
+  "bang": "raiderio",
+  "domain": "https://raider.io",
+  "url": "https://raider.io/search?type=character&name[0][contains]=%s",
+  "description": "Raider.io",
+  "category": "Entertainment",
+  "sub-category": "Games (WOW)"
+}

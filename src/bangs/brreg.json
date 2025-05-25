@@ -1,0 +1,8 @@
+{
+  "bang": "brreg",
+  "domain": "https://w2.brreg.no",
+  "url": "http://w2.brreg.no/enhet/sok/treffliste.jsp?navn=%s &orgform=0&fylke=0&kommune=0",
+  "description": "Brønnøysundregistrene",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

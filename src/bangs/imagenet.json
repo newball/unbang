@@ -1,0 +1,8 @@
+{
+  "bang": "imagenet",
+  "domain": "https://www.image-net.org",
+  "url": "http://www.image-net.org/search?q=%s",
+  "description": "ImageNet",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

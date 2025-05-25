@@ -1,0 +1,8 @@
+{
+  "bang": "forewordreviews",
+  "domain": "https://www.forewordreviews.com",
+  "url": "https://www.forewordreviews.com/search/?q=%s",
+  "description": "Foreword Reviews",
+  "category": "Entertainment",
+  "sub-category": "Blogs"
+}

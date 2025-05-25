@@ -1,0 +1,8 @@
+{
+  "bang": "susebug",
+  "domain": "https://bugzilla.novell.com",
+  "url": "https://bugzilla.novell.com/buglist.cgi?quicksearch=%s",
+  "description": "openSUSE Bugzilla",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

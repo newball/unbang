@@ -1,0 +1,8 @@
+{
+  "bang": "openthebox",
+  "domain": "https://openthebox.be",
+  "url": "https://openthebox.be/search?q=%s&v=t",
+  "description": "Openthebox",
+  "category": "Research",
+  "sub-category": "Government"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "hsdb",
+  "domain": "https://www.adl.org",
+  "url": "https://www.adl.org/education-and-resources/resource-knowledge-base/hate-symbols?keys=%s",
+  "description": "ADL Hate Symbols Database",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

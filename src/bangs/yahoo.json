@@ -1,0 +1,8 @@
+{
+  "bang": "yahoo",
+  "domain": "https://search.yahoo.com",
+  "url": "http://search.yahoo.com/search?p=%s",
+  "description": "Yahoo!",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "tcl",
+  "domain": "https://wiki.tcl.tk",
+  "url": "http://wiki.tcl.tk/_/search?S=%s&_charset_=UTF-8",
+  "description": "TCLers Wiki",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

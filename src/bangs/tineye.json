@@ -1,0 +1,8 @@
+{
+  "bang": "tineye",
+  "domain": "https://www.tineye.com",
+  "url": "http://www.tineye.com/search?url=%s",
+  "description": "Tineye",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

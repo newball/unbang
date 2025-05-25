@@ -1,0 +1,8 @@
+{
+  "bang": "uniqlo",
+  "domain": "https://www.uniqlo.com",
+  "url": "https://www.uniqlo.com/us/en/search/?q=%s&lang=default",
+  "description": "Uniqlo",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "imb",
+  "domain": "https://www.imbiomed.com.mx",
+  "url": "http://www.imbiomed.com.mx/1/1/articulos.php?method=searchKeyword&keywords=%s",
+  "description": "imbiomed",
+  "category": "Research",
+  "sub-category": "Academic"
+}

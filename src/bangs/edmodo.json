@@ -1,0 +1,8 @@
+{
+  "bang": "edmodo",
+  "domain": "https://spotlight.edmodo.com",
+  "url": "https://spotlight.edmodo.com/Browse?search=true&q=%s",
+  "description": "Edmodo Spotlight",
+  "category": "Research",
+  "sub-category": "Learning (intl)"
+}

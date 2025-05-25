@@ -1,0 +1,8 @@
+{
+  "bang": "walmartca",
+  "domain": "https://www.walmart.ca",
+  "url": "http://www.walmart.ca/search/%s",
+  "description": "Walmart Canada",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

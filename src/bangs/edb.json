@@ -1,0 +1,8 @@
+{
+  "bang": "edb",
+  "domain": "https://www.exploit-db.com",
+  "url": "https://www.exploit-db.com/search/?action=search&description=%s",
+  "description": "Exploits Database by Offensive Security (exploit-db.com)",
+  "category": "Research",
+  "sub-category": "Academic"
+}

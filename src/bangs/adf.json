@@ -1,0 +1,8 @@
+{
+  "bang": "adf",
+  "domain": "https://forums.developer.apple.com",
+  "url": "https://forums.developer.apple.com/search.jspa?q=%s",
+  "description": "Apple dev form",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

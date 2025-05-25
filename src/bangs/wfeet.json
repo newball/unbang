@@ -1,0 +1,8 @@
+{
+  "bang": "wfeet",
+  "domain": "https://www.wikifeet.com",
+  "url": "http://www.wikifeet.com/search/?query=%s",
+  "description": "wikiFeet",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

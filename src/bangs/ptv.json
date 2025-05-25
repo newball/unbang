@@ -1,0 +1,8 @@
+{
+  "bang": "ptv",
+  "domain": "https://www.ptv.vic.gov.au",
+  "url": "https://www.ptv.vic.gov.au/search/getForm?Search=%s&action_getSearchResults=Go",
+  "description": "PTV Victoria",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

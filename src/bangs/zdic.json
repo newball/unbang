@@ -1,0 +1,8 @@
+{
+  "bang": "zdic",
+  "domain": "https://www.zdic.net",
+  "url": "http://www.zdic.net/search/?q=%s",
+  "description": "汉典",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

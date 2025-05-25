@@ -1,0 +1,8 @@
+{
+  "bang": "gtukrainian",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/uk/%s",
+  "description": "Detect language to Ukrainian",
+  "category": "Translation",
+  "sub-category": "Google"
+}

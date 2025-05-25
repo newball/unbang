@@ -1,0 +1,8 @@
+{
+  "bang": "s.fyapp",
+  "domain": "https://apps.shopify.com",
+  "url": "https://apps.shopify.com/search?q=%s&st_source=",
+  "description": "Shopify App Store",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

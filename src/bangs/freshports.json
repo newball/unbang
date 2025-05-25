@@ -1,0 +1,8 @@
+{
+  "bang": "freshports",
+  "domain": "https://www.freshports.org",
+  "url": "https://www.freshports.org/search.php?query=%s&search=go&num=10&stype=name&method=match&deleted=excludedeleted&start=1&casesensitivity=caseinsensitive",
+  "description": "FreshPorts",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

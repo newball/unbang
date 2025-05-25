@@ -1,0 +1,8 @@
+{
+  "bang": "lmgtfy",
+  "domain": "https://www.lmgtfy.com",
+  "url": "http://www.lmgtfy.com/?s=d&q=%s",
+  "description": "LMGTFY",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

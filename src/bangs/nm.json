@@ -1,0 +1,8 @@
+{
+  "bang": "nm",
+  "domain": "https://www.nexusmods.com",
+  "url": "https://www.nexusmods.com/search/?gsearch=%s&gsearchtype=mods",
+  "description": "Nexus Mods",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

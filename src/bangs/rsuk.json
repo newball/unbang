@@ -1,0 +1,8 @@
+{
+  "bang": "rsuk",
+  "domain": "https://uk.rs-online.com",
+  "url": "http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=%s",
+  "description": "RadioSpare UK",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

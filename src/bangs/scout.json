@@ -1,0 +1,8 @@
+{
+  "bang": "scout",
+  "domain": "https://www.scout.com",
+  "url": "http://www.scout.com/news?query=%s",
+  "description": "scout.com",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

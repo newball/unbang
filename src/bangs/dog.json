@@ -1,0 +1,8 @@
+{
+  "bang": "dog",
+  "domain": "https://canigivemydog.com",
+  "url": "http://canigivemydog.com/?s=%s ",
+  "description": "CanIGiveMyDog",
+  "category": "Research",
+  "sub-category": "Health"
+}

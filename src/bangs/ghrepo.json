@@ -1,0 +1,8 @@
+{
+  "bang": "ghrepo",
+  "domain": "https://github.com",
+  "url": "https://github.com/%s",
+  "description": "GitHub Repo",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "nuget",
+  "domain": "https://nuget.org",
+  "url": "http://nuget.org/packages?q=%s&sortOrder=package-download-count",
+  "description": "nuget gallery",
+  "category": "Tech",
+  "sub-category": "Languages (.net)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wgr",
+  "domain": "https://el.wikipedia.org",
+  "url": "https://el.wikipedia.org/wiki/Special:Search?search=%s &go=Go&go=Go&go=Go",
+  "description": "Wikipedia (GR)",
+  "category": "Research",
+  "sub-category": "Learning"
+}

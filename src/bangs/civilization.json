@@ -1,0 +1,8 @@
+{
+  "bang": "civilization",
+  "domain": "https://civilization.wikia.com",
+  "url": "http://civilization.wikia.com/wiki/Special:Search?search=%s&fulltext=Search",
+  "description": "Civilization Wikia",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wmt",
+  "domain": "https://mt.wikipedia.org",
+  "url": "http://mt.wikipedia.org/w/index.php?search=%s",
+  "description": "Maltese Wikipedia",
+  "category": "Research",
+  "sub-category": "Reference"
+}

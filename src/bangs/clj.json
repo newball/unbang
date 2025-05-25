@@ -1,0 +1,8 @@
+{
+  "bang": "clj",
+  "domain": "https://clojuredocs.org",
+  "url": "https://clojuredocs.org/search?q=%s",
+  "description": "ClojureDocs",
+  "category": "Tech",
+  "sub-category": "Languages (clojure)"
+}

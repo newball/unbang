@@ -1,0 +1,8 @@
+{
+  "bang": "mbwork",
+  "domain": "https://musicbrainz.org",
+  "url": "https://musicbrainz.org/search?query=%s&type=work",
+  "description": "MusicBrainz Works",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

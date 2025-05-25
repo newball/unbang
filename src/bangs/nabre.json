@@ -1,0 +1,8 @@
+{
+  "bang": "nabre",
+  "domain": "https://www.biblegateway.com",
+  "url": "https://www.biblegateway.com/passage/?search=%s&version=NABRE",
+  "description": "BibleGateway",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

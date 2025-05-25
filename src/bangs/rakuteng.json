@@ -1,0 +1,8 @@
+{
+  "bang": "rakuteng",
+  "domain": "https://global.rakuten.com",
+  "url": "https://global.rakuten.com/en/search/?k=%s",
+  "description": "Rakuten Global Market",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

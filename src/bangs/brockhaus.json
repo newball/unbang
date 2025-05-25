@@ -1,0 +1,8 @@
+{
+  "bang": "brockhaus",
+  "domain": "https://brockhaus.de",
+  "url": "https://brockhaus.de/search/?t=enzy&q=%s",
+  "description": "Brockhaus",
+  "category": "Research",
+  "sub-category": "Reference"
+}

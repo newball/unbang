@@ -1,0 +1,8 @@
+{
+  "bang": "qwl",
+  "domain": "https://lite.qwant.com",
+  "url": "https://lite.qwant.com/?q=%s",
+  "description": "Qwant lite",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

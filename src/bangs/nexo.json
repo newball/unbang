@@ -1,0 +1,8 @@
+{
+  "bang": "nexo",
+  "domain": "https://www.nexojornal.com.br",
+  "url": "https://www.nexojornal.com.br/utility/search/?q=%s",
+  "description": "Nexo Jornal",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

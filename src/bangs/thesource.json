@@ -1,0 +1,8 @@
+{
+  "bang": "thesource",
+  "domain": "https://www.thesource.ca",
+  "url": "http://www.thesource.ca/en-ca/search/?text=%s&search_submit=",
+  "description": "The Source",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

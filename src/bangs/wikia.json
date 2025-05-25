@@ -1,0 +1,8 @@
+{
+  "bang": "wikia",
+  "domain": "https://community-search.fandom.com",
+  "url": "https://community-search.fandom.com/wiki/Special:Search?search=%s",
+  "description": "Wikia",
+  "category": "Research",
+  "sub-category": "Learning"
+}

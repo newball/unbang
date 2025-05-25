@@ -1,0 +1,8 @@
+{
+  "bang": "pdb",
+  "domain": "https://www.rcsb.org",
+  "url": "http://www.rcsb.org/pdb/search/navbarsearch.do?f=&q=%s",
+  "description": "Protein Data Bank",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

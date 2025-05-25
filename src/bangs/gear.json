@@ -1,0 +1,8 @@
+{
+  "bang": "gear",
+  "domain": "https://www.gbase.com",
+  "url": "https://www.gbase.com/gear?q=%s",
+  "description": "Gbase.com",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

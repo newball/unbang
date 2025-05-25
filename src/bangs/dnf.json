@@ -1,0 +1,8 @@
+{
+  "bang": "dnf",
+  "domain": "https://dnf.readthedocs.io",
+  "url": "https://dnf.readthedocs.io/en/latest/search.html?q=%s",
+  "description": "DNF Documentation",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Fedora)"
+}

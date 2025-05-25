@@ -1,0 +1,8 @@
+{
+  "bang": "bgo",
+  "domain": "https://www.bankgirot.se",
+  "url": "https://www.bankgirot.se/en/sok-bg-nr/?orgnr=%s",
+  "description": "Bankgirot - Search Bankgiro number by Organization Number",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

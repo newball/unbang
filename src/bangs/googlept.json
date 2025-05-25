@@ -1,0 +1,8 @@
+{
+  "bang": "googlept",
+  "domain": "https://www.google.pt",
+  "url": "https://www.google.pt/search?hl=pt_pt&q=%s",
+  "description": "Google Portugal",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "lumas",
+  "domain": "https://www.lumas.de",
+  "url": "https://www.lumas.de/search/?q=%s",
+  "description": "Lumas",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

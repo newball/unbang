@@ -1,0 +1,8 @@
+{
+  "bang": "sns",
+  "domain": "https://seaborn.pydata.org",
+  "url": "http://seaborn.pydata.org/search.html?q=%s&check_keywords=yes&area=default",
+  "description": "seaborn",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "pse",
+  "domain": "https://physics.stackexchange.com",
+  "url": "https://physics.stackexchange.com/search?q=%s",
+  "description": "Physics - Stack Exchange",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "blcy",
+  "domain": "https://live.blockcypher.com",
+  "url": "https://live.blockcypher.com/btc/address/%s",
+  "description": "BlockCypher",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

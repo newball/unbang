@@ -1,0 +1,8 @@
+{
+  "bang": "shorten",
+  "domain": "https://cortas.elpais.com",
+  "url": "http://cortas.elpais.com/encode.pl?u=http://%s",
+  "description": "Cortas - URL shortener",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

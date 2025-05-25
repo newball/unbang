@@ -1,0 +1,8 @@
+{
+  "bang": "dictcc",
+  "domain": "https://www.dict.cc",
+  "url": "https://www.dict.cc/?s=%s",
+  "description": "dict.cc",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

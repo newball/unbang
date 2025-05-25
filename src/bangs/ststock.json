@@ -1,0 +1,8 @@
+{
+  "bang": "ststock",
+  "domain": "https://www.shutterstock.com",
+  "url": "https://www.shutterstock.com/search/%s",
+  "description": "Shutterstock",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

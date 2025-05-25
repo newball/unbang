@@ -1,0 +1,8 @@
+{
+  "bang": "flask",
+  "domain": "https://flask.pocoo.org",
+  "url": "http://flask.pocoo.org/search/?q=%s",
+  "description": "Flask WebFramework",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

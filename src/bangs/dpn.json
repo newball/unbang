@@ -1,0 +1,8 @@
+{
+  "bang": "dpn",
+  "domain": "https://www.dogpile.com",
+  "url": "http://www.dogpile.com/search/news?q=%s",
+  "description": "Dogpile News",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

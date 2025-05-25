@@ -1,0 +1,8 @@
+{
+  "bang": "ordbogen",
+  "domain": "https://www.ordbogen.com",
+  "url": "http://www.ordbogen.com/opslag.php?word=%s&dict=auto",
+  "description": "Ordbogen",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

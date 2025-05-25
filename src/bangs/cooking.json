@@ -1,0 +1,8 @@
+{
+  "bang": "cooking",
+  "domain": "https://cooking.nytimes.com",
+  "url": "https://cooking.nytimes.com/search?q=%s",
+  "description": "NYT Cooking",
+  "category": "Research",
+  "sub-category": "Food"
+}

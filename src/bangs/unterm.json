@@ -1,0 +1,8 @@
+{
+  "bang": "unterm",
+  "domain": "https://untermportal.un.org",
+  "url": "http://untermportal.un.org/search/%s",
+  "description": "UN terminology search portal",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

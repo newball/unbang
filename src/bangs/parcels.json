@@ -1,0 +1,8 @@
+{
+  "bang": "parcels",
+  "domain": "https://parcelsapp.com",
+  "url": "http://parcelsapp.com/en/tracking/%s",
+  "description": "Parcels",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

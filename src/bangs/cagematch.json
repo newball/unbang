@@ -1,0 +1,8 @@
+{
+  "bang": "cagematch",
+  "domain": "https://www.cagematch.net",
+  "url": "http://www.cagematch.net/?id=666&search=%s",
+  "description": "Cagematch - The Internet Wrestling Database",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

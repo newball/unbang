@@ -1,0 +1,8 @@
+{
+  "bang": "chlib",
+  "domain": "https://chalmers.summon.serialssolutions.com",
+  "url": "http://chalmers.summon.serialssolutions.com/en/search?ho=t&q=%s",
+  "description": "Chalmers Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

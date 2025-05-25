@@ -1,0 +1,8 @@
+{
+  "bang": "sks",
+  "domain": "https://sks-keyservers.net",
+  "url": "https://sks-keyservers.net/pks/lookup?op=vindex&search=%s",
+  "description": "SKS Keyservers",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "rphone",
+  "domain": "https://www.whitepages.com",
+  "url": "http://www.whitepages.com/phone/%s",
+  "description": "Whitepages",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

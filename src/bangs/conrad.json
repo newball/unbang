@@ -1,0 +1,8 @@
+{
+  "bang": "conrad",
+  "domain": "https://www.conrad.de",
+  "url": "http://www.conrad.de/ce/de/Search.html?search=%s",
+  "description": "Conrad",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

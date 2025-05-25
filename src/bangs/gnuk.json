@@ -1,0 +1,8 @@
+{
+  "bang": "gnuk",
+  "domain": "https://www.google.co.uk",
+  "url": "https://www.google.co.uk/search?hl=en&gl=uk&tbm=nws&authuser=0&q=%s",
+  "description": "Google News UK",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

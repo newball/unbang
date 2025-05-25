@@ -1,0 +1,8 @@
+{
+  "bang": "plane",
+  "domain": "https://www.planespotters.net",
+  "url": "http://www.planespotters.net/search.php?q=%s",
+  "description": "planespotters.net",
+  "category": "Research",
+  "sub-category": "Travel"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "oer",
+  "domain": "https://www.oercommons.org",
+  "url": "http://www.oercommons.org/search?f.search=%s",
+  "description": "OER Commons",
+  "category": "Research",
+  "sub-category": "Learning"
+}

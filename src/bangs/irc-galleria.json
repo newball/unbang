@@ -1,0 +1,8 @@
+{
+  "bang": "irc-galleria",
+  "domain": "https://irc-galleria.net",
+  "url": "https://irc-galleria.net/users/search?username=%s ",
+  "description": "Irc-Galleria",
+  "category": "Online Services",
+  "sub-category": "Social (intl)"
+}

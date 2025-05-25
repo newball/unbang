@@ -1,0 +1,8 @@
+{
+  "bang": "whois",
+  "domain": "https://whois.domaintools.com",
+  "url": "https://whois.domaintools.com/%s",
+  "description": "Domaintools Whois",
+  "category": "Tech",
+  "sub-category": "Startups"
+}

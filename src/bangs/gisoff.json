@@ -1,0 +1,8 @@
+{
+  "bang": "gisoff",
+  "domain": "https://www.google.com",
+  "url": "http://www.google.com/images?safe=off&q=%s",
+  "description": "Google Images (Safe Off)",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

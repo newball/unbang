@@ -1,0 +1,8 @@
+{
+  "bang": "kindle",
+  "domain": "https://www.amazon.com",
+  "url": "https://www.amazon.com/s?k=%s&i=digital-text",
+  "description": "Amazon Kindle",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "fmx",
+  "domain": "https://www.fightmatrix.com",
+  "url": "http://www.fightmatrix.com/fighter-search/?fName=%s",
+  "description": "Fightmatrix",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

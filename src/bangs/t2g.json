@@ -1,0 +1,8 @@
+{
+  "bang": "t2g",
+  "domain": "https://www.time2game.be",
+  "url": "http://www.time2game.be/index.php?main_page=advanced_search_result&search_in_description=1&keyword=%s",
+  "description": "Time2Game",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

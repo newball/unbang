@@ -1,0 +1,8 @@
+{
+  "bang": "jedis",
+  "domain": "https://www.jedisjeux.net",
+  "url": "http://www.jedisjeux.net/search_results.php?search=%s&button_search=Ok",
+  "description": "http://www.jedisjeux.net/",
+  "category": "Research",
+  "sub-category": "Local"
+}

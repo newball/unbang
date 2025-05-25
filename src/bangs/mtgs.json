@@ -1,0 +1,8 @@
+{
+  "bang": "mtgs",
+  "domain": "https://mtgsalvation.gamepedia.com",
+  "url": "http://mtgsalvation.gamepedia.com/?search=%s",
+  "description": "MTG Salvation Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

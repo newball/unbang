@@ -1,0 +1,8 @@
+{
+  "bang": "splash",
+  "domain": "https://unsplash.com",
+  "url": "https://unsplash.com/search/photos/%s",
+  "description": "Unsplash",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

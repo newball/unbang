@@ -1,0 +1,8 @@
+{
+  "bang": "ci",
+  "domain": "https://www.codeigniter.com",
+  "url": "https://www.codeigniter.com/user_guide/search.html?q=%s",
+  "description": "CodeIgniter",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

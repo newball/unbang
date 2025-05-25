@@ -1,0 +1,8 @@
+{
+  "bang": "sendict",
+  "domain": "https://sentencedict.com",
+  "url": "http://sentencedict.com/%s.html",
+  "description": "SentenceDict",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

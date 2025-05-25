@@ -1,0 +1,8 @@
+{
+  "bang": "rfc",
+  "domain": "https://tools.ietf.org",
+  "url": "https://tools.ietf.org/html/rfc%s",
+  "description": "IETF RFC",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

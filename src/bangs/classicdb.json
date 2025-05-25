@@ -1,0 +1,8 @@
+{
+  "bang": "classicdb",
+  "domain": "https://classicdb.ch",
+  "url": "http://classicdb.ch/?search=%s",
+  "description": "ClassicDB",
+  "category": "Entertainment",
+  "sub-category": "Games (WOW)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bpoi",
+  "domain": "https://bugs.python.org",
+  "url": "https://bugs.python.org/issue%s",
+  "description": "Python Bug Tracker",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ahrefs",
+  "domain": "https://ahrefs.com",
+  "url": "https://ahrefs.com/site-explorer/overview/v2/subdomains/recent?target=%s",
+  "description": "ahrefs",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

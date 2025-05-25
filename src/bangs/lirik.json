@@ -1,0 +1,8 @@
+{
+  "bang": "lirik",
+  "domain": "https://lirik.web.id",
+  "url": "https://lirik.web.id/results/?q=%s",
+  "description": "Lirik",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "rtdlinux",
+  "domain": "https://kernel.readthedocs.io",
+  "url": "https://kernel.readthedocs.io/en/sphinx-samples/search.html?q=%s&check_keywords=yes&area=default",
+  "description": "https://kernel.readthedocs.io/en/sphinx-samples/",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

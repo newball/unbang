@@ -1,0 +1,8 @@
+{
+  "bang": "abn",
+  "domain": "https://abr.business.gov.au",
+  "url": "http://abr.business.gov.au/Search.aspx?SearchText=%s",
+  "description": "ABN Lookup",
+  "category": "Research",
+  "sub-category": "Government"
+}

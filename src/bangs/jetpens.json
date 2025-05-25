@@ -1,0 +1,8 @@
+{
+  "bang": "jetpens",
+  "domain": "https://www.jetpens.com",
+  "url": "http://www.jetpens.com/search?q=%s",
+  "description": "JetPens",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

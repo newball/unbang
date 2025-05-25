@@ -1,0 +1,8 @@
+{
+  "bang": "redensarten",
+  "domain": "https://www.redensarten-index.de",
+  "url": "http://www.redensarten-index.de/suche.php?suchbegriff=%s&bool=relevanz&gawoe=an&suchspalte[]=rart_ou&suchspalte[]=rart_varianten_ou",
+  "description": "Redensarten-Index",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

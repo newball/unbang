@@ -1,0 +1,8 @@
+{
+  "bang": "rvb",
+  "domain": "https://rvb.wikia.com",
+  "url": "http://rvb.wikia.com/wiki/Special:Search?query=%s",
+  "description": "Red vs. Blue Wiki",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

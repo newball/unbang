@@ -1,0 +1,8 @@
+{
+  "bang": "geouri",
+  "domain": "https://www.openstreetmap.org",
+  "url": "https://www.openstreetmap.org/search?query=%s#map=7/0.000/-60.000",
+  "description": "openstreetmap.org",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "spare-part",
+  "domain": "https://kfz-schlachter.de",
+  "url": "https://kfz-schlachter.de/Store?q=%s",
+  "description": "KFZ-Schlachter",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

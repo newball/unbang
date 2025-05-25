@@ -1,0 +1,8 @@
+{
+  "bang": "dnv",
+  "domain": "https://www.avl.gva.es",
+  "url": "http://www.avl.gva.es/lexicval/dnv?paraula=%s",
+  "description": "Diccionari Normatiu Valencià",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

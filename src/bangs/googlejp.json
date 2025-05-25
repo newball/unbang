@@ -1,0 +1,8 @@
+{
+  "bang": "googlejp",
+  "domain": "https://www.google.co.jp",
+  "url": "https://www.google.co.jp/search?q=%s",
+  "description": "Google Japan",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

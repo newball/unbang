@@ -1,0 +1,8 @@
+{
+  "bang": "batman",
+  "domain": "https://batman.wikia.com",
+  "url": "http://batman.wikia.com/wiki/%s",
+  "description": "Batman Wiki",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

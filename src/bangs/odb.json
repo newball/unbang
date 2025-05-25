@@ -1,0 +1,8 @@
+{
+  "bang": "odb",
+  "domain": "https://odb.org",
+  "url": "https://odb.org/search?q=%s",
+  "description": "Our Daily Bread",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

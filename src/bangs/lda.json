@@ -1,0 +1,8 @@
+{
+  "bang": "lda",
+  "domain": "https://de.langenscheidt.com",
+  "url": "http://de.langenscheidt.com/deutsch-arabisch/search?term=%s",
+  "description": "Langenscheid Deutsch-Arabisch",
+  "category": "Research",
+  "sub-category": "Learning (intl)"
+}

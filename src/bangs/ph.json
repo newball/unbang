@@ -1,0 +1,8 @@
+{
+  "bang": "ph",
+  "domain": "https://www.producthunt.com",
+  "url": "https://www.producthunt.com/search?q=%s",
+  "description": "Product Hunt",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

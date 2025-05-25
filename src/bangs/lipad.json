@@ -1,0 +1,8 @@
+{
+  "bang": "lipad",
+  "domain": "https://www.lipad.ca",
+  "url": "https://www.lipad.ca/search/?q=%s",
+  "description": "Linked Parliamentary Data: Canadian Hansard Dataset",
+  "category": "Research",
+  "sub-category": "Government"
+}

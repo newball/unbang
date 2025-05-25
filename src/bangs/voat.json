@@ -1,0 +1,8 @@
+{
+  "bang": "voat",
+  "domain": "https://searchvoat.co",
+  "url": "https://searchvoat.co/?all=%s",
+  "description": "Voat",
+  "category": "Online Services",
+  "sub-category": "Social news/links"
+}

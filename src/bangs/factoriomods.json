@@ -1,0 +1,8 @@
+{
+  "bang": "factoriomods",
+  "domain": "https://mods.factorio.com",
+  "url": "https://mods.factorio.com/query/%s",
+  "description": "Factorio Mods",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "suivicolissimo",
+  "domain": "https://www.colissimo.fr",
+  "url": "http://www.colissimo.fr/portail_colissimo/suivre.do?language=fr_FR&parcelnumber=%s",
+  "description": "Suivi Colissimo",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

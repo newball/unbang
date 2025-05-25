@@ -1,0 +1,8 @@
+{
+  "bang": "gcn",
+  "domain": "https://www.google.cn",
+  "url": "http://www.google.cn/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google CN",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

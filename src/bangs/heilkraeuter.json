@@ -1,0 +1,8 @@
+{
+  "bang": "heilkraeuter",
+  "domain": "https://heilkraeuter.de",
+  "url": "http://heilkraeuter.de/cgi-bin/search.cgi?Terms=%s",
+  "description": "Heilkraeuter",
+  "category": "Research",
+  "sub-category": "Learning"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ge",
+  "domain": "https://google.com",
+  "url": "https://google.com/#q=%s",
+  "description": "Google Encrypted",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

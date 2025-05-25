@@ -1,0 +1,8 @@
+{
+  "bang": "kaprof",
+  "domain": "https://www.khanacademy.org",
+  "url": "https://www.khanacademy.org/profile/%s/",
+  "description": "Khan Academy (Profile Page)",
+  "category": "Research",
+  "sub-category": "Academic"
+}

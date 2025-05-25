@@ -1,0 +1,8 @@
+{
+  "bang": "kcls",
+  "domain": "https://kcls.bibliocommons.com",
+  "url": "http://kcls.bibliocommons.com/search?t=smart&search_category=keyword&q=%s&commit=Search",
+  "description": "King County Library System",
+  "category": "Research",
+  "sub-category": "Reference"
+}

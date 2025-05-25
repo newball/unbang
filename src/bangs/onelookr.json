@@ -1,0 +1,8 @@
+{
+  "bang": "onelookr",
+  "domain": "https://onelook.com",
+  "url": "http://onelook.com/?w=*&loc=revfp2&clue=%s",
+  "description": "OneLook Reverse",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

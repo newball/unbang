@@ -1,0 +1,8 @@
+{
+  "bang": "hotbot",
+  "domain": "https://www.hotbot.com",
+  "url": "http://www.hotbot.com/search/web?q=%s",
+  "description": "HotBot Web",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

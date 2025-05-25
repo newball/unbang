@@ -1,0 +1,8 @@
+{
+  "bang": "senc",
+  "domain": "https://www.searchencrypt.com",
+  "url": "https://www.searchencrypt.com/search?eq=%s",
+  "description": "searchencrypt",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

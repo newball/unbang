@@ -1,0 +1,8 @@
+{
+  "bang": "refr",
+  "domain": "https://dictionary.reverso.net",
+  "url": "http://dictionary.reverso.net/french-definition/%s",
+  "description": "Reverso French - Definition",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

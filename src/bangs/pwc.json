@@ -1,0 +1,8 @@
+{
+  "bang": "pwc",
+  "domain": "https://paperswithcode.com",
+  "url": "https://paperswithcode.com/search?q=%s",
+  "description": "https://paperswithcode.com/",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

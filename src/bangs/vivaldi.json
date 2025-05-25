@@ -1,0 +1,8 @@
+{
+  "bang": "vivaldi",
+  "domain": "https://forum.vivaldi.net",
+  "url": "https://forum.vivaldi.net/search?term=%s",
+  "description": "Vivaldi Forums",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

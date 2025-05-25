@@ -1,0 +1,8 @@
+{
+  "bang": "hg",
+  "domain": "https://www.mercurial-scm.org",
+  "url": "https://www.mercurial-scm.org/wiki/Mercurial?action=fullsearch&context=180&value=%s&titlesearch=Title",
+  "description": "Mecurial",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

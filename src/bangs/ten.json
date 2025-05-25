@@ -1,0 +1,8 @@
+{
+  "bang": "ten",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/?hl=en&tab=TT#auto/en/%s",
+  "description": "Google Translate to English",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

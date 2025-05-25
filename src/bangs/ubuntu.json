@@ -1,0 +1,8 @@
+{
+  "bang": "ubuntu",
+  "domain": "https://www.ubuntu.com",
+  "url": "https://www.ubuntu.com/search?q=%s",
+  "description": "Ubuntu",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Ubuntu)"
+}

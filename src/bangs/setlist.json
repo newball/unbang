@@ -1,0 +1,8 @@
+{
+  "bang": "setlist",
+  "domain": "https://www.setlist.fm",
+  "url": "http://www.setlist.fm/search?query=%s",
+  "description": "Setlist.fm",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

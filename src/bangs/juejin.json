@@ -1,0 +1,8 @@
+{
+  "bang": "juejin",
+  "domain": "https://juejin.im",
+  "url": "https://juejin.im/search?query= %s&type=all",
+  "description": "Juejin",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

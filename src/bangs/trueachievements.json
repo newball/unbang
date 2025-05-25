@@ -1,0 +1,8 @@
+{
+  "bang": "trueachievements",
+  "domain": "https://www.trueachievements.com",
+  "url": "https://www.trueachievements.com/searchresults.aspx?search=%s",
+  "description": "TrueAchievements",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

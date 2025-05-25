@@ -1,0 +1,8 @@
+{
+  "bang": "wu",
+  "domain": "https://www.wunderground.com",
+  "url": "https://www.wunderground.com/cgi-bin/findweather/getForecast?query=%s",
+  "description": "Weather Underground",
+  "category": "News",
+  "sub-category": "Weather"
+}

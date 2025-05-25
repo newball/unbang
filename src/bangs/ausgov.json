@@ -1,0 +1,8 @@
+{
+  "bang": "ausgov",
+  "domain": "https://australia.gov.au",
+  "url": "http://australia.gov.au/search?collection=gov_all&coverage=all&num_ranks=3&extra_all_num_ranks=3&form=simple&query=%s",
+  "description": "australia.gov.au",
+  "category": "Research",
+  "sub-category": "Government"
+}

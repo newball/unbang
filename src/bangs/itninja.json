@@ -1,0 +1,8 @@
+{
+  "bang": "itninja",
+  "domain": "https://www.itninja.com",
+  "url": "http://www.itninja.com/search?q=%s",
+  "description": "IT-Ninja",
+  "category": "Tech",
+  "sub-category": "Sysadmin (packages)"
+}

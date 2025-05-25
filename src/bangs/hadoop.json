@@ -1,0 +1,8 @@
+{
+  "bang": "hadoop",
+  "domain": "https://search-hadoop.com",
+  "url": "http://search-hadoop.com/?q=%s",
+  "description": "Search-Hadoop",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

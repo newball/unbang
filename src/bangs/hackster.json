@@ -1,0 +1,8 @@
+{
+  "bang": "hackster",
+  "domain": "https://www.hackster.io",
+  "url": "https://www.hackster.io/search?i=projects&q=%s",
+  "description": "Hackster",
+  "category": "Tech",
+  "sub-category": "Design"
+}

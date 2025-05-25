@@ -1,0 +1,8 @@
+{
+  "bang": "lamps",
+  "domain": "https://www.lamps.com",
+  "url": "https://www.lamps.com/catalogsearch/result?q=%s",
+  "description": "Lamps.com",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

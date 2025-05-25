@@ -1,0 +1,8 @@
+{
+  "bang": "arb",
+  "domain": "https://ruby.libhunt.com",
+  "url": "https://ruby.libhunt.com/search?query=%s",
+  "description": "Awesome Ruby (LibHun)",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

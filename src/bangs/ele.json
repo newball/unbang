@@ -1,0 +1,8 @@
+{
+  "bang": "ele",
+  "domain": "https://electronjs.org",
+  "url": "https://electronjs.org/search?q=%s",
+  "description": "Electron",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

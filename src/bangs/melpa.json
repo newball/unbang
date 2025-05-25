@@ -1,0 +1,8 @@
+{
+  "bang": "melpa",
+  "domain": "https://melpa.milkbox.net",
+  "url": "http://melpa.milkbox.net/#/?q=%s",
+  "description": "MELPA",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

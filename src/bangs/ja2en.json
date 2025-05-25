@@ -1,0 +1,8 @@
+{
+  "bang": "ja2en",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#ja/en/%s",
+  "description": "Google translate",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

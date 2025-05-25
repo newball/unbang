@@ -1,0 +1,8 @@
+{
+  "bang": "drugs.com",
+  "domain": "https://www.drugs.com",
+  "url": "https://www.drugs.com/search.php?searchterm=%s",
+  "description": "Drugs.com",
+  "category": "Research",
+  "sub-category": "Health"
+}

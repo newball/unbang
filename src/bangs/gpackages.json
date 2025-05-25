@@ -1,0 +1,8 @@
+{
+  "bang": "gpackages",
+  "domain": "https://packages.gentoo.org",
+  "url": "https://packages.gentoo.org/packages/search?q=%s ",
+  "description": "Gentoo Packages",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Gentoo)"
+}

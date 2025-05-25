@@ -1,0 +1,8 @@
+{
+  "bang": "sse",
+  "domain": "https://security.stackexchange.com",
+  "url": "https://security.stackexchange.com/search?q=%s",
+  "description": "https://security.stackexchange.com/",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

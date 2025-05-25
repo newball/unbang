@@ -1,0 +1,8 @@
+{
+  "bang": "hopac",
+  "domain": "https://opac.hebib.de",
+  "url": "http://opac.hebib.de/search?scope=R1&q=%s",
+  "description": "hessen.OPAC",
+  "category": "Research",
+  "sub-category": "Academic"
+}

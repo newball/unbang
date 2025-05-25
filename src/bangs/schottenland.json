@@ -1,0 +1,8 @@
+{
+  "bang": "schottenland",
+  "domain": "https://www.schottenland.de",
+  "url": "http://www.schottenland.de/suche/?searchstring=%s",
+  "description": "Schottenland",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

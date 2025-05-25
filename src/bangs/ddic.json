@@ -1,0 +1,8 @@
+{
+  "bang": "ddic",
+  "domain": "https://dic.daum.net",
+  "url": "http://dic.daum.net/search.do?q=%s",
+  "description": "Daum Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "hak5f",
+  "domain": "https://forums.hak5.org",
+  "url": "https://forums.hak5.org/index.php?app=core&module=search&do=search&fromMainBar=1&search_term=%s",
+  "description": "Hak5 Forums",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

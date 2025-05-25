@@ -1,0 +1,8 @@
+{
+  "bang": "redbot",
+  "domain": "https://redbot.org",
+  "url": "http://redbot.org/?uri=%s",
+  "description": "REDbot",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "money",
+  "domain": "https://moneybadger.stocktwits.com",
+  "url": "http://moneybadger.stocktwits.com/?s=%s",
+  "description": "Money Badger by StockTwits",
+  "category": "News",
+  "sub-category": "Business"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "fbg",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Afootballguys.com+%s",
+  "description": "FootballGuys",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

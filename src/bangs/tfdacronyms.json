@@ -1,0 +1,8 @@
+{
+  "bang": "tfdacronyms",
+  "domain": "https://acronyms.thefreedictionary.com",
+  "url": "http://acronyms.thefreedictionary.com/%s",
+  "description": "The Free Dictionary (Acronyms)",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "drtv",
+  "domain": "https://www.dr.dk",
+  "url": "https://www.dr.dk/tv/soeg/%s",
+  "description": "DR Tv",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

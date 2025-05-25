@@ -1,0 +1,8 @@
+{
+  "bang": "reactome",
+  "domain": "https://reactome.org",
+  "url": "http://reactome.org/content/query?q=%s",
+  "description": "Reactome",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

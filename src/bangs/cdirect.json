@@ -1,0 +1,8 @@
+{
+  "bang": "cdirect",
+  "domain": "https://www.comdirect.de",
+  "url": "https://www.comdirect.de/inf/search/general.html?SEARCH_VALUE=%s",
+  "description": "comdirect",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

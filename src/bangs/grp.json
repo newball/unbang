@@ -1,0 +1,8 @@
+{
+  "bang": "grp",
+  "domain": "https://plugins.grails.org",
+  "url": "http://plugins.grails.org/?query=%s&submit=Search",
+  "description": "Grails Plugins",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

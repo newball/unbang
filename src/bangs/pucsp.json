@@ -1,0 +1,8 @@
+{
+  "bang": "pucsp",
+  "domain": "https://www.pucsp.br",
+  "url": "https://www.pucsp.br/buscar?search_api_fulltext=%s&field_area_de_conhecimento=All&field_escola=&type=All",
+  "description": "PUC-SP - Pontifícia Universidade Católica de São Paulo",
+  "category": "Research",
+  "sub-category": "Learning (intl)"
+}

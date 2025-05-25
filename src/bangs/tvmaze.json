@@ -1,0 +1,8 @@
+{
+  "bang": "tvmaze",
+  "domain": "https://www.tvmaze.com",
+  "url": "https://www.tvmaze.com/search?q=%s",
+  "description": "TVmaze",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

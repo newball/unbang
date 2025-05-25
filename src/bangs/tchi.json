@@ -1,0 +1,8 @@
+{
+  "bang": "tchi",
+  "domain": "https://www.tchibo.de",
+  "url": "https://www.tchibo.de/search?query=%s",
+  "description": "Tchibo",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

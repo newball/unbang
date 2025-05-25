@@ -1,0 +1,8 @@
+{
+  "bang": "csdb",
+  "domain": "https://noname.c64.org",
+  "url": "http://noname.c64.org/csdb/search/?seinsel=all&search=%s",
+  "description": "The C64 Scene Database",
+  "category": "News",
+  "sub-category": "Specialty"
+}

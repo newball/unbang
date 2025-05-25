@@ -1,0 +1,8 @@
+{
+  "bang": "deru",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#view=home&op=translate&sl=de&tl=ru&text=%s",
+  "description": "Google Translate",
+  "category": "Translation",
+  "sub-category": "Google"
+}

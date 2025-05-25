@@ -1,0 +1,8 @@
+{
+  "bang": "linge",
+  "domain": "https://www.linguee.com",
+  "url": "http://www.linguee.com/deutsch-englisch/search?source=auto&query=%s",
+  "description": "linguee",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

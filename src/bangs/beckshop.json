@@ -1,0 +1,8 @@
+{
+  "bang": "beckshop",
+  "domain": "https://www.beck-shop.de",
+  "url": "http://www.beck-shop.de/trefferliste.aspx?q=%s&action=search&page=0",
+  "description": "beck-shop.de",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

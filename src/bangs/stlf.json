@@ -1,0 +1,8 @@
+{
+  "bang": "stlf",
+  "domain": "https://www.stlfinder.com",
+  "url": "https://www.stlfinder.com/?search=%s",
+  "description": "STLFinder",
+  "category": "Tech",
+  "sub-category": "Design"
+}

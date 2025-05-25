@@ -1,0 +1,8 @@
+{
+  "bang": "capp",
+  "domain": "https://www.cappusa.com",
+  "url": "http://www.cappusa.com/catalogsearch/result/?q=%s",
+  "description": "CAPP/USA",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

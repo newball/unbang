@@ -1,0 +1,8 @@
+{
+  "bang": "bfx",
+  "domain": "https://www.bergfex.at",
+  "url": "https://www.bergfex.at/suchen/?q=%s",
+  "description": "Bergfex",
+  "category": "News",
+  "sub-category": "Weather"
+}

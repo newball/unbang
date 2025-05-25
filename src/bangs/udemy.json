@@ -1,0 +1,8 @@
+{
+  "bang": "udemy",
+  "domain": "https://www.udemy.com",
+  "url": "https://www.udemy.com/courses/search/?q=%s",
+  "description": "Udemy",
+  "category": "Research",
+  "sub-category": "Learning"
+}

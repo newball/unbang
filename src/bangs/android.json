@@ -1,0 +1,8 @@
+{
+  "bang": "android",
+  "domain": "https://developer.android.com",
+  "url": "https://developer.android.com/s/results/?q=%s",
+  "description": "Android Developers",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

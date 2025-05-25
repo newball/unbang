@@ -1,0 +1,8 @@
+{
+  "bang": "wru",
+  "domain": "https://ru.wikipedia.org",
+  "url": "https://ru.wikipedia.org/wiki/%s",
+  "description": "Wikipedia (RU)",
+  "category": "Research",
+  "sub-category": "Learning"
+}

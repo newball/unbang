@@ -1,0 +1,8 @@
+{
+  "bang": "mapsuk",
+  "domain": "https://maps.google.co.uk",
+  "url": "https://maps.google.co.uk/maps?q=%s",
+  "description": "Google Maps UK",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "fortnitestats",
+  "domain": "https://fortnitestats.com",
+  "url": "https://fortnitestats.com/stats/%s",
+  "description": "Fortnite stats",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

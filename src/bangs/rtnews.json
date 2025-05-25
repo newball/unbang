@@ -1,0 +1,8 @@
+{
+  "bang": "rtnews",
+  "domain": "https://rt.com",
+  "url": "http://rt.com/search/?q=%s",
+  "description": "RT",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

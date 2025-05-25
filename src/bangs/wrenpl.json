@@ -1,0 +1,8 @@
+{
+  "bang": "wrenpl",
+  "domain": "https://www.wordreference.com",
+  "url": "http://www.wordreference.com/enpl/%s",
+  "description": "Word Reference",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

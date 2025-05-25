@@ -1,0 +1,8 @@
+{
+  "bang": "openings",
+  "domain": "https://openings.moe",
+  "url": "http://openings.moe/list/?s=%s",
+  "description": "Openings.moe",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

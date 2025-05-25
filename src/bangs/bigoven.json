@@ -1,0 +1,8 @@
+{
+  "bang": "bigoven",
+  "domain": "https://www.bigoven.com",
+  "url": "http://www.bigoven.com/recipes/%s/best",
+  "description": "BigOven",
+  "category": "Research",
+  "sub-category": "Food"
+}

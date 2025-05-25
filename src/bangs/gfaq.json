@@ -1,0 +1,8 @@
+{
+  "bang": "gfaq",
+  "domain": "https://www.gamefaqs.com",
+  "url": "http://www.gamefaqs.com/search/index.html?game=%s",
+  "description": "GameFAQs",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

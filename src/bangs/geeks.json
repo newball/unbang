@@ -1,0 +1,8 @@
+{
+  "bang": "geeks",
+  "domain": "https://www.geeksforgeeks.org",
+  "url": "https://www.geeksforgeeks.org/?s=%s",
+  "description": "GeeksforGeeks",
+  "category": "Research",
+  "sub-category": "Learning"
+}

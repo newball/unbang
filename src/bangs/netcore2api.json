@@ -1,0 +1,8 @@
+{
+  "bang": "netcore2api",
+  "domain": "https://docs.microsoft.com",
+  "url": "https://docs.microsoft.com/en-us/dotnet/api/?view=netcore-2.0&term=%s",
+  "description": ".NET API Browser - .NET Core 2.0",
+  "category": "Tech",
+  "sub-category": "Languages (.net)"
+}

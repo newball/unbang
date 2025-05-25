@@ -1,0 +1,8 @@
+{
+  "bang": "wsr",
+  "domain": "https://sr.wikipedia.org",
+  "url": "https://sr.wikipedia.org/w/index.php?search=%s",
+  "description": "https://sr.wikipedia.org/wiki/",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

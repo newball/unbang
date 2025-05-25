@@ -1,0 +1,8 @@
+{
+  "bang": "csharp",
+  "domain": "https://social.msdn.microsoft.com",
+  "url": "http://social.msdn.microsoft.com/Search/en-US?query=%s&Refinement=126&ac=8",
+  "description": "C# MSDN",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

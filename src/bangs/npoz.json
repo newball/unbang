@@ -1,0 +1,8 @@
+{
+  "bang": "npoz",
+  "domain": "https://openscience.si",
+  "url": "http://openscience.si/NaprednoIskanje.aspx?t=s&q=1:0:%s;",
+  "description": "Nacionalni portal odprte znanosti",
+  "category": "Research",
+  "sub-category": "Academic"
+}

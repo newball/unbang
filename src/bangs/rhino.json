@@ -1,0 +1,8 @@
+{
+  "bang": "rhino",
+  "domain": "https://www.food4rhino.com",
+  "url": "http://www.food4rhino.com/browse?searchText=%s",
+  "description": "Food4Rhino",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

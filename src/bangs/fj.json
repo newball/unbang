@@ -1,0 +1,8 @@
+{
+  "bang": "fj",
+  "domain": "https://funnyjunk.com",
+  "url": "http://funnyjunk.com/search/?q=%s",
+  "description": "Funnyjunk",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "pw",
+  "domain": "https://www.pricewatch.com",
+  "url": "http://www.pricewatch.com/search?q=%s ",
+  "description": "Pricewatch",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

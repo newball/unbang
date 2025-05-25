@@ -1,0 +1,8 @@
+{
+  "bang": "httpcat",
+  "domain": "https://http.cat",
+  "url": "https://http.cat/%s",
+  "description": "HTTP Status Cats",
+  "category": "Tech",
+  "sub-category": "Design"
+}

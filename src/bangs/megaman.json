@@ -1,0 +1,8 @@
+{
+  "bang": "megaman",
+  "domain": "https://megaman.wikia.com",
+  "url": "http://megaman.wikia.com/wiki/Special:Search?search=%s&fulltext=Search",
+  "description": "Mega Man Knowledge Base",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "maalbum",
+  "domain": "https://www.metal-archives.com",
+  "url": "http://www.metal-archives.com/search?searchString=%s&type=album_title",
+  "description": "Metal Archives",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

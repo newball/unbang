@@ -1,0 +1,8 @@
+{
+  "bang": "learn-js",
+  "domain": "https://learn.javascript.ru",
+  "url": "http://learn.javascript.ru/search?query=%s",
+  "description": "learn.javascript.ru",
+  "category": "Tech",
+  "sub-category": "Languages (javascript)"
+}

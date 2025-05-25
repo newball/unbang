@@ -1,0 +1,8 @@
+{
+  "bang": "ddghu",
+  "domain": "https://duckduckgo.com",
+  "url": "http://duckduckgo.com/?kl=hu-hu&q=%s",
+  "description": "DuckDuckGo Hungary",
+  "category": "Online Services",
+  "sub-category": "Search (DDG)"
+}

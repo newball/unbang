@@ -1,0 +1,8 @@
+{
+  "bang": "downd",
+  "domain": "https://downdetector.co.uk",
+  "url": "https://downdetector.co.uk/search/?q=%s",
+  "description": "Downdetector",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

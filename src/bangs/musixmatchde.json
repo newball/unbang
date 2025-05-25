@@ -1,0 +1,8 @@
+{
+  "bang": "musixmatchde",
+  "domain": "https://www.musixmatch.com",
+  "url": "https://www.musixmatch.com/de/search/%s",
+  "description": "Musixmatch DE",
+  "category": "Multimedia",
+  "sub-category": "Docs"
+}

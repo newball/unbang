@@ -1,0 +1,8 @@
+{
+  "bang": "securityheaders",
+  "domain": "https://securityheaders.io",
+  "url": "https://securityheaders.io/?q=%s&followRedirects=on",
+  "description": "securityheaders.io",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

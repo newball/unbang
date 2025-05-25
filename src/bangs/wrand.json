@@ -1,0 +1,8 @@
+{
+  "bang": "wrand",
+  "domain": "https://en.wikipedia.org",
+  "url": "https://en.wikipedia.org/wiki/Special:RandomInCategory/%s",
+  "description": "Wikipedia Random in Category",
+  "category": "Research",
+  "sub-category": "Learning"
+}

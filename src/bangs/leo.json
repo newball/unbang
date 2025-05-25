@@ -1,0 +1,8 @@
+{
+  "bang": "leo",
+  "domain": "https://dict.leo.org",
+  "url": "https://dict.leo.org/englisch-deutsch/%s",
+  "description": "dict.leo.org",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

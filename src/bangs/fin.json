@@ -1,0 +1,8 @@
+{
+  "bang": "fin",
+  "domain": "https://finviz.com",
+  "url": "https://finviz.com/search.ashx?p=%s",
+  "description": "finviz.com",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

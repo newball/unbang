@@ -1,0 +1,8 @@
+{
+  "bang": "curiac",
+  "domain": "https://curia.europa.eu",
+  "url": "http://curia.europa.eu/juris/liste.jsf?pro=&lgrec=en&nat=&oqp=&dates=&lg=&language=en&jur=C%2CT%2CF&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&num=%s&td=ALL&pcs=O&avg=&page=1&mat=or&jge=&for=&cid=114819",
+  "description": "Curia (Case number)",
+  "category": "Research",
+  "sub-category": "Law"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "kr",
+  "domain": "https://www.kroger.com",
+  "url": "https://www.kroger.com/search?query=%s",
+  "description": "Kroger",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

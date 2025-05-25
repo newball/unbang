@@ -1,0 +1,8 @@
+{
+  "bang": "amalexa",
+  "domain": "https://www.amazon.com",
+  "url": "https://www.amazon.com/s?k=%s&i=alexa-skills",
+  "description": "Amazon Alexa Skills Search Page",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

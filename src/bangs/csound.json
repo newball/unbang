@@ -1,0 +1,8 @@
+{
+  "bang": "csound",
+  "domain": "https://www.csounds.com",
+  "url": "http://www.csounds.com/manual/html/%s.html",
+  "description": "csounds",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

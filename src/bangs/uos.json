@@ -1,0 +1,8 @@
+{
+  "bang": "uos",
+  "domain": "https://www.surrey.ac.uk",
+  "url": "https://www.surrey.ac.uk/search?query=%s",
+  "description": "University of Surrey",
+  "category": "Research",
+  "sub-category": "Academic"
+}

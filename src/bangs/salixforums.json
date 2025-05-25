@@ -1,0 +1,8 @@
+{
+  "bang": "salixforums",
+  "domain": "https://www.salixos.org",
+  "url": "http://www.salixos.org/forum/search.php?keywords=%s",
+  "description": "SalixOS Forums",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

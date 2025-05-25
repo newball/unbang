@@ -1,0 +1,8 @@
+{
+  "bang": "obrazky",
+  "domain": "https://www.obrazky.cz",
+  "url": "https://www.obrazky.cz/?q=%s",
+  "description": "Seznam Obrázky",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

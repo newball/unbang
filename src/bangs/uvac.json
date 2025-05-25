@@ -1,0 +1,8 @@
+{
+  "bang": "uvac",
+  "domain": "https://search.lib.virginia.edu",
+  "url": "http://search.lib.virginia.edu/catalog?q=%s",
+  "description": "University of Virginia Library Catalog",
+  "category": "Research",
+  "sub-category": "Academic"
+}

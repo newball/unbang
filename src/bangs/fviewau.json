@@ -1,0 +1,8 @@
+{
+  "bang": "fviewau",
+  "domain": "https://www.freeview.com.au",
+  "url": "http://www.freeview.com.au/tv-search/?search=%s&x=0&y=0",
+  "description": "Freeview Australia",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

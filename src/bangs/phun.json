@@ -1,0 +1,8 @@
+{
+  "bang": "phun",
+  "domain": "https://phun.freeforums.org",
+  "url": "http://phun.freeforums.org/search.php?keywords=%s",
+  "description": "PHUN Forum",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

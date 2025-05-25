@@ -1,0 +1,8 @@
+{
+  "bang": "srec",
+  "domain": "https://softwarerecs.stackexchange.com",
+  "url": "http://softwarerecs.stackexchange.com/search?q=%s",
+  "description": "Software Recommendations",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "booklive",
+  "domain": "https://booklive.jp",
+  "url": "http://booklive.jp/search/keyword?keyword=%s",
+  "description": "BookLive!",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

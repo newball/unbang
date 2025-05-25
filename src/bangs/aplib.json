@@ -1,0 +1,8 @@
+{
+  "bang": "aplib",
+  "domain": "https://austin.bibliocommons.com",
+  "url": "https://austin.bibliocommons.com/v2/search?query=%s&searchType=smart",
+  "description": "Austin Public Library",
+  "category": "Research",
+  "sub-category": "Learning"
+}

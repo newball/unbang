@@ -1,0 +1,8 @@
+{
+  "bang": "trictrac",
+  "domain": "https://www.trictrac.net",
+  "url": "http://www.trictrac.net/recherche?query=%s",
+  "description": "Tric Trac",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "kmart",
+  "domain": "https://www.kmart.com",
+  "url": "http://www.kmart.com/shc/s/search_10151_10104?keyword=%s",
+  "description": "Kmart",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

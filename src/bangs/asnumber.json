@@ -1,0 +1,8 @@
+{
+  "bang": "asnumber",
+  "domain": "https://www.ultratools.com",
+  "url": "https://www.ultratools.com/tools/asnInfoResult?domainName=%s",
+  "description": "Ultratools",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

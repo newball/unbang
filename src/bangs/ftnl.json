@@ -1,0 +1,8 @@
+{
+  "bang": "ftnl",
+  "domain": "https://www.filmtotaal.nl",
+  "url": "https://www.filmtotaal.nl/zoeken/?q=%s",
+  "description": "filmtotaal.nl",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "alert",
+  "domain": "https://biznesalert.pl",
+  "url": "http://biznesalert.pl/?s=%s",
+  "description": "BiznesAlert",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

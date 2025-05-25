@@ -1,0 +1,8 @@
+{
+  "bang": "hubspot",
+  "domain": "https://knowledge.hubspot.com",
+  "url": "https://knowledge.hubspot.com/search?q=%s",
+  "description": "HubSpot",
+  "category": "Tech",
+  "sub-category": "Design"
+}

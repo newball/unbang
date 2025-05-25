@@ -1,0 +1,8 @@
+{
+  "bang": "dogpedia",
+  "domain": "https://www.dogpedia.org",
+  "url": "http://www.dogpedia.org/?s=%s",
+  "description": "DogPedia",
+  "category": "Research",
+  "sub-category": "Reference"
+}

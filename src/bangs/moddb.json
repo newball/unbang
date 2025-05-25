@@ -1,0 +1,8 @@
+{
+  "bang": "moddb",
+  "domain": "https://moddb.com",
+  "url": "http://moddb.com/search?q=%s",
+  "description": "ModDB",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

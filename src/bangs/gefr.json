@@ -1,0 +1,8 @@
+{
+  "bang": "gefr",
+  "domain": "https://dictionnaire.reverso.net",
+  "url": "http://dictionnaire.reverso.net/allemand-francais/%s",
+  "description": "Reverso",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

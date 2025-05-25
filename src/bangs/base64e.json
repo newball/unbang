@@ -1,0 +1,8 @@
+{
+  "bang": "base64e",
+  "domain": "https://cryptography.cc",
+  "url": "https://cryptography.cc/convert?text=%s&algorithm=base64encode",
+  "description": "cryotography.cc",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

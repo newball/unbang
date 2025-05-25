@@ -1,0 +1,8 @@
+{
+  "bang": "gradlep",
+  "domain": "https://plugins.gradle.org",
+  "url": "https://plugins.gradle.org/search?term=%s",
+  "description": "gradle plugins",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

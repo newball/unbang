@@ -1,0 +1,8 @@
+{
+  "bang": "download",
+  "domain": "https://download.cnet.com",
+  "url": "http://download.cnet.com/1770-20_4-0.html?searchtype=downloads&query=%s&tg=dl-20&search.x=0&search.y=0&search=+Go%252521",
+  "description": "Download.com",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

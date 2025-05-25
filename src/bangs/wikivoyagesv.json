@@ -1,0 +1,8 @@
+{
+  "bang": "wikivoyagesv",
+  "domain": "https://sv.wikivoyage.org",
+  "url": "https://sv.wikivoyage.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikivoyage (Svenska)",
+  "category": "Research",
+  "sub-category": "Travel"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "quotev",
+  "domain": "https://www.quotev.com",
+  "url": "https://www.quotev.com/search/%s",
+  "description": "Quotev",
+  "category": "Entertainment",
+  "sub-category": "Blogs (intl)"
+}

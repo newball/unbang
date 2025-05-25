@@ -1,0 +1,8 @@
+{
+  "bang": "grosbill",
+  "domain": "https://www.grosbill.com",
+  "url": "https://www.grosbill.com/catv2.cgi?mode=recherche&recherche=%s",
+  "description": "GrosBill",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

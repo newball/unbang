@@ -1,0 +1,8 @@
+{
+  "bang": "discourse",
+  "domain": "https://meta.discourse.org",
+  "url": "https://meta.discourse.org/search?q=%s",
+  "description": "Discourse Meta",
+  "category": "Tech",
+  "sub-category": "Startups"
+}

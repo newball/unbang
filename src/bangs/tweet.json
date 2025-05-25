@@ -1,0 +1,8 @@
+{
+  "bang": "tweet",
+  "domain": "https://mobile.twitter.com",
+  "url": "https://mobile.twitter.com/search?q=%s",
+  "description": "Twitter",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "fnac",
+  "domain": "https://recherche.fnac.com",
+  "url": "http://recherche.fnac.com/SearchResult/ResultList.aspx?Search=%s",
+  "description": "fnac",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

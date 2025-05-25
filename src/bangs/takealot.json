@@ -1,0 +1,8 @@
+{
+  "bang": "takealot",
+  "domain": "https://www.takealot.com",
+  "url": "http://www.takealot.com/all/?qsearch=%s",
+  "description": "takealot.com",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

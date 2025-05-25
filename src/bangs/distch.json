@@ -1,0 +1,8 @@
+{
+  "bang": "distch",
+  "domain": "https://www.distrelec.ch",
+  "url": "https://www.distrelec.ch/search?q=%s",
+  "description": "Distrelec Schweiz",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

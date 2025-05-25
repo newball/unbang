@@ -1,0 +1,8 @@
+{
+  "bang": "dbuch",
+  "domain": "https://diebuchsuche.de",
+  "url": "http://diebuchsuche.de/r.php?q=%s",
+  "description": "diebuchsuche.de",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

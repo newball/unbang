@@ -1,0 +1,8 @@
+{
+  "bang": "thwack",
+  "domain": "https://thwack.solarwinds.com",
+  "url": "https://thwack.solarwinds.com/search.jspa?q=%s",
+  "description": "Thwack",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "brainpop",
+  "domain": "https://www.brainpop.com",
+  "url": "https://www.brainpop.com/search/search.weml?keyword=%s",
+  "description": "BrainPOP",
+  "category": "Research",
+  "sub-category": "Learning"
+}

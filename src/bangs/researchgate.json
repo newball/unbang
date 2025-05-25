@@ -1,0 +1,8 @@
+{
+  "bang": "researchgate",
+  "domain": "https://www.researchgate.net",
+  "url": "https://www.researchgate.net/search/publications?q=%s",
+  "description": "ResearchGate",
+  "category": "Research",
+  "sub-category": "Academic"
+}

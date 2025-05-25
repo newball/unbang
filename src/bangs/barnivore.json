@@ -1,0 +1,8 @@
+{
+  "bang": "barnivore",
+  "domain": "https://www.barnivore.com",
+  "url": "http://www.barnivore.com/search?keyword=%s",
+  "description": "Barnivore",
+  "category": "Research",
+  "sub-category": "Food"
+}

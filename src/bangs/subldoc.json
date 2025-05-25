@@ -1,0 +1,8 @@
+{
+  "bang": "subldoc",
+  "domain": "https://docs.sublimetext.info",
+  "url": "http://docs.sublimetext.info/en/latest/search.html?q=%s",
+  "description": "Sublime Text Unofficial Documentation",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

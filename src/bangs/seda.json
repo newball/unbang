@@ -1,0 +1,8 @@
+{
+  "bang": "seda",
+  "domain": "https://www.snapeda.com",
+  "url": "https://www.snapeda.com/search/?q=%s&search-type=parts",
+  "description": "SnapEDA",
+  "category": "Tech",
+  "sub-category": "Design"
+}

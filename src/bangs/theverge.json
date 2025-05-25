@@ -1,0 +1,8 @@
+{
+  "bang": "theverge",
+  "domain": "https://www.theverge.com",
+  "url": "http://www.theverge.com/search?q=%s",
+  "description": "The Verge",
+  "category": "News",
+  "sub-category": "International"
+}

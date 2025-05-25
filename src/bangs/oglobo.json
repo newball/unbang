@@ -1,0 +1,8 @@
+{
+  "bang": "oglobo",
+  "domain": "https://oglobo.globo.com",
+  "url": "https://oglobo.globo.com/busca/?q=%s",
+  "description": "https://oglobo.globo.com/",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

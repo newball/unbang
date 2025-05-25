@@ -1,0 +1,8 @@
+{
+  "bang": "numerama",
+  "domain": "https://www.numerama.com",
+  "url": "http://www.numerama.com/magazine/recherche/1/%s/date",
+  "description": "Numerama",
+  "category": "News",
+  "sub-category": "Magazine"
+}

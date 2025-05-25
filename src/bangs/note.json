@@ -1,0 +1,8 @@
+{
+  "bang": "note",
+  "domain": "https://note.mu",
+  "url": "https://note.mu/search?context=note&mode=search&q=%s",
+  "description": "note",
+  "category": "Entertainment",
+  "sub-category": "Blogs"
+}

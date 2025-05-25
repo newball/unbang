@@ -1,0 +1,8 @@
+{
+  "bang": "dover",
+  "domain": "https://search.doverpublications.com",
+  "url": "http://search.doverpublications.com/search?keywords=%s",
+  "description": "Dover Publications",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

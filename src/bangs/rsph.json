@@ -1,0 +1,8 @@
+{
+  "bang": "rsph",
+  "domain": "https://ph.rs-online.com",
+  "url": "http://ph.rs-online.com/web/c/?searchTerm=%s",
+  "description": "RS Components Philippines",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

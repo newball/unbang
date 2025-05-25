@@ -1,0 +1,8 @@
+{
+  "bang": "fz",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Afz.se+%s",
+  "description": "FZ",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

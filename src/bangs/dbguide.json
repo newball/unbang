@@ -1,0 +1,8 @@
+{
+  "bang": "dbguide",
+  "domain": "https://www.dotabuff.com",
+  "url": "https://www.dotabuff.com/heroes/%s/guides",
+  "description": "Dotabuff Hero Guides",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

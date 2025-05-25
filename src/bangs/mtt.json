@@ -1,0 +1,8 @@
+{
+  "bang": "mtt",
+  "domain": "https://www.multitracks.com",
+  "url": "http://www.multitracks.com/search/?q=%s",
+  "description": "Multitracks",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

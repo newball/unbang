@@ -1,0 +1,8 @@
+{
+  "bang": "kotoba",
+  "domain": "https://kotobank.jp",
+  "url": "http://kotobank.jp/word/%s",
+  "description": "コトバンク",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

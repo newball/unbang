@@ -1,0 +1,8 @@
+{
+  "bang": "bl",
+  "domain": "https://explore.bl.uk",
+  "url": "http://explore.bl.uk/primo_library/libweb/action/search.do?fn=search&vl(freeText0)=%s",
+  "description": "The British Library Catalogue",
+  "category": "Research",
+  "sub-category": "Academic"
+}

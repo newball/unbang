@@ -1,0 +1,8 @@
+{
+  "bang": "gten",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/en/%s",
+  "description": "Detect language to English",
+  "category": "Translation",
+  "sub-category": "Google"
+}

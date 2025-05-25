@@ -1,0 +1,8 @@
+{
+  "bang": "berekenen",
+  "domain": "https://www.berekenhet.nl",
+  "url": "http://www.berekenhet.nl/zoeken.html?q=%s",
+  "description": "BerekenHet",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

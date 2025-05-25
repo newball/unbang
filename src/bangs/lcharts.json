@@ -1,0 +1,8 @@
+{
+  "bang": "lcharts",
+  "domain": "https://www.litcharts.com",
+  "url": "https://www.litcharts.com/search?query=%s",
+  "description": "LitCharts",
+  "category": "Research",
+  "sub-category": "Academic"
+}

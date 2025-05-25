@@ -1,0 +1,8 @@
+{
+  "bang": "avclub",
+  "domain": "https://www.avclub.com",
+  "url": "https://www.avclub.com/search?q=%s",
+  "description": "The A.V. Club",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

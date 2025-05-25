@@ -1,0 +1,8 @@
+{
+  "bang": "cals",
+  "domain": "https://www.caloriecount.com",
+  "url": "https://www.caloriecount.com/search/foods?searchpro=%s",
+  "description": "Calorie Count",
+  "category": "Research",
+  "sub-category": "Food"
+}

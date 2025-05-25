@@ -1,0 +1,8 @@
+{
+  "bang": "dremio",
+  "domain": "https://community.dremio.com",
+  "url": "https://community.dremio.com/search?q=%s",
+  "description": "dremio community",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

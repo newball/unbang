@@ -1,0 +1,8 @@
+{
+  "bang": "chegg",
+  "domain": "https://www.chegg.com",
+  "url": "http://www.chegg.com/search/%s",
+  "description": "Chegg",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

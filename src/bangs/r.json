@@ -1,0 +1,8 @@
+{
+  "bang": "r",
+  "domain": "https://www.reddit.com",
+  "url": "https://www.reddit.com/search?q=%s",
+  "description": "Reddit",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

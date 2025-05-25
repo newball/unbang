@@ -1,0 +1,8 @@
+{
+  "bang": "listadomangablog",
+  "domain": "https://www.listadomanga.es",
+  "url": "http://www.listadomanga.es/blog/?s=%s",
+  "description": "Listado manga blog",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

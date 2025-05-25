@@ -1,0 +1,8 @@
+{
+  "bang": "rebuy",
+  "domain": "https://www.rebuy.de",
+  "url": "https://www.rebuy.de/kaufen/suchen?q=%s",
+  "description": "reBuy.de Kaufen",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

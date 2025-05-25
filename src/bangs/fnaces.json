@@ -1,0 +1,8 @@
+{
+  "bang": "fnaces",
+  "domain": "https://busqueda.fnac.es",
+  "url": "http://busqueda.fnac.es/Search/SearchResult.aspx?SCat=0%211&Search=%s&sft=1&submitbtn=OK",
+  "description": "Fnac.es",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "mcr",
+  "domain": "https://www.metacrawler.com",
+  "url": "http://www.metacrawler.com/search/web?fcoid=417&fcop=topnav&fpid=2&om_nextpage=True&q=%s",
+  "description": "Meta Crawler",
+  "category": "Research",
+  "sub-category": "Learning"
+}

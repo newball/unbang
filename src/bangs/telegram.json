@@ -1,0 +1,8 @@
+{
+  "bang": "telegram",
+  "domain": "https://www.telegram.hr",
+  "url": "https://www.telegram.hr/?s=%s",
+  "description": "Telegram.hr",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

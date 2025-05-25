@@ -1,0 +1,8 @@
+{
+  "bang": "rbtc",
+  "domain": "https://www.metric-conversions.org",
+  "url": "http://www.metric-conversions.org/pt/moeda/bitcoin-em-real.htm?val=%s",
+  "description": "Convert BRL to BTC",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

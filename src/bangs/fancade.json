@@ -1,0 +1,8 @@
+{
+  "bang": "fancade",
+  "domain": "https://www.fancade.com",
+  "url": "http://www.fancade.com/search/?q=%s",
+  "description": "Fancade",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

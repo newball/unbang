@@ -1,0 +1,8 @@
+{
+  "bang": "gcat",
+  "domain": "https://www.google.cat",
+  "url": "http://www.google.cat/#q=%s",
+  "description": "Google Catalan",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "mormon",
+  "domain": "https://www.mormon.org",
+  "url": "https://www.mormon.org/searchresults#?query=%s",
+  "description": "mormon.org",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

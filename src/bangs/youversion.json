@@ -1,0 +1,8 @@
+{
+  "bang": "youversion",
+  "domain": "https://www.bible.com",
+  "url": "https://www.bible.com/search/bible?q=%s",
+  "description": "Bible YouVersion",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

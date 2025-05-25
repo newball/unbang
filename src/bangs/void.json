@@ -1,0 +1,8 @@
+{
+  "bang": "void",
+  "domain": "https://wiki.voidlinux.org",
+  "url": "https://wiki.voidlinux.org/index.php?search=%s",
+  "description": "Void GNU/Linux",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

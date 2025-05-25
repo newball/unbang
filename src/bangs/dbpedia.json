@@ -1,0 +1,8 @@
+{
+  "bang": "dbpedia",
+  "domain": "https://wiki.dbpedia.org",
+  "url": "http://wiki.dbpedia.org/Search?phrase=%s",
+  "description": "DBPedia",
+  "category": "Research",
+  "sub-category": "Reference"
+}

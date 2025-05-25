@@ -1,0 +1,8 @@
+{
+  "bang": "earpod",
+  "domain": "https://www.earpod.co",
+  "url": "https://www.earpod.co/search?q=%s",
+  "description": "Earpod",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

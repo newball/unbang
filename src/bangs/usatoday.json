@@ -1,0 +1,8 @@
+{
+  "bang": "usatoday",
+  "domain": "https://www.usatoday.com",
+  "url": "http://www.usatoday.com/search/%s/",
+  "description": "USA Today",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

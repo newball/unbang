@@ -1,0 +1,8 @@
+{
+  "bang": "allmusic",
+  "domain": "https://www.allmusic.com",
+  "url": "http://www.allmusic.com/search/all/%s",
+  "description": "AllMusic",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

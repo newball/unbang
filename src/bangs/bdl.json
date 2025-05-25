@@ -1,0 +1,8 @@
+{
+  "bang": "bdl",
+  "domain": "https://bdl.oqlf.gouv.qc.ca",
+  "url": "http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?T1=%s&T3.x=0&T3.y=0",
+  "description": "Banque de dépannage linguistique",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

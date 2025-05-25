@@ -1,0 +1,8 @@
+{
+  "bang": "rcfrnl",
+  "domain": "https://context.reverso.net",
+  "url": "http://context.reverso.net/translation/french-dutch/%s",
+  "description": "Reverso Context French Dutch",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

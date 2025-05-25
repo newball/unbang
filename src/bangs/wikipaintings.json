@@ -1,0 +1,8 @@
+{
+  "bang": "wikipaintings",
+  "domain": "https://www.wikipaintings.org",
+  "url": "http://www.wikipaintings.org/en/search/%s/1",
+  "description": "wikipaintings",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

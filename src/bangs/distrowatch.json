@@ -1,0 +1,8 @@
+{
+  "bang": "distrowatch",
+  "domain": "https://distrowatch.com",
+  "url": "http://distrowatch.com/table.php?distribution=%s",
+  "description": "DistroWatch",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

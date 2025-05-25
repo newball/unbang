@@ -1,0 +1,8 @@
+{
+  "bang": "rsnl",
+  "domain": "https://nl.rs-online.com",
+  "url": "http://nl.rs-online.com/web/c/?searchTerm=%s",
+  "description": "RS Components (NL)",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

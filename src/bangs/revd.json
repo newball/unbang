@@ -1,0 +1,8 @@
+{
+  "bang": "revd",
+  "domain": "https://www.onelook.com",
+  "url": "http://www.onelook.com/reverse-dictionary.shtml?s=%s",
+  "description": "Onelook Reverse Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

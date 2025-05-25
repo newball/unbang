@@ -1,0 +1,8 @@
+{
+  "bang": "refrge",
+  "domain": "https://dictionnaire.reverso.net",
+  "url": "http://dictionnaire.reverso.net/francais-allemand/%s",
+  "description": "Reverso French - German",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

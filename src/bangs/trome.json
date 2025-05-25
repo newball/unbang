@@ -1,0 +1,8 @@
+{
+  "bang": "trome",
+  "domain": "https://trome.pe",
+  "url": "https://trome.pe/buscar/?query=%s",
+  "description": "Trome",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

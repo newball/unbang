@@ -1,0 +1,8 @@
+{
+  "bang": "decode",
+  "domain": "https://urldecode.org",
+  "url": "https://urldecode.org/?text=%s&mode=decode",
+  "description": "UrlDecode.org",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

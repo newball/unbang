@@ -1,0 +1,8 @@
+{
+  "bang": "theses",
+  "domain": "https://www.theses.fr",
+  "url": "http://www.theses.fr/?q=%s",
+  "description": "Theses.fr",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "υτ",
+  "domain": "https://www.youtube.com",
+  "url": "https://www.youtube.com/results?search_query=%s",
+  "description": "Youtube",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

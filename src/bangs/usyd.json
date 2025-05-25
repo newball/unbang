@@ -1,0 +1,8 @@
+{
+  "bang": "usyd",
+  "domain": "https://sydney.edu.au",
+  "url": "http://sydney.edu.au/s/search.html?collection=Usyd&query=%s",
+  "description": "The University of Sydney",
+  "category": "Research",
+  "sub-category": "Academic"
+}

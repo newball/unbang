@@ -1,0 +1,8 @@
+{
+  "bang": "worldbuilding",
+  "domain": "https://worldbuilding.stackexchange.com",
+  "url": "http://worldbuilding.stackexchange.com/search?q=%s",
+  "description": "worldbuilding.stackexchange.com",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

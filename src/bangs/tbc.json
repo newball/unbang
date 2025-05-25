@@ -1,0 +1,8 @@
+{
+  "bang": "tbc",
+  "domain": "https://www.tibia.com",
+  "url": "http://www.tibia.com/community/?subtopic=characters&name=%s",
+  "description": "Tibia",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

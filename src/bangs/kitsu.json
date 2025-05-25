@@ -1,0 +1,8 @@
+{
+  "bang": "kitsu",
+  "domain": "https://kitsu.io",
+  "url": "https://kitsu.io/anime?text=%s",
+  "description": "Kitsu",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

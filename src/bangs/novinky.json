@@ -1,0 +1,8 @@
+{
+  "bang": "novinky",
+  "domain": "https://www.novinky.cz",
+  "url": "http://www.novinky.cz/hledej?w=%s",
+  "description": "Novinky.cz",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "lms",
+  "domain": "https://lemmasoft.renai.us",
+  "url": "https://lemmasoft.renai.us/forums/search.php?keywords=%s",
+  "description": "Lemma Soft Forums",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

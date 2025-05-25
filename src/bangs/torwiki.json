@@ -1,0 +1,8 @@
+{
+  "bang": "torwiki",
+  "domain": "https://trac.torproject.org",
+  "url": "https://trac.torproject.org/projects/tor/search?q=%s ",
+  "description": "Torproject Wiki",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

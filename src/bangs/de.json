@@ -1,0 +1,8 @@
+{
+  "bang": "de",
+  "domain": "https://dict.tu-chemnitz.de",
+  "url": "http://dict.tu-chemnitz.de/dings.cgi?query=%s",
+  "description": "German",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

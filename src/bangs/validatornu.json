@@ -1,0 +1,8 @@
+{
+  "bang": "validatornu",
+  "domain": "https://validator.nu",
+  "url": "https://validator.nu/?doc=%s",
+  "description": "Validator.nu",
+  "category": "Tech",
+  "sub-category": "Languages (html)"
+}

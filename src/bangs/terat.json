@@ -1,0 +1,8 @@
+{
+  "bang": "terat",
+  "domain": "https://teratail.com",
+  "url": "https://teratail.com/questions/search?q=%s&conditions=and",
+  "description": "teratail",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

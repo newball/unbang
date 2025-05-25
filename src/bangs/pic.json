@@ -1,0 +1,8 @@
+{
+  "bang": "pic",
+  "domain": "https://www.picsearch.com",
+  "url": "http://www.picsearch.com/index.cgi?q=%s",
+  "description": "picsearch",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

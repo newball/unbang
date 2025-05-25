@@ -1,0 +1,8 @@
+{
+  "bang": "ck12",
+  "domain": "https://www.ck12.org",
+  "url": "https://www.ck12.org/search/?q=%s&referrer=top_nav&autoComplete=false",
+  "description": "cK-12.org",
+  "category": "Research",
+  "sub-category": "Reference"
+}

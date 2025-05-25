@@ -1,0 +1,8 @@
+{
+  "bang": "draftexpress",
+  "domain": "https://www.draftexpress.com",
+  "url": "http://www.draftexpress.com/search/term/%s",
+  "description": "DraftExpress",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

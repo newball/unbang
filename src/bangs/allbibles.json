@@ -1,0 +1,8 @@
+{
+  "bang": "allbibles",
+  "domain": "https://biblez.com",
+  "url": "http://biblez.com/search.php?q=%s",
+  "description": "Online Parallel Bible",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wikivg",
+  "domain": "https://wiki.vg",
+  "url": "http://wiki.vg/index.php?search=%s",
+  "description": "wiki.vg",
+  "category": "Entertainment",
+  "sub-category": "Games (Minecraft)"
+}

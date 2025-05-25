@@ -1,0 +1,8 @@
+{
+  "bang": "wbi",
+  "domain": "https://boilerinvasion.org",
+  "url": "http://boilerinvasion.org/search?search=%s",
+  "description": "Westside Boiler Invasion",
+  "category": "Tech",
+  "sub-category": "Design"
+}

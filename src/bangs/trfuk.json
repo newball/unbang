@@ -1,0 +1,8 @@
+{
+  "bang": "trfuk",
+  "domain": "https://www.transfermarkt.co.uk",
+  "url": "http://www.transfermarkt.co.uk/schnellsuche/ergebnis/schnellsuche?query=%s",
+  "description": "Transfermarkt",
+  "category": "News",
+  "sub-category": "Specialty"
+}

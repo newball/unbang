@@ -1,0 +1,8 @@
+{
+  "bang": "ppcg",
+  "domain": "https://codegolf.stackexchange.com",
+  "url": "https://codegolf.stackexchange.com/search?q=%s",
+  "description": "Programming Puzzles & Code Golf Stack Exchange",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

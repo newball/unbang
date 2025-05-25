@@ -1,0 +1,8 @@
+{
+  "bang": "rsge",
+  "domain": "https://services.runescape.com",
+  "url": "http://services.runescape.com/m=itemdb_rs/results?query=%s",
+  "description": "The RuneScape Grand Exchange",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

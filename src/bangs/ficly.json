@@ -1,0 +1,8 @@
+{
+  "bang": "ficly",
+  "domain": "https://ficly.com",
+  "url": "http://ficly.com/search?query=%s",
+  "description": "ficly",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

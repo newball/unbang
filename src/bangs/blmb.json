@@ -1,0 +1,8 @@
+{
+  "bang": "blmb",
+  "domain": "https://www.bloomberg.com",
+  "url": "http://www.bloomberg.com/search?query=%s",
+  "description": "Bloomberg",
+  "category": "News",
+  "sub-category": "Business"
+}

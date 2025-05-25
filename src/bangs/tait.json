@@ -1,0 +1,8 @@
+{
+  "bang": "tait",
+  "domain": "https://www.tripadvisor.it",
+  "url": "https://www.tripadvisor.it/Search?q=%s",
+  "description": "https://www.tripadvisor.it/",
+  "category": "Research",
+  "sub-category": "Travel"
+}

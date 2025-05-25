@@ -1,0 +1,8 @@
+{
+  "bang": "heidi",
+  "domain": "https://katalog.ub.uni-heidelberg.de",
+  "url": "http://katalog.ub.uni-heidelberg.de/cgi-bin/search.cgi?fsubmit=1&query= %s",
+  "description": "Universitätsbibliothek Heiedelberg OPAC",
+  "category": "Research",
+  "sub-category": "Reference"
+}

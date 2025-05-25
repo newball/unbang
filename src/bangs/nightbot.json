@@ -1,0 +1,8 @@
+{
+  "bang": "nightbot",
+  "domain": "https://nightbot.tv",
+  "url": "https://nightbot.tv/t/%s/commands",
+  "description": "Nightbot Commands",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "pmf",
+  "domain": "https://forum.palemoon.org",
+  "url": "http://forum.palemoon.org/search.php?keywords=%s",
+  "description": "Pale Moon forum",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

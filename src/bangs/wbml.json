@@ -1,0 +1,8 @@
+{
+  "bang": "wbml",
+  "domain": "https://ml.wikibooks.org",
+  "url": "https://ml.wikibooks.org/wiki/special:search/%s",
+  "description": "Wikibooks Malayalam",
+  "category": "Research",
+  "sub-category": "Learning (intl)"
+}

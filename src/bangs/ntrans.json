@@ -1,0 +1,8 @@
+{
+  "bang": "ntrans",
+  "domain": "https://www.tritrans.net",
+  "url": "http://www.tritrans.net/cgibin/translate.cgi?spraak=Norsk&Fra=%s",
+  "description": "TriTrans",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

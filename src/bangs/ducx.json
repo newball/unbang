@@ -1,0 +1,8 @@
+{
+  "bang": "ducx",
+  "domain": "https://help.appducx.com",
+  "url": "http://help.appducx.com/index.php?topic=doc/Search-Result/index_en.htm&q=%s",
+  "description": "Fabasoft app.ducx Help",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

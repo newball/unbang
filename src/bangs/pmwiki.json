@@ -1,0 +1,8 @@
+{
+  "bang": "pmwiki",
+  "domain": "https://papermario.wikia.com",
+  "url": "http://papermario.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Paper Mario Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

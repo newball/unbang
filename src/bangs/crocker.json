@@ -1,0 +1,8 @@
+{
+  "bang": "crocker",
+  "domain": "https://www.bettycrocker.com",
+  "url": "https://www.bettycrocker.com/search?term=%s ",
+  "description": "Betty Crocker",
+  "category": "Research",
+  "sub-category": "Food"
+}

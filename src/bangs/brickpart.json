@@ -1,0 +1,8 @@
+{
+  "bang": "brickpart",
+  "domain": "https://brickset.com",
+  "url": "http://brickset.com/parts?query=%s",
+  "description": "Brickset",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

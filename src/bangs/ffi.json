@@ -1,0 +1,8 @@
+{
+  "bang": "ffi",
+  "domain": "https://www.finder.fi",
+  "url": "https://www.finder.fi/search?what=%s",
+  "description": "Finder.fi",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

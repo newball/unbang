@@ -1,0 +1,8 @@
+{
+  "bang": "splatoon",
+  "domain": "https://splatoonwiki.org",
+  "url": "http://splatoonwiki.org/w/index.php?search=%s",
+  "description": "Inkpedia",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

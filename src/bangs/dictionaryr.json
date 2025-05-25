@@ -1,0 +1,8 @@
+{
+  "bang": "dictionaryr",
+  "domain": "https://dictionary.reference.com",
+  "url": "http://dictionary.reference.com/browse/%s",
+  "description": "Dictionary (reference)",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

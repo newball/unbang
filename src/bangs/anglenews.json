@@ -1,0 +1,8 @@
+{
+  "bang": "anglenews",
+  "domain": "https://www.anglenews.com",
+  "url": "https://www.anglenews.com/?s=%s",
+  "description": "Angle News",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

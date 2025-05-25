@@ -1,0 +1,8 @@
+{
+  "bang": "shaarli",
+  "domain": "https://river.libox.fr",
+  "url": "https://river.libox.fr/search.php?q=%s",
+  "description": "Shaarli River",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

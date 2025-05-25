@@ -1,0 +1,8 @@
+{
+  "bang": "bsocial",
+  "domain": "https://www.bing.com",
+  "url": "https://www.bing.com/social/search/updates?q=%s",
+  "description": "Bing Social",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

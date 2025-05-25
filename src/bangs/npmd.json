@@ -1,0 +1,8 @@
+{
+  "bang": "npmd",
+  "domain": "https://npmjs.com",
+  "url": "https://npmjs.com/package/%s",
+  "description": "NPM Direct",
+  "category": "Tech",
+  "sub-category": "Languages (javascript)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "totalcmd",
+  "domain": "https://www.totalcmd.net",
+  "url": "http://www.totalcmd.net/search.php?s=%s",
+  "description": "TotalCmd.Net",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

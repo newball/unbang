@@ -1,0 +1,8 @@
+{
+  "bang": "facepunch",
+  "domain": "https://forum.facepunch.com",
+  "url": "https://forum.facepunch.com/search/?q=%s",
+  "description": "Facepunch Forums",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

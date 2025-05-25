@@ -1,0 +1,8 @@
+{
+  "bang": "quantcast",
+  "domain": "https://www.quantcast.com",
+  "url": "https://www.quantcast.com/home/site/search/%s",
+  "description": "Quantcast",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

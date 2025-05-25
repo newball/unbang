@@ -1,0 +1,8 @@
+{
+  "bang": "books",
+  "domain": "https://www.amazon.com",
+  "url": "https://www.amazon.com/s?k=%s&i=stripbooks",
+  "description": "Amazon.com",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

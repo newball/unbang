@@ -1,0 +1,8 @@
+{
+  "bang": "coolmath",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Acoolmathgames.com+%s&ia=web",
+  "description": "Cool Math Games",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "macys",
+  "domain": "https://www.macys.com",
+  "url": "https://www.macys.com/shop/featured/%s",
+  "description": "Macy's",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

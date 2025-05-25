@@ -1,0 +1,8 @@
+{
+  "bang": "dst",
+  "domain": "https://security-tracker.debian.org",
+  "url": "https://security-tracker.debian.org/tracker/%s",
+  "description": "Debian Security Tracker",
+  "category": "Tech",
+  "sub-category": "Sysadmin (debian)"
+}

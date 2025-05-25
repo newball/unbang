@@ -1,0 +1,8 @@
+{
+  "bang": "visiondirect",
+  "domain": "https://www.visiondirect.com.au",
+  "url": "https://www.visiondirect.com.au/search?query=%s",
+  "description": "VisionDirect",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

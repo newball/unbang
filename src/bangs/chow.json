@@ -1,0 +1,8 @@
+{
+  "bang": "chow",
+  "domain": "https://www.chow.com",
+  "url": "http://www.chow.com/search?type=Topic&from_date=1+year+ago&query=%s",
+  "description": "Chowhound",
+  "category": "Research",
+  "sub-category": "Food"
+}

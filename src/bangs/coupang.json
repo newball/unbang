@@ -1,0 +1,8 @@
+{
+  "bang": "coupang",
+  "domain": "https://www.coupang.com",
+  "url": "https://www.coupang.com/np/search?component=&q=%s",
+  "description": "쿠팡",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

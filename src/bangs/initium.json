@@ -1,0 +1,8 @@
+{
+  "bang": "initium",
+  "domain": "https://initium.fandom.com",
+  "url": "https://initium.fandom.com/wiki/Special:Search?query=%s",
+  "description": "initium wiki",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "adb",
+  "domain": "https://arquivodabola.com.br",
+  "url": "http://arquivodabola.com.br/busca.html?termo=%s",
+  "description": "Arquivo da Bola",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

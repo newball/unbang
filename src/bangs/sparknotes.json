@@ -1,0 +1,8 @@
+{
+  "bang": "sparknotes",
+  "domain": "https://www.sparknotes.com",
+  "url": "http://www.sparknotes.com/search?q=%s",
+  "description": "SparkNotes",
+  "category": "Research",
+  "sub-category": "Learning"
+}

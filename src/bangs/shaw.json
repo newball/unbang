@@ -1,0 +1,8 @@
+{
+  "bang": "shaw",
+  "domain": "https://www.shaw.ca",
+  "url": "https://www.shaw.ca/store/search/search.jsp?q=%s",
+  "description": "Shaw",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

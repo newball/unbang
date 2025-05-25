@@ -1,0 +1,8 @@
+{
+  "bang": "btcm",
+  "domain": "https://bitcoinity.org",
+  "url": "http://bitcoinity.org/markets/%s/USD",
+  "description": "Bitcoinity Markets",
+  "category": "Tech",
+  "sub-category": "Cryptocurrency"
+}

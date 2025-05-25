@@ -1,0 +1,8 @@
+{
+  "bang": "tvthek",
+  "domain": "https://tvthek.orf.at",
+  "url": "http://tvthek.orf.at/search?q=%s",
+  "description": "ORF TVThek",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

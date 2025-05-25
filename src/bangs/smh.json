@@ -1,0 +1,8 @@
+{
+  "bang": "smh",
+  "domain": "https://www.smh.com.au",
+  "url": "http://www.smh.com.au/search?text=%s",
+  "description": "The Sydney Morning Herald",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

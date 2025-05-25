@@ -1,0 +1,8 @@
+{
+  "bang": "dcinside",
+  "domain": "https://search.dcinside.com",
+  "url": "http://search.dcinside.com/combine/q/%s",
+  "description": "dcinside",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

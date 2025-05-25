@@ -1,0 +1,8 @@
+{
+  "bang": "g+",
+  "domain": "https://plus.google.com",
+  "url": "https://plus.google.com/u/0/s/%s ",
+  "description": "Google Plus",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

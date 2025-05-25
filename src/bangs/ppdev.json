@@ -1,0 +1,8 @@
+{
+  "bang": "ppdev",
+  "domain": "https://developer.paypal.com",
+  "url": "https://developer.paypal.com/search/?q=%s",
+  "description": "PayPal Developer",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

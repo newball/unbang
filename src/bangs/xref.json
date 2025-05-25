@@ -1,0 +1,8 @@
+{
+  "bang": "xref",
+  "domain": "https://search.crossref.org",
+  "url": "http://search.crossref.org/?q=%s",
+  "description": "CrossRef",
+  "category": "Research",
+  "sub-category": "Academic"
+}

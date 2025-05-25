@@ -1,0 +1,8 @@
+{
+  "bang": "pten",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#pt/en/%s",
+  "description": "Google Translate - pt-en",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

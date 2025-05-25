@@ -1,0 +1,8 @@
+{
+  "bang": "dota",
+  "domain": "https://dota2.gamepedia.com",
+  "url": "http://dota2.gamepedia.com/index.php?search=%s ",
+  "description": "Dota 2 Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

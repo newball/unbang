@@ -1,0 +1,8 @@
+{
+  "bang": "lost",
+  "domain": "https://lostpedia.wikia.com",
+  "url": "http://lostpedia.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Lostpedia",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

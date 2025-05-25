@@ -1,0 +1,8 @@
+{
+  "bang": "donedeal",
+  "domain": "https://www.donedeal.ie",
+  "url": "https://www.donedeal.ie/all?words=%s",
+  "description": "Done Deal",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ninlife",
+  "domain": "https://www.nintendolife.com",
+  "url": "http://www.nintendolife.com/search?q=%s&submit=Go",
+  "description": "Nintendo Life",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

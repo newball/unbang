@@ -1,0 +1,8 @@
+{
+  "bang": "deadline",
+  "domain": "https://deadline.com",
+  "url": "https://deadline.com/results/#?q=%s ",
+  "description": "Deadline Hollywood",
+  "category": "News",
+  "sub-category": "Magazine"
+}

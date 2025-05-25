@@ -1,0 +1,8 @@
+{
+  "bang": "mld",
+  "domain": "https://www.learnersdictionary.com",
+  "url": "http://www.learnersdictionary.com/definition/%s",
+  "description": "Learner's Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

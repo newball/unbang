@@ -1,0 +1,8 @@
+{
+  "bang": "uu",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Aubuntuusers.de+%s",
+  "description": "Ubuntuusers.de",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Ubuntu)"
+}

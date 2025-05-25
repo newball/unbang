@@ -1,0 +1,8 @@
+{
+  "bang": "gnit",
+  "domain": "https://www.google.it",
+  "url": "https://www.google.it/search?q=%s&hl=it&source=lnms&tbm=nws",
+  "description": "Google News Italian",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

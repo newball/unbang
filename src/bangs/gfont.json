@@ -1,0 +1,8 @@
+{
+  "bang": "gfont",
+  "domain": "https://fonts.google.com",
+  "url": "https://fonts.google.com/?query=%s",
+  "description": "Google font",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "c24",
+  "domain": "https://www.chrono24.com",
+  "url": "https://www.chrono24.com/search/index.htm?watchTypes=&query=%s&dosearch=true&searchexplain=1&accessoryTypes=",
+  "description": "Chrono24",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

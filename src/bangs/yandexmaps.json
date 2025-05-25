@@ -1,0 +1,8 @@
+{
+  "bang": "yandexmaps",
+  "domain": "https://maps.yandex.ru",
+  "url": "http://maps.yandex.ru/?text=%s ",
+  "description": "Yandex Maps",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "newstapa",
+  "domain": "https://newstapa.org",
+  "url": "http://newstapa.org/?s=%s",
+  "description": "Newstapa",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

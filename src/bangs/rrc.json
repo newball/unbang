@@ -1,0 +1,8 @@
+{
+  "bang": "rrc",
+  "domain": "https://www.rainbowresource.com",
+  "url": "http://www.rainbowresource.com/searchspring.php?q=%s",
+  "description": "Rainbow Resource Catalog",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

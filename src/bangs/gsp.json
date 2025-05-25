@@ -1,0 +1,8 @@
+{
+  "bang": "gsp",
+  "domain": "https://de.gegenstandpunkt.com",
+  "url": "https://de.gegenstandpunkt.com/artikel/suche?modus=AND&volltextsuche=%s",
+  "description": "GegenStandpunkt Verlage",
+  "category": "News",
+  "sub-category": "Magazine"
+}

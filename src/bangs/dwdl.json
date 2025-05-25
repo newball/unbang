@@ -1,0 +1,8 @@
+{
+  "bang": "dwdl",
+  "domain": "https://www.dwdl.de",
+  "url": "http://www.dwdl.de/features/suche/?suche=%s ",
+  "description": "DWDL",
+  "category": "News",
+  "sub-category": "Business"
+}

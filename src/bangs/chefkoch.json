@@ -1,0 +1,8 @@
+{
+  "bang": "chefkoch",
+  "domain": "https://www.chefkoch.de",
+  "url": "https://www.chefkoch.de/suche.php?wo=2&suche=%s",
+  "description": "chefkoch.de",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

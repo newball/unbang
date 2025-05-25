@@ -1,0 +1,8 @@
+{
+  "bang": "netrunner",
+  "domain": "https://netrunnerdb.com",
+  "url": "http://netrunnerdb.com/find/?q=%s",
+  "description": "NetrunnerDB",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

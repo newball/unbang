@@ -1,0 +1,8 @@
+{
+  "bang": "tokmanni",
+  "domain": "https://www.tokmanni.fi",
+  "url": "https://www.tokmanni.fi/catalogsearch/result/?q=%s",
+  "description": "Tokmanni",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

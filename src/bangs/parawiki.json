@@ -1,0 +1,8 @@
+{
+  "bang": "parawiki",
+  "domain": "https://wiki.parabola.nu",
+  "url": "https://wiki.parabola.nu/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "Parabola GNU/Linux-libre Wiki",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Arch)"
+}

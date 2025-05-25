@@ -1,0 +1,8 @@
+{
+  "bang": "vocadb",
+  "domain": "https://vocadb.net",
+  "url": "http://vocadb.net/Search?filter=%s",
+  "description": "VocaDB",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

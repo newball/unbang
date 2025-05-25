@@ -1,0 +1,8 @@
+{
+  "bang": "wion",
+  "domain": "https://www.wionews.com",
+  "url": "http://www.wionews.com/search?q=%s",
+  "description": "WION",
+  "category": "News",
+  "sub-category": "International"
+}

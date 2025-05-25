@@ -1,0 +1,8 @@
+{
+  "bang": "lingfe",
+  "domain": "https://www.linguee.fr",
+  "url": "http://www.linguee.fr/francais-anglais/search?source=auto&query=%s",
+  "description": "Linguee (Fr-En)",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

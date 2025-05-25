@@ -1,0 +1,8 @@
+{
+  "bang": "starmade",
+  "domain": "https://starmadepedia.net",
+  "url": "https://starmadepedia.net/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "Official StarMade Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

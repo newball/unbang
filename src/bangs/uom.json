@@ -1,0 +1,8 @@
+{
+  "bang": "uom",
+  "domain": "https://www.manchester.ac.uk",
+  "url": "http://www.manchester.ac.uk/search/?q=%s",
+  "description": " University of Manchester ",
+  "category": "Research",
+  "sub-category": "Academic"
+}

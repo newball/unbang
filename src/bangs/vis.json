@@ -1,0 +1,8 @@
+{
+  "bang": "vis",
+  "domain": "https://visuwords.com",
+  "url": "http://visuwords.com/?q=%s",
+  "description": "visuwords.com",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

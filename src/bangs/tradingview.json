@@ -1,0 +1,8 @@
+{
+  "bang": "tradingview",
+  "domain": "https://www.tradingview.com",
+  "url": "https://www.tradingview.com/chart/?symbol=%s",
+  "description": "TradingView",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

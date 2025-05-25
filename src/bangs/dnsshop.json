@@ -1,0 +1,8 @@
+{
+  "bang": "dnsshop",
+  "domain": "https://www.dns-shop.ru",
+  "url": "http://www.dns-shop.ru/search/?q=%s",
+  "description": "DNS",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

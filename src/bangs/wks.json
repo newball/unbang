@@ -1,0 +1,8 @@
+{
+  "bang": "wks",
+  "domain": "https://species.wikimedia.org",
+  "url": "https://species.wikimedia.org/w/index.php?search=%s",
+  "description": "Wikispecies",
+  "category": "Research",
+  "sub-category": "Learning"
+}

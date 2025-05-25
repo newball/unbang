@@ -1,0 +1,8 @@
+{
+  "bang": "rug",
+  "domain": "https://www.rug.nl",
+  "url": "http://www.rug.nl/search/?searchtext=%s",
+  "description": "University of Groningen",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gdk",
+  "domain": "https://www.google.dk",
+  "url": "http://www.google.dk/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google DK",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

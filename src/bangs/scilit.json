@@ -1,0 +1,8 @@
+{
+  "bang": "scilit",
+  "domain": "https://www.scilit.net",
+  "url": "https://www.scilit.net/articles/10/0?Search=%s",
+  "description": "Scilit",
+  "category": "Research",
+  "sub-category": "Academic"
+}

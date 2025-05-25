@@ -1,0 +1,8 @@
+{
+  "bang": "grave",
+  "domain": "https://www.findagrave.com",
+  "url": "http://www.findagrave.com/php/famous.php?globalSearchCriteria=%s",
+  "description": "Find A Grave",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "clker",
+  "domain": "https://www.clker.com",
+  "url": "http://www.clker.com/search/%s",
+  "description": "Clker",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

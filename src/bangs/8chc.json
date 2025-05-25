@@ -1,0 +1,8 @@
+{
+  "bang": "8chc",
+  "domain": "https://8ch.net",
+  "url": "http://8ch.net/%s/catalog.html",
+  "description": "8chan Board Catalogs",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

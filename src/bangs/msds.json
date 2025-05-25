@@ -1,0 +1,8 @@
+{
+  "bang": "msds",
+  "domain": "https://www.sciencelab.com",
+  "url": "http://www.sciencelab.com/search.php?q=%s",
+  "description": "ScienceLab MSDS Database",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

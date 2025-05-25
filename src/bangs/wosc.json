@@ -1,0 +1,8 @@
+{
+  "bang": "wosc",
+  "domain": "https://gateway.webofknowledge.com",
+  "url": "https://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcApp=WEB&SrcAuth=ProQuest&DestApp=UA&DestLinkType=GeneralSearchSummary&topic=%s",
+  "description": "Web of Science",
+  "category": "Research",
+  "sub-category": "Academic"
+}

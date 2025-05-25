@@ -1,0 +1,8 @@
+{
+  "bang": "kindlees",
+  "domain": "https://www.amazon.es",
+  "url": "https://www.amazon.es/s?k=%s&i=digital-text",
+  "description": "Kindle Spain",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

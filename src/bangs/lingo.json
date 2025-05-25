@@ -1,0 +1,8 @@
+{
+  "bang": "lingo",
+  "domain": "https://www.netlingo.com",
+  "url": "http://www.netlingo.com/search.php?searchtxt=%s",
+  "description": "NetLingo",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

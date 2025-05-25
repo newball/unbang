@@ -1,0 +1,8 @@
+{
+  "bang": "pko",
+  "domain": "https://packages.knightos.org",
+  "url": "https://packages.knightos.org/search?terms=%s",
+  "description": "KnightOS Package Index",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

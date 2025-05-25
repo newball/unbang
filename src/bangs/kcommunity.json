@@ -1,0 +1,8 @@
+{
+  "bang": "kcommunity",
+  "domain": "https://community.kde.org",
+  "url": "http://community.kde.org/index.php?title=Special:Search&search=%s",
+  "description": "KDE Community Wiki",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

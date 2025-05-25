@@ -1,0 +1,8 @@
+{
+  "bang": "recycle",
+  "domain": "https://search.earth911.com",
+  "url": "http://search.earth911.com/?what=%s",
+  "description": "Earth911.com",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

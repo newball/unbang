@@ -1,0 +1,8 @@
+{
+  "bang": "svt",
+  "domain": "https://www.svtplay.se",
+  "url": "http://www.svtplay.se/sok?q=%s",
+  "description": "SVT Play",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

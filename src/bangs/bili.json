@@ -1,0 +1,8 @@
+{
+  "bang": "bili",
+  "domain": "https://www.bilibili.com",
+  "url": "http://www.bilibili.com/search?keyword=%s:",
+  "description": "bilibili",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

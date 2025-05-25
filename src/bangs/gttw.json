@@ -1,0 +1,8 @@
+{
+  "bang": "gttw",
+  "domain": "https://translate.google.com.tw",
+  "url": "https://translate.google.com.tw/#auto/zh-TW/%s",
+  "description": "Google translate (Taiwan)",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

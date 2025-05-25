@@ -1,0 +1,8 @@
+{
+  "bang": "wme",
+  "domain": "https://wolnemedia.net",
+  "url": "http://wolnemedia.net/?s=%s",
+  "description": "Wolne Media",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

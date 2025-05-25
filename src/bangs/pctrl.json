@@ -1,0 +1,8 @@
+{
+  "bang": "pctrl",
+  "domain": "https://packagecontrol.io",
+  "url": "https://packagecontrol.io/search/%s",
+  "description": "Package Control",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

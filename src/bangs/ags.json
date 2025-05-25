@@ -1,0 +1,8 @@
+{
+  "bang": "ags",
+  "domain": "https://adventuregamers.com",
+  "url": "https://adventuregamers.com/games/search?keywords=%s",
+  "description": "Adventure Gamers",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

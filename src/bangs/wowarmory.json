@@ -1,0 +1,8 @@
+{
+  "bang": "wowarmory",
+  "domain": "https://us.battle.net",
+  "url": "http://us.battle.net/wow/en/search?q=%s",
+  "description": "WOW Armory",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

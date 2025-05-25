@@ -1,0 +1,8 @@
+{
+  "bang": "mediainfo",
+  "domain": "https://media.info",
+  "url": "http://media.info/search?s=%s",
+  "description": "media.info",
+  "category": "Research",
+  "sub-category": "Reference"
+}

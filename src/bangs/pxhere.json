@@ -1,0 +1,8 @@
+{
+  "bang": "pxhere",
+  "domain": "https://pxhere.com",
+  "url": "https://pxhere.com/en/photos?q=%s",
+  "description": "pxhere",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "trf",
+  "domain": "https://www.rolexforums.com",
+  "url": "http://www.rolexforums.com/tags.php?tag=%s",
+  "description": "Rolex Forums",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gematria",
+  "domain": "https://www.gematrix.org",
+  "url": "https://www.gematrix.org/?word=%s",
+  "description": "Gematrix",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

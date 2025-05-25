@@ -1,0 +1,8 @@
+{
+  "bang": "fido",
+  "domain": "https://www.fido.ca",
+  "url": "http://www.fido.ca/consumer/search?q=%s",
+  "description": "Fido",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

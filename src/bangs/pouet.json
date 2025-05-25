@@ -1,0 +1,8 @@
+{
+  "bang": "pouet",
+  "domain": "https://pouet.net",
+  "url": "http://pouet.net/search.php?what=%s&type=prod",
+  "description": "Pouet",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

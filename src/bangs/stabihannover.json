@@ -1,0 +1,8 @@
+{
+  "bang": "stabihannover",
+  "domain": "https://bibliothek.hannover-stadt.de",
+  "url": "https://bibliothek.hannover-stadt.de/alswww3.dll/APS_ZONES?fn=SEARCH?q=%s",
+  "description": "Stadtbibliothek Hannover OPAC",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

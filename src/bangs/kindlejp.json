@@ -1,0 +1,8 @@
+{
+  "bang": "kindlejp",
+  "domain": "https://www.amazon.co.jp",
+  "url": "https://www.amazon.co.jp/s?k=%s&i=digital-text",
+  "description": "Amazon Kindle (Japan)",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

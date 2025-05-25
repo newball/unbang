@@ -1,0 +1,8 @@
+{
+  "bang": "pikipedia",
+  "domain": "https://www.pikminwiki.com",
+  "url": "http://www.pikminwiki.com/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "Pikipedia",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

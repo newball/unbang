@@ -1,0 +1,8 @@
+{
+  "bang": "shroomery",
+  "domain": "https://www.shroomery.org",
+  "url": "https://www.shroomery.org/search.php?terms=%s",
+  "description": "Shroomery",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

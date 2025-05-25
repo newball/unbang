@@ -1,0 +1,8 @@
+{
+  "bang": "ucf",
+  "domain": "https://www.mclean.net.nz",
+  "url": "http://www.mclean.net.nz/ucf/?q=%s",
+  "description": "Unicode Character Finder",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

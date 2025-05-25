@@ -1,0 +1,8 @@
+{
+  "bang": "digitalspy",
+  "domain": "https://www.digitalspy.com",
+  "url": "http://www.digitalspy.com/search/%s",
+  "description": "DigitalSpy",
+  "category": "Entertainment",
+  "sub-category": "Blogs"
+}

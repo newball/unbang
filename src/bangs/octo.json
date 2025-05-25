@@ -1,0 +1,8 @@
+{
+  "bang": "octo",
+  "domain": "https://octopart.com",
+  "url": "https://octopart.com/search?q=%s",
+  "description": "Octopart",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

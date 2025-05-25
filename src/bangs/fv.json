@@ -1,0 +1,8 @@
+{
+  "bang": "fv",
+  "domain": "https://finviz.com",
+  "url": "http://finviz.com/quote.ashx?t=%s",
+  "description": "Finviz",
+  "category": "News",
+  "sub-category": "Business"
+}

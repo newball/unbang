@@ -1,0 +1,8 @@
+{
+  "bang": "sqa",
+  "domain": "https://www.sqa.org.uk",
+  "url": "https://www.sqa.org.uk/pastpapers/findpastpaper.htm?subject=%s",
+  "description": "SQA Past papers",
+  "category": "Multimedia",
+  "sub-category": "Docs"
+}

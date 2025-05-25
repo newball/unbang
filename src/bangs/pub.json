@@ -1,0 +1,8 @@
+{
+  "bang": "pub",
+  "domain": "https://www.ncbi.nlm.nih.gov",
+  "url": "https://www.ncbi.nlm.nih.gov/pubmed?EntrezSystem2.PEntrez.Pubmed.SearchBar.Db=pubmed&term=%s",
+  "description": "Pubmed",
+  "category": "Research",
+  "sub-category": "Health"
+}

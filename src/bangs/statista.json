@@ -1,0 +1,8 @@
+{
+  "bang": "statista",
+  "domain": "https://www.statista.com",
+  "url": "https://www.statista.com/search/?q=%s",
+  "description": "Statista",
+  "category": "Research",
+  "sub-category": "Reference"
+}

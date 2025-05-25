@@ -1,0 +1,8 @@
+{
+  "bang": "editus",
+  "domain": "https://www.editus.lu",
+  "url": "http://www.editus.lu/ed/fr/recherche.html?q=%s",
+  "description": "editus.lu",
+  "category": "Research",
+  "sub-category": "Local"
+}

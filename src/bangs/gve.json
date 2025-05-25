@@ -1,0 +1,8 @@
+{
+  "bang": "gve",
+  "domain": "https://www.google.co.ve",
+  "url": "http://www.google.co.ve/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google VE",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

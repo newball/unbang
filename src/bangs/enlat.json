@@ -1,0 +1,8 @@
+{
+  "bang": "enlat",
+  "domain": "https://latin-dictionary.net",
+  "url": "http://latin-dictionary.net/search/english/%s",
+  "description": "Latdict",
+  "category": "Research",
+  "sub-category": "Academic"
+}

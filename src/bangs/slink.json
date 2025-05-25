@@ -1,0 +1,8 @@
+{
+  "bang": "slink",
+  "domain": "https://link.springer.com",
+  "url": "http://link.springer.com/search?query=%s",
+  "description": "Springer Link",
+  "category": "Research",
+  "sub-category": "Learning"
+}

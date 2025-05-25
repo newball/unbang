@@ -1,0 +1,8 @@
+{
+  "bang": "computrabajo",
+  "domain": "https://www.computrabajo.com.ar",
+  "url": "http://www.computrabajo.com.ar/ofertas-de-trabajo/?q=%s",
+  "description": "CompuTrabajo",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

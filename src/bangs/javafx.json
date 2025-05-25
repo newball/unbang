@@ -1,0 +1,8 @@
+{
+  "bang": "javafx",
+  "domain": "https://search.oracle.com",
+  "url": "https://search.oracle.com/search/search?num=10&exttimeout=false&q=%s+url:/javase/8/javafx/api&group=Documentation",
+  "description": "Oracle",
+  "category": "Tech",
+  "sub-category": "Languages (java)"
+}

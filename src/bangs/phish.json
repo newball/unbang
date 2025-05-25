@@ -1,0 +1,8 @@
+{
+  "bang": "phish",
+  "domain": "https://phish.net",
+  "url": "http://phish.net/song/?s=%s",
+  "description": "Phish.Net",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

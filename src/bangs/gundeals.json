@@ -1,0 +1,8 @@
+{
+  "bang": "gundeals",
+  "domain": "https://gun.deals",
+  "url": "https://gun.deals/search/apachesolr_search/%s",
+  "description": "gun.deals",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

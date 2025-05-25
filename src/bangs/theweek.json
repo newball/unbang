@@ -1,0 +1,8 @@
+{
+  "bang": "theweek",
+  "domain": "https://www.theweek.co.uk",
+  "url": "http://www.theweek.co.uk/search/site/%s",
+  "description": "The Week",
+  "category": "News",
+  "sub-category": "International"
+}

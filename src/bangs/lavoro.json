@@ -1,0 +1,8 @@
+{
+  "bang": "lavoro",
+  "domain": "https://www.motorelavoro.it",
+  "url": "http://www.motorelavoro.it/?q=%s",
+  "description": "Motore Lavoro",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

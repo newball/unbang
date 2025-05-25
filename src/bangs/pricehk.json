@@ -1,0 +1,8 @@
+{
+  "bang": "pricehk",
+  "domain": "https://www.price.com.hk",
+  "url": "http://www.price.com.hk/search.php?g=A&q=%s",
+  "description": "Price.com.hk",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

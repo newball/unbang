@@ -1,0 +1,8 @@
+{
+  "bang": "postgres",
+  "domain": "https://www.postgresql.org",
+  "url": "http://www.postgresql.org/search/?q=%s&a=1&submit=Search",
+  "description": "Postgres",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "fcode",
+  "domain": "https://search.freecodecamp.org",
+  "url": "https://search.freecodecamp.org/?q=%s",
+  "description": "freeCodeCamp",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

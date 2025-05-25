@@ -1,0 +1,8 @@
+{
+  "bang": "mlar",
+  "domain": "https://listado.mercadolibre.com.ar",
+  "url": "http://listado.mercadolibre.com.ar/%s",
+  "description": "Mercado Libre Argentina",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

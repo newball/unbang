@@ -1,0 +1,8 @@
+{
+  "bang": "cwde",
+  "domain": "https://de.wikipedia.org",
+  "url": "https://de.wikipedia.org/w/index.php?title=Spezial:Zitierhilfe&page=%s",
+  "description": "Wikipedia - Zitierhilfe",
+  "category": "Research",
+  "sub-category": "Reference"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "rdc",
+  "domain": "https://www.rueducommerce.fr",
+  "url": "https://www.rueducommerce.fr/recherche/%s",
+  "description": "Rue du commerce",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

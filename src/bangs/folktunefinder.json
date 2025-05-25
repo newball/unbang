@@ -1,0 +1,8 @@
+{
+  "bang": "folktunefinder",
+  "domain": "https://www.folktunefinder.com",
+  "url": "http://www.folktunefinder.com/tunes?text=%s",
+  "description": "folktunefinder",
+  "category": "Multimedia",
+  "sub-category": "Music (Folk)"
+}

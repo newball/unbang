@@ -1,0 +1,8 @@
+{
+  "bang": "hyves",
+  "domain": "https://www.hyves.nl",
+  "url": "http://www.hyves.nl/search/hyver/?searchterms=%s",
+  "description": "Hyves",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

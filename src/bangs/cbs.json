@@ -1,0 +1,8 @@
+{
+  "bang": "cbs",
+  "domain": "https://www.cbs.nl",
+  "url": "https://www.cbs.nl/nl-nl/zoeken/?query=%s",
+  "description": "Artikelen van het CBS",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gpe",
+  "domain": "https://www.google.com.pe",
+  "url": "http://www.google.com.pe/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google PE",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

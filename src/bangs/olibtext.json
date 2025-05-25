@@ -1,0 +1,8 @@
+{
+  "bang": "olibtext",
+  "domain": "https://openlibrary.org",
+  "url": "https://openlibrary.org/search/inside?q=%s",
+  "description": "Open Library (Full Text Search)",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

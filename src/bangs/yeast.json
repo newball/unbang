@@ -1,0 +1,8 @@
+{
+  "bang": "yeast",
+  "domain": "https://www.yeastgenome.org",
+  "url": "http://www.yeastgenome.org/search?q=%s&is_quick=true",
+  "description": "Saccharomyces Genome Database (SGD) ",
+  "category": "Research",
+  "sub-category": "Academic"
+}

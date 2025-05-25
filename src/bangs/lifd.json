@@ -1,0 +1,8 @@
+{
+  "bang": "lifd",
+  "domain": "https://www.linguee.fr",
+  "url": "https://www.linguee.fr/francais-allemand/search?source=auto&query=%s",
+  "description": "Linguee Français <-> Deutsch (German <-> French) with French interface",
+  "category": "Translation",
+  "sub-category": "General"
+}

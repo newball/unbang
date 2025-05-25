@@ -1,0 +1,8 @@
+{
+  "bang": "independent",
+  "domain": "https://www.independent.co.uk",
+  "url": "http://www.independent.co.uk/search/simple.do?destinationSectionUniqueName=search&publicationName=ind&searchString=%s",
+  "description": "The Independent",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

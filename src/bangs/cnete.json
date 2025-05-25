@@ -1,0 +1,8 @@
+{
+  "bang": "cnete",
+  "domain": "https://www.cnet.com",
+  "url": "http://www.cnet.com/es/busqueda/?query=%s",
+  "description": "CNET en español",
+  "category": "Tech",
+  "sub-category": "Blogs (intl)"
+}

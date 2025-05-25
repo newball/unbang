@@ -1,0 +1,8 @@
+{
+  "bang": "oxs",
+  "domain": "https://en.oxforddictionaries.com",
+  "url": "https://en.oxforddictionaries.com/thesaurus/%s",
+  "description": "Oxford Dictionary Thesaurus",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

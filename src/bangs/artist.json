@@ -1,0 +1,8 @@
+{
+  "bang": "artist",
+  "domain": "https://www.artcyclopedia.com",
+  "url": "http://www.artcyclopedia.com/scripts/tsearch.pl?type=1&t=%s",
+  "description": "artcyclopedia.com",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

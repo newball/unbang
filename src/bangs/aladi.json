@@ -1,0 +1,8 @@
+{
+  "bang": "aladi",
+  "domain": "https://aladi.diba.cat",
+  "url": "https://aladi.diba.cat/search*cat/-%s",
+  "description": "Catàleg de la Xarxa de Biblioteques Municipals de la Diputació de Barcelona",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

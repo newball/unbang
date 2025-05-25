@@ -1,0 +1,8 @@
+{
+  "bang": "derpi",
+  "domain": "https://derpibooru.org",
+  "url": "https://derpibooru.org/search?q=%s",
+  "description": "Derpibooru",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

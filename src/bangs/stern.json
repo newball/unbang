@@ -1,0 +1,8 @@
+{
+  "bang": "stern",
+  "domain": "https://www.stern.de",
+  "url": "http://www.stern.de/action/3000116/search?query=%s",
+  "description": "Stern",
+  "category": "News",
+  "sub-category": "Magazine"
+}

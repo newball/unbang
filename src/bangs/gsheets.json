@@ -1,0 +1,8 @@
+{
+  "bang": "gsheets",
+  "domain": "https://docs.google.com",
+  "url": "https://docs.google.com/spreadsheets/u/0/?q=%s",
+  "description": "Google Sheets",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

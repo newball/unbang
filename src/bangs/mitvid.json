@@ -1,0 +1,8 @@
+{
+  "bang": "mitvid",
+  "domain": "https://video.mit.edu",
+  "url": "http://video.mit.edu/search/?q=%s",
+  "description": "MIT Video",
+  "category": "Research",
+  "sub-category": "Learning"
+}

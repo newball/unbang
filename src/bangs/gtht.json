@@ -1,0 +1,8 @@
+{
+  "bang": "gtht",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/ht/%s",
+  "description": "Detect language to Haitian Creole",
+  "category": "Translation",
+  "sub-category": "Google"
+}

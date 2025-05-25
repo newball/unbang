@@ -1,0 +1,8 @@
+{
+  "bang": "szn",
+  "domain": "https://search.seznam.cz",
+  "url": "http://search.seznam.cz/?q=%s",
+  "description": "seznam.cz",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

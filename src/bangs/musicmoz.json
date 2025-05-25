@@ -1,0 +1,8 @@
+{
+  "bang": "musicmoz",
+  "domain": "https://musicmoz.org",
+  "url": "http://musicmoz.org/search/search.cgi?search=%s",
+  "description": "MusicMoz",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

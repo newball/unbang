@@ -1,0 +1,8 @@
+{
+  "bang": "hgle",
+  "domain": "https://www.haskell.org",
+  "url": "https://www.haskell.org/hoogle/?hoogle=%s",
+  "description": "hoogle",
+  "category": "Tech",
+  "sub-category": "Languages (haskell)"
+}

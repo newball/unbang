@@ -1,0 +1,8 @@
+{
+  "bang": "mapy",
+  "domain": "https://mapy.cz",
+  "url": "https://mapy.cz/zakladni?q=%s",
+  "description": "Mapy.cz",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

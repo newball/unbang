@@ -1,0 +1,8 @@
+{
+  "bang": "cloudformation",
+  "domain": "https://docs.aws.amazon.com",
+  "url": "https://docs.aws.amazon.com/search/doc-search.html?searchPath=documentation-guide&searchQuery=%s&this_doc_product=AWS+CloudFormation&this_doc_guide=User+Guide&doc_locale=en_us#facet_doc_product=AWS CloudFormation&facet_doc_guide=User Guide",
+  "description": "AWS CloudFormation Documentation",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

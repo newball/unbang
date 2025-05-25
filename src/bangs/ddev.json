@@ -1,0 +1,8 @@
+{
+  "bang": "ddev",
+  "domain": "https://qa.debian.org",
+  "url": "https://qa.debian.org/developer.php?login=%s",
+  "description": "Debian Developer's pkgs overview",
+  "category": "Tech",
+  "sub-category": "Sysadmin (debian)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "eat",
+  "domain": "https://www.ebay.at",
+  "url": "https://www.ebay.at/sch/items/?_nkw=%s",
+  "description": "ebay.at",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

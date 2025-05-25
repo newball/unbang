@@ -1,0 +1,8 @@
+{
+  "bang": "go",
+  "domain": "https://mail.google.com",
+  "url": "https://mail.google.com/mail/u/0/#search/%s",
+  "description": "Gmail",
+  "category": "Tech",
+  "sub-category": "Downloads (apps)"
+}

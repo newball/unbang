@@ -1,0 +1,8 @@
+{
+  "bang": "chipdb",
+  "domain": "https://www.msarnoff.org",
+  "url": "http://www.msarnoff.org/chipdb/%s",
+  "description": "msarnoff.org ChipDB",
+  "category": "Research",
+  "sub-category": "Reference"
+}

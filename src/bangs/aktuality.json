@@ -1,0 +1,8 @@
+{
+  "bang": "aktuality",
+  "domain": "https://www.aktuality.sk",
+  "url": "https://www.aktuality.sk/vyhladavanie/?q=%s",
+  "description": "Aktuality",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "revef",
+  "domain": "https://dictionary.reverso.net",
+  "url": "http://dictionary.reverso.net/english-french/%s",
+  "description": "Reverso English-French",
+  "category": "Research",
+  "sub-category": "Learning (intl)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "altto",
+  "domain": "https://alternativeto.net",
+  "url": "http://alternativeto.net/browse/search?q=%s",
+  "description": "alternativeTo",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

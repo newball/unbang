@@ -1,0 +1,8 @@
+{
+  "bang": "iarchive",
+  "domain": "https://www.archive.org",
+  "url": "http://www.archive.org/search.php?query=%s ",
+  "description": "archive.org",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

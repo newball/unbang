@@ -1,0 +1,8 @@
+{
+  "bang": "roadandtrack",
+  "domain": "https://www.roadandtrack.com",
+  "url": "https://www.roadandtrack.com/search/?q=%s",
+  "description": "Road & Track",
+  "category": "News",
+  "sub-category": "Magazine (car)"
+}

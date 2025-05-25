@@ -1,0 +1,8 @@
+{
+  "bang": "w.en",
+  "domain": "https://en.wikipedia.org",
+  "url": "http://en.wikipedia.org/wiki/Special:Search?search=%s",
+  "description": "Wikipedia (English)",
+  "category": "Research",
+  "sub-category": "Learning"
+}

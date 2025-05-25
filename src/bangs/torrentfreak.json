@@ -1,0 +1,8 @@
+{
+  "bang": "torrentfreak",
+  "domain": "https://torrentfreak.com",
+  "url": "http://torrentfreak.com/search/%s",
+  "description": "Torrent Freak",
+  "category": "News",
+  "sub-category": "Specialty"
+}

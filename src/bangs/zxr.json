@@ -1,0 +1,8 @@
+{
+  "bang": "zxr",
+  "domain": "https://elixir.bootlin.com",
+  "url": "https://elixir.bootlin.com/zephyr/latest/ident/%s",
+  "description": "Zephyr Cross Reference",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

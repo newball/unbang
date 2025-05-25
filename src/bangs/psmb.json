@@ -1,0 +1,8 @@
+{
+  "bang": "psmb",
+  "domain": "https://docs.microsoft.com",
+  "url": "https://docs.microsoft.com/en-us/powershell/module/?term=%s",
+  "description": "PowerShell Module Browser",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

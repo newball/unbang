@@ -1,0 +1,8 @@
+{
+  "bang": "mtw",
+  "domain": "https://wiki.minetest.net",
+  "url": "http://wiki.minetest.net/index.php?search=%s",
+  "description": "Minetest Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (Minecraft)"
+}

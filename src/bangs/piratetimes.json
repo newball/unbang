@@ -1,0 +1,8 @@
+{
+  "bang": "piratetimes",
+  "domain": "https://piratetimes.net",
+  "url": "http://piratetimes.net/?s=%s&submit=Search",
+  "description": "Pirate Times",
+  "category": "News",
+  "sub-category": "International"
+}

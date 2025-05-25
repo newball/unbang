@@ -1,0 +1,8 @@
+{
+  "bang": "politifact",
+  "domain": "https://www.politifact.com",
+  "url": "http://www.politifact.com/search/?q=%s",
+  "description": "PolitiFact",
+  "category": "News",
+  "sub-category": "Specialty"
+}

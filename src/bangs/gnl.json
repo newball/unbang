@@ -1,0 +1,8 @@
+{
+  "bang": "gnl",
+  "domain": "https://www.google.nl",
+  "url": "http://www.google.nl/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google NL",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

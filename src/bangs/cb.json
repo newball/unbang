@@ -1,0 +1,8 @@
+{
+  "bang": "cb",
+  "domain": "https://www.crunchbase.com",
+  "url": "https://www.crunchbase.com/textsearch?q=%s",
+  "description": "CrunchBase",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

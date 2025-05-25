@@ -1,0 +1,8 @@
+{
+  "bang": "ww",
+  "domain": "https://www.wikiwand.com",
+  "url": "https://www.wikiwand.com/en/%s",
+  "description": "Wikiwand",
+  "category": "Research",
+  "sub-category": "Reference"
+}

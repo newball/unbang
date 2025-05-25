@@ -1,0 +1,8 @@
+{
+  "bang": "tbn",
+  "domain": "https://www.tbn.org",
+  "url": "https://www.tbn.org/search?s=%s",
+  "description": "Trinity Broadcasting Network",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

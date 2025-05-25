@@ -1,0 +1,8 @@
+{
+  "bang": "jcomp",
+  "domain": "https://chaitan.cloudapp.net",
+  "url": "http://chaitan.cloudapp.net/justcompare/search?q=%s",
+  "description": "JustCompare",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

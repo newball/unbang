@@ -1,0 +1,8 @@
+{
+  "bang": "scm",
+  "domain": "https://www.smashcustommusic.com",
+  "url": "http://www.smashcustommusic.com/index.php?song=%s",
+  "description": "Smash Custom Music",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

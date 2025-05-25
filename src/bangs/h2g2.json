@@ -1,0 +1,8 @@
+{
+  "bang": "h2g2",
+  "domain": "https://www.h2g2.com",
+  "url": "http://www.h2g2.com/search?search_type=article_quick_search&searchstring=%s&approved_entries_only_chk=1",
+  "description": "h2g2",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "cub",
+  "domain": "https://cubash.com",
+  "url": "https://cubash.com/users?filter=0&query=%s",
+  "description": "Cubash",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

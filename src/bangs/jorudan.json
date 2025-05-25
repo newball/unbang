@@ -1,0 +1,8 @@
+{
+  "bang": "jorudan",
+  "domain": "https://www.jorudan.co.jp",
+  "url": "https://www.jorudan.co.jp/jt/cgi/qsearch/qsearch.cgi?s=%s",
+  "description": "Jorudan",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

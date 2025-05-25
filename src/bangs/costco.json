@@ -1,0 +1,8 @@
+{
+  "bang": "costco",
+  "domain": "https://www.costco.com",
+  "url": "http://www.costco.com/CatalogSearch?storeId=10301&catalogId=10701&langId=-1&keyword=%s",
+  "description": "Costco.com",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

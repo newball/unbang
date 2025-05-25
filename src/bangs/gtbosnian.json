@@ -1,0 +1,8 @@
+{
+  "bang": "gtbosnian",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/bs/%s",
+  "description": "Detect language to Bosnian",
+  "category": "Translation",
+  "sub-category": "Google"
+}

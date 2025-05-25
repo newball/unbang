@@ -1,0 +1,8 @@
+{
+  "bang": "wtt",
+  "domain": "https://tt.wikipedia.org",
+  "url": "https://tt.wikipedia.org/wiki/%s",
+  "description": "Wikipedia Tatar",
+  "category": "Research",
+  "sub-category": "Reference"
+}

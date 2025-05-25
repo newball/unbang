@@ -1,0 +1,8 @@
+{
+  "bang": "mojposao",
+  "domain": "https://www.moj-posao.net",
+  "url": "https://www.moj-posao.net/Pretraga-Poslova/?keyword=%s&area=&category=",
+  "description": "MojPosao",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

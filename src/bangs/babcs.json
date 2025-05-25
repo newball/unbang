@@ -1,0 +1,8 @@
+{
+  "bang": "babcs",
+  "domain": "https://en.bab.la",
+  "url": "https://en.bab.la/dictionary/english-czech/%s",
+  "description": "bab.la English-Czech dictionary",
+  "category": "Translation",
+  "sub-category": "General"
+}

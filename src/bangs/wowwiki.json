@@ -1,0 +1,8 @@
+{
+  "bang": "wowwiki",
+  "domain": "https://www.wowwiki.com",
+  "url": "http://www.wowwiki.com/Special:Search?search=%s",
+  "description": "WoWWiki",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

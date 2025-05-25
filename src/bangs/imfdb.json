@@ -1,0 +1,8 @@
+{
+  "bang": "imfdb",
+  "domain": "https://www.imfdb.org",
+  "url": "http://www.imfdb.org/w/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "Internet Movie Firearms Database",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

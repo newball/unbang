@@ -1,0 +1,8 @@
+{
+  "bang": "gigantti",
+  "domain": "https://www.gigantti.fi",
+  "url": "http://www.gigantti.fi/search?SearchTerm=%s",
+  "description": "Gigantti Finland",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

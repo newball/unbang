@@ -1,0 +1,8 @@
+{
+  "bang": "gdns",
+  "domain": "https://dns.google.com",
+  "url": "https://dns.google.com/query?name=%s&type=A&dnssec=true",
+  "description": "Google Public DNS",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "yama",
+  "domain": "https://market.yandex.ru",
+  "url": "https://market.yandex.ru/search?text=%s",
+  "description": "Yandex.Market",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "werstreamt",
+  "domain": "https://www.werstreamt.es",
+  "url": "https://www.werstreamt.es/filme-serien?q=%s",
+  "description": "WerStreamt.es",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

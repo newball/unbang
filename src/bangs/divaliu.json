@@ -1,0 +1,8 @@
+{
+  "bang": "divaliu",
+  "domain": "https://liu.diva-portal.org",
+  "url": "http://liu.diva-portal.org/smash/resultList.jsf?searchType=SIMPLE&query=%s",
+  "description": "divaliu",
+  "category": "Research",
+  "sub-category": "Academic"
+}

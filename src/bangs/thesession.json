@@ -1,0 +1,8 @@
+{
+  "bang": "thesession",
+  "domain": "https://thesession.org",
+  "url": "https://thesession.org/tunes/search?type=&mode=&q=%s",
+  "description": "The Session",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ding",
+  "domain": "https://dict.tu-chemnitz.de",
+  "url": "https://dict.tu-chemnitz.de/dings.cgi?query=%s",
+  "description": "BEOLINGUS Online ditctionary, German, English, Spanish (using the Linux program DING)",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

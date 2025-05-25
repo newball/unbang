@@ -1,0 +1,8 @@
+{
+  "bang": "wkit",
+  "domain": "https://it.wiktionary.org",
+  "url": "https://it.wiktionary.org/w/index.php?search=%s",
+  "description": "Wiktionary (Italian)",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

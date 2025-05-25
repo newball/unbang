@@ -1,0 +1,8 @@
+{
+  "bang": "newsela",
+  "domain": "https://newsela.com",
+  "url": "https://newsela.com/search/#/?needle=%s",
+  "description": "Newsela",
+  "category": "Research",
+  "sub-category": "Learning"
+}

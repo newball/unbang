@@ -1,0 +1,8 @@
+{
+  "bang": "fmi",
+  "domain": "https://ilmatieteenlaitos.fi",
+  "url": "http://ilmatieteenlaitos.fi/saa/%s",
+  "description": "Ilmatieteen Laitos",
+  "category": "News",
+  "sub-category": "Weather"
+}

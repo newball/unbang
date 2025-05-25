@@ -1,0 +1,8 @@
+{
+  "bang": "addicting",
+  "domain": "https://www.addictinggames.com",
+  "url": "http://www.addictinggames.com/search/games.jsp?gameKeyword=%s",
+  "description": "Addicting Games",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

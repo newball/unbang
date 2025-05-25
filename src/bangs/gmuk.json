@@ -1,0 +1,8 @@
+{
+  "bang": "gmuk",
+  "domain": "https://www.google.co.uk",
+  "url": "https://www.google.co.uk/maps/place/%s ",
+  "description": "Google Maps",
+  "category": "Research",
+  "sub-category": "Travel"
+}

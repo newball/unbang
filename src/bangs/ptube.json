@@ -1,0 +1,8 @@
+{
+  "bang": "ptube",
+  "domain": "https://peer.tube",
+  "url": "https://peer.tube/search?search=%s",
+  "description": "PeerTube",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

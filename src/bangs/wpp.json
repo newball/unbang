@@ -1,0 +1,8 @@
+{
+  "bang": "wpp",
+  "domain": "https://wordpress.org",
+  "url": "https://wordpress.org/plugins/search/%s/",
+  "description": "WordPress Plugin Directory",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "tfes",
+  "domain": "https://forum.tfes.org",
+  "url": "https://forum.tfes.org/index.php?action=search2;search=%s",
+  "description": "The Flat Earth Society forum",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

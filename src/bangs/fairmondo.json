@@ -1,0 +1,8 @@
+{
+  "bang": "fairmondo",
+  "domain": "https://www.fairmondo.de",
+  "url": "https://www.fairmondo.de/articles?article_search_form[q]=%s",
+  "description": "Fairmondo",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

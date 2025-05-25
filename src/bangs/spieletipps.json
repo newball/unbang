@@ -1,0 +1,8 @@
+{
+  "bang": "spieletipps",
+  "domain": "https://www.spieletipps.de",
+  "url": "http://www.spieletipps.de/suche/?keyword=%s",
+  "description": "Spieletipss",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

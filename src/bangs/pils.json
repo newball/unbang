@@ -1,0 +1,8 @@
+{
+  "bang": "pils",
+  "domain": "https://patient.info",
+  "url": "http://patient.info/Search.asp?searchTerm=%s&collections=Condition_Leaflets",
+  "description": "UK Patient Information Leaflets",
+  "category": "Research",
+  "sub-category": "Health"
+}

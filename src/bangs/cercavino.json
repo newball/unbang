@@ -1,0 +1,8 @@
+{
+  "bang": "cercavino",
+  "domain": "https://cercavino.com",
+  "url": "http://cercavino.com/cerca?vino=%s",
+  "description": "CercaVino",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

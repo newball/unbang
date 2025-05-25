@@ -1,0 +1,8 @@
+{
+  "bang": "icomp",
+  "domain": "https://www.i-comparateur.com",
+  "url": "http://www.i-comparateur.com/search.aspx?q=%s",
+  "description": "i-Comparateur",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "spoonacular",
+  "domain": "https://spoonacular.com",
+  "url": "https://spoonacular.com/%s",
+  "description": "spoonacular",
+  "category": "Research",
+  "sub-category": "Food"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gz",
+  "domain": "https://www.geekzone.fr",
+  "url": "http://www.geekzone.fr/?s=%s",
+  "description": "GeekZone",
+  "category": "News",
+  "sub-category": "Specialty"
+}

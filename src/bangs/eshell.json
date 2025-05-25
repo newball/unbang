@@ -1,0 +1,8 @@
+{
+  "bang": "eshell",
+  "domain": "https://explainshell.com",
+  "url": "https://explainshell.com/explain?cmd=%s",
+  "description": "explainshell",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

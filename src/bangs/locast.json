@@ -1,0 +1,8 @@
+{
+  "bang": "locast",
+  "domain": "https://locast.be",
+  "url": "https://locast.be/?s=%s",
+  "description": "Locast",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

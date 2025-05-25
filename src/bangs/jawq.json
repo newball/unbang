@@ -1,0 +1,8 @@
+{
+  "bang": "jawq",
+  "domain": "https://ja.wikiquote.org",
+  "url": "https://ja.wikiquote.org/w/index.php?search=%s",
+  "description": "Japanese Wikiquote",
+  "category": "Research",
+  "sub-category": "Reference"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "camlib",
+  "domain": "https://idiscover.lib.cam.ac.uk",
+  "url": "http://idiscover.lib.cam.ac.uk/primo-explore/search?query=any,contains,%s&tab=cam_lib_coll&search_scope=SCOP_CAM_ALL&vid=44CAM_PROD&lang=en_US&offset=0",
+  "description": "University of Cambridge Libraries iDiscover",
+  "category": "Research",
+  "sub-category": "Academic"
+}

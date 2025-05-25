@@ -1,0 +1,8 @@
+{
+  "bang": "ocw",
+  "domain": "https://search.mit.edu",
+  "url": "http://search.mit.edu/search?site=ocw&client=mit&output=xml_no_dtd&proxystylesheet=http://ocw.mit.edu/search/google-ocw.xsl&proxyreload=1&q=%s",
+  "description": "MIT OpenCourseWare",
+  "category": "Research",
+  "sub-category": "Academic"
+}

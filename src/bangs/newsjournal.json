@@ -1,0 +1,8 @@
+{
+  "bang": "newsjournal",
+  "domain": "https://www.delawareonline.com",
+  "url": "https://www.delawareonline.com/search/%s/",
+  "description": "The News Journal",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

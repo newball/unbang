@@ -1,0 +1,8 @@
+{
+  "bang": "sceptr",
+  "domain": "https://sceptr.net",
+  "url": "https://sceptr.net/?s=%s",
+  "description": "SCEPTR",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

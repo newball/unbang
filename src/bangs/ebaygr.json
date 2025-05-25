@@ -1,0 +1,8 @@
+{
+  "bang": "ebaygr",
+  "domain": "https://search.eim.ebay.gr",
+  "url": "http://search.eim.ebay.gr/?kw=%s",
+  "description": "ebay.gr",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

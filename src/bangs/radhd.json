@@ -1,0 +1,8 @@
+{
+  "bang": "radhd",
+  "domain": "https://www.reddit.com",
+  "url": "https://www.reddit.com/r/ADHD/search/?q=%s&restrict_sr=1",
+  "description": "r/ADHD",
+  "category": "Research",
+  "sub-category": "Health"
+}

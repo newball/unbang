@@ -1,0 +1,8 @@
+{
+  "bang": "mpora",
+  "domain": "https://mpora.com",
+  "url": "http://mpora.com/search/videos?q=%s",
+  "description": "MPORA",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

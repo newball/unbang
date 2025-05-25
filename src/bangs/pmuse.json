@@ -1,0 +1,8 @@
+{
+  "bang": "pmuse",
+  "domain": "https://muse.jhu.edu",
+  "url": "https://muse.jhu.edu/search?action=search&query=content:%s:and&min=1&max=10&t=header",
+  "description": "Project Muse",
+  "category": "Research",
+  "sub-category": "Academic"
+}

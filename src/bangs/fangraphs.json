@@ -1,0 +1,8 @@
+{
+  "bang": "fangraphs",
+  "domain": "https://www.fangraphs.com",
+  "url": "http://www.fangraphs.com/players.aspx?lastname=%s",
+  "description": "Fangraphs",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

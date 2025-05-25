@@ -1,0 +1,8 @@
+{
+  "bang": "appbrain",
+  "domain": "https://www.appbrain.com",
+  "url": "http://www.appbrain.com/search?q=%s",
+  "description": "AppBrain",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

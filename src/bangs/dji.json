@@ -1,0 +1,8 @@
+{
+  "bang": "dji",
+  "domain": "https://store.dji.com",
+  "url": "https://store.dji.com/product-search?q=%s",
+  "description": "DJI",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

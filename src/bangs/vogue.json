@@ -1,0 +1,8 @@
+{
+  "bang": "vogue",
+  "domain": "https://www.vogue.com",
+  "url": "https://www.vogue.com/?s=%s",
+  "description": "Vogue.com",
+  "category": "News",
+  "sub-category": "Magazine"
+}

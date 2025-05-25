@@ -1,0 +1,8 @@
+{
+  "bang": "pewnews",
+  "domain": "https://pewnews.org",
+  "url": "https://pewnews.org/?s=%s",
+  "description": "Pew News",
+  "category": "News",
+  "sub-category": "Online"
+}

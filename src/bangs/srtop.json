@@ -1,0 +1,8 @@
+{
+  "bang": "srtop",
+  "domain": "https://www.reddit.com",
+  "url": "https://www.reddit.com/r/%s/top/?sort=top&t=all",
+  "description": "Subreddit sorted top/ all time",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

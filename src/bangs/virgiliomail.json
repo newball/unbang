@@ -1,0 +1,8 @@
+{
+  "bang": "virgiliomail",
+  "domain": "https://mail.virgilio.it",
+  "url": "http://mail.virgilio.it/login/?q=%s:",
+  "description": "Virgilio Mail",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

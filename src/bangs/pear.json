@@ -1,0 +1,8 @@
+{
+  "bang": "pear",
+  "domain": "https://pear.php.net",
+  "url": "http://pear.php.net/search.php?in=packages&x=0&y=0&q=%s",
+  "description": "PEAR - PHP Extension and Application Repository",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

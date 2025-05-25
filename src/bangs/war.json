@@ -1,0 +1,8 @@
+{
+  "bang": "war",
+  "domain": "https://ar.wikipedia.org",
+  "url": "https://ar.wikipedia.org/w/index.php?search=%s",
+  "description": "Wikipedia (AR)",
+  "category": "Research",
+  "sub-category": "Reference"
+}

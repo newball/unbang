@@ -1,0 +1,8 @@
+{
+  "bang": "nerdscoop",
+  "domain": "https://www.nerdscoop.com",
+  "url": "http://www.nerdscoop.com/?s=%s",
+  "description": "Nerdscoop",
+  "category": "News",
+  "sub-category": "Magazine"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "buycott",
+  "domain": "https://www.buycott.com",
+  "url": "http://www.buycott.com/search/all?query=%s",
+  "description": "Buycott",
+  "category": "Research",
+  "sub-category": "Government"
+}

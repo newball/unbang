@@ -1,0 +1,8 @@
+{
+  "bang": "epfldir",
+  "domain": "https://search.epfl.ch",
+  "url": "https://search.epfl.ch/psearch.action?q=%s&f=directory&lang=en&pageSize=10&sort=",
+  "description": "EPFL Directory",
+  "category": "Research",
+  "sub-category": "Academic"
+}

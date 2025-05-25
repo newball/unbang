@@ -1,0 +1,8 @@
+{
+  "bang": "crawldb",
+  "domain": "https://loom.shalott.org",
+  "url": "https://loom.shalott.org/learndb.html#%s",
+  "description": "##Crawl Learndb",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

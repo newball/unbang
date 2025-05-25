@@ -1,0 +1,8 @@
+{
+  "bang": "realtor",
+  "domain": "https://www.realtor.com",
+  "url": "http://www.realtor.com/realestateandhomes-search/%s",
+  "description": "Realtor.com",
+  "category": "Research",
+  "sub-category": "Real Estate"
+}

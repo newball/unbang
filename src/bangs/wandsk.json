@@ -1,0 +1,8 @@
+{
+  "bang": "wandsk",
+  "domain": "https://www.wikiwand.com",
+  "url": "https://www.wikiwand.com/sk/%s",
+  "description": "Wikiwand",
+  "category": "Research",
+  "sub-category": "Learning"
+}

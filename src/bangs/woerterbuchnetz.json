@@ -1,0 +1,8 @@
+{
+  "bang": "woerterbuchnetz",
+  "domain": "https://woerterbuchnetz.de",
+  "url": "http://woerterbuchnetz.de/cgi-bin/WBNetz/startGlobalSearch.tcl?stichwort=%s",
+  "description": "Wörterbuchnetz",
+  "category": "Research",
+  "sub-category": "Academic"
+}

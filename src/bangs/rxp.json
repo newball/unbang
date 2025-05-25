@@ -1,0 +1,8 @@
+{
+  "bang": "rxp",
+  "domain": "https://ruxpert.ru",
+  "url": "http://ruxpert.ru/index.php?search=%s",
+  "description": "Ruxpert",
+  "category": "Research",
+  "sub-category": "Reference"
+}

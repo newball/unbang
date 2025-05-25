@@ -1,0 +1,8 @@
+{
+  "bang": "cmi",
+  "domain": "https://library.cmi.ac.in",
+  "url": "http://library.cmi.ac.in/cgi-bin/koha/opac-search.pl?q=%s",
+  "description": "CMI Library",
+  "category": "Online Services",
+  "sub-category": "Search (Private)"
+}

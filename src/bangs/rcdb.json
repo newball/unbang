@@ -1,0 +1,8 @@
+{
+  "bang": "rcdb",
+  "domain": "https://rcdb.com",
+  "url": "http://rcdb.com/qs.htm?qs=%s",
+  "description": "Roller Coaster Database",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

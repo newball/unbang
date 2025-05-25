@@ -1,0 +1,8 @@
+{
+  "bang": "caa",
+  "domain": "https://www.caa.ca",
+  "url": "http://www.caa.ca/?s=%s&submit=Search&lang=en",
+  "description": "Canadian Automobile Association",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

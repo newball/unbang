@@ -1,0 +1,8 @@
+{
+  "bang": "linbr",
+  "domain": "https://www.linguee.com.br",
+  "url": "http://www.linguee.com.br/portugues-ingles/search?source=auto&query=%s",
+  "description": "Linguee",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

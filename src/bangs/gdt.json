@@ -1,0 +1,8 @@
+{
+  "bang": "gdt",
+  "domain": "https://gdt.oqlf.gouv.qc.ca",
+  "url": "http://gdt.oqlf.gouv.qc.ca/resultat.aspx?terme=%s",
+  "description": "Grand Dictionnaire Terminologique",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

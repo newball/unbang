@@ -1,0 +1,8 @@
+{
+  "bang": "larousse",
+  "domain": "https://www.larousse.fr",
+  "url": "http://www.larousse.fr/dictionnaires/francais/%s",
+  "description": "Larousse French Dictionary",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

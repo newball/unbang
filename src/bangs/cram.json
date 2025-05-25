@@ -1,0 +1,8 @@
+{
+  "bang": "cram",
+  "domain": "https://www.cram.com",
+  "url": "http://www.cram.com/search?query=%s&submit=Search",
+  "description": "Cram",
+  "category": "Research",
+  "sub-category": "Learning"
+}

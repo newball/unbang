@@ -1,0 +1,8 @@
+{
+  "bang": "quizlet",
+  "domain": "https://quizlet.com",
+  "url": "http://quizlet.com/subject/%s/",
+  "description": "Quizlet",
+  "category": "Research",
+  "sub-category": "Academic"
+}

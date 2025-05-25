@@ -1,0 +1,8 @@
+{
+  "bang": "isfdb",
+  "domain": "https://www.isfdb.org",
+  "url": "http://www.isfdb.org/cgi-bin/se.cgi?type=Fiction%20Titles&arg=%s",
+  "description": "Internet Speculative Fiction Database",
+  "category": "Research",
+  "sub-category": "Topical"
+}

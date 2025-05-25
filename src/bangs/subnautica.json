@@ -1,0 +1,8 @@
+{
+  "bang": "subnautica",
+  "domain": "https://subnautica.wikia.com",
+  "url": "http://subnautica.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Subnautica Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "todonoticias",
+  "domain": "https://tn.com.ar",
+  "url": "http://tn.com.ar/buscar/%s",
+  "description": "TN.com.ar",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

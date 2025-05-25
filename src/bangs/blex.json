@@ -1,0 +1,8 @@
+{
+  "bang": "blex",
+  "domain": "https://blender.stackexchange.com",
+  "url": "http://blender.stackexchange.com/search?q=%s",
+  "description": " _ Blender Stack Exchange",
+  "category": "Research",
+  "sub-category": "Academic"
+}

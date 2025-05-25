@@ -1,0 +1,8 @@
+{
+  "bang": "aub",
+  "domain": "https://primo.aub.aau.dk",
+  "url": "http://primo.aub.aau.dk/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=desktop&frbg=&vl%28freeText0%29=%s&scp.scps=scope%3A%28AUB_PROJEKT_DC%29%2Cscope%3A%28AUB_SFX%29%2Cscope%3A%28AUB_AAL%29%2Cscope%3A%28AUB_ESB%29%2Cscope%3A%28AUB_KBH%29%2Cscope%3A%28AUB_VBN%29%2Cprimo_central_multiple_fe&vl%2857399062UI1%29=all_items&vl%281UIStartWith0%29=contains&vl%2857399064UI0%29=any&vl%2857399064UI0%29=title&vl%2857399064UI0%29=any",
+  "description": "Aalborg Universitetsbibliotek",
+  "category": "Research",
+  "sub-category": "Academic"
+}

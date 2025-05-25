@@ -1,0 +1,8 @@
+{
+  "bang": "gdocs",
+  "domain": "https://docs.google.com",
+  "url": "https://docs.google.com/document/u/0/?pli=1&tgif=c&q=%s",
+  "description": "Google Docs",
+  "category": "Tech",
+  "sub-category": "Startups"
+}

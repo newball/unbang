@@ -1,0 +1,8 @@
+{
+  "bang": "boards",
+  "domain": "https://www.boards.ie",
+  "url": "http://www.boards.ie/search/submit/?query=%s",
+  "description": "Boards.ie",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

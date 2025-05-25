@@ -1,0 +1,8 @@
+{
+  "bang": "greddit",
+  "domain": "https://google.com",
+  "url": "https://google.com/search?q=site%3Areddit.com+%s",
+  "description": "Reddit Google search",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

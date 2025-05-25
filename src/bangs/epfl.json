@@ -1,0 +1,8 @@
+{
+  "bang": "epfl",
+  "domain": "https://search.epfl.ch",
+  "url": "http://search.epfl.ch/web.action?q=%s",
+  "description": "EPFL",
+  "category": "Research",
+  "sub-category": "Academic"
+}

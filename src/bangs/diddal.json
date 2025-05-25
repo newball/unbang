@@ -1,0 +1,8 @@
+{
+  "bang": "diddal",
+  "domain": "https://portail.atilf.fr",
+  "url": "http://portail.atilf.fr/cgi-bin/search2e?title=%s&author=&class=&speech=&objtype=&word=&CONJUNCT=PHRASE&PROXY=moins+de&DISTANCE=3&OUTPUT=conc&SYSTEM_DIR=%2Fvar%2Fartfla%2Fencyclopedie%2Ftextdata%2FIMAGE%2F",
+  "description": "Encyclopédie de Diderot et d'Alembert",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

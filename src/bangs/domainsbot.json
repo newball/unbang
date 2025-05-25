@@ -1,0 +1,8 @@
+{
+  "bang": "domainsbot",
+  "domain": "https://domainsbot.com",
+  "url": "http://domainsbot.com/?q=%s ",
+  "description": "domainsbot.com",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

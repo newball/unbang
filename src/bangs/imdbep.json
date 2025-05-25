@@ -1,0 +1,8 @@
+{
+  "bang": "imdbep",
+  "domain": "https://www.imdb.com",
+  "url": "https://www.imdb.com/find?&q=%s&s=ep",
+  "description": "IMDB TV Episodes",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

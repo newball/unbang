@@ -1,0 +1,8 @@
+{
+  "bang": "toy",
+  "domain": "https://protinkertoys.com",
+  "url": "https://protinkertoys.com/search?type=product&q=%s",
+  "description": "ProTinkerToys.com",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

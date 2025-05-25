@@ -1,0 +1,8 @@
+{
+  "bang": "filmracket",
+  "domain": "https://filmracket.com",
+  "url": "http://filmracket.com/?s=%s&submit=Search",
+  "description": "http://filmracket.com/",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

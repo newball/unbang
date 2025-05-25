@@ -1,0 +1,8 @@
+{
+  "bang": "spare",
+  "domain": "https://www.spareroom.co.uk",
+  "url": "https://www.spareroom.co.uk/flatshare/flatshare_detail.pl?flatshare_id=%s",
+  "description": "SpareRoom",
+  "category": "Research",
+  "sub-category": "Real Estate"
+}

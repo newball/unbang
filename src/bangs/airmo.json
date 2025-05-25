@@ -1,0 +1,8 @@
+{
+  "bang": "airmo",
+  "domain": "https://air.mozilla.org",
+  "url": "https://air.mozilla.org/search/?q=%s",
+  "description": "Air Mozilla",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

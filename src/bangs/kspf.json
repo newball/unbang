@@ -1,0 +1,8 @@
+{
+  "bang": "kspf",
+  "domain": "https://forum.kerbalspaceprogram.com",
+  "url": "http://forum.kerbalspaceprogram.com/search.php?s=%s",
+  "description": "Ksp forums",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

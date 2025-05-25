@@ -1,0 +1,8 @@
+{
+  "bang": "decitre",
+  "domain": "https://www.decitre.fr",
+  "url": "http://www.decitre.fr/rechercher/result/?q=%s",
+  "description": "Decitre",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

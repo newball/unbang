@@ -1,0 +1,8 @@
+{
+  "bang": "packman",
+  "domain": "https://packman.links2linux.org",
+  "url": "http://packman.links2linux.org/search?q=%s",
+  "description": "PackMan",
+  "category": "Tech",
+  "sub-category": "Sysadmin (packages)"
+}

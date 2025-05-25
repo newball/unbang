@@ -1,0 +1,8 @@
+{
+  "bang": "gamestop",
+  "domain": "https://www.gamestop.com",
+  "url": "https://www.gamestop.com/search/?q=%s&lang=default",
+  "description": "GameStop",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

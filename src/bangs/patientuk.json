@@ -1,0 +1,8 @@
+{
+  "bang": "patientuk",
+  "domain": "https://patient.info",
+  "url": "https://patient.info/search.asp?searchterm=%s",
+  "description": "Patient.co.uk",
+  "category": "Research",
+  "sub-category": "Health"
+}

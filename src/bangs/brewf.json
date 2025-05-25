@@ -1,0 +1,8 @@
+{
+  "bang": "brewf",
+  "domain": "https://formulae.brew.sh",
+  "url": "https://formulae.brew.sh/formula/%s",
+  "description": "Homebrew",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

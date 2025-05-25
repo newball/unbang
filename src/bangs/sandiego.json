@@ -1,0 +1,8 @@
+{
+  "bang": "sandiego",
+  "domain": "https://www.sandiego.org",
+  "url": "https://www.sandiego.org/search/site.aspx?q=%s",
+  "description": "San Diego - The Official Travel Resource for the San Diego Region",
+  "category": "Research",
+  "sub-category": "Travel"
+}

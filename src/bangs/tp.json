@@ -1,0 +1,8 @@
+{
+  "bang": "tp",
+  "domain": "https://thesaurus.plus",
+  "url": "https://thesaurus.plus/search?q=%s",
+  "description": "Thesaurus Plus",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

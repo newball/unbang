@@ -1,0 +1,8 @@
+{
+  "bang": "caniuse",
+  "domain": "https://caniuse.com",
+  "url": "http://caniuse.com/#search=%s",
+  "description": "Can I use...",
+  "category": "Tech",
+  "sub-category": "Languages (html)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "smag",
+  "domain": "https://science.sciencemag.org",
+  "url": "http://science.sciencemag.org/search/%s",
+  "description": "sciencemag",
+  "category": "Research",
+  "sub-category": "Academic"
+}

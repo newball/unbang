@@ -1,0 +1,8 @@
+{
+  "bang": "fd",
+  "domain": "https://freedictionary.org",
+  "url": "http://freedictionary.org/?Query=%s&button=Search",
+  "description": "Free Dictionary",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "freesound",
+  "domain": "https://www.freesound.org",
+  "url": "http://www.freesound.org/search/?q=%s",
+  "description": "Freesound",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

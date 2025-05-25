@@ -1,0 +1,8 @@
+{
+  "bang": "koherald",
+  "domain": "https://www.koreaherald.com",
+  "url": "http://www.koreaherald.com/search/index.php?q=%s&kr=0",
+  "description": "The Korea Herald",
+  "category": "News",
+  "sub-category": "International"
+}

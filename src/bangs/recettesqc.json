@@ -1,0 +1,8 @@
+{
+  "bang": "recettesqc",
+  "domain": "https://www.recettes.qc.ca",
+  "url": "https://www.recettes.qc.ca/recettes/recherche?search[query]=%s&search[sort]=",
+  "description": "Recettes du Québec",
+  "category": "Research",
+  "sub-category": "Food"
+}

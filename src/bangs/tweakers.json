@@ -1,0 +1,8 @@
+{
+  "bang": "tweakers",
+  "domain": "https://tweakers.net",
+  "url": "https://tweakers.net/nieuws/zoeken/?keyword=%s",
+  "description": "tweakers.net",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

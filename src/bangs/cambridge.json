@@ -1,0 +1,8 @@
+{
+  "bang": "cambridge",
+  "domain": "https://dictionary.cambridge.org",
+  "url": "http://dictionary.cambridge.org/dictionary/english/%s",
+  "description": "Cambridge Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

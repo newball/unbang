@@ -1,0 +1,8 @@
+{
+  "bang": "hbt",
+  "domain": "https://www.homebrewtalk.com",
+  "url": "http://www.homebrewtalk.com/search/?keyword=%s",
+  "description": "Home Brew Talk",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

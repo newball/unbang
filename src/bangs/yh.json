@@ -1,0 +1,8 @@
+{
+  "bang": "yh",
+  "domain": "https://yandex.com.tr",
+  "url": "https://yandex.com.tr/harita/?text=%s",
+  "description": "Yandex Haritalar",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

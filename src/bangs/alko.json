@@ -1,0 +1,8 @@
+{
+  "bang": "alko",
+  "domain": "https://www.alko.fi",
+  "url": "https://www.alko.fi/INTERSHOP/web/WFS/Alko-OnlineShop-Site/fi_FI/-/EUR/ViewParametricSearchBySearchIndex-SimpleGenericSearch?SearchTerm=%s",
+  "description": "Alko",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

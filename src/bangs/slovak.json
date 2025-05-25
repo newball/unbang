@@ -1,0 +1,8 @@
+{
+  "bang": "slovak",
+  "domain": "https://slovniky.korpus.sk",
+  "url": "http://slovniky.korpus.sk/?w=%s",
+  "description": "Slovenské slovníky",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

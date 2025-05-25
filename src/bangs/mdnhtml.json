@@ -1,0 +1,8 @@
+{
+  "bang": "mdnhtml",
+  "domain": "https://developer.mozilla.org",
+  "url": "https://developer.mozilla.org/en-US/search?q=%s&topic=html",
+  "description": "Mozilla Developer Network",
+  "category": "Tech",
+  "sub-category": "Languages (html)"
+}

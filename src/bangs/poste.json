@@ -1,0 +1,8 @@
+{
+  "bang": "poste",
+  "domain": "https://www.poste.it",
+  "url": "https://www.poste.it/cerca/index.html#/risultati-spedizioni/%s",
+  "description": "Poste Italiane",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

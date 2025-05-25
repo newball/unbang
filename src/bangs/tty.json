@@ -1,0 +1,8 @@
+{
+  "bang": "tty",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/tty/#q=%s",
+  "description": "DuckDuckGo TTY",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "npmtrends",
+  "domain": "https://www.npmtrends.com",
+  "url": "https://www.npmtrends.com/%s",
+  "description": "NPM Trends",
+  "category": "Research",
+  "sub-category": "Reference"
+}

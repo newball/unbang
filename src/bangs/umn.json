@@ -1,0 +1,8 @@
+{
+  "bang": "umn",
+  "domain": "https://search.umn.edu",
+  "url": "https://search.umn.edu/tc/index.php?q=%s ",
+  "description": "University of Minnesota",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "untappd",
+  "domain": "https://untappd.com",
+  "url": "https://untappd.com/search?q=%s ",
+  "description": "Untappd",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

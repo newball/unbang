@@ -1,0 +1,8 @@
+{
+  "bang": "erlang",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Aerlang.org+%s",
+  "description": "Erlang Docs",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

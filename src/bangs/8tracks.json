@@ -1,0 +1,8 @@
+{
+  "bang": "8tracks",
+  "domain": "https://8tracks.com",
+  "url": "http://8tracks.com/explore/all?q=%s",
+  "description": "8tracks",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

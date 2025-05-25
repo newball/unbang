@@ -1,0 +1,8 @@
+{
+  "bang": "dmap",
+  "domain": "https://map.daum.net",
+  "url": "http://map.daum.net/?q=%s",
+  "description": "Daum Map",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

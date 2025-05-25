@@ -1,0 +1,8 @@
+{
+  "bang": "sqf",
+  "domain": "https://community.bistudio.com",
+  "url": "https://community.bistudio.com/wiki?search=%s",
+  "description": "Bohemia Interactive Community Wiki",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

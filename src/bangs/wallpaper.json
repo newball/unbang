@@ -1,0 +1,8 @@
+{
+  "bang": "wallpaper",
+  "domain": "https://google.com",
+  "url": "http://google.com/search?tbm=isch&imgsz=xxlarge&gbv=2&safe=off&q=%s+wallpaper&btnG=Search+Images&tbs=imgo:1",
+  "description": "Google Images",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

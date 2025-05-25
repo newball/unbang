@@ -1,0 +1,8 @@
+{
+  "bang": "rh",
+  "domain": "https://robinhood.com",
+  "url": "https://robinhood.com/stocks/%s",
+  "description": "Robin Hood",
+  "category": "News",
+  "sub-category": "Business"
+}

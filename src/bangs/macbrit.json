@@ -1,0 +1,8 @@
+{
+  "bang": "macbrit",
+  "domain": "https://www.macmillandictionary.com",
+  "url": "http://www.macmillandictionary.com/dictionary/british/%s",
+  "description": "Macmillan Dictionary",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "teletekst",
+  "domain": "https://teletekst-data.nos.nl",
+  "url": "http://teletekst-data.nos.nl/webplus?p=%s",
+  "description": "Teletekst",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

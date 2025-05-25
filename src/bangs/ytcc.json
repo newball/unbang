@@ -1,0 +1,8 @@
+{
+  "bang": "ytcc",
+  "domain": "https://www.youtube.com",
+  "url": "https://www.youtube.com/results?search_query=%s&sp=EgIwAQ%253D%253D",
+  "description": "YouTube (Creative Commons)",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

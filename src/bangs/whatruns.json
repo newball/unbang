@@ -1,0 +1,8 @@
+{
+  "bang": "whatruns",
+  "domain": "https://www.whatruns.com",
+  "url": "https://www.whatruns.com/website/%s",
+  "description": "whatruns",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

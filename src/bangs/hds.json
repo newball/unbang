@@ -1,0 +1,8 @@
+{
+  "bang": "hds",
+  "domain": "https://search.datasheetcatalog.net",
+  "url": "http://search.datasheetcatalog.net/key/%s",
+  "description": "All Datasheet Catalog",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

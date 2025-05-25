@@ -1,0 +1,8 @@
+{
+  "bang": "giantbomb",
+  "domain": "https://www.giantbomb.com",
+  "url": "http://www.giantbomb.com/search/?q=%s",
+  "description": "GiantBomb",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

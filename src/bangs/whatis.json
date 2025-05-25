@@ -1,0 +1,8 @@
+{
+  "bang": "whatis",
+  "domain": "https://whatis.techtarget.com",
+  "url": "http://whatis.techtarget.com/wsearchResults/1,290214,sid9,00.html?query=%s",
+  "description": "WhatIs.com",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

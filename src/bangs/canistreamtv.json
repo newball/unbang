@@ -1,0 +1,8 @@
+{
+  "bang": "canistreamtv",
+  "domain": "https://www.canistream.it",
+  "url": "http://www.canistream.it/search/tv/%s",
+  "description": "canistream.it",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

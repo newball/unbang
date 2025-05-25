@@ -1,0 +1,8 @@
+{
+  "bang": "lindit",
+  "domain": "https://www.linguee.de",
+  "url": "http://www.linguee.de/deutsch-italienisch/search?source=auto&query=%s",
+  "description": "Linguee Ger - It",
+  "category": "Research",
+  "sub-category": "Learning"
+}

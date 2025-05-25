@@ -1,0 +1,8 @@
+{
+  "bang": "osl",
+  "domain": "https://libraries.io",
+  "url": "http://libraries.io/search?q=%s",
+  "description": "Libraries - The Open Source Discovery Service",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

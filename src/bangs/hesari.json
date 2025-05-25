@@ -1,0 +1,8 @@
+{
+  "bang": "hesari",
+  "domain": "https://hs.fi",
+  "url": "http://hs.fi/haku/?search-term=%s",
+  "description": "Helsingin Sanomat",
+  "category": "News",
+  "sub-category": "Magazine"
+}

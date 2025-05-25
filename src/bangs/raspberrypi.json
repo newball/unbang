@@ -1,0 +1,8 @@
+{
+  "bang": "raspberrypi",
+  "domain": "https://www.raspberrypi.org",
+  "url": "http://www.raspberrypi.org/?s=%s",
+  "description": "Raspberry Pi",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

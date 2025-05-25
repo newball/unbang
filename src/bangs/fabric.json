@@ -1,0 +1,8 @@
+{
+  "bang": "fabric",
+  "domain": "https://www.fabric.com",
+  "url": "https://www.fabric.com/SearchResults2.aspx?SearchText=%s",
+  "description": "Fabric.com",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

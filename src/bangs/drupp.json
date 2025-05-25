@@ -1,0 +1,8 @@
+{
+  "bang": "drupp",
+  "domain": "https://drupal.org",
+  "url": "http://drupal.org/project/%s",
+  "description": "drupal",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "sotd",
+  "domain": "https://www.stateofthedapps.com",
+  "url": "https://www.stateofthedapps.com/dapps?text=%s",
+  "description": "State of the DApps",
+  "category": "Tech",
+  "sub-category": "Cryptocurrency"
+}

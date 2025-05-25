@@ -1,0 +1,8 @@
+{
+  "bang": "aclu",
+  "domain": "https://www.aclu.org",
+  "url": "https://www.aclu.org/search/%s?show_aff=1",
+  "description": "American Civil Liberties Union",
+  "category": "Research",
+  "sub-category": "Law"
+}

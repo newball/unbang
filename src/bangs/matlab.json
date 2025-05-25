@@ -1,0 +1,8 @@
+{
+  "bang": "matlab",
+  "domain": "https://uk.mathworks.com",
+  "url": "http://uk.mathworks.com/help/search.html?qdoc=%s&submitsearch=Search",
+  "description": "Matlab",
+  "category": "Tech",
+  "sub-category": "Languages (Matlab)"
+}

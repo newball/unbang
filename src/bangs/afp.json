@@ -1,0 +1,8 @@
+{
+  "bang": "afp",
+  "domain": "https://www.afpforum.com",
+  "url": "http://www.afpforum.com/AFPForum/Search/Results.aspx?pn=1&smd=8&fst=%s&fto=7&mui=3&t=2",
+  "description": "AFP",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

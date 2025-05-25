@@ -1,0 +1,8 @@
+{
+  "bang": "vector",
+  "domain": "https://vector.me",
+  "url": "http://vector.me/search/%s ",
+  "description": "VectorMe",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

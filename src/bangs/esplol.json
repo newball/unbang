@@ -1,0 +1,8 @@
+{
+  "bang": "esplol",
+  "domain": "https://lol.esportspedia.com",
+  "url": "http://lol.esportspedia.com/w/index.php?search=%s",
+  "description": "LoL Esportspedia",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

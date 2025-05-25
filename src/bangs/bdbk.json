@@ -1,0 +1,8 @@
+{
+  "bang": "bdbk",
+  "domain": "https://wapbaike.baidu.com",
+  "url": "https://wapbaike.baidu.com/search/word?word=%s",
+  "description": "BaiduBaike",
+  "category": "Research",
+  "sub-category": "Learning"
+}

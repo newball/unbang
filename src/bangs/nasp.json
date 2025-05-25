@@ -1,0 +1,8 @@
+{
+  "bang": "nasp",
+  "domain": "https://search.shopping.naver.com",
+  "url": "https://search.shopping.naver.com/search/all.nhn?query=%s&cat_id=&frm=NVSHATC",
+  "description": "Naver Shopping",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gthi",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/hi/%s",
+  "description": "Detect language to Hindi",
+  "category": "Translation",
+  "sub-category": "Google"
+}

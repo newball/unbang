@@ -1,0 +1,8 @@
+{
+  "bang": "rtoday",
+  "domain": "https://www.rt.com",
+  "url": "https://www.rt.com/search?q=%s",
+  "description": "RT - Russial Today",
+  "category": "News",
+  "sub-category": "International"
+}

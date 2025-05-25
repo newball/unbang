@@ -1,0 +1,8 @@
+{
+  "bang": "sefaria",
+  "domain": "https://www.sefaria.org",
+  "url": "http://www.sefaria.org/search?q=%s",
+  "description": "Sefaria",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

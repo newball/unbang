@@ -1,0 +1,8 @@
+{
+  "bang": "jaconj",
+  "domain": "https://japaneseverbconjugator.com",
+  "url": "http://japaneseverbconjugator.com/VerbDetails.asp?txtVerb=%s&Go=Conjugate",
+  "description": "Ultra Handy Japanese Verb Conjugator",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

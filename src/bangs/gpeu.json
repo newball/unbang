@@ -1,0 +1,8 @@
+{
+  "bang": "gpeu",
+  "domain": "https://www.greenpeace.org",
+  "url": "http://www.greenpeace.org/eu-unit/en/System-templates/such-resultate/?all=%s",
+  "description": "Greenpeace EU Unit",
+  "category": "News",
+  "sub-category": "Specialty"
+}

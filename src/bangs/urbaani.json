@@ -1,0 +1,8 @@
+{
+  "bang": "urbaani",
+  "domain": "https://urbaanisanakirja.com",
+  "url": "http://urbaanisanakirja.com/search/?q=%s",
+  "description": "Urbaani Sanakirja",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

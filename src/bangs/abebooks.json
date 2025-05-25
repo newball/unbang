@@ -1,0 +1,8 @@
+{
+  "bang": "abebooks",
+  "domain": "https://www.abebooks.com",
+  "url": "http://www.abebooks.com/servlet/SearchResults?kn=%s",
+  "description": "abebooks",
+  "category": "Research",
+  "sub-category": "Learning"
+}

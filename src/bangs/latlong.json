@@ -1,0 +1,8 @@
+{
+  "bang": "latlong",
+  "domain": "https://www.latlong.net",
+  "url": "http://www.latlong.net/search.php?keyword=%s",
+  "description": "LatLong.net",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

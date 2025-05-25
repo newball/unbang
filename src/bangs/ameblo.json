@@ -1,0 +1,8 @@
+{
+  "bang": "ameblo",
+  "domain": "https://search.ameba.jp",
+  "url": "http://search.ameba.jp/search.html?q=%s",
+  "description": "Ameblo",
+  "category": "Entertainment",
+  "sub-category": "Blogs (intl)"
+}

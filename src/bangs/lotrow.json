@@ -1,0 +1,8 @@
+{
+  "bang": "lotrow",
+  "domain": "https://lotro-wiki.com",
+  "url": "http://lotro-wiki.com/index.php?search=%s&button=&title=Special%3ASearch",
+  "description": "LOTRO-Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "muzli",
+  "domain": "https://search.muz.li",
+  "url": "https://search.muz.li/search/%s",
+  "description": "Muzli Search",
+  "category": "Tech",
+  "sub-category": "Design"
+}

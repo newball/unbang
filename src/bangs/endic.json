@@ -1,0 +1,8 @@
+{
+  "bang": "endic",
+  "domain": "https://endic.naver.com",
+  "url": "http://endic.naver.com/search.nhn?sLn=en&isOnlyViewEE=N&query=%s",
+  "description": "endic.naver.com",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

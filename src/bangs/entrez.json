@@ -1,0 +1,8 @@
+{
+  "bang": "entrez",
+  "domain": "https://www.ncbi.nlm.nih.gov",
+  "url": "http://www.ncbi.nlm.nih.gov/sites/gquery?term=%s",
+  "description": "Entrez",
+  "category": "Research",
+  "sub-category": "Government"
+}

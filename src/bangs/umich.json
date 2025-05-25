@@ -1,0 +1,8 @@
+{
+  "bang": "umich",
+  "domain": "https://umich.edu",
+  "url": "http://umich.edu/search/keywords/%s/",
+  "description": "University of Michigan",
+  "category": "Research",
+  "sub-category": "Academic"
+}

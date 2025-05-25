@@ -1,0 +1,8 @@
+{
+  "bang": "brightstorm",
+  "domain": "https://www.brightstorm.com",
+  "url": "http://www.brightstorm.com/search/?k=%s",
+  "description": "Brightstorm",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

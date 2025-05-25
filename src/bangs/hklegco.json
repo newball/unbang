@@ -1,0 +1,8 @@
+{
+  "bang": "hklegco",
+  "domain": "https://search.legco.gov.hk",
+  "url": "https://search.legco.gov.hk/LegCoWeb/Search.aspx?lang=en&searchtype=simple&keyword=%s",
+  "description": "Hong Kong Leg-Co",
+  "category": "Research",
+  "sub-category": "Law"
+}

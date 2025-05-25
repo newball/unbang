@@ -1,0 +1,8 @@
+{
+  "bang": "rn",
+  "domain": "https://india.recruit.net",
+  "url": "http://india.recruit.net/search.html?query=%s&location=delhi",
+  "description": "recruit.net",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

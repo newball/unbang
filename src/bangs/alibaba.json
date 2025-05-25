@@ -1,0 +1,8 @@
+{
+  "bang": "alibaba",
+  "domain": "https://www.alibaba.com",
+  "url": "http://www.alibaba.com/trade/search?SearchText=%s",
+  "description": "Alibaba",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

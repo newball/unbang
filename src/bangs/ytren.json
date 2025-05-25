@@ -1,0 +1,8 @@
+{
+  "bang": "ytren",
+  "domain": "https://translate.yandex.com",
+  "url": "https://translate.yandex.com/?text=%s",
+  "description": "Yandex.Translate",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

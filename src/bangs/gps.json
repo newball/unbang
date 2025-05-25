@@ -1,0 +1,8 @@
+{
+  "bang": "gps",
+  "domain": "https://www.google.com",
+  "url": "https://www.google.com/search?hl=en&tbm=shop&q=%s",
+  "description": "Google Product Search",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

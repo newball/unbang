@@ -1,0 +1,8 @@
+{
+  "bang": "deadspin",
+  "domain": "https://deadspin.com",
+  "url": "http://deadspin.com/search?q=%s",
+  "description": "Deadspin",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

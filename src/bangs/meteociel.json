@@ -1,0 +1,8 @@
+{
+  "bang": "meteociel",
+  "domain": "https://www.meteociel.fr",
+  "url": "http://www.meteociel.fr/prevville.php?action=getville&ville=%s",
+  "description": "Meteociel",
+  "category": "News",
+  "sub-category": "Weather"
+}

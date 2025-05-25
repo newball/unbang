@@ -1,0 +1,8 @@
+{
+  "bang": "tjournal",
+  "domain": "https://tjournal.ru",
+  "url": "https://tjournal.ru/search/%s",
+  "description": "TJ",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "met",
+  "domain": "https://meteox.de",
+  "url": "http://meteox.de/search.aspx?s=%s",
+  "description": "Meteox",
+  "category": "News",
+  "sub-category": "Weather"
+}

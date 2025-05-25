@@ -1,0 +1,8 @@
+{
+  "bang": "poems",
+  "domain": "https://www.poetryfoundation.org",
+  "url": "https://www.poetryfoundation.org/search?query=%s ",
+  "description": "The Poetry Foundation",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

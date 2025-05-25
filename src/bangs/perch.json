@@ -1,0 +1,8 @@
+{
+  "bang": "perch",
+  "domain": "https://forum.grabaperch.com",
+  "url": "http://forum.grabaperch.com/forum/search?query=%s",
+  "description": "Perch Forum",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

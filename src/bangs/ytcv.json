@@ -1,0 +1,8 @@
+{
+  "bang": "ytcv",
+  "domain": "https://www.youtube.com",
+  "url": "https://www.youtube.com/user/%s/videos",
+  "description": "Youtube Channel Videos",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

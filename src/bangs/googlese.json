@@ -1,0 +1,8 @@
+{
+  "bang": "googlese",
+  "domain": "https://google.se",
+  "url": "http://google.se/?q=%s",
+  "description": "Google Sweden",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

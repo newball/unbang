@@ -1,0 +1,8 @@
+{
+  "bang": "asus",
+  "domain": "https://www.asus.com",
+  "url": "http://www.asus.com/us/Search/?SearchKey=%s",
+  "description": "Asus",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

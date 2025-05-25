@@ -1,0 +1,8 @@
+{
+  "bang": "prdb",
+  "domain": "https://www.protondb.com",
+  "url": "https://www.protondb.com/search?q=%s",
+  "description": "ProtonDB",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "vevo",
+  "domain": "https://www.youtube.com",
+  "url": "https://www.youtube.com/user/VEVO/search?query=%s",
+  "description": "Vevo",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

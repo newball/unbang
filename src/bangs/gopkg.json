@@ -1,0 +1,8 @@
+{
+  "bang": "gopkg",
+  "domain": "https://golang.org",
+  "url": "https://golang.org/pkg/%s",
+  "description": "golang.org",
+  "category": "Tech",
+  "sub-category": "Languages (go)"
+}

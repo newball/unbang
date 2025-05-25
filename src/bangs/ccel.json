@@ -1,0 +1,8 @@
+{
+  "bang": "ccel",
+  "domain": "https://www.ccel.org",
+  "url": "http://www.ccel.org/search/fulltext/%s",
+  "description": "Christian Classics Ethereal Library",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

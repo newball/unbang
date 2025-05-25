@@ -1,0 +1,8 @@
+{
+  "bang": "prezi",
+  "domain": "https://prezi.com",
+  "url": "http://prezi.com/explore/search/?search=%s",
+  "description": "Prezi",
+  "category": "Multimedia",
+  "sub-category": "Docs"
+}

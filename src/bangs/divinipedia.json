@@ -1,0 +1,8 @@
+{
+  "bang": "divinipedia",
+  "domain": "https://kidicarus.wikia.com",
+  "url": "http://kidicarus.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Divinipedia",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "muppet",
+  "domain": "https://muppet.wikia.com",
+  "url": "http://muppet.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Muppet Wiki",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

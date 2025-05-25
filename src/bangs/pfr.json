@@ -1,0 +1,8 @@
+{
+  "bang": "pfr",
+  "domain": "https://www.pro-football-reference.com",
+  "url": "http://www.pro-football-reference.com/search/search.fcgi?search=%s&pid=",
+  "description": "pro-football-reference.com",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

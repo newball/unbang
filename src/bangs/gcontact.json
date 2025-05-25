@@ -1,0 +1,8 @@
+{
+  "bang": "gcontact",
+  "domain": "https://contacts.google.com",
+  "url": "https://contacts.google.com/search/%s",
+  "description": "Google Contacts",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

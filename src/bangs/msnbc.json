@@ -1,0 +1,8 @@
+{
+  "bang": "msnbc",
+  "domain": "https://www.msnbc.com",
+  "url": "http://www.msnbc.com/search/%s",
+  "description": "MSNBC",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

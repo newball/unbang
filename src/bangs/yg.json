@@ -1,0 +1,8 @@
+{
+  "bang": "yg",
+  "domain": "https://www.yeastgenome.org",
+  "url": "https://www.yeastgenome.org/search?q=%s",
+  "description": "Saccharomyces Genome Database",
+  "category": "Research",
+  "sub-category": "Academic"
+}

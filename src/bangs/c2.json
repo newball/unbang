@@ -1,0 +1,8 @@
+{
+  "bang": "c2",
+  "domain": "https://c2.com",
+  "url": "http://c2.com/cgi/fullSearch?search=%s",
+  "description": "Wiki Wiki Web",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

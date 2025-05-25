@@ -1,0 +1,8 @@
+{
+  "bang": "euronewsen",
+  "domain": "https://www.euronews.com",
+  "url": "http://www.euronews.com/search?query=%s",
+  "description": "Euronews English",
+  "category": "News",
+  "sub-category": "International"
+}

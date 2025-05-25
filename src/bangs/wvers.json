@@ -1,0 +1,8 @@
+{
+  "bang": "wvers",
+  "domain": "https://en.wikiversity.org",
+  "url": "http://en.wikiversity.org/w/index.php?search=%s&title=Special%3ASearch",
+  "description": "Wikiversity",
+  "category": "Research",
+  "sub-category": "Learning"
+}

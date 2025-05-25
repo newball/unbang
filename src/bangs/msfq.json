@@ -1,0 +1,8 @@
+{
+  "bang": "msfq",
+  "domain": "https://www.morningstar.com",
+  "url": "http://www.morningstar.com/funds/xnas/%s/quote.html",
+  "description": "Morningstar",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

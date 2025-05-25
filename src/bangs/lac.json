@@ -1,0 +1,8 @@
+{
+  "bang": "lac",
+  "domain": "https://www.bac-lac.gc.ca",
+  "url": "http://www.bac-lac.gc.ca/eng/collectionsearch/Pages/collectionsearch.aspx?q=%s",
+  "description": "Library and Archives Canada Collection Search",
+  "category": "Research",
+  "sub-category": "Government"
+}

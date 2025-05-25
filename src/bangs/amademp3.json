@@ -1,0 +1,8 @@
+{
+  "bang": "amademp3",
+  "domain": "https://www.amazon.de",
+  "url": "https://www.amazon.de/s?k=%s&i=digital-music",
+  "description": "Amazon.de",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

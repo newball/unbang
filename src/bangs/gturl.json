@@ -1,0 +1,8 @@
+{
+  "bang": "gturl",
+  "domain": "https://translate.google.com",
+  "url": "http://translate.google.com/translate?js=n&prev=_t&ie=UTF-8&layout=2&eotf=1&sl=auto&tl=en&u=%s&act=url",
+  "description": "Google Translate URL",
+  "category": "Translation",
+  "sub-category": "Google"
+}

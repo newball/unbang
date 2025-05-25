@@ -1,0 +1,8 @@
+{
+  "bang": "allsides",
+  "domain": "https://www.allsides.com",
+  "url": "https://www.allsides.com/allsides-search-results?search_api_views_fulltext=%s",
+  "description": "AllSides",
+  "category": "News",
+  "sub-category": "Online"
+}

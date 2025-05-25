@@ -1,0 +1,8 @@
+{
+  "bang": "sprd",
+  "domain": "https://www.spreadshirt.com",
+  "url": "https://www.spreadshirt.com/%s",
+  "description": "Spreadshirt",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

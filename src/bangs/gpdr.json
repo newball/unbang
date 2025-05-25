@@ -1,0 +1,8 @@
+{
+  "bang": "gpdr",
+  "domain": "https://gpodder.net",
+  "url": "https://gpodder.net/search/?q=%s ",
+  "description": "gpodder.net",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

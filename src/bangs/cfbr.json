@@ -1,0 +1,8 @@
+{
+  "bang": "cfbr",
+  "domain": "https://www.sports-reference.com",
+  "url": "http://www.sports-reference.com/cfb/search/search.fcgi?search=%s",
+  "description": "College Football Reference",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

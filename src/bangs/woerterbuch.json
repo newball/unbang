@@ -1,0 +1,8 @@
+{
+  "bang": "woerterbuch",
+  "domain": "https://www.woerterbuch.info",
+  "url": "http://www.woerterbuch.info/?query=%s",
+  "description": "woerterbuch.info",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "doit",
+  "domain": "https://www.doityourself.com",
+  "url": "https://www.doityourself.com/search?dsp=how-to&psearch=%s",
+  "description": "https://www.doityourself.com/",
+  "category": "Tech",
+  "sub-category": "Design"
+}

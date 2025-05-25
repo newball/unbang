@@ -1,0 +1,8 @@
+{
+  "bang": "audible.com",
+  "domain": "https://www.audible.com",
+  "url": "http://www.audible.com/search?advsearchKeywords=%s",
+  "description": "Audible.com",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

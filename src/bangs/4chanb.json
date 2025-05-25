@@ -1,0 +1,8 @@
+{
+  "bang": "4chanb",
+  "domain": "https://4chan.org",
+  "url": "http://4chan.org/b/%s",
+  "description": "4chan Boards",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

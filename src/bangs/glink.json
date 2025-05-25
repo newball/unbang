@@ -1,0 +1,8 @@
+{
+  "bang": "glink",
+  "domain": "https://www.google.com",
+  "url": "http://www.google.com/search?as_lq=%s&hl=en&btnG=Search",
+  "description": "Google",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

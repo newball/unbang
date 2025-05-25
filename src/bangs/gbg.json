@@ -1,0 +1,8 @@
+{
+  "bang": "gbg",
+  "domain": "https://www.google.bg",
+  "url": "http://www.google.bg/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google BG",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

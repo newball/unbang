@@ -1,0 +1,8 @@
+{
+  "bang": "osmrelation",
+  "domain": "https://www.openstreetmap.org",
+  "url": "https://www.openstreetmap.org/relation/%s",
+  "description": "OpenStreetMap Relation",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

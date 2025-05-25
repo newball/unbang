@@ -1,0 +1,8 @@
+{
+  "bang": "spongebob",
+  "domain": "https://spongebob.wikia.com",
+  "url": "http://spongebob.wikia.com/wiki/Special:Search?search=%s&fulltext=Search",
+  "description": "SpongeBob Wikia",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

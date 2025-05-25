@@ -1,0 +1,8 @@
+{
+  "bang": "thesetel",
+  "domain": "https://tel.archives-ouvertes.fr",
+  "url": "https://tel.archives-ouvertes.fr/search/index/?q=%s",
+  "description": "TEL - Thèses en ligne",
+  "category": "Research",
+  "sub-category": "Academic"
+}

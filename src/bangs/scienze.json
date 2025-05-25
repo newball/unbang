@@ -1,0 +1,8 @@
+{
+  "bang": "scienze",
+  "domain": "https://www.lescienze.it",
+  "url": "http://www.lescienze.it/?q=%s",
+  "description": "Le Scienze",
+  "category": "News",
+  "sub-category": "Magazine"
+}

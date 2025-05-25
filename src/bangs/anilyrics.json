@@ -1,0 +1,8 @@
+{
+  "bang": "anilyrics",
+  "domain": "https://anilyrics.com",
+  "url": "https://anilyrics.com/?s=%s",
+  "description": "AniLyrics",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

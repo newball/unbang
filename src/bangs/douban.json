@@ -1,0 +1,8 @@
+{
+  "bang": "douban",
+  "domain": "https://www.douban.com",
+  "url": "http://www.douban.com/search?q=%s",
+  "description": "Douban",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

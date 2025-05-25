@@ -1,0 +1,8 @@
+{
+  "bang": "voan",
+  "domain": "https://www.voanews.com",
+  "url": "https://www.voanews.com/s?k=%s&tab=all&pi=1&r=any&pp=10",
+  "description": "Voice of America News",
+  "category": "News",
+  "sub-category": "International"
+}

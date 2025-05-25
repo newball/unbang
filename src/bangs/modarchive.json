@@ -1,0 +1,8 @@
+{
+  "bang": "modarchive",
+  "domain": "https://modarchive.org",
+  "url": "https://modarchive.org/index.php?request=search&query=%s&submit=Find&search_type=filename_or_songtitle",
+  "description": "The Mod Archive",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

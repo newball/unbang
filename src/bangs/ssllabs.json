@@ -1,0 +1,8 @@
+{
+  "bang": "ssllabs",
+  "domain": "https://www.ssllabs.com",
+  "url": "https://www.ssllabs.com/ssltest/analyze.html?d=%s",
+  "description": "ssllabs",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

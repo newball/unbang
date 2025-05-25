@@ -1,0 +1,8 @@
+{
+  "bang": "stcm",
+  "domain": "https://steamcommunity.com",
+  "url": "https://steamcommunity.com/id/%s",
+  "description": "Steam Community",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

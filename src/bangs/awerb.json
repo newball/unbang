@@ -1,0 +1,8 @@
+{
+  "bang": "awerb",
+  "domain": "https://ruby.libhunt.com",
+  "url": "https://ruby.libhunt.com/search?query=%s",
+  "description": "Awesome Ruby",
+  "category": "Tech",
+  "sub-category": "Languages (ruby)"
+}

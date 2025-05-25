@@ -1,0 +1,8 @@
+{
+  "bang": "newscomau",
+  "domain": "https://search.news.com.au",
+  "url": "http://search.news.com.au/search?us=ndmnews&as=NEWS&q=%s",
+  "description": "News.com.au",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

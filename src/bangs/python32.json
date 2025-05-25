@@ -1,0 +1,8 @@
+{
+  "bang": "python32",
+  "domain": "https://docs.python.org",
+  "url": "http://docs.python.org/3.2/search.html?q=%s&check_keywords=yes&area=default",
+  "description": "Python3.2 Docs",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

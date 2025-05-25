@@ -1,0 +1,8 @@
+{
+  "bang": "gtyo",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/yo/%s",
+  "description": "Detect language to Yoruba",
+  "category": "Translation",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gizmodo",
+  "domain": "https://gizmodo.com",
+  "url": "http://gizmodo.com/search?q=%s",
+  "description": "Gizmodo",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

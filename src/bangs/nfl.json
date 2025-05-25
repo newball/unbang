@@ -1,0 +1,8 @@
+{
+  "bang": "nfl",
+  "domain": "https://search.nfl.com",
+  "url": "http://search.nfl.com/search/?query=%s",
+  "description": "NFL.com",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

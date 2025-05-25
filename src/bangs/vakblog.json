@@ -1,0 +1,8 @@
+{
+  "bang": "vakblog",
+  "domain": "https://rsnijders.info",
+  "url": "http://rsnijders.info/vakblog/?s=%s ",
+  "description": "Vakblog",
+  "category": "Research",
+  "sub-category": "Reference"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "psiram",
+  "domain": "https://www.psiram.com",
+  "url": "https://www.psiram.com/de/index.php?title=Spezial%3ASuche&profile=default&search=%s&fulltext=Search",
+  "description": "Psiram",
+  "category": "Research",
+  "sub-category": "Reference"
+}

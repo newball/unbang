@@ -1,0 +1,8 @@
+{
+  "bang": "ebit",
+  "domain": "https://www.ebay.it",
+  "url": "https://www.ebay.it/sch/items/?_nkw=%s",
+  "description": "ebay.it",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

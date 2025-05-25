@@ -1,0 +1,8 @@
+{
+  "bang": "iops",
+  "domain": "https://imgops.com",
+  "url": "http://imgops.com/%s",
+  "description": "Iops",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

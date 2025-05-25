@@ -1,0 +1,8 @@
+{
+  "bang": "webhallen",
+  "domain": "https://www.webhallen.com",
+  "url": "https://www.webhallen.com/se/search?searchString=%s&sort=searchRating",
+  "description": "Webhallen",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

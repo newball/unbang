@@ -1,0 +1,8 @@
+{
+  "bang": "fanfiction",
+  "domain": "https://www.fanfiction.net",
+  "url": "https://www.fanfiction.net/search/?keywords=%s",
+  "description": "Fanfiction",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

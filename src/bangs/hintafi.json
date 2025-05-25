@@ -1,0 +1,8 @@
+{
+  "bang": "hintafi",
+  "domain": "https://hinta.fi",
+  "url": "http://hinta.fi/haku?q=%s",
+  "description": "Hinta.fi",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

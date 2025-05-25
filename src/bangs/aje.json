@@ -1,0 +1,8 @@
+{
+  "bang": "aje",
+  "domain": "https://www.aljazeera.com",
+  "url": "http://www.aljazeera.com/Search/?q=%s",
+  "description": "Al Jazeera (English)",
+  "category": "News",
+  "sub-category": "International"
+}

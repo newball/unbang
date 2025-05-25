@@ -1,0 +1,8 @@
+{
+  "bang": "file",
+  "domain": "https://filehippo.com",
+  "url": "http://filehippo.com/search?q=%s",
+  "description": "FileHippo",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "vag",
+  "domain": "https://db.vanillagaming.org",
+  "url": "http://db.vanillagaming.org/?search=%s",
+  "description": "Vanilla Gaming",
+  "category": "Entertainment",
+  "sub-category": "Games (WOW)"
+}

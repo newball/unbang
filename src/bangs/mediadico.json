@@ -1,0 +1,8 @@
+{
+  "bang": "mediadico",
+  "domain": "https://mediadico.com",
+  "url": "http://mediadico.com/dictionnaire/definition/%s",
+  "description": "Mediadico",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

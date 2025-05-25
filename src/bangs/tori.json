@@ -1,0 +1,8 @@
+{
+  "bang": "tori",
+  "domain": "https://www.tori.fi",
+  "url": "https://www.tori.fi/koko_suomi?q=%s",
+  "description": "Tori",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

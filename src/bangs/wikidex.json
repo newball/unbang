@@ -1,0 +1,8 @@
+{
+  "bang": "wikidex",
+  "domain": "https://www.wikidex.net",
+  "url": "https://www.wikidex.net/index.php?search=%s",
+  "description": "WikiDex",
+  "category": "Entertainment",
+  "sub-category": "Games (Pokemon)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bonnus",
+  "domain": "https://bonnus.ulb.uni-bonn.de",
+  "url": "https://bonnus.ulb.uni-bonn.de/Summon/Search?lookfor=%s&type=AllFields&submit=Suchen",
+  "description": "Bonnus",
+  "category": "Research",
+  "sub-category": "Academic"
+}

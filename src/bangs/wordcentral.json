@@ -1,0 +1,8 @@
+{
+  "bang": "wordcentral",
+  "domain": "https://wordcentral.com",
+  "url": "http://wordcentral.com/cgi-bin/student?book=Student&va=%s",
+  "description": "Merriam-Webster's Word Central",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

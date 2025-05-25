@@ -1,0 +1,8 @@
+{
+  "bang": "coop",
+  "domain": "https://www.coop.se",
+  "url": "https://www.coop.se/handla-online/sok/?q=%s",
+  "description": "Coop",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

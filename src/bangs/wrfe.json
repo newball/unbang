@@ -1,0 +1,8 @@
+{
+  "bang": "wrfe",
+  "domain": "https://www.wordreference.com",
+  "url": "http://www.wordreference.com/fren/%s",
+  "description": "Wordreference fr->en",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

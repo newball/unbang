@@ -1,0 +1,8 @@
+{
+  "bang": "nvenkr",
+  "domain": "https://papago.naver.com",
+  "url": "https://papago.naver.com/?sk=en&tk=ko&hn=0&st=%s",
+  "description": "Naver Papago",
+  "category": "Translation",
+  "sub-category": "General"
+}

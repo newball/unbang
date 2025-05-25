@@ -1,0 +1,8 @@
+{
+  "bang": "sretro",
+  "domain": "https://info.sonicretro.org",
+  "url": "http://info.sonicretro.org/index.php?search=%s",
+  "description": "Sonic Retro",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ibge",
+  "domain": "https://www.ibge.gov.br",
+  "url": "https://www.ibge.gov.br/busca.html?searchword=%s&searchphrase=all",
+  "description": "IBGE",
+  "category": "Research",
+  "sub-category": "Government"
+}

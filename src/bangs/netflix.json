@@ -1,0 +1,8 @@
+{
+  "bang": "netflix",
+  "domain": "https://www.netflix.com",
+  "url": "https://www.netflix.com/search?q=%s",
+  "description": "Netflix",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "cactus",
+  "domain": "https://shop.cactusmart.com",
+  "url": "https://shop.cactusmart.com/search?q=%s",
+  "description": "Cactus Mart",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "meijer",
+  "domain": "https://www.meijer.com",
+  "url": "http://www.meijer.com/catalog/search_command.cmd?keyword=%s&tierId=",
+  "description": "Meijer",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

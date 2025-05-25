@@ -1,0 +1,8 @@
+{
+  "bang": "wwnl",
+  "domain": "https://www.wikiwand.com",
+  "url": "http://www.wikiwand.com/nl/%s",
+  "description": "WikiWand in Dutch",
+  "category": "Research",
+  "sub-category": "Reference"
+}

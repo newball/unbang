@@ -1,0 +1,8 @@
+{
+  "bang": "pathfinderwiki",
+  "domain": "https://pathfinderwiki.com",
+  "url": "https://pathfinderwiki.com/mediawiki/index.php?title=Special%3ASearch&search=%s",
+  "description": "Pathfinder Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (WOW)"
+}

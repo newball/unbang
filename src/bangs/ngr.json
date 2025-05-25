@@ -1,0 +1,8 @@
+{
+  "bang": "ngr",
+  "domain": "https://books.google.com",
+  "url": "https://books.google.com/ngrams/graph?content=%s&year_start=1850&year_end=2009&corpus=15&smoothing=0",
+  "description": "Google ngrams",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

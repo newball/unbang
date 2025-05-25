@@ -1,0 +1,8 @@
+{
+  "bang": "nthp",
+  "domain": "https://history.newtheatre.org.uk",
+  "url": "https://history.newtheatre.org.uk/search/?q=%s",
+  "description": "New Theatre History Project",
+  "category": "News",
+  "sub-category": "Specialty"
+}

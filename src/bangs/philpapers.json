@@ -1,0 +1,8 @@
+{
+  "bang": "philpapers",
+  "domain": "https://philpapers.org",
+  "url": "http://philpapers.org/s/%s",
+  "description": "PhilPapers",
+  "category": "Research",
+  "sub-category": "Academic"
+}

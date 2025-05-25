@@ -1,0 +1,8 @@
+{
+  "bang": "netsrc",
+  "domain": "https://referencesource.microsoft.com",
+  "url": "http://referencesource.microsoft.com/#q=%s",
+  "description": "DotNet Reference Sources",
+  "category": "Tech",
+  "sub-category": "Languages (.net)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "AUD2GDP",
+  "domain": "https://www.xe.com",
+  "url": "http://www.xe.com/currencyconverter/convert/?Amount=%s&From=AUD&To=GBP",
+  "description": "XE (AUD2GBP)",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

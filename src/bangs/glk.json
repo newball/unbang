@@ -1,0 +1,8 @@
+{
+  "bang": "glk",
+  "domain": "https://www.google.lk",
+  "url": "https://www.google.lk/search?q=%s",
+  "description": "Google LK",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

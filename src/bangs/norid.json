@@ -1,0 +1,8 @@
+{
+  "bang": "norid",
+  "domain": "https://www.norid.no",
+  "url": "http://www.norid.no/index.html?charset=UTF-8&page=index&sok=Søk&query=%s",
+  "description": "Norid",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

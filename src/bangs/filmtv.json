@@ -1,0 +1,8 @@
+{
+  "bang": "filmtv",
+  "domain": "https://www.filmtv.it",
+  "url": "http://www.filmtv.it/cerca/?q=%s",
+  "description": "FilmTV.it",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

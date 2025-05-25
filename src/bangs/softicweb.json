@@ -1,0 +1,8 @@
+{
+  "bang": "softicweb",
+  "domain": "https://www.billing.softicweb.com",
+  "url": "https://www.billing.softicweb.com/cart.php?a=add&domain=register&query=%s",
+  "description": "SofticWeb",
+  "category": "Shopping",
+  "sub-category": "Tech (domains)"
+}

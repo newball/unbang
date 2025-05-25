@@ -1,0 +1,8 @@
+{
+  "bang": "muusikoiden",
+  "domain": "https://muusikoiden.net",
+  "url": "https://muusikoiden.net/tori/haku.php?keyword=%s&title_only=0&location=all&province=&city=&type=all&price_min=&price_max=&category=all&with_image=0",
+  "description": "Muusikoiden.net",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

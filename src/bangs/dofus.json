@@ -1,0 +1,8 @@
+{
+  "bang": "dofus",
+  "domain": "https://dofuswiki.wikia.com",
+  "url": "https://dofuswiki.wikia.com/wiki/Special:Search?query=%s",
+  "description": "Dofus Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

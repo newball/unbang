@@ -1,0 +1,8 @@
+{
+  "bang": "impdb",
+  "domain": "https://impdb.org",
+  "url": "http://impdb.org/index.php?search=%s",
+  "description": "Internet Movie Plane Database",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

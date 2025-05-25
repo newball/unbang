@@ -1,0 +1,8 @@
+{
+  "bang": "kcp",
+  "domain": "https://github.com",
+  "url": "https://github.com/KaOS-Community-Packages?query=%s",
+  "description": "KaOS",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

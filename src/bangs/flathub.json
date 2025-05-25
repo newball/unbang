@@ -1,0 +1,8 @@
+{
+  "bang": "flathub",
+  "domain": "https://flathub.org",
+  "url": "https://flathub.org/apps/search/%s",
+  "description": "Flathub",
+  "category": "Tech",
+  "sub-category": "Downloads (apps)"
+}

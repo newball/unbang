@@ -1,0 +1,8 @@
+{
+  "bang": "mygovscot",
+  "domain": "https://www.mygov.scot",
+  "url": "https://www.mygov.scot/search?q=%s&cat=sitesearch",
+  "description": "mygov.scot",
+  "category": "Research",
+  "sub-category": "Government"
+}

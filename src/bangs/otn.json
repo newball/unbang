@@ -1,0 +1,8 @@
+{
+  "bang": "otn",
+  "domain": "https://community.oracle.com",
+  "url": "https://community.oracle.com/search.jspa?q=%s",
+  "description": "Oracle Technology Network",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

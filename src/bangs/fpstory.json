@@ -1,0 +1,8 @@
+{
+  "bang": "fpstory",
+  "domain": "https://www.fictionpress.com",
+  "url": "https://www.fictionpress.com/search/?keywords=%s&ready=1&type=story",
+  "description": "FictionPress (stories)",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

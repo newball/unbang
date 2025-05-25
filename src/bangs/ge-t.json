@@ -1,0 +1,8 @@
+{
+  "bang": "ge-t",
+  "domain": "https://www.ge-tracker.com",
+  "url": "https://www.ge-tracker.com/names/%s",
+  "description": "GE-Trakcer",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

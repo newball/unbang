@@ -1,0 +1,8 @@
+{
+  "bang": "rap",
+  "domain": "https://genius.com",
+  "url": "https://genius.com/search?q=%s",
+  "description": "rapgenius",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

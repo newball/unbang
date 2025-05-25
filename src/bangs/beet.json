@@ -1,0 +1,8 @@
+{
+  "bang": "beet",
+  "domain": "https://beets.readthedocs.io",
+  "url": "https://beets.readthedocs.io/en/latest/search.html?q=%s",
+  "description": "Beets Documentation",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

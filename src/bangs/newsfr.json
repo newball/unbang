@@ -1,0 +1,8 @@
+{
+  "bang": "newsfr",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s&iar=news&ia=news&kl=fr-fr",
+  "description": "DuckDuckGo News France",
+  "category": "News",
+  "sub-category": "International"
+}

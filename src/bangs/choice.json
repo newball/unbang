@@ -1,0 +1,8 @@
+{
+  "bang": "choice",
+  "domain": "https://www.choice.com.au",
+  "url": "https://www.choice.com.au/search?q=%s",
+  "description": "Choice",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

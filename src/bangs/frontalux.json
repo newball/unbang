@@ -1,0 +1,8 @@
+{
+  "bang": "frontalux",
+  "domain": "https://www.lesfrontaliers.lu",
+  "url": "http://www.lesfrontaliers.lu/search?text=%s",
+  "description": "LesFrontaliers",
+  "category": "News",
+  "sub-category": "International"
+}

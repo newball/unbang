@@ -1,0 +1,8 @@
+{
+  "bang": "mydrama",
+  "domain": "https://mydramalist.com",
+  "url": "https://mydramalist.com/search?q=%s",
+  "description": "MyDramaList",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

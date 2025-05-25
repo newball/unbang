@@ -1,0 +1,8 @@
+{
+  "bang": "espt",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#es/pt/%s",
+  "description": "Google Translate Spanish-Portuguese",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

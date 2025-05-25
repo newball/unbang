@@ -1,0 +1,8 @@
+{
+  "bang": "wcm",
+  "domain": "https://whocallsme.com",
+  "url": "http://whocallsme.com/nb/search.aspx?q=%s",
+  "description": "WhoCallsMe",
+  "category": "Research",
+  "sub-category": "Reference"
+}

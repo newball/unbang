@@ -1,0 +1,8 @@
+{
+  "bang": "yav",
+  "domain": "https://yandex.ru",
+  "url": "https://yandex.ru/video/search?text=%s",
+  "description": "Yandex Video",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

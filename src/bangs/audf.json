@@ -1,0 +1,8 @@
+{
+  "bang": "audf",
+  "domain": "https://forum.audacityteam.org",
+  "url": "https://forum.audacityteam.org/search.php?keywords=%s",
+  "description": "Audacity Forum",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

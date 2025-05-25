@@ -1,0 +1,8 @@
+{
+  "bang": "fee",
+  "domain": "https://fee.org",
+  "url": "https://fee.org/search/?q=%s",
+  "description": "Foundation for Economic Education (FEE)",
+  "category": "Research",
+  "sub-category": "Government"
+}

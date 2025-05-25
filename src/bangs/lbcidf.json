@@ -1,0 +1,8 @@
+{
+  "bang": "lbcidf",
+  "domain": "https://www.leboncoin.fr",
+  "url": "https://www.leboncoin.fr/recherche/?text=%s&regions=12",
+  "description": "Le Bon Coin IDF",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

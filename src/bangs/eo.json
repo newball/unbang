@@ -1,0 +1,8 @@
+{
+  "bang": "eo",
+  "domain": "https://www.etymonline.com",
+  "url": "https://www.etymonline.com/search?q=%s",
+  "description": "Online Etymology Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

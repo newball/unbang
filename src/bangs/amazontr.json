@@ -1,0 +1,8 @@
+{
+  "bang": "amazontr",
+  "domain": "https://www.amazon.com.tr",
+  "url": "https://www.amazon.com.tr/s?k=%s",
+  "description": "Amazon.com.tr",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

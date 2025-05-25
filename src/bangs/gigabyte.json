@@ -1,0 +1,8 @@
+{
+  "bang": "gigabyte",
+  "domain": "https://www.gigabyte.com",
+  "url": "https://www.gigabyte.com/Search?kw=%s",
+  "description": "Gigabyte support",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

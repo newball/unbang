@@ -1,0 +1,8 @@
+{
+  "bang": "gadgetsnow",
+  "domain": "https://www.gadgetsnow.com",
+  "url": "https://www.gadgetsnow.com/topic/%s?SEARCH_STRING=%s",
+  "description": "Gadgets Now",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

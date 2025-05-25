@@ -1,0 +1,8 @@
+{
+  "bang": "gcro",
+  "domain": "https://www.google.hr",
+  "url": "https://www.google.hr/#q=%s&*",
+  "description": "Google",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

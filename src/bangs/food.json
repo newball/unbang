@@ -1,0 +1,8 @@
+{
+  "bang": "food",
+  "domain": "https://www.food.com",
+  "url": "http://www.food.com/recipe-finder/all/%s",
+  "description": "Food.com",
+  "category": "Research",
+  "sub-category": "Food"
+}

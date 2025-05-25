@@ -1,0 +1,8 @@
+{
+  "bang": "groene",
+  "domain": "https://groenewaterman.mijnboekhandelaar.com",
+  "url": "http://groenewaterman.mijnboekhandelaar.com/index.php?option=com_mbhbooksearch&Itemid=10008&task=gosearch&query=%s",
+  "description": "http://groenewaterman.mijnboekhandelaar.com/",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

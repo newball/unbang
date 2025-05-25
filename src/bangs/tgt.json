@@ -1,0 +1,8 @@
+{
+  "bang": "tgt",
+  "domain": "https://www.target.com",
+  "url": "https://www.target.com/s?searchTerm=%s",
+  "description": "Target",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

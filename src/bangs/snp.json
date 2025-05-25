@@ -1,0 +1,8 @@
+{
+  "bang": "snp",
+  "domain": "https://www.snopes.com",
+  "url": "http://www.snopes.com/?s=%s",
+  "description": "snopes.com",
+  "category": "News",
+  "sub-category": "Specialty"
+}

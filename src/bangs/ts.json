@@ -1,0 +1,8 @@
+{
+  "bang": "ts",
+  "domain": "https://www.turbosquid.com",
+  "url": "http://www.turbosquid.com/Search/Index.cfm?keyword=%s",
+  "description": "TurboSquid",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

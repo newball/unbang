@@ -1,0 +1,8 @@
+{
+  "bang": "glotesen",
+  "domain": "https://www.interglot.com",
+  "url": "http://www.interglot.com/dictionary/es/en/search?q=%s ",
+  "description": "Interglot ES -> EN",
+  "category": "Research",
+  "sub-category": "Reference"
+}

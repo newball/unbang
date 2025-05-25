@@ -1,0 +1,8 @@
+{
+  "bang": "ptes",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#pt/es/%s",
+  "description": "Google Translate Portuguese-Spanish",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

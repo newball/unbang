@@ -1,0 +1,8 @@
+{
+  "bang": "radio24",
+  "domain": "https://www.radio24.ilsole24ore.com",
+  "url": "https://www.radio24.ilsole24ore.com/ricerca/%s",
+  "description": "Radio24",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

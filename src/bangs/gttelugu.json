@@ -1,0 +1,8 @@
+{
+  "bang": "gttelugu",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/te/%s",
+  "description": "Detect language to Telugu",
+  "category": "Translation",
+  "sub-category": "Google"
+}

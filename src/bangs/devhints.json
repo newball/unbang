@@ -1,0 +1,8 @@
+{
+  "bang": "devhints",
+  "domain": "https://devhints.io",
+  "url": "https://devhints.io/?q=%s",
+  "description": "Dev Hints",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

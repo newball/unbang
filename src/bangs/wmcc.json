@@ -1,0 +1,8 @@
+{
+  "bang": "wmcc",
+  "domain": "https://commons.wikimedia.org",
+  "url": "https://commons.wikimedia.org/w/index.php?search=%s&ns14=1",
+  "description": "Wikimedia Commons Category",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

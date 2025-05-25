@@ -1,0 +1,8 @@
+{
+  "bang": "kvasir",
+  "domain": "https://www.kvasir.no",
+  "url": "http://www.kvasir.no/alle?q=%s",
+  "description": "kvasir",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

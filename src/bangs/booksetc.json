@@ -1,0 +1,8 @@
+{
+  "bang": "booksetc",
+  "domain": "https://www.booksetc.co.uk",
+  "url": "http://www.booksetc.co.uk/books/search?q=%s",
+  "description": "Books etc UK",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

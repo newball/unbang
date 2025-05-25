@@ -1,0 +1,8 @@
+{
+  "bang": "pluggedin",
+  "domain": "https://www.pluggedin.com",
+  "url": "https://www.pluggedin.com/search/?q=%s&i=titles&p=0&l=20&c=%7B%7D",
+  "description": "Plugged In",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

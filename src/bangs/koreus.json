@@ -1,0 +1,8 @@
+{
+  "bang": "koreus",
+  "domain": "https://www.koreus.com",
+  "url": "https://www.koreus.com/search.php?q=%s&sa=Rechercher",
+  "description": "Koreus",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

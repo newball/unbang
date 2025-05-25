@@ -1,0 +1,8 @@
+{
+  "bang": "allexperts",
+  "domain": "https://en.allexperts.com",
+  "url": "http://en.allexperts.com/sitesearch.htm?terms=%s",
+  "description": "All Experts",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

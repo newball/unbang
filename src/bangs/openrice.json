@@ -1,0 +1,8 @@
+{
+  "bang": "openrice",
+  "domain": "https://www.openrice.com",
+  "url": "http://www.openrice.com/zh/hongkong/restaurant/sr1.htm?tc=sr1quick&s=1&region=0&inputstrwhat=%s&inputstrwhere=",
+  "description": "OpenRice",
+  "category": "Research",
+  "sub-category": "Food"
+}

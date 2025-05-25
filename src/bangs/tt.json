@@ -1,0 +1,8 @@
+{
+  "bang": "tt",
+  "domain": "https://www.texastribune.org",
+  "url": "https://www.texastribune.org/search/?q=%s",
+  "description": "Texas Tribune",
+  "category": "News",
+  "sub-category": "Online"
+}

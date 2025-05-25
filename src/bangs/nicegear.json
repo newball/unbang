@@ -1,0 +1,8 @@
+{
+  "bang": "nicegear",
+  "domain": "https://nicegear.co.nz",
+  "url": "http://nicegear.co.nz/search/?q=%s",
+  "description": "nicegear",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

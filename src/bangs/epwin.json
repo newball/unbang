@@ -1,0 +1,8 @@
+{
+  "bang": "epwin",
+  "domain": "https://www.epw.in",
+  "url": "http://www.epw.in/search/site/%s",
+  "description": "Economic Political Weekly",
+  "category": "News",
+  "sub-category": "Magazine"
+}

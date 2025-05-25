@@ -1,0 +1,8 @@
+{
+  "bang": "sbo",
+  "domain": "https://slackbuilds.org",
+  "url": "http://slackbuilds.org/result/?search=%s",
+  "description": "SlackBuilds.org",
+  "category": "Tech",
+  "sub-category": "Sysadmin (packages)"
+}

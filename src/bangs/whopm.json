@@ -1,0 +1,8 @@
+{
+  "bang": "whopm",
+  "domain": "https://who.pm",
+  "url": "https://who.pm/%s",
+  "description": "who.pm",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

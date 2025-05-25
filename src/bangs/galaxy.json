@@ -1,0 +1,8 @@
+{
+  "bang": "galaxy",
+  "domain": "https://galaxy.ansible.com",
+  "url": "https://galaxy.ansible.com/search?keywords=%s",
+  "description": "Ansible Galaxy",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "tvp",
+  "domain": "https://www.tvp.pl",
+  "url": "https://www.tvp.pl/szukaj?query=%s",
+  "description": "TVP",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

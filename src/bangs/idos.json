@@ -1,0 +1,8 @@
+{
+  "bang": "idos",
+  "domain": "https://jizdnirady.idnes.cz",
+  "url": "https://jizdnirady.idnes.cz/vlakyautobusymhdvse/spojeni/?f=%s&t=%s",
+  "description": "Idos",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

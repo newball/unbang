@@ -1,0 +1,8 @@
+{
+  "bang": "mtmod",
+  "domain": "https://content.minetest.net",
+  "url": "https://content.minetest.net/packages/?q=%s",
+  "description": "Minetest ContentDB",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

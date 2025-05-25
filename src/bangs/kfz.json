@@ -1,0 +1,8 @@
+{
+  "bang": "kfz",
+  "domain": "https://www.kfz-info.net",
+  "url": "http://www.kfz-info.net/%s-kfz-kennzeichen/",
+  "description": "Kfz-Kennzeichen",
+  "category": "Research",
+  "sub-category": "Travel"
+}

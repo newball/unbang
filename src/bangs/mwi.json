@@ -1,0 +1,8 @@
+{
+  "bang": "mwi",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s+site%3Amusicweb-international.com",
+  "description": "MusicWeb International",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

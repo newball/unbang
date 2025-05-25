@@ -1,0 +1,8 @@
+{
+  "bang": "maxspar",
+  "domain": "https://www.maxspar.de",
+  "url": "https://www.maxspar.de/s/%s",
+  "description": "MaxSpar",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

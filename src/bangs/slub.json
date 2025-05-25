@@ -1,0 +1,8 @@
+{
+  "bang": "slub",
+  "domain": "https://katalogbeta.slub-dresden.de",
+  "url": "http://katalogbeta.slub-dresden.de/?tx_find_find[q][default]=%s ",
+  "description": "SLUB Katalog",
+  "category": "Research",
+  "sub-category": "Academic"
+}

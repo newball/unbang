@@ -1,0 +1,8 @@
+{
+  "bang": "getabstract",
+  "domain": "https://www.getabstract.com",
+  "url": "https://www.getabstract.com/en/search?initial=true&query=%s",
+  "description": "getAbstract",
+  "category": "Research",
+  "sub-category": "Topical"
+}

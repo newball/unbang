@@ -1,0 +1,8 @@
+{
+  "bang": "ttbooks",
+  "domain": "https://books.google.com",
+  "url": "https://books.google.com/talktobooks/query?q=%s",
+  "description": "talk to books",
+  "category": "Research",
+  "sub-category": "Learning"
+}

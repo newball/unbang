@@ -1,0 +1,8 @@
+{
+  "bang": "osta",
+  "domain": "https://www.osta.ee",
+  "url": "http://www.osta.ee/index.php?q[q]=%s&fuseaction=search.search&q[show_items]=1&q[show_shop]=1&q[cat]=1000&search=OTSI",
+  "description": "osta.ee",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

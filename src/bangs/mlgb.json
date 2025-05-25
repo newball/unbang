@@ -1,0 +1,8 @@
+{
+  "bang": "mlgb",
+  "domain": "https://mlgb3.bodleian.ox.ac.uk",
+  "url": "http://mlgb3.bodleian.ox.ac.uk/mlgb/?search_term=%s",
+  "description": "Medieval Libraries of Great Britain",
+  "category": "Research",
+  "sub-category": "Academic"
+}

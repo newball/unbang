@@ -1,0 +1,8 @@
+{
+  "bang": "vijesti",
+  "domain": "https://www.vijesti.me",
+  "url": "http://www.vijesti.me/trazi/?q=%s",
+  "description": "Vijesti Online",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

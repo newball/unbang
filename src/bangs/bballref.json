@@ -1,0 +1,8 @@
+{
+  "bang": "bballref",
+  "domain": "https://www.basketball-reference.com",
+  "url": "https://www.basketball-reference.com/search/search.fcgi?hint=&search=%s&pid=&idx= ",
+  "description": "Basketball Reference",
+  "category": "Research",
+  "sub-category": "Reference"
+}

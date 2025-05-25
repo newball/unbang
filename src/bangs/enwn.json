@@ -1,0 +1,8 @@
+{
+  "bang": "enwn",
+  "domain": "https://en.wikinews.org",
+  "url": "https://en.wikinews.org/w/index.php?search=%s",
+  "description": "English WIkinews",
+  "category": "News",
+  "sub-category": "International"
+}

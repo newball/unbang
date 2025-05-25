@@ -1,0 +1,8 @@
+{
+  "bang": "playterm",
+  "domain": "https://www.playterm.org",
+  "url": "http://www.playterm.org/s/?tags=%s",
+  "description": "PlayTerm",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ebd",
+  "domain": "https://www.eatbydate.com",
+  "url": "http://www.eatbydate.com/search/?q=%s",
+  "description": "Eat By Date",
+  "category": "Research",
+  "sub-category": "Food"
+}

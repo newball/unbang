@@ -1,0 +1,8 @@
+{
+  "bang": "ubiquiti",
+  "domain": "https://community.ubnt.com",
+  "url": "https://community.ubnt.com/t5/forums/searchpage/tab/message?q=%s",
+  "description": "Ubiquiti Forums",
+  "category": "Tech",
+  "sub-category": "Sysadmin (network)"
+}

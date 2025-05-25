@@ -1,0 +1,8 @@
+{
+  "bang": "ebayuk",
+  "domain": "https://www.ebay.co.uk",
+  "url": "https://www.ebay.co.uk/sch/items/?_nkw=%s",
+  "description": "ebay.co.uk",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

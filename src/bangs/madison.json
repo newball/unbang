@@ -1,0 +1,8 @@
+{
+  "bang": "madison",
+  "domain": "https://host.madison.com",
+  "url": "http://host.madison.com/search/?l=25&sd=desc&s=start_time&f=html&t=article%2Cvideo%2Cyoutube%2Ccollection&app=editorial&q=%s&nsa=eedition",
+  "description": "Madison.com",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

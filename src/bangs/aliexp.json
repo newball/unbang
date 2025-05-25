@@ -1,0 +1,8 @@
+{
+  "bang": "aliexp",
+  "domain": "https://www.aliexpress.com",
+  "url": "http://www.aliexpress.com/wholesale?SearchText=%s",
+  "description": "Aliexpress",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

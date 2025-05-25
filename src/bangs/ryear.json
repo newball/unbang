@@ -1,0 +1,8 @@
+{
+  "bang": "ryear",
+  "domain": "https://www.reddit.com",
+  "url": "http://www.reddit.com/search?q=%s&t=year",
+  "description": "Reddit (past year (and more))",
+  "category": "Online Services",
+  "sub-category": "Social news/links"
+}

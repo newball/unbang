@@ -1,0 +1,8 @@
+{
+  "bang": "wrcfr",
+  "domain": "https://www.wordreference.com",
+  "url": "http://www.wordreference.com/conj/FrVerbs.aspx?v=%s",
+  "description": "Word Reference French Conjugate",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "uembb",
+  "domain": "https://uem.blackboard.com",
+  "url": "https://uem.blackboard.com/%s",
+  "description": "Blackboard UEM",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

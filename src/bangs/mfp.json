@@ -1,0 +1,8 @@
+{
+  "bang": "mfp",
+  "domain": "https://www.myfitnesspal.com",
+  "url": "http://www.myfitnesspal.com/food/search?search=%s",
+  "description": "My Fitness Pal",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

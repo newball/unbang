@@ -1,0 +1,8 @@
+{
+  "bang": "slackdoc",
+  "domain": "https://docs.slackware.com",
+  "url": "http://docs.slackware.com/start?do=search&id=%s&fulltext=Search",
+  "description": "Slackware Documentation Project",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

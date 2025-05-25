@@ -1,0 +1,8 @@
+{
+  "bang": "viden",
+  "domain": "https://videnskab.dk",
+  "url": "https://videnskab.dk/s?query=%s",
+  "description": "https://videnskab.dk/",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

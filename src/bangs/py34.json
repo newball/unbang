@@ -1,0 +1,8 @@
+{
+  "bang": "py34",
+  "domain": "https://docs.python.org",
+  "url": "https://docs.python.org/3.4/search.html?q=%s",
+  "description": "Python Documentation",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

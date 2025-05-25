@@ -1,0 +1,8 @@
+{
+  "bang": "ridi",
+  "domain": "https://ridibooks.com",
+  "url": "https://ridibooks.com/search/?q=%s",
+  "description": "Ridibooks",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

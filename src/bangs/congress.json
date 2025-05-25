@@ -1,0 +1,8 @@
+{
+  "bang": "congress",
+  "domain": "https://www.congress.gov",
+  "url": "https://www.congress.gov/search?q={%22source%22%3A%22legislation%22%2C%22search%22%3A%22%s%22}",
+  "description": "Congress",
+  "category": "Research",
+  "sub-category": "Government"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "xamarinforums",
+  "domain": "https://forums.xamarin.com",
+  "url": "http://forums.xamarin.com/search?Search=%s",
+  "description": "Xamarin Forums",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

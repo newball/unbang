@@ -1,0 +1,8 @@
+{
+  "bang": "abebooksde",
+  "domain": "https://www.abebooks.de",
+  "url": "http://www.abebooks.de/servlet/SearchResults?kn=%s&sts=t&x=0&y=0",
+  "description": "AbeBooks.de",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

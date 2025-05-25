@@ -1,0 +1,8 @@
+{
+  "bang": "twitchc",
+  "domain": "https://twitch.tv",
+  "url": "https://twitch.tv/%s",
+  "description": "Twitch Channel",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

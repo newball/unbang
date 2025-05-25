@@ -1,0 +1,8 @@
+{
+  "bang": "tripsit",
+  "domain": "https://wiki.tripsit.me",
+  "url": "https://wiki.tripsit.me/index.php?search=%s",
+  "description": "TripSit",
+  "category": "Research",
+  "sub-category": "Health"
+}

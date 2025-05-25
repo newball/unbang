@@ -1,0 +1,8 @@
+{
+  "bang": "wowhr",
+  "domain": "https://ru.wowhead.com",
+  "url": "http://ru.wowhead.com/search?q=%s",
+  "description": "Wowhead Russian",
+  "category": "Entertainment",
+  "sub-category": "Games (WOW)"
+}

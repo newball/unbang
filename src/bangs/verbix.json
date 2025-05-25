@@ -1,0 +1,8 @@
+{
+  "bang": "verbix",
+  "domain": "https://verbix.com",
+  "url": "http://verbix.com/find-verb/?verb=%s",
+  "description": "Verbix",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

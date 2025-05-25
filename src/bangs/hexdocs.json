@@ -1,0 +1,8 @@
+{
+  "bang": "hexdocs",
+  "domain": "https://hexdocs.pm",
+  "url": "http://hexdocs.pm/%s",
+  "description": "Hex Docs",
+  "category": "Tech",
+  "sub-category": "Languages (erlang)"
+}

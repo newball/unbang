@@ -1,0 +1,8 @@
+{
+  "bang": "lq",
+  "domain": "https://forum.linuxquimper.org",
+  "url": "https://forum.linuxquimper.org/search?q=%s",
+  "description": "Linux Quimper",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

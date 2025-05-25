@@ -1,0 +1,8 @@
+{
+  "bang": "filmart",
+  "domain": "https://filmartgallery.com",
+  "url": "https://filmartgallery.com/pages/search-results?q=%s",
+  "description": "FilmArt Gallery",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

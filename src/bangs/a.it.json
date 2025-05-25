@@ -1,0 +1,8 @@
+{
+  "bang": "a.it",
+  "domain": "https://www.amazon.it",
+  "url": "https://www.amazon.it/s?k=%s",
+  "description": "Amazon IT",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

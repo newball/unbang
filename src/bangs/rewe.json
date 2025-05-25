@@ -1,0 +1,8 @@
+{
+  "bang": "rewe",
+  "domain": "https://www.rewe.de",
+  "url": "https://www.rewe.de/suche/?search=%s",
+  "description": "REWE Lieferservice",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

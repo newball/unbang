@@ -1,0 +1,8 @@
+{
+  "bang": "freenode",
+  "domain": "https://webchat.freenode.net",
+  "url": "http://webchat.freenode.net/?channels=%s",
+  "description": "Freenode",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

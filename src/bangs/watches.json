@@ -1,0 +1,8 @@
+{
+  "bang": "watches",
+  "domain": "https://myrwatches.com",
+  "url": "https://myrwatches.com/?s=%s &post_type=product",
+  "description": "MyrWatches",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

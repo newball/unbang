@@ -1,0 +1,8 @@
+{
+  "bang": "maps",
+  "domain": "https://google.com",
+  "url": "https://google.com/maps?q=%s",
+  "description": "Google Maps",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

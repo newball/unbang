@@ -1,0 +1,8 @@
+{
+  "bang": "gdef",
+  "domain": "https://www.google.com",
+  "url": "https://www.google.com/search?hl=en&q=define+%s",
+  "description": "Google define",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

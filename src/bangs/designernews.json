@@ -1,0 +1,8 @@
+{
+  "bang": "designernews",
+  "domain": "https://www.designernews.co",
+  "url": "https://www.designernews.co/search?q=%s",
+  "description": "Designer News",
+  "category": "News",
+  "sub-category": "Specialty"
+}

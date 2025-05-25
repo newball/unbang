@@ -1,0 +1,8 @@
+{
+  "bang": "unomaha",
+  "domain": "https://www.unomaha.edu",
+  "url": "https://www.unomaha.edu/search/?q=%s",
+  "description": "unomaha",
+  "category": "Research",
+  "sub-category": "Academic"
+}

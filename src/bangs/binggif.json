@@ -1,0 +1,8 @@
+{
+  "bang": "binggif",
+  "domain": "https://www.bing.com",
+  "url": "http://www.bing.com/images/search?&q=%s&qft=+filterui:photo-animatedgif&FORM=R5IR25",
+  "description": "Bing Animated Images (GiFs)",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bgp",
+  "domain": "https://bgp.he.net",
+  "url": "http://bgp.he.net/search?search%5Bsearch%5D=%s&commit=Search",
+  "description": "Hurricane Electrics Internet Services",
+  "category": "Tech",
+  "sub-category": "Sysadmin (network)"
+}

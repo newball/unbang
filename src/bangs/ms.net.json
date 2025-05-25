@@ -1,0 +1,8 @@
+{
+  "bang": "ms.net",
+  "domain": "https://docs.microsoft.com",
+  "url": "https://docs.microsoft.com/en-us/dotnet/api/?view=netframework-4.7&term=%s",
+  "description": "Microsoft .Net API",
+  "category": "Tech",
+  "sub-category": "Languages (.net)"
+}

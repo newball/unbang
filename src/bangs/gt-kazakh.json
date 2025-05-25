@@ -1,0 +1,8 @@
+{
+  "bang": "gt-kazakh",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/kk/%s",
+  "description": "Detect language to Kazakh",
+  "category": "Translation",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "brl2usd",
+  "domain": "https://www.xe.com",
+  "url": "https://www.xe.com/currencyconverter/convert/?Amount=%s&From=BRL&To=USD",
+  "description": "XE",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

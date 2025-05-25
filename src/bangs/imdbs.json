@@ -1,0 +1,8 @@
+{
+  "bang": "imdbs",
+  "domain": "https://imdb.com",
+  "url": "http://imdb.com/showtimes/US/%s",
+  "description": "IMDB Showtimes",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

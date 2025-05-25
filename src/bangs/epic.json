@@ -1,0 +1,8 @@
+{
+  "bang": "epic",
+  "domain": "https://www.epicgames.com",
+  "url": "https://www.epicgames.com/bing-search?keyword=%s",
+  "description": "Epic Games",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

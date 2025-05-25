@@ -1,0 +1,8 @@
+{
+  "bang": "derstandard",
+  "domain": "https://www.derstandard.at",
+  "url": "https://www.derstandard.at/search?query=%s",
+  "description": "derStandard.at",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

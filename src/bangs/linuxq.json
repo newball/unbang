@@ -1,0 +1,8 @@
+{
+  "bang": "linuxq",
+  "domain": "https://www.linuxquestions.org",
+  "url": "http://www.linuxquestions.org/questions/%s",
+  "description": "linuxquestions",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

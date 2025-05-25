@@ -1,0 +1,8 @@
+{
+  "bang": "openfont",
+  "domain": "https://openfontlibrary.org",
+  "url": "http://openfontlibrary.org/en/search?query=%s",
+  "description": "Open Font Library",
+  "category": "Tech",
+  "sub-category": "Design"
+}

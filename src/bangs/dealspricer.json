@@ -1,0 +1,8 @@
+{
+  "bang": "dealspricer",
+  "domain": "https://www.dealspricer.com",
+  "url": "http://www.dealspricer.com/search?q=%s&utm_source=ddgbang&utm_medium=organic",
+  "description": "DealsPricer",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

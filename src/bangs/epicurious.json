@@ -1,0 +1,8 @@
+{
+  "bang": "epicurious",
+  "domain": "https://www.epicurious.com",
+  "url": "http://www.epicurious.com/tools/searchresults?search=%s&x=0&y=0",
+  "description": "Epicurious",
+  "category": "Research",
+  "sub-category": "Food"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "uniprot",
+  "domain": "https://www.uniprot.org",
+  "url": "http://www.uniprot.org/uniprot/?query=%s",
+  "description": "UniprotKB",
+  "category": "Research",
+  "sub-category": "Academic"
+}

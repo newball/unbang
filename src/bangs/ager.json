@@ -1,0 +1,8 @@
+{
+  "bang": "ager",
+  "domain": "https://www.amazon.de",
+  "url": "https://www.amazon.de/s?k=%s",
+  "description": "Amazon Germany",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

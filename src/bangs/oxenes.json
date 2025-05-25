@@ -1,0 +1,8 @@
+{
+  "bang": "oxenes",
+  "domain": "https://es.oxforddictionaries.com",
+  "url": "https://es.oxforddictionaries.com/translate/english-spanish/%s",
+  "description": "Oxford English to Spanish",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

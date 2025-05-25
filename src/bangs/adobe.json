@@ -1,0 +1,8 @@
+{
+  "bang": "adobe",
+  "domain": "https://www.adobe.com",
+  "url": "http://www.adobe.com/cfusion/search/index.cfm?loc=en_us&term=%s",
+  "description": "Adobe",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

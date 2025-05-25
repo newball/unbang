@@ -1,0 +1,8 @@
+{
+  "bang": "w3v",
+  "domain": "https://validator.w3.org",
+  "url": "https://validator.w3.org/nu/?doc=%s",
+  "description": "W3C Validator",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

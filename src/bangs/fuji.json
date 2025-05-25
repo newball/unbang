@@ -1,0 +1,8 @@
+{
+  "bang": "fuji",
+  "domain": "https://www.fujitv.co.jp",
+  "url": "https://www.fujitv.co.jp/search/index.html?keyword=%s",
+  "description": "Fuji TV",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

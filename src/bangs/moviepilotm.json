@@ -1,0 +1,8 @@
+{
+  "bang": "moviepilotm",
+  "domain": "https://m.moviepilot.de",
+  "url": "http://m.moviepilot.de/suche?utf8=✓&q=%s",
+  "description": "Moviepilot Mobile",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "tostar",
+  "domain": "https://www.thestar.com",
+  "url": "http://www.thestar.com/search.html?q=%s",
+  "description": "Toronto Star",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

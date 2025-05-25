@@ -1,0 +1,8 @@
+{
+  "bang": "dogechain",
+  "domain": "https://dogechain.info",
+  "url": "http://dogechain.info/address/%s",
+  "description": "DogeChain",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

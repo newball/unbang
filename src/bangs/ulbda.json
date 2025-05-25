@@ -1,0 +1,8 @@
+{
+  "bang": "ulbda",
+  "domain": "https://hds.hebis.de",
+  "url": "https://hds.hebis.de/ulbda/Search/Results?lookfor= %s&service=catalog",
+  "description": "ULB TU Darmstadt",
+  "category": "Research",
+  "sub-category": "Local"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "globeandmail",
+  "domain": "https://www.theglobeandmail.com",
+  "url": "https://www.theglobeandmail.com/search/?q=%s&mode=all",
+  "description": "The Globe and Mail",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "sephora",
+  "domain": "https://www.sephora.com",
+  "url": "https://www.sephora.com/search?keyword=%s",
+  "description": "Sephora",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

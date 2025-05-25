@@ -1,0 +1,8 @@
+{
+  "bang": "ocat",
+  "domain": "https://www.overclockers.at",
+  "url": "https://www.overclockers.at/search.php?action=simplesearch&query=%s",
+  "description": "o.v.e.r.clockers.at",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

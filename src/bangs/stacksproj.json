@@ -1,0 +1,8 @@
+{
+  "bang": "stacksproj",
+  "domain": "https://stacks.math.columbia.edu",
+  "url": "https://stacks.math.columbia.edu/search?query=%s",
+  "description": "The Stacks project",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

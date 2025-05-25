@@ -1,0 +1,8 @@
+{
+  "bang": "rcfe",
+  "domain": "https://context.reverso.net",
+  "url": "http://context.reverso.net/translation/french-english/%s",
+  "description": "Reverso Context French-English",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

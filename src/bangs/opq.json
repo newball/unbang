@@ -1,0 +1,8 @@
+{
+  "bang": "opq",
+  "domain": "https://checklists.opquast.com",
+  "url": "http://checklists.opquast.com/fr/opquastv2?q=%s ",
+  "description": "Opquast Checklists",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

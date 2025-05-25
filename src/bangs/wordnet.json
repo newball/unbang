@@ -1,0 +1,8 @@
+{
+  "bang": "wordnet",
+  "domain": "https://wordnetweb.princeton.edu",
+  "url": "http://wordnetweb.princeton.edu/perl/webwn?s=%s&sub=Search+WordNet&o2=&o0=1&o7=&o5=&o1=1&o6=&o4=&o3=&h=",
+  "description": "WordNet",
+  "category": "Tech",
+  "sub-category": "Tools"
+}

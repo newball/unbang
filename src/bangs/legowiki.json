@@ -1,0 +1,8 @@
+{
+  "bang": "legowiki",
+  "domain": "https://lego.fandom.com",
+  "url": "https://lego.fandom.com/search?query=%s",
+  "description": "Brickipedia",
+  "category": "Research",
+  "sub-category": "Topical"
+}

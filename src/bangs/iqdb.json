@@ -1,0 +1,8 @@
+{
+  "bang": "iqdb",
+  "domain": "https://iqdb.org",
+  "url": "http://iqdb.org/?url=%s",
+  "description": "iqdb",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

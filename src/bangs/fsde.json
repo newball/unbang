@@ -1,0 +1,8 @@
+{
+  "bang": "fsde",
+  "domain": "https://www.fernsehserien.de",
+  "url": "http://www.fernsehserien.de/suche/%s",
+  "description": "fernsehserien.de",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

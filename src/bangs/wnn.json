@@ -1,0 +1,8 @@
+{
+  "bang": "wnn",
+  "domain": "https://nn.wikipedia.org",
+  "url": "https://nn.wikipedia.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikipedia Nynorsk",
+  "category": "Research",
+  "sub-category": "Academic"
+}

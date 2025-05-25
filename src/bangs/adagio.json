@@ -1,0 +1,8 @@
+{
+  "bang": "adagio",
+  "domain": "https://www.adagio.com",
+  "url": "http://www.adagio.com/search/index.html?query=%s",
+  "description": "Adagio Teas",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

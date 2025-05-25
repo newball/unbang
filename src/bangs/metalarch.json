@@ -1,0 +1,8 @@
+{
+  "bang": "metalarch",
+  "domain": "https://www.metal-archives.com",
+  "url": "http://www.metal-archives.com/search?searchString=%s&type=band_name",
+  "description": "Metal Archives",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "revesen",
+  "domain": "https://context.reverso.net",
+  "url": "http://context.reverso.net/translation/spanish-english/%s ",
+  "description": "Reverso context",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

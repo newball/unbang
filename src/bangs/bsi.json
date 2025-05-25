@@ -1,0 +1,8 @@
+{
+  "bang": "bsi",
+  "domain": "https://www.businessinsider.com",
+  "url": "http://www.businessinsider.com/s?q=%s",
+  "description": "Business Insider",
+  "category": "News",
+  "sub-category": "Business"
+}

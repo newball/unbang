@@ -1,0 +1,8 @@
+{
+  "bang": "47",
+  "domain": "https://www.47news.jp",
+  "url": "https://www.47news.jp/search?phrase=%s",
+  "description": "47 News",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

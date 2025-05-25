@@ -1,0 +1,8 @@
+{
+  "bang": "wlw",
+  "domain": "https://www.wlw.de",
+  "url": "https://www.wlw.de/search?suchbegriff=%s",
+  "description": "Wer liefert was",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

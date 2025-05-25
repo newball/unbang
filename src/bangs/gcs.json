@@ -1,0 +1,8 @@
+{
+  "bang": "gcs",
+  "domain": "https://cloudsearch.google.com",
+  "url": "https://cloudsearch.google.com/cloudsearch/search?q=%s",
+  "description": "Google Cloud Search",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

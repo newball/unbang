@@ -1,0 +1,8 @@
+{
+  "bang": "brainpopeducators",
+  "domain": "https://educators.brainpop.com",
+  "url": "http://educators.brainpop.com/search/?q=%s",
+  "description": "BrainPOP Educators",
+  "category": "Research",
+  "sub-category": "Academic"
+}

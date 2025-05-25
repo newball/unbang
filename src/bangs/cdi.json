@@ -1,0 +1,8 @@
+{
+  "bang": "cdi",
+  "domain": "https://www.dictionary.com",
+  "url": "https://www.dictionary.com/browse/%s",
+  "description": "collinsdictionary",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

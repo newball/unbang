@@ -1,0 +1,8 @@
+{
+  "bang": "yti",
+  "domain": "https://in.youtube.com",
+  "url": "https://in.youtube.com/results?search_query=%s",
+  "description": "YouTube India",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

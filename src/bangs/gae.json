@@ -1,0 +1,8 @@
+{
+  "bang": "gae",
+  "domain": "https://www.google.ae",
+  "url": "http://www.google.ae/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google AE",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

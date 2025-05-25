@@ -1,0 +1,8 @@
+{
+  "bang": "ldss",
+  "domain": "https://www.lds.org",
+  "url": "https://www.lds.org/scriptures/search?lang=eng&query=%s",
+  "description": "LDS Scriptures",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

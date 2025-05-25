@@ -1,0 +1,8 @@
+{
+  "bang": "steammarket",
+  "domain": "https://steamcommunity.com",
+  "url": "http://steamcommunity.com/market/search?q=%s",
+  "description": "Steam Community Market",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

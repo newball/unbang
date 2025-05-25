@@ -1,0 +1,8 @@
+{
+  "bang": "bcwiki",
+  "domain": "https://en.bitcoin.it",
+  "url": "https://en.bitcoin.it/w/index.php?title=Special%3ASearch&search=%s",
+  "description": "Bitcoin Wiki",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

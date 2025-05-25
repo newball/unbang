@@ -1,0 +1,8 @@
+{
+  "bang": "sounddogs",
+  "domain": "https://www.sounddogs.com",
+  "url": "https://www.sounddogs.com/search?keywords=%s",
+  "description": "Sounddogs",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

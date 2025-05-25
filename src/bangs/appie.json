@@ -1,0 +1,8 @@
+{
+  "bang": "appie",
+  "domain": "https://www.ah.nl",
+  "url": "https://www.ah.nl/zoeken?rq=%s",
+  "description": "Albert Heijn",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

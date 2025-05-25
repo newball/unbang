@@ -1,0 +1,8 @@
+{
+  "bang": "soundtrackinfo",
+  "domain": "https://www.soundtrackinfo.com",
+  "url": "http://www.soundtrackinfo.com/search/%s/",
+  "description": "Soundtrack info project",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

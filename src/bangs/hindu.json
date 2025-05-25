@@ -1,0 +1,8 @@
+{
+  "bang": "hindu",
+  "domain": "https://www.thehindu.com",
+  "url": "http://www.thehindu.com/search/?q=%s",
+  "description": "The Hindu",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "devtube",
+  "domain": "https://dev.tube",
+  "url": "http://dev.tube?q=%s",
+  "description": "DevTube",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

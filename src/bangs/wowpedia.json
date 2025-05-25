@@ -1,0 +1,8 @@
+{
+  "bang": "wowpedia",
+  "domain": "https://www.wowpedia.org",
+  "url": "http://www.wowpedia.org/index.php?title=Special:Search&search=%s",
+  "description": "Wowpedia",
+  "category": "Entertainment",
+  "sub-category": "Games (WOW)"
+}

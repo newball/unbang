@@ -1,0 +1,8 @@
+{
+  "bang": "keldan",
+  "domain": "https://leit.keldan.is",
+  "url": "https://leit.keldan.is/Home/Search?term=%s",
+  "description": "Keldan",
+  "category": "News",
+  "sub-category": "Business"
+}

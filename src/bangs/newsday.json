@@ -1,0 +1,8 @@
+{
+  "bang": "newsday",
+  "domain": "https://www.newsday.com",
+  "url": "http://www.newsday.com/7.25434?q=%s",
+  "description": "NewsDay.com",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

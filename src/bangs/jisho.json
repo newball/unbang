@@ -1,0 +1,8 @@
+{
+  "bang": "jisho",
+  "domain": "https://jisho.org",
+  "url": "http://jisho.org/search/%s",
+  "description": "Jisho",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

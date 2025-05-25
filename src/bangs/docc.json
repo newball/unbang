@@ -1,0 +1,8 @@
+{
+  "bang": "docc",
+  "domain": "https://m.flexikon.doccheck.com",
+  "url": "http://m.flexikon.doccheck.com/en/search/?q=%s",
+  "description": "DocCheck",
+  "category": "Research",
+  "sub-category": "Health"
+}

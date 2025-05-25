@@ -1,0 +1,8 @@
+{
+  "bang": "gfork",
+  "domain": "https://greasyfork.org",
+  "url": "https://greasyfork.org/en/scripts?q=%s",
+  "description": "Greasy Fork",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

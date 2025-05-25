@@ -1,0 +1,8 @@
+{
+  "bang": "kojipkg",
+  "domain": "https://koji.fedoraproject.org",
+  "url": "http://koji.fedoraproject.org/koji/search?match=glob&type=package&terms=%s",
+  "description": "Fedora Koji",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Fedora)"
+}

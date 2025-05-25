@@ -1,0 +1,8 @@
+{
+  "bang": "fpo",
+  "domain": "https://www.freepatentsonline.com",
+  "url": "http://www.freepatentsonline.com/result.html?sort=relevance&srch=top&query_txt=%s&submit=&patents=on",
+  "description": "freepatentsonline",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "fortinet",
+  "domain": "https://www.fortinet.com",
+  "url": "https://www.fortinet.com/search.html?q=%s",
+  "description": "Fortinet",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "cspen",
+  "domain": "https://www.collinsdictionary.com",
+  "url": "https://www.collinsdictionary.com/dictionary/spanish-english/%s",
+  "description": "Collins Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

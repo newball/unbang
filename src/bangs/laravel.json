@@ -1,0 +1,8 @@
+{
+  "bang": "laravel",
+  "domain": "https://laravel.com",
+  "url": "https://laravel.com/docs/%s",
+  "description": "Laravel",
+  "category": "Tech",
+  "sub-category": "Languages (php)"
+}

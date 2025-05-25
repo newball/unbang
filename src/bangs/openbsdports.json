@@ -1,0 +1,8 @@
+{
+  "bang": "openbsdports",
+  "domain": "https://marc.info",
+  "url": "https://marc.info/?l=openbsd-ports&w=2&r=1&s=%s&q=b",
+  "description": "marc.info",
+  "category": "Tech",
+  "sub-category": "Sysadmin (packages)"
+}

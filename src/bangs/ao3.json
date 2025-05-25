@@ -1,0 +1,8 @@
+{
+  "bang": "ao3",
+  "domain": "https://archiveofourown.org",
+  "url": "https://archiveofourown.org/works/search?utf8=%E2%9C%93&work_search%5Bquery%5D=%s",
+  "description": "Archive of our Own",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

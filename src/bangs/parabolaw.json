@@ -1,0 +1,8 @@
+{
+  "bang": "parabolaw",
+  "domain": "https://wiki.parabola.nu",
+  "url": "https://wiki.parabola.nu/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "Parabola Wiki",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

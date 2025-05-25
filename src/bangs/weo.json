@@ -1,0 +1,8 @@
+{
+  "bang": "weo",
+  "domain": "https://eo.wikipedia.org",
+  "url": "http://eo.wikipedia.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikipedia (EO)",
+  "category": "Research",
+  "sub-category": "Academic"
+}

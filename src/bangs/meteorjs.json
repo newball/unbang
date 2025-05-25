@@ -1,0 +1,8 @@
+{
+  "bang": "meteorjs",
+  "domain": "https://docs.meteor.com",
+  "url": "http://docs.meteor.com/#/full/%s",
+  "description": "Meteor Docs",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

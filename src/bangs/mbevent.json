@@ -1,0 +1,8 @@
+{
+  "bang": "mbevent",
+  "domain": "https://musicbrainz.org",
+  "url": "https://musicbrainz.org/search?query=%s&type=event",
+  "description": "MusicBrainz events",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

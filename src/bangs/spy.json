@@ -1,0 +1,8 @@
+{
+  "bang": "spy",
+  "domain": "https://open.spotify.com",
+  "url": "https://open.spotify.com/search/%s",
+  "description": "Spotify",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

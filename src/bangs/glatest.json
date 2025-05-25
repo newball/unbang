@@ -1,0 +1,8 @@
+{
+  "bang": "glatest",
+  "domain": "https://www.google.com",
+  "url": "http://www.google.com/search?q=%s&tbs=rltm:1",
+  "description": "Google Latest",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

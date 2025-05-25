@@ -1,0 +1,8 @@
+{
+  "bang": "failliet",
+  "domain": "https://www.faillissementen.com",
+  "url": "https://www.faillissementen.com/insolventies/nederlandse-insolventies/?q=%s",
+  "description": "Faillissementen.com",
+  "category": "News",
+  "sub-category": "Business"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "graphemica",
+  "domain": "https://graphemica.com",
+  "url": "http://graphemica.com/search?q=%s",
+  "description": "Graphemica",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

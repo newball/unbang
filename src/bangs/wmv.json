@@ -1,0 +1,8 @@
+{
+  "bang": "wmv",
+  "domain": "https://www.meteovista.com",
+  "url": "http://www.meteovista.com/Go/Search/SearchResults?searchCriteria=%s&pageIndex=0&searchAction=WeatherInformation",
+  "description": "meteovista",
+  "category": "News",
+  "sub-category": "Weather"
+}

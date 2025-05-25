@@ -1,0 +1,8 @@
+{
+  "bang": "dn",
+  "domain": "https://www.dn.se",
+  "url": "https://www.dn.se/sok/?q=%s&page=1&sort=relevance",
+  "description": "Dagens Nyheter",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

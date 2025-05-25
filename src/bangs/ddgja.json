@@ -1,0 +1,8 @@
+{
+  "bang": "ddgja",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s&kl=jp-jp&kp=-1",
+  "description": "DuckDuckGo in Japan",
+  "category": "Online Services",
+  "sub-category": "Search (DDG)"
+}

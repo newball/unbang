@@ -1,0 +1,8 @@
+{
+  "bang": "qs",
+  "domain": "https://help.qlik.com",
+  "url": "https://help.qlik.com/en-US/search/?q=%s",
+  "description": "Qlik Sense Help",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

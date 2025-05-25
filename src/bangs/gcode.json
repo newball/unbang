@@ -1,0 +1,8 @@
+{
+  "bang": "gcode",
+  "domain": "https://code.google.com",
+  "url": "https://code.google.com/hosting/search?q=%s",
+  "description": "Google Code",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

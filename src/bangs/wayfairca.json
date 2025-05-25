@@ -1,0 +1,8 @@
+{
+  "bang": "wayfairca",
+  "domain": "https://www.wayfair.ca",
+  "url": "https://www.wayfair.ca/keyword.php?keyword=%s&command=dosearch&new_keyword_search=true",
+  "description": "Wayfair.ca",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

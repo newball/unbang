@@ -1,0 +1,8 @@
+{
+  "bang": "sfpl",
+  "domain": "https://sfpl.bibliocommons.com",
+  "url": "https://sfpl.bibliocommons.com/v2/search?searchType=smart&query=%s",
+  "description": "San Francisco Public Library",
+  "category": "Research",
+  "sub-category": "Learning"
+}

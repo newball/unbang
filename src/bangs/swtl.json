@@ -1,0 +1,8 @@
+{
+  "bang": "swtl",
+  "domain": "https://swtl.pt",
+  "url": "http://swtl.pt/web/index.php?route=product/isearch&search=%s",
+  "description": "Switch Technology",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

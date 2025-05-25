@@ -1,0 +1,8 @@
+{
+  "bang": "gv100en",
+  "domain": "https://google.com",
+  "url": "http://google.com/search?q=%s&tbo=1&num=100&tbs=li:1&lr=lang_en",
+  "description": "Google Search Verbatim 100 English Results",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

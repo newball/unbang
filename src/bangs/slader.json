@@ -1,0 +1,8 @@
+{
+  "bang": "slader",
+  "domain": "https://www.slader.com",
+  "url": "http://www.slader.com/search/?search_query=%s",
+  "description": "Slader",
+  "category": "Online Services",
+  "sub-category": "Search (Real-time)"
+}

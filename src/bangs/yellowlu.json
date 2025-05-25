@@ -1,0 +1,8 @@
+{
+  "bang": "yellowlu",
+  "domain": "https://www.yellow.lu",
+  "url": "http://www.yellow.lu/en/yellow-pages/search?location=&query=%s&sort_by=relevance",
+  "description": "Yellow.lu",
+  "category": "Research",
+  "sub-category": "Local"
+}

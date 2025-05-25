@@ -1,0 +1,8 @@
+{
+  "bang": "wqes",
+  "domain": "https://es.wikiquote.org",
+  "url": "https://es.wikiquote.org/w/?search=%s",
+  "description": "Wikiquote Español",
+  "category": "Research",
+  "sub-category": "Reference"
+}

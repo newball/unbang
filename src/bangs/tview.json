@@ -1,0 +1,8 @@
+{
+  "bang": "tview",
+  "domain": "https://www.tradingview.com",
+  "url": "https://www.tradingview.com/chart/?symbol=%s",
+  "description": "TradingView",
+  "category": "News",
+  "sub-category": "Business"
+}

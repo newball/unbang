@@ -1,0 +1,8 @@
+{
+  "bang": "hive",
+  "domain": "https://www.hive.co.uk",
+  "url": "https://www.hive.co.uk/Search/Keyword?keyword=%s",
+  "description": "Hive",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

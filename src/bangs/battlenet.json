@@ -1,0 +1,8 @@
+{
+  "bang": "battlenet",
+  "domain": "https://eu.battle.net",
+  "url": "http://eu.battle.net/en/search?q=%s",
+  "description": "Battle.Net",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

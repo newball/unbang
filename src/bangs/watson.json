@@ -1,0 +1,8 @@
+{
+  "bang": "watson",
+  "domain": "https://www.watson.ch",
+  "url": "http://www.watson.ch/u/search?#%s",
+  "description": "Watson",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

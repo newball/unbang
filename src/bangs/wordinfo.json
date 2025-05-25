@@ -1,0 +1,8 @@
+{
+  "bang": "wordinfo",
+  "domain": "https://wordinfo.info",
+  "url": "http://wordinfo.info/results?searchString=%s",
+  "description": "Word Information",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

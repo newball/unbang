@@ -1,0 +1,8 @@
+{
+  "bang": "collocation",
+  "domain": "https://oxforddictionary.so8848.com",
+  "url": "http://oxforddictionary.so8848.com/search1?word=%s",
+  "description": "Online Oxford Collocation Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

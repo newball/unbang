@@ -1,0 +1,8 @@
+{
+  "bang": "buffy",
+  "domain": "https://buffy.wikia.com",
+  "url": "http://buffy.wikia.com/wiki/Special:Search?search= %s&go=Go",
+  "description": "Buffyverse Wiki",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

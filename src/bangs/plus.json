@@ -1,0 +1,8 @@
+{
+  "bang": "plus",
+  "domain": "https://plus.codes",
+  "url": "https://plus.codes/map/%s",
+  "description": "Plus.codes",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "hillel",
+  "domain": "https://www.hillel.org",
+  "url": "http://www.hillel.org/college-guide/search#keyword=%s&radius=10",
+  "description": "Hillel College Guide",
+  "category": "Research",
+  "sub-category": "Reference"
+}

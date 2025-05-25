@@ -1,0 +1,8 @@
+{
+  "bang": "wikihow",
+  "domain": "https://www.wikihow.com",
+  "url": "https://www.wikihow.com/wikiHowTo?search=%s",
+  "description": "wikiHow",
+  "category": "Research",
+  "sub-category": "Reference"
+}

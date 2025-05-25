@@ -1,0 +1,8 @@
+{
+  "bang": "rollingstoneit",
+  "domain": "https://www.rollingstone.it",
+  "url": "http://www.rollingstone.it/?s=%s",
+  "description": "Rolling Stone Italia",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

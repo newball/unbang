@@ -1,0 +1,8 @@
+{
+  "bang": "iet",
+  "domain": "https://digital-library.theiet.org",
+  "url": "https://digital-library.theiet.org/search?value1=%s&option1=all&option2=contentType&pageSize=20&value2=",
+  "description": "IET Digital Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

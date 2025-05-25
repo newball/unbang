@@ -1,0 +1,8 @@
+{
+  "bang": "itella",
+  "domain": "https://www.itella.fi",
+  "url": "http://www.itella.fi/itemtracking/itella/search_by_shipment_id?ShipmentId=%s",
+  "description": "Itella Item Tracking",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

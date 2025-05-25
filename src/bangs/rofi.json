@@ -1,0 +1,8 @@
+{
+  "bang": "rofi",
+  "domain": "https://www.dictionar-finlandez.net",
+  "url": "http://www.dictionar-finlandez.net/online/?word=%s",
+  "description": "Dictionar roman-finlandez-roman",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

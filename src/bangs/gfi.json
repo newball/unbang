@@ -1,0 +1,8 @@
+{
+  "bang": "gfi",
+  "domain": "https://www.google.fi",
+  "url": "https://www.google.fi/search?q=%s",
+  "description": "Google finland",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "muzikersk",
+  "domain": "https://www.muziker.sk",
+  "url": "https://www.muziker.sk/search?q=%s",
+  "description": "Muziker.sk",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

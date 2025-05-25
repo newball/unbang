@@ -1,0 +1,8 @@
+{
+  "bang": "pocket",
+  "domain": "https://app.getpocket.com",
+  "url": "https://app.getpocket.com/search/%s",
+  "description": "Pocket",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

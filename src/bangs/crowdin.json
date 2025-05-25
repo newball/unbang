@@ -1,0 +1,8 @@
+{
+  "bang": "crowdin",
+  "domain": "https://crowdin.com",
+  "url": "https://crowdin.com/projects?q=%s#advanced-search",
+  "description": "Crowdin",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

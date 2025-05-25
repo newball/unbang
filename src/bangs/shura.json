@@ -1,0 +1,8 @@
+{
+  "bang": "shura",
+  "domain": "https://shura.shu.ac.uk",
+  "url": "http://shura.shu.ac.uk/cgi/facet/simple2?q=%s",
+  "description": "Sheffield Hallam University Research Archive (SHURA)",
+  "category": "Research",
+  "sub-category": "Academic"
+}

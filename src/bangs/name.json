@@ -1,0 +1,8 @@
+{
+  "bang": "name",
+  "domain": "https://www.name.com",
+  "url": "http://www.name.com/name?&domain=%s",
+  "description": "Name.com ",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

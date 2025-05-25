@@ -1,0 +1,8 @@
+{
+  "bang": "pennbooks",
+  "domain": "https://onlinebooks.library.upenn.edu",
+  "url": "https://onlinebooks.library.upenn.edu/webbin/book/search?author=&amode=words&title=%s&tmode=words&c=x",
+  "description": "UPENN: The Online Books Page",
+  "category": "Research",
+  "sub-category": "Academic"
+}

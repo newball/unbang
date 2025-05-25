@@ -1,0 +1,8 @@
+{
+  "bang": "uberspace",
+  "domain": "https://wiki.uberspace.de",
+  "url": "https://wiki.uberspace.de/start?do=search&id=%s",
+  "description": "Uberspace-Wiki",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

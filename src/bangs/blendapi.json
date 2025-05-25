@@ -1,0 +1,8 @@
+{
+  "bang": "blendapi",
+  "domain": "https://docs.blender.org",
+  "url": "https://docs.blender.org/api/current/search.html?q=%s&check_keywords=yes&area=default",
+  "description": "Blender Current API",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

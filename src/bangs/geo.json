@@ -1,0 +1,8 @@
+{
+  "bang": "geo",
+  "domain": "https://www.ncbi.nlm.nih.gov",
+  "url": "http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=%s",
+  "description": "NCBI Gene Expresion Omnibus",
+  "category": "Research",
+  "sub-category": "Academic"
+}

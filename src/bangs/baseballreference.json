@@ -1,0 +1,8 @@
+{
+  "bang": "baseballreference",
+  "domain": "https://www.baseball-reference.com",
+  "url": "http://www.baseball-reference.com/pl/player_search.cgi?search=%s",
+  "description": "Baseball-Reference",
+  "category": "Research",
+  "sub-category": "Reference"
+}

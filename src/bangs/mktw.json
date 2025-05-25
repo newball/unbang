@@ -1,0 +1,8 @@
+{
+  "bang": "mktw",
+  "domain": "https://www.marketwatch.com",
+  "url": "http://www.marketwatch.com/investing/stock/%s",
+  "description": "MarketWatch",
+  "category": "News",
+  "sub-category": "Business"
+}

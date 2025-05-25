@@ -1,0 +1,8 @@
+{
+  "bang": "downloadcnet",
+  "domain": "https://download.cnet.com",
+  "url": "http://download.cnet.com/1770-20_4-0.html?query=%s&platformSelect=&tag=srch&searchtype=downloads&filterName=platform%3DWindows%2CMobile%2CMac%2CWebware&filter=platform%3DWindows%2CMobile%2CMac%2CWebware",
+  "description": "Cnet Downloads",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "digibron",
+  "domain": "https://www.digibron.nl",
+  "url": "https://www.digibron.nl/search/results?q=%s",
+  "description": "Digibron",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

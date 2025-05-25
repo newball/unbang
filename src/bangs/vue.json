@@ -1,0 +1,8 @@
+{
+  "bang": "vue",
+  "domain": "https://vuejs.org",
+  "url": "https://vuejs.org/v2/search/?q=%s",
+  "description": "Vue Docs",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

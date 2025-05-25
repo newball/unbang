@@ -1,0 +1,8 @@
+{
+  "bang": "alpha",
+  "domain": "https://www.wolframalpha.com",
+  "url": "http://www.wolframalpha.com/input/?i=%s",
+  "description": "Wolfram|Alpha",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

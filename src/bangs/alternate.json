@@ -1,0 +1,8 @@
+{
+  "bang": "alternate",
+  "domain": "https://www.alternate.de",
+  "url": "http://www.alternate.de/html/search.html?searchCriteria=%s",
+  "description": "Alternate",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

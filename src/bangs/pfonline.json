@@ -1,0 +1,8 @@
+{
+  "bang": "pfonline",
+  "domain": "https://www.pathfindersonline.org",
+  "url": "http://www.pathfindersonline.org/component/search/?searchword=%s&ordering=newest&searchphrase=all",
+  "description": "Pathfinders Online",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

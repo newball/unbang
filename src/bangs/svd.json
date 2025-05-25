@@ -1,0 +1,8 @@
+{
+  "bang": "svd",
+  "domain": "https://www.svd.se",
+  "url": "http://www.svd.se/search.do?q=%s",
+  "description": "Svenska Dagbladet",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

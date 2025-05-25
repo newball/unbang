@@ -1,0 +1,8 @@
+{
+  "bang": "lingues",
+  "domain": "https://www.linguee.es",
+  "url": "https://www.linguee.es/espanol-ingles/search?source=auto&query=%s",
+  "description": "www.linguee.es",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

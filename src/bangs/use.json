@@ -1,0 +1,8 @@
+{
+  "bang": "use",
+  "domain": "https://unix.stackexchange.com",
+  "url": "http://unix.stackexchange.com/search?q=%s ",
+  "description": "Unix & Linux (StackExchange)",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "packet",
+  "domain": "https://packetstormsecurity.com",
+  "url": "http://packetstormsecurity.com/search/?q=%s",
+  "description": "Packet Storm",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

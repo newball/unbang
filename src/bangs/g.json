@@ -1,0 +1,8 @@
+{
+  "bang": "g",
+  "domain": "https://www.google.com",
+  "url": "https://www.google.com/search?q=%s",
+  "description": "Google",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

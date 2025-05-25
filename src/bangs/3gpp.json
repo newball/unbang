@@ -1,0 +1,8 @@
+{
+  "bang": "3gpp",
+  "domain": "https://www.3gpp.org",
+  "url": "http://www.3gpp.org/DynaReport/%s.htm",
+  "description": "3GPP Technical Specification",
+  "category": "Research",
+  "sub-category": "Reference"
+}

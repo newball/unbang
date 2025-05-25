@@ -1,0 +1,8 @@
+{
+  "bang": "lar",
+  "domain": "https://www.larousse.fr",
+  "url": "http://www.larousse.fr/dictionnaires/francais/%s",
+  "description": "Larousse (Français)",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gws",
+  "domain": "https://chrome.google.com",
+  "url": "https://chrome.google.com/webstore/search/%s?_category=extensions",
+  "description": "Google WebStore XT",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

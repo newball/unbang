@@ -1,0 +1,8 @@
+{
+  "bang": "songmeaning",
+  "domain": "https://www.songmeanings.net",
+  "url": "http://www.songmeanings.net/query/?q=%s&type=artists&page=1&start=0&mm=1&pp=20&b=Go",
+  "description": "Songmeaning",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

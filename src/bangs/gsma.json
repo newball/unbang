@@ -1,0 +1,8 @@
+{
+  "bang": "gsma",
+  "domain": "https://www.gsmarena.com",
+  "url": "http://www.gsmarena.com/results.php3?sName=%s",
+  "description": "GSM Arena",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

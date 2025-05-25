@@ -1,0 +1,8 @@
+{
+  "bang": "djs",
+  "domain": "https://discord.js.org",
+  "url": "https://discord.js.org/#/docs/main/stable/search?q=%s",
+  "description": "Discord.JS Docs",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

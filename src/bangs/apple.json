@@ -1,0 +1,8 @@
+{
+  "bang": "apple",
+  "domain": "https://www.apple.com",
+  "url": "http://www.apple.com/search/?q=%s",
+  "description": "Apple",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "dgg",
+  "domain": "https://dejure.org",
+  "url": "http://dejure.org/gesetze/GG/%s.html",
+  "description": "GG - dejure.org",
+  "category": "Research",
+  "sub-category": "Law"
+}

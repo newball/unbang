@@ -1,0 +1,8 @@
+{
+  "bang": "wetterde",
+  "domain": "https://www.wetter.de",
+  "url": "http://www.wetter.de/suche.html?search=%s",
+  "description": "wetter.de",
+  "category": "News",
+  "sub-category": "Weather"
+}

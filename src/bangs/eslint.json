@@ -1,0 +1,8 @@
+{
+  "bang": "eslint",
+  "domain": "https://eslint.org",
+  "url": "http://eslint.org/docs/rules/%s",
+  "description": "ESLint",
+  "category": "Tech",
+  "sub-category": "Languages (javascript)"
+}

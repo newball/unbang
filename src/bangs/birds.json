@@ -1,0 +1,8 @@
+{
+  "bang": "birds",
+  "domain": "https://www.allaboutbirds.org",
+  "url": "https://www.allaboutbirds.org/search/?q=%s",
+  "description": "Cornell Lab of Ornithology",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

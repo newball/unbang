@@ -1,0 +1,8 @@
+{
+  "bang": "arcdev",
+  "domain": "https://developers.arcgis.com",
+  "url": "https://developers.arcgis.com/search/?q=%s",
+  "description": "Arcgis Developers",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

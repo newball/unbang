@@ -1,0 +1,8 @@
+{
+  "bang": "cul",
+  "domain": "https://newcatalog.library.cornell.edu",
+  "url": "https://newcatalog.library.cornell.edu/search?q=%s",
+  "description": "Cornell University Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

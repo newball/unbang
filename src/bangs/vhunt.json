@@ -1,0 +1,8 @@
+{
+  "bang": "vhunt",
+  "domain": "https://visualhunt.com",
+  "url": "https://visualhunt.com/search/instant/?q=%s",
+  "description": "visualhunt.com",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "rateyourgenre",
+  "domain": "https://rateyourmusic.com",
+  "url": "https://rateyourmusic.com/genre/%s",
+  "description": "Rate Your Music (genre)",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

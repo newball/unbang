@@ -1,0 +1,8 @@
+{
+  "bang": "ghjs",
+  "domain": "https://github.com",
+  "url": "https://github.com/search?l=JavaScript&o=desc&q=%s&s=indexed&type=Code",
+  "description": "GitHub JavaScript Code Search",
+  "category": "Tech",
+  "sub-category": "Languages (javascript)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "mbc",
+  "domain": "https://www.mybeercellar.com",
+  "url": "https://www.mybeercellar.com/?search=%s",
+  "description": "mybeercellar",
+  "category": "Research",
+  "sub-category": "Food"
+}

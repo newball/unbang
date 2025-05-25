@@ -1,0 +1,8 @@
+{
+  "bang": "imgurul",
+  "domain": "https://imgur.com",
+  "url": "http://imgur.com/api/upload/?url=%s",
+  "description": "Upload to imgur",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

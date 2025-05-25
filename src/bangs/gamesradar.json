@@ -1,0 +1,8 @@
+{
+  "bang": "gamesradar",
+  "domain": "https://www.gamesradar.com",
+  "url": "https://www.gamesradar.com/search/?searchTerm=%s",
+  "description": "GamesRadar",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

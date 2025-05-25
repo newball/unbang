@@ -1,0 +1,8 @@
+{
+  "bang": "apolloduck",
+  "domain": "https://www.apolloduck.com",
+  "url": "http://www.apolloduck.com/search.phtml?search=%s&exact=1&sr=1&q=1",
+  "description": "Apollo Duck",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

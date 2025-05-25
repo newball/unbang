@@ -1,0 +1,8 @@
+{
+  "bang": "dagen",
+  "domain": "https://www.dagen.se",
+  "url": "http://www.dagen.se/search-7.157994?sortby=date&q=%s",
+  "description": "Dagen",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

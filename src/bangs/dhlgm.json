@@ -1,0 +1,8 @@
+{
+  "bang": "dhlgm",
+  "domain": "https://webtrack.dhlglobalmail.com",
+  "url": "http://webtrack.dhlglobalmail.com/?trackingnumber=%s",
+  "description": "DHL Global Mail Tracking",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

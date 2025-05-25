@@ -1,0 +1,8 @@
+{
+  "bang": "technetlib",
+  "domain": "https://social.technet.microsoft.com",
+  "url": "http://social.technet.microsoft.com/search/en-us/?query=%s#refinementChanges=85",
+  "description": "Microsoft TechNet Library",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "azm",
+  "domain": "https://www.azom.com",
+  "url": "https://www.azom.com/search.aspx?q=%s&site=all&fsb=1",
+  "description": "AZoM",
+  "category": "Research",
+  "sub-category": "Reference"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "texse",
+  "domain": "https://tex.stackexchange.com",
+  "url": "http://tex.stackexchange.com/search?q=%s",
+  "description": "tex.stackexchange",
+  "category": "Tech",
+  "sub-category": "Languages (latex)"
+}

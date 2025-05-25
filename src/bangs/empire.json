@@ -1,0 +1,8 @@
+{
+  "bang": "empire",
+  "domain": "https://www.empireonline.com",
+  "url": "http://www.empireonline.com/search/default.asp?search=%s",
+  "description": "Empire",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "giurl",
+  "domain": "https://www.google.com",
+  "url": "https://www.google.com/searchbyimage?image_url=%s",
+  "description": "Google Image",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

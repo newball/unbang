@@ -1,0 +1,8 @@
+{
+  "bang": "hy",
+  "domain": "https://via.hypothes.is",
+  "url": "https://via.hypothes.is/%s",
+  "description": "Hypothes.is Via",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

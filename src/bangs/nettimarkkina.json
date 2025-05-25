@@ -1,0 +1,8 @@
+{
+  "bang": "nettimarkkina",
+  "domain": "https://www.nettimarkkina.com",
+  "url": "https://www.nettimarkkina.com/haku?tag_cld=Y&site=A&status_typeF=F&status_typeR=R&status_typeP=P&search_keyword[]=%s&",
+  "description": "NettiMarkkina",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

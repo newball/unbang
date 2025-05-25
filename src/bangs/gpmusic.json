@@ -1,0 +1,8 @@
+{
+  "bang": "gpmusic",
+  "domain": "https://play.google.com",
+  "url": "https://play.google.com/music/listen?u=0#/sr/%s",
+  "description": "Google Play Music",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

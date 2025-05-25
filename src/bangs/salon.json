@@ -1,0 +1,8 @@
+{
+  "bang": "salon",
+  "domain": "https://www.salon.com",
+  "url": "https://www.salon.com/search/%s",
+  "description": "Salon.com",
+  "category": "News",
+  "sub-category": "Online"
+}

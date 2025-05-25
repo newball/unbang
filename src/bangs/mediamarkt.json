@@ -1,0 +1,8 @@
+{
+  "bang": "mediamarkt",
+  "domain": "https://www.mediamarkt.nl",
+  "url": "http://www.mediamarkt.nl/nl/search.html?storeId=10259&langId=-11&searchProfile=onlineshop&channel=mmnlnl&searchParams=&path=&query=%s",
+  "description": "MediaMarkt",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

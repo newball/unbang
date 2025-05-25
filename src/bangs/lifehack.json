@@ -1,0 +1,8 @@
+{
+  "bang": "lifehack",
+  "domain": "https://lifehacker.com",
+  "url": "http://lifehacker.com/search?q=%s",
+  "description": "Lifehacker",
+  "category": "Research",
+  "sub-category": "Reference"
+}

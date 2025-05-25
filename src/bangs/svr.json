@@ -1,0 +1,8 @@
+{
+  "bang": "svr",
+  "domain": "https://sverigesradio.se",
+  "url": "https://sverigesradio.se/sida/sok.aspx?q=%s ",
+  "description": "Sveriges Radio",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "uoa",
+  "domain": "https://search.auckland.ac.nz",
+  "url": "https://search.auckland.ac.nz/search?site=All_university_websites&client=uoa_frontend&proxystylesheet=uoa_frontend&proxyreload=0&output=xml_no_dtd&q=%s",
+  "description": "University of Auckland",
+  "category": "Research",
+  "sub-category": "Academic"
+}

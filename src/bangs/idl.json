@@ -1,0 +1,8 @@
+{
+  "bang": "idl",
+  "domain": "https://www.harrisgeospatial.com",
+  "url": "http://www.harrisgeospatial.com/docs/SearchResults.aspx?q=%s",
+  "description": "Harris Geospatial",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "twitchg",
+  "domain": "https://www.twitch.tv",
+  "url": "https://www.twitch.tv/directory/game/%s",
+  "description": "Twitch Game",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

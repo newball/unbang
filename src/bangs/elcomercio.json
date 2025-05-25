@@ -1,0 +1,8 @@
+{
+  "bang": "elcomercio",
+  "domain": "https://elcomercio.pe",
+  "url": "https://elcomercio.pe/buscar/?query=%s",
+  "description": "El Comercio Perú",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

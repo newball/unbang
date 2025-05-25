@@ -1,0 +1,8 @@
+{
+  "bang": "drw",
+  "domain": "https://drw-www.adw.uni-heidelberg.de",
+  "url": "http://drw-www.adw.uni-heidelberg.de/drw-cgi/zeige?term=%s&index=lemmata",
+  "description": "Deutsches Rechtswörterbuch",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

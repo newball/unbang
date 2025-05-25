@@ -1,0 +1,8 @@
+{
+  "bang": "sabayonbugs",
+  "domain": "https://bugs.sabayon.org",
+  "url": "https://bugs.sabayon.org/buglist.cgi?bug_status=__all__&content=%s",
+  "description": "Sabayon Bugzilla",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

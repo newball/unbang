@@ -1,0 +1,8 @@
+{
+  "bang": "1d4chan",
+  "domain": "https://1d4chan.org",
+  "url": "https://1d4chan.org/index.php?search=%s",
+  "description": "1d4chan",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

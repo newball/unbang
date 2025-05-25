@@ -1,0 +1,8 @@
+{
+  "bang": "mymovingreviews",
+  "domain": "https://www.mymovingreviews.com",
+  "url": "http://www.mymovingreviews.com/search.php?q=%s&x=0&y=0",
+  "description": "MyMovingReviews.com",
+  "category": "Research",
+  "sub-category": "Local"
+}

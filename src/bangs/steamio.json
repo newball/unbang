@@ -1,0 +1,8 @@
+{
+  "bang": "steamio",
+  "domain": "https://steamid.io",
+  "url": "https://steamid.io/lookup/%s",
+  "description": "steamid.io",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

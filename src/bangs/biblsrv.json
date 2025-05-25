@@ -1,0 +1,8 @@
+{
+  "bang": "biblsrv",
+  "domain": "https://www.bibleserver.com",
+  "url": "http://www.bibleserver.com/search/%s",
+  "description": "Bibleserver",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

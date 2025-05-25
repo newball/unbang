@@ -1,0 +1,8 @@
+{
+  "bang": "osmcha",
+  "domain": "https://osmcha.mapbox.com",
+  "url": "https://osmcha.mapbox.com/changesets/%s",
+  "description": "OSMCha",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

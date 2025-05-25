@@ -1,0 +1,8 @@
+{
+  "bang": "gsafe",
+  "domain": "https://www.google.com",
+  "url": "https://www.google.com/search?hl=all&safe=on&pws=0&q=%s",
+  "description": "Google (all&safe)",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

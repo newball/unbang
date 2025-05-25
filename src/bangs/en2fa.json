@@ -1,0 +1,8 @@
+{
+  "bang": "en2fa",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#en/fa/%s",
+  "description": "Google translate En to Fa",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

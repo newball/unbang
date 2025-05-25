@@ -1,0 +1,8 @@
+{
+  "bang": "synonym",
+  "domain": "https://www.thesaurus.com",
+  "url": "http://www.thesaurus.com/browse/%s ",
+  "description": "Thesaurus.com",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

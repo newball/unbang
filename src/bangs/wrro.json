@@ -1,0 +1,8 @@
+{
+  "bang": "wrro",
+  "domain": "https://eprints.whiterose.ac.uk",
+  "url": "http://eprints.whiterose.ac.uk/cgi/search/simple?full=%s&_action_search=Search&_order=bytitle&basic_srchtype=ALL&_satisfyall=ALL",
+  "description": "White Rose Research Online",
+  "category": "Research",
+  "sub-category": "Academic"
+}

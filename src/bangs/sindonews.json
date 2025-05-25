@@ -1,0 +1,8 @@
+{
+  "bang": "sindonews",
+  "domain": "https://search.sindonews.com",
+  "url": "https://search.sindonews.com/search?type=artikel&q=%s",
+  "description": "SINDOnews",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

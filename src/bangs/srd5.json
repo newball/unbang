@@ -1,0 +1,8 @@
+{
+  "bang": "srd5",
+  "domain": "https://5e.d20srd.org",
+  "url": "http://5e.d20srd.org/search.htm?q=%s",
+  "description": "Hypertext D20 SRD (5th Edition)",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

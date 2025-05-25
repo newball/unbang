@@ -1,0 +1,8 @@
+{
+  "bang": "nlab",
+  "domain": "https://ncatlab.org",
+  "url": "https://ncatlab.org/nlab/search?query=%s",
+  "description": "nLab",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

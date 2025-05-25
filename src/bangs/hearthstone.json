@@ -1,0 +1,8 @@
+{
+  "bang": "hearthstone",
+  "domain": "https://hearthstone.gamepedia.com",
+  "url": "http://hearthstone.gamepedia.com/?search=%s",
+  "description": "Hearthstone Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

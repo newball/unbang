@@ -1,0 +1,8 @@
+{
+  "bang": "pigu",
+  "domain": "https://pigu.lt",
+  "url": "http://pigu.lt/search?q=%s",
+  "description": "Pigu",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

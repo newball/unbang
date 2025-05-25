@@ -1,0 +1,8 @@
+{
+  "bang": "alw",
+  "domain": "https://wiki.alpinelinux.org",
+  "url": "https://wiki.alpinelinux.org/w/index.php?search=%s",
+  "description": "alpine linux wiki",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

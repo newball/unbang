@@ -1,0 +1,8 @@
+{
+  "bang": "copac",
+  "domain": "https://copac.ac.uk",
+  "url": "http://copac.ac.uk/search?&title=%s",
+  "description": "COPAC",
+  "category": "Research",
+  "sub-category": "Academic"
+}

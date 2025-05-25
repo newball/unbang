@@ -1,0 +1,8 @@
+{
+  "bang": "javalibs",
+  "domain": "https://javalibs.com",
+  "url": "https://javalibs.com/search?q=%s",
+  "description": "Javalibs",
+  "category": "Tech",
+  "sub-category": "Languages (java)"
+}

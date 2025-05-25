@@ -1,0 +1,8 @@
+{
+  "bang": "webstagram",
+  "domain": "https://web.stagram.com",
+  "url": "http://web.stagram.com/search/%s",
+  "description": "Webstagram",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

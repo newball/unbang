@@ -1,0 +1,8 @@
+{
+  "bang": "nytimes",
+  "domain": "https://www.nytimes.com",
+  "url": "https://www.nytimes.com/search?query=%s",
+  "description": "The New York Times",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

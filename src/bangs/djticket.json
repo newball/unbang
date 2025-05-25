@@ -1,0 +1,8 @@
+{
+  "bang": "djticket",
+  "domain": "https://code.djangoproject.com",
+  "url": "https://code.djangoproject.com/ticket/%s",
+  "description": "Django Ticket",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

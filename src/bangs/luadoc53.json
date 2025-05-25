@@ -1,0 +1,8 @@
+{
+  "bang": "luadoc53",
+  "domain": "https://www.lua.org",
+  "url": "https://www.lua.org/manual/5.3/manual.html#pdf-%s",
+  "description": "Lua 5.3 Documentation",
+  "category": "Tech",
+  "sub-category": "Languages (lua)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "volcans",
+  "domain": "https://www.librairielesvolcans.com",
+  "url": "http://www.librairielesvolcans.com/listeliv.php?RECHERCHE=simple&MOTS=%s&x=0&y=0",
+  "description": "Librairie Les Volcans",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

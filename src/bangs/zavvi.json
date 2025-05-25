@@ -1,0 +1,8 @@
+{
+  "bang": "zavvi",
+  "domain": "https://www.zavvi.com",
+  "url": "https://www.zavvi.com/elysium.search?search=%s",
+  "description": "Zavvi",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

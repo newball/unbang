@@ -1,0 +1,8 @@
+{
+  "bang": "html5d",
+  "domain": "https://html5doctor.com",
+  "url": "http://html5doctor.com/search/?q=%s",
+  "description": "HTML5 Doctor",
+  "category": "Tech",
+  "sub-category": "Languages (html)"
+}

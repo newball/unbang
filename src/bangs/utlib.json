@@ -1,0 +1,8 @@
+{
+  "bang": "utlib",
+  "domain": "https://onesearch.library.utoronto.ca",
+  "url": "https://onesearch.library.utoronto.ca/onesearch/%s/",
+  "description": "University of Toronto Libraries",
+  "category": "Research",
+  "sub-category": "Academic"
+}

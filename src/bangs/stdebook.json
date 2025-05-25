@@ -1,0 +1,8 @@
+{
+  "bang": "stdebook",
+  "domain": "https://standardebooks.org",
+  "url": "https://standardebooks.org/ebooks/?query=%s",
+  "description": "Standard Ebooks",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

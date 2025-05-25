@@ -1,0 +1,8 @@
+{
+  "bang": "fcc",
+  "domain": "https://www.forocoches.com",
+  "url": "http://www.forocoches.com/foro/search.php?do=process&titleonly=1&query=%s",
+  "description": "ForoCoches",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

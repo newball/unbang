@@ -1,0 +1,8 @@
+{
+  "bang": "gtswahili",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/sw/%s",
+  "description": "Detect language to Swahili",
+  "category": "Translation",
+  "sub-category": "Google"
+}

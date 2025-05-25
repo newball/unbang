@@ -1,0 +1,8 @@
+{
+  "bang": "wtr",
+  "domain": "https://tr.wikipedia.org",
+  "url": "https://tr.wikipedia.org/wiki/Special:Search?search=%s",
+  "description": "Vikipedi (Turkish Wikipedia)",
+  "category": "Research",
+  "sub-category": "Reference"
+}

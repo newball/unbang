@@ -1,0 +1,8 @@
+{
+  "bang": "rclivre",
+  "domain": "https://www.recyclivre.com",
+  "url": "https://www.recyclivre.com/shop/recherche?orderby=price&orderway=asc&search_query=%s&submit_search=&s=",
+  "description": "Recyclivre",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

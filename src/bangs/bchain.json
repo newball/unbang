@@ -1,0 +1,8 @@
+{
+  "bang": "bchain",
+  "domain": "https://blockchain.info",
+  "url": "https://blockchain.info/address/%s",
+  "description": "blockchain.info",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

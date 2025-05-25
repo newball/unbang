@@ -1,0 +1,8 @@
+{
+  "bang": "plyrics",
+  "domain": "https://search.plyrics.com",
+  "url": "http://search.plyrics.com/search.php?q=%s",
+  "description": "PLyrics.com",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

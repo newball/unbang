@@ -1,0 +1,8 @@
+{
+  "bang": "psnde",
+  "domain": "https://store.playstation.com",
+  "url": "https://store.playstation.com/de-de/search/%s",
+  "description": "PlayStation Store Deutschland",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

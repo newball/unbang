@@ -1,0 +1,8 @@
+{
+  "bang": "campus",
+  "domain": "https://accucampus.net",
+  "url": "https://accucampus.net/search?q=%s",
+  "description": "AccuCampus",
+  "category": "Online Services",
+  "sub-category": "Search (Private)"
+}

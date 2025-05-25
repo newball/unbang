@@ -1,0 +1,8 @@
+{
+  "bang": "kogan",
+  "domain": "https://www.kogan.com",
+  "url": "https://www.kogan.com/au/shop/?q=%s",
+  "description": "Kogan.com",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

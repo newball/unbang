@@ -1,0 +1,8 @@
+{
+  "bang": "rcw",
+  "domain": "https://apps.leg.wa.gov",
+  "url": "http://apps.leg.wa.gov/RCW/default.aspx?cite=%s",
+  "description": "Washington State Legislature: Revised Code of Washington",
+  "category": "Research",
+  "sub-category": "Law"
+}

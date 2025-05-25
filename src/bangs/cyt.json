@@ -1,0 +1,8 @@
+{
+  "bang": "cyt",
+  "domain": "https://cadence.gq",
+  "url": "https://cadence.gq/cloudtube/search?q=%s&sort_by=relevance",
+  "description": "Candence CloudTube (YouTube Client)",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

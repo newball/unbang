@@ -1,0 +1,8 @@
+{
+  "bang": "poppy",
+  "domain": "https://poppy.fandom.com",
+  "url": "https://poppy.fandom.com/wiki/Special:Search?query=%s",
+  "description": "Poppypedia",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

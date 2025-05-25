@@ -1,0 +1,8 @@
+{
+  "bang": "alaus",
+  "domain": "https://bie.ala.org.au",
+  "url": "https://bie.ala.org.au/search?q=%s",
+  "description": "Atlas of Living Australia",
+  "category": "Research",
+  "sub-category": "Academic (biology)"
+}

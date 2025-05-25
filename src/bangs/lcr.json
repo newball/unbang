@@ -1,0 +1,8 @@
+{
+  "bang": "lcr",
+  "domain": "https://lxr.free-electrons.com",
+  "url": "http://lxr.free-electrons.com/ident?i=%s",
+  "description": "Linux Cross Reference",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

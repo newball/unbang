@@ -1,0 +1,8 @@
+{
+  "bang": "an",
+  "domain": "https://anilist.co",
+  "url": "http://anilist.co/search?q=%s",
+  "description": "AniList",
+  "category": "News",
+  "sub-category": "Specialty"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "zenodo",
+  "domain": "https://zenodo.org",
+  "url": "https://zenodo.org/search?q=%s",
+  "description": "Zenodo",
+  "category": "Research",
+  "sub-category": "Academic"
+}

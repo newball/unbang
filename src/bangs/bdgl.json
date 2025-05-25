@@ -1,0 +1,8 @@
+{
+  "bang": "bdgl",
+  "domain": "https://www.bitdegree.org",
+  "url": "https://www.bitdegree.org/learn/search?query=%s",
+  "description": "BitDegree Learn",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

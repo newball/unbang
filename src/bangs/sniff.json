@@ -1,0 +1,8 @@
+{
+  "bang": "sniff",
+  "domain": "https://websniffer.cc",
+  "url": "https://websniffer.cc/?url=%s",
+  "description": "Websniffer",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

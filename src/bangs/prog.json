@@ -1,0 +1,8 @@
+{
+  "bang": "prog",
+  "domain": "https://programmers.stackexchange.com",
+  "url": "http://programmers.stackexchange.com/search?q=%s",
+  "description": "programmers.stackexchange.com",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

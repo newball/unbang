@@ -1,0 +1,8 @@
+{
+  "bang": "ddgf",
+  "domain": "https://duckduckgo.com",
+  "url": "http://duckduckgo.com/?kl=fr-fr&q=%s",
+  "description": "DuckDuckgo France",
+  "category": "Research",
+  "sub-category": "Reference"
+}

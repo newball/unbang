@@ -1,0 +1,8 @@
+{
+  "bang": "calendar",
+  "domain": "https://www.google.com",
+  "url": "https://www.google.com/calendar/b/0/render?q=%s",
+  "description": "Google Calendar",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

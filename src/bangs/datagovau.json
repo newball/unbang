@@ -1,0 +1,8 @@
+{
+  "bang": "datagovau",
+  "domain": "https://data.gov.au",
+  "url": "http://data.gov.au/dataset?q=%s",
+  "description": "Australia Government Datasets",
+  "category": "Research",
+  "sub-category": "Government"
+}

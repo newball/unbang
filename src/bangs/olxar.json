@@ -1,0 +1,8 @@
+{
+  "bang": "olxar",
+  "domain": "https://www.olx.com.ar",
+  "url": "https://www.olx.com.ar/nf/search/%s",
+  "description": "OLX Argentina",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

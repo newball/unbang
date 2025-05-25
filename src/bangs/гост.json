@@ -1,0 +1,8 @@
+{
+  "bang": "гост",
+  "domain": "https://docs.cntd.ru",
+  "url": "http://docs.cntd.ru/search/intellectual?q=%s",
+  "description": "docs.cntd.ru",
+  "category": "Multimedia",
+  "sub-category": "Docs"
+}

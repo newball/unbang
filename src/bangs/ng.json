@@ -1,0 +1,8 @@
+{
+  "bang": "ng",
+  "domain": "https://angular.io",
+  "url": "https://angular.io/api?query=%s",
+  "description": "AngularJS",
+  "category": "Tech",
+  "sub-category": "Languages (javascript)"
+}

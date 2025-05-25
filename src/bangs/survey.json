@@ -1,0 +1,8 @@
+{
+  "bang": "survey",
+  "domain": "https://www.surveymonkey.com",
+  "url": "https://www.surveymonkey.com/dashboard/?term%s",
+  "description": "SurveyMonkey",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

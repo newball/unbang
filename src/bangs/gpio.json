@@ -1,0 +1,8 @@
+{
+  "bang": "gpio",
+  "domain": "https://gpio.co.uk",
+  "url": "https://gpio.co.uk/?s=%s",
+  "description": "GPIO Support Services",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

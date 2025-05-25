@@ -1,0 +1,8 @@
+{
+  "bang": "scaruffi",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Ascaruffi.com+%s",
+  "description": "Scaruffi",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

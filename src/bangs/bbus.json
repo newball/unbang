@@ -1,0 +1,8 @@
+{
+  "bang": "bbus",
+  "domain": "https://bitbucket.org",
+  "url": "https://bitbucket.org/%s/",
+  "description": "Bitbucket User",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

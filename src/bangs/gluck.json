@@ -1,0 +1,8 @@
+{
+  "bang": "gluck",
+  "domain": "https://www.google.com",
+  "url": "http://www.google.com/search?q=%s&btnI",
+  "description": "Google Feeling Lucky",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "tripwire",
+  "domain": "https://www.tripwire.com",
+  "url": "https://www.tripwire.com/state-of-security?s=%s",
+  "description": "Tripwire The State of Security",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

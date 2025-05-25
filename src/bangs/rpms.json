@@ -1,0 +1,8 @@
+{
+  "bang": "rpms",
+  "domain": "https://src.fedoraproject.org",
+  "url": "https://src.fedoraproject.org/rpms/%s",
+  "description": "Fedora Package Sources",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Fedora)"
+}

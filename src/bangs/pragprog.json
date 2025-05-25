@@ -1,0 +1,8 @@
+{
+  "bang": "pragprog",
+  "domain": "https://pragprog.com",
+  "url": "https://pragprog.com/search?q=%s",
+  "description": "The Pragmatic Bookshelf",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

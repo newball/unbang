@@ -1,0 +1,8 @@
+{
+  "bang": "ascl",
+  "domain": "https://ascl.net",
+  "url": "http://ascl.net/code/search/%s",
+  "description": " ASCL.net - Astrophysics Source Code Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

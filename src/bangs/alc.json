@@ -1,0 +1,8 @@
+{
+  "bang": "alc",
+  "domain": "https://eow.alc.co.jp",
+  "url": "http://eow.alc.co.jp/search?q=%s",
+  "description": "Alc Japanese English Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

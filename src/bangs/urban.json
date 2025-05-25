@@ -1,0 +1,8 @@
+{
+  "bang": "urban",
+  "domain": "https://www.urbandictionary.com",
+  "url": "http://www.urbandictionary.com/define.php?term=%s",
+  "description": "Urban Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

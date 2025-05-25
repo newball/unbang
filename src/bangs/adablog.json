@@ -1,0 +1,8 @@
+{
+  "bang": "adablog",
+  "domain": "https://blog.adafruit.com",
+  "url": "https://blog.adafruit.com/?s=%s",
+  "description": "Adafruit",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

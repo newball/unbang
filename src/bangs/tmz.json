@@ -1,0 +1,8 @@
+{
+  "bang": "tmz",
+  "domain": "https://www.tmz.com",
+  "url": "http://www.tmz.com/search/articles/%s/1/",
+  "description": "TMZ",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

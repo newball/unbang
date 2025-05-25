@@ -1,0 +1,8 @@
+{
+  "bang": "oglasnik",
+  "domain": "https://www.oglasnik.hr",
+  "url": "https://www.oglasnik.hr/search?q=%s&category_id=",
+  "description": "Oglasnik",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

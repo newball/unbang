@@ -1,0 +1,8 @@
+{
+  "bang": "primrose",
+  "domain": "https://www.primrose.co.uk",
+  "url": "http://www.primrose.co.uk/search.mvc?search_term=%s",
+  "description": "Primrose",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

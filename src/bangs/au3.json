@@ -1,0 +1,8 @@
+{
+  "bang": "au3",
+  "domain": "https://www.autoitscript.com",
+  "url": "https://www.autoitscript.com/forum/search/?q=%s",
+  "description": "AutoIt Forums",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

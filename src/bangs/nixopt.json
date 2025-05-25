@@ -1,0 +1,8 @@
+{
+  "bang": "nixopt",
+  "domain": "https://nixos.org",
+  "url": "https://nixos.org/nixos/options.html#%s",
+  "description": "NixOS options",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

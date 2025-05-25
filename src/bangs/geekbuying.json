@@ -1,0 +1,8 @@
+{
+  "bang": "geekbuying",
+  "domain": "https://www.geekbuying.com",
+  "url": "http://www.geekbuying.com/Search/?keyword=%s",
+  "description": "GeekBuying",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

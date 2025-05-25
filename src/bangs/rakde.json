@@ -1,0 +1,8 @@
+{
+  "bang": "rakde",
+  "domain": "https://www.rakuten.de",
+  "url": "https://www.rakuten.de/suchen/%s?category=0",
+  "description": "Rakuten.de",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

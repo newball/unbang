@@ -1,0 +1,8 @@
+{
+  "bang": "ksl",
+  "domain": "https://classifieds.ksl.com",
+  "url": "https://classifieds.ksl.com/search?keyword=%s",
+  "description": "KSL Classifieds",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

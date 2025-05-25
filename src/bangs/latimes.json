@@ -1,0 +1,8 @@
+{
+  "bang": "latimes",
+  "domain": "https://search.latimes.com",
+  "url": "http://search.latimes.com/search?q=%s",
+  "description": "LATimes",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

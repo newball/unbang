@@ -1,0 +1,8 @@
+{
+  "bang": "hft",
+  "domain": "https://www.harborfreight.com",
+  "url": "http://www.harborfreight.com/catalogsearch/result?q=%s",
+  "description": "Harbor Freight Tools",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

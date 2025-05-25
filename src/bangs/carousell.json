@@ -1,0 +1,8 @@
+{
+  "bang": "carousell",
+  "domain": "https://carousell.com",
+  "url": "https://carousell.com/search/products/?query=%s ",
+  "description": "carousell",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

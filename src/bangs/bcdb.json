@@ -1,0 +1,8 @@
+{
+  "bang": "bcdb",
+  "domain": "https://www.bcdb.com",
+  "url": "http://www.bcdb.com/bcdb/search.cgi?query=%s&amp;bool=and&amp;substring=1",
+  "description": "The Big Cartoon Database",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

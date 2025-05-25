@@ -1,0 +1,8 @@
+{
+  "bang": "electron",
+  "domain": "https://electron.atom.io",
+  "url": "https://electron.atom.io/apps/?q=%s",
+  "description": "electron.atom.io",
+  "category": "Tech",
+  "sub-category": "Downloads (apps)"
+}

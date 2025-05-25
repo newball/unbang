@@ -1,0 +1,8 @@
+{
+  "bang": "ootl",
+  "domain": "https://www.reddit.com",
+  "url": "https://www.reddit.com/r/OutOfTheLoop/search?q=%s&restrict_sr=on",
+  "description": "r/OutOfTheLoop",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

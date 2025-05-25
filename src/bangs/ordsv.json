@@ -1,0 +1,8 @@
+{
+  "bang": "ordsv",
+  "domain": "https://www.ord.se",
+  "url": "http://www.ord.se/oversattning/Svenska/?s=%s&l=SVESVE",
+  "description": "Ord.se SV",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "save",
+  "domain": "https://web.archive.org",
+  "url": "https://web.archive.org/save/%s",
+  "description": "Internet Archive: Wayback Machine (save)",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

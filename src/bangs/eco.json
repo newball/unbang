@@ -1,0 +1,8 @@
+{
+  "bang": "eco",
+  "domain": "https://www.ecosia.org",
+  "url": "https://www.ecosia.org/search?q=%s",
+  "description": "Ecosia",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

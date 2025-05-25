@@ -1,0 +1,8 @@
+{
+  "bang": "conjuguer",
+  "domain": "https://leconjugueur.lefigaro.fr",
+  "url": "http://leconjugueur.lefigaro.fr/conjugaison/verbe/%s.html",
+  "description": "Le figaro",
+  "category": "Research",
+  "sub-category": "Learning"
+}

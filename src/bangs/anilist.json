@@ -1,0 +1,8 @@
+{
+  "bang": "anilist",
+  "domain": "https://anilist.co",
+  "url": "https://anilist.co/search/anime?sort=SEARCH_MATCH&search=%s",
+  "description": "anilist.co",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

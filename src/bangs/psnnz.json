@@ -1,0 +1,8 @@
+{
+  "bang": "psnnz",
+  "domain": "https://store.playstation.com",
+  "url": "https://store.playstation.com/en-nz/grid/search-game/1?query=%s",
+  "description": "Playstation Store NZ",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

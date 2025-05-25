@@ -1,0 +1,8 @@
+{
+  "bang": "ing",
+  "domain": "https://www.ing.de",
+  "url": "https://www.ing.de/suche/?query=%s",
+  "description": "ING DiBa",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

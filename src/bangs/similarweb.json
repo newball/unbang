@@ -1,0 +1,8 @@
+{
+  "bang": "similarweb",
+  "domain": "https://www.similarweb.com",
+  "url": "http://www.similarweb.com/website/%s",
+  "description": "SimilarWeb",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

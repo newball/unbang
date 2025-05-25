@@ -1,0 +1,8 @@
+{
+  "bang": "thg",
+  "domain": "https://www.thingiverse.com",
+  "url": "http://www.thingiverse.com/search?q=%s&sa=",
+  "description": "Thingiverse",
+  "category": "Tech",
+  "sub-category": "Design"
+}

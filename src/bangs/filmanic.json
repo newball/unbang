@@ -1,0 +1,8 @@
+{
+  "bang": "filmanic",
+  "domain": "https://filmanic.com",
+  "url": "https://filmanic.com/search-for-movies-actors-directors/?q=%s",
+  "description": "Filmanic",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

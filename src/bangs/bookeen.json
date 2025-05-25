@@ -1,0 +1,8 @@
+{
+  "bang": "bookeen",
+  "domain": "https://www.bookeenstore.com",
+  "url": "https://www.bookeenstore.com/search?words=%s",
+  "description": "Bookeen Store",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

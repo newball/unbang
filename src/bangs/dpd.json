@@ -1,0 +1,8 @@
+{
+  "bang": "dpd",
+  "domain": "https://lema.rae.es",
+  "url": "http://lema.rae.es/dpd/?key=%s",
+  "description": "Diccionario panhispánico de dudas",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

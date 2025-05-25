@@ -1,0 +1,8 @@
+{
+  "bang": "gt-yiddish",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/yi/%s",
+  "description": "Detect language to Yiddish",
+  "category": "Translation",
+  "sub-category": "Google"
+}

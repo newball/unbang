@@ -1,0 +1,8 @@
+{
+  "bang": "itnews",
+  "domain": "https://it-news.press",
+  "url": "https://it-news.press/search?searchword=%s",
+  "description": "IT-NEWS: Новости Интернета",
+  "category": "News",
+  "sub-category": "Specialty"
+}

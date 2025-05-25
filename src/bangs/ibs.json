@@ -1,0 +1,8 @@
+{
+  "bang": "ibs",
+  "domain": "https://www.ibs.it",
+  "url": "https://www.ibs.it/search/?ts=as&query=%s",
+  "description": "Internet Bookshop Italia",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

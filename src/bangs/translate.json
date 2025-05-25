@@ -1,0 +1,8 @@
+{
+  "bang": "translate",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/en/%s",
+  "description": "Google Translate",
+  "category": "Translation",
+  "sub-category": "Google"
+}

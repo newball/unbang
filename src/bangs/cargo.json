@@ -1,0 +1,8 @@
+{
+  "bang": "cargo",
+  "domain": "https://crates.io",
+  "url": "https://crates.io/search?q=%s",
+  "description": "Cargo",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

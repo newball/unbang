@@ -1,0 +1,8 @@
+{
+  "bang": "quickdocs",
+  "domain": "https://quickdocs.org",
+  "url": "http://quickdocs.org/search?q=%s",
+  "description": "Quickdocs",
+  "category": "Tech",
+  "sub-category": "Languages (lisp)"
+}

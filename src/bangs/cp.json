@@ -1,0 +1,8 @@
+{
+  "bang": "cp",
+  "domain": "https://coinpaprika.com",
+  "url": "https://coinpaprika.com/?sort=%s",
+  "description": "https://coinpaprika.com/",
+  "category": "Tech",
+  "sub-category": "Cryptocurrency"
+}

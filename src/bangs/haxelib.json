@@ -1,0 +1,8 @@
+{
+  "bang": "haxelib",
+  "domain": "https://lib.haxe.org",
+  "url": "http://lib.haxe.org/search?v=%s",
+  "description": "Haxelib",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

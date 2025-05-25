@@ -1,0 +1,8 @@
+{
+  "bang": "pack",
+  "domain": "https://packagist.org",
+  "url": "https://packagist.org/search/?q=%s",
+  "description": "Packagist",
+  "category": "Tech",
+  "sub-category": "Languages (php)"
+}

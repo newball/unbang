@@ -1,0 +1,8 @@
+{
+  "bang": "gwpde",
+  "domain": "https://www.google.de",
+  "url": "http://www.google.de/search?ie=UTF-8&sourceid=navclient&gfns=1&q=site:de.wikipedia.org+%s",
+  "description": "Google de.Wikipedia",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

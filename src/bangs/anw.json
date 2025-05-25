@@ -1,0 +1,8 @@
+{
+  "bang": "anw",
+  "domain": "https://anw.inl.nl",
+  "url": "http://anw.inl.nl/search?type=simple&q=%s",
+  "description": "Algemeen Nederlands Woordenboek",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

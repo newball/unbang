@@ -1,0 +1,8 @@
+{
+  "bang": "scuba",
+  "domain": "https://www.scuba.com",
+  "url": "https://www.scuba.com/resources/search1.aspx?Action=Search&Search=%s",
+  "description": "Scuba.com",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

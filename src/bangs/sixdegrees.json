@@ -1,0 +1,8 @@
+{
+  "bang": "sixdegrees",
+  "domain": "https://sixdegreesofkanyewest.com",
+  "url": "https://sixdegreesofkanyewest.com/artist?q=%s",
+  "description": "Six Degrees of Kanye West",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

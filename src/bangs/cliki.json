@@ -1,0 +1,8 @@
+{
+  "bang": "cliki",
+  "domain": "https://cliki.net",
+  "url": "http://cliki.net/site/search?query=%s",
+  "description": "Cliki",
+  "category": "Tech",
+  "sub-category": "Languages (lisp)"
+}

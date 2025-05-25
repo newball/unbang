@@ -1,0 +1,8 @@
+{
+  "bang": "pecl",
+  "domain": "https://pecl.php.net",
+  "url": "http://pecl.php.net/package-search.php?pkg_name=%s",
+  "description": "PECL :: The PHP Extension Community Library",
+  "category": "Tech",
+  "sub-category": "Languages (php)"
+}

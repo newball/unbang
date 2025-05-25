@@ -1,0 +1,8 @@
+{
+  "bang": "nvd",
+  "domain": "https://nvd.nist.gov",
+  "url": "https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=%s&search_type=all",
+  "description": "NIST Vulnerability Database",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "zdf",
+  "domain": "https://www.zdf.de",
+  "url": "https://www.zdf.de/suche?q=%s",
+  "description": "ZDF",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

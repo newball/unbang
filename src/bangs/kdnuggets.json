@@ -1,0 +1,8 @@
+{
+  "bang": "kdnuggets",
+  "domain": "https://www.kdnuggets.com",
+  "url": "https://www.kdnuggets.com/?s=%s",
+  "description": "KDnuggets",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

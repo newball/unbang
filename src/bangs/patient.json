@@ -1,0 +1,8 @@
+{
+  "bang": "patient",
+  "domain": "https://patient.info",
+  "url": "https://patient.info/search.asp?searchterm=%s&searchcoll=All",
+  "description": "Patient Info",
+  "category": "Research",
+  "sub-category": "Health"
+}

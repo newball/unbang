@@ -1,0 +1,8 @@
+{
+  "bang": "matw",
+  "domain": "https://www.matweb.com",
+  "url": "http://www.matweb.com/search/QuickText.aspx?SearchText=%s",
+  "description": "MatWeb",
+  "category": "Research",
+  "sub-category": "Reference"
+}

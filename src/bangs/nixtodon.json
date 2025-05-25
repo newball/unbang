@@ -1,0 +1,8 @@
+{
+  "bang": "nixtodon",
+  "domain": "https://masto.nixnet.xyz",
+  "url": "https://masto.nixnet.xyz/@%s",
+  "description": "Nixtodon",
+  "category": "Online Services",
+  "sub-category": "Social (intl)"
+}

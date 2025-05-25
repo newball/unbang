@@ -1,0 +1,8 @@
+{
+  "bang": "tx",
+  "domain": "https://search2.tv-tokyo.co.jp",
+  "url": "http://search2.tv-tokyo.co.jp/pc/?enc=UTF-8&q=%s",
+  "description": "TV Tokyo",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

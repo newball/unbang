@@ -1,0 +1,8 @@
+{
+  "bang": "smogondp",
+  "domain": "https://www.smogon.com",
+  "url": "http://www.smogon.com/dex/dp/pokemon/%s",
+  "description": "Strategy Pokedex Diamond Perl Smogon",
+  "category": "Entertainment",
+  "sub-category": "Games (Pokemon)"
+}

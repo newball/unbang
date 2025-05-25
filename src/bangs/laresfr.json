@@ -1,0 +1,8 @@
+{
+  "bang": "laresfr",
+  "domain": "https://www.larousse.fr",
+  "url": "http://www.larousse.fr/dictionnaires/espagnol-francais/%s/",
+  "description": "Larousse",
+  "category": "Research",
+  "sub-category": "Learning"
+}

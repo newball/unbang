@@ -1,0 +1,8 @@
+{
+  "bang": "mz",
+  "domain": "https://www.mittelbayerische.de",
+  "url": "https://www.mittelbayerische.de/suche/?scope=20000&type=articles%2Cgalleries%2Cvideos&interval=month&searchterm=%s",
+  "description": "Mittelbayerische Zeitung",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

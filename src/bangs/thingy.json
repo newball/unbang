@@ -1,0 +1,8 @@
+{
+  "bang": "thingy",
+  "domain": "https://www.thingiverse.com",
+  "url": "https://www.thingiverse.com/search?q=%s",
+  "description": "Thingiverse",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

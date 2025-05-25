@@ -1,0 +1,8 @@
+{
+  "bang": "wcy",
+  "domain": "https://cy.wikipedia.org",
+  "url": "https://cy.wikipedia.org/wiki/%s",
+  "description": "Wikipedia (CY)",
+  "category": "Research",
+  "sub-category": "Learning"
+}

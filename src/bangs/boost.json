@@ -1,0 +1,8 @@
+{
+  "bang": "boost",
+  "domain": "https://",
+  "url": "/?q=%s+site:boost.org",
+  "description": "Boost.org",
+  "category": "Tech",
+  "sub-category": "Languages (c++)"
+}

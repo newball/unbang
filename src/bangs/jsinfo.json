@@ -1,0 +1,8 @@
+{
+  "bang": "jsinfo",
+  "domain": "https://javascript.info",
+  "url": "https://javascript.info/search/?query=%s",
+  "description": "Javascript Info",
+  "category": "Tech",
+  "sub-category": "Languages (javascript)"
+}

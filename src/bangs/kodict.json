@@ -1,0 +1,8 @@
+{
+  "bang": "kodict",
+  "domain": "https://ko.dict.naver.com",
+  "url": "https://ko.dict.naver.com/#/search?query=%s",
+  "description": "Naver Korean Dictionary",
+  "category": "Translation",
+  "sub-category": "General"
+}

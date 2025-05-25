@@ -1,0 +1,8 @@
+{
+  "bang": "awd",
+  "domain": "https://www.amazon.com",
+  "url": "https://www.amazon.com/s/url=search-alias%3Dwarehouse-deals&field-keywords=%s",
+  "description": "Amazon Warehouse Deals",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

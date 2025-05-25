@@ -1,0 +1,8 @@
+{
+  "bang": "taxi",
+  "domain": "https://www.taxi.it",
+  "url": "https://www.taxi.it/?s=%s",
+  "description": "Taxi.it",
+  "category": "Research",
+  "sub-category": "Travel"
+}

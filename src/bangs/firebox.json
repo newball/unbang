@@ -1,0 +1,8 @@
+{
+  "bang": "firebox",
+  "domain": "https://www.firebox.com",
+  "url": "http://www.firebox.com/search/%s",
+  "description": "Firebox",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

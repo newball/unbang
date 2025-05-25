@@ -1,0 +1,8 @@
+{
+  "bang": "gandi",
+  "domain": "https://www.gandi.net",
+  "url": "https://www.gandi.net/domain/suggest?domain_list=%s",
+  "description": "Gandi.net",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

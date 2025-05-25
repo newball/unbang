@@ -1,0 +1,8 @@
+{
+  "bang": "wbm",
+  "domain": "https://web.archive.org",
+  "url": "https://web.archive.org/web/*/%s",
+  "description": "WayBack Machine",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

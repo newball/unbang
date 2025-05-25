@@ -1,0 +1,8 @@
+{
+  "bang": "lifo",
+  "domain": "https://www.lifo.gr",
+  "url": "https://www.lifo.gr/search?q=%s",
+  "description": "Lifo",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

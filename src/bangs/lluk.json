@@ -1,0 +1,8 @@
+{
+  "bang": "lluk",
+  "domain": "https://capitadiscovery.co.uk",
+  "url": "http://capitadiscovery.co.uk/liverpool/items?query=%s",
+  "description": "Liverpool Libraries catalogue",
+  "category": "Research",
+  "sub-category": "Topical"
+}

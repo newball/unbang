@@ -1,0 +1,8 @@
+{
+  "bang": "iya",
+  "domain": "https://yandex.com",
+  "url": "https://yandex.com/images/search?text=%s",
+  "description": "Yandex Images",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

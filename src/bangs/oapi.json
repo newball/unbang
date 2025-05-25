@@ -1,0 +1,8 @@
+{
+  "bang": "oapi",
+  "domain": "https://overapi.com",
+  "url": "http://overapi.com/%s",
+  "description": "http://overapi.com/",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

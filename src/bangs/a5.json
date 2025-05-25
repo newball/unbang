@@ -1,0 +1,8 @@
+{
+  "bang": "a5",
+  "domain": "https://v5.angular.io",
+  "url": "https://v5.angular.io/api?query=%s",
+  "description": "Angular.io v5",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

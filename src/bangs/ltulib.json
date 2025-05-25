@@ -1,0 +1,8 @@
+{
+  "bang": "ltulib",
+  "domain": "https://search.lib.latrobe.edu.au",
+  "url": "http://search.lib.latrobe.edu.au/primo_library/libweb/action/dlSearch.do?vid=LATROBE&institution=LATROBE&search_scope=All&query=any,contains, %s ",
+  "description": "La Trobe University Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

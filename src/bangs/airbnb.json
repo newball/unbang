@@ -1,0 +1,8 @@
+{
+  "bang": "airbnb",
+  "domain": "https://www.airbnb.com",
+  "url": "https://www.airbnb.com/s/%s",
+  "description": "airbnb",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

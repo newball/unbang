@@ -1,0 +1,8 @@
+{
+  "bang": "ia",
+  "domain": "https://web.archive.org",
+  "url": "https://web.archive.org/web/*/%s",
+  "description": "Internet Archive",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

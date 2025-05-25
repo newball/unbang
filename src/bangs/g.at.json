@@ -1,0 +1,8 @@
+{
+  "bang": "g.at",
+  "domain": "https://www.google.at",
+  "url": "https://www.google.at/#q=%s",
+  "description": "Google Austria",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

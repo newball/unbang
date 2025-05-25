@@ -1,0 +1,8 @@
+{
+  "bang": "uci",
+  "domain": "https://www.uci.org",
+  "url": "https://www.uci.org/search?q=%s",
+  "description": "Union Cycliste Internationale",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wikies",
+  "domain": "https://es.wikipedia.org",
+  "url": "https://es.wikipedia.org/w/index.php?search=%s",
+  "description": "Wikipedia (Spanish)",
+  "category": "Research",
+  "sub-category": "Reference"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "adefb",
+  "domain": "https://www.amazon.de",
+  "url": "https://www.amazon.de/s?k=%s&i=english-books",
+  "description": "Amazon.de Fremdsprachige Bücher",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "hdl",
+  "domain": "https://www.heise.de",
+  "url": "https://www.heise.de/download/search?terms=%s",
+  "description": "Heise Download",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

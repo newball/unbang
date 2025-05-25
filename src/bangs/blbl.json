@@ -1,0 +1,8 @@
+{
+  "bang": "blbl",
+  "domain": "https://www.bilibili.com",
+  "url": "http://www.bilibili.com/search?keyword=%s",
+  "description": "哔哩哔哩弹幕网",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

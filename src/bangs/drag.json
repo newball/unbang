@@ -1,0 +1,8 @@
+{
+  "bang": "drag",
+  "domain": "https://academia.gal",
+  "url": "http://academia.gal/dicionario_rag/searchNoun.do?nounTitle=%s",
+  "description": "Dicionario da Real Academia Galega",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "urealms",
+  "domain": "https://wiki.urealms.com",
+  "url": "https://wiki.urealms.com/index.php?search=%s",
+  "description": "URealms Wiki",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

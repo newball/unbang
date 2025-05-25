@@ -1,0 +1,8 @@
+{
+  "bang": "nrl",
+  "domain": "https://www.nrl.com",
+  "url": "https://www.nrl.com/search/?keyword=%s&sort=Relevance",
+  "description": "National Rugby League",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

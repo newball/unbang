@@ -1,0 +1,8 @@
+{
+  "bang": "campusnav",
+  "domain": "https://navigator.tu-dresden.de",
+  "url": "https://navigator.tu-dresden.de/erweitertesuche/%s",
+  "description": "TU Dresden Campus Navigator",
+  "category": "Research",
+  "sub-category": "Academic"
+}

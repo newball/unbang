@@ -1,0 +1,8 @@
+{
+  "bang": "banggood",
+  "domain": "https://www.banggood.com",
+  "url": "http://www.banggood.com/index.php?keywords=%s&cat_id=0&com=search",
+  "description": "Bang good",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

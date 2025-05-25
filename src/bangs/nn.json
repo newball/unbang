@@ -1,0 +1,8 @@
+{
+  "bang": "nn",
+  "domain": "https://www.naturalnews.com",
+  "url": "https://www.naturalnews.com/SearchResults.asp?query=%s&pr=NN",
+  "description": "Natural News",
+  "category": "News",
+  "sub-category": "Specialty"
+}

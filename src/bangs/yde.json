@@ -1,0 +1,8 @@
+{
+  "bang": "yde",
+  "domain": "https://de.yahoo.com",
+  "url": "https://de.yahoo.com/?q=%s",
+  "description": "Yahoo German",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

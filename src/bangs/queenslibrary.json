@@ -1,0 +1,8 @@
+{
+  "bang": "queenslibrary",
+  "domain": "https://www.queenslibrary.org",
+  "url": "http://www.queenslibrary.org/search/apachesolr_search/%s",
+  "description": "QueensLibrary",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

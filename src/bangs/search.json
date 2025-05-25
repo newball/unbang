@@ -1,0 +1,8 @@
+{
+  "bang": "search",
+  "domain": "https://www.search.com",
+  "url": "http://www.search.com/search?q=%s",
+  "description": "Search.com",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

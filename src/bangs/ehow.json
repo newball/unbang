@@ -1,0 +1,8 @@
+{
+  "bang": "ehow",
+  "domain": "https://www.ehow.com",
+  "url": "http://www.ehow.com/search.html?s=%s",
+  "description": "eHow",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

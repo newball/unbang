@@ -1,0 +1,8 @@
+{
+  "bang": "wayback",
+  "domain": "https://web.archive.org",
+  "url": "https://web.archive.org/web/*/%s",
+  "description": "Internet Archive: Wayback Machine",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

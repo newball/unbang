@@ -1,0 +1,8 @@
+{
+  "bang": "tripadvisor",
+  "domain": "https://www.tripadvisor.com",
+  "url": "http://www.tripadvisor.com/Search?q=%s&sub-search=Go",
+  "description": "Trip Advisor",
+  "category": "Research",
+  "sub-category": "Travel"
+}

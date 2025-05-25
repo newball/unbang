@@ -1,0 +1,8 @@
+{
+  "bang": "fsc",
+  "domain": "https://www.futura-sciences.com",
+  "url": "http://www.futura-sciences.com/magazines/sciences/recherche/?q=%s",
+  "description": "Futura Sciences",
+  "category": "Research",
+  "sub-category": "Learning"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "KarmaPlace",
+  "domain": "https://www.karmaplace.com",
+  "url": "http://www.karmaplace.com/catalogsearch/result/?q=%s",
+  "description": "KarmaPlace",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

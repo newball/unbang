@@ -1,0 +1,8 @@
+{
+  "bang": "ltrans",
+  "domain": "https://www.linguee.es",
+  "url": "https://www.linguee.es/espanol-ingles/search?&query=%s",
+  "description": "Linguee",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

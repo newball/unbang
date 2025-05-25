@@ -1,0 +1,8 @@
+{
+  "bang": "steem",
+  "domain": "https://www.asksteem.com",
+  "url": "https://www.asksteem.com/search?q=%s",
+  "description": "Steem",
+  "category": "Online Services",
+  "sub-category": "Social (intl)"
+}

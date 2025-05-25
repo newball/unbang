@@ -1,0 +1,8 @@
+{
+  "bang": "redis",
+  "domain": "https://redis.io",
+  "url": "http://redis.io/commands/%s ",
+  "description": "Redis Command Reference",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

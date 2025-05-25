@@ -1,0 +1,8 @@
+{
+  "bang": "aprsfi",
+  "domain": "https://aprs.fi",
+  "url": "http://aprs.fi/#!mt=roadmap&z=11&call=a%2F%s&timerange=3600&tail=3600",
+  "description": "aprs.fi",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

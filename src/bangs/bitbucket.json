@@ -1,0 +1,8 @@
+{
+  "bang": "bitbucket",
+  "domain": "https://bitbucket.org",
+  "url": "http://bitbucket.org/repo/all/?name=%s",
+  "description": "BitBucket.org",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

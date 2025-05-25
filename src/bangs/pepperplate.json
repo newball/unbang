@@ -1,0 +1,8 @@
+{
+  "bang": "pepperplate",
+  "domain": "https://www.pepperplate.com",
+  "url": "http://www.pepperplate.com/search/?text=%s",
+  "description": "Pepperplate",
+  "category": "Research",
+  "sub-category": "Food"
+}

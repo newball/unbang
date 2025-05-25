@@ -1,0 +1,8 @@
+{
+  "bang": "ash",
+  "domain": "https://selfhosted.libhunt.com",
+  "url": "https://selfhosted.libhunt.com/search?query=%s",
+  "description": "Awesome Selfhosted",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

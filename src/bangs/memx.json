@@ -1,0 +1,8 @@
+{
+  "bang": "memx",
+  "domain": "https://www.memoryexpress.com",
+  "url": "http://www.memoryexpress.com/Search/Products?Search=%s",
+  "description": "Memory Express",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

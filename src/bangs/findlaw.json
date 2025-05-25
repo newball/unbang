@@ -1,0 +1,8 @@
+{
+  "bang": "findlaw",
+  "domain": "https://public.findlaw.com",
+  "url": "http://public.findlaw.com/LCsearch.html?entry=%s",
+  "description": "FindLaw",
+  "category": "Research",
+  "sub-category": "Law"
+}

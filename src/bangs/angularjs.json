@@ -1,0 +1,8 @@
+{
+  "bang": "angularjs",
+  "domain": "https://docs.angularjs.org",
+  "url": "https://docs.angularjs.org/?as_q=%s",
+  "description": "Angular JS (1.0) documentation",
+  "category": "Tech",
+  "sub-category": "Languages (javascript)"
+}

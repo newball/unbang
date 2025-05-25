@@ -1,0 +1,8 @@
+{
+  "bang": "fewiki",
+  "domain": "https://fireemblemwiki.org",
+  "url": "https://fireemblemwiki.org/w/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "Fire Emblem Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

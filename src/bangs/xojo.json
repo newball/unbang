@@ -1,0 +1,8 @@
+{
+  "bang": "xojo",
+  "domain": "https://forum.xojo.com",
+  "url": "https://forum.xojo.com/conversations/all?search=%s",
+  "description": "Xojo Forum",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

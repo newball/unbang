@@ -1,0 +1,8 @@
+{
+  "bang": "igdb",
+  "domain": "https://www.igdb.com",
+  "url": "https://www.igdb.com/search?q=%s",
+  "description": "IGDB - Internet Game Database",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

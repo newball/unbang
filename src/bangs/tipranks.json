@@ -1,0 +1,8 @@
+{
+  "bang": "tipranks",
+  "domain": "https://www.tipranks.com",
+  "url": "https://www.tipranks.com/stocks/%s",
+  "description": "Tip Ranks",
+  "category": "News",
+  "sub-category": "Business"
+}

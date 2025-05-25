@@ -1,0 +1,8 @@
+{
+  "bang": "telefang",
+  "domain": "https://wiki.telefang.net",
+  "url": "http://wiki.telefang.net/index.php?search=%s",
+  "description": "Wikifang",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

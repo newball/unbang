@@ -1,0 +1,8 @@
+{
+  "bang": "fotbollskanalen",
+  "domain": "https://www.fotbollskanalen.se",
+  "url": "http://www.fotbollskanalen.se/sok?q=%s",
+  "description": "Fotbollskanalen",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

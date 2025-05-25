@@ -1,0 +1,8 @@
+{
+  "bang": "zappos",
+  "domain": "https://www.zappos.com",
+  "url": "https://www.zappos.com/%s",
+  "description": "Zappos",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

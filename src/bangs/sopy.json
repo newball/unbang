@@ -1,0 +1,8 @@
+{
+  "bang": "sopy",
+  "domain": "https://stackoverflow.com",
+  "url": "http://stackoverflow.com/search?q=[python]+%s",
+  "description": "Stack Overflow Python",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

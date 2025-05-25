@@ -1,0 +1,8 @@
+{
+  "bang": "tsr",
+  "domain": "https://www.thestudentroom.co.uk",
+  "url": "https://www.thestudentroom.co.uk/search/?tsr-search-query=%s",
+  "description": "The Student Room",
+  "category": "Research",
+  "sub-category": "Academic"
+}

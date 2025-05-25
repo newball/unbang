@@ -1,0 +1,8 @@
+{
+  "bang": "musiciansfriend",
+  "domain": "https://www.musiciansfriend.com",
+  "url": "http://www.musiciansfriend.com/search/search.jsp?sB=r&question=%s",
+  "description": "Musician's Friend",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

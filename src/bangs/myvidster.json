@@ -1,0 +1,8 @@
+{
+  "bang": "myvidster",
+  "domain": "https://www.myvidster.com",
+  "url": "https://www.myvidster.com/search/?q=%s",
+  "description": "MyVidster",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

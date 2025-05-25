@@ -1,0 +1,8 @@
+{
+  "bang": "ssp",
+  "domain": "https://www.silverstripe.org",
+  "url": "http://www.silverstripe.org/search/?q=%s",
+  "description": "Silverstripe",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

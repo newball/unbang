@@ -1,0 +1,8 @@
+{
+  "bang": "amvidde",
+  "domain": "https://www.amazon.de",
+  "url": "http://www.amazon.de/s/url=search-alias%3Dinstant-video&field-keywords=%s",
+  "description": "Amazon.de Instant Video",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

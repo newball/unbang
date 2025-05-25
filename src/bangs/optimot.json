@@ -1,0 +1,8 @@
+{
+  "bang": "optimot",
+  "domain": "https://aplicacions.llengua.gencat.cat",
+  "url": "http://aplicacions.llengua.gencat.cat/llc/AppJava/index.html?action=Principal&method=cerca_generica&input_cercar=%s&tipusCerca=cerca.tot",
+  "description": "Optimot",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

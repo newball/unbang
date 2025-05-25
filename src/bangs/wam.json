@@ -1,0 +1,8 @@
+{
+  "bang": "wam",
+  "domain": "https://m.wolframalpha.com",
+  "url": "http://m.wolframalpha.com/input/?i=%s",
+  "description": "WolframAlpha Mobile",
+  "category": "Research",
+  "sub-category": "Learning"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "sbw",
+  "domain": "https://www.stopbadware.org",
+  "url": "https://www.stopbadware.org/clearinghouse/search/?url=%s",
+  "description": "StopBadware",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ggr",
+  "domain": "https://www.google.gr",
+  "url": "http://www.google.gr/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google GR",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

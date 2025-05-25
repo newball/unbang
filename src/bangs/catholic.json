@@ -1,0 +1,8 @@
+{
+  "bang": "catholic",
+  "domain": "https://www.catholic.com",
+  "url": "http://www.catholic.com/search/content/%s",
+  "description": "Catholic Answers",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

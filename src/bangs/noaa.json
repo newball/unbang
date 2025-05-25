@@ -1,0 +1,8 @@
+{
+  "bang": "noaa",
+  "domain": "https://forecast.weather.gov",
+  "url": "http://forecast.weather.gov/zipcity.php?inputstring=%s",
+  "description": "NOAA",
+  "category": "News",
+  "sub-category": "Weather"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "chewy",
+  "domain": "https://www.chewy.com",
+  "url": "http://www.chewy.com/s?dept=all&query=%s",
+  "description": "chewy.com",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

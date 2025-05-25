@@ -1,0 +1,8 @@
+{
+  "bang": "gifl",
+  "domain": "https://google.com",
+  "url": "http://google.com/search?btnI=1&q=%s",
+  "description": "Google: I'm Feeling Lucky",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

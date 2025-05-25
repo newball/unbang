@@ -1,0 +1,8 @@
+{
+  "bang": "mtu",
+  "domain": "https://www.mtu.edu",
+  "url": "https://www.mtu.edu/search/?q=%s",
+  "description": "Michigan Technological University",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "adsr",
+  "domain": "https://www.adsrsounds.com",
+  "url": "https://www.adsrsounds.com/?src=%s",
+  "description": "ADSR Sounds",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

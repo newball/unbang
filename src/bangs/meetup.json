@@ -1,0 +1,8 @@
+{
+  "bang": "meetup",
+  "domain": "https://www.meetup.com",
+  "url": "http://www.meetup.com/find/?keywords=%s",
+  "description": "Meetup",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

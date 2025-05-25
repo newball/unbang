@@ -1,0 +1,8 @@
+{
+  "bang": "gbk",
+  "domain": "https://www.google.com",
+  "url": "https://www.google.com/bookmarks/l#!q=%s",
+  "description": "Google Bookmarks",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

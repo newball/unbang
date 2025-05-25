@@ -1,0 +1,8 @@
+{
+  "bang": "candlestickpatterns",
+  "domain": "https://www.candlestickpatterns.org",
+  "url": "http://www.candlestickpatterns.org/?s=%s",
+  "description": "Candlestick Patterns",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

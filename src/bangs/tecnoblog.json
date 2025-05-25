@@ -1,0 +1,8 @@
+{
+  "bang": "tecnoblog",
+  "domain": "https://tecnoblog.net",
+  "url": "https://tecnoblog.net/?s=%s",
+  "description": "Tecnoblog",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

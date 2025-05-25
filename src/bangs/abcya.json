@@ -1,0 +1,8 @@
+{
+  "bang": "abcya",
+  "domain": "https://www.abcya.com",
+  "url": "https://www.abcya.com/search/?term=%s&type=%s",
+  "description": "abcya",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

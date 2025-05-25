@@ -1,0 +1,8 @@
+{
+  "bang": "matpl",
+  "domain": "https://www.matematyka.pl",
+  "url": "http://www.matematyka.pl/search.php?keywords=%s",
+  "description": "Forum Matematyka.pl",
+  "category": "Research",
+  "sub-category": "Learning"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "l1sp",
+  "domain": "https://l1sp.org",
+  "url": "http://l1sp.org/search?q=%s",
+  "description": "Lisp Docs",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

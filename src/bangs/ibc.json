@@ -1,0 +1,8 @@
+{
+  "bang": "ibc",
+  "domain": "https://www.mtb-news.de",
+  "url": "http://www.mtb-news.de/forum/search/12469693/?q=%s&o=relevance",
+  "description": "MTB-News",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

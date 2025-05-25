@@ -1,0 +1,8 @@
+{
+  "bang": "vertalennu",
+  "domain": "https://www.vertalen.nu",
+  "url": "http://www.vertalen.nu/vertaal?vertaal=%s&van=en&naar=nl",
+  "description": "Vertalen.nu",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

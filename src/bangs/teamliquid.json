@@ -1,0 +1,8 @@
+{
+  "bang": "teamliquid",
+  "domain": "https://www.teamliquid.net",
+  "url": "http://www.teamliquid.net/forum/search.php?q=%s",
+  "description": "Teamliquid",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

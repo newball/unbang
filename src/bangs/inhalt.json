@@ -1,0 +1,8 @@
+{
+  "bang": "inhalt",
+  "domain": "https://www.inhaltsangabe.de",
+  "url": "https://www.inhaltsangabe.de/?s=%s",
+  "description": "Inhaltsangabe.de",
+  "category": "Research",
+  "sub-category": "Learning"
+}

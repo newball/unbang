@@ -1,0 +1,8 @@
+{
+  "bang": "mineforum",
+  "domain": "https://www.minecraftforum.net",
+  "url": "https://www.minecraftforum.net/search?search=%s",
+  "description": "Minecraft Forums",
+  "category": "Entertainment",
+  "sub-category": "Games (Minecraft)"
+}

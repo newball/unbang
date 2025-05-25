@@ -1,0 +1,8 @@
+{
+  "bang": "dibs",
+  "domain": "https://www.1stdibs.com",
+  "url": "https://www.1stdibs.com/search/?q=%s",
+  "description": "1st Dibs",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

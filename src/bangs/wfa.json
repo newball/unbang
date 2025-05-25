@@ -1,0 +1,8 @@
+{
+  "bang": "wfa",
+  "domain": "https://fa.wikipedia.org",
+  "url": "https://fa.wikipedia.org/w/index.php?search=%s",
+  "description": "Persian Wikipedia",
+  "category": "Research",
+  "sub-category": "Reference"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "sym",
+  "domain": "https://symbolhound.com",
+  "url": "http://symbolhound.com/?q=%s",
+  "description": "Symbolhound",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

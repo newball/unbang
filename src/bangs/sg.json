@@ -1,0 +1,8 @@
+{
+  "bang": "sg",
+  "domain": "https://sourcegraph.com",
+  "url": "https://sourcegraph.com/search?q=%s",
+  "description": "Sourcegraph",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

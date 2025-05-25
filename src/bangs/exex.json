@@ -1,0 +1,8 @@
+{
+  "bang": "exex",
+  "domain": "https://www.experts-exchange.com",
+  "url": "http://www.experts-exchange.com/searchResults.jsp?searchTerms=%s&searchType=10",
+  "description": "Experts Exchange",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

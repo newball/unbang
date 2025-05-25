@@ -1,0 +1,8 @@
+{
+  "bang": "pwf",
+  "domain": "https://polarweldfin.com",
+  "url": "https://polarweldfin.com/etsi?controller=search&s=%s",
+  "description": "Polarweldfin",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

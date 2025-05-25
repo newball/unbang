@@ -1,0 +1,8 @@
+{
+  "bang": "weathergc",
+  "domain": "https://weather.gc.ca",
+  "url": "https://weather.gc.ca/city/jump_e.html?city=%s",
+  "description": "Environment Canada Weather Office",
+  "category": "News",
+  "sub-category": "Weather"
+}

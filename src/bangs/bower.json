@@ -1,0 +1,8 @@
+{
+  "bang": "bower",
+  "domain": "https://libraries.io",
+  "url": "https://libraries.io/search?q=%s&platforms=Bower&sort=rank&sort=rank",
+  "description": "bower",
+  "category": "Tech",
+  "sub-category": "Languages (javascript)"
+}

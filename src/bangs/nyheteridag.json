@@ -1,0 +1,8 @@
+{
+  "bang": "nyheteridag",
+  "domain": "https://nyheteridag.se",
+  "url": "https://nyheteridag.se/?s=%s",
+  "description": "Nyheter Idag",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

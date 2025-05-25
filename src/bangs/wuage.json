@@ -1,0 +1,8 @@
+{
+  "bang": "wuage",
+  "domain": "https://s.wuage.com",
+  "url": "https://s.wuage.com/product/search?keywords= %s",
+  "description": "wuage",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "checkhost",
+  "domain": "https://check-host.net",
+  "url": "https://check-host.net/ip-info?host=%s",
+  "description": "Check-host.net",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

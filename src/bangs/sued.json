@@ -1,0 +1,8 @@
+{
+  "bang": "sued",
+  "domain": "https://www.sueddeutsche.de",
+  "url": "http://www.sueddeutsche.de/news?search=%s",
+  "description": "süddeutsche.de",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

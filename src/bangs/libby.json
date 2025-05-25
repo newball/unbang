@@ -1,0 +1,8 @@
+{
+  "bang": "libby",
+  "domain": "https://libbyapp.com",
+  "url": "https://libbyapp.com/library/reads/search/query-%s/page-1",
+  "description": "Libby, By Overdrive",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

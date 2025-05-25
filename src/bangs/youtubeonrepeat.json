@@ -1,0 +1,8 @@
+{
+  "bang": "youtubeonrepeat",
+  "domain": "https://youtubeonrepeat.com",
+  "url": "http://youtubeonrepeat.com/results/?search_query=%s",
+  "description": "Youtube on Repeat",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

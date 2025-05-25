@@ -1,0 +1,8 @@
+{
+  "bang": "ecom",
+  "domain": "https://community.e-spirit.com",
+  "url": "https://community.e-spirit.com/search.jspa?peopleEnabled=true&userID=&containerType=&container=&spotlight=true&q=%s",
+  "description": "eSpirit Community",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

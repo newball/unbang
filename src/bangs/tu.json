@@ -1,0 +1,8 @@
+{
+  "bang": "tu",
+  "domain": "https://tu-dresden.de",
+  "url": "https://tu-dresden.de/@@search?SearchableText=%s",
+  "description": "TU Dresden",
+  "category": "Research",
+  "sub-category": "Academic"
+}

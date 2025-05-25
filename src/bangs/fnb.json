@@ -1,0 +1,8 @@
+{
+  "bang": "fnb",
+  "domain": "https://www.fanburst.com",
+  "url": "https://www.fanburst.com/search?q=%s",
+  "description": "Fanburst",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

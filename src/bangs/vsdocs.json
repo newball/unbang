@@ -1,0 +1,8 @@
+{
+  "bang": "vsdocs",
+  "domain": "https://code.visualstudio.com",
+  "url": "https://code.visualstudio.com/Search?q=%s",
+  "description": "Visual Studio Code Docs",
+  "category": "Multimedia",
+  "sub-category": "Docs"
+}

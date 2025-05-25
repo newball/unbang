@@ -1,0 +1,8 @@
+{
+  "bang": "amc",
+  "domain": "https://www.amctv.com",
+  "url": "http://www.amctv.com/search#q=%s",
+  "description": "AMC TV",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

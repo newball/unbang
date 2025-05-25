@@ -1,0 +1,8 @@
+{
+  "bang": "cr",
+  "domain": "https://codereview.stackexchange.com",
+  "url": "http://codereview.stackexchange.com/search?q=%s",
+  "description": "codereview.stackexchange.com",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

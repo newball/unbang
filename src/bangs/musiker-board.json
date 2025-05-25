@@ -1,0 +1,8 @@
+{
+  "bang": "musiker-board",
+  "domain": "https://www.google.de",
+  "url": "https://www.google.de/search?q=%s+site%3Awww.musiker-board.de&oq=Schaffer+site%3Awww.musiker-board.de",
+  "description": "Musiker Board",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

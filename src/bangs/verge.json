@@ -1,0 +1,8 @@
+{
+  "bang": "verge",
+  "domain": "https://www.theverge.com",
+  "url": "http://www.theverge.com/search?q=%s",
+  "description": "The Verge",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "byte",
+  "domain": "https://www.byte-post.com",
+  "url": "https://www.byte-post.com/?s=%s",
+  "description": "BytePost",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

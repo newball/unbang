@@ -1,0 +1,8 @@
+{
+  "bang": "findanyfilm",
+  "domain": "https://www.findanyfilm.com",
+  "url": "http://www.findanyfilm.com/search?term=%s",
+  "description": "FindAnyFilm",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

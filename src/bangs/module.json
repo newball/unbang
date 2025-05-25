@@ -1,0 +1,8 @@
+{
+  "bang": "module",
+  "domain": "https://en.wikipedia.org",
+  "url": "https://en.wikipedia.org/wiki/Module:%s",
+  "description": "Wikipedia",
+  "category": "Tech",
+  "sub-category": "Languages (lua)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "utleg",
+  "domain": "https://le.utah.gov",
+  "url": "http://le.utah.gov/solrsearch.jsp?request=%s",
+  "description": "Utah State Legislature",
+  "category": "Research",
+  "sub-category": "Government"
+}

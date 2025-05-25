@@ -1,0 +1,8 @@
+{
+  "bang": "amde",
+  "domain": "https://www.amazon.de",
+  "url": "https://www.amazon.de/s?k=%s",
+  "description": "Amazon.de",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

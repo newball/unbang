@@ -1,0 +1,8 @@
+{
+  "bang": "spanishd",
+  "domain": "https://www.spanishdict.com",
+  "url": "http://www.spanishdict.com/translate/%s",
+  "description": "SpanishDict",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

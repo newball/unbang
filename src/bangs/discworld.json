@@ -1,0 +1,8 @@
+{
+  "bang": "discworld",
+  "domain": "https://discworld.wikia.com",
+  "url": "http://discworld.wikia.com/wiki/Special:Search?query=%s",
+  "description": "discworld",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

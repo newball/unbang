@@ -1,0 +1,8 @@
+{
+  "bang": "mailchimp",
+  "domain": "https://mailchimp.com",
+  "url": "https://mailchimp.com/search/?q=%s",
+  "description": "MailChimp",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

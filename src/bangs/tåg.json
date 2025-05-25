@@ -1,0 +1,8 @@
+{
+  "bang": "tåg",
+  "domain": "https://www.trafikverket.se",
+  "url": "https://www.trafikverket.se/trafikinformation/tag/?&TrainOrStation=%s",
+  "description": "Tåginformation Sverige (Trafikverket)",
+  "category": "Research",
+  "sub-category": "Travel"
+}

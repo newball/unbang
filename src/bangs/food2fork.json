@@ -1,0 +1,8 @@
+{
+  "bang": "food2fork",
+  "domain": "https://food2fork.com",
+  "url": "http://food2fork.com/top?q=%s",
+  "description": "Food2Fork",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

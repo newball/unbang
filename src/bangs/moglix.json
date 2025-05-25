@@ -1,0 +1,8 @@
+{
+  "bang": "moglix",
+  "domain": "https://www.moglix.com",
+  "url": "https://www.moglix.com/search?controller=search&orderby=position&orderway=desc&search_query= %s&submit_search=Search",
+  "description": "Moglix",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

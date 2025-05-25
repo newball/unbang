@@ -1,0 +1,8 @@
+{
+  "bang": "tfs",
+  "domain": "https://www.thermofisher.com",
+  "url": "http://www.thermofisher.com/search/results?query=%s",
+  "description": "Thermo Fisher Scientific",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

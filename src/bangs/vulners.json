@@ -1,0 +1,8 @@
+{
+  "bang": "vulners",
+  "domain": "https://vulners.com",
+  "url": "https://vulners.com/search?query=%s",
+  "description": "Vulners.com",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

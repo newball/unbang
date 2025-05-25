@@ -1,0 +1,8 @@
+{
+  "bang": "host",
+  "domain": "https://networking.ringofsaturn.com",
+  "url": "http://networking.ringofsaturn.com/Tools/dig.php?domain=ANY+%s",
+  "description": "IP Lookup",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

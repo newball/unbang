@@ -1,0 +1,8 @@
+{
+  "bang": "кгут",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#ru/en/%s",
+  "description": "Google Translate (ru→en)",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

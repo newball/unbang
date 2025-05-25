@@ -1,0 +1,8 @@
+{
+  "bang": "zoopla",
+  "domain": "https://www.zoopla.co.uk",
+  "url": "http://www.zoopla.co.uk/search/?q=%s&geo_autocomplete_identifier=&country_code=&flatshare_q=&section=for-sale&search_source=nav&include_shared_ownership=true&include_retirement_homes=true&new_homes=include",
+  "description": "Zoopla",
+  "category": "Research",
+  "sub-category": "Real Estate"
+}

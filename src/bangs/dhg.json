@@ -1,0 +1,8 @@
+{
+  "bang": "dhg",
+  "domain": "https://www.dhgate.com",
+  "url": "http://www.dhgate.com/wholesale/search.do?act=search&sus=&searchkey=%s",
+  "description": "DHgate",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

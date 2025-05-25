@@ -1,0 +1,8 @@
+{
+  "bang": "dl",
+  "domain": "https://blog.desdelinux.net",
+  "url": "http://blog.desdelinux.net/?s=%s",
+  "description": "DesdeLinux",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

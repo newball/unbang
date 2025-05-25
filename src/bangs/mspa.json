@@ -1,0 +1,8 @@
+{
+  "bang": "mspa",
+  "domain": "https://mspaintadventures.wikia.com",
+  "url": "http://mspaintadventures.wikia.com/wiki/Special:Search?search=%s&fulltext=Search",
+  "description": "MS Paint Adventures Wiki",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

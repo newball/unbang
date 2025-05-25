@@ -1,0 +1,8 @@
+{
+  "bang": "acc",
+  "domain": "https://aleth.io",
+  "url": "https://aleth.io/account/%s",
+  "description": "aleth.io account address",
+  "category": "Tech",
+  "sub-category": "Cryptocurrency"
+}

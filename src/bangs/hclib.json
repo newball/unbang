@@ -1,0 +1,8 @@
+{
+  "bang": "hclib",
+  "domain": "https://hclib.bibliocommons.com",
+  "url": "https://hclib.bibliocommons.com/v2/search?query=%s&searchType=smart",
+  "description": "Hennepin County Library",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ptt",
+  "domain": "https://www.ptt.cc",
+  "url": "https://www.ptt.cc/bbs/%s",
+  "description": "PTT",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

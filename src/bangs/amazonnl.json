@@ -1,0 +1,8 @@
+{
+  "bang": "amazonnl",
+  "domain": "https://www.amazon.nl",
+  "url": "https://www.amazon.nl/s?k=%s",
+  "description": "Amazon Nederland",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

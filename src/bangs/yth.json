@@ -1,0 +1,8 @@
+{
+  "bang": "yth",
+  "domain": "https://www.youtube.com",
+  "url": "https://www.youtube.com/feed/history?query=%s",
+  "description": "Youtube History",
+  "category": "Research",
+  "sub-category": "Reference"
+}

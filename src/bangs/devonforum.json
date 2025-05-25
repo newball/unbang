@@ -1,0 +1,8 @@
+{
+  "bang": "devonforum",
+  "domain": "https://forum.devontechnologies.com",
+  "url": "http://forum.devontechnologies.com/search.php?keywords=%s",
+  "description": "DEVONtechnologies Forum",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

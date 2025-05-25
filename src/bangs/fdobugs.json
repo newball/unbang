@@ -1,0 +1,8 @@
+{
+  "bang": "fdobugs",
+  "domain": "https://bugs.freedesktop.org",
+  "url": "https://bugs.freedesktop.org/buglist.cgi?quicksearch=%s",
+  "description": "freedesktop.org bugs",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

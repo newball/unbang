@@ -1,0 +1,8 @@
+{
+  "bang": "capost",
+  "domain": "https://www.canadapost.ca",
+  "url": "http://www.canadapost.ca//cpotools/apps/track/personal/findByTrackNumber?trackingNumber=%s",
+  "description": "Canada Post",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

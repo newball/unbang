@@ -1,0 +1,8 @@
+{
+  "bang": "lj",
+  "domain": "https://duckduckgo.com",
+  "url": "http://duckduckgo.com/?q=site%3Alivejournal.com+%s ",
+  "description": "LiveJournal",
+  "category": "Entertainment",
+  "sub-category": "Blogs (intl)"
+}

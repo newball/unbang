@@ -1,0 +1,8 @@
+{
+  "bang": "udev",
+  "domain": "https://developer.ubuntu.com",
+  "url": "https://developer.ubuntu.com/en/search/?q=%s",
+  "description": "Ubuntu Developer",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

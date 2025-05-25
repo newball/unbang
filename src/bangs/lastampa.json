@@ -1,0 +1,8 @@
+{
+  "bang": "lastampa",
+  "domain": "https://www.lastampa.it",
+  "url": "http://www.lastampa.it/ricerca?search=%s",
+  "description": "La Stampa",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

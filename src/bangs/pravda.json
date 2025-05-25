@@ -1,0 +1,8 @@
+{
+  "bang": "pravda",
+  "domain": "https://www.pravda.sk",
+  "url": "https://www.pravda.sk/vyhladavanie/?q=%s",
+  "description": "Pravda",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

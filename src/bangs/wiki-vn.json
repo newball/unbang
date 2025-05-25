@@ -1,0 +1,8 @@
+{
+  "bang": "wiki-vn",
+  "domain": "https://vi.wikipedia.org",
+  "url": "https://vi.wikipedia.org/w/index.php?search=%s",
+  "description": "Wikipedia Vietnamese",
+  "category": "Research",
+  "sub-category": "Reference"
+}

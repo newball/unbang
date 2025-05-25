@@ -1,0 +1,8 @@
+{
+  "bang": "bailii",
+  "domain": "https://www.bailii.org",
+  "url": "http://www.bailii.org/cgi-bin/sino_search_1.cgi?sort=rank&query=%s",
+  "description": "British and Irish Legal Information Institute",
+  "category": "Research",
+  "sub-category": "Law"
+}

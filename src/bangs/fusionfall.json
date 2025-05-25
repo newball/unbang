@@ -1,0 +1,8 @@
+{
+  "bang": "fusionfall",
+  "domain": "https://fusionfall.wikia.com",
+  "url": "http://fusionfall.wikia.com/wiki/Special:Search?query=%s",
+  "description": "FusionFall Wikia",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

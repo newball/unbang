@@ -1,0 +1,8 @@
+{
+  "bang": "ie",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Aie+%s",
+  "description": "duckduckgo",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "heroku",
+  "domain": "https://devcenter.heroku.com",
+  "url": "http://devcenter.heroku.com/articles?q=%s",
+  "description": "Heroku Devcenter",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

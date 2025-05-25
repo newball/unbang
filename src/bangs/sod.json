@@ -1,0 +1,8 @@
+{
+  "bang": "sod",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site:stackoverflow.com+%s",
+  "description": "Stackoverflow with DuckDuckGo",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

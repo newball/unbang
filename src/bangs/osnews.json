@@ -1,0 +1,8 @@
+{
+  "bang": "osnews",
+  "domain": "https://www.osnews.com",
+  "url": "http://www.osnews.com/search?q=%s",
+  "description": "OSNews",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

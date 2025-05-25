@@ -1,0 +1,8 @@
+{
+  "bang": "mankier",
+  "domain": "https://www.mankier.com",
+  "url": "http://www.mankier.com/?q=%s",
+  "description": "Mankier",
+  "category": "Tech",
+  "sub-category": "Sysadmin (man)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "aktualne",
+  "domain": "https://www.aktualne.cz",
+  "url": "https://www.aktualne.cz/hledani/?query=%s",
+  "description": "Aktuálně.cz",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

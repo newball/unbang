@@ -1,0 +1,8 @@
+{
+  "bang": "jalopnik",
+  "domain": "https://jalopnik.com",
+  "url": "http://jalopnik.com/search?q=%s",
+  "description": "Jalopnik",
+  "category": "Entertainment",
+  "sub-category": "Blogs"
+}

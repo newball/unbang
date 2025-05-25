@@ -1,0 +1,8 @@
+{
+  "bang": "gsc",
+  "domain": "https://scholar.google.com",
+  "url": "http://scholar.google.com/scholar?q=%s&btnG=Search&as_sdt=800000000001&as_sdtp=on",
+  "description": "Google Scholar",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

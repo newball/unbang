@@ -1,0 +1,8 @@
+{
+  "bang": "eci",
+  "domain": "https://www.elcorteingles.es",
+  "url": "http://www.elcorteingles.es/search?s=%s",
+  "description": "El Corte Ingles",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

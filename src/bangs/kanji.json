@@ -1,0 +1,8 @@
+{
+  "bang": "kanji",
+  "domain": "https://app.kanjialive.com",
+  "url": "https://app.kanjialive.com/search/%s",
+  "description": "Kanji Alive",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

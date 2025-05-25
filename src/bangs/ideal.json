@@ -1,0 +1,8 @@
+{
+  "bang": "ideal",
+  "domain": "https://www.idealworld.tv",
+  "url": "http://www.idealworld.tv/search/%s?fh_location=//IdealWorld/en_GB/$s=%s&gs=%s",
+  "description": "IdealWorld.tv",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

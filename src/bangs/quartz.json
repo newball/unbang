@@ -1,0 +1,8 @@
+{
+  "bang": "quartz",
+  "domain": "https://qz.com",
+  "url": "http://qz.com/search/%s",
+  "description": "Quartz",
+  "category": "News",
+  "sub-category": "Business"
+}

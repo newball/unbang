@@ -1,0 +1,8 @@
+{
+  "bang": "tivo",
+  "domain": "https://www3.tivo.com",
+  "url": "http://www3.tivo.com/tivo-tco/search.do?dispatch=simplesearch&searchFor=%s",
+  "description": "TiVo",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "msac",
+  "domain": "https://academic.microsoft.com",
+  "url": "https://academic.microsoft.com/search?q=%s&f=&orderBy=0&forceFallback=true",
+  "description": "Microsoft Academic",
+  "category": "Research",
+  "sub-category": "Academic"
+}

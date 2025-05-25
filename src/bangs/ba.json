@@ -1,0 +1,8 @@
+{
+  "bang": "ba",
+  "domain": "https://beeradvocate.com",
+  "url": "http://beeradvocate.com/search?q=%s&qt=beer",
+  "description": "Beer Advocate",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

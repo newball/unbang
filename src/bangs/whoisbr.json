@@ -1,0 +1,8 @@
+{
+  "bang": "whoisbr",
+  "domain": "https://registro.br",
+  "url": "https://registro.br/cgi-bin/whois/?qr=%s",
+  "description": "Registro.br",
+  "category": "Tech",
+  "sub-category": "Sysadmin (network)"
+}

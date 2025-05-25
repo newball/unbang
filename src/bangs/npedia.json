@@ -1,0 +1,8 @@
+{
+  "bang": "npedia",
+  "domain": "https://dic.nicovideo.jp",
+  "url": "http://dic.nicovideo.jp/a/%s",
+  "description": "Niconico Pedia",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

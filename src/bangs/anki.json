@@ -1,0 +1,8 @@
+{
+  "bang": "anki",
+  "domain": "https://ankiweb.net",
+  "url": "https://ankiweb.net/shared/decks/%s",
+  "description": "Ankiweb",
+  "category": "Research",
+  "sub-category": "Academic"
+}

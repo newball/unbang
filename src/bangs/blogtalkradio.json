@@ -1,0 +1,8 @@
+{
+  "bang": "blogtalkradio",
+  "domain": "https://blogtalkradio.com",
+  "url": "http://blogtalkradio.com/search/%s",
+  "description": "BlogTalkRadio",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

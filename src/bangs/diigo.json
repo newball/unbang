@@ -1,0 +1,8 @@
+{
+  "bang": "diigo",
+  "domain": "https://www.diigo.com",
+  "url": "http://www.diigo.com/search/my?q=%s",
+  "description": "Diigo",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

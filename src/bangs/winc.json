@@ -1,0 +1,8 @@
+{
+  "bang": "winc",
+  "domain": "https://incubator.wikimedia.org",
+  "url": "http://incubator.wikimedia.org/w/index.php?title=Special%3ASearch&search=%s",
+  "description": "Wikimedia Incubator",
+  "category": "Research",
+  "sub-category": "Academic"
+}

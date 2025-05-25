@@ -1,0 +1,8 @@
+{
+  "bang": "saptables",
+  "domain": "https://www.tcodesearch.com",
+  "url": "http://www.tcodesearch.com/sap-tables/detail?id=%s",
+  "description": "TCodeSearch Tables",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

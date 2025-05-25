@@ -1,0 +1,8 @@
+{
+  "bang": "nextcloudapp",
+  "domain": "https://apps.nextcloud.com",
+  "url": "https://apps.nextcloud.com/?search=%s",
+  "description": "Nextcloud App Store",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

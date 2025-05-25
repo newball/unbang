@@ -1,0 +1,8 @@
+{
+  "bang": "redtram",
+  "domain": "https://ru.redtram.com",
+  "url": "https://ru.redtram.com/search/?q=%s",
+  "description": "RedTram",
+  "category": "News",
+  "sub-category": "International"
+}

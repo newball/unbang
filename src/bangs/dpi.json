@@ -1,0 +1,8 @@
+{
+  "bang": "dpi",
+  "domain": "https://www.dogpile.com",
+  "url": "http://www.dogpile.com/search/images?q=%s",
+  "description": "Dogpile Images",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

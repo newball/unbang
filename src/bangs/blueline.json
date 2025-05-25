@@ -1,0 +1,8 @@
+{
+  "bang": "blueline",
+  "domain": "https://rsw.me.uk",
+  "url": "https://rsw.me.uk/blueline/methods/search?q=%s",
+  "description": "Blueline",
+  "category": "Research",
+  "sub-category": "Topical"
+}

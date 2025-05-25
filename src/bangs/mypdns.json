@@ -1,0 +1,8 @@
+{
+  "bang": "mypdns",
+  "domain": "https://www.mypdns.org",
+  "url": "http://www.mypdns.org/trac/search?q=%s",
+  "description": "My Private DNS",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

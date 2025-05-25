@@ -1,0 +1,8 @@
+{
+  "bang": "right",
+  "domain": "https://www.rightrelevance.com",
+  "url": "http://www.rightrelevance.com/search/articles?query=%s",
+  "description": "rightrelevance",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

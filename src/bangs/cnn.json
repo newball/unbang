@@ -1,0 +1,8 @@
+{
+  "bang": "cnn",
+  "domain": "https://www.cnn.com",
+  "url": "http://www.cnn.com/search/?q=%s",
+  "description": "CNN",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

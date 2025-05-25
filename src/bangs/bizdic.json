@@ -1,0 +1,8 @@
+{
+  "bang": "bizdic",
+  "domain": "https://www.businessdictionary.com",
+  "url": "http://www.businessdictionary.com/search.php?q=%s",
+  "description": "Business Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gno",
+  "domain": "https://www.google.no",
+  "url": "http://www.google.no/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google NO",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "code",
+  "domain": "https://www.searchco.de",
+  "url": "http://www.searchco.de/?q=%s&cs=on",
+  "description": "Search Code",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

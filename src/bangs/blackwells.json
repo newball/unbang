@@ -1,0 +1,8 @@
+{
+  "bang": "blackwells",
+  "domain": "https://blackwells.co.uk",
+  "url": "https://blackwells.co.uk/bookshop/search/?keyword=%s",
+  "description": "Blackwell's",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

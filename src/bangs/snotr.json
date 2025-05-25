@@ -1,0 +1,8 @@
+{
+  "bang": "snotr",
+  "domain": "https://www.snotr.com",
+  "url": "https://www.snotr.com/search/?search=%s",
+  "description": "Snotr",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "nnd",
+  "domain": "https://ordbok.uib.no",
+  "url": "https://ordbok.uib.no/perl/ordbok.cgi?OPP=%s&ant_bokmaal=5&ant_nynorsk=5&nynorsk=+&ordbok=nynorsk",
+  "description": "The Norwegian Nynorsk dictionary",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

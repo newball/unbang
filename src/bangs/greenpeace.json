@@ -1,0 +1,8 @@
+{
+  "bang": "greenpeace",
+  "domain": "https://www.greenpeace.org",
+  "url": "http://www.greenpeace.org/usa/?s=%s",
+  "description": "Greenpeace",
+  "category": "News",
+  "sub-category": "Specialty"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "brit",
+  "domain": "https://www.britannica.com",
+  "url": "https://www.britannica.com/search?query=%s",
+  "description": "Encyclopaedia Brittanica",
+  "category": "Research",
+  "sub-category": "Academic"
+}

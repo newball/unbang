@@ -1,0 +1,8 @@
+{
+  "bang": "imageshack",
+  "domain": "https://imageshack.us",
+  "url": "http://imageshack.us/photos/%s",
+  "description": "Image Shack",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

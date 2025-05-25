@@ -1,0 +1,8 @@
+{
+  "bang": "osmwiki",
+  "domain": "https://wiki.openstreetmap.org",
+  "url": "https://wiki.openstreetmap.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "OpenStreetMap Wiki (short)",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

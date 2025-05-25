@@ -1,0 +1,8 @@
+{
+  "bang": "pantone",
+  "domain": "https://www.pantone.com",
+  "url": "https://www.pantone.com/color-finder?q=%s",
+  "description": "Pantone Color Finder",
+  "category": "Tech",
+  "sub-category": "Design"
+}

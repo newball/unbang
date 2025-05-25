@@ -1,0 +1,8 @@
+{
+  "bang": "eventim",
+  "domain": "https://www.eventim.de",
+  "url": "http://www.eventim.de/Tickets.html?affiliate=TUG&fun=search&fuzzy=yes&doc=search&action=grouped&inline=false&suchbegriff=%s&btn=true&x10=4",
+  "description": "Eventim",
+  "category": "Entertainment",
+  "sub-category": "Events"
+}

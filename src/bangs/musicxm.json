@@ -1,0 +1,8 @@
+{
+  "bang": "musicxm",
+  "domain": "https://www.musixmatch.com",
+  "url": "https://www.musixmatch.com/search/%s",
+  "description": "Musixmatch",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

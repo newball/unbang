@@ -1,0 +1,8 @@
+{
+  "bang": "pyramid",
+  "domain": "https://docs.pylonsproject.org",
+  "url": "https://docs.pylonsproject.org/projects/pyramid/en/latest/search.html?q=%s",
+  "description": "docs.pylonproject.org",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "geoiptool",
+  "domain": "https://geoiptool.com",
+  "url": "http://geoiptool.com/fr/?IP=%s",
+  "description": "Geo IP Tool",
+  "category": "Tech",
+  "sub-category": "Sysadmin (network)"
+}

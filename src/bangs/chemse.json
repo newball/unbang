@@ -1,0 +1,8 @@
+{
+  "bang": "chemse",
+  "domain": "https://chemistry.stackexchange.com",
+  "url": "http://chemistry.stackexchange.com/search?q=%s",
+  "description": "Chemistry StackExchange",
+  "category": "Research",
+  "sub-category": "Academic"
+}

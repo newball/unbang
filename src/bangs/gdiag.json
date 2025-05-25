@@ -1,0 +1,8 @@
+{
+  "bang": "gdiag",
+  "domain": "https://google.com",
+  "url": "https://google.com/safebrowsing/diagnostic?site=%s",
+  "description": "Google Safe Browsing Diagnostic Page",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

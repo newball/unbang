@@ -1,0 +1,8 @@
+{
+  "bang": "enum",
+  "domain": "https://enumquery.com",
+  "url": "http://enumquery.com/lookup?e164=%s",
+  "description": "enumquery.com",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

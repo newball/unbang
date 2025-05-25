@@ -1,0 +1,8 @@
+{
+  "bang": "gmx",
+  "domain": "https://www.google.com.mx",
+  "url": "https://www.google.com.mx/#q=%s",
+  "description": "Google",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wmc",
+  "domain": "https://commons.wikimedia.org",
+  "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=%s",
+  "description": "Wikimedia Commons",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

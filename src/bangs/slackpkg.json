@@ -1,0 +1,8 @@
+{
+  "bang": "slackpkg",
+  "domain": "https://packages.slackware.com",
+  "url": "http://packages.slackware.com/?search=%s",
+  "description": "Slackware Package Browser",
+  "category": "Tech",
+  "sub-category": "Sysadmin (packages)"
+}

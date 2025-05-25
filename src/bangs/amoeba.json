@@ -1,0 +1,8 @@
+{
+  "bang": "amoeba",
+  "domain": "https://www.amoeba.com",
+  "url": "https://www.amoeba.com/search/all/?s=%s",
+  "description": "Ameoba music",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

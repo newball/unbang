@@ -1,0 +1,8 @@
+{
+  "bang": "oxed",
+  "domain": "https://www.oxforddictionaries.com",
+  "url": "http://www.oxforddictionaries.com/definition/english/%s",
+  "description": "Oxford Dictionaries",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

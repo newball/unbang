@@ -1,0 +1,8 @@
+{
+  "bang": "metappcg",
+  "domain": "https://codegolf.meta.stackexchange.com",
+  "url": "https://codegolf.meta.stackexchange.com/search?q=%s",
+  "description": "Meta Programming Problems & Code Golf",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

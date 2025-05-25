@@ -1,0 +1,8 @@
+{
+  "bang": "bbci",
+  "domain": "https://www.bbc.co.uk",
+  "url": "http://www.bbc.co.uk/iplayer/search?q=%s",
+  "description": "BBC iPlayer",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

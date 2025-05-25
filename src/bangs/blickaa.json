@@ -1,0 +1,8 @@
+{
+  "bang": "blickaa",
+  "domain": "https://www.blickamabend.ch",
+  "url": "http://www.blickamabend.ch/suche/?q=%s",
+  "description": "Blick am Abend",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

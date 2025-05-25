@@ -1,0 +1,8 @@
+{
+  "bang": "wwtr",
+  "domain": "https://www.wikiwand.com",
+  "url": "http://www.wikiwand.com/tr/%s",
+  "description": "WikiWand Türkçe",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

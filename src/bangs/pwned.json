@@ -1,0 +1,8 @@
+{
+  "bang": "pwned",
+  "domain": "https://haveibeenpwned.com",
+  "url": "https://haveibeenpwned.com/account/%s",
+  "description": "Have i been pwned?",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

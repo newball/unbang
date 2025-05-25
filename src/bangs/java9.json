@@ -1,0 +1,8 @@
+{
+  "bang": "java9",
+  "domain": "https://docs.oracle.com",
+  "url": "http://docs.oracle.com/apps/search/search.jsp?category=java&q=%s",
+  "description": "Java Oracle documenation",
+  "category": "Tech",
+  "sub-category": "Languages (java)"
+}

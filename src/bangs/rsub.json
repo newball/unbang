@@ -1,0 +1,8 @@
+{
+  "bang": "rsub",
+  "domain": "https://reddit.com",
+  "url": "https://reddit.com/r/%s",
+  "description": "Reddit Subreddit",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "deepdyve",
+  "domain": "https://www.deepdyve.com",
+  "url": "https://www.deepdyve.com/search?query=%s",
+  "description": "DeepDyve",
+  "category": "Research",
+  "sub-category": "Academic"
+}

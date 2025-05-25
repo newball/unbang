@@ -1,0 +1,8 @@
+{
+  "bang": "imbd",
+  "domain": "https://www.imdb.com",
+  "url": "http://www.imdb.com/find?q=%s&s=all",
+  "description": "IMBD",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

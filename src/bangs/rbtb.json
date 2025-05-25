@@ -1,0 +1,8 @@
+{
+  "bang": "rbtb",
+  "domain": "https://www.ruby-toolbox.com",
+  "url": "https://www.ruby-toolbox.com/?q=%s",
+  "description": "The Ruby Toolbox",
+  "category": "Tech",
+  "sub-category": "Languages (ruby)"
+}

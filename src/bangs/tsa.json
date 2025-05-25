@@ -1,0 +1,8 @@
+{
+  "bang": "tsa",
+  "domain": "https://www.techsupportalert.com",
+  "url": "http://www.techsupportalert.com/search/google?query=%s",
+  "description": "TechSupportAlert.com",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

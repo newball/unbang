@@ -1,0 +1,8 @@
+{
+  "bang": "fileinfo",
+  "domain": "https://fileinfo.com",
+  "url": "http://fileinfo.com/extension/%s",
+  "description": "File info",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

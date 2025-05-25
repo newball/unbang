@@ -1,0 +1,8 @@
+{
+  "bang": "mccc",
+  "domain": "https://media.ccc.de",
+  "url": "https://media.ccc.de/search/?q=%s",
+  "description": "media.ccc.de",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "osrshs",
+  "domain": "https://services.runescape.com",
+  "url": "http://services.runescape.com/m=hiscore_oldschool/hiscorepersonal.ws?user1=%s",
+  "description": "Old School Runescape Hiscores",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

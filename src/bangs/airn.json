@@ -1,0 +1,8 @@
+{
+  "bang": "airn",
+  "domain": "https://airnav.com",
+  "url": "https://airnav.com/airport/%s",
+  "description": "AirNav",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

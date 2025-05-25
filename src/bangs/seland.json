@@ -1,0 +1,8 @@
+{
+  "bang": "seland",
+  "domain": "https://search.searchengineland.com",
+  "url": "http://search.searchengineland.com/search?w=%s",
+  "description": "Search Engine Land",
+  "category": "News",
+  "sub-category": "Specialty"
+}

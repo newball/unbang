@@ -1,0 +1,8 @@
+{
+  "bang": "ppg",
+  "domain": "https://papago.naver.com",
+  "url": "https://papago.naver.com/?st=%s",
+  "description": "Naver Papago",
+  "category": "Translation",
+  "sub-category": "General"
+}

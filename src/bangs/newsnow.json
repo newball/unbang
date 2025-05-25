@@ -1,0 +1,8 @@
+{
+  "bang": "newsnow",
+  "domain": "https://www.newsnow.co.uk",
+  "url": "http://www.newsnow.co.uk/h/?search=%s",
+  "description": "NewsNow",
+  "category": "News",
+  "sub-category": "International"
+}

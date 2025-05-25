@@ -1,0 +1,8 @@
+{
+  "bang": "tvcom",
+  "domain": "https://www.tv.com",
+  "url": "http://www.tv.com/search?q=%s",
+  "description": "TV.com",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

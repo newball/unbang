@@ -1,0 +1,8 @@
+{
+  "bang": "gweek",
+  "domain": "https://www.google.com",
+  "url": "http://www.google.com/search?q=%s&tbs=qdr:w",
+  "description": "Google (Past Week)",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

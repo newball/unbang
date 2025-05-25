@@ -1,0 +1,8 @@
+{
+  "bang": "unicodetable",
+  "domain": "https://unicode-table.com",
+  "url": "http://unicode-table.com/en/search/?q=%s",
+  "description": "Unicode Table",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

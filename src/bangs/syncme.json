@@ -1,0 +1,8 @@
+{
+  "bang": "syncme",
+  "domain": "https://sync.me",
+  "url": "https://sync.me/search/?number=%s",
+  "description": "Sync.me",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

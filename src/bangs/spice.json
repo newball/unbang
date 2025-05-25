@@ -1,0 +1,8 @@
+{
+  "bang": "spice",
+  "domain": "https://community.spiceworks.com",
+  "url": "https://community.spiceworks.com/search?query=%s",
+  "description": "Spiceworks Community",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

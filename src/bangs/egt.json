@@ -1,0 +1,8 @@
+{
+  "bang": "egt",
+  "domain": "https://www.engadget.com",
+  "url": "http://www.engadget.com/search/?q=%s",
+  "description": "Engadget",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

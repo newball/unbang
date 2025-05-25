@@ -1,0 +1,8 @@
+{
+  "bang": "mdnio",
+  "domain": "https://mdn.io",
+  "url": "https://mdn.io/%s",
+  "description": "mdn.io",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

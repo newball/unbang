@@ -1,0 +1,8 @@
+{
+  "bang": "viaf",
+  "domain": "https://viaf.org",
+  "url": "http://viaf.org/viaf/search?query=local.names+all+%22%s%22&stylesheet=/viaf/xsl/results.xsl&sortKeys=holdingscount&maximumRecords=100",
+  "description": "VIAF (Virtual Internet Authority File)",
+  "category": "Research",
+  "sub-category": "Reference"
+}

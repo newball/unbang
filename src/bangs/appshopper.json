@@ -1,0 +1,8 @@
+{
+  "bang": "appshopper",
+  "domain": "https://appshopper.com",
+  "url": "http://appshopper.com/search/?search=%s",
+  "description": "Appshopper",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

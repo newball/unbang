@@ -1,0 +1,8 @@
+{
+  "bang": "linkiesta",
+  "domain": "https://www.linkiesta.it",
+  "url": "http://www.linkiesta.it/cerca/%s",
+  "description": "Linkiesta",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "mubi",
+  "domain": "https://mubi.com",
+  "url": "http://mubi.com/search/results?cx=016360985607050269103%3Acmmod4epzpo&cof=FORID%3A10&ie=UTF-8&q=%s",
+  "description": "Mubi",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

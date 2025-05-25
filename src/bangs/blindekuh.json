@@ -1,0 +1,8 @@
+{
+  "bang": "blindekuh",
+  "domain": "https://www.blinde-kuh.de",
+  "url": "http://www.blinde-kuh.de/bksearch.cgi?input=bksearchbox+start&query=%s",
+  "description": "Blindekuh.de",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "seznam",
+  "domain": "https://search.seznam.cz",
+  "url": "http://search.seznam.cz/?q=%s",
+  "description": "Seznam",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

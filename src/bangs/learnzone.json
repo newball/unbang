@@ -1,0 +1,8 @@
+{
+  "bang": "learnzone",
+  "domain": "https://learnzone.org.uk",
+  "url": "http://learnzone.org.uk/courses/?q=%s",
+  "description": "Learn Zone",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

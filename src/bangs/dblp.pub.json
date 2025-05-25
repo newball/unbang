@@ -1,0 +1,8 @@
+{
+  "bang": "dblp.pub",
+  "domain": "https://dblp.uni-trier.de",
+  "url": "http://dblp.uni-trier.de/search/publ?q=%s ",
+  "description": "DBLP",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

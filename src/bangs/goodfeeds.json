@@ -1,0 +1,8 @@
+{
+  "bang": "goodfeeds",
+  "domain": "https://goodfeeds.net",
+  "url": "https://goodfeeds.net/search?q=%s",
+  "description": "GoodFeeds",
+  "category": "Tech",
+  "sub-category": "Blogs (intl)"
+}

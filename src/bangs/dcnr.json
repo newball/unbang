@@ -1,0 +1,8 @@
+{
+  "bang": "dcnr",
+  "domain": "https://www.apps.dcnr.state.pa.us",
+  "url": "http://www.apps.dcnr.state.pa.us/search.aspx?cx=008544532008978746929:8o8oxsc28a8&cof=FORID:11&ie=UTF-8&q=%s",
+  "description": "Pennsylvania Department of Conservation and Natural Resources",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

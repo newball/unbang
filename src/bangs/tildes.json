@@ -1,0 +1,8 @@
+{
+  "bang": "tildes",
+  "domain": "https://tildes.net",
+  "url": "https://tildes.net/search?q=%s",
+  "description": "Tildes",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

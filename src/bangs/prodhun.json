@@ -1,0 +1,8 @@
+{
+  "bang": "prodhun",
+  "domain": "https://www.producthunt.com",
+  "url": "http://www.producthunt.com/#!/s/posts/%s",
+  "description": "Producthunt",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

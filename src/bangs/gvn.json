@@ -1,0 +1,8 @@
+{
+  "bang": "gvn",
+  "domain": "https://www.google.com.vn",
+  "url": "http://www.google.com.vn/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google VN",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

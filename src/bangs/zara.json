@@ -1,0 +1,8 @@
+{
+  "bang": "zara",
+  "domain": "https://www.zara.com",
+  "url": "http://www.zara.com/webapp/wcs/stores/servlet/ItxSolrSearchingDataCmd?storeId=10701&langId=-5&searchTerm=%s",
+  "description": "Zara",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

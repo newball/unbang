@@ -1,0 +1,8 @@
+{
+  "bang": "mcv",
+  "domain": "https://moviecovers.com",
+  "url": "http://moviecovers.com/multicrit.html?titre=%s",
+  "description": "MovieCovers",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

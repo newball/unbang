@@ -1,0 +1,8 @@
+{
+  "bang": "namecheap",
+  "domain": "https://www.namecheap.com",
+  "url": "https://www.namecheap.com/domains/registration/results.aspx?domain=%s",
+  "description": "Namecheap",
+  "category": "Shopping",
+  "sub-category": "Tech (domains)"
+}

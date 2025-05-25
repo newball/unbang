@@ -1,0 +1,8 @@
+{
+  "bang": "elobs",
+  "domain": "https://www.elobservador.com.uy",
+  "url": "http://www.elobservador.com.uy/%s-s",
+  "description": "El Observador",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

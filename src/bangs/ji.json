@@ -1,0 +1,8 @@
+{
+  "bang": "ji",
+  "domain": "https://jisho.org",
+  "url": "https://jisho.org/search/%s",
+  "description": "Jisho.org",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

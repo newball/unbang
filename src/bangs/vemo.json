@@ -1,0 +1,8 @@
+{
+  "bang": "vemo",
+  "domain": "https://www.vemo.it",
+  "url": "http://www.vemo.it/cerca.php?prodotto=%s",
+  "description": "Vemo.it forniture alberghiere",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

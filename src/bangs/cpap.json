@@ -1,0 +1,8 @@
+{
+  "bang": "cpap",
+  "domain": "https://www.cpap.com",
+  "url": "http://www.cpap.com/productSearch.php?q=1&query=%s",
+  "description": "CPAP.com",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

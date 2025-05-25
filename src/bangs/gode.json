@@ -1,0 +1,8 @@
+{
+  "bang": "gode",
+  "domain": "https://dictionary.goo.ne.jp",
+  "url": "https://dictionary.goo.ne.jp/word/en/%s/",
+  "description": "goo 辞書 英和/和英",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "cheezburger",
+  "domain": "https://search.cheezburger.com",
+  "url": "http://search.cheezburger.com/?q=%s",
+  "description": "Cheezburger",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

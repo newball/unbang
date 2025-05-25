@@ -1,0 +1,8 @@
+{
+  "bang": "sophoscom",
+  "domain": "https://community.sophos.com",
+  "url": "https://community.sophos.com/search?q=%s",
+  "description": "Sophos Community",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

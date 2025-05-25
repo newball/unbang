@@ -1,0 +1,8 @@
+{
+  "bang": "globaledge",
+  "domain": "https://globaledge.msu.edu",
+  "url": "http://globaledge.msu.edu/search?q=%s",
+  "description": "globalEDGE",
+  "category": "Research",
+  "sub-category": "Academic"
+}

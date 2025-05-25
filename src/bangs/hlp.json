@@ -1,0 +1,8 @@
+{
+  "bang": "hlp",
+  "domain": "https://hlp-search.tproxy.de",
+  "url": "https://hlp-search.tproxy.de/search?q=%s",
+  "description": "Hard-Light Productions",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

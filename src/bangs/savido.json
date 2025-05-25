@@ -1,0 +1,8 @@
+{
+  "bang": "savido",
+  "domain": "https://www.savido.cz",
+  "url": "http://www.savido.cz/download.php?url=%s",
+  "description": "Savido",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

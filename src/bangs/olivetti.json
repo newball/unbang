@@ -1,0 +1,8 @@
+{
+  "bang": "olivetti",
+  "domain": "https://www.dizionario-italiano.it",
+  "url": "https://www.dizionario-italiano.it/dizionario-italiano.php?parola=%s",
+  "description": "Dizionario Italiano Olivetti",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

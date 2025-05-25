@@ -1,0 +1,8 @@
+{
+  "bang": "ordbok",
+  "domain": "https://ordbok.uib.no",
+  "url": "http://ordbok.uib.no/perl/ordbok.cgi?OPP=+%s&ant_bokmaal=5&ant_nynorsk=5&begge=+&ordbok=begge",
+  "description": "Bokmålsordboka | Nynorskordboka",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "sonarcloud",
+  "domain": "https://sonarcloud.io",
+  "url": "https://sonarcloud.io/explore/projects?search=%s",
+  "description": "SonarCloud",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

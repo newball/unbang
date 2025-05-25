@@ -1,0 +1,8 @@
+{
+  "bang": "sojob",
+  "domain": "https://stackoverflow.com",
+  "url": "https://stackoverflow.com/jobs?q=%s",
+  "description": "StackOverflow Jobs",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

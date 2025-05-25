@@ -1,0 +1,8 @@
+{
+  "bang": "tkw",
+  "domain": "https://www.thomas-krenn.com",
+  "url": "https://www.thomas-krenn.com/de/wiki/Spezial:Suchergebnisseite?type=mediawiki_page&q=%s",
+  "description": "Thomas-Krenn-Wiki",
+  "category": "Tech",
+  "sub-category": "Sysadmin (debian)"
+}

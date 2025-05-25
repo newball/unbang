@@ -1,0 +1,8 @@
+{
+  "bang": "xbox",
+  "domain": "https://www.xbox.com",
+  "url": "http://www.xbox.com/en-GB/Search?q=%s#All",
+  "description": "Xbox",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

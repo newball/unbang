@@ -1,0 +1,8 @@
+{
+  "bang": "agame",
+  "domain": "https://www.agame.com",
+  "url": "http://www.agame.com/search?searchTerm=%s",
+  "description": "Agame",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

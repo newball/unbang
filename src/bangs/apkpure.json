@@ -1,0 +1,8 @@
+{
+  "bang": "apkpure",
+  "domain": "https://apkpure.com",
+  "url": "https://apkpure.com/search?q=%s",
+  "description": "APKPure",
+  "category": "Tech",
+  "sub-category": "Downloads (apps)"
+}

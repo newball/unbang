@@ -1,0 +1,8 @@
+{
+  "bang": "ln",
+  "domain": "https://lenewbie.com",
+  "url": "http://lenewbie.com/?s=%s",
+  "description": "Le Newbie",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

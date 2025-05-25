@@ -1,0 +1,8 @@
+{
+  "bang": "sana",
+  "domain": "https://www.sanakirja.org",
+  "url": "http://www.sanakirja.org/search.php?q=%s",
+  "description": "Sanakirja",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

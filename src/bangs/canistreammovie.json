@@ -1,0 +1,8 @@
+{
+  "bang": "canistreammovie",
+  "domain": "https://www.canistream.it",
+  "url": "http://www.canistream.it/search/movie/%s",
+  "description": "canistream.it",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

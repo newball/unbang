@@ -1,0 +1,8 @@
+{
+  "bang": "m1",
+  "domain": "https://www.motor1.com",
+  "url": "https://www.motor1.com/search/?q=%s",
+  "description": "Motor1",
+  "category": "News",
+  "sub-category": "Magazine (car)"
+}

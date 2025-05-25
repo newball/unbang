@@ -1,0 +1,8 @@
+{
+  "bang": "dirble",
+  "domain": "https://dirble.com",
+  "url": "http://dirble.com/search?q=%s",
+  "description": "Dirble",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

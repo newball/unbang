@@ -1,0 +1,8 @@
+{
+  "bang": "ripestat",
+  "domain": "https://stat.ripe.net",
+  "url": "http://stat.ripe.net/%s",
+  "description": "RIPEstat",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

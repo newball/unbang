@@ -1,0 +1,8 @@
+{
+  "bang": "iop",
+  "domain": "https://iopscience.iop.org",
+  "url": "http://iopscience.iop.org/nsearch?terms=%s&searchType=yourSearch",
+  "description": "Institute of Physics Science",
+  "category": "Research",
+  "sub-category": "Academic"
+}

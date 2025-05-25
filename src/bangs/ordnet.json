@@ -1,0 +1,8 @@
+{
+  "bang": "ordnet",
+  "domain": "https://ordnet.dk",
+  "url": "http://ordnet.dk/ddo/ordbog?query=%s",
+  "description": "Den Danske Ordbog",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

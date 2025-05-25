@@ -1,0 +1,8 @@
+{
+  "bang": "dart",
+  "domain": "https://www.dartlang.org",
+  "url": "http://www.dartlang.org/search.html?q=%s",
+  "description": "dartlang",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

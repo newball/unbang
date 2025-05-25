@@ -1,0 +1,8 @@
+{
+  "bang": "daniweb",
+  "domain": "https://www.daniweb.com",
+  "url": "https://www.daniweb.com/search/index?q=%s",
+  "description": "DaniWeb",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

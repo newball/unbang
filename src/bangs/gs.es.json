@@ -1,0 +1,8 @@
+{
+  "bang": "gs.es",
+  "domain": "https://www.google.es",
+  "url": "https://www.google.es/search?tbm=shop&q=%s",
+  "description": "Google Shopping ES",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

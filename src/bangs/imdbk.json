@@ -1,0 +1,8 @@
+{
+  "bang": "imdbk",
+  "domain": "https://www.imdb.com",
+  "url": "http://www.imdb.com/find?s=kw&q=%s",
+  "description": "IMDb Keywords",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

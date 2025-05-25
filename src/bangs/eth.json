@@ -1,0 +1,8 @@
+{
+  "bang": "eth",
+  "domain": "https://etherscan.io",
+  "url": "http://etherscan.io/search?q=%s",
+  "description": "EtherScan",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

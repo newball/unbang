@@ -1,0 +1,8 @@
+{
+  "bang": "miniclip",
+  "domain": "https://www.miniclip.com",
+  "url": "http://www.miniclip.com/games/en/search.php?query=%s",
+  "description": "Miniclip",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

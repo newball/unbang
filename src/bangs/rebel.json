@@ -1,0 +1,8 @@
+{
+  "bang": "rebel",
+  "domain": "https://www.rebel.pl",
+  "url": "https://www.rebel.pl/e4u.php/1,ModProducts/Search?search[submit]=1&search[phrase]=%s",
+  "description": "REBEL.pl",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

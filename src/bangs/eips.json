@@ -1,0 +1,8 @@
+{
+  "bang": "eips",
+  "domain": "https://github.com",
+  "url": "https://github.com/ethereum/EIPs/issues?utf8=✓&q=%s",
+  "description": "GitHub",
+  "category": "Tech",
+  "sub-category": "Cryptocurrency"
+}

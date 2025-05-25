@@ -1,0 +1,8 @@
+{
+  "bang": "ign",
+  "domain": "https://www.ign.com",
+  "url": "https://www.ign.com/search?q=%s",
+  "description": "IGN",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

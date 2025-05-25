@@ -1,0 +1,8 @@
+{
+  "bang": "tuxdb",
+  "domain": "https://tuxdb.com",
+  "url": "https://tuxdb.com/section/db&page=0&search=%s",
+  "description": "TuxDB",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

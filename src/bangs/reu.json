@@ -1,0 +1,8 @@
+{
+  "bang": "reu",
+  "domain": "https://www.reddit.com",
+  "url": "https://www.reddit.com/user/%s",
+  "description": "Reddit User",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

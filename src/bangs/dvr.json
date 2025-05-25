@@ -1,0 +1,8 @@
+{
+  "bang": "dvr",
+  "domain": "https://xboxdvr.com",
+  "url": "http://xboxdvr.com/gamer/%s",
+  "description": "Xbox DVR",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

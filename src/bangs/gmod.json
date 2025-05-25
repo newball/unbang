@@ -1,0 +1,8 @@
+{
+  "bang": "gmod",
+  "domain": "https://wiki.garrysmod.com",
+  "url": "http://wiki.garrysmod.com/page/Special:Search?search=%s&fulltext=Search",
+  "description": "GMod wiki",
+  "category": "Tech",
+  "sub-category": "Languages (lua)"
+}

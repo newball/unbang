@@ -1,0 +1,8 @@
+{
+  "bang": "tvt",
+  "domain": "https://tvtropes.org",
+  "url": "http://tvtropes.org/pmwiki/search_result.php?q=%s",
+  "description": "tvtropes",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

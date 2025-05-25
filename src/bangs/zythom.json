@@ -1,0 +1,8 @@
+{
+  "bang": "zythom",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Azythom.blogspot.com+%s",
+  "description": "Zythom",
+  "category": "Tech",
+  "sub-category": "Blogs (intl)"
+}

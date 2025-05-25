@@ -1,0 +1,8 @@
+{
+  "bang": "drf",
+  "domain": "https://www.django-rest-framework.org",
+  "url": "http://www.django-rest-framework.org/?q=%s",
+  "description": "Django REST Framework",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

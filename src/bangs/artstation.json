@@ -1,0 +1,8 @@
+{
+  "bang": "artstation",
+  "domain": "https://www.artstation.com",
+  "url": "https://www.artstation.com/search?q=%s&sorting=recent",
+  "description": "Artstation",
+  "category": "Tech",
+  "sub-category": "Design"
+}

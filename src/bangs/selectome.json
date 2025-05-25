@@ -1,0 +1,8 @@
+{
+  "bang": "selectome",
+  "domain": "https://selectome.unil.ch",
+  "url": "https://selectome.unil.ch/cgi-bin/getResult.cgi?query=%s&res_type=auto",
+  "description": "Selectome",
+  "category": "Research",
+  "sub-category": "Academic"
+}

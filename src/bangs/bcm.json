@@ -1,0 +1,8 @@
+{
+  "bang": "bcm",
+  "domain": "https://www.brawlcustommusic.com",
+  "url": "http://www.brawlcustommusic.com/index.php?song=%s&submit=Search",
+  "description": "Brawl Custom Music",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

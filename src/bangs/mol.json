@@ -1,0 +1,8 @@
+{
+  "bang": "mol",
+  "domain": "https://paikat.te-palvelut.fi",
+  "url": "https://paikat.te-palvelut.fi/tpt/?searchPhrase=%s",
+  "description": "TE-palvelut",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

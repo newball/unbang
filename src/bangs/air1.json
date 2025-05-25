@@ -1,0 +1,8 @@
+{
+  "bang": "air1",
+  "domain": "https://www.air1.com",
+  "url": "http://www.air1.com/search.aspx?searchterm=%s",
+  "description": "Air1",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

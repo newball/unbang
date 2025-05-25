@@ -1,0 +1,8 @@
+{
+  "bang": "crossclj",
+  "domain": "https://crossclj.info",
+  "url": "http://crossclj.info/search?q=%s",
+  "description": "CrossClj",
+  "category": "Tech",
+  "sub-category": "Languages (clojure)"
+}

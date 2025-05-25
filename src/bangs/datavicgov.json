@@ -1,0 +1,8 @@
+{
+  "bang": "datavicgov",
+  "domain": "https://www.data.vic.gov.au",
+  "url": "https://www.data.vic.gov.au/data/dataset?q=%s",
+  "description": "Victorian Government Datasets",
+  "category": "Research",
+  "sub-category": "Government"
+}

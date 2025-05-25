@@ -1,0 +1,8 @@
+{
+  "bang": "indiedb",
+  "domain": "https://www.indiedb.com",
+  "url": "http://www.indiedb.com/search?cx=008031850949085947773%3Acbmjgaamtxe&cof=FORID%3A11&ie=UTF-8&q=%s&sa.x=0&sa.y=0",
+  "description": "IndieDB",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

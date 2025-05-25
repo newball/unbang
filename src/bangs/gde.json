@@ -1,0 +1,8 @@
+{
+  "bang": "gde",
+  "domain": "https://www.google.de",
+  "url": "http://www.google.de/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google DE",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

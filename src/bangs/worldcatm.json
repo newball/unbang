@@ -1,0 +1,8 @@
+{
+  "bang": "worldcatm",
+  "domain": "https://worldcatmobile.org",
+  "url": "http://worldcatmobile.org/?q=%s",
+  "description": "WorldCat Mobile Web",
+  "category": "Research",
+  "sub-category": "Reference"
+}

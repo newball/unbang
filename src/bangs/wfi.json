@@ -1,0 +1,8 @@
+{
+  "bang": "wfi",
+  "domain": "https://fi.wikipedia.org",
+  "url": "https://fi.wikipedia.org/wiki/%s",
+  "description": "Wikipedia Finland",
+  "category": "Research",
+  "sub-category": "Topical"
+}

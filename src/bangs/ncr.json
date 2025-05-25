@@ -1,0 +1,8 @@
+{
+  "bang": "ncr",
+  "domain": "https://www.ncregister.com",
+  "url": "https://www.ncregister.com/search/results?q=%s",
+  "description": "National Catholic Register",
+  "category": "News",
+  "sub-category": "Online"
+}

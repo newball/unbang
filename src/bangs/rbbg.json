@@ -1,0 +1,8 @@
+{
+  "bang": "rbbg",
+  "domain": "https://www.rbbg.it",
+  "url": "https://www.rbbg.it/opac/search/lst?q=%s",
+  "description": "Rete Bibliotecaria Bergamasca",
+  "category": "Research",
+  "sub-category": "Learning"
+}

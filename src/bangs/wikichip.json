@@ -1,0 +1,8 @@
+{
+  "bang": "wikichip",
+  "domain": "https://en.wikichip.org",
+  "url": "https://en.wikichip.org/w/index.php?search=%s",
+  "description": "WikiChip",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "tmall",
+  "domain": "https://list.tmall.com",
+  "url": "https://list.tmall.com/search_product.htm?q=%s",
+  "description": "天猫",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

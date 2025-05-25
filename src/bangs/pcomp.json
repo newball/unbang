@@ -1,0 +1,8 @@
+{
+  "bang": "pcomp",
+  "domain": "https://www.pccomponentes.com",
+  "url": "https://www.pccomponentes.com/buscar/?query=%s",
+  "description": "PC Componentes",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

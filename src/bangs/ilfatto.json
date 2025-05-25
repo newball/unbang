@@ -1,0 +1,8 @@
+{
+  "bang": "ilfatto",
+  "domain": "https://www.ilfattoquotidiano.it",
+  "url": "http://www.ilfattoquotidiano.it/%s",
+  "description": "Il Fatto Quotidiano",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

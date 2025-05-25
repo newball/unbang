@@ -1,0 +1,8 @@
+{
+  "bang": "webcams",
+  "domain": "https://www.webcams.travel",
+  "url": "http://www.webcams.travel/search/%s",
+  "description": "webcams.travel",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

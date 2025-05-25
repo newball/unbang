@@ -1,0 +1,8 @@
+{
+  "bang": "dilbert",
+  "domain": "https://dilbert.com",
+  "url": "https://dilbert.com/search_results?terms=%s",
+  "description": "Dilbert",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

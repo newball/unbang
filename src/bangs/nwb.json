@@ -1,0 +1,8 @@
+{
+  "bang": "nwb",
+  "domain": "https://webbook.nist.gov",
+  "url": "https://webbook.nist.gov/cgi/cbook.cgi?Name=%s&Units=SI",
+  "description": "NIST Chemistry Webbook",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "vlive",
+  "domain": "https://www.vlive.tv",
+  "url": "https://www.vlive.tv/search/all?query=%s",
+  "description": "V LIVE",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

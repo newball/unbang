@@ -1,0 +1,8 @@
+{
+  "bang": "delfruit",
+  "domain": "https://delicious-fruit.com",
+  "url": "http://delicious-fruit.com/ratings/full.php?s=%s",
+  "description": "Delicious Fruit",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

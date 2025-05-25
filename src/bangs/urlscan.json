@@ -1,0 +1,8 @@
+{
+  "bang": "urlscan",
+  "domain": "https://urlscan.io",
+  "url": "https://urlscan.io/search/#%s",
+  "description": "urlscan",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

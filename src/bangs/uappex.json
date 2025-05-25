@@ -1,0 +1,8 @@
+{
+  "bang": "uappex",
+  "domain": "https://uappexplorer.com",
+  "url": "https://uappexplorer.com/apps?q=%s&sort=relevance",
+  "description": "uApp Explorer",
+  "category": "Tech",
+  "sub-category": "Downloads (apps)"
+}

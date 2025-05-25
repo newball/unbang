@@ -1,0 +1,8 @@
+{
+  "bang": "jezebel",
+  "domain": "https://jezebel.com",
+  "url": "http://jezebel.com/search?q=%s",
+  "description": "jezebel.com",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

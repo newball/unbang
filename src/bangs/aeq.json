@@ -1,0 +1,8 @@
+{
+  "bang": "aeq",
+  "domain": "https://ae7q.com",
+  "url": "http://ae7q.com/query/data/CallHistory.php?CALL=%s",
+  "description": "AE7Q Amateur Extra Query Tools",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

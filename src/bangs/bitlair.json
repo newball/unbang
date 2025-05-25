@@ -1,0 +1,8 @@
+{
+  "bang": "bitlair",
+  "domain": "https://wiki.bitlair.nl",
+  "url": "https://wiki.bitlair.nl/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "bitlair",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

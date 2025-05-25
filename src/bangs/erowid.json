@@ -1,0 +1,8 @@
+{
+  "bang": "erowid",
+  "domain": "https://www.erowid.org",
+  "url": "http://www.erowid.org/search.php?q=%s",
+  "description": "Erowid",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ads",
+  "domain": "https://ui.adsabs.harvard.edu",
+  "url": "https://ui.adsabs.harvard.edu/#search/q=%s",
+  "description": "ADS bumblebee",
+  "category": "Research",
+  "sub-category": "Academic"
+}

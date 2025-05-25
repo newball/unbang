@@ -1,0 +1,8 @@
+{
+  "bang": "htcat",
+  "domain": "https://http.cat",
+  "url": "https://http.cat/%s",
+  "description": "https://http.cat/",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

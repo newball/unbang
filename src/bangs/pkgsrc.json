@@ -1,0 +1,8 @@
+{
+  "bang": "pkgsrc",
+  "domain": "https://pkgsrc.se",
+  "url": "http://pkgsrc.se/search.php?so=%s",
+  "description": "Pkgsrc.se",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

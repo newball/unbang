@@ -1,0 +1,8 @@
+{
+  "bang": "ogdb",
+  "domain": "https://ogdb.eu",
+  "url": "http://ogdb.eu/index.php?section=simplesearchresults&searchstring=%s",
+  "description": "Online Games-Datenbank",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

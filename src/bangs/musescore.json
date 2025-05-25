@@ -1,0 +1,8 @@
+{
+  "bang": "musescore",
+  "domain": "https://musescore.com",
+  "url": "http://musescore.com/sheetmusic?text=%s",
+  "description": "MuseScore.com",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

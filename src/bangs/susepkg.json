@@ -1,0 +1,8 @@
+{
+  "bang": "susepkg",
+  "domain": "https://software.opensuse.org",
+  "url": "https://software.opensuse.org/search?q=%s",
+  "description": "OpenSUSE Software search",
+  "category": "Tech",
+  "sub-category": "Sysadmin (packages)"
+}

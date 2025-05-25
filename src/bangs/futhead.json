@@ -1,0 +1,8 @@
+{
+  "bang": "futhead",
+  "domain": "https://www.futhead.com",
+  "url": "http://www.futhead.com/16/players/?name=%s",
+  "description": "Futhead",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

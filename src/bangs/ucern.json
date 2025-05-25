@@ -1,0 +1,8 @@
+{
+  "bang": "ucern",
+  "domain": "https://search.ucern.com",
+  "url": "https://search.ucern.com/search?cp=connect&q=%s",
+  "description": "uCern",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "dkfr",
+  "domain": "https://www.digikey.fr",
+  "url": "http://www.digikey.fr/product-search/fr?keywords=%s",
+  "description": "DigiKey.fr",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

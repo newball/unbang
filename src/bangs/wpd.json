@@ -1,0 +1,8 @@
+{
+  "bang": "wpd",
+  "domain": "https://wpplugindirectory.org",
+  "url": "http://wpplugindirectory.org/?s=%s",
+  "description": "WP Plugin Directory",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks (wordpress)"
+}

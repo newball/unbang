@@ -1,0 +1,8 @@
+{
+  "bang": "gpd",
+  "domain": "https://go.pkgdoc.org",
+  "url": "http://go.pkgdoc.org/?q=%s",
+  "description": "GoPkgDoc",
+  "category": "Tech",
+  "sub-category": "Languages (go)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bugzilla",
+  "domain": "https://bugzilla.mozilla.org",
+  "url": "https://bugzilla.mozilla.org/buglist.cgi?quicksearch=%s ",
+  "description": "Bugzilla",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

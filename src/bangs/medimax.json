@@ -1,0 +1,8 @@
+{
+  "bang": "medimax",
+  "domain": "https://www.medimax.de",
+  "url": "https://www.medimax.de/search?search=%s",
+  "description": "MediMax",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

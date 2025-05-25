@@ -1,0 +1,8 @@
+{
+  "bang": "gmob",
+  "domain": "https://www.google.com",
+  "url": "http://www.google.com/gwt/x?u=%s",
+  "description": "Google (mobile site viewer)",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "slanggr",
+  "domain": "https://www.slang.gr",
+  "url": "http://www.slang.gr/lemmas?q=%s",
+  "description": "SLANG.gr",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

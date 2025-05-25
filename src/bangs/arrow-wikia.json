@@ -1,0 +1,8 @@
+{
+  "bang": "arrow-wikia",
+  "domain": "https://arrow.wikia.com",
+  "url": "http://arrow.wikia.com/wiki/Special:Search?query=%s",
+  "description": "Arrowverse Wikia",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

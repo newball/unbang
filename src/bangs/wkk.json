@@ -1,0 +1,8 @@
+{
+  "bang": "wkk",
+  "domain": "https://kk.wikipedia.org",
+  "url": "https://kk.wikipedia.org/w/index.php?search=%s",
+  "description": "Kazakh Wikipedia",
+  "category": "Research",
+  "sub-category": "Reference"
+}

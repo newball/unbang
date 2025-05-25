@@ -1,0 +1,8 @@
+{
+  "bang": "bdb",
+  "domain": "https://baddogbooks.com",
+  "url": "https://baddogbooks.com/?s=%s&post_type=product",
+  "description": "Bad Dog Books",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

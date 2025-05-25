@@ -1,0 +1,8 @@
+{
+  "bang": "foursquare",
+  "domain": "https://foursquare.com",
+  "url": "https://foursquare.com/explore?q=%s",
+  "description": "Foursquare",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

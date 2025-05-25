@@ -1,0 +1,8 @@
+{
+  "bang": "menadoc",
+  "domain": "https://menadoc.bibliothek.uni-halle.de",
+  "url": "https://menadoc.bibliothek.uni-halle.de/search/quick?query=%s",
+  "description": "MENAdoc",
+  "category": "Research",
+  "sub-category": "Academic"
+}

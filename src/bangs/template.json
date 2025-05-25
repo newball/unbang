@@ -1,0 +1,8 @@
+{
+  "bang": "template",
+  "domain": "https://en.wikipedia.org",
+  "url": "https://en.wikipedia.org/wiki/Template:%s",
+  "description": "Wikipedia Templates",
+  "category": "Tech",
+  "sub-category": "Languages (lua)"
+}

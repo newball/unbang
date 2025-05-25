@@ -1,0 +1,8 @@
+{
+  "bang": "pytorch",
+  "domain": "https://pytorch.org",
+  "url": "https://pytorch.org/docs/stable/search.html?q=%s&check_keywords=yes&area=default",
+  "description": "pytorch.org",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

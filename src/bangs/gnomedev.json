@@ -1,0 +1,8 @@
+{
+  "bang": "gnomedev",
+  "domain": "https://developer.gnome.org",
+  "url": "https://developer.gnome.org/symbols/?q=%s",
+  "description": "GNOME Developer Center",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

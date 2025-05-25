@@ -1,0 +1,8 @@
+{
+  "bang": "youloop",
+  "domain": "https://youloop.org",
+  "url": "http://youloop.org/search.php?q=%s",
+  "description": "youloop.org",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

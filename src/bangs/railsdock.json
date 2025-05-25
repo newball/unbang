@@ -1,0 +1,8 @@
+{
+  "bang": "railsdock",
+  "domain": "https://apidock.com",
+  "url": "http://apidock.com/rails/search?query=%s",
+  "description": "Rails-Dock",
+  "category": "Tech",
+  "sub-category": "Languages (ruby)"
+}

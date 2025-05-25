@@ -1,0 +1,8 @@
+{
+  "bang": "mtv",
+  "domain": "https://www.mtv.com",
+  "url": "http://www.mtv.com/search/?searchterm=%s",
+  "description": "MTV",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

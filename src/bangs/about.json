@@ -1,0 +1,8 @@
+{
+  "bang": "about",
+  "domain": "https://search.about.com",
+  "url": "http://search.about.com/fullsearch.htm?terms=%s",
+  "description": "About.com",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

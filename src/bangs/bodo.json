@@ -1,0 +1,8 @@
+{
+  "bang": "bodo",
+  "domain": "https://www.bodo.de",
+  "url": "https://www.bodo.de/suche.html?tx_kesearch_pi1[sword]=%s",
+  "description": "bodo Verkehrsverbund",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

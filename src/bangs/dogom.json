@@ -1,0 +1,8 @@
+{
+  "bang": "dogom",
+  "domain": "https://www.dogomovies.com",
+  "url": "http://www.dogomovies.com/search/%s",
+  "description": "DOGO movies",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

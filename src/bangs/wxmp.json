@@ -1,0 +1,8 @@
+{
+  "bang": "wxmp",
+  "domain": "https://developers.weixin.qq.com",
+  "url": "https://developers.weixin.qq.com/doc/search.html?query=%s",
+  "description": "search wechat miniprogram documents",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

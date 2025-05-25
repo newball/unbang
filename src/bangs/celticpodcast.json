@@ -1,0 +1,8 @@
+{
+  "bang": "celticpodcast",
+  "domain": "https://celticmusicpodcast.com",
+  "url": "http://celticmusicpodcast.com/?s=%s",
+  "description": "Irish & Celtic Music Podcast",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

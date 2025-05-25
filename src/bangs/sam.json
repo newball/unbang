@@ -1,0 +1,8 @@
+{
+  "bang": "sam",
+  "domain": "https://www.samsung.com",
+  "url": "http://www.samsung.com/au/search/?q=%s",
+  "description": "Samsung",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

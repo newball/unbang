@@ -1,0 +1,8 @@
+{
+  "bang": "gslides",
+  "domain": "https://slides.google.com",
+  "url": "https://slides.google.com/presentation/u/0/?q=%s",
+  "description": "Google Slides",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

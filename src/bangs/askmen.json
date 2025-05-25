@@ -1,0 +1,8 @@
+{
+  "bang": "askmen",
+  "domain": "https://ca.askmen.com",
+  "url": "http://ca.askmen.com/search?q=%s",
+  "description": "AskMen",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

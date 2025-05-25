@@ -1,0 +1,8 @@
+{
+  "bang": "citizenes",
+  "domain": "https://www.citizen.es",
+  "url": "http://www.citizen.es/search?s=%s",
+  "description": "Citizen España",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

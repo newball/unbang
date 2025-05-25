@@ -1,0 +1,8 @@
+{
+  "bang": "planetebd",
+  "domain": "https://www.planetebd.com",
+  "url": "http://www.planetebd.com/recherche?mot-clef=%s",
+  "description": "Planète BD",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

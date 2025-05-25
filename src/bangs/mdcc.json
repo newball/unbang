@@ -1,0 +1,8 @@
+{
+  "bang": "mdcc",
+  "domain": "https://m.dict.cc",
+  "url": "https://m.dict.cc/?s=%s",
+  "description": "Dict.cc",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

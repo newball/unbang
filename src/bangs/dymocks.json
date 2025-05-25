@@ -1,0 +1,8 @@
+{
+  "bang": "dymocks",
+  "domain": "https://www.dymocks.com.au",
+  "url": "https://www.dymocks.com.au/books/?term=%s",
+  "description": "Dymocks Booksellers",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

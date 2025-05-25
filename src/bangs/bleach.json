@@ -1,0 +1,8 @@
+{
+  "bang": "bleach",
+  "domain": "https://bleach.wikia.com",
+  "url": "http://bleach.wikia.com/wiki/Special:Search?query=%s",
+  "description": "Bleach Wiki",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

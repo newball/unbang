@@ -1,0 +1,8 @@
+{
+  "bang": "bstars",
+  "domain": "https://www.bundlestars.com",
+  "url": "https://www.bundlestars.com/en/games?search=%s",
+  "description": "Bundle Stars",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

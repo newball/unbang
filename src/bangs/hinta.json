@@ -1,0 +1,8 @@
+{
+  "bang": "hinta",
+  "domain": "https://hintaseuranta.fi",
+  "url": "http://hintaseuranta.fi/haku/%s",
+  "description": "Hintaseuranta",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

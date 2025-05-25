@@ -1,0 +1,8 @@
+{
+  "bang": "yop.email",
+  "domain": "https://www.yopmail.com",
+  "url": "http://www.yopmail.com/en/?login=%s",
+  "description": "YopMail.com",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

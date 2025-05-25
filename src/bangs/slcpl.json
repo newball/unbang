@@ -1,0 +1,8 @@
+{
+  "bang": "slcpl",
+  "domain": "https://catalog.slcpl.org",
+  "url": "http://catalog.slcpl.org/search/searchresults.aspx?term=%s",
+  "description": "Salt Lake City Public Library",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

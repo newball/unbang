@@ -1,0 +1,8 @@
+{
+  "bang": "whoscored",
+  "domain": "https://www.whoscored.com",
+  "url": "http://www.whoscored.com/Search/?t=%s",
+  "description": "WhoScored",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

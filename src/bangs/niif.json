@@ -1,0 +1,8 @@
+{
+  "bang": "niif",
+  "domain": "https://www.niif.hu",
+  "url": "http://www.niif.hu/search/node/%s",
+  "description": "NIIF Institute",
+  "category": "Research",
+  "sub-category": "Government"
+}

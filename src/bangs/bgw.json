@@ -1,0 +1,8 @@
+{
+  "bang": "bgw",
+  "domain": "https://www.biblegateway.com",
+  "url": "http://www.biblegateway.com/keyword/?search=%s",
+  "description": "BibleGateway",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

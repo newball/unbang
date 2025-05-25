@@ -1,0 +1,8 @@
+{
+  "bang": "cpb",
+  "domain": "https://www.passmark.com",
+  "url": "https://www.passmark.com/search/zoomsearch.php?zoom_query=%s",
+  "description": "Cpu Benchmarks",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

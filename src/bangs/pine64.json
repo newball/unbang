@@ -1,0 +1,8 @@
+{
+  "bang": "pine64",
+  "domain": "https://forum.pine64.org",
+  "url": "https://forum.pine64.org/search.php?text=%s&sortby=&order=desc",
+  "description": "pine64.org",
+  "category": "Tech",
+  "sub-category": "Design"
+}

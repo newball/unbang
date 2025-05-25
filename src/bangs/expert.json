@@ -1,0 +1,8 @@
+{
+  "bang": "expert",
+  "domain": "https://www.expert.nl",
+  "url": "https://www.expert.nl/catalogsearch/result/?q=%s",
+  "description": "Expert",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bivol",
+  "domain": "https://search.bivol.bg",
+  "url": "https://search.bivol.bg/?q=%s#results",
+  "description": "bivol.bg",
+  "category": "Research",
+  "sub-category": "Government"
+}

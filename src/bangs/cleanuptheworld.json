@@ -1,0 +1,8 @@
+{
+  "bang": "cleanuptheworld",
+  "domain": "https://www.cleanuptheworld.org",
+  "url": "http://www.cleanuptheworld.org/en/search.html?kw=%s",
+  "description": "Clean Up the World",
+  "category": "Research",
+  "sub-category": "Topical"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "fpwriter",
+  "domain": "https://www.fictionpress.com",
+  "url": "https://www.fictionpress.com/search/?keywords=%s&ready=1&type=writer",
+  "description": "FictionPress (writers)",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

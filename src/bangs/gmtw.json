@@ -1,0 +1,8 @@
+{
+  "bang": "gmtw",
+  "domain": "https://www.google.com.tw",
+  "url": "https://www.google.com.tw/maps?hl=zh-TW&q=%s",
+  "description": "Google map (Taiwan)",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

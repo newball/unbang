@@ -1,0 +1,8 @@
+{
+  "bang": "brownlib",
+  "domain": "https://search.library.brown.edu",
+  "url": "https://search.library.brown.edu/?utf8=✓&q=%s",
+  "description": "Brown University Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "enews",
+  "domain": "https://www.eternitynews.com.au",
+  "url": "https://www.eternitynews.com.au/?s=%s",
+  "description": "Eternity News",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "seq",
+  "domain": "https://oeis.org",
+  "url": "http://oeis.org/search?q=%s",
+  "description": "The Online Encyclopedia Of Integer Sequences",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

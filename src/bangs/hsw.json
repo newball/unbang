@@ -1,0 +1,8 @@
+{
+  "bang": "hsw",
+  "domain": "https://computer.howstuffworks.com",
+  "url": "http://computer.howstuffworks.com/search.php?terms=%s",
+  "description": "HowStuffWorks",
+  "category": "Research",
+  "sub-category": "Reference"
+}

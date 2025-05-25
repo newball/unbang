@@ -1,0 +1,8 @@
+{
+  "bang": "jit",
+  "domain": "https://www.jobintree.com",
+  "url": "http://www.jobintree.com/emploi?keywords=%s",
+  "description": "Jobintree",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wgal",
+  "domain": "https://gl.wikipedia.org",
+  "url": "https://gl.wikipedia.org/w/index.php?search=%s",
+  "description": "Galipedia",
+  "category": "Research",
+  "sub-category": "Academic"
+}

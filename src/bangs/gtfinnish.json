@@ -1,0 +1,8 @@
+{
+  "bang": "gtfinnish",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/fi/%s",
+  "description": "Detect language to Finnish",
+  "category": "Translation",
+  "sub-category": "Google"
+}

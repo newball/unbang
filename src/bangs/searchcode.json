@@ -1,0 +1,8 @@
+{
+  "bang": "searchcode",
+  "domain": "https://searchco.de",
+  "url": "http://searchco.de/?q=%s",
+  "description": "searchco.de",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

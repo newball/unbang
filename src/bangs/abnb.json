@@ -1,0 +1,8 @@
+{
+  "bang": "abnb",
+  "domain": "https://www.airbnb.com",
+  "url": "https://www.airbnb.com/s/%s/all",
+  "description": "Airbnb",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

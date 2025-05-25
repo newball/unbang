@@ -1,0 +1,8 @@
+{
+  "bang": "jpost",
+  "domain": "https://trackings.post.japanpost.jp",
+  "url": "https://trackings.post.japanpost.jp/services/srv/search/direct?searchKind=S004&locale=en&reqCodeNo1=%s",
+  "description": "Japan Post Tracking",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

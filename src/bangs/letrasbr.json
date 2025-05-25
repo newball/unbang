@@ -1,0 +1,8 @@
+{
+  "bang": "letrasbr",
+  "domain": "https://letras.mus.br",
+  "url": "http://letras.mus.br/?q=%s",
+  "description": "letras.mus.br",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

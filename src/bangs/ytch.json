@@ -1,0 +1,8 @@
+{
+  "bang": "ytch",
+  "domain": "https://www.youtube.ch",
+  "url": "https://www.youtube.ch/results?search_query=%s",
+  "description": "YouTube CH",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

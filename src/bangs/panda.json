@@ -1,0 +1,8 @@
+{
+  "bang": "panda",
+  "domain": "https://pandalook.com",
+  "url": "http://pandalook.com/search?controller=search&search_query=%s ",
+  "description": "Pandalook",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

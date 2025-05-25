@@ -1,0 +1,8 @@
+{
+  "bang": "love2d",
+  "domain": "https://www.love2d.org",
+  "url": "http://www.love2d.org/w/index.php?search=%s",
+  "description": "LÖVE2D",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

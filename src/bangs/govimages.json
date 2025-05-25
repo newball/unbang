@@ -1,0 +1,8 @@
+{
+  "bang": "govimages",
+  "domain": "https://search.usa.gov",
+  "url": "https://search.usa.gov/search/images?affiliate=usagov&query=%s",
+  "description": "US Government Image Search",
+  "category": "Research",
+  "sub-category": "Government"
+}

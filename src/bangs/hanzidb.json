@@ -1,0 +1,8 @@
+{
+  "bang": "hanzidb",
+  "domain": "https://hanzidb.org",
+  "url": "http://hanzidb.org/character/%s",
+  "description": "hanziDB",
+  "category": "Research",
+  "sub-category": "Learning (intl)"
+}

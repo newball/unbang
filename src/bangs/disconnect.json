@@ -1,0 +1,8 @@
+{
+  "bang": "disconnect",
+  "domain": "https://search.disconnect.me",
+  "url": "http://search.disconnect.me/searchTerms/search?query=%s&ses=Google",
+  "description": "Disconnect Search",
+  "category": "Online Services",
+  "sub-category": "Search (Private)"
+}

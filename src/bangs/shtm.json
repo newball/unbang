@@ -1,0 +1,8 @@
+{
+  "bang": "shtm",
+  "domain": "https://www.shoptimate.com",
+  "url": "http://www.shoptimate.com/search?q=%s",
+  "description": "Shoptimate",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

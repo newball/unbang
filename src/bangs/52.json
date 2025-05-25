@@ -1,0 +1,8 @@
+{
+  "bang": "52",
+  "domain": "https://food52.com",
+  "url": "http://food52.com/recipes/search?q=%s",
+  "description": "Food52",
+  "category": "Research",
+  "sub-category": "Food"
+}

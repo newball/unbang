@@ -1,0 +1,8 @@
+{
+  "bang": "tub",
+  "domain": "https://katalog.tub.tuhh.de",
+  "url": "https://katalog.tub.tuhh.de/Search/Results?lookfor=%s&type=AllFields&limit=20&sort=relevance",
+  "description": "TUHH Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

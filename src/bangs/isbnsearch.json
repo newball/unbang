@@ -1,0 +1,8 @@
+{
+  "bang": "isbnsearch",
+  "domain": "https://isbnsearch.org",
+  "url": "https://isbnsearch.org/search?s=%s",
+  "description": "ISBN Search",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

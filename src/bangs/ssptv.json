@@ -1,0 +1,8 @@
+{
+  "bang": "ssptv",
+  "domain": "https://www.ssptv.com",
+  "url": "http://www.ssptv.com/?s=%s",
+  "description": "SSPTV",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

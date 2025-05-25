@@ -1,0 +1,8 @@
+{
+  "bang": "cfb",
+  "domain": "https://store.channelfireball.com",
+  "url": "http://store.channelfireball.com/products/search?query=%s",
+  "description": "Channel Fireball",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

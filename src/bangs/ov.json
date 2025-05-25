@@ -1,0 +1,8 @@
+{
+  "bang": "ov",
+  "domain": "https://stackoverflow.com",
+  "url": "http://stackoverflow.com/search?q=%s",
+  "description": "StackOverflow",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

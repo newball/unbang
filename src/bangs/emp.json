@@ -1,0 +1,8 @@
+{
+  "bang": "emp",
+  "domain": "https://www.emp.de",
+  "url": "http://www.emp.de/search/%s/",
+  "description": "EMP",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

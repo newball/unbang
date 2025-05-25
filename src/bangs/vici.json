@@ -1,0 +1,8 @@
+{
+  "bang": "vici",
+  "domain": "https://la.wikipedia.org",
+  "url": "https://la.wikipedia.org/w/index.php?search=%s ",
+  "description": "Vicipaedia",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "se.w",
+  "domain": "https://simple.wikipedia.org",
+  "url": "https://simple.wikipedia.org/wiki/%s",
+  "description": "Simple English Wikipedia (short bang)",
+  "category": "Research",
+  "sub-category": "Reference"
+}

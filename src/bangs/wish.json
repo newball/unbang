@@ -1,0 +1,8 @@
+{
+  "bang": "wish",
+  "domain": "https://www.wish.com",
+  "url": "https://www.wish.com/search/%s",
+  "description": "Wish",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

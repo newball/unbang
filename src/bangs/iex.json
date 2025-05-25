@@ -1,0 +1,8 @@
+{
+  "bang": "iex",
+  "domain": "https://www.iex.nl",
+  "url": "https://www.iex.nl/Zoeken/Default.aspx?q=%s",
+  "description": "IEX",
+  "category": "News",
+  "sub-category": "Business"
+}

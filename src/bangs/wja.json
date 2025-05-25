@@ -1,0 +1,8 @@
+{
+  "bang": "wja",
+  "domain": "https://ja.wikipedia.org",
+  "url": "http://ja.wikipedia.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikipedia (JA)",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "aminet",
+  "domain": "https://aminet.net",
+  "url": "http://aminet.net/search?query=%s",
+  "description": "Aminet",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

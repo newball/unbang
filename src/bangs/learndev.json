@@ -1,0 +1,8 @@
+{
+  "bang": "learndev",
+  "domain": "https://php.learndev.info",
+  "url": "https://php.learndev.info/?q=%s",
+  "description": "PHP Tutorial",
+  "category": "Tech",
+  "sub-category": "Languages (php)"
+}

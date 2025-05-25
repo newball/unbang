@@ -1,0 +1,8 @@
+{
+  "bang": "hpecas",
+  "domain": "https://hpecas.com",
+  "url": "https://hpecas.com/pesquisa?controller=search&orderby=position&orderway=desc&search_query=%s&submit_search=",
+  "description": "hpecas",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wakoopa",
+  "domain": "https://social.wakoopa.com",
+  "url": "http://social.wakoopa.com/search?query=%s",
+  "description": "Wakoopa",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

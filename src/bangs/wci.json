@@ -1,0 +1,8 @@
+{
+  "bang": "wci",
+  "domain": "https://www.worldcat.org",
+  "url": "http://www.worldcat.org/identities/find?fullName=%s",
+  "description": "World Cat Identities",
+  "category": "Research",
+  "sub-category": "Learning"
+}

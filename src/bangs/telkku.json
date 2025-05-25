@@ -1,0 +1,8 @@
+{
+  "bang": "telkku",
+  "domain": "https://www.telkku.com",
+  "url": "http://www.telkku.com/search?searchText=%s",
+  "description": "Telkku.com",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

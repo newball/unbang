@@ -1,0 +1,8 @@
+{
+  "bang": "vault",
+  "domain": "https://fallout.gamepedia.com",
+  "url": "http://fallout.gamepedia.com/index.php?title=Special%3ASearch&search=%s&fulltext=Search",
+  "description": "The Vault Fallout Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

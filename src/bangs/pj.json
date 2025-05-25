@@ -1,0 +1,8 @@
+{
+  "bang": "pj",
+  "domain": "https://www.prisjakt.nu",
+  "url": "https://www.prisjakt.nu/search?search=%s",
+  "description": "Prisjakt",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

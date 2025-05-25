@@ -1,0 +1,8 @@
+{
+  "bang": "apk",
+  "domain": "https://apps.evozi.com",
+  "url": "http://apps.evozi.com/apk-downloader/?id=%s",
+  "description": "APK Downloader",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

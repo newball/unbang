@@ -1,0 +1,8 @@
+{
+  "bang": "rmw",
+  "domain": "https://rimworldwiki.com",
+  "url": "https://rimworldwiki.com/index.php?search=%s&title=Special%3ASearch",
+  "description": "Rimworld Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ec",
+  "domain": "https://www.ecosia.org",
+  "url": "http://www.ecosia.org/search?q=%s",
+  "description": "Ecosia",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

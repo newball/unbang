@@ -1,0 +1,8 @@
+{
+  "bang": "xda",
+  "domain": "https://forum.xda-developers.com",
+  "url": "https://forum.xda-developers.com/search/?query=%s",
+  "description": "XDA Developers",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

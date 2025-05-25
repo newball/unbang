@@ -1,0 +1,8 @@
+{
+  "bang": "postat",
+  "domain": "https://www.post.at",
+  "url": "https://www.post.at/sendungsverfolgung.php/details?pnum1=%s",
+  "description": "Post.at",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

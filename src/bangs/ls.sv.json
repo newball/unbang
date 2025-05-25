@@ -1,0 +1,8 @@
+{
+  "bang": "ls.sv",
+  "domain": "https://de.langenscheidt.com",
+  "url": "http://de.langenscheidt.com/schwedisch-deutsch/search?term=%s&q_cat=%2Fschwedisch-deutsch%2F",
+  "description": "Langenscheid dictionary Swedish-German",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

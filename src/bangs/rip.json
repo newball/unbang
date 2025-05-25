@@ -1,0 +1,8 @@
+{
+  "bang": "rip",
+  "domain": "https://reverseip.domaintools.com",
+  "url": "https://reverseip.domaintools.com/search/?q=%s",
+  "description": "Domaintools Reverse IP Lookup",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

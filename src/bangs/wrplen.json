@@ -1,0 +1,8 @@
+{
+  "bang": "wrplen",
+  "domain": "https://www.wordreference.com",
+  "url": "http://www.wordreference.com/plen/%s",
+  "description": "Word Reference",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

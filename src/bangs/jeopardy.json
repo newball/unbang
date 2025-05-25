@@ -1,0 +1,8 @@
+{
+  "bang": "jeopardy",
+  "domain": "https://www.j-archive.com",
+  "url": "http://www.j-archive.com/search.php?search=%s",
+  "description": "J! Archive",
+  "category": "Research",
+  "sub-category": "Reference"
+}

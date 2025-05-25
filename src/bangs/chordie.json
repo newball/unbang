@@ -1,0 +1,8 @@
+{
+  "bang": "chordie",
+  "domain": "https://www.chordie.com",
+  "url": "http://www.chordie.com/?q=%s",
+  "description": "http://www.chordie.com/",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

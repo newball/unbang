@@ -1,0 +1,8 @@
+{
+  "bang": "biblija",
+  "domain": "https://www.biblija.net",
+  "url": "http://www.biblija.net/biblija.cgi?m=%s ",
+  "description": "Biblija.net",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

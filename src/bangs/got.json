@@ -1,0 +1,8 @@
+{
+  "bang": "got",
+  "domain": "https://gathering.tweakers.net",
+  "url": "http://gathering.tweakers.net/forum/find?keyword=%s",
+  "description": "Gathering of Tweakers",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

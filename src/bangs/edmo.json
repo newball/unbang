@@ -1,0 +1,8 @@
+{
+  "bang": "edmo",
+  "domain": "https://new.edmodo.com",
+  "url": "https://new.edmodo.com/search?q=%s",
+  "description": "Edmodo",
+  "category": "Research",
+  "sub-category": "Learning"
+}

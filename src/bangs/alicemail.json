@@ -1,0 +1,8 @@
+{
+  "bang": "alicemail",
+  "domain": "https://mail.alice.it",
+  "url": "https://mail.alice.it/?q=%s",
+  "description": "Alice Mail",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

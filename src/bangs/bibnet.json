@@ -1,0 +1,8 @@
+{
+  "bang": "bibnet",
+  "domain": "https://www.biblionet.gr",
+  "url": "http://www.biblionet.gr/main.asp?page=results&key=%s",
+  "description": "BiblioNet",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

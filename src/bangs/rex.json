@@ -1,0 +1,8 @@
+{
+  "bang": "rex",
+  "domain": "https://rex.kb.dk",
+  "url": "http://rex.kb.dk/primo_library/libweb/action/search.do?fn=search&vl%28freeText0%29=%s",
+  "description": "REX – The Royal Library and Copenhagen University Library Service",
+  "category": "Research",
+  "sub-category": "Academic"
+}

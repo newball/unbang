@@ -1,0 +1,8 @@
+{
+  "bang": "twn",
+  "domain": "https://www.theweathernetwork.com",
+  "url": "https://www.theweathernetwork.com/search?q=%s",
+  "description": "The Weather Network",
+  "category": "News",
+  "sub-category": "Weather"
+}

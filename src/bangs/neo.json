@@ -1,0 +1,8 @@
+{
+  "bang": "neo",
+  "domain": "https://neocities.org",
+  "url": "https://neocities.org/browse?tag=%s",
+  "description": "Neocities",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

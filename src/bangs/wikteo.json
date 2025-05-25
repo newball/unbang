@@ -1,0 +1,8 @@
+{
+  "bang": "wikteo",
+  "domain": "https://eo.wiktionary.org",
+  "url": "https://eo.wiktionary.org/w/index.php?search=%s",
+  "description": "Vikivortaro",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

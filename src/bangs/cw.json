@@ -1,0 +1,8 @@
+{
+  "bang": "cw",
+  "domain": "https://www.codewars.com",
+  "url": "https://www.codewars.com/kata/search/?q=%s",
+  "description": "CodeWars",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

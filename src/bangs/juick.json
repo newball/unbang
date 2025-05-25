@@ -1,0 +1,8 @@
+{
+  "bang": "juick",
+  "domain": "https://juick.com",
+  "url": "http://juick.com/?search=%s",
+  "description": "juick.com",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "kktix",
+  "domain": "https://kktix.com",
+  "url": "https://kktix.com/events?search=%s",
+  "description": "KKTIX",
+  "category": "Entertainment",
+  "sub-category": "Events"
+}

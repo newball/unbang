@@ -1,0 +1,8 @@
+{
+  "bang": "jvd",
+  "domain": "https://www.jeuxvideo.com",
+  "url": "http://www.jeuxvideo.com/recherche.php?q=%s",
+  "description": "JeuxVideo.com",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

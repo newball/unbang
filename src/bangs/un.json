@@ -1,0 +1,8 @@
+{
+  "bang": "un",
+  "domain": "https://search.un.org",
+  "url": "http://search.un.org/search?ie=utf8&site=un_org&output=xml_no_dtd&client=UN_Website_en&num=10&lr=lang_en&proxystylesheet=UN_Website_en&oe=utf8&q=%s&Submit=Go",
+  "description": "United Nations",
+  "category": "Research",
+  "sub-category": "Topical"
+}

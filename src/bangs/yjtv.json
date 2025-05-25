@@ -1,0 +1,8 @@
+{
+  "bang": "yjtv",
+  "domain": "https://tv.yahoo.co.jp",
+  "url": "https://tv.yahoo.co.jp/search/?q=%s",
+  "description": "Yahoo! Japan TV",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

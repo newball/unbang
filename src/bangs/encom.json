@@ -1,0 +1,8 @@
+{
+  "bang": "encom",
+  "domain": "https://www.encyclopedia.com",
+  "url": "http://www.encyclopedia.com/searchresults.aspx?q=%s",
+  "description": "Encyclopedia.com",
+  "category": "Research",
+  "sub-category": "Reference"
+}

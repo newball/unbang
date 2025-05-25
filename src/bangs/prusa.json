@@ -1,0 +1,8 @@
+{
+  "bang": "prusa",
+  "domain": "https://www.prusaprinters.org",
+  "url": "https://www.prusaprinters.org/search/all?q=%s",
+  "description": "Prusa Printers",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

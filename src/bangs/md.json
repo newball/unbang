@@ -1,0 +1,8 @@
+{
+  "bang": "md",
+  "domain": "https://learn.microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/search/?terms=%s",
+  "description": "Microsoft Docs",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "archjp",
+  "domain": "https://wiki.archlinux.jp",
+  "url": "https://wiki.archlinux.jp/index.php?search=%s",
+  "description": "ArchWikiJP",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Arch)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "mjtsai",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s&sites=mjtsai.com&ia=web",
+  "description": "Michael Tsai - Blog",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

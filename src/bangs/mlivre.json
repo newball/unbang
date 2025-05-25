@@ -1,0 +1,8 @@
+{
+  "bang": "mlivre",
+  "domain": "https://lista.mercadolivre.com.br",
+  "url": "http://lista.mercadolivre.com.br/%s#D[A:%s]",
+  "description": "Mercado Livre",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

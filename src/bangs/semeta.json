@@ -1,0 +1,8 @@
+{
+  "bang": "semeta",
+  "domain": "https://meta.stackexchange.com",
+  "url": "https://meta.stackexchange.com/search?q=%s",
+  "description": "Meta Stack Exchange",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

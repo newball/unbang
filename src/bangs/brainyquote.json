@@ -1,0 +1,8 @@
+{
+  "bang": "brainyquote",
+  "domain": "https://www.brainyquote.com",
+  "url": "https://www.brainyquote.com/search_results.html?q=%s",
+  "description": "BrainyQuote",
+  "category": "Research",
+  "sub-category": "Reference"
+}

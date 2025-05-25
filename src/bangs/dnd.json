@@ -1,0 +1,8 @@
+{
+  "bang": "dnd",
+  "domain": "https://www.dndbeyond.com",
+  "url": "https://www.dndbeyond.com/search?q=%s",
+  "description": "D&D Beyond",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

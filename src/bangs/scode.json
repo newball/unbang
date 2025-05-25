@@ -1,0 +1,8 @@
+{
+  "bang": "scode",
+  "domain": "https://searchcode.com",
+  "url": "https://searchcode.com/?q=%s",
+  "description": "Searchcode",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

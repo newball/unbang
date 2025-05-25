@@ -1,0 +1,8 @@
+{
+  "bang": "cvm",
+  "domain": "https://www.cvmarket.lt",
+  "url": "http://www.cvmarket.lt/joboffers.php?op=search&search%5Bkeyword%5D=%s",
+  "description": "CV Market",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

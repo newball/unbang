@@ -1,0 +1,8 @@
+{
+  "bang": "rmit",
+  "domain": "https://www.rmit.edu.au",
+  "url": "https://www.rmit.edu.au/search?q=%s",
+  "description": "RMIT University",
+  "category": "Research",
+  "sub-category": "Academic"
+}

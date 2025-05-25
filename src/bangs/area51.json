@@ -1,0 +1,8 @@
+{
+  "bang": "area51",
+  "domain": "https://discuss.area51.stackexchange.com",
+  "url": "http://discuss.area51.stackexchange.com/search?q= %s",
+  "description": "Area51",
+  "category": "Research",
+  "sub-category": "Reference"
+}

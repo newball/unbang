@@ -1,0 +1,8 @@
+{
+  "bang": "poppin",
+  "domain": "https://www.poppin.com",
+  "url": "http://www.poppin.com/search?q=%s",
+  "description": "Poppin",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

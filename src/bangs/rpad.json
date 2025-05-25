@@ -1,0 +1,8 @@
+{
+  "bang": "rpad",
+  "domain": "https://pad.riseup.net",
+  "url": "https://pad.riseup.net/p/%s",
+  "description": "riseUp networks Etherpad",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

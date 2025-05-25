@@ -1,0 +1,8 @@
+{
+  "bang": "stadium",
+  "domain": "https://www.stadium.se",
+  "url": "https://www.stadium.se/search?SearchTerm=%s",
+  "description": "Stadium",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

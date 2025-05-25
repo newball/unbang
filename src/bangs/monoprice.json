@@ -1,0 +1,8 @@
+{
+  "bang": "monoprice",
+  "domain": "https://www.monoprice.com",
+  "url": "http://www.monoprice.com/products/search.asp?keyword=%s",
+  "description": "Monoprice",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

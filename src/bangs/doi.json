@@ -1,0 +1,8 @@
+{
+  "bang": "doi",
+  "domain": "https://doi.org",
+  "url": "https://doi.org/%s",
+  "description": "Digital Object Identifier",
+  "category": "Research",
+  "sub-category": "Reference"
+}

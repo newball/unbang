@@ -1,0 +1,8 @@
+{
+  "bang": "huit",
+  "domain": "https://translate.google.com",
+  "url": "http://translate.google.com/#hu/it/%s",
+  "description": "Google Translate hu-it",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

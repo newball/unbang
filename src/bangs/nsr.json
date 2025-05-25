@@ -1,0 +1,8 @@
+{
+  "bang": "nsr",
+  "domain": "https://nationstates.net",
+  "url": "https://nationstates.net/region=%s",
+  "description": "NationStates",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

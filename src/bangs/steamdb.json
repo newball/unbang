@@ -1,0 +1,8 @@
+{
+  "bang": "steamdb",
+  "domain": "https://steamdb.info",
+  "url": "http://steamdb.info/search/?a=app&q=%s",
+  "description": "Steam Database",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

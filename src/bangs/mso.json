@@ -1,0 +1,8 @@
+{
+  "bang": "mso",
+  "domain": "https://meta.stackoverflow.com",
+  "url": "https://meta.stackoverflow.com/search?q=%s",
+  "description": "Meta Stack Overflow",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

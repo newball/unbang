@@ -1,0 +1,8 @@
+{
+  "bang": "gutschein",
+  "domain": "https://www.gutscheine.de",
+  "url": "http://www.gutscheine.de/suche?search=%s",
+  "description": "Gutscheine.de",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

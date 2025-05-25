@@ -1,0 +1,8 @@
+{
+  "bang": "intel",
+  "domain": "https://www.intel.com",
+  "url": "http://www.intel.com/content/www/us/en/search.html?keyword=%s",
+  "description": "Intel",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "princetonreview",
+  "domain": "https://www.princetonreview.com",
+  "url": "https://www.princetonreview.com/search-results?q=%s",
+  "description": "Princeton Review",
+  "category": "Research",
+  "sub-category": "Academic"
+}

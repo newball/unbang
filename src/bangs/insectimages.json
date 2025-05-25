@@ -1,0 +1,8 @@
+{
+  "bang": "insectimages",
+  "domain": "https://www.insectimages.org",
+  "url": "https://www.insectimages.org/search/action.cfm?q=%s",
+  "description": "Insect Images",
+  "category": "Research",
+  "sub-category": "Academic"
+}

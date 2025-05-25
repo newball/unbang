@@ -1,0 +1,8 @@
+{
+  "bang": "kf",
+  "domain": "https://kasperfred.com",
+  "url": "https://kasperfred.com/posts/?q=%s",
+  "description": "Kasperfred",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

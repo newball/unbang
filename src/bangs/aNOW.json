@@ -1,0 +1,8 @@
+{
+  "bang": "aNOW",
+  "domain": "https://primenow.amazon.com",
+  "url": "https://primenow.amazon.com/search?k=%s ",
+  "description": "Amazon Prime Now",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

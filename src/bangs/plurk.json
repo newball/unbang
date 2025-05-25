@@ -1,0 +1,8 @@
+{
+  "bang": "plurk",
+  "domain": "https://www.plurk.com",
+  "url": "https://www.plurk.com/search?q=%s",
+  "description": "Plurk",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

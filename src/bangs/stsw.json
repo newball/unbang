@@ -1,0 +1,8 @@
+{
+  "bang": "stsw",
+  "domain": "https://slay-the-spire.fandom.com",
+  "url": "https://slay-the-spire.fandom.com/wiki/Special:Search?query=%s",
+  "description": "Slay the spire Wiki | Fandom powered by Wikia",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

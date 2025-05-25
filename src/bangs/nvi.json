@@ -1,0 +1,8 @@
+{
+  "bang": "nvi",
+  "domain": "https://search.naver.com",
+  "url": "https://search.naver.com/search.naver?sm=tab_hty.top&where=image&query=%s",
+  "description": "Naver Images",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

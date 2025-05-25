@@ -1,0 +1,8 @@
+{
+  "bang": "pinout",
+  "domain": "https://pinoutsguide.com",
+  "url": "http://pinoutsguide.com/search.php?lang=eng&t=%s",
+  "description": "PinoutsGuide",
+  "category": "Tech",
+  "sub-category": "Design"
+}

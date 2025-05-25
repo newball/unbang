@@ -1,0 +1,8 @@
+{
+  "bang": "dbrartist",
+  "domain": "https://danbooru.donmai.us",
+  "url": "https://danbooru.donmai.us/artists?commit=Search&search%5Bany_name_matches%5D=%s&search%5Border%5D=created_at&utf8=%E2%9C%93",
+  "description": "Danbooru Artists",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

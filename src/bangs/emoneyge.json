@@ -1,0 +1,8 @@
+{
+  "bang": "emoneyge",
+  "domain": "https://www.emoney.ge",
+  "url": "https://www.emoney.ge/index.php/main/services?search_query=%s",
+  "description": "emoney.ge",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "duk",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s&kah=uk-en&kl=uk-en&ia=web",
+  "description": "DuckDuckGo UK",
+  "category": "Online Services",
+  "sub-category": "Search (DDG)"
+}

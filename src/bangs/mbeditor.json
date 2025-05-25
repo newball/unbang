@@ -1,0 +1,8 @@
+{
+  "bang": "mbeditor",
+  "domain": "https://musicbrainz.org",
+  "url": "https://musicbrainz.org/search?query=%s&type=editor",
+  "description": "MusicBrainz Editors",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

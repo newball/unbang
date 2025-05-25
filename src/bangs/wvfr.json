@@ -1,0 +1,8 @@
+{
+  "bang": "wvfr",
+  "domain": "https://fr.wikivoyage.org",
+  "url": "https://fr.wikivoyage.org/w/index.php?search=%s",
+  "description": "Wikivoyage Français",
+  "category": "Research",
+  "sub-category": "Travel"
+}

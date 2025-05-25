@@ -1,0 +1,8 @@
+{
+  "bang": "hfs",
+  "domain": "https://www.hifishark.com",
+  "url": "https://www.hifishark.com/search?q=%s",
+  "description": "Hifishark",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

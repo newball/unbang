@@ -1,0 +1,8 @@
+{
+  "bang": "glwiki",
+  "domain": "https://www.khronos.org",
+  "url": "https://www.khronos.org/opengl/wiki_opengl/index.php?search=%s",
+  "description": "OpenGL Wiki",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "rbtag",
+  "domain": "https://www.radio-browser.info",
+  "url": "http://www.radio-browser.info/gui/#!/bytag/%s",
+  "description": "radio-browser.info",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

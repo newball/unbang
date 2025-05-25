@@ -1,0 +1,8 @@
+{
+  "bang": "pinf",
+  "domain": "https://pinboard.in",
+  "url": "https://pinboard.in/search/?query=%s&fulltext=on",
+  "description": "Pinboard",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

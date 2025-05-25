@@ -1,0 +1,8 @@
+{
+  "bang": "botb",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Abattleofthebits.org+%s",
+  "description": "Battle of the Bits",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

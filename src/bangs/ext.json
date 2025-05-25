@@ -1,0 +1,8 @@
+{
+  "bang": "ext",
+  "domain": "https://filext.com",
+  "url": "http://filext.com/file-extension/%s",
+  "description": "FILExt",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

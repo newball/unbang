@@ -1,0 +1,8 @@
+{
+  "bang": "psulib",
+  "domain": "https://psu.summon.serialssolutions.com",
+  "url": "http://psu.summon.serialssolutions.com/search/results?spellcheck=true&q=%s&x=0&y=0",
+  "description": "Penn State Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

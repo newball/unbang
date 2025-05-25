@@ -1,0 +1,8 @@
+{
+  "bang": "gamasutra",
+  "domain": "https://www.gamasutra.com",
+  "url": "http://www.gamasutra.com/search/?search_text=%s",
+  "description": "Gamasutra",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

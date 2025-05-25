@@ -1,0 +1,8 @@
+{
+  "bang": "dees",
+  "domain": "https://dees.dict.cc",
+  "url": "http://dees.dict.cc/?s=%s",
+  "description": "Dict.cc Deutsch-Spanisch",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "babsv",
+  "domain": "https://sv.bab.la",
+  "url": "http://sv.bab.la/lexikon/engelsk-svensk/%s",
+  "description": "bab.la",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

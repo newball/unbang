@@ -1,0 +1,8 @@
+{
+  "bang": "psg",
+  "domain": "https://www.powershellgallery.com",
+  "url": "https://www.powershellgallery.com/packages?q=%s",
+  "description": "PowerShell Gallery",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

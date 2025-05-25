@@ -1,0 +1,8 @@
+{
+  "bang": "dragonflyman",
+  "domain": "https://leaf.dragonflybsd.org",
+  "url": "https://leaf.dragonflybsd.org/cgi/web-man?command=%s",
+  "description": "DragonFly BSD Manual Pages",
+  "category": "Tech",
+  "sub-category": "Sysadmin (man)"
+}

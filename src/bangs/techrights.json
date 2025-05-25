@@ -1,0 +1,8 @@
+{
+  "bang": "techrights",
+  "domain": "https://techrights.org",
+  "url": "http://techrights.org/wiki/index.php/Special:Search?search=%s&fulltext=Search",
+  "description": "TechRights",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

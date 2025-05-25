@@ -1,0 +1,8 @@
+{
+  "bang": "gmnl",
+  "domain": "https://www.google.de",
+  "url": "https://www.google.de/maps/place/%s",
+  "description": "Google Maps NL",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

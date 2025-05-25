@@ -1,0 +1,8 @@
+{
+  "bang": "ausmed",
+  "domain": "https://www.ausmed.com.au",
+  "url": "http://www.ausmed.com.au/sitesearch?q=%s",
+  "description": "Ausmed Education",
+  "category": "Research",
+  "sub-category": "Health"
+}

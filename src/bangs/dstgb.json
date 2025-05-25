@@ -1,0 +1,8 @@
+{
+  "bang": "dstgb",
+  "domain": "https://dejure.org",
+  "url": "http://dejure.org/gesetze/StGB/%s.html",
+  "description": "StGB - dejure.org",
+  "category": "Research",
+  "sub-category": "Law"
+}

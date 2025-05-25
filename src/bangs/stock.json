@@ -1,0 +1,8 @@
+{
+  "bang": "stock",
+  "domain": "https://finance.google.com",
+  "url": "http://finance.google.com/?q=%s&sa=N&tab=fe",
+  "description": "Google Finance",
+  "category": "News",
+  "sub-category": "Business"
+}

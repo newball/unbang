@@ -1,0 +1,8 @@
+{
+  "bang": "pkmce",
+  "domain": "https://wiki.pokemoncentral.it",
+  "url": "http://wiki.pokemoncentral.it/index.php?search=%s",
+  "description": "Pokémon Central Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (Pokemon)"
+}

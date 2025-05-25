@@ -1,0 +1,8 @@
+{
+  "bang": "xbps",
+  "domain": "https://github.com",
+  "url": "https://github.com/void-linux/void-packages/search?q[]=filename%3Atemplate+path%3A%2Fsrcpkgs&q[]=%s&s=indexed",
+  "description": "Void Packages",
+  "category": "Tech",
+  "sub-category": "Sysadmin (packages)"
+}

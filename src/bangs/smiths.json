@@ -1,0 +1,8 @@
+{
+  "bang": "smiths",
+  "domain": "https://www.smithsfoodanddrug.com",
+  "url": "https://www.smithsfoodanddrug.com/search?query=%s&searchType=natural",
+  "description": "smithsfoodanddrug",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

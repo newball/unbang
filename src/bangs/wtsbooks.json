@@ -1,0 +1,8 @@
+{
+  "bang": "wtsbooks",
+  "domain": "https://www.wtsbooks.com",
+  "url": "https://www.wtsbooks.com/index/page/search?FullText=%s",
+  "description": "Westminster Bookstore",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

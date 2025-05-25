@@ -1,0 +1,8 @@
+{
+  "bang": "capital",
+  "domain": "https://www.capital.bg",
+  "url": "https://www.capital.bg/search.php?stext=%s",
+  "description": "Capital.bg",
+  "category": "News",
+  "sub-category": "International"
+}

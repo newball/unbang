@@ -1,0 +1,8 @@
+{
+  "bang": "mls",
+  "domain": "https://www.mlssoccer.com",
+  "url": "http://www.mlssoccer.com/search/%s",
+  "description": "MLS Soccer",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

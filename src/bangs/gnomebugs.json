@@ -1,0 +1,8 @@
+{
+  "bang": "gnomebugs",
+  "domain": "https://gitlab.gnome.org",
+  "url": "https://gitlab.gnome.org/groups/GNOME/-/issues?search=%s",
+  "description": "GNOME Gitlab Issues",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "babel",
+  "domain": "https://nl.bab.la",
+  "url": "http://nl.bab.la/woordenboek/nederlands-engels/%s",
+  "description": "Bab.la NL",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

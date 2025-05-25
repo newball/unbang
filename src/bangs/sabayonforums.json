@@ -1,0 +1,8 @@
+{
+  "bang": "sabayonforums",
+  "domain": "https://forum.sabayon.org",
+  "url": "https://forum.sabayon.org/search.php?keywords=%s",
+  "description": "Sabayon Forums",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

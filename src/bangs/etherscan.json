@@ -1,0 +1,8 @@
+{
+  "bang": "etherscan",
+  "domain": "https://etherscan.io",
+  "url": "https://etherscan.io/search?q=%s",
+  "description": "etherscan",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

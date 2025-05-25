@@ -1,0 +1,8 @@
+{
+  "bang": "pop",
+  "domain": "https://incendar.com",
+  "url": "http://incendar.com/funko_pop_search.php?search=%s",
+  "description": "Incendar.com",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

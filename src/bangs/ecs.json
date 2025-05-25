@@ -1,0 +1,8 @@
+{
+  "bang": "ecs",
+  "domain": "https://secure.ecs.soton.ac.uk",
+  "url": "https://secure.ecs.soton.ac.uk/kb/search/?q=%s&s=1",
+  "description": "Soton Electronics and Computer Science",
+  "category": "Research",
+  "sub-category": "Academic"
+}

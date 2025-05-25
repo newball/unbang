@@ -1,0 +1,8 @@
+{
+  "bang": "gtnl",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/nl/%s",
+  "description": "Detect language to Dutch",
+  "category": "Translation",
+  "sub-category": "Google"
+}

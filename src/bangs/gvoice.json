@@ -1,0 +1,8 @@
+{
+  "bang": "gvoice",
+  "domain": "https://www.google.com",
+  "url": "https://www.google.com/voice#search/%s",
+  "description": "Google Voice",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

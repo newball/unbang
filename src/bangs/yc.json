@@ -1,0 +1,8 @@
+{
+  "bang": "yc",
+  "domain": "https://hn.algolia.com",
+  "url": "https://hn.algolia.com/?query=%s",
+  "description": "Hacker News Search",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

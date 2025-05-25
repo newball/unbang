@@ -1,0 +1,8 @@
+{
+  "bang": "poetry",
+  "domain": "https://www.poetryfoundation.org",
+  "url": "http://www.poetryfoundation.org/search/?q=%s",
+  "description": "The Poetry Foundation",
+  "category": "Research",
+  "sub-category": "Learning"
+}

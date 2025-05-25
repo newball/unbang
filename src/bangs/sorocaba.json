@@ -1,0 +1,8 @@
+{
+  "bang": "sorocaba",
+  "domain": "https://www.sorocaba.sp.gov.br",
+  "url": "http://www.sorocaba.sp.gov.br/pesquisar/?q=%s",
+  "description": "Prefeitura de Sorocaba",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

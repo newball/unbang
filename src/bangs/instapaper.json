@@ -1,0 +1,8 @@
+{
+  "bang": "instapaper",
+  "domain": "https://www.instapaper.com",
+  "url": "https://www.instapaper.com/search?q=%s",
+  "description": "Instapaper",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

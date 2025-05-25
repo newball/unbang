@@ -1,0 +1,8 @@
+{
+  "bang": "rightscale",
+  "domain": "https://docs.rightscale.com",
+  "url": "https://docs.rightscale.com/search.html?q=%s",
+  "description": "RightScale Docs",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

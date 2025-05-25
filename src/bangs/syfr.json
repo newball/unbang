@@ -1,0 +1,8 @@
+{
+  "bang": "syfr",
+  "domain": "https://www.synonymes.com",
+  "url": "http://www.synonymes.com/resultats.php?mot=%s",
+  "description": "Synonymes.com",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

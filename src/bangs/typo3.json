@@ -1,0 +1,8 @@
+{
+  "bang": "typo3",
+  "domain": "https://typo3.org",
+  "url": "https://typo3.org/search/?tx_solr[q]=%s",
+  "description": "typo3.org",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

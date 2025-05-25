@@ -1,0 +1,8 @@
+{
+  "bang": "confi",
+  "domain": "https://www.elconfidencial.com",
+  "url": "http://www.elconfidencial.com/buscar/2-6-1-3/0/1/10/desc/%s/",
+  "description": "El Confidencial",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "applebase",
+  "domain": "https://applebase.net",
+  "url": "https://applebase.net/Search.html?term=%s&cat=1",
+  "description": "AppleBase",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

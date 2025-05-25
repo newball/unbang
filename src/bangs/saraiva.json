@@ -1,0 +1,8 @@
+{
+  "bang": "saraiva",
+  "domain": "https://busca.saraiva.com.br",
+  "url": "https://busca.saraiva.com.br/?q=%s",
+  "description": "Saraiva",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

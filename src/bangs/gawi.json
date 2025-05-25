@@ -1,0 +1,8 @@
+{
+  "bang": "gawi",
+  "domain": "https://wirtschaftslexikon.gabler.de",
+  "url": "https://wirtschaftslexikon.gabler.de/search/content?keys=%s",
+  "description": "Gabler Wirtschaftslexikon",
+  "category": "Research",
+  "sub-category": "Academic"
+}

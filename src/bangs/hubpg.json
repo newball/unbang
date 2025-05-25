@@ -1,0 +1,8 @@
+{
+  "bang": "hubpg",
+  "domain": "https://hubpages.com",
+  "url": "https://hubpages.com/search/?s=%s ",
+  "description": "Hubpages",
+  "category": "Research",
+  "sub-category": "Topical"
+}

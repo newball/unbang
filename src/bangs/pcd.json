@@ -1,0 +1,8 @@
+{
+  "bang": "pcd",
+  "domain": "https://www.pcdiga.com",
+  "url": "https://www.pcdiga.com/catalogsearch/result/?q=%s",
+  "description": "PCDiga",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

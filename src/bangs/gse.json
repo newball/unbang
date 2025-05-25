@@ -1,0 +1,8 @@
+{
+  "bang": "gse",
+  "domain": "https://www.google.se",
+  "url": "http://www.google.se/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google SE",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

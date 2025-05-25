@@ -1,0 +1,8 @@
+{
+  "bang": "gocompare",
+  "domain": "https://www.gocompare.com",
+  "url": "http://www.gocompare.com/searchresults/?q=%s",
+  "description": "Gocompare.com",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

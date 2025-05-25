@@ -1,0 +1,8 @@
+{
+  "bang": "cvo",
+  "domain": "https://www.cvo.co.uk",
+  "url": "http://www.cvo.co.uk/?s=%s",
+  "description": "CVO",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

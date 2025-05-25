@@ -1,0 +1,8 @@
+{
+  "bang": "c",
+  "domain": "https://www.cnet.com",
+  "url": "http://www.cnet.com/1770-5_1-0.html?query=%s",
+  "description": "CNET",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

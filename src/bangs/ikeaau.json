@@ -1,0 +1,8 @@
+{
+  "bang": "ikeaau",
+  "domain": "https://www.ikea.com",
+  "url": "http://www.ikea.com/au/en/search/?query=%s",
+  "description": "IKEA Australia",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

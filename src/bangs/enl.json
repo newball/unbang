@@ -1,0 +1,8 @@
+{
+  "bang": "enl",
+  "domain": "https://www.ebay.nl",
+  "url": "https://www.ebay.nl/sch/items/?_nkw=%s",
+  "description": "ebay.nl",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

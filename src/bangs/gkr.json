@@ -1,0 +1,8 @@
+{
+  "bang": "gkr",
+  "domain": "https://www.google.co.kr",
+  "url": "http://www.google.co.kr/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google KR",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

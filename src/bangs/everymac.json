@@ -1,0 +1,8 @@
+{
+  "bang": "everymac",
+  "domain": "https://www.everymac.com",
+  "url": "http://www.everymac.com/ultimate-mac-lookup/?search_keywords=%s",
+  "description": "EveryMac.com",
+  "category": "Research",
+  "sub-category": "Reference"
+}

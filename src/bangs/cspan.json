@@ -1,0 +1,8 @@
+{
+  "bang": "cspan",
+  "domain": "https://www.c-span.org",
+  "url": "https://www.c-span.org/search/basic/?query=%s",
+  "description": "C-SPAN",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

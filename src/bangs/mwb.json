@@ -1,0 +1,8 @@
+{
+  "bang": "mwb",
+  "domain": "https://www.mijnwoordenboek.nl",
+  "url": "http://www.mijnwoordenboek.nl/vertaal/NL/EN/%s",
+  "description": "Mijnwoordenboek",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

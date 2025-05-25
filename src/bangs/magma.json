@@ -1,0 +1,8 @@
+{
+  "bang": "magma",
+  "domain": "https://magma.maths.usyd.edu.au",
+  "url": "http://magma.maths.usyd.edu.au/magma/handbook/search?query=%s&intrinsics=1",
+  "description": "Magma",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gec",
+  "domain": "https://www.google.com.ec",
+  "url": "https://www.google.com.ec/search?safe=active&q=%s",
+  "description": "Google Ecuador",
+  "category": "Research",
+  "sub-category": "Local"
+}

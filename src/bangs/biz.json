@@ -1,0 +1,8 @@
+{
+  "bang": "biz",
+  "domain": "https://incfact.com",
+  "url": "https://incfact.com/company/search/?q=%s",
+  "description": "IncFact",
+  "category": "Research",
+  "sub-category": "Academic"
+}

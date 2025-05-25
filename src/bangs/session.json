@@ -1,0 +1,8 @@
+{
+  "bang": "session",
+  "domain": "https://thesession.org",
+  "url": "https://thesession.org/search?where=&q=%s",
+  "description": "The Session",
+  "category": "Multimedia",
+  "sub-category": "Music (Folk)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ao3tags",
+  "domain": "https://archiveofourown.org",
+  "url": "https://archiveofourown.org/tags/search?query[name]=%s",
+  "description": "Archive of Our Own (Tag Search)",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

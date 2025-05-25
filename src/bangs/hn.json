@@ -1,0 +1,8 @@
+{
+  "bang": "hn",
+  "domain": "https://hn.algolia.com",
+  "url": "https://hn.algolia.com/?q=%s",
+  "description": "Hacker News",
+  "category": "Tech",
+  "sub-category": "Startups"
+}

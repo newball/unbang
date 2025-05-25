@@ -1,0 +1,8 @@
+{
+  "bang": "collins",
+  "domain": "https://www.collinsdictionary.com",
+  "url": "http://www.collinsdictionary.com/dictionary/english/%s",
+  "description": "Collins Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gsl",
+  "domain": "https://www.google.com.sl",
+  "url": "http://www.google.com.sl/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google SL",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

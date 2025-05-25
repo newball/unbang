@@ -1,0 +1,8 @@
+{
+  "bang": "gt-estonian",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/et/%s",
+  "description": "Detect language to Estonian",
+  "category": "Translation",
+  "sub-category": "Google"
+}

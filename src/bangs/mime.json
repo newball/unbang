@@ -1,0 +1,8 @@
+{
+  "bang": "mime",
+  "domain": "https://mimeapplication.net",
+  "url": "http://mimeapplication.net/search?q=%s",
+  "description": "Mime Types Database",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

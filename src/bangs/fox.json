@@ -1,0 +1,8 @@
+{
+  "bang": "fox",
+  "domain": "https://www.foxnews.com",
+  "url": "http://www.foxnews.com/search-results/search?q=%s&submit=Search",
+  "description": "Fox News",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "psy",
+  "domain": "https://psychonautwiki.org",
+  "url": "https://psychonautwiki.org/w/index.php?search=%s&title=Special:Search",
+  "description": "PsychonautWiki",
+  "category": "Research",
+  "sub-category": "Reference"
+}

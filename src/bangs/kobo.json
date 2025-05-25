@@ -1,0 +1,8 @@
+{
+  "bang": "kobo",
+  "domain": "https://www.kobo.com",
+  "url": "https://www.kobo.com/us/en/search?Query=%s",
+  "description": "Kobo",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

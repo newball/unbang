@@ -1,0 +1,8 @@
+{
+  "bang": "sproget",
+  "domain": "https://sproget.dk",
+  "url": "https://sproget.dk/lookup?SearchableText=%s",
+  "description": "Sproget",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "lonelyplanet",
+  "domain": "https://www.lonelyplanet.com",
+  "url": "https://www.lonelyplanet.com/search?q=%s",
+  "description": "Lonely Planet",
+  "category": "Research",
+  "sub-category": "Travel"
+}

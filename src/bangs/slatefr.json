@@ -1,0 +1,8 @@
+{
+  "bang": "slatefr",
+  "domain": "https://www.slate.fr",
+  "url": "https://www.slate.fr/search?mot-cle=%s",
+  "description": "Slate.fr",
+  "category": "News",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "lyrical",
+  "domain": "https://duckduckgo.com",
+  "url": "http://duckduckgo.com/?q=site%3Alyrical-nonsense.com+%s",
+  "description": "Lyrical Nonsense",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

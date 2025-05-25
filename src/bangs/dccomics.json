@@ -1,0 +1,8 @@
+{
+  "bang": "dccomics",
+  "domain": "https://www.dccomics.com",
+  "url": "http://www.dccomics.com/search/node/%s",
+  "description": "DC Comics",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

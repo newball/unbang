@@ -1,0 +1,8 @@
+{
+  "bang": "rmk",
+  "domain": "https://www.reddit.com",
+  "url": "https://www.reddit.com/r/MechanicalKeyboards/search?q=%s&sort=relevance&t=all",
+  "description": "Reddit's Mechanical Keyboards Subreddit",
+  "category": "News",
+  "sub-category": "Specialty"
+}

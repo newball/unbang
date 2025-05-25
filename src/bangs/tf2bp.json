@@ -1,0 +1,8 @@
+{
+  "bang": "tf2bp",
+  "domain": "https://backpack.tf",
+  "url": "http://backpack.tf/id/%s",
+  "description": "Backpack.tf",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

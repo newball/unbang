@@ -1,0 +1,8 @@
+{
+  "bang": "ulbh",
+  "domain": "https://hds.hebis.de",
+  "url": "https://hds.hebis.de/ulbda/Search/Results?lookfor=%s&service=catalog",
+  "description": "Landesbibliothek Hessen/ULB Darmstadt",
+  "category": "Research",
+  "sub-category": "Academic"
+}

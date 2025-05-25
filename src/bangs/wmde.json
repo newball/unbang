@@ -1,0 +1,8 @@
+{
+  "bang": "wmde",
+  "domain": "https://de.m.wikipedia.org",
+  "url": "https://de.m.wikipedia.org/w/index.php?search=%s",
+  "description": "Wikipedia Deutsch Mobile",
+  "category": "Research",
+  "sub-category": "Learning"
+}

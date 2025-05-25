@@ -1,0 +1,8 @@
+{
+  "bang": "gtlithuanian",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/lt/%s",
+  "description": "Detect language to Lithuanian",
+  "category": "Translation",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "dicpixiv",
+  "domain": "https://dic.pixiv.net",
+  "url": "http://dic.pixiv.net/a/%s",
+  "description": "Pixiv Dictionary",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

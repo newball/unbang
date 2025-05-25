@@ -1,0 +1,8 @@
+{
+  "bang": "gp",
+  "domain": "https://play.google.com",
+  "url": "https://play.google.com/store/search?q=%s",
+  "description": "Google Play",
+  "category": "Tech",
+  "sub-category": "Downloads (apps)"
+}

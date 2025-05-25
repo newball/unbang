@@ -1,0 +1,8 @@
+{
+  "bang": "wikivoyagero",
+  "domain": "https://ro.wikivoyage.org",
+  "url": "https://ro.wikivoyage.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikivoyage (Română)",
+  "category": "Research",
+  "sub-category": "Travel"
+}

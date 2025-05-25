@@ -1,0 +1,8 @@
+{
+  "bang": "politicoeu",
+  "domain": "https://www.politico.eu",
+  "url": "http://www.politico.eu/?s=%s",
+  "description": "Politico EU",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "tabcrawler",
+  "domain": "https://tabcrawler.com",
+  "url": "http://tabcrawler.com/search/%s",
+  "description": "Tabcrawler",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

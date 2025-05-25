@@ -1,0 +1,8 @@
+{
+  "bang": "sonet",
+  "domain": "https://www.so-net.ne.jp",
+  "url": "https://www.so-net.ne.jp/search/web/?query=%s",
+  "description": "So-net",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

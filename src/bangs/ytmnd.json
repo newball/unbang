@@ -1,0 +1,8 @@
+{
+  "bang": "ytmnd",
+  "domain": "https://ytmnd.com",
+  "url": "http://ytmnd.com/search?q=%s",
+  "description": "YTMND",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

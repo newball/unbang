@@ -1,0 +1,8 @@
+{
+  "bang": "scz",
+  "domain": "https://slovnik-cizich-slov.abz.cz",
+  "url": "http://slovnik-cizich-slov.abz.cz/web.php/hledat?typ_hledani=prefix&cizi_slovo=%s",
+  "description": "ABZ.cz: slovník cizích slov",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "hgpu",
+  "domain": "https://hgpu.org",
+  "url": "http://hgpu.org/?s=%s",
+  "description": "hgpu.org",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

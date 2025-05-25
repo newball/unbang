@@ -1,0 +1,8 @@
+{
+  "bang": "gnat",
+  "domain": "https://www.google.at",
+  "url": "https://www.google.at/#q=%s&tbm=nws",
+  "description": "Google News Austria",
+  "category": "News",
+  "sub-category": "International"
+}

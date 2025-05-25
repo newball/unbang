@@ -1,0 +1,8 @@
+{
+  "bang": "make",
+  "domain": "https://makezine.com",
+  "url": "https://makezine.com/?s=%s",
+  "description": "Make",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

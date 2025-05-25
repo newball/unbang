@@ -1,0 +1,8 @@
+{
+  "bang": "teu",
+  "domain": "https://eur-lex.europa.eu",
+  "url": "http://eur-lex.europa.eu/search.html?wh0=DN%3D12012M*&lbStatus=ALL&qid=1459001887262&DTS_DOM=EU_LAW&ARTICLE_NUM=%s&treatyStatus=ARTICLE_NUMBER&type=advanced&lang=en&SUBDOM_INIT=TREATIES&legalCelex=TEU_2012&DTS_SUBDOM=TREATIES",
+  "description": "TEU",
+  "category": "Research",
+  "sub-category": "Law"
+}

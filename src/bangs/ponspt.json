@@ -1,0 +1,8 @@
+{
+  "bang": "ponspt",
+  "domain": "https://en.pons.com",
+  "url": "http://en.pons.com/translate?q=%s&l=enpt&in=&lf=en",
+  "description": "Pons.eu",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

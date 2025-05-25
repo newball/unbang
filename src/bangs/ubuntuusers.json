@@ -1,0 +1,8 @@
+{
+  "bang": "ubuntuusers",
+  "domain": "https://ubuntuusers.de",
+  "url": "http://ubuntuusers.de/search/?query=%s&area=all",
+  "description": "Ubuntuusers",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Ubuntu)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "cricbuzz",
+  "domain": "https://www.cricbuzz.com",
+  "url": "https://www.cricbuzz.com/search?q=%s",
+  "description": "Cricbuzz",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

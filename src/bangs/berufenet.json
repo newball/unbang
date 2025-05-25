@@ -1,0 +1,8 @@
+{
+  "bang": "berufenet",
+  "domain": "https://berufenet.arbeitsagentur.de",
+  "url": "https://berufenet.arbeitsagentur.de/berufenet/faces/index?path=null/suchergebnisse&such=%s",
+  "description": "BERUFENET - Berufsinformationen einfach finden",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

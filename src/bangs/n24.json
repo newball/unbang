@@ -1,0 +1,8 @@
+{
+  "bang": "n24",
+  "domain": "https://www.news24.com",
+  "url": "http://www.news24.com/search?q=%s",
+  "description": "News24",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

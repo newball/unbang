@@ -1,0 +1,8 @@
+{
+  "bang": "eveuni",
+  "domain": "https://wiki.eveuniversity.org",
+  "url": "http://wiki.eveuniversity.org/index.php?title=Special%3ASearch&search=%s",
+  "description": "Eve University Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

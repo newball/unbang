@@ -1,0 +1,8 @@
+{
+  "bang": "leop",
+  "domain": "https://dict.leo.org",
+  "url": "http://dict.leo.org/ptde/?lp=ende&lang=de&searchLoc=0&cmpType=relaxed&sectHdr=on&spellToler=&search=%s",
+  "description": "Leo",
+  "category": "Research",
+  "sub-category": "Reference"
+}

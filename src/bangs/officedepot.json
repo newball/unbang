@@ -1,0 +1,8 @@
+{
+  "bang": "officedepot",
+  "domain": "https://www.officedepot.com",
+  "url": "http://www.officedepot.com/catalog/search.do?Ntt=%s",
+  "description": "OfficeDepot",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

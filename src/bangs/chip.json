@@ -1,0 +1,8 @@
+{
+  "bang": "chip",
+  "domain": "https://suche.chip.de",
+  "url": "http://suche.chip.de/?q=%s&it=1&submit.x=0&submit.y=0",
+  "description": "CHIP Online",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

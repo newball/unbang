@@ -1,0 +1,8 @@
+{
+  "bang": "soov",
+  "domain": "https://soov-ee.postimees.ee",
+  "url": "http://soov-ee.postimees.ee/keyword-%s/listings.html",
+  "description": "Soov",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

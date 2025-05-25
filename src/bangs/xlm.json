@@ -1,0 +1,8 @@
+{
+  "bang": "xlm",
+  "domain": "https://stellar.expert",
+  "url": "https://stellar.expert/explorer/public/account/%s",
+  "description": "StellarExpert",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

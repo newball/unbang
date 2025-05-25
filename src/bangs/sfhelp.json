@@ -1,0 +1,8 @@
+{
+  "bang": "sfhelp",
+  "domain": "https://help.salesforce.com",
+  "url": "https://help.salesforce.com/search#q=%s",
+  "description": "Salesforce Help",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "pirsa",
+  "domain": "https://pirsa.org",
+  "url": "http://pirsa.org/index.php?p=speaker&name=%s",
+  "description": "Perimeter Institute Recorded Seminar Archive",
+  "category": "Research",
+  "sub-category": "Academic"
+}

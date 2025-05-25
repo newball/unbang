@@ -1,0 +1,8 @@
+{
+  "bang": "confrank",
+  "domain": "https://portal.core.edu.au",
+  "url": "http://portal.core.edu.au/conf-ranks/?search=%s&by=all&source=all&sort=atitle&page=1",
+  "description": "Computing Research and Education Association of Australasia, CORE",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "readdc",
+  "domain": "https://www.readdc.com",
+  "url": "https://www.readdc.com/search?search=%s&submit=SEARCH",
+  "description": "Digital Comics - DC Entertainment",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

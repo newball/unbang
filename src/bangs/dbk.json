@@ -1,0 +1,8 @@
+{
+  "bang": "dbk",
+  "domain": "https://www.databazeknih.cz",
+  "url": "http://www.databazeknih.cz/search?q=%s",
+  "description": "Databaze knih",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

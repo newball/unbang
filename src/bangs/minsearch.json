@@ -1,0 +1,8 @@
+{
+  "bang": "minsearch",
+  "domain": "https://minimalsearch.com",
+  "url": "https://minimalsearch.com/search?q=%s",
+  "description": "minimalsearch",
+  "category": "Online Services",
+  "sub-category": "Search (Private)"
+}

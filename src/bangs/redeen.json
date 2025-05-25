@@ -1,0 +1,8 @@
+{
+  "bang": "redeen",
+  "domain": "https://dictionary.reverso.net",
+  "url": "https://dictionary.reverso.net/german-english/%s",
+  "description": "Reverso German - English",
+  "category": "Research",
+  "sub-category": "Learning"
+}

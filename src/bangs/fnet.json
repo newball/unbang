@@ -1,0 +1,8 @@
+{
+  "bang": "fnet",
+  "domain": "https://www.finanzen.net",
+  "url": "http://www.finanzen.net/suchergebnis.asp?frmAktiensucheTextfeld=%s",
+  "description": "finanzen.net",
+  "category": "News",
+  "sub-category": "Business"
+}

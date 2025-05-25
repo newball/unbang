@@ -1,0 +1,8 @@
+{
+  "bang": "scrapy",
+  "domain": "https://doc.scrapy.org",
+  "url": "http://doc.scrapy.org/en/latest/search.html?q=%s",
+  "description": "scrapy docs",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

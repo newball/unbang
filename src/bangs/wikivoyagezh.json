@@ -1,0 +1,8 @@
+{
+  "bang": "wikivoyagezh",
+  "domain": "https://zh.wikivoyage.org",
+  "url": "https://zh.wikivoyage.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikivoyage (中文)",
+  "category": "Research",
+  "sub-category": "Travel"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "otw",
+  "domain": "https://overpass-turbo.eu",
+  "url": "http://overpass-turbo.eu/?w=%s&R",
+  "description": "Overpass Turbo Wizard",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

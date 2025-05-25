@@ -1,0 +1,8 @@
+{
+  "bang": "dleague",
+  "domain": "https://dleague.nba.com",
+  "url": "http://dleague.nba.com/?q=%s",
+  "description": "NBA D-League",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

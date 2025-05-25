@@ -1,0 +1,8 @@
+{
+  "bang": "pink",
+  "domain": "https://www.pinknews.co.uk",
+  "url": "http://www.pinknews.co.uk/?s=%s ",
+  "description": "PinkNews",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "egdl",
+  "domain": "https://diglib.eg.org",
+  "url": "http://diglib.eg.org/discover?query=%s&submit=Go",
+  "description": "Eurographics Digital Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

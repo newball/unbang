@@ -1,0 +1,8 @@
+{
+  "bang": "dwb",
+  "domain": "https://woerterbuchnetz.de",
+  "url": "http://woerterbuchnetz.de/DWB/?lemma=%s",
+  "description": "Deutsches Wörterbuch von Jacob Grimm und Wilhelm Grimm",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

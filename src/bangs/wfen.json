@@ -1,0 +1,8 @@
+{
+  "bang": "wfen",
+  "domain": "https://warframe.wikia.com",
+  "url": "http://warframe.wikia.com/wiki/Special:Search?query=%s",
+  "description": "WARFRAME Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

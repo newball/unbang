@@ -1,0 +1,8 @@
+{
+  "bang": "gizoogle",
+  "domain": "https://www.gizoogle.net",
+  "url": "http://www.gizoogle.net/index.php?search=%s",
+  "description": "Gizoogle",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

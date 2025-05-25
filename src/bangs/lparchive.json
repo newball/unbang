@@ -1,0 +1,8 @@
+{
+  "bang": "lparchive",
+  "domain": "https://lparchive.org",
+  "url": "http://lparchive.org/search/%s #results",
+  "description": "Let's Play Archive",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

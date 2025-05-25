@@ -1,0 +1,8 @@
+{
+  "bang": "mal",
+  "domain": "https://myanimelist.net",
+  "url": "https://myanimelist.net/anime.php?q=%s",
+  "description": "My Anime List",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "mobythes",
+  "domain": "https://www.moby-thesaurus.org",
+  "url": "http://www.moby-thesaurus.org/search?q=%s",
+  "description": "Moby Thesaurus",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

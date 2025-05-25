@@ -1,0 +1,8 @@
+{
+  "bang": "huffpost",
+  "domain": "https://www.huffingtonpost.com",
+  "url": "https://www.huffingtonpost.com/search?keywords=%s&sortBy=recency&sortOrder=desc",
+  "description": "Huffington Post",
+  "category": "News",
+  "sub-category": "Specialty"
+}

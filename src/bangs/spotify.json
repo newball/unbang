@@ -1,0 +1,8 @@
+{
+  "bang": "spotify",
+  "domain": "https://open.spotify.com",
+  "url": "https://open.spotify.com/search/%s",
+  "description": "Spotify",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

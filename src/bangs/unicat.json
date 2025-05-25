@@ -1,0 +1,8 @@
+{
+  "bang": "unicat",
+  "domain": "https://unicat.be",
+  "url": "http://unicat.be/uniCat?func=search&language=en&fromWeb=1&formQuery=%s",
+  "description": "Unicat",
+  "category": "Research",
+  "sub-category": "Academic"
+}

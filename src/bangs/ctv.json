@@ -1,0 +1,8 @@
+{
+  "bang": "ctv",
+  "domain": "https://www.ctv.ca",
+  "url": "http://www.ctv.ca/searchResult.aspx?q=%s",
+  "description": "CTV",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

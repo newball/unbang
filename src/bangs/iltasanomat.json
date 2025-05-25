@@ -1,0 +1,8 @@
+{
+  "bang": "iltasanomat",
+  "domain": "https://iltasanomat.fi",
+  "url": "http://iltasanomat.fi/haku/?search-term=%s",
+  "description": "Ilta-Sanomat",
+  "category": "News",
+  "sub-category": "Magazine"
+}

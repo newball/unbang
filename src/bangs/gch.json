@@ -1,0 +1,8 @@
+{
+  "bang": "gch",
+  "domain": "https://www.google.ch",
+  "url": "http://www.google.ch/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google CH",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

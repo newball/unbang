@@ -1,0 +1,8 @@
+{
+  "bang": "gtarabic",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/ar/%s",
+  "description": "Detect language to Arabic",
+  "category": "Translation",
+  "sub-category": "Google"
+}

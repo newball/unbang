@@ -1,0 +1,8 @@
+{
+  "bang": "ulbd",
+  "domain": "https://katalog.ulb.hhu.de",
+  "url": "https://katalog.ulb.hhu.de/Search/Results?lookfor=%s&type=AllFields",
+  "description": " Universitätsbibliothek Düsseldorf",
+  "category": "Research",
+  "sub-category": "Academic"
+}

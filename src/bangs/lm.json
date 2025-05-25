@@ -1,0 +1,8 @@
+{
+  "bang": "lm",
+  "domain": "https://www.livemixtapes.com",
+  "url": "http://www.livemixtapes.com/main.php?artist=%s",
+  "description": "LiveMixtapes",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

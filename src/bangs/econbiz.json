@@ -1,0 +1,8 @@
+{
+  "bang": "econbiz",
+  "domain": "https://www.econbiz.de",
+  "url": "http://www.econbiz.de/Search/Results?lookfor=%s&type=AllFields&submit=Suchen",
+  "description": "Econbiz",
+  "category": "Research",
+  "sub-category": "Academic"
+}

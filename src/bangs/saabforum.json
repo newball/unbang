@@ -1,0 +1,8 @@
+{
+  "bang": "saabforum",
+  "domain": "https://www.saabforum.nl",
+  "url": "http://www.saabforum.nl/search.php?keywords=%s",
+  "description": "Saabforum.nl",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

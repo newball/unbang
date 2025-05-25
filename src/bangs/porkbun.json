@@ -1,0 +1,8 @@
+{
+  "bang": "porkbun",
+  "domain": "https://porkbun.com",
+  "url": "https://porkbun.com/checkout/search?q=%s",
+  "description": "porkbun",
+  "category": "Shopping",
+  "sub-category": "Tech (domains)"
+}

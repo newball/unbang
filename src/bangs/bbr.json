@@ -1,0 +1,8 @@
+{
+  "bang": "bbr",
+  "domain": "https://www.basketball-reference.com",
+  "url": "http://www.basketball-reference.com/player_search.cgi?search=%s",
+  "description": "Basketball-Reference ",
+  "category": "Research",
+  "sub-category": "Reference"
+}

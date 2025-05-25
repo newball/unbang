@@ -1,0 +1,8 @@
+{
+  "bang": "gtmacedonian",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/mk/%s",
+  "description": "Detect language to Macedonian",
+  "category": "Translation",
+  "sub-category": "Google"
+}

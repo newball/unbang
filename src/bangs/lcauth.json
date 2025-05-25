@@ -1,0 +1,8 @@
+{
+  "bang": "lcauth",
+  "domain": "https://authorities.loc.gov",
+  "url": "http://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?Search_0Arg=%s&Search_Code=SHED_&PID=pyauyDhI6ZL9vR3exz9cx8t8BF&SEQ=20161101104025&CNT=100&HIST=1",
+  "description": "Library of Congress Authorities",
+  "category": "Research",
+  "sub-category": "Academic"
+}

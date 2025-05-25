@@ -1,0 +1,8 @@
+{
+  "bang": "bg",
+  "domain": "https://www.biblegateway.com",
+  "url": "http://www.biblegateway.com/passage/?search=%s",
+  "description": "BibleGateway",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

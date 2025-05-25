@@ -1,0 +1,8 @@
+{
+  "bang": "crossover",
+  "domain": "https://www.codeweavers.com",
+  "url": "http://www.codeweavers.com/compatibility/search/?name=%s&search=app",
+  "description": "CodeWeavers",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

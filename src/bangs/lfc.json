@@ -1,0 +1,8 @@
+{
+  "bang": "lfc",
+  "domain": "https://old.reddit.com",
+  "url": "https://old.reddit.com/r/LiverpoolFC/search?q=%s&restrict_sr=on",
+  "description": "LiverpoolFC sub (old style)",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

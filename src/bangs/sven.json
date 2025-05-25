@@ -1,0 +1,8 @@
+{
+  "bang": "sven",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#sv/en/%s",
+  "description": "Google Translate (Swedish to English)",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "perlmod6",
+  "domain": "https://modules.perl6.org",
+  "url": "http://modules.perl6.org/search/?q=%s",
+  "description": "Perl 6 Modules",
+  "category": "Tech",
+  "sub-category": "Languages (perl)"
+}

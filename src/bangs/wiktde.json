@@ -1,0 +1,8 @@
+{
+  "bang": "wiktde",
+  "domain": "https://de.wiktionary.org",
+  "url": "http://de.wiktionary.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wiktionary, das freie Wörterbuch",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

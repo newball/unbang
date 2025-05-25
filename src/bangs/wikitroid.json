@@ -1,0 +1,8 @@
+{
+  "bang": "wikitroid",
+  "domain": "https://metroid.wikia.com",
+  "url": "http://metroid.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Wikitroid",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

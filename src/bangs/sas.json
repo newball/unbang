@@ -1,0 +1,8 @@
+{
+  "bang": "sas",
+  "domain": "https://support.sas.com",
+  "url": "https://support.sas.com/en/search.html?q=%s&fq=siteArea%3A%22Documentation%22",
+  "description": "SAS",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

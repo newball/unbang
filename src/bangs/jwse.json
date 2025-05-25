@@ -1,0 +1,8 @@
+{
+  "bang": "jwse",
+  "domain": "https://www.justwatch.com",
+  "url": "https://www.justwatch.com/se/search?q=%s",
+  "description": "JustWatch Sweden",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

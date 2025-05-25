@@ -1,0 +1,8 @@
+{
+  "bang": "appledaily",
+  "domain": "https://hk.appledaily.com",
+  "url": "https://hk.appledaily.com/search/%s?q=%s",
+  "description": "Apple Daily (Hong Kong)",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

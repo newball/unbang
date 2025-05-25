@@ -1,0 +1,8 @@
+{
+  "bang": "wjec",
+  "domain": "https://www.wjec.co.uk",
+  "url": "http://www.wjec.co.uk/search/pf_search.php?q=%s",
+  "description": "WJEC",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wwiki",
+  "domain": "https://www.wegenwiki.nl",
+  "url": "http://www.wegenwiki.nl/index.php?search=%s&title=Speciaal%3AZoeken",
+  "description": "Wegenwiki",
+  "category": "Research",
+  "sub-category": "Travel"
+}

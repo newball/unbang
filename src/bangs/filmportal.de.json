@@ -1,0 +1,8 @@
+{
+  "bang": "filmportal.de",
+  "domain": "https://www.filmportal.de",
+  "url": "https://www.filmportal.de/search?search_api_fulltext=%s",
+  "description": "filmportal.de",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

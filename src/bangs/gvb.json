@@ -1,0 +1,8 @@
+{
+  "bang": "gvb",
+  "domain": "https://google.com",
+  "url": "https://google.com/search?&tbs=li:1&q=%s",
+  "description": "Google Verbatim",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

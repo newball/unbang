@@ -1,0 +1,8 @@
+{
+  "bang": "observador",
+  "domain": "https://observador.pt",
+  "url": "http://observador.pt/pesquisa/?q=%s",
+  "description": "observador",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

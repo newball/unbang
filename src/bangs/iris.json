@@ -1,0 +1,8 @@
+{
+  "bang": "iris",
+  "domain": "https://scitools.org.uk",
+  "url": "http://scitools.org.uk/iris/docs/latest/search.html?q=%s",
+  "description": "http://scitools.org.uk/iris/docs/latest/index.html",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

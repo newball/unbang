@@ -1,0 +1,8 @@
+{
+  "bang": "dpc",
+  "domain": "https://dvdpascher.net",
+  "url": "http://dvdpascher.net/recherche/?q=%s",
+  "description": "DVDpasCher",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gtmz",
+  "domain": "https://geektimes.ru",
+  "url": "https://geektimes.ru/search/?q=%s",
+  "description": "GeekTimes",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

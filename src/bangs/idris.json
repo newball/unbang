@@ -1,0 +1,8 @@
+{
+  "bang": "idris",
+  "domain": "https://docs.idris-lang.org",
+  "url": "http://docs.idris-lang.org/en/latest/search.html?q=%s&check_keywords=yes&area=default",
+  "description": "Idris Dcoumentation",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "country",
+  "domain": "https://www.countrycode.org",
+  "url": "https://www.countrycode.org/%s",
+  "description": "CountryCode.org",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

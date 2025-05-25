@@ -1,0 +1,8 @@
+{
+  "bang": "mbsdman",
+  "domain": "https://www.mirbsd.org",
+  "url": "https://www.mirbsd.org/man.cgi?q=%s ",
+  "description": "MirBSD Manpages",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

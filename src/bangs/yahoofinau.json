@@ -1,0 +1,8 @@
+{
+  "bang": "yahoofinau",
+  "domain": "https://au.finance.yahoo.com",
+  "url": "https://au.finance.yahoo.com/q?s=%s",
+  "description": "Yahoo Finance Australia",
+  "category": "News",
+  "sub-category": "Business"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gamerankings",
+  "domain": "https://www.gamerankings.com",
+  "url": "http://www.gamerankings.com/browse.html?search=%s",
+  "description": "GameRankings.com",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

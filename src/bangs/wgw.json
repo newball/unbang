@@ -1,0 +1,8 @@
+{
+  "bang": "wgw",
+  "domain": "https://wiki.wargaming.net",
+  "url": "http://wiki.wargaming.net/en/index.php?search=%s",
+  "description": "Wargaming.net Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gitignore",
+  "domain": "https://www.gitignore.io",
+  "url": "https://www.gitignore.io/api/%s",
+  "description": "gitignore.io",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

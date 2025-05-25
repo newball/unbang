@@ -1,0 +1,8 @@
+{
+  "bang": "superphysique",
+  "domain": "https://www.google.fr",
+  "url": "https://www.google.fr/search?q=site:www.superphysique.org+%s",
+  "description": "Superphysique",
+  "category": "Research",
+  "sub-category": "Health"
+}

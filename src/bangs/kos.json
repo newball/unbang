@@ -1,0 +1,8 @@
+{
+  "bang": "kos",
+  "domain": "https://en.kingofsat.net",
+  "url": "http://en.kingofsat.net/find.php?question=%s&Submit=Zap",
+  "description": "KingOfSat",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bergfreunde",
+  "domain": "https://www.bergfreunde.de",
+  "url": "http://www.bergfreunde.de/s/*/?searchparam=%s",
+  "description": "Bergfreunde",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

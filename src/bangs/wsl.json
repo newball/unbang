@@ -1,0 +1,8 @@
+{
+  "bang": "wsl",
+  "domain": "https://sl.wikipedia.org",
+  "url": "http://sl.wikipedia.org/w/index.php?title=Special%3ASearch&profile=default&search=%s",
+  "description": "Wikipedia (SL)",
+  "category": "Research",
+  "sub-category": "Learning (intl)"
+}

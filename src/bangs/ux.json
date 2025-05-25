@@ -1,0 +1,8 @@
+{
+  "bang": "ux",
+  "domain": "https://ux.stackexchange.com",
+  "url": "http://ux.stackexchange.com/search?q=%s",
+  "description": "UX stackexchange",
+  "category": "Tech",
+  "sub-category": "Design"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "heatspring",
+  "domain": "https://www.heatspring.com",
+  "url": "https://www.heatspring.com/app/courses/?query=%s",
+  "description": "HeatSpring",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

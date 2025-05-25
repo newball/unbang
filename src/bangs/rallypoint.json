@@ -1,0 +1,8 @@
+{
+  "bang": "rallypoint",
+  "domain": "https://www.rallypoint.com",
+  "url": "https://www.rallypoint.com/answers?q=%s",
+  "description": "RallyPoint",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

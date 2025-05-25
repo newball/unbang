@@ -1,0 +1,8 @@
+{
+  "bang": "poly",
+  "domain": "https://poly.google.com",
+  "url": "https://poly.google.com/search/%s",
+  "description": "Poly",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

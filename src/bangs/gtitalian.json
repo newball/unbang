@@ -1,0 +1,8 @@
+{
+  "bang": "gtitalian",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/it/%s",
+  "description": "Detect language to Italian",
+  "category": "Translation",
+  "sub-category": "Google"
+}

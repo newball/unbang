@@ -1,0 +1,8 @@
+{
+  "bang": "jar",
+  "domain": "https://www.findjar.com",
+  "url": "http://www.findjar.com/index.x?query=%s",
+  "description": "FindJar.com",
+  "category": "Tech",
+  "sub-category": "Languages (java)"
+}

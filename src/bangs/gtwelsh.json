@@ -1,0 +1,8 @@
+{
+  "bang": "gtwelsh",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/cy/%s",
+  "description": "Detect language to Welsh",
+  "category": "Translation",
+  "sub-category": "Google"
+}

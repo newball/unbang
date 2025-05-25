@@ -1,0 +1,8 @@
+{
+  "bang": "gcc",
+  "domain": "https://www.google.com",
+  "url": "https://www.google.com/search?tbm=isch&tbs=sur:fmc&as_q=%s",
+  "description": "Google Images (Commercial Reuse)",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

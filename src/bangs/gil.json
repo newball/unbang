@@ -1,0 +1,8 @@
+{
+  "bang": "gil",
+  "domain": "https://www.google.co.il",
+  "url": "https://www.google.co.il/#q=%s",
+  "description": "Google Israel",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

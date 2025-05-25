@@ -1,0 +1,8 @@
+{
+  "bang": "tz",
+  "domain": "https://www.timeanddate.com",
+  "url": "http://www.timeanddate.com/worldclock/results.html?query=%s",
+  "description": "timeanddate",
+  "category": "News",
+  "sub-category": "Specialty"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "hideme",
+  "domain": "https://nl.hideproxy.me",
+  "url": "https://nl.hideproxy.me/go.php?u=%s",
+  "description": "Hide.me proxy",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

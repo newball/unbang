@@ -1,0 +1,8 @@
+{
+  "bang": "ubuntutr",
+  "domain": "https://forum.ubuntu-tr.net",
+  "url": "http://forum.ubuntu-tr.net/index.php?action=search;q=%s",
+  "description": "Ubuntu Türkiye",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Ubuntu)"
+}

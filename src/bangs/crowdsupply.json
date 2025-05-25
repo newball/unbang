@@ -1,0 +1,8 @@
+{
+  "bang": "crowdsupply",
+  "domain": "https://www.crowdsupply.com",
+  "url": "https://www.crowdsupply.com/search?q=%s",
+  "description": "CrowdSupply",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

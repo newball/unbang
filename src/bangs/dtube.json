@@ -1,0 +1,8 @@
+{
+  "bang": "dtube",
+  "domain": "https://d.tube",
+  "url": "https://d.tube/#!/s/%s",
+  "description": "DTube",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

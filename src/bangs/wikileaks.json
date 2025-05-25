@@ -1,0 +1,8 @@
+{
+  "bang": "wikileaks",
+  "domain": "https://search.wikileaks.org",
+  "url": "https://search.wikileaks.org/?q=%s",
+  "description": "WikiLeaks",
+  "category": "News",
+  "sub-category": "International"
+}

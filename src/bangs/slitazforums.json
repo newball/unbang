@@ -1,0 +1,8 @@
+{
+  "bang": "slitazforums",
+  "domain": "https://forum.slitaz.org",
+  "url": "http://forum.slitaz.org/search.php?q=%s",
+  "description": "SliTaz Forums",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

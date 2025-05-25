@@ -1,0 +1,8 @@
+{
+  "bang": "taal",
+  "domain": "https://taaladvies.net",
+  "url": "http://taaladvies.net/taal/advies/zoek.php?q=%s",
+  "description": "Taaladvies",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

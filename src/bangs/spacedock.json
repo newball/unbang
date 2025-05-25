@@ -1,0 +1,8 @@
+{
+  "bang": "spacedock",
+  "domain": "https://spacedock.info",
+  "url": "http://spacedock.info/search?query=%s",
+  "description": "SpaceDock",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

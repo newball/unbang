@@ -1,0 +1,8 @@
+{
+  "bang": "mises",
+  "domain": "https://mises.org",
+  "url": "https://mises.org/search/site/%s",
+  "description": "Mises Institute",
+  "category": "Research",
+  "sub-category": "Government"
+}

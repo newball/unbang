@@ -1,0 +1,8 @@
+{
+  "bang": "fo",
+  "domain": "https://file.org",
+  "url": "http://file.org/extension/%s ",
+  "description": "File.org",
+  "category": "Research",
+  "sub-category": "Reference"
+}

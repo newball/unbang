@@ -1,0 +1,8 @@
+{
+  "bang": "qobuz",
+  "domain": "https://www.qobuz.com",
+  "url": "http://www.qobuz.com/recherche?q=%s",
+  "description": "Qobuz",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

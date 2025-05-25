@@ -1,0 +1,8 @@
+{
+  "bang": "gtjp",
+  "domain": "https://translate.google.com",
+  "url": "http://translate.google.com/#auto/ja/%s",
+  "description": "Google Translate to Japanese",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

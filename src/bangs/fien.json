@@ -1,0 +1,8 @@
+{
+  "bang": "fien",
+  "domain": "https://translate.google.com",
+  "url": "http://translate.google.com/#fi/en/%s ",
+  "description": "Google Translate",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

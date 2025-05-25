@@ -1,0 +1,8 @@
+{
+  "bang": "rcp",
+  "domain": "https://www.realclearpolitics.com",
+  "url": "http://www.realclearpolitics.com/search/?q=%s",
+  "description": "RealClear Politics",
+  "category": "News",
+  "sub-category": "Specialty"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "vatican",
+  "domain": "https://gsearch.vatican.va",
+  "url": "http://gsearch.vatican.va/search?q=%s&btnG=Search+on&site=default_collection&client=default_frontend&output=xml_no_dtd&proxystylesheet=default_frontend&sort=date%3AD%3AL%3Ad1&entsp=a__policy_documenti&wc=200&wc_mc=1&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&filter=0",
+  "description": "Vatican",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

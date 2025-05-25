@@ -1,0 +1,8 @@
+{
+  "bang": "bio",
+  "domain": "https://www.biography.com",
+  "url": "http://www.biography.com/search?query=%s",
+  "description": "Biography",
+  "category": "Research",
+  "sub-category": "Academic"
+}

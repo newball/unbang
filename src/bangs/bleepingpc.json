@@ -1,0 +1,8 @@
+{
+  "bang": "bleepingpc",
+  "domain": "https://www.bleepingcomputer.com",
+  "url": "https://www.bleepingcomputer.com/search/?q=%s",
+  "description": "Bleeping Computer",
+  "category": "Research",
+  "sub-category": "Learning"
+}

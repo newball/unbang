@@ -1,0 +1,8 @@
+{
+  "bang": "groupon",
+  "domain": "https://www.groupon.com",
+  "url": "https://www.groupon.com/browse/?query=%s",
+  "description": "Groupon",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

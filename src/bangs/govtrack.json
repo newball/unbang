@@ -1,0 +1,8 @@
+{
+  "bang": "govtrack",
+  "domain": "https://www.govtrack.us",
+  "url": "http://www.govtrack.us/search?q=%s",
+  "description": "govtrack.us",
+  "category": "Research",
+  "sub-category": "Government"
+}

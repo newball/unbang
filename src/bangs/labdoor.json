@@ -1,0 +1,8 @@
+{
+  "bang": "labdoor",
+  "domain": "https://labdoor.com",
+  "url": "https://labdoor.com/review?q=%s",
+  "description": "Labdoor",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

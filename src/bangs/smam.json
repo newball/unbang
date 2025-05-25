@@ -1,0 +1,8 @@
+{
+  "bang": "smam",
+  "domain": "https://smile.amazon.com",
+  "url": "http://smile.amazon.com/s/?field-keywords=%s",
+  "description": "Amazon Smile",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

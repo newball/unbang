@@ -1,0 +1,8 @@
+{
+  "bang": "ipns",
+  "domain": "https://ipfs.io",
+  "url": "https://ipfs.io/ipns/%s",
+  "description": "InterPlanetary Naming System",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

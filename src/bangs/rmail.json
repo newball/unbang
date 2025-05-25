@@ -1,0 +1,8 @@
+{
+  "bang": "rmail",
+  "domain": "https://www.royalmail.com",
+  "url": "https://www.royalmail.com/track-your-item#/tracking-results/%s",
+  "description": "Royal mail tracking ID",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

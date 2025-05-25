@@ -1,0 +1,8 @@
+{
+  "bang": "delfiee",
+  "domain": "https://otsing.delfi.ee",
+  "url": "http://otsing.delfi.ee/find?c=dns&q=%s &x=0&y=0",
+  "description": "Delfi.ee",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

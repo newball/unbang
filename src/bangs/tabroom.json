@@ -1,0 +1,8 @@
+{
+  "bang": "tabroom",
+  "domain": "https://www.tabroom.com",
+  "url": "https://www.tabroom.com/index/search.mhtml?search=%s",
+  "description": "Tabroom",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gsk",
+  "domain": "https://www.google.sk",
+  "url": "http://www.google.sk/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google SK",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

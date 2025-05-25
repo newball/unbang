@@ -1,0 +1,8 @@
+{
+  "bang": "olib",
+  "domain": "https://openlibrary.org",
+  "url": "http://openlibrary.org/search?q=%s",
+  "description": "Open Library",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

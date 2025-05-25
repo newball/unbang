@@ -1,0 +1,8 @@
+{
+  "bang": "yv",
+  "domain": "https://video.search.yahoo.com",
+  "url": "https://video.search.yahoo.com/search/video?p=%s",
+  "description": "Yahoo Video Search",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

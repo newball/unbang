@@ -1,0 +1,8 @@
+{
+  "bang": "fle",
+  "domain": "https://flexikon.doccheck.com",
+  "url": "http://flexikon.doccheck.com/de/Spezial:Suche?q=%s",
+  "description": "DocCheck Flexikon",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

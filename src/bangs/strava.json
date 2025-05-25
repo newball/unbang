@@ -1,0 +1,8 @@
+{
+  "bang": "strava",
+  "domain": "https://www.strava.com",
+  "url": "https://www.strava.com/athletes/search?utf8=✓&text=%s&gsf=1",
+  "description": "Strava",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

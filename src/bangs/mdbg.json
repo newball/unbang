@@ -1,0 +1,8 @@
+{
+  "bang": "mdbg",
+  "domain": "https://www.mdbg.net",
+  "url": "https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=%s",
+  "description": "MDBG Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

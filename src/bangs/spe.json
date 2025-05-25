@@ -1,0 +1,8 @@
+{
+  "bang": "spe",
+  "domain": "https://startpage.com",
+  "url": "https://startpage.com/do/dsearch?query=%s&cat=web&pl=opensearch&language=espanol",
+  "description": "StartPage (ES)",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

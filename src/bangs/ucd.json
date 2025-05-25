@@ -1,0 +1,8 @@
+{
+  "bang": "ucd",
+  "domain": "https://www.ucdavis.edu",
+  "url": "https://www.ucdavis.edu/search/google/%s",
+  "description": "UC Davis",
+  "category": "Research",
+  "sub-category": "Academic"
+}

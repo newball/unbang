@@ -1,0 +1,8 @@
+{
+  "bang": "mbinstrument",
+  "domain": "https://musicbrainz.org",
+  "url": "https://musicbrainz.org/search?query=%s&type=instrument",
+  "description": "MusicBrainz instruments",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

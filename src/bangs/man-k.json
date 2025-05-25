@@ -1,0 +1,8 @@
+{
+  "bang": "man-k",
+  "domain": "https://man-k.org",
+  "url": "http://man-k.org/search?q=%s&dist=NetBSD-current",
+  "description": "man-k.org",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

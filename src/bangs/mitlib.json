@@ -1,0 +1,8 @@
+{
+  "bang": "mitlib",
+  "domain": "https://lib.mit.edu",
+  "url": "https://lib.mit.edu/search/bento?q=%s",
+  "description": "MIT Libraries",
+  "category": "Research",
+  "sub-category": "Academic"
+}

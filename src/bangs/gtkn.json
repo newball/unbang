@@ -1,0 +1,8 @@
+{
+  "bang": "gtkn",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/kn/%s",
+  "description": "Detect language to Kannada",
+  "category": "Translation",
+  "sub-category": "Google"
+}

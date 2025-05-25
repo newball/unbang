@@ -1,0 +1,8 @@
+{
+  "bang": "eric",
+  "domain": "https://eric.ed.gov",
+  "url": "https://eric.ed.gov/?q=%s",
+  "description": "Education Resources Information Center",
+  "category": "Research",
+  "sub-category": "Government"
+}

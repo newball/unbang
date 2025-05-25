@@ -1,0 +1,8 @@
+{
+  "bang": "omaps",
+  "domain": "https://omaps.worldofo.com",
+  "url": "http://omaps.worldofo.com/index.php?st=%s",
+  "description": "World of O",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

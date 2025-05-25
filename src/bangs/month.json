@@ -1,0 +1,8 @@
+{
+  "bang": "month",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s&df=m",
+  "description": "DuckDuckGo",
+  "category": "Online Services",
+  "sub-category": "Search (DDG)"
+}

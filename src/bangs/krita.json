@@ -1,0 +1,8 @@
+{
+  "bang": "krita",
+  "domain": "https://docs.krita.org",
+  "url": "https://docs.krita.org/index.php?search=%s",
+  "description": "Krita Docs",
+  "category": "Tech",
+  "sub-category": "Design"
+}

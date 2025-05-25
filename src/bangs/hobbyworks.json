@@ -1,0 +1,8 @@
+{
+  "bang": "hobbyworks",
+  "domain": "https://www.hobbyworks.com",
+  "url": "https://www.hobbyworks.com/index.cfm?action=search&searchText=%s",
+  "description": "HobbyWorks",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

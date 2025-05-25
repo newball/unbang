@@ -1,0 +1,8 @@
+{
+  "bang": "lobsters",
+  "domain": "https://lobste.rs",
+  "url": "https://lobste.rs/search?q=%s",
+  "description": "Lobsters",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

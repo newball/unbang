@@ -1,0 +1,8 @@
+{
+  "bang": "gotquestions",
+  "domain": "https://www.gotquestions.org",
+  "url": "https://www.gotquestions.org/search.php?zoom_query=%s",
+  "description": "GotQuestions",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

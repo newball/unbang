@@ -1,0 +1,8 @@
+{
+  "bang": "kuserbase",
+  "domain": "https://userbase.kde.org",
+  "url": "https://userbase.kde.org/index.php?search=%s&title=Special%3ASearch",
+  "description": "KDE Userbase",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "tc",
+  "domain": "https://techcrunch.com",
+  "url": "http://techcrunch.com/search/%s",
+  "description": "Techcrunch",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

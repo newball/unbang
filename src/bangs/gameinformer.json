@@ -1,0 +1,8 @@
+{
+  "bang": "gameinformer",
+  "domain": "https://www.gameinformer.com",
+  "url": "https://www.gameinformer.com/search?keyword=%s",
+  "description": "GameInformer",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "indiegogo",
+  "domain": "https://www.indiegogo.com",
+  "url": "https://www.indiegogo.com/search#/?q=%s",
+  "description": "Indiegogo",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

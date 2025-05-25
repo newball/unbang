@@ -1,0 +1,8 @@
+{
+  "bang": "wave",
+  "domain": "https://wave.webaim.org",
+  "url": "http://wave.webaim.org/report#/%s",
+  "description": "WAVE",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gru",
+  "domain": "https://google.ru",
+  "url": "https://google.ru/search?hl=ru&q=%s",
+  "description": "Google RU",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

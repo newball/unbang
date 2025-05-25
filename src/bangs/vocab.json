@@ -1,0 +1,8 @@
+{
+  "bang": "vocab",
+  "domain": "https://www.vocabulary.com",
+  "url": "http://www.vocabulary.com/dictionary/%s",
+  "description": "Vocabulary.com",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

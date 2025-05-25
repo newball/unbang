@@ -1,0 +1,8 @@
+{
+  "bang": "wort",
+  "domain": "https://www.wort-suchen.de",
+  "url": "https://www.wort-suchen.de/kreuzwortraetsel-hilfe/loesungen/%s/",
+  "description": "Wort suchen",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

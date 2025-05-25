@@ -1,0 +1,8 @@
+{
+  "bang": "oec",
+  "domain": "https://www.oeconsortium.org",
+  "url": "http://www.oeconsortium.org/courses/search/?search= %s ",
+  "description": "Open Education Consortium",
+  "category": "Research",
+  "sub-category": "Learning"
+}

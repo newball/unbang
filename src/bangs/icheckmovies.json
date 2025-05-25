@@ -1,0 +1,8 @@
+{
+  "bang": "icheckmovies",
+  "domain": "https://www.icheckmovies.com",
+  "url": "http://www.icheckmovies.com/search/movies/?query=%s",
+  "description": "iCheckMovies",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

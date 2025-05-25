@@ -1,0 +1,8 @@
+{
+  "bang": "epmc",
+  "domain": "https://europepmc.org",
+  "url": "http://europepmc.org/search?query=%s",
+  "description": "European Pubmed Central",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "spr",
+  "domain": "https://search.sitepoint.com",
+  "url": "http://search.sitepoint.com/?q=%s&refinements%5Breference%5D=1",
+  "description": "SitePoint Reference",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

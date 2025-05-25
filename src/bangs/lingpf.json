@@ -1,0 +1,8 @@
+{
+  "bang": "lingpf",
+  "domain": "https://www.linguee.fr",
+  "url": "http://www.linguee.fr/francais-portugais/search?source=portugais&query=%s",
+  "description": "Linguee",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

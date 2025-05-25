@@ -1,0 +1,8 @@
+{
+  "bang": "twmet",
+  "domain": "https://www.twitchmetrics.net",
+  "url": "https://www.twitchmetrics.net/search?q=%s",
+  "description": "Twitchmetrics",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

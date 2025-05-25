@@ -1,0 +1,8 @@
+{
+  "bang": "dellst",
+  "domain": "https://www.dell.com",
+  "url": "http://www.dell.com/support/home/us/en/19/product-support/servicetag/%s",
+  "description": "Dell Support Service Tag",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gt-hebrew",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/iw/%s",
+  "description": "Detect language to Hebrew",
+  "category": "Translation",
+  "sub-category": "Google"
+}

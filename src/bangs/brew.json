@@ -1,0 +1,8 @@
+{
+  "bang": "brew",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s+site%3Aformulae.brew.sh",
+  "description": "Homebrew",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "mecabricks",
+  "domain": "https://mecabricks.com",
+  "url": "http://mecabricks.com/en/library/search?q=%s",
+  "description": "Mecabricks.com",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

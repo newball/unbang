@@ -1,0 +1,8 @@
+{
+  "bang": "saphelp",
+  "domain": "https://help.sap.com",
+  "url": "https://help.sap.com/viewer/search?q=%s",
+  "description": "SAP Help Portal",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

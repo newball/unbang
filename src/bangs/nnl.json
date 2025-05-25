@@ -1,0 +1,8 @@
+{
+  "bang": "nnl",
+  "domain": "https://live.nicovideo.jp",
+  "url": "https://live.nicovideo.jp/search?keyword=%s",
+  "description": "Nico Nico Live",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

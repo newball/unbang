@@ -1,0 +1,8 @@
+{
+  "bang": "ffm",
+  "domain": "https://fastfoodmusic.com",
+  "url": "https://fastfoodmusic.com/?s=%s",
+  "description": "Fast Food Music",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

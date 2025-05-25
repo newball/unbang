@@ -1,0 +1,8 @@
+{
+  "bang": "umelb",
+  "domain": "https://search.unimelb.edu.au",
+  "url": "https://search.unimelb.edu.au/?q=%s",
+  "description": "University of Melbourne",
+  "category": "Research",
+  "sub-category": "Academic"
+}

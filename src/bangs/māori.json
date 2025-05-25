@@ -1,0 +1,8 @@
+{
+  "bang": "māori",
+  "domain": "https://maoridictionary.co.nz",
+  "url": "http://maoridictionary.co.nz/search?keywords=%s",
+  "description": "Māori Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

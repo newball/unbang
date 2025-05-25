@@ -1,0 +1,8 @@
+{
+  "bang": "bibleserver",
+  "domain": "https://bibleserver.com",
+  "url": "http://bibleserver.com/search/LUT/%s/1",
+  "description": "bibleserver.com",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "baeldung",
+  "domain": "https://www.baeldung.com",
+  "url": "https://www.baeldung.com/?s=%s",
+  "description": "Baeldung",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "àax",
+  "domain": "https://www.albumartexchange.com",
+  "url": "http://www.albumartexchange.com/covers?fltr=ALL&sort=TITLE&q=%s",
+  "description": "Album Art Exchange",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gtchichewa",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/ny/%s",
+  "description": "Detect language to Chichewa",
+  "category": "Translation",
+  "sub-category": "Google"
+}

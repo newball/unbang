@@ -1,0 +1,8 @@
+{
+  "bang": "deal",
+  "domain": "https://dealbook.nytimes.com",
+  "url": "http://dealbook.nytimes.com/?s=%s",
+  "description": "DealBook",
+  "category": "News",
+  "sub-category": "Business"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "idiom",
+  "domain": "https://idioms.thefreedictionary.com",
+  "url": "http://idioms.thefreedictionary.com/%s",
+  "description": "Idioms The Free Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

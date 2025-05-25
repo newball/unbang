@@ -1,0 +1,8 @@
+{
+  "bang": "androidpitfr",
+  "domain": "https://www.androidpit.fr",
+  "url": "http://www.androidpit.fr/search?st=%s",
+  "description": "AndroidPit (Fr)",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

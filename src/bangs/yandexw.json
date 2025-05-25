@@ -1,0 +1,8 @@
+{
+  "bang": "yandexw",
+  "domain": "https://yandex.ru",
+  "url": "https://yandex.ru/pogoda/%s",
+  "description": "yandex.ru/pogoda/",
+  "category": "News",
+  "sub-category": "Weather"
+}

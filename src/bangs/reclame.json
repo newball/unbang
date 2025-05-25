@@ -1,0 +1,8 @@
+{
+  "bang": "reclame",
+  "domain": "https://www.reclameaqui.com.br",
+  "url": "http://www.reclameaqui.com.br/busca/?q=%s",
+  "description": "Reclame Aqui",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

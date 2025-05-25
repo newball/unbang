@@ -1,0 +1,8 @@
+{
+  "bang": "iappmag",
+  "domain": "https://www.iappmag.de",
+  "url": "http://www.iappmag.de/?s=%s",
+  "description": "iAppMag",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

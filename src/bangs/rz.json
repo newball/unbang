@@ -1,0 +1,8 @@
+{
+  "bang": "rz",
+  "domain": "https://www.rhymezone.com",
+  "url": "http://www.rhymezone.com/r/rhyme.cgi?Word=%s&typeofrhyme=perfect&org1=syl&org2=l&org3=y",
+  "description": "RhymeZone",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

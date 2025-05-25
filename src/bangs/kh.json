@@ -1,0 +1,8 @@
+{
+  "bang": "kh",
+  "domain": "https://hub.kubeapps.com",
+  "url": "https://hub.kubeapps.com/charts?q=%s",
+  "description": "Kubeapps Hub",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

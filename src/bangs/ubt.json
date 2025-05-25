@@ -1,0 +1,8 @@
+{
+  "bang": "ubt",
+  "domain": "https://rds-tue.ibs-bw.de",
+  "url": "https://rds-tue.ibs-bw.de/opac/RDSIndex/Search?lookfor=%s",
+  "description": "Universitätsbibliothek Tübingen",
+  "category": "Research",
+  "sub-category": "Learning"
+}

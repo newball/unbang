@@ -1,0 +1,8 @@
+{
+  "bang": "rsar",
+  "domain": "https://www.rollingstone.com.ar",
+  "url": "http://www.rollingstone.com.ar/buscador-r30-%s",
+  "description": "Rolling Stone Argentina",
+  "category": "News",
+  "sub-category": "Magazine"
+}

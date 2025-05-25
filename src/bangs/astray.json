@@ -1,0 +1,8 @@
+{
+  "bang": "astray",
+  "domain": "https://www.astray.com",
+  "url": "http://www.astray.com/recipes/?search=%s",
+  "description": "Astray Recipes",
+  "category": "Research",
+  "sub-category": "Food"
+}

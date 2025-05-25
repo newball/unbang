@@ -1,0 +1,8 @@
+{
+  "bang": "humble",
+  "domain": "https://www.humblebundle.com",
+  "url": "https://www.humblebundle.com/store/search?search=%s",
+  "description": "Humble Store",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

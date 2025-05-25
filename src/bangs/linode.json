@@ -1,0 +1,8 @@
+{
+  "bang": "linode",
+  "domain": "https://library.linode.com",
+  "url": "https://library.linode.com/search?query=%s",
+  "description": "Linode Library",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

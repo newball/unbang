@@ -1,0 +1,8 @@
+{
+  "bang": "some",
+  "domain": "https://www.someecards.com",
+  "url": "http://www.someecards.com/search?q=%s ",
+  "description": "someecards",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

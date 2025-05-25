@@ -1,0 +1,8 @@
+{
+  "bang": "synapse",
+  "domain": "https://www.synapse.org",
+  "url": "https://www.synapse.org/#!Search:%s ",
+  "description": "Sage Synapse",
+  "category": "Research",
+  "sub-category": "Health"
+}

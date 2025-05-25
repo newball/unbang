@@ -1,0 +1,8 @@
+{
+  "bang": "fup",
+  "domain": "https://filmup.leonardo.it",
+  "url": "http://filmup.leonardo.it/cgi-bin/search.cgi?ps=10&fmt=long&sy=0&q=%s",
+  "description": "FilmUP.com",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

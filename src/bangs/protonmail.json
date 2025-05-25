@@ -1,0 +1,8 @@
+{
+  "bang": "protonmail",
+  "domain": "https://mail.protonmail.com",
+  "url": "https://mail.protonmail.com/search?keyword=%s",
+  "description": "ProtonMail",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "csn",
+  "domain": "https://cisne.sim.ucm.es",
+  "url": "http://cisne.sim.ucm.es/search*spi~S/X?SEARCH=%s&sort=D",
+  "description": "Catálogo cisne UCM",
+  "category": "Research",
+  "sub-category": "Academic"
+}

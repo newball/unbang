@@ -1,0 +1,8 @@
+{
+  "bang": "mixesdb",
+  "domain": "https://www.mixesdb.com",
+  "url": "http://www.mixesdb.com/db/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "MixesDB",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

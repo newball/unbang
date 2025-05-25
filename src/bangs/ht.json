@@ -1,0 +1,8 @@
+{
+  "bang": "ht",
+  "domain": "https://hooktube.com",
+  "url": "https://hooktube.com/results?search_query=%s",
+  "description": "HookTube",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

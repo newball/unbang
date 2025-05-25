@@ -1,0 +1,8 @@
+{
+  "bang": "popsci",
+  "domain": "https://www.popsci.com",
+  "url": "https://www.popsci.com/find/%s",
+  "description": "Popular Science",
+  "category": "News",
+  "sub-category": "Magazine"
+}

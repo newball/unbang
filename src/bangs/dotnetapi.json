@@ -1,0 +1,8 @@
+{
+  "bang": "dotnetapi",
+  "domain": "https://learn.microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/dotnet/api/?term=%s",
+  "description": ".NET API",
+  "category": "Tech",
+  "sub-category": "Languages (.net)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "hubski",
+  "domain": "https://hubski.com",
+  "url": "https://hubski.com/search?q=%s",
+  "description": "Hubski",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

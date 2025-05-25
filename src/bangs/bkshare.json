@@ -1,0 +1,8 @@
+{
+  "bang": "bkshare",
+  "domain": "https://www.bookshare.org",
+  "url": "https://www.bookshare.org/search?keyword=%s",
+  "description": "Bookshare.org",
+  "category": "Research",
+  "sub-category": "Learning"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "splunkbase",
+  "domain": "https://apps.splunk.com",
+  "url": "https://apps.splunk.com/apps/#/search/%s/page/1",
+  "description": "Splunkbase",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

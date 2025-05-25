@@ -1,0 +1,8 @@
+{
+  "bang": "canistreamit",
+  "domain": "https://www.canistream.it",
+  "url": "http://www.canistream.it/search/term/%s",
+  "description": "Can I Stream It",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

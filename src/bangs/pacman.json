@@ -1,0 +1,8 @@
+{
+  "bang": "pacman",
+  "domain": "https://www.archlinux.org",
+  "url": "https://www.archlinux.org/packages/?sort=&q=%s",
+  "description": "Arch Package Repo",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Arch)"
+}

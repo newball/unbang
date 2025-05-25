@@ -1,0 +1,8 @@
+{
+  "bang": "plw",
+  "domain": "https://pl.wikipedia.org",
+  "url": "https://pl.wikipedia.org/w/index.php?search=%s",
+  "description": "Polish Wikipedia",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

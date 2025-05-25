@@ -1,0 +1,8 @@
+{
+  "bang": "lux",
+  "domain": "https://lux.leuphana.de",
+  "url": "https://lux.leuphana.de/vufind/Search/Results?lookfor=%s&submit=Suchen",
+  "description": "Lux Leuphana Bibliothek",
+  "category": "Research",
+  "sub-category": "Academic"
+}

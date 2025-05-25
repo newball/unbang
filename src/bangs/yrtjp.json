@@ -1,0 +1,8 @@
+{
+  "bang": "yrtjp",
+  "domain": "https://search.yahoo.co.jp",
+  "url": "https://search.yahoo.co.jp/realtime/search?p=%s",
+  "description": "Yahoo! Japan Realtime",
+  "category": "Online Services",
+  "sub-category": "Search (Real-time)"
+}

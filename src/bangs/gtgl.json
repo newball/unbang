@@ -1,0 +1,8 @@
+{
+  "bang": "gtgl",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/gl/%s",
+  "description": "Detect language to Galician",
+  "category": "Translation",
+  "sub-category": "Google"
+}

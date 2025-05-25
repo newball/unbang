@@ -1,0 +1,8 @@
+{
+  "bang": "ebseller",
+  "domain": "https://www.ebay.com",
+  "url": "http://www.ebay.com/sch/%s/m.html",
+  "description": "eBay",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

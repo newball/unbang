@@ -1,0 +1,8 @@
+{
+  "bang": "fandom",
+  "domain": "https://www.fandom.com",
+  "url": "https://www.fandom.com/?s=%s",
+  "description": "Fandom",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

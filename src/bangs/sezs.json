@@ -1,0 +1,8 @@
+{
+  "bang": "sezs",
+  "domain": "https://slovnik.seznam.cz",
+  "url": "http://slovnik.seznam.cz/en-cz/word/?q=%s",
+  "description": "Seznam.cz Slovník En-Cz",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

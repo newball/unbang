@@ -1,0 +1,8 @@
+{
+  "bang": "py27",
+  "domain": "https://docs.python.org",
+  "url": "https://docs.python.org/2.7/search.html?q=%s",
+  "description": "Python 2.7.10 Documentation",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

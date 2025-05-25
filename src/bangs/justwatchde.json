@@ -1,0 +1,8 @@
+{
+  "bang": "justwatchde",
+  "domain": "https://www.justwatch.com",
+  "url": "https://www.justwatch.com/de/Suche?q=%s",
+  "description": "justwatch german",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

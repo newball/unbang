@@ -1,0 +1,8 @@
+{
+  "bang": "refreb",
+  "domain": "https://dictionary.reverso.net",
+  "url": "http://dictionary.reverso.net/french-english/%s",
+  "description": "Reverso French - English",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

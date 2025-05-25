@@ -1,0 +1,8 @@
+{
+  "bang": "dbnl",
+  "domain": "https://dbnl.nl",
+  "url": "http://dbnl.nl/zoeken/zoekeninteksten/index.php?zoek=%s",
+  "description": "http://dbnl.nl/",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

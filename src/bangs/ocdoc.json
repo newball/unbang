@@ -1,0 +1,8 @@
+{
+  "bang": "ocdoc",
+  "domain": "https://ocdoc.cil.li",
+  "url": "https://ocdoc.cil.li/doku.php?id=start&do=search&q=%s",
+  "description": "Official documentation of OpenComputers",
+  "category": "Entertainment",
+  "sub-category": "Games (Minecraft)"
+}

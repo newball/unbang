@@ -1,0 +1,8 @@
+{
+  "bang": "lobugs",
+  "domain": "https://bugs.documentfoundation.org",
+  "url": "https://bugs.documentfoundation.org/buglist.cgi?quicksearch=%s",
+  "description": "LibreOffice Bugs",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

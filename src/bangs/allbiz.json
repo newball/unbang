@@ -1,0 +1,8 @@
+{
+  "bang": "allbiz",
+  "domain": "https://www.all.biz",
+  "url": "http://www.all.biz/search/goods/?q=%s",
+  "description": "AllBiz",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

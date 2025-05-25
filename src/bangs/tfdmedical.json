@@ -1,0 +1,8 @@
+{
+  "bang": "tfdmedical",
+  "domain": "https://medical-dictionary.thefreedictionary.com",
+  "url": "http://medical-dictionary.thefreedictionary.com/%s",
+  "description": "The Free Dictionary (Medical Dictionary)",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

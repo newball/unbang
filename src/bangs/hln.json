@@ -1,0 +1,8 @@
+{
+  "bang": "hln",
+  "domain": "https://www.hln.be",
+  "url": "https://www.hln.be/zoeken?query=%s",
+  "description": "Het Laatste Nieuws",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

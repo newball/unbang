@@ -1,0 +1,8 @@
+{
+  "bang": "dm",
+  "domain": "https://www.dailymotion.com",
+  "url": "https://www.dailymotion.com/search/%s",
+  "description": "Daily Motion",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

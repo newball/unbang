@@ -1,0 +1,8 @@
+{
+  "bang": "enda",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#en/da/%s",
+  "description": "Google Translate en-da",
+  "category": "Translation",
+  "sub-category": "Google"
+}

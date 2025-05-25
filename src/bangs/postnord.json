@@ -1,0 +1,8 @@
+{
+  "bang": "postnord",
+  "domain": "https://www.postnord.no",
+  "url": "http://www.postnord.no/minside/SOPS/%s",
+  "description": "Postnord",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

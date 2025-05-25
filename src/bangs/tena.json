@@ -1,0 +1,8 @@
+{
+  "bang": "tena",
+  "domain": "https://www.tennisabstract.com",
+  "url": "http://www.tennisabstract.com/cgi-bin/player.cgi?p=%s",
+  "description": "Tennis abstract",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

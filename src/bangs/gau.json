@@ -1,0 +1,8 @@
+{
+  "bang": "gau",
+  "domain": "https://www.google.com.au",
+  "url": "http://www.google.com.au/search?&source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google AU",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

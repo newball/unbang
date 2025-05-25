@@ -1,0 +1,8 @@
+{
+  "bang": "tug",
+  "domain": "https://search.tugraz.at",
+  "url": "http://search.tugraz.at/search?q=%s&site=Alle&btnG=Suchen&client=tug_portal&output=xml_no_dtd&proxystylesheet=tug_portal&sitesearch=www.tugraz.at",
+  "description": "Graz University of Technology",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "sitepoint",
+  "domain": "https://www.sitepoint.com",
+  "url": "https://www.sitepoint.com/?s=%s",
+  "description": "Sitepoint",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "emusic",
+  "domain": "https://www.emusic.com",
+  "url": "https://www.emusic.com/search/%s",
+  "description": "eMusic",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

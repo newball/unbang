@@ -1,0 +1,8 @@
+{
+  "bang": "mblabel",
+  "domain": "https://musicbrainz.org",
+  "url": "https://musicbrainz.org/search?query=%s&type=label",
+  "description": "MusicBrainz Labels",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

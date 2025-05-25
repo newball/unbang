@@ -1,0 +1,8 @@
+{
+  "bang": "noen",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#no/en/%s",
+  "description": "Google Translate no-en",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

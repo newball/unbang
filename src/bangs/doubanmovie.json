@@ -1,0 +1,8 @@
+{
+  "bang": "doubanmovie",
+  "domain": "https://movie.douban.com",
+  "url": "https://movie.douban.com/subject_search?search_text=%s",
+  "description": "Douban Movie",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

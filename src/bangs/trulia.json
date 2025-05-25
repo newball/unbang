@@ -1,0 +1,8 @@
+{
+  "bang": "trulia",
+  "domain": "https://www.trulia.com",
+  "url": "http://www.trulia.com/validate.php?tst=h&display=for+sale&search=%s&type=&min_price=min&max_price=max&min_num_beds=0&min_num_baths=0&min_size=0&submit_btn=SEARCH",
+  "description": "Trulia",
+  "category": "Research",
+  "sub-category": "Real Estate"
+}

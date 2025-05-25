@@ -1,0 +1,8 @@
+{
+  "bang": "imagequest",
+  "domain": "https://quest.eb.com",
+  "url": "http://quest.eb.com/search/%s",
+  "description": "Britannica ImageQuest",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

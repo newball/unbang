@@ -1,0 +1,8 @@
+{
+  "bang": "oreilly",
+  "domain": "https://search.oreilly.com",
+  "url": "http://search.oreilly.com/?q=%s",
+  "description": "O'Reilly",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

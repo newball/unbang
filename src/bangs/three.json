@@ -1,0 +1,8 @@
+{
+  "bang": "three",
+  "domain": "https://www.three.co.uk",
+  "url": "http://www.three.co.uk/Search/?q=%s",
+  "description": "Three",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

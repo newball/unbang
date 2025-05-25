@@ -1,0 +1,8 @@
+{
+  "bang": "atom",
+  "domain": "https://www.atomtickets.com",
+  "url": "https://www.atomtickets.com/search?query=%s",
+  "description": "Atom Tickets",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

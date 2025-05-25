@@ -1,0 +1,8 @@
+{
+  "bang": "trap",
+  "domain": "https://www.trappersreport.com",
+  "url": "https://www.trappersreport.com/?q=%s",
+  "description": "Trappers Report",
+  "category": "Research",
+  "sub-category": "Learning"
+}

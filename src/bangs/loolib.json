@@ -1,0 +1,8 @@
+{
+  "bang": "loolib",
+  "domain": "https://primo.tug-libraries.on.ca",
+  "url": "https://primo.tug-libraries.on.ca/primo_library/libweb/action/dlSearch.do?institution=WATERLOO&vid=WATERLOO&onCampus=false&lang=eng&indx=1&dym=true&highlight=true&displayField=title&bulkSize=10&query=any%2Ccontains%2C%s&search_scope=books_tab&tab=default_tab",
+  "description": "University of Waterloo Library",
+  "category": "Online Services",
+  "sub-category": "Search (Private)"
+}

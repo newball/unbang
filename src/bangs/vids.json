@@ -1,0 +1,8 @@
+{
+  "bang": "vids",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s&ia=videos&iax=videos",
+  "description": "DuckDuckGo Videos",
+  "category": "Online Services",
+  "sub-category": "Search (DDG)"
+}

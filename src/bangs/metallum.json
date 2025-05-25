@@ -1,0 +1,8 @@
+{
+  "bang": "metallum",
+  "domain": "https://www.metal-archives.com",
+  "url": "https://www.metal-archives.com/search?searchString=%s&type=band_name",
+  "description": "Encyclopaedia Metallum",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "riddler",
+  "domain": "https://riddler.io",
+  "url": "https://riddler.io/search?q=%s",
+  "description": "F-Secure Riddler",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

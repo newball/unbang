@@ -1,0 +1,8 @@
+{
+  "bang": "tsin",
+  "domain": "https://www.treccani.it",
+  "url": "http://www.treccani.it/sinonimi/?q=%s",
+  "description": "Treccani Sinonimi e Contrari",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

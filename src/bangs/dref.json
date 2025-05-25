@@ -1,0 +1,8 @@
+{
+  "bang": "dref",
+  "domain": "https://dictionary.reference.com",
+  "url": "http://dictionary.reference.com/browse/%s",
+  "description": "Dictionary at Reference.com",
+  "category": "Research",
+  "sub-category": "Reference"
+}

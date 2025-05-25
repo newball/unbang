@@ -1,0 +1,8 @@
+{
+  "bang": "bdi",
+  "domain": "https://cn.bing.com",
+  "url": "https://cn.bing.com/dict/search?q=%s",
+  "description": "Bing 词典",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

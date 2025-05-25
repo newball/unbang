@@ -1,0 +1,8 @@
+{
+  "bang": "wtionary",
+  "domain": "https://en.wiktionary.org",
+  "url": "https://en.wiktionary.org/w/index.php?search=%s&title=Special%3ASearch&go=Go",
+  "description": "Wikitionary",
+  "category": "Research",
+  "sub-category": "Learning"
+}

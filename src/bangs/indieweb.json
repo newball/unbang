@@ -1,0 +1,8 @@
+{
+  "bang": "indieweb",
+  "domain": "https://indieweb.org",
+  "url": "http://indieweb.org/wiki/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "Indie Web Camp",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

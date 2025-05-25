@@ -1,0 +1,8 @@
+{
+  "bang": "southpark",
+  "domain": "https://www.southparkstudios.com",
+  "url": "http://www.southparkstudios.com/search?keywords=%s",
+  "description": "South Park Studios",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

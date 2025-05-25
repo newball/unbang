@@ -1,0 +1,8 @@
+{
+  "bang": "puzzles",
+  "domain": "https://www.puzzlopia.com",
+  "url": "http://www.puzzlopia.com/search-results?search=%s",
+  "description": "Puzzlopia",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

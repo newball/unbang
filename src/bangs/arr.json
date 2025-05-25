@@ -1,0 +1,8 @@
+{
+  "bang": "arr",
+  "domain": "https://ffxiv.gamerescape.com",
+  "url": "http://ffxiv.gamerescape.com/wiki/Special:Search?search=%s",
+  "description": "GamerEscape",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

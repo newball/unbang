@@ -1,0 +1,8 @@
+{
+  "bang": "prisguide",
+  "domain": "https://www.prisguide.no",
+  "url": "https://www.prisguide.no/sok?q=%s",
+  "description": "Prisguide.no",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

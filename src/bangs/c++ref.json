@@ -1,0 +1,8 @@
+{
+  "bang": "c++ref",
+  "domain": "https://en.cppreference.com",
+  "url": "http://en.cppreference.com/mwiki/index.php?search=Special%3ASearch&search=%s",
+  "description": "cppreference.com",
+  "category": "Tech",
+  "sub-category": "Languages (c++)"
+}

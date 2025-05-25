@@ -1,0 +1,8 @@
+{
+  "bang": "a2",
+  "domain": "https://alternativeto.net",
+  "url": "http://alternativeto.net/browse/search/?q=%s&ignoreExactMatch=true",
+  "description": "AlternativeTo.net",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

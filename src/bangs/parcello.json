@@ -1,0 +1,8 @@
+{
+  "bang": "parcello",
+  "domain": "https://www.parcello.org",
+  "url": "https://www.parcello.org/tracking?tid=%s",
+  "description": "Parcello Sendungsverfolgung - Parcel Tracking",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

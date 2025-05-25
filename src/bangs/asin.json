@@ -1,0 +1,8 @@
+{
+  "bang": "asin",
+  "domain": "https://www.amazon.com",
+  "url": "https://www.amazon.com/dp/%s",
+  "description": "Amazon (ASIN)",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

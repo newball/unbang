@@ -1,0 +1,8 @@
+{
+  "bang": "flight",
+  "domain": "https://spotterlead.net",
+  "url": "https://spotterlead.net/flights/%s",
+  "description": "SpotterLead Flights",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

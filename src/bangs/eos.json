@@ -1,0 +1,8 @@
+{
+  "bang": "eos",
+  "domain": "https://www.eosdigitaal.nl",
+  "url": "https://www.eosdigitaal.nl/forum/search.php?keywords=%s&terms=all&author=&sc=1&sf=all&sk=t&sd=d&sr=posts&st=0&ch=300&t=0&submit=Zoeken",
+  "description": "Eosdigitaal.nl",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

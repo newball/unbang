@@ -1,0 +1,8 @@
+{
+  "bang": "wikiart",
+  "domain": "https://wikiart.org",
+  "url": "http://wikiart.org/en/search/%s/1",
+  "description": "WikiArt",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

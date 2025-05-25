@@ -1,0 +1,8 @@
+{
+  "bang": "sms",
+  "domain": "https://songmeanings.com",
+  "url": "http://songmeanings.com/query/?query=%s",
+  "description": "SongMeanings",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

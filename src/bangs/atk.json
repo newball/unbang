@@ -1,0 +1,8 @@
+{
+  "bang": "atk",
+  "domain": "https://www.americastestkitchen.com",
+  "url": "https://www.americastestkitchen.com/search?q=%s",
+  "description": "America's Test Kitchen",
+  "category": "Research",
+  "sub-category": "Food"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "elix",
+  "domain": "https://www.elix-lsf.fr",
+  "url": "https://www.elix-lsf.fr/spip.php?page=recherche_definitions&recherche=%s&lang=fr",
+  "description": "Elix Dictionnaire LSF",
+  "category": "Multimedia",
+  "sub-category": "Docs"
+}

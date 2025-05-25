@@ -1,0 +1,8 @@
+{
+  "bang": "chromestore",
+  "domain": "https://chrome.google.com",
+  "url": "https://chrome.google.com/webstore/search/%s",
+  "description": "Chrome Web Store",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

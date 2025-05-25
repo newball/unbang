@@ -1,0 +1,8 @@
+{
+  "bang": "steamtrades",
+  "domain": "https://www.steamtrades.com",
+  "url": "http://www.steamtrades.com/forum/search/%s",
+  "description": "Steam Trades",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

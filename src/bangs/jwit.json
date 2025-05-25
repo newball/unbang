@@ -1,0 +1,8 @@
+{
+  "bang": "jwit",
+  "domain": "https://www.justwatch.com",
+  "url": "https://www.justwatch.com/it/cerca?q=%s",
+  "description": "JustWatch Italy",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

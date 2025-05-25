@@ -1,0 +1,8 @@
+{
+  "bang": "weathforyou",
+  "domain": "https://www.weatherforyou.com",
+  "url": "https://www.weatherforyou.com/reports/index.php?forecast=zandh&pands=%s&Submit=Get+Weather",
+  "description": "Weather For You",
+  "category": "News",
+  "sub-category": "Weather"
+}

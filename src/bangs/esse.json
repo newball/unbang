@@ -1,0 +1,8 @@
+{
+  "bang": "esse",
+  "domain": "https://physics.stackexchange.com",
+  "url": "https://physics.stackexchange.com/search?q=%s",
+  "description": "Earth Science Stack Exchange",
+  "category": "Research",
+  "sub-category": "Academic"
+}

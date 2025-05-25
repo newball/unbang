@@ -1,0 +1,8 @@
+{
+  "bang": "як",
+  "domain": "https://yandex.ru",
+  "url": "https://yandex.ru/images/search?text=%s",
+  "description": "Yandex images (Яндекс картинки)",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

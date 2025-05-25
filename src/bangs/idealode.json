@@ -1,0 +1,8 @@
+{
+  "bang": "idealode",
+  "domain": "https://www.idealo.de",
+  "url": "http://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=%s",
+  "description": "Idealo",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

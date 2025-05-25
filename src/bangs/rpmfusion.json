@@ -1,0 +1,8 @@
+{
+  "bang": "rpmfusion",
+  "domain": "https://admin.rpmfusion.org",
+  "url": "https://admin.rpmfusion.org/pkgdb/packages/%s/",
+  "description": "RPMFusion Packages",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Fedora)"
+}

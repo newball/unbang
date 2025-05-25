@@ -1,0 +1,8 @@
+{
+  "bang": "wcme",
+  "domain": "https://spark.apache.org",
+  "url": "https://spark.apache.org/docs/latest/api/python/search.html?q=%s",
+  "description": "PySpark documentation",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "yidio",
+  "domain": "https://www.yidio.com",
+  "url": "http://www.yidio.com/search/entertainment/%s/1?find=%s",
+  "description": "Yidio",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "cisco",
+  "domain": "https://search.cisco.com",
+  "url": "https://search.cisco.com/search?query=%s",
+  "description": "Cisco",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

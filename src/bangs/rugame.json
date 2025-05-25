@@ -1,0 +1,8 @@
+{
+  "bang": "rugame",
+  "domain": "https://www.retrovideogamestore.com",
+  "url": "https://www.retrovideogamestore.com/index.php?option=com_mijoshop&route=product/search&search=%s",
+  "description": "R. U. Game?",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "seamonkey",
+  "domain": "https://addons.mozilla.org",
+  "url": "https://addons.mozilla.org/en-US/seamonkey/search/?q=%s&cat=all&lver=any&pid=1&sort=&pp=20&lup=&advanced=",
+  "description": "Seamonkey Add-on",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

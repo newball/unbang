@@ -1,0 +1,8 @@
+{
+  "bang": "bdeals",
+  "domain": "https://www.bradsdeals.com",
+  "url": "http://www.bradsdeals.com/search?query=%s",
+  "description": "Brad's Deals",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "noteflight",
+  "domain": "https://www.noteflight.com",
+  "url": "http://www.noteflight.com/public_scores#/search/%s",
+  "description": "Noteflight",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "beatport",
+  "domain": "https://www.beatport.com",
+  "url": "https://www.beatport.com/search?q=%s",
+  "description": "Beatport",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

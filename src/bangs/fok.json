@@ -1,0 +1,8 @@
+{
+  "bang": "fok",
+  "domain": "https://zoeken.fok.nl",
+  "url": "http://zoeken.fok.nl/zoek/?searchmode=simple&tab=fok&startdate=&enddate=&startdatelast=&enddatelast=&bycreator=&byuser=&orderby=relevance&s_fields[]=titel&s_fields[]=bericht&s_fields[]=reacties&status[]=open&status[]=gesloten&status[]=sticky&status[]=openstick&status[]=centraal&q=%s",
+  "description": "FOK!",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "filmnl",
+  "domain": "https://www.film.nl",
+  "url": "https://www.film.nl/?q=%s",
+  "description": "Film.nl",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

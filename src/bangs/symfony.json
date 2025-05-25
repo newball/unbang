@@ -1,0 +1,8 @@
+{
+  "bang": "symfony",
+  "domain": "https://symfony.com",
+  "url": "http://symfony.com/search?q=%s",
+  "description": "Symfony Framework",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

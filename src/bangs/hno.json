@@ -1,0 +1,8 @@
+{
+  "bang": "hno",
+  "domain": "https://hackernoon.com",
+  "url": "https://hackernoon.com/search?q=%s",
+  "description": "hackernoon",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

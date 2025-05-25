@@ -1,0 +1,8 @@
+{
+  "bang": "me",
+  "domain": "https://masseffect.wikia.com",
+  "url": "http://masseffect.wikia.com/wiki/Special:Search?search=%s&fulltext=Search",
+  "description": "Mass Effect Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

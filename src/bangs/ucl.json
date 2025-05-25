@@ -1,0 +1,8 @@
+{
+  "bang": "ucl",
+  "domain": "https://search2.ucl.ac.uk",
+  "url": "https://search2.ucl.ac.uk/s/search.html?query=%s&collection=website-meta&profile=_website&tab=websites&submit=Go",
+  "description": "UCL",
+  "category": "Research",
+  "sub-category": "Academic"
+}

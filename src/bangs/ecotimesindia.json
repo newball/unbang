@@ -1,0 +1,8 @@
+{
+  "bang": "ecotimesindia",
+  "domain": "https://economictimes.indiatimes.com",
+  "url": "https://economictimes.indiatimes.com/topic/%s",
+  "description": "Economic Times",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "citi",
+  "domain": "https://citizendium.org",
+  "url": "http://citizendium.org/wiki?search=%s&title=Special%3ASearch&go=Go+To+Page",
+  "description": "Citizendium",
+  "category": "Research",
+  "sub-category": "Learning"
+}

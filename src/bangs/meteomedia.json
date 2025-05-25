@@ -1,0 +1,8 @@
+{
+  "bang": "meteomedia",
+  "domain": "https://www.meteomedia.com",
+  "url": "https://www.meteomedia.com/ca/search?q=%s",
+  "description": "MeteoMedia",
+  "category": "News",
+  "sub-category": "Weather"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "openbsd",
+  "domain": "https://man.openbsd.org",
+  "url": "http://man.openbsd.org/?query=%s",
+  "description": "OpenBSD",
+  "category": "Tech",
+  "sub-category": "Sysadmin (man)"
+}

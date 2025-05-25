@@ -1,0 +1,8 @@
+{
+  "bang": "revzilla",
+  "domain": "https://www.revzilla.com",
+  "url": "http://www.revzilla.com/search?query=%s&commit=Search",
+  "description": "RevZilla",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

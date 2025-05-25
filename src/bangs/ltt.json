@@ -1,0 +1,8 @@
+{
+  "bang": "ltt",
+  "domain": "https://linustechtips.com",
+  "url": "https://linustechtips.com/main/search/?&q=%s",
+  "description": "LinusTechTips Forum",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "enc",
+  "domain": "https://www.encyclo.nl",
+  "url": "http://www.encyclo.nl/begrip/%s",
+  "description": "encyclo",
+  "category": "Research",
+  "sub-category": "Reference"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gtn",
+  "domain": "https://www.google.tn",
+  "url": "https://www.google.tn/search?q=%s",
+  "description": "Google Tunisia",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

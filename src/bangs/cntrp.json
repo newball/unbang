@@ -1,0 +1,8 @@
+{
+  "bang": "cntrp",
+  "domain": "https://www.counterpunch.org",
+  "url": "https://www.counterpunch.org/search-results/?q=%s",
+  "description": "Counterpunch",
+  "category": "News",
+  "sub-category": "Magazine"
+}

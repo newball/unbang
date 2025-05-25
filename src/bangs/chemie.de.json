@@ -1,0 +1,8 @@
+{
+  "bang": "chemie.de",
+  "domain": "https://www.chemie.de",
+  "url": "http://www.chemie.de/search/?q=%s",
+  "description": "Chemie.de",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

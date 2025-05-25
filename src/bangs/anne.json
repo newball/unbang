@@ -1,0 +1,8 @@
+{
+  "bang": "anne",
+  "domain": "https://www.animenewsnetwork.com",
+  "url": "http://www.animenewsnetwork.com/encyclopedia/search/name?only=anime&q=%s",
+  "description": "AnimeNewsNetwork Encyclopedia",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

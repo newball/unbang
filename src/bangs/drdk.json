@@ -1,0 +1,8 @@
+{
+  "bang": "drdk",
+  "domain": "https://www.dr.dk",
+  "url": "http://www.dr.dk/search/Result?query=%s",
+  "description": "Danmark Radio",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

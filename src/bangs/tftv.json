@@ -1,0 +1,8 @@
+{
+  "bang": "tftv",
+  "domain": "https://www.teamfortress.tv",
+  "url": "http://www.teamfortress.tv/search?q=%s",
+  "description": "TeamFortress.tv",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

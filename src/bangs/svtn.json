@@ -1,0 +1,8 @@
+{
+  "bang": "svtn",
+  "domain": "https://www.svt.se",
+  "url": "http://www.svt.se/search/?q=%s",
+  "description": "Svt Nyheter",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

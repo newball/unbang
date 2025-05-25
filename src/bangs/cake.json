@@ -1,0 +1,8 @@
+{
+  "bang": "cake",
+  "domain": "https://api.cakephp.org",
+  "url": "http://api.cakephp.org/search/%s",
+  "description": "CakePHP API",
+  "category": "Tech",
+  "sub-category": "Languages (php)"
+}

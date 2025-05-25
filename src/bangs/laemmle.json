@@ -1,0 +1,8 @@
+{
+  "bang": "laemmle",
+  "domain": "https://www.laemmle.com",
+  "url": "https://www.laemmle.com/search?q=%s",
+  "description": "Laemmle",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

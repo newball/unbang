@@ -1,0 +1,8 @@
+{
+  "bang": "reesen",
+  "domain": "https://dictionary.reverso.net",
+  "url": "http://dictionary.reverso.net/spanish-english/%s",
+  "description": "Reverso Spanish - English",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

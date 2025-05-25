@@ -1,0 +1,8 @@
+{
+  "bang": "smhi",
+  "domain": "https://www.smhi.se",
+  "url": "https://www.smhi.se/sok?query=%s",
+  "description": "SMHI - Swedish Meteorological and Hydrological Institute",
+  "category": "News",
+  "sub-category": "Weather"
+}

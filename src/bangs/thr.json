@@ -1,0 +1,8 @@
+{
+  "bang": "thr",
+  "domain": "https://www.hollywoodreporter.com",
+  "url": "https://www.hollywoodreporter.com/search/%s",
+  "description": "The Hollywood Reporter",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

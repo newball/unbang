@@ -1,0 +1,8 @@
+{
+  "bang": "mdb",
+  "domain": "https://moridb.com",
+  "url": "http://moridb.com/items/search?q=%s",
+  "description": "MoriDB",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "adom",
+  "domain": "https://ancardia.wikia.com",
+  "url": "http://ancardia.wikia.com/wiki/Special:Search?search=%s",
+  "description": "ADOM Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

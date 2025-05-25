@@ -1,0 +1,8 @@
+{
+  "bang": "fhem",
+  "domain": "https://wiki.fhem.de",
+  "url": "https://wiki.fhem.de/w/index.php?search=%s",
+  "description": "FHEM",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

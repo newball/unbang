@@ -1,0 +1,8 @@
+{
+  "bang": "gsm",
+  "domain": "https://www.gsmarena.com",
+  "url": "http://www.gsmarena.com/results.php3?sName=%s",
+  "description": "GSMArena",
+  "category": "Research",
+  "sub-category": "Reference"
+}

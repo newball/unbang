@@ -1,0 +1,8 @@
+{
+  "bang": "wiktru",
+  "domain": "https://ru.wiktionary.org",
+  "url": "https://ru.wiktionary.org/w/index.php?search=%s",
+  "description": "Wiktionary (RU)",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

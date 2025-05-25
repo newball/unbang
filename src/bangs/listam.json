@@ -1,0 +1,8 @@
+{
+  "bang": "listam",
+  "domain": "https://www.list.am",
+  "url": "http://www.list.am/category?q=%s",
+  "description": "List.am",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

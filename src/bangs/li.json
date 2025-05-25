@@ -1,0 +1,8 @@
+{
+  "bang": "li",
+  "domain": "https://www.linkedin.com",
+  "url": "https://www.linkedin.com/search/results/all/?keywords=%s",
+  "description": "LinkedIn",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

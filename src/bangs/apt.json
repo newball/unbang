@@ -1,0 +1,8 @@
+{
+  "bang": "apt",
+  "domain": "https://packages.ubuntu.com",
+  "url": "https://packages.ubuntu.com/search?keywords=%s&searchon=all&suite=all&section=all",
+  "description": "Ubuntu Packages Search",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Ubuntu)"
+}

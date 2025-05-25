@@ -1,0 +1,8 @@
+{
+  "bang": "macwelt",
+  "domain": "https://www.macwelt.de",
+  "url": "http://www.macwelt.de/suche?searchStr=%s",
+  "description": "Macwelt",
+  "category": "News",
+  "sub-category": "International"
+}

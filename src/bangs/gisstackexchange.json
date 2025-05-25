@@ -1,0 +1,8 @@
+{
+  "bang": "gisstackexchange",
+  "domain": "https://gis.stackexchange.com",
+  "url": "http://gis.stackexchange.com/search?q=%s ",
+  "description": "GIS StackExchange",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

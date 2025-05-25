@@ -1,0 +1,8 @@
+{
+  "bang": "cgl",
+  "domain": "https://pittsburgh.craigslist.org",
+  "url": "https://pittsburgh.craigslist.org/search/sss?query=%s",
+  "description": "craigslist",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

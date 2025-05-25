@@ -1,0 +1,8 @@
+{
+  "bang": "sofasc",
+  "domain": "https://www.sofascore.com",
+  "url": "https://www.sofascore.com/search?q=%s",
+  "description": "SofaScore",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

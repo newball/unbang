@@ -1,0 +1,8 @@
+{
+  "bang": "prl",
+  "domain": "https://journals.aps.org",
+  "url": "http://journals.aps.org/search?q=%s",
+  "description": "American Physical Society",
+  "category": "Research",
+  "sub-category": "Academic"
+}

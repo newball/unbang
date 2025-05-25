@@ -1,0 +1,8 @@
+{
+  "bang": "lunaavr",
+  "domain": "https://avr.myluna.de",
+  "url": "http://avr.myluna.de/doku.php?do=search&id=%s",
+  "description": "Luna (AVR)",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

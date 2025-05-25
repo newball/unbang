@@ -1,0 +1,8 @@
+{
+  "bang": "dis",
+  "domain": "https://www.discogs.com",
+  "url": "https://www.discogs.com/search/?q=%s&type=all",
+  "description": "http://discogs.com/",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

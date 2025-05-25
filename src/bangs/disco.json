@@ -1,0 +1,8 @@
+{
+  "bang": "disco",
+  "domain": "https://discoverygc.com",
+  "url": "http://discoverygc.com/wiki/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "Discovery Wiki",
+  "category": "Research",
+  "sub-category": "Reference"
+}

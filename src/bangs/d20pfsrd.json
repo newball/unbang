@@ -1,0 +1,8 @@
+{
+  "bang": "d20pfsrd",
+  "domain": "https://www.d20pfsrd.com",
+  "url": "http://www.d20pfsrd.com/system/app/pages/search?scope=search-site&q=%s",
+  "description": "Pathfinder SRD",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

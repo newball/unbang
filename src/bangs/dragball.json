@@ -1,0 +1,8 @@
+{
+  "bang": "dragball",
+  "domain": "https://dragonball.wikia.com",
+  "url": "https://dragonball.wikia.com/wiki/Special:Search?query=%s",
+  "description": "Dragon Ball Wiki",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "lightfm",
+  "domain": "https://www.lightfm.com.au",
+  "url": "https://www.lightfm.com.au/?s=%s",
+  "description": "LightFM",
+  "category": "Entertainment",
+  "sub-category": "Radio"
+}

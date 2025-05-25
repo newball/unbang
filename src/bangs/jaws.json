@@ -1,0 +1,8 @@
+{
+  "bang": "jaws",
+  "domain": "https://ja.wikisource.org",
+  "url": "https://ja.wikisource.org/w/index.php?search=%s",
+  "description": "Japanese Wikisource",
+  "category": "Research",
+  "sub-category": "Reference"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ametsoc",
+  "domain": "https://journals.ametsoc.org",
+  "url": "https://journals.ametsoc.org/action/doSearch?AllField=%s",
+  "description": "American Meteorology Society ",
+  "category": "Research",
+  "sub-category": "Academic"
+}

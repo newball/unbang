@@ -1,0 +1,8 @@
+{
+  "bang": "erf",
+  "domain": "https://www.erf.de",
+  "url": "http://www.erf.de/?node=1097&page=1&NAV_CatSelect=0&NAV_MetaSuchtext=%s",
+  "description": "ERF",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

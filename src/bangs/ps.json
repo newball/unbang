@@ -1,0 +1,8 @@
+{
+  "bang": "ps",
+  "domain": "https://www.playstation.com",
+  "url": "https://www.playstation.com/search-results/?q=%s",
+  "description": "Playstation",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

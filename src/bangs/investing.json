@@ -1,0 +1,8 @@
+{
+  "bang": "investing",
+  "domain": "https://www.investing.com",
+  "url": "https://www.investing.com/search/?q=%s",
+  "description": "investing.com",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

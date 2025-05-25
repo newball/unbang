@@ -1,0 +1,8 @@
+{
+  "bang": "operaext",
+  "domain": "https://addons.opera.com",
+  "url": "https://addons.opera.com/addons/extensions/?query=%s&order=new&top=0",
+  "description": "Opera Extensions",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

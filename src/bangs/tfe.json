@@ -1,0 +1,8 @@
+{
+  "bang": "tfe",
+  "domain": "https://ticketforevent.com",
+  "url": "https://ticketforevent.com/events/?q=%s",
+  "description": "TickeForEvent",
+  "category": "Entertainment",
+  "sub-category": "Events"
+}

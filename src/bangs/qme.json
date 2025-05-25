@@ -1,0 +1,8 @@
+{
+  "bang": "qme",
+  "domain": "https://m.quickmeme.com",
+  "url": "http://m.quickmeme.com/search/?q=%s",
+  "description": "quickmeme",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

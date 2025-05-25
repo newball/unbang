@@ -1,0 +1,8 @@
+{
+  "bang": "bkref",
+  "domain": "https://www.basketball-reference.com",
+  "url": "http://www.basketball-reference.com/search/search.fcgi?hint=%s&search=%s&pid=&idx=",
+  "description": "Basketball Reference",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

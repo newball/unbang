@@ -1,0 +1,8 @@
+{
+  "bang": "wcu",
+  "domain": "https://whocalled.us",
+  "url": "http://whocalled.us/lookup/%s",
+  "description": "Who Called Us",
+  "category": "Research",
+  "sub-category": "Reference"
+}

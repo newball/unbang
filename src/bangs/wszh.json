@@ -1,0 +1,8 @@
+{
+  "bang": "wszh",
+  "domain": "https://zh.wikisource.org",
+  "url": "https://zh.wikisource.org/wiki/Special:Search?search=%s",
+  "description": "Wikisource (ZH)",
+  "category": "Research",
+  "sub-category": "Reference"
+}

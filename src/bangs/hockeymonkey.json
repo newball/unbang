@@ -1,0 +1,8 @@
+{
+  "bang": "hockeymonkey",
+  "domain": "https://www.hockeymonkey.com",
+  "url": "http://www.hockeymonkey.com/nsearch?q=%s",
+  "description": "Hockey Monkey",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

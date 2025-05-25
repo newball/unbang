@@ -1,0 +1,8 @@
+{
+  "bang": "mistborn",
+  "domain": "https://mistborn.wikia.com",
+  "url": "http://mistborn.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Mistborn Wiki",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

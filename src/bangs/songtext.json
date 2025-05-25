@@ -1,0 +1,8 @@
+{
+  "bang": "songtext",
+  "domain": "https://www.songtexte.com",
+  "url": "http://www.songtexte.com/search?q=%s&c=all",
+  "description": "Songtexte.com",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

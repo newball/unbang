@@ -1,0 +1,8 @@
+{
+  "bang": "magiccards",
+  "domain": "https://magiccards.info",
+  "url": "http://magiccards.info/query?q=%s&v=card&s=cname",
+  "description": "Magiccards.info",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

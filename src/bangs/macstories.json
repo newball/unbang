@@ -1,0 +1,8 @@
+{
+  "bang": "macstories",
+  "domain": "https://www.macstories.net",
+  "url": "http://www.macstories.net/?s=%s",
+  "description": "MacStories",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

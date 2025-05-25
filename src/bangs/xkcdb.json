@@ -1,0 +1,8 @@
+{
+  "bang": "xkcdb",
+  "domain": "https://www.xkcdb.com",
+  "url": "http://www.xkcdb.com/?search=%s",
+  "description": "XKCDB: The #xkcd quotes database",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

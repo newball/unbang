@@ -1,0 +1,8 @@
+{
+  "bang": "ip",
+  "domain": "https://whatismyipaddress.com",
+  "url": "http://whatismyipaddress.com/ip/%s",
+  "description": "WhatIsMyIPAddress.com",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

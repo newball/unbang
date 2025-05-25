@@ -1,0 +1,8 @@
+{
+  "bang": "gdv",
+  "domain": "https://docs.google.com",
+  "url": "https://docs.google.com/viewer?url=%s",
+  "description": "Google Docs viewer",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

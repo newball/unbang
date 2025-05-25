@@ -1,0 +1,8 @@
+{
+  "bang": "poe",
+  "domain": "https://pathofexile.gamepedia.com",
+  "url": "http://pathofexile.gamepedia.com/index.php?search=%s",
+  "description": "Path of Exile Wiki",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

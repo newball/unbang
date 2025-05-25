@@ -1,0 +1,8 @@
+{
+  "bang": "vcru",
+  "domain": "https://vc.ru",
+  "url": "https://vc.ru/search/%s",
+  "description": "vc.ru",
+  "category": "News",
+  "sub-category": "Business"
+}

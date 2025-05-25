@@ -1,0 +1,8 @@
+{
+  "bang": "ng2",
+  "domain": "https://v2.angular.io",
+  "url": "https://v2.angular.io/api?search=%s",
+  "description": "Angular.io v2",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

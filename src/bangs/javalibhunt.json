@@ -1,0 +1,8 @@
+{
+  "bang": "javalibhunt",
+  "domain": "https://java.libhunt.com",
+  "url": "https://java.libhunt.com/search?query=%s",
+  "description": "Java LibHunt",
+  "category": "Tech",
+  "sub-category": "Languages (java)"
+}

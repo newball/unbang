@@ -1,0 +1,8 @@
+{
+  "bang": "oracle",
+  "domain": "https://www.oracle.com",
+  "url": "https://www.oracle.com/search/results?Ntt=%s&Dy=1&Nty=1&Ntk=SI-ALL5",
+  "description": "Oracle",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

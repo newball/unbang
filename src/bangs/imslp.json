@@ -1,0 +1,8 @@
+{
+  "bang": "imslp",
+  "domain": "https://imslp.org",
+  "url": "http://imslp.org/index.php?title=Special:Search&search=%s",
+  "description": "IMSLP",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "tvoc",
+  "domain": "https://www.treccani.it",
+  "url": "http://www.treccani.it/vocabolario/tag/%s/",
+  "description": "Treccani Vocabolario",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

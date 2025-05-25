@@ -1,0 +1,8 @@
+{
+  "bang": "drop",
+  "domain": "https://www.maildrop.cc",
+  "url": "https://www.maildrop.cc/inbox/%s",
+  "description": "MailDrop",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

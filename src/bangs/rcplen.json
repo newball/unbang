@@ -1,0 +1,8 @@
+{
+  "bang": "rcplen",
+  "domain": "https://context.reverso.net",
+  "url": "http://context.reverso.net/translation/polish-english/%s",
+  "description": "Reverso Context Polish-English",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

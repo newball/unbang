@@ -1,0 +1,8 @@
+{
+  "bang": "stardewvalley",
+  "domain": "https://stardewvalleywiki.com",
+  "url": "http://stardewvalleywiki.com/mediawiki/index.php?search=%s",
+  "description": "Stardew Valley Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

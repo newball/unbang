@@ -1,0 +1,8 @@
+{
+  "bang": "zerochan",
+  "domain": "https://www.zerochan.net",
+  "url": "http://www.zerochan.net/search?q=%s",
+  "description": "Zerochan",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

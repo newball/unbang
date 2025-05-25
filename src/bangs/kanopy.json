@@ -1,0 +1,8 @@
+{
+  "bang": "kanopy",
+  "domain": "https://www.kanopy.com",
+  "url": "https://www.kanopy.com/s?query=%s",
+  "description": "Kanopy",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

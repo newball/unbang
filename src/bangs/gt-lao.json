@@ -1,0 +1,8 @@
+{
+  "bang": "gt-lao",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/lo/%s",
+  "description": "Detect language to Lao",
+  "category": "Translation",
+  "sub-category": "Google"
+}

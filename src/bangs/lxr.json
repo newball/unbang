@@ -1,0 +1,8 @@
+{
+  "bang": "lxr",
+  "domain": "https://elixir.bootlin.com",
+  "url": "http://elixir.bootlin.com/linux/latest/ident/%s",
+  "description": "Linux Cross Reference",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

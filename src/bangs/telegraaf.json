@@ -1,0 +1,8 @@
+{
+  "bang": "telegraaf",
+  "domain": "https://www.telegraaf.nl",
+  "url": "http://www.telegraaf.nl/zoeken/%s",
+  "description": "Telegraaf",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

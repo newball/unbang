@@ -1,0 +1,8 @@
+{
+  "bang": "odoo",
+  "domain": "https://www.odoo.com",
+  "url": "https://www.odoo.com/apps?search=%s",
+  "description": "Odoo Apps",
+  "category": "Tech",
+  "sub-category": "Downloads (apps)"
+}

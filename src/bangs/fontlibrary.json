@@ -1,0 +1,8 @@
+{
+  "bang": "fontlibrary",
+  "domain": "https://fontlibrary.org",
+  "url": "https://fontlibrary.org/en/search?query=%s",
+  "description": "Font Library",
+  "category": "Tech",
+  "sub-category": "Design"
+}

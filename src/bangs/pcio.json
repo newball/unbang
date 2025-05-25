@@ -1,0 +1,8 @@
+{
+  "bang": "pcio",
+  "domain": "https://packagecontrol.io",
+  "url": "https://packagecontrol.io/search/%s",
+  "description": "Package Control Sublime Text Package Manager",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

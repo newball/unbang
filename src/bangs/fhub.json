@@ -1,0 +1,8 @@
+{
+  "bang": "fhub",
+  "domain": "https://www.fosshub.com",
+  "url": "https://www.fosshub.com/search/%s",
+  "description": "FossHub",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "roto",
+  "domain": "https://www.rotoworld.com",
+  "url": "https://www.rotoworld.com/search#query=%s",
+  "description": "Rotoworld",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

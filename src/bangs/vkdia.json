@@ -1,0 +1,8 @@
+{
+  "bang": "vkdia",
+  "domain": "https://fr.vikidia.org",
+  "url": "https://fr.vikidia.org/w/index.php?search=%s&title=Sp%C3%A9cial:Recherche&go=Trouver",
+  "description": "Vikidia",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

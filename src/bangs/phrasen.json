@@ -1,0 +1,8 @@
+{
+  "bang": "phrasen",
+  "domain": "https://www.phrasen.com",
+  "url": "https://www.phrasen.com/index.php?do=suche&q=%s",
+  "description": "Phrasen.com",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

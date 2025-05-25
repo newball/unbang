@@ -1,0 +1,8 @@
+{
+  "bang": "wetteronline",
+  "domain": "https://www.wetteronline.de",
+  "url": "https://www.wetteronline.de/wetter/%s",
+  "description": "Wetter Online",
+  "category": "News",
+  "sub-category": "Weather"
+}

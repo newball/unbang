@@ -1,0 +1,8 @@
+{
+  "bang": "hpluspedia",
+  "domain": "https://hpluspedia.org",
+  "url": "https://hpluspedia.org/index.php?search=%s",
+  "description": "H+Pedia",
+  "category": "Research",
+  "sub-category": "Topical"
+}

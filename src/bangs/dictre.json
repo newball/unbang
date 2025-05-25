@@ -1,0 +1,8 @@
+{
+  "bang": "dictre",
+  "domain": "https://www.dict.org",
+  "url": "http://www.dict.org/bin/Dict?Form=Dict1&Database=*&Strategy=re&Query=^%s$",
+  "description": "dict.org",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

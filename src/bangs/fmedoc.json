@@ -1,0 +1,8 @@
+{
+  "bang": "fmedoc",
+  "domain": "https://www.safe.com",
+  "url": "https://www.safe.com/search/?site-search=%s&site=docs.safe.com",
+  "description": "Safe software FME documentation",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

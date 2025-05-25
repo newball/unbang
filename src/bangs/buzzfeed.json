@@ -1,0 +1,8 @@
+{
+  "bang": "buzzfeed",
+  "domain": "https://www.buzzfeed.com",
+  "url": "https://www.buzzfeed.com/search?q=%s",
+  "description": "Buzzfeed",
+  "category": "Entertainment",
+  "sub-category": "Blogs"
+}

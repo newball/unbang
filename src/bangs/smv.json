@@ -1,0 +1,8 @@
+{
+  "bang": "smv",
+  "domain": "https://www.ohg-ka.de",
+  "url": "http://www.ohg-ka.de/smv/?s=%s",
+  "description": "SMV des OHG in KA",
+  "category": "News",
+  "sub-category": "Specialty"
+}

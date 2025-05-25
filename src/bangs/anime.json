@@ -1,0 +1,8 @@
+{
+  "bang": "anime",
+  "domain": "https://anidb.net",
+  "url": "https://anidb.net/perl-bin/animedb.pl?show=animelist&adb.search=%s",
+  "description": "AniDB",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

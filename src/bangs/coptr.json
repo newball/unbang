@@ -1,0 +1,8 @@
+{
+  "bang": "coptr",
+  "domain": "https://coptr.digipres.org",
+  "url": "http://coptr.digipres.org/index.php?search=%s",
+  "description": "Community Owned digital Preservation Tool Registry (COPTR)",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

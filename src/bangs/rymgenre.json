@@ -1,0 +1,8 @@
+{
+  "bang": "rymgenre",
+  "domain": "https://rateyourmusic.com",
+  "url": "https://rateyourmusic.com/search?searchtype=g&searchterm=%s",
+  "description": "Rate Your Music genre search",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

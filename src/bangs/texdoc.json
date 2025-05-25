@@ -1,0 +1,8 @@
+{
+  "bang": "texdoc",
+  "domain": "https://texdoc.net",
+  "url": "http://texdoc.net/pkg/%s",
+  "description": "Texdoc",
+  "category": "Tech",
+  "sub-category": "Languages (latex)"
+}

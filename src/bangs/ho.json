@@ -1,0 +1,8 @@
+{
+  "bang": "ho",
+  "domain": "https://www.haskell.org",
+  "url": "http://www.haskell.org/hoogle/?hoogle=%s",
+  "description": "Hoogle",
+  "category": "Tech",
+  "sub-category": "Languages (haskell)"
+}

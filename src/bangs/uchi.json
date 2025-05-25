@@ -1,0 +1,8 @@
+{
+  "bang": "uchi",
+  "domain": "https://catalog.lib.uchicago.edu",
+  "url": "https://catalog.lib.uchicago.edu/vufind/Search/Results?lookfor=%s &type=AllFields",
+  "description": "University of Chicago Library Catalog",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ddd",
+  "domain": "https://sli.uvigo.gal",
+  "url": "http://sli.uvigo.gal/ddd/ddd_pescuda.php?pescuda=%s&tipo_busca=lema",
+  "description": "Dicionario de Dicionarios",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

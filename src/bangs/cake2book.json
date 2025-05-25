@@ -1,0 +1,8 @@
+{
+  "bang": "cake2book",
+  "domain": "https://book.cakephp.org",
+  "url": "http://book.cakephp.org/2.0/en/search.html?q=%s ",
+  "description": "Cakephp 2 Book",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "apache",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s+site%3Ahttps%3A%2F%2Fhttpd.apache.org%2Fdocs%2Fcurrent%2F",
+  "description": "Apache Docs",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

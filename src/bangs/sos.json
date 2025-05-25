@@ -1,0 +1,8 @@
+{
+  "bang": "sos",
+  "domain": "https://software.opensuse.org",
+  "url": "http://software.opensuse.org/search?q=%s&search_devel=false&search_unsupported=false",
+  "description": "Software OpenSuse",
+  "category": "Tech",
+  "sub-category": "Sysadmin (packages)"
+}

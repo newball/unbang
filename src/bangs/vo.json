@@ -1,0 +1,8 @@
+{
+  "bang": "vo",
+  "domain": "https://eo.wikipedia.org",
+  "url": "https://eo.wikipedia.org/w/index.php?search=%s",
+  "description": "Esperanta Vikipedio",
+  "category": "Research",
+  "sub-category": "Reference"
+}

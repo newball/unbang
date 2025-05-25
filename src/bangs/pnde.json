@@ -1,0 +1,8 @@
+{
+  "bang": "pnde",
+  "domain": "https://primenow.amazon.de",
+  "url": "https://primenow.amazon.de/search?k=%s",
+  "description": "Amazon PrimeNow DE",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

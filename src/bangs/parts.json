@@ -1,0 +1,8 @@
+{
+  "bang": "parts",
+  "domain": "https://parts.io",
+  "url": "http://parts.io/search/term-%s ",
+  "description": "Parts.io",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "multcolib",
+  "domain": "https://multcolib.org",
+  "url": "https://multcolib.org/search/site/%s",
+  "description": "Multnomah County Library",
+  "category": "Research",
+  "sub-category": "Reference"
+}

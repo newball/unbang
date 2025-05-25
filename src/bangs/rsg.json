@@ -1,0 +1,8 @@
+{
+  "bang": "rsg",
+  "domain": "https://www.rockstargames.com",
+  "url": "https://www.rockstargames.com/search/?q=%s",
+  "description": "Rockstar Games",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

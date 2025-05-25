@@ -1,0 +1,8 @@
+{
+  "bang": "surveygizmo",
+  "domain": "https://help.surveygizmo.com",
+  "url": "https://help.surveygizmo.com/help/search/?phrase=%s",
+  "description": "SurveyGizmo help",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

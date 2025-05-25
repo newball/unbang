@@ -1,0 +1,8 @@
+{
+  "bang": "rfcr",
+  "domain": "https://www.rfcreader.com",
+  "url": "http://www.rfcreader.com/#rfc%s",
+  "description": "Online RFC Reader",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

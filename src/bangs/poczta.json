@@ -1,0 +1,8 @@
+{
+  "bang": "poczta",
+  "domain": "https://emonitoring.poczta-polska.pl",
+  "url": "http://emonitoring.poczta-polska.pl/?numer=%s",
+  "description": "Poczta Polska",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

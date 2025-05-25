@@ -1,0 +1,8 @@
+{
+  "bang": "lrb",
+  "domain": "https://www.lrb.co.uk",
+  "url": "http://www.lrb.co.uk/search?q=%s",
+  "description": "The London Review of Books",
+  "category": "News",
+  "sub-category": "Magazine"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "kn",
+  "domain": "https://knoema.com",
+  "url": "https://knoema.com/search?query=%s",
+  "description": "Knoema",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

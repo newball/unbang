@@ -1,0 +1,8 @@
+{
+  "bang": "skindeep",
+  "domain": "https://www.ewg.org",
+  "url": "http://www.ewg.org/skindeep/search.php?query=%s",
+  "description": "Skin Deep Cosmetics Database",
+  "category": "Research",
+  "sub-category": "Reference"
+}

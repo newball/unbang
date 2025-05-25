@@ -1,0 +1,8 @@
+{
+  "bang": "les",
+  "domain": "https://www.linguee.es",
+  "url": "http://www.linguee.es/espanol-ingles/search?source=auto&query=%s",
+  "description": "Linguee",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

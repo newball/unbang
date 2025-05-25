@@ -1,0 +1,8 @@
+{
+  "bang": "mvnrep",
+  "domain": "https://mvnrepository.com",
+  "url": "http://mvnrepository.com/search.html?query=%s:",
+  "description": "The Maven Repository",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

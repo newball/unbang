@@ -1,0 +1,8 @@
+{
+  "bang": "csse",
+  "domain": "https://cs.stackexchange.com",
+  "url": "http://cs.stackexchange.com/search?q=%s",
+  "description": "Computer Science - Stack Exchange",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ytor",
+  "domain": "https://youtubeonrepeat.com",
+  "url": "http://youtubeonrepeat.com/results/?search_query=%s",
+  "description": "YouTube On Repeat",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

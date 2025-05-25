@@ -1,0 +1,8 @@
+{
+  "bang": "heartbleed",
+  "domain": "https://filippo.io",
+  "url": "http://filippo.io/Heartbleed/#%s",
+  "description": "Heartbleed Test",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

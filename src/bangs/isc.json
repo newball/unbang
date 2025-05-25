@@ -1,0 +1,8 @@
+{
+  "bang": "isc",
+  "domain": "https://isc.sans.edu",
+  "url": "https://isc.sans.edu/ipinfo.html?ip=%s",
+  "description": "Internet Storm Center",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

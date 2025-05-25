@@ -1,0 +1,8 @@
+{
+  "bang": "najdi",
+  "domain": "https://www.najdi.si",
+  "url": "http://www.najdi.si/search.jsp?q=%s",
+  "description": "Najdi.si",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

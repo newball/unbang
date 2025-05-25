@@ -1,0 +1,8 @@
+{
+  "bang": "ikeafr",
+  "domain": "https://www.ikea.com",
+  "url": "http://www.ikea.com/fr/fr/search/?query=%s",
+  "description": "Ikea FR",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

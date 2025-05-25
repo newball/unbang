@@ -1,0 +1,8 @@
+{
+  "bang": "scb",
+  "domain": "https://www.sverigeisiffror.scb.se",
+  "url": "http://www.sverigeisiffror.scb.se/hitta-statistik/sok/?query=%s",
+  "description": "Statistiska centralbyrån",
+  "category": "Research",
+  "sub-category": "Government"
+}

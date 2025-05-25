@@ -1,0 +1,8 @@
+{
+  "bang": "touhou",
+  "domain": "https://en.touhouwiki.net",
+  "url": "http://en.touhouwiki.net/index.php?search=%s ",
+  "description": "Touhou Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

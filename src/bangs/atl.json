@@ -1,0 +1,8 @@
+{
+  "bang": "atl",
+  "domain": "https://atlwiki.net",
+  "url": "http://atlwiki.net/Special:Search/%s",
+  "description": "ATL Wiki",
+  "category": "Research",
+  "sub-category": "Reference"
+}

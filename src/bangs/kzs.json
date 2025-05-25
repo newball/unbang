@@ -1,0 +1,8 @@
+{
+  "bang": "kzs",
+  "domain": "https://www.kidzsearch.com",
+  "url": "http://www.kidzsearch.com/kzsearch.php?q=%s",
+  "description": "KidzSearch",
+  "category": "Research",
+  "sub-category": "Academic"
+}

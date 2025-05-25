@@ -1,0 +1,8 @@
+{
+  "bang": "il",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s&ia=images&iax=images&iaf=size%3Aimagesize-large",
+  "description": "DuckDuckGo Images",
+  "category": "Online Services",
+  "sub-category": "Search (DDG)"
+}

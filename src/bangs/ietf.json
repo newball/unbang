@@ -1,0 +1,8 @@
+{
+  "bang": "ietf",
+  "domain": "https://datatracker.ietf.org",
+  "url": "http://datatracker.ietf.org/doc/search/?name=%s&activeDrafts=on&rfcs=on",
+  "description": "The IETF",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

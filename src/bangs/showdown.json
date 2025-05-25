@@ -1,0 +1,8 @@
+{
+  "bang": "showdown",
+  "domain": "https://dex.pokemonshowdown.com",
+  "url": "http://dex.pokemonshowdown.com/?q=%s",
+  "description": "Pokémon Showdown",
+  "category": "Entertainment",
+  "sub-category": "Games (Pokemon)"
+}

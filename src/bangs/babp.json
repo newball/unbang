@@ -1,0 +1,8 @@
+{
+  "bang": "babp",
+  "domain": "https://en.bab.la",
+  "url": "https://en.bab.la/dictionary/polish-english/%s",
+  "description": "Bab.la Polish",
+  "category": "Translation",
+  "sub-category": "General"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "vatera",
+  "domain": "https://www.vatera.hu",
+  "url": "http://www.vatera.hu/listings/index.php?q=%s",
+  "description": "Vatera",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

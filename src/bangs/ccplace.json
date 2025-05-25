@@ -1,0 +1,8 @@
+{
+  "bang": "ccplace",
+  "domain": "https://www.coworking.coffee",
+  "url": "https://www.coworking.coffee/places?q=%s",
+  "description": "Coworking & Coffee: search for place",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

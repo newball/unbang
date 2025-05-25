@@ -1,0 +1,8 @@
+{
+  "bang": "dallasnews",
+  "domain": "https://www.dallasnews.com",
+  "url": "https://www.dallasnews.com/search?q=%s",
+  "description": "The Dallas Morning News",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

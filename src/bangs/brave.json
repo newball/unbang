@@ -1,0 +1,8 @@
+{
+  "bang": "brave",
+  "domain": "https://search.brave.com",
+  "url": "https://search.brave.com/search?q=%s",
+  "description": "Brave Search",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

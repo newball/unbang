@@ -1,0 +1,8 @@
+{
+  "bang": "atompackages",
+  "domain": "https://atom.io",
+  "url": "https://atom.io/packages/search?q=%s",
+  "description": "Atom packages",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

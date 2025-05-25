@@ -1,0 +1,8 @@
+{
+  "bang": "umo",
+  "domain": "https://www.umart.com.au",
+  "url": "http://www.umart.com.au/newsite/search.php?type=0&keywords=%s",
+  "description": "Umart Online",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

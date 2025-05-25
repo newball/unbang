@@ -1,0 +1,8 @@
+{
+  "bang": "burst",
+  "domain": "https://burst.shopify.com",
+  "url": "https://burst.shopify.com/photos/search?utf8=✓&q=%s",
+  "description": "Burst",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

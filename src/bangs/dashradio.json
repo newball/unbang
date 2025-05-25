@@ -1,0 +1,8 @@
+{
+  "bang": "dashradio",
+  "domain": "https://dashradio.com",
+  "url": "http://dashradio.com/?q=%s",
+  "description": "Dash Radio",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

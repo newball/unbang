@@ -1,0 +1,8 @@
+{
+  "bang": "aops",
+  "domain": "https://artofproblemsolving.com",
+  "url": "http://artofproblemsolving.com/wiki/index.php?title=Special%3ASearch&fulltext=Search&search=%s",
+  "description": "Art of Problem Solving [Wiki]",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

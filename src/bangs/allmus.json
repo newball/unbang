@@ -1,0 +1,8 @@
+{
+  "bang": "allmus",
+  "domain": "https://www.allmusic.com",
+  "url": "https://www.allmusic.com/search/all/%s",
+  "description": "All Music",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

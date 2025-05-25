@@ -1,0 +1,8 @@
+{
+  "bang": "mxm",
+  "domain": "https://www.musixmatch.com",
+  "url": "https://www.musixmatch.com/search/%s",
+  "description": "musixmatch",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

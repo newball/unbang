@@ -1,0 +1,8 @@
+{
+  "bang": "bulletproof",
+  "domain": "https://blog.bulletproof.com",
+  "url": "https://blog.bulletproof.com/?s=%s",
+  "description": "Bulletproof blog",
+  "category": "Research",
+  "sub-category": "Health"
+}

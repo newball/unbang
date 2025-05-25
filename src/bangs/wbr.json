@@ -1,0 +1,8 @@
+{
+  "bang": "wbr",
+  "domain": "https://br.wikipedia.org",
+  "url": "https://br.wikipedia.org/w/index.php?search=%s",
+  "description": "Wikipedia Brezhoneg",
+  "category": "Research",
+  "sub-category": "Learning"
+}

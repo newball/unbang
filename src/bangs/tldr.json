@@ -1,0 +1,8 @@
+{
+  "bang": "tldr",
+  "domain": "https://tldr.inbrowser.app",
+  "url": "https://tldr.inbrowser.app/search?query=%s",
+  "description": "Tldr",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

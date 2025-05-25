@@ -1,0 +1,8 @@
+{
+  "bang": "oas",
+  "domain": "https://www.offresasaisir.fr",
+  "url": "https://www.offresasaisir.fr/recherche?q=%s",
+  "description": "Offres à Saisir",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

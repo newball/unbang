@@ -1,0 +1,8 @@
+{
+  "bang": "eset",
+  "domain": "https://support.eset.com",
+  "url": "http://support.eset.com/search/?search=%s",
+  "description": "ESET Knownledge Base",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

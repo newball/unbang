@@ -1,0 +1,8 @@
+{
+  "bang": "wmse",
+  "domain": "https://mathematica.stackexchange.com",
+  "url": "https://mathematica.stackexchange.com/search?q=%s",
+  "description": "Mathematica Stack Exchange",
+  "category": "Tech",
+  "sub-category": "Languages (Mathematica)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "fab",
+  "domain": "https://fab.com",
+  "url": "http://fab.com/search/?q=%s&ref=ddb",
+  "description": "Fab",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

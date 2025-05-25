@@ -1,0 +1,8 @@
+{
+  "bang": "build",
+  "domain": "https://www.build.com",
+  "url": "http://www.build.com/index.cfm?page=search:browse&term=%s",
+  "description": "Build.com",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

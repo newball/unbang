@@ -1,0 +1,8 @@
+{
+  "bang": "citeul",
+  "domain": "https://www.citeulike.org",
+  "url": "http://www.citeulike.org/search/all?q=%s",
+  "description": "CikeULike",
+  "category": "Research",
+  "sub-category": "Reference"
+}

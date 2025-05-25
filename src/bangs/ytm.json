@@ -1,0 +1,8 @@
+{
+  "bang": "ytm",
+  "domain": "https://music.youtube.com",
+  "url": "https://music.youtube.com/search?q=%s",
+  "description": "Youtube Music",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gpk",
+  "domain": "https://golang.org",
+  "url": "https://golang.org/pkg/%s",
+  "description": "Go Package Reference",
+  "category": "Tech",
+  "sub-category": "Languages (go)"
+}

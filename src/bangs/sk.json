@@ -1,0 +1,8 @@
+{
+  "bang": "sk",
+  "domain": "https://www.songkick.com",
+  "url": "http://www.songkick.com/search?query=%s",
+  "description": "Songkick",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

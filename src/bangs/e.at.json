@@ -1,0 +1,8 @@
+{
+  "bang": "e.at",
+  "domain": "https://www.ebay.at",
+  "url": "https://www.ebay.at/sch/i.html?_nkw=%s",
+  "description": "Ebay Austria",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

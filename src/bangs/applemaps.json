@@ -1,0 +1,8 @@
+{
+  "bang": "applemaps",
+  "domain": "https://maps.apple.com",
+  "url": "http://maps.apple.com/?q=%s",
+  "description": "Apple Maps",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bestprice",
+  "domain": "https://www.bestprice.gr",
+  "url": "http://www.bestprice.gr/search?q=%s",
+  "description": "BestPrice",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

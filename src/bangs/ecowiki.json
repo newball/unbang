@@ -1,0 +1,8 @@
+{
+  "bang": "ecowiki",
+  "domain": "https://eco.gamepedia.com",
+  "url": "https://eco.gamepedia.com/index.php?search=%s&title=Special:Search",
+  "description": "Eco Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "codeweavers",
+  "domain": "https://www.codeweavers.com",
+  "url": "http://www.codeweavers.com/compatibility/search/?name=%s",
+  "description": "Codeweavers",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

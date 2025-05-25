@@ -1,0 +1,8 @@
+{
+  "bang": "sherdog",
+  "domain": "https://www.sherdog.com",
+  "url": "http://www.sherdog.com/stats/fightfinder?SearchTxt=%s",
+  "description": "Sherdog",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

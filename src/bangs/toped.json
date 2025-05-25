@@ -1,0 +1,8 @@
+{
+  "bang": "toped",
+  "domain": "https://www.tokopedia.com",
+  "url": "https://www.tokopedia.com/search?st=product&q=%s",
+  "description": "Tokopedia",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

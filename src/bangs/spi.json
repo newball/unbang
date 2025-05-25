@@ -1,0 +1,8 @@
+{
+  "bang": "spi",
+  "domain": "https://startpage.com",
+  "url": "https://startpage.com/do/search?cat=pics&cmd=process_search&query=%s",
+  "description": "Startpage Images",
+  "category": "Online Services",
+  "sub-category": "Search (Private)"
+}

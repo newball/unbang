@@ -1,0 +1,8 @@
+{
+  "bang": "awde",
+  "domain": "https://wiki.archlinux.de",
+  "url": "https://wiki.archlinux.de/index.php?title=Spezial%3ASuche&search=%s",
+  "description": "wiki.archlinux.de",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Arch)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "taid",
+  "domain": "https://www.therapistaid.com",
+  "url": "https://www.therapistaid.com/search?query=%s",
+  "description": "Therapist Aid",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

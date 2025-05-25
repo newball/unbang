@@ -1,0 +1,8 @@
+{
+  "bang": "node",
+  "domain": "https://nodejs.org",
+  "url": "http://nodejs.org/api/%s.html",
+  "description": "node.js docs",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

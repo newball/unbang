@@ -1,0 +1,8 @@
+{
+  "bang": "epoch",
+  "domain": "https://www.unixtimeconverter.io",
+  "url": "https://www.unixtimeconverter.io//%s",
+  "description": "Unix Time converter",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

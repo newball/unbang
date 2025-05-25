@@ -1,0 +1,8 @@
+{
+  "bang": "finalfantasy",
+  "domain": "https://finalfantasy.wikia.com",
+  "url": "http://finalfantasy.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Final Fantasy Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

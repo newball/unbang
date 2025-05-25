@@ -1,0 +1,8 @@
+{
+  "bang": "kbugs",
+  "domain": "https://bugs.kde.org",
+  "url": "https://bugs.kde.org/buglist.cgi?quicksearch=%s",
+  "description": "KDE Bugs",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

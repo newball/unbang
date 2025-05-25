@@ -1,0 +1,8 @@
+{
+  "bang": "rj",
+  "domain": "https://www.radiojavan.com",
+  "url": "https://www.radiojavan.com/search?query=%s",
+  "description": "RadioJavan",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "dhdocs",
+  "domain": "https://docs.docker.com",
+  "url": "https://docs.docker.com/search/?q=%s",
+  "description": "Dockerhub docs",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

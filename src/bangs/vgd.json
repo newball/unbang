@@ -1,0 +1,8 @@
+{
+  "bang": "vgd",
+  "domain": "https://v.gd",
+  "url": "http://v.gd/create.php?url=%s",
+  "description": "v.gd",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

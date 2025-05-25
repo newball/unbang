@@ -1,0 +1,8 @@
+{
+  "bang": "mcgill",
+  "domain": "https://www.mcgill.ca",
+  "url": "http://www.mcgill.ca/search/?query=%s&find=Search",
+  "description": "McGill University",
+  "category": "Research",
+  "sub-category": "Academic"
+}

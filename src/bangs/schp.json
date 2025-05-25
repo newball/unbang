@@ -1,0 +1,8 @@
+{
+  "bang": "schp",
+  "domain": "https://scholarpedia.org",
+  "url": "http://scholarpedia.org/w/index.php?search=%s",
+  "description": "Scholarpedia",
+  "category": "Research",
+  "sub-category": "Academic"
+}

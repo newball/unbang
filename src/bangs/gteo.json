@@ -1,0 +1,8 @@
+{
+  "bang": "gteo",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/eo/%s",
+  "description": "Detect language to Esperanto",
+  "category": "Translation",
+  "sub-category": "Google"
+}

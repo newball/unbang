@@ -1,0 +1,8 @@
+{
+  "bang": "genbank",
+  "domain": "https://www.ncbi.nlm.nih.gov",
+  "url": "http://www.ncbi.nlm.nih.gov/nuccore/?term=%s",
+  "description": "GenBank Database",
+  "category": "Research",
+  "sub-category": "Academic"
+}

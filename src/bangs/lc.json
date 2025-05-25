@@ -1,0 +1,8 @@
+{
+  "bang": "lc",
+  "domain": "https://laracasts.com",
+  "url": "https://laracasts.com/search?q=%s",
+  "description": "Laracasts",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

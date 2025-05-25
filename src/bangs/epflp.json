@@ -1,0 +1,8 @@
+{
+  "bang": "epflp",
+  "domain": "https://plan.epfl.ch",
+  "url": "http://plan.epfl.ch/?room=%s",
+  "description": "EPFL Plan",
+  "category": "Research",
+  "sub-category": "Academic"
+}

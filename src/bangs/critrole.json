@@ -1,0 +1,8 @@
+{
+  "bang": "critrole",
+  "domain": "https://criticalrole.wikia.com",
+  "url": "http://criticalrole.wikia.com/wiki/Special:Search?query=%s",
+  "description": "Critical Role Wikia",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

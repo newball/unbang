@@ -1,0 +1,8 @@
+{
+  "bang": "docsrs",
+  "domain": "https://docs.rs",
+  "url": "https://docs.rs/releases/search?query=%s",
+  "description": "Docs.rs",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

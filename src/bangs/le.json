@@ -1,0 +1,8 @@
+{
+  "bang": "le",
+  "domain": "https://le.ac.uk",
+  "url": "https://le.ac.uk/search?q=%s",
+  "description": "University of Leicester",
+  "category": "Research",
+  "sub-category": "Academic"
+}

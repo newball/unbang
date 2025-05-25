@@ -1,0 +1,8 @@
+{
+  "bang": "apck",
+  "domain": "https://www.archlinux.org",
+  "url": "https://www.archlinux.org/packages/?sort=&q=%s&maintainer=&last_update=&flagged=&limit=50",
+  "description": "Archlinux packages",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Arch)"
+}

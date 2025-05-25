@@ -1,0 +1,8 @@
+{
+  "bang": "snih",
+  "domain": "https://www.startpage.com",
+  "url": "https://www.startpage.com/do/search?q=%s&l=nihongo",
+  "description": "StartPage Web Search(Japanese)",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

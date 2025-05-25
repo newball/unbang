@@ -1,0 +1,8 @@
+{
+  "bang": "etools",
+  "domain": "https://www.etools.ch",
+  "url": "https://www.etools.ch/searchSubmit.do?query=%s",
+  "description": "eTools",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

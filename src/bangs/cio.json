@@ -1,0 +1,8 @@
+{
+  "bang": "cio",
+  "domain": "https://company.info",
+  "url": "https://company.info/organisations/search?q=%s",
+  "description": "Company.info",
+  "category": "Research",
+  "sub-category": "Reference"
+}

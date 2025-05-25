@@ -1,0 +1,8 @@
+{
+  "bang": "elpais",
+  "domain": "https://elpais.com",
+  "url": "http://elpais.com/buscador/?qt=%s",
+  "description": "El Pais",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "dtr",
+  "domain": "https://tracker.debian.org",
+  "url": "https://tracker.debian.org/pkg/%s",
+  "description": "Debian Package Tracker",
+  "category": "Tech",
+  "sub-category": "Sysadmin (debian)"
+}

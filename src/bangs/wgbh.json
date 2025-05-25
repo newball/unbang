@@ -1,0 +1,8 @@
+{
+  "bang": "wgbh",
+  "domain": "https://wgbhnews.org",
+  "url": "http://wgbhnews.org/search/google/%s ",
+  "description": "WGBH News",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

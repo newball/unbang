@@ -1,0 +1,8 @@
+{
+  "bang": "telerama",
+  "domain": "https://www.telerama.fr",
+  "url": "http://www.telerama.fr/recherche/recherche.php?query=%s",
+  "description": "Télérama",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

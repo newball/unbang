@@ -1,0 +1,8 @@
+{
+  "bang": "lta",
+  "domain": "https://www.lta.org.uk",
+  "url": "https://www.lta.org.uk/search-results/?q=%s",
+  "description": "LTA",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

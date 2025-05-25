@@ -1,0 +1,8 @@
+{
+  "bang": "calculator",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?ia=calculator&q=%s",
+  "description": "DuckDuckGo Calculator",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

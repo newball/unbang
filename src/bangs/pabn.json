@@ -1,0 +1,8 @@
+{
+  "bang": "pabn",
+  "domain": "https://www.prothomalo.com",
+  "url": "https://www.prothomalo.com/search/?q=%s",
+  "description": "Prothom Alo (Bangla)",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

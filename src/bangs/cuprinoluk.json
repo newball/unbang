@@ -1,0 +1,8 @@
+{
+  "bang": "cuprinoluk",
+  "domain": "https://www.cuprinol.co.uk",
+  "url": "http://www.cuprinol.co.uk/servlet/SiteAdvancedSearchHandler?searchtype=all&searchString=%s",
+  "description": "Cuprinol UK",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

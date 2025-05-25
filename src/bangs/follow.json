@@ -1,0 +1,8 @@
+{
+  "bang": "follow",
+  "domain": "https://www.followthatpage.com",
+  "url": "http://www.followthatpage.com/?url=%s",
+  "description": "Follow That Page",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

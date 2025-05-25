@@ -1,0 +1,8 @@
+{
+  "bang": "strans",
+  "domain": "https://www.tritrans.net",
+  "url": "http://www.tritrans.net/cgibin/translate.cgi?spraak=Spansk&Fra=%s",
+  "description": "TriTrans",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

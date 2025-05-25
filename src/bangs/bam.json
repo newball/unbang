@@ -1,0 +1,8 @@
+{
+  "bang": "bam",
+  "domain": "https://www.booksamillion.com",
+  "url": "http://www.booksamillion.com/search?query=%s",
+  "description": "Books-A-Million",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

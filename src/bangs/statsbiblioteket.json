@@ -1,0 +1,8 @@
+{
+  "bang": "statsbiblioteket",
+  "domain": "https://www.statsbiblioteket.dk",
+  "url": "https://www.statsbiblioteket.dk/au/?locale=en#/search?query=%s",
+  "description": "Statsbiblioteket Aarhus",
+  "category": "Research",
+  "sub-category": "Academic"
+}

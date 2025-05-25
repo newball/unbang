@@ -1,0 +1,8 @@
+{
+  "bang": "bioc",
+  "domain": "https://bioconductor.org",
+  "url": "http://bioconductor.org/help/search/index.html?q=%s",
+  "description": "Bioconductor",
+  "category": "Research",
+  "sub-category": "Academic"
+}

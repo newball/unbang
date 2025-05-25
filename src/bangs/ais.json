@@ -1,0 +1,8 @@
+{
+  "bang": "ais",
+  "domain": "https://archive.is",
+  "url": "http://archive.is/%s",
+  "description": "archive.is",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

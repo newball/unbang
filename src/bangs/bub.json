@@ -1,0 +1,8 @@
+{
+  "bang": "bub",
+  "domain": "https://www.bookbub.com",
+  "url": "https://www.bookbub.com/search?search=%s",
+  "description": "BookBub",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

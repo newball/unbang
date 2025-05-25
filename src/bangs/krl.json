@@ -1,0 +1,8 @@
+{
+  "bang": "krl",
+  "domain": "https://catalog.krl.org",
+  "url": "http://catalog.krl.org/polaris/search/searchresults.aspx?ctx=1.1033.0.0.9&type=Keyword&term=%s&by=KW&sort=RELEVANCE&limit=TOM%3D*&query=&page=0&searchid=1",
+  "description": "Kitsap Regional Library",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

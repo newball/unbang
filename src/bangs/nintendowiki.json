@@ -1,0 +1,8 @@
+{
+  "bang": "nintendowiki",
+  "domain": "https://nintendo.wikia.com",
+  "url": "http://nintendo.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Nintendo Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "mindat",
+  "domain": "https://www.mindat.org",
+  "url": "http://www.mindat.org/search.php?search=%s",
+  "description": "Mindat",
+  "category": "Research",
+  "sub-category": "Academic"
+}

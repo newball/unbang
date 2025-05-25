@@ -1,0 +1,8 @@
+{
+  "bang": "debbuildd",
+  "domain": "https://buildd.debian.org",
+  "url": "http://buildd.debian.org/status/package.php?p=%s",
+  "description": "Debian Package Auto-Building",
+  "category": "Tech",
+  "sub-category": "Sysadmin (debian)"
+}

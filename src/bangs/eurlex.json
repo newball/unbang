@@ -1,0 +1,8 @@
+{
+  "bang": "eurlex",
+  "domain": "https://eur-lex.europa.eu",
+  "url": "http://eur-lex.europa.eu/search.html?text=%s&scope=EURLEX&type=quick",
+  "description": "EUR-Lex",
+  "category": "Research",
+  "sub-category": "Law"
+}

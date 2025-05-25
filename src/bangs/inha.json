@@ -1,0 +1,8 @@
+{
+  "bang": "inha",
+  "domain": "https://catalogue.inha.fr",
+  "url": "http://catalogue.inha.fr/inha/List.csp?SearchT1=%s&Index1=Tlm&Database=5&OpacLanguage=fre&NumberToRetrieve=50&SearchMethod=Find_1&SearchTerm1=%s&Profile=Profile35&PreviousList=Start&PageType=Start&WebPageNr=1&WebAction=NewSearch&StartValue=1&RowRepeat=0&MyChannelCount=",
+  "description": "INHA",
+  "category": "Research",
+  "sub-category": "Academic"
+}

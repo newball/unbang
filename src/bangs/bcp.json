@@ -1,0 +1,8 @@
+{
+  "bang": "bcp",
+  "domain": "https://tools.ietf.org",
+  "url": "http://tools.ietf.org/html/bcp%s",
+  "description": "Best Current Practices",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

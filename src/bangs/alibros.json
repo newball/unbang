@@ -1,0 +1,8 @@
+{
+  "bang": "alibros",
+  "domain": "https://www.abretelibro.com",
+  "url": "http://www.abretelibro.com/foro/search.php?keywords=%s",
+  "description": "Ábrete libro",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "handelsblatt",
+  "domain": "https://app.handelsblatt.com",
+  "url": "http://app.handelsblatt.com/suche/?sw=%s",
+  "description": "Handelsblatt",
+  "category": "News",
+  "sub-category": "Business"
+}

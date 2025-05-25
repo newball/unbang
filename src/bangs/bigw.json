@@ -1,0 +1,8 @@
+{
+  "bang": "bigw",
+  "domain": "https://www.bigw.com.au",
+  "url": "https://www.bigw.com.au/search/?text=%s&category=",
+  "description": "Big W",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "srs",
+  "domain": "https://www.reddit.com",
+  "url": "https://www.reddit.com/search?q=subreddit:%s",
+  "description": "Reddit",
+  "category": "Online Services",
+  "sub-category": "Social news/links"
+}

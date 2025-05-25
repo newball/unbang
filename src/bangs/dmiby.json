@@ -1,0 +1,8 @@
+{
+  "bang": "dmiby",
+  "domain": "https://www.dmi.dk",
+  "url": "http://www.dmi.dk/byindex?by=%s",
+  "description": "DMI Byvejr",
+  "category": "News",
+  "sub-category": "Weather"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "devrant",
+  "domain": "https://devrant.com",
+  "url": "https://devrant.com/search?term=%s",
+  "description": "devRant",
+  "category": "Tech",
+  "sub-category": "Blogs (intl)"
+}

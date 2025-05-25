@@ -1,0 +1,8 @@
+{
+  "bang": "ghcode",
+  "domain": "https://github.com",
+  "url": "https://github.com/search?utf8=✓&q=%s&type=Code",
+  "description": "Github (code search)",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

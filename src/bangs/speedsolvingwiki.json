@@ -1,0 +1,8 @@
+{
+  "bang": "speedsolvingwiki",
+  "domain": "https://www.speedsolving.com",
+  "url": "https://www.speedsolving.com/wiki/index.php?title=Special%3ASearch&search=%s &go=Go",
+  "description": "Speedsolving wiki",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

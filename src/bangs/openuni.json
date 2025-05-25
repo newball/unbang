@@ -1,0 +1,8 @@
+{
+  "bang": "openuni",
+  "domain": "https://search.open.ac.uk",
+  "url": "http://search.open.ac.uk/public/search/results?q=%s",
+  "description": "Open University",
+  "category": "Research",
+  "sub-category": "Learning"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bjp",
+  "domain": "https://www.bjp.org",
+  "url": "http://www.bjp.org/?searchword=%s&searchphrase=exact&limit=20&ordering=newest&view=search&option=com_search",
+  "description": "BJP",
+  "category": "News",
+  "sub-category": "International"
+}

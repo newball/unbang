@@ -1,0 +1,8 @@
+{
+  "bang": "metalab",
+  "domain": "https://metalab.at",
+  "url": "https://metalab.at/wiki/index.php?search=%s",
+  "description": "Metalab Mediawiki",
+  "category": "Research",
+  "sub-category": "Local"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ubclib",
+  "domain": "https://ubc.summon.serialssolutions.com",
+  "url": "http://ubc.summon.serialssolutions.com/search?s.cmd=addFacetValueFilters%28ContentType%2CNewspaper+Article%3At%29&spellcheck=true&s.q=%s",
+  "description": "University of British Columbia Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

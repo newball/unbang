@@ -1,0 +1,8 @@
+{
+  "bang": "oc",
+  "domain": "https://openclassrooms.com",
+  "url": "https://openclassrooms.com/courses?q=%s",
+  "description": "OpenClassrooms",
+  "category": "Research",
+  "sub-category": "Learning"
+}

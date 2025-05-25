@@ -1,0 +1,8 @@
+{
+  "bang": "mml",
+  "domain": "https://myanimelist.net",
+  "url": "http://myanimelist.net/manga.php?q=%s",
+  "description": "http://myanimelist.net/",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

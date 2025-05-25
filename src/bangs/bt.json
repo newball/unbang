@@ -1,0 +1,8 @@
+{
+  "bang": "bt",
+  "domain": "https://www.bing.com",
+  "url": "https://www.bing.com/translator?text=%s",
+  "description": "Microsoft/Bing Translator",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

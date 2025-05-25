@@ -1,0 +1,8 @@
+{
+  "bang": "chabad",
+  "domain": "https://www.chabad.org",
+  "url": "http://www.chabad.org/search/results.asp?searchWord=%s",
+  "description": "Chabad.org",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

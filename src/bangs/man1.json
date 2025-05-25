@@ -1,0 +1,8 @@
+{
+  "bang": "man1",
+  "domain": "https://linux.die.net",
+  "url": "https://linux.die.net/man/1/%s",
+  "description": "Linux Die.net Manual Page 1",
+  "category": "Tech",
+  "sub-category": "Sysadmin (man)"
+}

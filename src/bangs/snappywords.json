@@ -1,0 +1,8 @@
+{
+  "bang": "snappywords",
+  "domain": "https://www.snappywords.com",
+  "url": "http://www.snappywords.com/?lookup=%s",
+  "description": "Snappy Words",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

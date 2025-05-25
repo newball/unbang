@@ -1,0 +1,8 @@
+{
+  "bang": "thes",
+  "domain": "https://www.thesaurus.com",
+  "url": "http://www.thesaurus.com/browse/%s",
+  "description": "Thesaurus",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

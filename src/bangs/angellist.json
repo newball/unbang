@@ -1,0 +1,8 @@
+{
+  "bang": "angellist",
+  "domain": "https://angel.co",
+  "url": "https://angel.co/search?q=%s",
+  "description": "AngelList",
+  "category": "Tech",
+  "sub-category": "Startups"
+}

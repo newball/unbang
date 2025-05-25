@@ -1,0 +1,8 @@
+{
+  "bang": "mssql",
+  "domain": "https://social.technet.microsoft.com",
+  "url": "https://social.technet.microsoft.com/Search/en-US/sqlserver?query=%s&Refinement=30&ac=4",
+  "description": "Microsoft TechNet SQL Server",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

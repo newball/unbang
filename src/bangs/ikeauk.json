@@ -1,0 +1,8 @@
+{
+  "bang": "ikeauk",
+  "domain": "https://www.ikea.com",
+  "url": "https://www.ikea.com/gb/en/search/products/?q=%s",
+  "description": "IKEA UK",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "vz",
+  "domain": "https://www.vz.lt",
+  "url": "https://www.vz.lt/section/?template=search&search=%s",
+  "description": "Verslo žinios",
+  "category": "News",
+  "sub-category": "Business"
+}

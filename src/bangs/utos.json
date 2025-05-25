@@ -1,0 +1,8 @@
+{
+  "bang": "utos",
+  "domain": "https://open-store.io",
+  "url": "https://open-store.io/?sort=relevance&search=%s",
+  "description": "OpenStore",
+  "category": "Tech",
+  "sub-category": "Downloads (apps)"
+}

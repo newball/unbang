@@ -1,0 +1,8 @@
+{
+  "bang": "skeptoid",
+  "domain": "https://skeptoid.com",
+  "url": "https://skeptoid.com/search.php?q=%s",
+  "description": "Skeptoid",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

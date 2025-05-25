@@ -1,0 +1,8 @@
+{
+  "bang": "pbl",
+  "domain": "https://www.pagesjaunes.fr",
+  "url": "http://www.pagesjaunes.fr/pagesblanches/recherche?quoiqui=%s&proximite=0",
+  "description": "pages blanches",
+  "category": "Research",
+  "sub-category": "Local"
+}

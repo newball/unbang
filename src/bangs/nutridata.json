@@ -1,0 +1,8 @@
+{
+  "bang": "nutridata",
+  "domain": "https://nutritiondata.self.com",
+  "url": "http://nutritiondata.self.com/foods-%s}000000000000000000000.html",
+  "description": "nutritiondata",
+  "category": "Research",
+  "sub-category": "Food"
+}

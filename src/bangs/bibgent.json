@@ -1,0 +1,8 @@
+{
+  "bang": "bibgent",
+  "domain": "https://zoeken.gent.bibliotheek.be",
+  "url": "http://zoeken.gent.bibliotheek.be/?q=%s",
+  "description": "Bibliotheek Gent",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

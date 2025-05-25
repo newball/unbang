@@ -1,0 +1,8 @@
+{
+  "bang": "gooj",
+  "domain": "https://dictionary.goo.ne.jp",
+  "url": "http://dictionary.goo.ne.jp/srch/all/%s/m0u/",
+  "description": "Goo Jisho",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

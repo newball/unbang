@@ -1,0 +1,8 @@
+{
+  "bang": "seatgeek",
+  "domain": "https://seatgeek.com",
+  "url": "http://seatgeek.com/search/?search=%s",
+  "description": "SeatGeek",
+  "category": "Entertainment",
+  "sub-category": "Events"
+}

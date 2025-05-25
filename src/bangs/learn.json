@@ -1,0 +1,8 @@
+{
+  "bang": "learn",
+  "domain": "https://learningapps.org",
+  "url": "https://learningapps.org/index.php?s=%s",
+  "description": "Learningapps",
+  "category": "Research",
+  "sub-category": "Learning"
+}

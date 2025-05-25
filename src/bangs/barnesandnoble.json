@@ -1,0 +1,8 @@
+{
+  "bang": "barnesandnoble",
+  "domain": "https://www.barnesandnoble.com",
+  "url": "https://www.barnesandnoble.com/s/%s",
+  "description": "Barnes & Noble",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

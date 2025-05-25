@@ -1,0 +1,8 @@
+{
+  "bang": "lyrster",
+  "domain": "https://www.lyrster.com",
+  "url": "http://www.lyrster.com/songs-lyrics/%s.html",
+  "description": "Lyrster",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

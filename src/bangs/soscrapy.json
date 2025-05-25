@@ -1,0 +1,8 @@
+{
+  "bang": "soscrapy",
+  "domain": "https://stackoverflow.com",
+  "url": "http://stackoverflow.com/search?q=%s[scrapy]",
+  "description": "Stack Overflow",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

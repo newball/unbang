@@ -1,0 +1,8 @@
+{
+  "bang": "poer",
+  "domain": "https://www.reddit.com",
+  "url": "https://www.reddit.com/r/pathofexile/search?q=%s&restrict_sr=on",
+  "description": "Path of Exile Subreddit",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

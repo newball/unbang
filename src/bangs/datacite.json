@@ -1,0 +1,8 @@
+{
+  "bang": "datacite",
+  "domain": "https://search.datacite.org",
+  "url": "https://search.datacite.org/works?query=%s",
+  "description": "datacite.org",
+  "category": "Research",
+  "sub-category": "Academic"
+}

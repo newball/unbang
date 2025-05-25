@@ -1,0 +1,8 @@
+{
+  "bang": "rbc",
+  "domain": "https://www.rbcroyalbank.com",
+  "url": "https://www.rbcroyalbank.com/search-public/index.html?question=%s",
+  "description": "RBC Royal Bank",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

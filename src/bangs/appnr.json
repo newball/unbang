@@ -1,0 +1,8 @@
+{
+  "bang": "appnr",
+  "domain": "https://appnr.com",
+  "url": "http://appnr.com/search/%s",
+  "description": "appnr",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "sba",
+  "domain": "https://www.sba.gov",
+  "url": "https://www.sba.gov/search/?q=%s",
+  "description": "SBA",
+  "category": "Research",
+  "sub-category": "Government"
+}

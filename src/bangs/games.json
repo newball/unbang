@@ -1,0 +1,8 @@
+{
+  "bang": "games",
+  "domain": "https://www.crazygames.com",
+  "url": "https://www.crazygames.com/search?q=%s",
+  "description": "Games",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

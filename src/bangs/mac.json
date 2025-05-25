@@ -1,0 +1,8 @@
+{
+  "bang": "mac",
+  "domain": "https://www.macvendorlookup.com",
+  "url": "http://www.macvendorlookup.com/search/%s",
+  "description": "MAC address lookup",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

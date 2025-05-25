@@ -1,0 +1,8 @@
+{
+  "bang": "ddgbr",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s&kp=-1&kl=br-pt",
+  "description": "DuckDuckGo Brazilian Portuguese Search",
+  "category": "Online Services",
+  "sub-category": "Search (DDG)"
+}

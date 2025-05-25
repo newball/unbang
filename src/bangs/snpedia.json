@@ -1,0 +1,8 @@
+{
+  "bang": "snpedia",
+  "domain": "https://www.snpedia.com",
+  "url": "https://www.snpedia.com/index.php?title=Special%3ASearch&search=%s&fulltext=Search",
+  "description": "SNPedia",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

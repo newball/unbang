@@ -1,0 +1,8 @@
+{
+  "bang": "ciao",
+  "domain": "https://www.ciao.de",
+  "url": "http://www.ciao.de/sr/q-%s",
+  "description": "Ciao.de",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

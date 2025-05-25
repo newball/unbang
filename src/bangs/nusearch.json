@@ -1,0 +1,8 @@
+{
+  "bang": "nusearch",
+  "domain": "https://nusearch.nottingham.ac.uk",
+  "url": "http://nusearch.nottingham.ac.uk/primo_library/libweb/action/search.do?dscnt=0&scp.scps=scope%3A%28UNUK%29%2Cscope%3A%28unuk_pda_ebl%29&frbg=&tab=default_tab&dstmp=1430162925299&srt=rank&ct=search&mode=Basic&dum=true&indx=1&tb=t&vl(freeText0)=%s&fn=search&vid=UNUK",
+  "description": "NUsearch",
+  "category": "Research",
+  "sub-category": "Academic"
+}

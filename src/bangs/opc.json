@@ -1,0 +1,8 @@
+{
+  "bang": "opc",
+  "domain": "https://fr.openclassrooms.com",
+  "url": "http://fr.openclassrooms.com/recherche/?search=%s",
+  "description": "OpenClassrooms",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

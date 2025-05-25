@@ -1,0 +1,8 @@
+{
+  "bang": "pipl",
+  "domain": "https://pipl.com",
+  "url": "https://pipl.com/search/?q=%s&l=&sloc=&in=5",
+  "description": "Pipl",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "openbsdmisc",
+  "domain": "https://marc.info",
+  "url": "http://marc.info/?l=openbsd-misc&w=2&r=1&s=%s&q=b",
+  "description": "OpenBSD misc list",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "flag",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Aflagpoles.com.au+%s",
+  "description": "Federation Flags & Flagpoles",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

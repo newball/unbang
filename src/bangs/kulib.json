@@ -1,0 +1,8 @@
+{
+  "bang": "kulib",
+  "domain": "https://catalog.lib.ku.edu",
+  "url": "https://catalog.lib.ku.edu/cgi-bin/Pwebrecon.cgi?Search_Arg=%s&SL=None&Search_Code=FT*&PID=vT8gNN42qqUs0JjgNd8tssHev&SEQ=20180430021422&CNT=25&HIST=1&kujSubmitButtonName=Search",
+  "description": "University of Kansas Library Catalog",
+  "category": "Research",
+  "sub-category": "Academic"
+}

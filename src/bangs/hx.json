@@ -1,0 +1,8 @@
+{
+  "bang": "hx",
+  "domain": "https://hex.pm",
+  "url": "https://hex.pm/packages?search=%s&sort=downloads",
+  "description": "Hex.pm",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

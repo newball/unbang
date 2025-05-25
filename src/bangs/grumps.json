@@ -1,0 +1,8 @@
+{
+  "bang": "grumps",
+  "domain": "https://www.youtube.com",
+  "url": "https://www.youtube.com/user/GameGrumps/search?query=%s",
+  "description": "Game Grumps",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

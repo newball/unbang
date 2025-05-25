@@ -1,0 +1,8 @@
+{
+  "bang": "discogs",
+  "domain": "https://www.discogs.com",
+  "url": "http://www.discogs.com/search?q=%s&btn=&type=all",
+  "description": "Discogs",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

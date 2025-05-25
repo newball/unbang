@@ -1,0 +1,8 @@
+{
+  "bang": "ghio",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Agithub.io+%s&ia=web",
+  "description": "Github User Pages",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

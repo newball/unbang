@@ -1,0 +1,8 @@
+{
+  "bang": "conjugacao",
+  "domain": "https://www.conjugacao.com.br",
+  "url": "https://www.conjugacao.com.br/busca.php?q=%s",
+  "description": "conjugação.com.br",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

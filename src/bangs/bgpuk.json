@@ -1,0 +1,8 @@
+{
+  "bang": "bgpuk",
+  "domain": "https://boardgameprices.co.uk",
+  "url": "https://boardgameprices.co.uk/item/search?search=%s",
+  "description": "BoardGamePrices",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

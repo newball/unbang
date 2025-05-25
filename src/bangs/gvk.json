@@ -1,0 +1,8 @@
+{
+  "bang": "gvk",
+  "domain": "https://gso.gbv.de",
+  "url": "https://gso.gbv.de/DB=2.1/CMD?MATCFILTER=N&MATCSET=N&ACT0=&IKT0=&TRM0=&ACT3=*&IKT3=8183&ACT=SRCHA&IKT=1016&SRT=YOP&TRM=%s",
+  "description": "Gemeinsamer Verbundkatalog",
+  "category": "Research",
+  "sub-category": "Academic"
+}

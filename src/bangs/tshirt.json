@@ -1,0 +1,8 @@
+{
+  "bang": "tshirt",
+  "domain": "https://www.tpop.fr",
+  "url": "https://www.tpop.fr/search?type=product&q=%s",
+  "description": "Tpop",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

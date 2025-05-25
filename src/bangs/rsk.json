@@ -1,0 +1,8 @@
+{
+  "bang": "rsk",
+  "domain": "https://www.refseek.com",
+  "url": "https://www.refseek.com/search?q=%s",
+  "description": "refseek",
+  "category": "Research",
+  "sub-category": "Reference"
+}

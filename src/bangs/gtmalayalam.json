@@ -1,0 +1,8 @@
+{
+  "bang": "gtmalayalam",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/ml/%s",
+  "description": "Detect language to Malayalam",
+  "category": "Translation",
+  "sub-category": "Google"
+}

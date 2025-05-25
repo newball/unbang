@@ -1,0 +1,8 @@
+{
+  "bang": "oup",
+  "domain": "https://offerup.com",
+  "url": "https://offerup.com/search/?q= %s",
+  "description": "offerup",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

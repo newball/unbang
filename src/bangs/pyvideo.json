@@ -1,0 +1,8 @@
+{
+  "bang": "pyvideo",
+  "domain": "https://pyvideo.org",
+  "url": "http://pyvideo.org/search?models=videos.video&q=%s",
+  "description": "pyvideo.org",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

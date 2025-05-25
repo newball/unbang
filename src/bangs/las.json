@@ -1,0 +1,8 @@
+{
+  "bang": "las",
+  "domain": "https://www.perseus.tufts.edu",
+  "url": "http://www.perseus.tufts.edu/hopper/morph?&la=la&l=%s&la=la",
+  "description": "Latin Word Study Tool",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

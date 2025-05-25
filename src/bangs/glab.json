@@ -1,0 +1,8 @@
+{
+  "bang": "glab",
+  "domain": "https://gitlab.com",
+  "url": "https://gitlab.com/search?utf8=✓&search=%s",
+  "description": "GitLab",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

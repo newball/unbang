@@ -1,0 +1,8 @@
+{
+  "bang": "cswiki",
+  "domain": "https://cs.wikipedia.org",
+  "url": "http://cs.wikipedia.org/wiki/%s",
+  "description": "Wikipedia (cs)",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

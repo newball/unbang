@@ -1,0 +1,8 @@
+{
+  "bang": "tapastic",
+  "domain": "https://tapastic.com",
+  "url": "https://tapastic.com/search/SERIES/list?query=%s",
+  "description": "Tapastic",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

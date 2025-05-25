@@ -1,0 +1,8 @@
+{
+  "bang": "ste",
+  "domain": "https://store.steampowered.com",
+  "url": "http://store.steampowered.com/search/?term=%s",
+  "description": "Steam",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "infog",
+  "domain": "https://infogalactic.com",
+  "url": "https://infogalactic.com/info/%s",
+  "description": "infogalactic.com",
+  "category": "Research",
+  "sub-category": "Reference"
+}

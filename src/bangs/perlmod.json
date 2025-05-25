@@ -1,0 +1,8 @@
+{
+  "bang": "perlmod",
+  "domain": "https://p3rl.org",
+  "url": "http://p3rl.org/%s",
+  "description": "p3rl.org",
+  "category": "Tech",
+  "sub-category": "Languages (perl)"
+}

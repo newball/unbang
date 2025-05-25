@@ -1,0 +1,8 @@
+{
+  "bang": "pptrack",
+  "domain": "https://emonitoring.poczta-polska.pl",
+  "url": "http://emonitoring.poczta-polska.pl/?lang=en&numer=%s",
+  "description": "Polish Post tracking",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

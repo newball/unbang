@@ -1,0 +1,8 @@
+{
+  "bang": "quirky",
+  "domain": "https://www.quirky.com",
+  "url": "https://www.quirky.com/search?query=%s",
+  "description": "Quirky",
+  "category": "Tech",
+  "sub-category": "Design"
+}

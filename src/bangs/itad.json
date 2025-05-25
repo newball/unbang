@@ -1,0 +1,8 @@
+{
+  "bang": "itad",
+  "domain": "https://isthereanydeal.com",
+  "url": "https://isthereanydeal.com/search/?q=%s",
+  "description": "IsThereAnyDeal",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

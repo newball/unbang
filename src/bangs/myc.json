@@ -1,0 +1,8 @@
+{
+  "bang": "myc",
+  "domain": "https://www.mycomicshop.com",
+  "url": "https://www.mycomicshop.com/search?q=%s",
+  "description": "mycomicshop",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

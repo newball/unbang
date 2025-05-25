@@ -1,0 +1,8 @@
+{
+  "bang": "encyclopediaofmath",
+  "domain": "https://www.encyclopediaofmath.org",
+  "url": "http://www.encyclopediaofmath.org/index.php?title=Special:Search&search=%s",
+  "description": "Encyclopedia of Mathematics",
+  "category": "Research",
+  "sub-category": "Learning"
+}

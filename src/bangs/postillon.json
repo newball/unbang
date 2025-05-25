@@ -1,0 +1,8 @@
+{
+  "bang": "postillon",
+  "domain": "https://www.der-postillon.com",
+  "url": "http://www.der-postillon.com/search?q=%s",
+  "description": "Der Postillon",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "purolator",
+  "domain": "https://eshiponline.purolator.com",
+  "url": "https://eshiponline.purolator.com/ShipOnline/Public/Track/TrackingDetails.aspx?pin=%s",
+  "description": "Purolator shipment tracking",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

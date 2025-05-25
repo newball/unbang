@@ -1,0 +1,8 @@
+{
+  "bang": "motonet",
+  "domain": "https://www.motonet.fi",
+  "url": "http://www.motonet.fi/fi/haku?q=%s",
+  "description": "Motonet Finland",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

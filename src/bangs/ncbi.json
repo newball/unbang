@@ -1,0 +1,8 @@
+{
+  "bang": "ncbi",
+  "domain": "https://www.ncbi.nlm.nih.gov",
+  "url": "http://www.ncbi.nlm.nih.gov/gquery/?term=%s",
+  "description": "NCBI",
+  "category": "Research",
+  "sub-category": "Academic"
+}

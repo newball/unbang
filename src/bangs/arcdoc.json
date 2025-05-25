@@ -1,0 +1,8 @@
+{
+  "bang": "arcdoc",
+  "domain": "https://doc.arcgis.com",
+  "url": "https://doc.arcgis.com/search/?q=%s",
+  "description": "ArcGIS Documentation",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

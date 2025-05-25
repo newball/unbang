@@ -1,0 +1,8 @@
+{
+  "bang": "beolingus",
+  "domain": "https://dict.tu-chemnitz.de",
+  "url": "http://dict.tu-chemnitz.de/dings.cgi?query=%s",
+  "description": "Beolingus",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

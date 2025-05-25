@@ -1,0 +1,8 @@
+{
+  "bang": "lolcounter",
+  "domain": "https://www.lolcounter.com",
+  "url": "http://www.lolcounter.com/champions/%s",
+  "description": "LOL counter",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "apvde",
+  "domain": "https://www.amazon.de",
+  "url": "https://www.amazon.de/s?k=%s&i=instant-video",
+  "description": "Amazon Prime Video Germany",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

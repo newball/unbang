@@ -1,0 +1,8 @@
+{
+  "bang": "worm",
+  "domain": "https://www.wormbase.org",
+  "url": "http://www.wormbase.org/species/c_elegans/gene/%s",
+  "description": "Wormbase",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "rustd",
+  "domain": "https://doc.rust-lang.org",
+  "url": "https://doc.rust-lang.org/std/?search=%s",
+  "description": "The Rust Standard Library Documentation",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ssv",
+  "domain": "https://www.shutterstock.com",
+  "url": "https://www.shutterstock.com/search?searchterm=%s&image_type=vector",
+  "description": "Shutterstock Vector",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

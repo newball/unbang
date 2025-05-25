@@ -1,0 +1,8 @@
+{
+  "bang": "correos",
+  "domain": "https://www.correos.es",
+  "url": "http://www.correos.es/ss/Satellite/site/aplicacion-4000003383089-herramientas_y_apps/detalle_app-sidioma=es_ES?numero=%s",
+  "description": "Localizados Correos de España",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

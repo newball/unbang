@@ -1,0 +1,8 @@
+{
+  "bang": "cppde",
+  "domain": "https://de.cppreference.com",
+  "url": "http://de.cppreference.com/mwiki/index.php?title=Spezial%3ASuche&search=%s",
+  "description": "cppreference",
+  "category": "Tech",
+  "sub-category": "Languages (c++)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "repology",
+  "domain": "https://repology.org",
+  "url": "https://repology.org/metapackages/?search=%s",
+  "description": "Repology",
+  "category": "Tech",
+  "sub-category": "Downloads (code)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "aqicn",
+  "domain": "https://aqicn.org",
+  "url": "http://aqicn.org/city/%s",
+  "description": "Real-time Air Quality Index (AQI) ",
+  "category": "News",
+  "sub-category": "Weather"
+}

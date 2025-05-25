@@ -1,0 +1,8 @@
+{
+  "bang": "tvnz",
+  "domain": "https://www.tvnz.co.nz",
+  "url": "https://www.tvnz.co.nz/search?q=%s",
+  "description": "TVNZ OnDemand",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

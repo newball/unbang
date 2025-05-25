@@ -1,0 +1,8 @@
+{
+  "bang": "evafing",
+  "domain": "https://eva.fing.edu.uy",
+  "url": "https://eva.fing.edu.uy/course/search.php?search=%s",
+  "description": "EVA Fing",
+  "category": "Research",
+  "sub-category": "Academic"
+}

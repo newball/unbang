@@ -1,0 +1,8 @@
+{
+  "bang": "leidenlib",
+  "domain": "https://www.bibliotheek.universiteitleiden.nl",
+  "url": "https://www.bibliotheek.universiteitleiden.nl/zoeken?q=%s",
+  "description": "Bibilotheek Universiteit Leiden",
+  "category": "Research",
+  "sub-category": "Academic"
+}

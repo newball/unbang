@@ -1,0 +1,8 @@
+{
+  "bang": "linfd",
+  "domain": "https://www.linguee.fr",
+  "url": "http://www.linguee.fr/francais-allemand/search?source=auto&query=%s ",
+  "description": "Linguee",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

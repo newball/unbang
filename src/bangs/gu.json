@@ -1,0 +1,8 @@
+{
+  "bang": "gu",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Awww.theguardian.com+%s",
+  "description": "theguardian.com",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

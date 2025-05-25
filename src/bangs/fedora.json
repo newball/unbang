@@ -1,0 +1,8 @@
+{
+  "bang": "fedora",
+  "domain": "https://fedoraproject.org",
+  "url": "https://fedoraproject.org/wiki/Special:Search?search=%s",
+  "description": "Fedora wiki",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Fedora)"
+}

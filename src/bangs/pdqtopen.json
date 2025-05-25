@@ -1,0 +1,8 @@
+{
+  "bang": "pdqtopen",
+  "domain": "https://pqdtopen.proquest.com",
+  "url": "https://pqdtopen.proquest.com/results.html?QryTxt=%s",
+  "description": "ProQuest Dissertations & Theses Open",
+  "category": "Research",
+  "sub-category": "Academic"
+}

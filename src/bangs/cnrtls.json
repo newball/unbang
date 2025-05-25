@@ -1,0 +1,8 @@
+{
+  "bang": "cnrtls",
+  "domain": "https://www.cnrtl.fr",
+  "url": "http://www.cnrtl.fr/synonymie/%s",
+  "description": "cnrtl synonymie",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "walky",
+  "domain": "https://walkypedia.wikia.com",
+  "url": "http://walkypedia.wikia.com/wiki/Special:Search?query=%s",
+  "description": "Walkypedia",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

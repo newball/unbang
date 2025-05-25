@@ -1,0 +1,8 @@
+{
+  "bang": "wikisum",
+  "domain": "https://www.wikisummaries.org",
+  "url": "http://www.wikisummaries.org/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "Wiki Summaries",
+  "category": "Research",
+  "sub-category": "Learning"
+}

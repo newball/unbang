@@ -1,0 +1,8 @@
+{
+  "bang": "posix",
+  "domain": "https://pubs.opengroup.org",
+  "url": "http://pubs.opengroup.org/cgi/kman4.cgi?value=%s",
+  "description": "The Open Group",
+  "category": "Tech",
+  "sub-category": "Sysadmin (man)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "vimeo",
+  "domain": "https://vimeo.com",
+  "url": "https://vimeo.com/search?q=%s",
+  "description": "Vimeo",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "avtoprom",
+  "domain": "https://avtoprom.org",
+  "url": "https://avtoprom.org/search.php?keywords=%s",
+  "description": "avtoprom.org",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

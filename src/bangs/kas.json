@@ -1,0 +1,8 @@
+{
+  "bang": "kas",
+  "domain": "https://www.kaskus.co.id",
+  "url": "http://www.kaskus.co.id/search?q=%s",
+  "description": "Kaskus",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

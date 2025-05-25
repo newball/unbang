@@ -1,0 +1,8 @@
+{
+  "bang": "pegasos",
+  "domain": "https://pegasos.kirjas.to",
+  "url": "http://pegasos.kirjas.to/selaushaku.asp?kohde=vapaasana&hakuehto=%s",
+  "description": "Kirkkonummen verkkokirjasto",
+  "category": "Research",
+  "sub-category": "Local"
+}

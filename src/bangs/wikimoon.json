@@ -1,0 +1,8 @@
+{
+  "bang": "wikimoon",
+  "domain": "https://wikimoon.org",
+  "url": "http://wikimoon.org/index.php?search=%s",
+  "description": "WikiMoon",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "platekompaniet",
+  "domain": "https://platekompaniet.no",
+  "url": "https://platekompaniet.no/search/?q=%s",
+  "description": "Platekompaniet",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

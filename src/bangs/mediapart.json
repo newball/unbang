@@ -1,0 +1,8 @@
+{
+  "bang": "mediapart",
+  "domain": "https://www.mediapart.fr",
+  "url": "https://www.mediapart.fr/search?search_word=%s",
+  "description": "Mediapart",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "linuxmint",
+  "domain": "https://forums.linuxmint.com",
+  "url": "http://forums.linuxmint.com/search.php?keywords=%s",
+  "description": "Linux Mint Forums",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

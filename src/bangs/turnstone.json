@@ -1,0 +1,8 @@
+{
+  "bang": "turnstone",
+  "domain": "https://myturnstone.com",
+  "url": "http://myturnstone.com/?s=%s&lang=en",
+  "description": "Turnstone",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

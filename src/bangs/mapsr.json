@@ -1,0 +1,8 @@
+{
+  "bang": "mapsr",
+  "domain": "https://www.google.com",
+  "url": "https://www.google.com/maps/dir/%s",
+  "description": "Google Maps Directions",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ntx",
+  "domain": "https://www.nutritionix.com",
+  "url": "https://www.nutritionix.com/search?q=%s",
+  "description": "Nutritionix",
+  "category": "Research",
+  "sub-category": "Food"
+}

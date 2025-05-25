@@ -1,0 +1,8 @@
+{
+  "bang": "bay12",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s+site%3Abay12games.com",
+  "description": "Bay12Games",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

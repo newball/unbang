@@ -1,0 +1,8 @@
+{
+  "bang": "svde",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#sv/de/%s",
+  "description": "Google Translate",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

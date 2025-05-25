@@ -1,0 +1,8 @@
+{
+  "bang": "scots",
+  "domain": "https://www.dsl.ac.uk",
+  "url": "http://www.dsl.ac.uk/results/%s",
+  "description": "scots dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

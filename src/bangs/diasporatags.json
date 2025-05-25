@@ -1,0 +1,8 @@
+{
+  "bang": "diasporatags",
+  "domain": "https://joindiaspora.com",
+  "url": "https://joindiaspora.com/tags/%s",
+  "description": "Diaspora Tags",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

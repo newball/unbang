@@ -1,0 +1,8 @@
+{
+  "bang": "alarmpkg",
+  "domain": "https://archlinuxarm.org",
+  "url": "https://archlinuxarm.org/packages/?q=%s",
+  "description": "Arch Linux ARM Packages",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Arch)"
+}

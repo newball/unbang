@@ -1,0 +1,8 @@
+{
+  "bang": "weatherbug",
+  "domain": "https://weather.weatherbug.com",
+  "url": "http://weather.weatherbug.com/Common/SearchResults.html?loc=%s&nav_section=1&zcode=z6169&lang_id=en-us&country=US&x=0&y=0&is_search=true",
+  "description": "WeatherBug",
+  "category": "News",
+  "sub-category": "Weather"
+}

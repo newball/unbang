@@ -1,0 +1,8 @@
+{
+  "bang": "number",
+  "domain": "https://numbermatics.com",
+  "url": "http://numbermatics.com/n/%s/",
+  "description": "Numbermatics, the number explorer",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

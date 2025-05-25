@@ -1,0 +1,8 @@
+{
+  "bang": "geonorge",
+  "domain": "https://kartkatalog.geonorge.no",
+  "url": "https://kartkatalog.geonorge.no/search?text=%s",
+  "description": "GeoNorge",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

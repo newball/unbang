@@ -1,0 +1,8 @@
+{
+  "bang": "bbcs",
+  "domain": "https://bitbucket.org",
+  "url": "https://bitbucket.org/search?q=%s",
+  "description": "Bitbucket Code Search",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "git2",
+  "domain": "https://libgit2.github.com",
+  "url": "https://libgit2.github.com/libgit2/#HEAD/search/%s",
+  "description": "libgit2 documentation",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

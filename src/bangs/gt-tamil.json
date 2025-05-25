@@ -1,0 +1,8 @@
+{
+  "bang": "gt-tamil",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/ta/%s",
+  "description": "Detect language to Tamil",
+  "category": "Translation",
+  "sub-category": "Google"
+}

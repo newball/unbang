@@ -1,0 +1,8 @@
+{
+  "bang": "tardis",
+  "domain": "https://tardis.wikia.com",
+  "url": "http://tardis.wikia.com/wiki/Special:Search?search=%s",
+  "description": "TARDIS Data Core",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "aurp",
+  "domain": "https://aur.archlinux.org",
+  "url": "https://aur.archlinux.org/packages/%s",
+  "description": "Arch User Repository Package",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Arch)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "metasx",
+  "domain": "https://meta.stackexchange.com",
+  "url": "http://meta.stackexchange.com/search?q=%s",
+  "description": "Meta Stack Exchange",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

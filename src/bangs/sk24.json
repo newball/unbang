@@ -1,0 +1,8 @@
+{
+  "bang": "sk24",
+  "domain": "https://www.sportkopf24.de",
+  "url": "https://www.sportkopf24.de/?ActionCall=WebActionArticleSearch&Params%5BSearchParam%5D=%s",
+  "description": "sportkopf24",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "vote",
+  "domain": "https://vote.us.org",
+  "url": "https://vote.us.org/search/?q=%s",
+  "description": "Vote",
+  "category": "News",
+  "sub-category": "Specialty"
+}

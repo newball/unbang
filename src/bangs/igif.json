@@ -1,0 +1,8 @@
+{
+  "bang": "igif",
+  "domain": "https://imgur.com",
+  "url": "https://imgur.com/search/score?q=ext%3Agif+%s",
+  "description": "Imgur — gifs",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "lb",
+  "domain": "https://letterboxd.com",
+  "url": "https://letterboxd.com/search/%s/",
+  "description": "letterboxd",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gfonts",
+  "domain": "https://fonts.google.com",
+  "url": "https://fonts.google.com/?query=%s",
+  "description": "Google Fonts",
+  "category": "Tech",
+  "sub-category": "Design"
+}

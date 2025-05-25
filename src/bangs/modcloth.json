@@ -1,0 +1,8 @@
+{
+  "bang": "modcloth",
+  "domain": "https://www.modcloth.com",
+  "url": "http://www.modcloth.com/shop/search?keyword=%s ",
+  "description": "ModCloth",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

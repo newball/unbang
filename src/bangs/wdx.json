@@ -1,0 +1,8 @@
+{
+  "bang": "wdx",
+  "domain": "https://es.pokemon.wikia.com",
+  "url": "http://es.pokemon.wikia.com/wiki/WikiDex=%s",
+  "description": "Wikidex",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

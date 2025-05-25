@@ -1,0 +1,8 @@
+{
+  "bang": "mtf",
+  "domain": "https://www.moestuinforum.nl",
+  "url": "https://www.moestuinforum.nl/search/gsearch_body.html?q=%s",
+  "description": "Moestuinforum",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "rag",
+  "domain": "https://academia.gal",
+  "url": "http://academia.gal/dicionario/-/termo/busca/%s",
+  "description": "Real Academia Galega",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "perseus",
+  "domain": "https://www.perseus.tufts.edu",
+  "url": "http://www.perseus.tufts.edu/hopper/searchresults?q=%s",
+  "description": "Perseus Digital Library",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

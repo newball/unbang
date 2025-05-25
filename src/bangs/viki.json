@@ -1,0 +1,8 @@
+{
+  "bang": "viki",
+  "domain": "https://et.wikipedia.org",
+  "url": "https://et.wikipedia.org/w/index.php?search=%s ",
+  "description": "Estonian Wikipedia (Vikipeedia)",
+  "category": "Research",
+  "sub-category": "Learning"
+}

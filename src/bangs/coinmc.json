@@ -1,0 +1,8 @@
+{
+  "bang": "coinmc",
+  "domain": "https://coinmarketcap.com",
+  "url": "https://coinmarketcap.com/currencies/search/?q=%s",
+  "description": "Coin Market Cap",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

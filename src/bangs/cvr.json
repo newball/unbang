@@ -1,0 +1,8 @@
+{
+  "bang": "cvr",
+  "domain": "https://datacvr.virk.dk",
+  "url": "https://datacvr.virk.dk/data/visninger?soeg=%s",
+  "description": "Danish Central Business Register",
+  "category": "Research",
+  "sub-category": "Topical"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "fedpack",
+  "domain": "https://apps.fedoraproject.org",
+  "url": "https://apps.fedoraproject.org/packages/s/%s",
+  "description": "Fedora Package Search",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Fedora)"
+}

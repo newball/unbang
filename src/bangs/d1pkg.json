@@ -1,0 +1,8 @@
+{
+  "bang": "d1pkg",
+  "domain": "https://pkginfo.devuan.org",
+  "url": "https://pkginfo.devuan.org/cgi-bin/d1pkgweb-query?search=%s&release=any",
+  "description": "Devuan Package information",
+  "category": "Tech",
+  "sub-category": "Sysadmin (packages)"
+}

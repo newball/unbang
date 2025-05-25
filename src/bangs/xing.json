@@ -1,0 +1,8 @@
+{
+  "bang": "xing",
+  "domain": "https://www.xing.com",
+  "url": "https://www.xing.com/app/search?op=combined;keywords=%s ",
+  "description": "Xing.de",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

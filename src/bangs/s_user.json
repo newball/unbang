@@ -1,0 +1,8 @@
+{
+  "bang": "s_user",
+  "domain": "https://scratch.mit.edu",
+  "url": "https://scratch.mit.edu/users/%s",
+  "description": "Scratch",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

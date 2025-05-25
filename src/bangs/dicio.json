@@ -1,0 +1,8 @@
+{
+  "bang": "dicio",
+  "domain": "https://www.dicio.com.br",
+  "url": "https://www.dicio.com.br/pesquisa.php?q=%s",
+  "description": "Dicio",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

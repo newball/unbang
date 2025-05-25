@@ -1,0 +1,8 @@
+{
+  "bang": "phone",
+  "domain": "https://www.whitepages.com",
+  "url": "http://www.whitepages.com/phone/%s ",
+  "description": "whitepages",
+  "category": "Research",
+  "sub-category": "Reference"
+}

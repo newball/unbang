@@ -1,0 +1,8 @@
+{
+  "bang": "pcg",
+  "domain": "https://www.pcgamer.com",
+  "url": "https://www.pcgamer.com/search/?searchTerm=%s",
+  "description": "PC Gamer",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

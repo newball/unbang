@@ -1,0 +1,8 @@
+{
+  "bang": "steamprices",
+  "domain": "https://www.steamprices.com",
+  "url": "http://www.steamprices.com/us/search?%s",
+  "description": "Steam Prices",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "blockchair",
+  "domain": "https://blockchair.com",
+  "url": "https://blockchair.com/search?q=%s",
+  "description": "Blockchair",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

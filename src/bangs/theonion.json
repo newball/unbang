@@ -1,0 +1,8 @@
+{
+  "bang": "theonion",
+  "domain": "https://www.theonion.com",
+  "url": "http://www.theonion.com/search/?q=%s&x=0&y=0",
+  "description": "The Onion",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

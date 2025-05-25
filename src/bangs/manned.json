@@ -1,0 +1,8 @@
+{
+  "bang": "manned",
+  "domain": "https://manned.org",
+  "url": "https://manned.org/browse/search?q=%s",
+  "description": "Manned",
+  "category": "Tech",
+  "sub-category": "Sysadmin (man)"
+}

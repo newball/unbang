@@ -1,0 +1,8 @@
+{
+  "bang": "bw",
+  "domain": "https://www.bing.com",
+  "url": "https://www.bing.com/weather/forecast?q=%s",
+  "description": "Bing Weather",
+  "category": "News",
+  "sub-category": "Weather"
+}

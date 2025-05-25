@@ -1,0 +1,8 @@
+{
+  "bang": "sapblogs",
+  "domain": "https://blogs.sap.com",
+  "url": "https://blogs.sap.com/?s=%s",
+  "description": "SAP Community Blogs",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

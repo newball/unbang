@@ -1,0 +1,8 @@
+{
+  "bang": "unclib",
+  "domain": "https://library.unc.edu",
+  "url": "https://library.unc.edu/find/combinedresults/?Ntt=%s&Ntk=Keyword",
+  "description": "University of North Carolina at Chapel Hill Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "sogou",
+  "domain": "https://www.sogou.com",
+  "url": "https://www.sogou.com/web?query=%s",
+  "description": "搜狗",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

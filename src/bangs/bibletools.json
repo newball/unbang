@@ -1,0 +1,8 @@
+{
+  "bang": "bibletools",
+  "domain": "https://www.biblestudytools.com",
+  "url": "http://www.biblestudytools.com/search/?q=%s",
+  "description": "Bible Study Tools",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

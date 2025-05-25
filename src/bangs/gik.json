@@ -1,0 +1,8 @@
+{
+  "bang": "gik",
+  "domain": "https://www.google.co.il",
+  "url": "http://www.google.co.il/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google IL",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

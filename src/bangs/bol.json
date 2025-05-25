@@ -1,0 +1,8 @@
+{
+  "bang": "bol",
+  "domain": "https://www.bol.com",
+  "url": "https://www.bol.com/nl/s/?searchtext=%s",
+  "description": "bol.com",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

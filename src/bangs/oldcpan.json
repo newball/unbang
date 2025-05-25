@@ -1,0 +1,8 @@
+{
+  "bang": "oldcpan",
+  "domain": "https://search.cpan.org",
+  "url": "http://search.cpan.org/search?query=%s&mode=all",
+  "description": "CPAN",
+  "category": "Tech",
+  "sub-category": "Languages (perl)"
+}

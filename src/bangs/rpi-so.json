@@ -1,0 +1,8 @@
+{
+  "bang": "rpi-so",
+  "domain": "https://raspberrypi.stackexchange.com",
+  "url": "http://raspberrypi.stackexchange.com/search?q=%s",
+  "description": "Raspberry pi Stackexchange",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

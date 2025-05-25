@@ -1,0 +1,8 @@
+{
+  "bang": "hotn",
+  "domain": "https://www.hotnews.ro",
+  "url": "https://www.hotnews.ro/cauta/%s/1",
+  "description": "Hotnews.ro",
+  "category": "News",
+  "sub-category": "International"
+}

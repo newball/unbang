@@ -1,0 +1,8 @@
+{
+  "bang": "mercari",
+  "domain": "https://www.mercari.com",
+  "url": "https://www.mercari.com/search/?keyword=%s",
+  "description": "mercari US",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gjp",
+  "domain": "https://www.google.co.jp",
+  "url": "http://www.google.co.jp/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google JP",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

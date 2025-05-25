@@ -1,0 +1,8 @@
+{
+  "bang": "finnkinoen",
+  "domain": "https://www.finnkino.fi",
+  "url": "http://www.finnkino.fi/eng/Search/?query=%s",
+  "description": "Finnkino",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

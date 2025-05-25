@@ -1,0 +1,8 @@
+{
+  "bang": "bikedsct",
+  "domain": "https://www.bike-discount.de",
+  "url": "https://www.bike-discount.de/de/suche?q=%s",
+  "description": "Bike-Discount",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

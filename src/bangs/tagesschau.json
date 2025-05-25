@@ -1,0 +1,8 @@
+{
+  "bang": "tagesschau",
+  "domain": "https://www.tagesschau.de",
+  "url": "http://www.tagesschau.de/suche2.html?query=%s",
+  "description": "Tagesschau",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

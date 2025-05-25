@@ -1,0 +1,8 @@
+{
+  "bang": "eorde",
+  "domain": "https://de.finalfantasyxiv.com",
+  "url": "https://de.finalfantasyxiv.com/lodestone/playguide/db/search/?q=%s",
+  "description": "Eorzea-Datenbank",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

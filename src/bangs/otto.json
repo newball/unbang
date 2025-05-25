@@ -1,0 +1,8 @@
+{
+  "bang": "otto",
+  "domain": "https://www.otto.de",
+  "url": "https://www.otto.de/suche/%s/",
+  "description": "OTTO",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

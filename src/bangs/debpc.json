@@ -1,0 +1,8 @@
+{
+  "bang": "debpc",
+  "domain": "https://qa.debian.org",
+  "url": "https://qa.debian.org/popcon.php?package=%s",
+  "description": "Debian Popularity Contest Statistics",
+  "category": "Tech",
+  "sub-category": "Sysadmin (debian)"
+}

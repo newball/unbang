@@ -1,0 +1,8 @@
+{
+  "bang": "usmint",
+  "domain": "https://search.usmint.gov",
+  "url": "http://search.usmint.gov/search?affiliate=usmint.gov&formFocused=0&query=%s",
+  "description": "The United States Mint",
+  "category": "Research",
+  "sub-category": "Government"
+}

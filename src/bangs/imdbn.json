@@ -1,0 +1,8 @@
+{
+  "bang": "imdbn",
+  "domain": "https://www.imdb.com",
+  "url": "http://www.imdb.com/find?s=nm&q=%s",
+  "description": "IMDB name",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

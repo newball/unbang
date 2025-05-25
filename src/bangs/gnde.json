@@ -1,0 +1,8 @@
+{
+  "bang": "gnde",
+  "domain": "https://news.google.com",
+  "url": "https://news.google.com/news/search/section/q/%s?hl=de&ned=de",
+  "description": "Google News Germany",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

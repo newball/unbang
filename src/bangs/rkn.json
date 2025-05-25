@@ -1,0 +1,8 @@
+{
+  "bang": "rkn",
+  "domain": "https://reestr.rublacklist.net",
+  "url": "https://reestr.rublacklist.net/search/?q=%s",
+  "description": "Роскомсвобода (rublacklist)",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

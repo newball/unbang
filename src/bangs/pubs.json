@@ -1,0 +1,8 @@
+{
+  "bang": "pubs",
+  "domain": "https://www.pubsgalore.co.uk",
+  "url": "http://www.pubsgalore.co.uk/search.php?search=%s",
+  "description": "Pubs Galore",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "locfr",
+  "domain": "https://tel.local.ch",
+  "url": "http://tel.local.ch/fr/q?what=%s",
+  "description": "Local.ch",
+  "category": "Research",
+  "sub-category": "Local"
+}

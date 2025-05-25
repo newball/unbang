@@ -1,0 +1,8 @@
+{
+  "bang": "owler",
+  "domain": "https://www.owler.com",
+  "url": "https://www.owler.com/iaApp/browsecompanyprofiles.htm?searchTerm=%s",
+  "description": "Owler",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

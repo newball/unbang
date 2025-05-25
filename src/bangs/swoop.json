@@ -1,0 +1,8 @@
+{
+  "bang": "swoop",
+  "domain": "https://www.swoop.ge",
+  "url": "https://www.swoop.ge/search?query=%s",
+  "description": "Swoop",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

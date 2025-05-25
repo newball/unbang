@@ -1,0 +1,8 @@
+{
+  "bang": "speccie",
+  "domain": "https://www.spectator.co.uk",
+  "url": "http://www.spectator.co.uk/?s=%s",
+  "description": "The Spectator",
+  "category": "News",
+  "sub-category": "Magazine"
+}

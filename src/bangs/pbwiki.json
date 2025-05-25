@@ -1,0 +1,8 @@
+{
+  "bang": "pbwiki",
+  "domain": "https://polandball.wikia.com",
+  "url": "https://polandball.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Polandball Wiki",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

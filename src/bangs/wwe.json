@@ -1,0 +1,8 @@
+{
+  "bang": "wwe",
+  "domain": "https://www.wwe.com",
+  "url": "https://www.wwe.com/search/all/relevance/%s",
+  "description": "WWE",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

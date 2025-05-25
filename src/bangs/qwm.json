@@ -1,0 +1,8 @@
+{
+  "bang": "qwm",
+  "domain": "https://www.qwant.com",
+  "url": "https://www.qwant.com/music/search?q=%s",
+  "description": "Qwant Music",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

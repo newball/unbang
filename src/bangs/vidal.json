@@ -1,0 +1,8 @@
+{
+  "bang": "vidal",
+  "domain": "https://www.vidal.fr",
+  "url": "https://www.vidal.fr/recherche/index/q:%s/",
+  "description": "VIDAL",
+  "category": "Research",
+  "sub-category": "Health"
+}

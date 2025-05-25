@@ -1,0 +1,8 @@
+{
+  "bang": "kp",
+  "domain": "https://www.kupujemprodajem.com",
+  "url": "https://www.kupujemprodajem.com/search.php?action=list&data%5Bad_kind%5D=&data%5Bad_type%5D=&data%5Bfollow%5D=&data%5Bad_kind_type%5D=&data%5Btip_oglasa%5D=&data%5Bcategory_id%5D=&data%5Bgroup_id%5D=&data%5Blocation_id%5D=&data%5Blocation_radius%5D=&data%5Bhas_photo%5D=&data%5Bcondition%5D=&data%5Bperiod%5D=&data%5Border%5D=&data%5Bcar_model%5D=&data%5Bvehicle_power_min%5D=&data%5Bvehicle_power_max%5D=&data%5Bvehicle_cc_min%5D=&data%5Bvehicle_cc_max%5D=&data%5Bvehicle_km_min%5D=&data%5Bvehicle_km_max%5D=&data%5Bvehicle_make_year_min%5D=&data%5Bvehicle_make_year_max%5D=&data%5Bcar_body_type%5D=&data%5Bcar_fuel_type%5D=&data%5Bcar_doors%5D=&data%5Bcar_gearbox%5D=&data%5Bvehicle_aircondition%5D=&data%5Bvehicle_drive%5D=&data%5Bprice_from%5D=&data%5Bprice_to%5D=&dummy=name&data%5Bkeywords%5D=%s &=&=&=&=&=&=&return_url=aW5kZXgucGhw",
+  "description": "Kupujemprodajem",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

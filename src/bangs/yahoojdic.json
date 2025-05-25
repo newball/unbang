@@ -1,0 +1,8 @@
+{
+  "bang": "yahoojdic",
+  "domain": "https://dic.search.yahoo.co.jp",
+  "url": "http://dic.search.yahoo.co.jp/search?p=%s",
+  "description": "Yahoo Search Japan",
+  "category": "Research",
+  "sub-category": "Reference"
+}

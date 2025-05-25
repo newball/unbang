@@ -1,0 +1,8 @@
+{
+  "bang": "ssoar",
+  "domain": "https://www.ssoar.info",
+  "url": "http://www.ssoar.info/ssoar/discover?query=%s",
+  "description": "SSOAR",
+  "category": "Research",
+  "sub-category": "Academic"
+}

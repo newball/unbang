@@ -1,0 +1,8 @@
+{
+  "bang": "manpage",
+  "domain": "https://manpage.me",
+  "url": "https://manpage.me/?q=%s",
+  "description": "manpage",
+  "category": "Tech",
+  "sub-category": "Sysadmin (man)"
+}

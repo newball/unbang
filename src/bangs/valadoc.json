@@ -1,0 +1,8 @@
+{
+  "bang": "valadoc",
+  "domain": "https://valadoc.org",
+  "url": "https://valadoc.org/?q=%s",
+  "description": "Valadoc",
+  "category": "Tech",
+  "sub-category": "Languages (vala)"
+}

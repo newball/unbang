@@ -1,0 +1,8 @@
+{
+  "bang": "rdocs",
+  "domain": "https://www.rdocumentation.org",
+  "url": "https://www.rdocumentation.org/search?q=%s",
+  "description": "RDocumentation",
+  "category": "Tech",
+  "sub-category": "Languages (r)"
+}

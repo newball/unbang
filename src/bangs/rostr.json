@@ -1,0 +1,8 @@
+{
+  "bang": "rostr",
+  "domain": "https://rostr.disney.com",
+  "url": "https://rostr.disney.com/search_results?query=%s",
+  "description": "Disney Rostr",
+  "category": "Research",
+  "sub-category": "Reference"
+}

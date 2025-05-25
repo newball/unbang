@@ -1,0 +1,8 @@
+{
+  "bang": "pv",
+  "domain": "https://www.primevideo.com",
+  "url": "https://www.primevideo.com/region/eu/search/ref=dv_web_nav_search?phrase=%s&ie=UTF8",
+  "description": "Prime Video",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

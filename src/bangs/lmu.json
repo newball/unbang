@@ -1,0 +1,8 @@
+{
+  "bang": "lmu",
+  "domain": "https://opac.ub.uni-muenchen.de",
+  "url": "https://opac.ub.uni-muenchen.de/TouchPoint/start.do?View=sunrise&Language=de&Query=-1=%22%s%22",
+  "description": "Universitätsbibliothek der Ludwig-Maximilians-Universität (LMU) München",
+  "category": "Research",
+  "sub-category": "Academic"
+}

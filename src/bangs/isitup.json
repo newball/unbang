@@ -1,0 +1,8 @@
+{
+  "bang": "isitup",
+  "domain": "https://isitup.org",
+  "url": "https://isitup.org/%s",
+  "description": "Is it up?",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

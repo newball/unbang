@@ -1,0 +1,8 @@
+{
+  "bang": "mill",
+  "domain": "https://millionshort.com",
+  "url": "https://millionshort.com/search?keywords=%s&remove=1000000",
+  "description": "Million Short",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

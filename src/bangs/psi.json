@@ -1,0 +1,8 @@
+{
+  "bang": "psi",
+  "domain": "https://www.psi.ch",
+  "url": "https://www.psi.ch/search/telefonbuch-und-e-mail?q=%s",
+  "description": "PSI Phonebook",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

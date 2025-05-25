@@ -1,0 +1,8 @@
+{
+  "bang": "hak",
+  "domain": "https://wiki.hydrogenaudio.org",
+  "url": "http://wiki.hydrogenaudio.org/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "The Hydrogenaudio Knowledgebase",
+  "category": "Research",
+  "sub-category": "Learning"
+}

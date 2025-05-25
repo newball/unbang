@@ -1,0 +1,8 @@
+{
+  "bang": "u24",
+  "domain": "https://www.urgente24.com",
+  "url": "http://www.urgente24.com/search/node/%s",
+  "description": "Urgente24",
+  "category": "News",
+  "sub-category": "International"
+}

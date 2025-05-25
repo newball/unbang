@@ -1,0 +1,8 @@
+{
+  "bang": "osuf",
+  "domain": "https://osu.ppy.sh",
+  "url": "http://osu.ppy.sh/forum/search.php?keywords=%s&terms=all&author=&sc=1&sd=d&sr=posts&ch=300&t=0&submit=Search",
+  "description": "Osu! Forums",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

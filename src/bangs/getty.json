@@ -1,0 +1,8 @@
+{
+  "bang": "getty",
+  "domain": "https://www.gettyimages.com",
+  "url": "https://www.gettyimages.com/photos/%s",
+  "description": "Getty Images",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

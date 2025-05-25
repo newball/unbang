@@ -1,0 +1,8 @@
+{
+  "bang": "myer",
+  "domain": "https://www.myer.com.au",
+  "url": "https://www.myer.com.au/search?query=%s",
+  "description": "Myer",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

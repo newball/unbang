@@ -1,0 +1,8 @@
+{
+  "bang": "npat",
+  "domain": "https://www.parcs.at",
+  "url": "http://www.parcs.at/npa/mmd_data_by.php?q=%s&btnG=Suche+starten&searchval=30000",
+  "description": "Nationalparks Austria Datenzentrum ",
+  "category": "Research",
+  "sub-category": "Government"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "mash",
+  "domain": "https://mashable.com",
+  "url": "http://mashable.com/follow/search/?q=%s ",
+  "description": "mashable",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

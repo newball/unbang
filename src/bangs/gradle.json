@@ -1,0 +1,8 @@
+{
+  "bang": "gradle",
+  "domain": "https://duckduckgo.com",
+  "url": "http://duckduckgo.com/?q=site%3Agradle.org+%s",
+  "description": "Gradle",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "juju",
+  "domain": "https://jujucharms.com",
+  "url": "https://jujucharms.com/q/%s",
+  "description": "Juju Charm Store",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bxr",
+  "domain": "https://bxr.su",
+  "url": "http://bxr.su/search?refs=%s",
+  "description": "BSD Cross Reference",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

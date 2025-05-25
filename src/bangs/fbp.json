@@ -1,0 +1,8 @@
+{
+  "bang": "fbp",
+  "domain": "https://www.facebook.com",
+  "url": "https://www.facebook.com/search/results/?q=%s&type=pages",
+  "description": "Facebook Pages",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

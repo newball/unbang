@@ -1,0 +1,8 @@
+{
+  "bang": "utaite",
+  "domain": "https://utaitedb.net",
+  "url": "http://utaitedb.net/Search?filter=%s",
+  "description": "Utaite Database",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "apkm",
+  "domain": "https://www.apkmirror.com",
+  "url": "https://www.apkmirror.com/?s=%s",
+  "description": "APKMirror",
+  "category": "Tech",
+  "sub-category": "Downloads (apps)"
+}

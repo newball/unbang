@@ -1,0 +1,8 @@
+{
+  "bang": "billiger",
+  "domain": "https://www.billiger.de",
+  "url": "https://www.billiger.de/search?searchstring=%s",
+  "description": "Billiger.de",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

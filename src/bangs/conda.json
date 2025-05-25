@@ -1,0 +1,8 @@
+{
+  "bang": "conda",
+  "domain": "https://anaconda.org",
+  "url": "https://anaconda.org/search?q=%s",
+  "description": "https://anaconda.org",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

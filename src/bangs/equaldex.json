@@ -1,0 +1,8 @@
+{
+  "bang": "equaldex",
+  "domain": "https://equaldex.com",
+  "url": "http://equaldex.com/search?q=%s",
+  "description": "Equaldex",
+  "category": "Research",
+  "sub-category": "Reference"
+}

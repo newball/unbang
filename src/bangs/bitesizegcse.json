@@ -1,0 +1,8 @@
+{
+  "bang": "bitesizegcse",
+  "domain": "https://www.bbc.co.uk",
+  "url": "http://www.bbc.co.uk/schools/gcsebitesize/search/index.shtml?scope=gcsebitesize_include&q=%s",
+  "description": "BBC GCSE Bitesize",
+  "category": "Research",
+  "sub-category": "Academic"
+}

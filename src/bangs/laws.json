@@ -1,0 +1,8 @@
+{
+  "bang": "laws",
+  "domain": "https://www.global-regulation.com",
+  "url": "https://www.global-regulation.com/search.php?year&country&province&d=1&start&q=%s&advanced=false",
+  "description": "Global-Regulation.com",
+  "category": "Research",
+  "sub-category": "Law"
+}

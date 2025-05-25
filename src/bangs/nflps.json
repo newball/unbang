@@ -1,0 +1,8 @@
+{
+  "bang": "nflps",
+  "domain": "https://www.nfl.com",
+  "url": "http://www.nfl.com/players/search?category=name&filter=%s",
+  "description": "NFL Player Search",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "sysk",
+  "domain": "https://www.stuffyoushouldknow.com",
+  "url": "https://www.stuffyoushouldknow.com/search.php?terms=%s",
+  "description": "Stuff You Should Know",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

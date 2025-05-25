@@ -1,0 +1,8 @@
+{
+  "bang": "movieweb",
+  "domain": "https://www.movieweb.com",
+  "url": "http://www.movieweb.com/search?search=%s",
+  "description": "Movie Web",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

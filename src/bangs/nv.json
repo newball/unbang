@@ -1,0 +1,8 @@
+{
+  "bang": "nv",
+  "domain": "https://m.search.naver.com",
+  "url": "http://m.search.naver.com/search.naver?query=%s):",
+  "description": "Naver",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

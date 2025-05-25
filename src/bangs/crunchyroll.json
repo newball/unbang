@@ -1,0 +1,8 @@
+{
+  "bang": "crunchyroll",
+  "domain": "https://www.crunchyroll.com",
+  "url": "http://www.crunchyroll.com/search?q=%s",
+  "description": "CrunchyRoll",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

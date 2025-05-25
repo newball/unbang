@@ -1,0 +1,8 @@
+{
+  "bang": "oem",
+  "domain": "https://www.oemstrade.com",
+  "url": "http://www.oemstrade.com/search/%s",
+  "description": "oemstrade",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

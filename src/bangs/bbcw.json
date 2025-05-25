@@ -1,0 +1,8 @@
+{
+  "bang": "bbcw",
+  "domain": "https://www.bbc.co.uk",
+  "url": "https://www.bbc.co.uk/weather/search?s=%s",
+  "description": "BBC Weather",
+  "category": "News",
+  "sub-category": "Weather"
+}

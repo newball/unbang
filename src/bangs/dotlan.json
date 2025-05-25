@@ -1,0 +1,8 @@
+{
+  "bang": "dotlan",
+  "domain": "https://evemaps.dotlan.net",
+  "url": "http://evemaps.dotlan.net/search?q=%s",
+  "description": "Dotlan EVE Maps",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

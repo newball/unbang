@@ -1,0 +1,8 @@
+{
+  "bang": "seslisozluk",
+  "domain": "https://www.seslisozluk.com",
+  "url": "http://www.seslisozluk.com/?word=%s",
+  "description": "sesli sözlük",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

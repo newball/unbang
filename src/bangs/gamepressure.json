@@ -1,0 +1,8 @@
+{
+  "bang": "gamepressure",
+  "domain": "https://games.gamepressure.com",
+  "url": "http://games.gamepressure.com/games_encyclopedia.asp?search=%s",
+  "description": "Gamepressure",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

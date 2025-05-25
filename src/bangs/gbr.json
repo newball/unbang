@@ -1,0 +1,8 @@
+{
+  "bang": "gbr",
+  "domain": "https://www.google.com.br",
+  "url": "http://www.google.com.br/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google BR",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

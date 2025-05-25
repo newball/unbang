@@ -1,0 +1,8 @@
+{
+  "bang": "openrent",
+  "domain": "https://www.openrent.co.uk",
+  "url": "https://www.openrent.co.uk/properties-to-rent/%s",
+  "description": "OpenRent ",
+  "category": "Research",
+  "sub-category": "Real Estate"
+}

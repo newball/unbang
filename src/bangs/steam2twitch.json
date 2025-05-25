@@ -1,0 +1,8 @@
+{
+  "bang": "steam2twitch",
+  "domain": "https://tab-bot.net",
+  "url": "http://tab-bot.net/botcheck?twitchname_botcheck=&steam_botcheck=%s",
+  "description": "twitch tab bot",
+  "category": "Online Services",
+  "sub-category": "Social news/links"
+}

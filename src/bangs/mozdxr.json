@@ -1,0 +1,8 @@
+{
+  "bang": "mozdxr",
+  "domain": "https://dxr.mozilla.org",
+  "url": "https://dxr.mozilla.org/mozilla-central/search?q=%s",
+  "description": "Mozilla DXR",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

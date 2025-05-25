@@ -1,0 +1,8 @@
+{
+  "bang": "mc.info",
+  "domain": "https://magiccards.info",
+  "url": "http://magiccards.info/query?q=%s&v=card&s=cname",
+  "description": "Magiccards",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

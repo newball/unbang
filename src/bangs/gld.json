@@ -1,0 +1,8 @@
+{
+  "bang": "gld",
+  "domain": "https://www.glassdoor.com",
+  "url": "https://www.glassdoor.com/Reviews/company-reviews.htm?suggestCount=0&suggestChosen=false&clickSource=searchBtn&typedKeyword=%s+&sc.keyword=%s+&locT=&locId=&jobType=",
+  "description": "Glassdoor",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

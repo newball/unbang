@@ -1,0 +1,8 @@
+{
+  "bang": "jegs",
+  "domain": "https://www.jegs.com",
+  "url": "https://www.jegs.com/webapp/wcs/stores/servlet/SearchResultsPageCmd?Ntt=%s",
+  "description": "Jegs",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "svb",
+  "domain": "https://www.svb.com",
+  "url": "http://www.svb.com/searchresults.aspx?term=%s",
+  "description": "Silicon Valley Bank",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

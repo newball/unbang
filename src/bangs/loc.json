@@ -1,0 +1,8 @@
+{
+  "bang": "loc",
+  "domain": "https://www.loc.gov",
+  "url": "https://www.loc.gov/search/?q=%s ",
+  "description": "Library of Congress Catalog (loc.gov)",
+  "category": "Research",
+  "sub-category": "Government"
+}

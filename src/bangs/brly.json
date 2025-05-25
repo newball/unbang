@@ -1,0 +1,8 @@
+{
+  "bang": "brly",
+  "domain": "https://brainly.com",
+  "url": "https://brainly.com/app/ask?entry=hero&q=%s",
+  "description": "Brainly",
+  "category": "Research",
+  "sub-category": "Academic"
+}

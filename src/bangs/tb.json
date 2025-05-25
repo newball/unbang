@@ -1,0 +1,8 @@
+{
+  "bang": "tb",
+  "domain": "https://www.olx.co.id",
+  "url": "http://www.olx.co.id/halaman/mencari/%s/search",
+  "description": "OLX.co.id (Tokobagus)",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

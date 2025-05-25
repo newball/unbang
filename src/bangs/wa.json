@@ -1,0 +1,8 @@
+{
+  "bang": "wa",
+  "domain": "https://www.wolframalpha.com",
+  "url": "https://www.wolframalpha.com/input/?i=%s",
+  "description": "Wolfram|Alpha",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

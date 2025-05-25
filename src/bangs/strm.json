@@ -1,0 +1,8 @@
+{
+  "bang": "strm",
+  "domain": "https://stream.org",
+  "url": "https://stream.org/?s=%s",
+  "description": "The Stream",
+  "category": "News",
+  "sub-category": "Magazine"
+}

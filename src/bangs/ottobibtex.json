@@ -1,0 +1,8 @@
+{
+  "bang": "ottobibtex",
+  "domain": "https://www.ottobib.com",
+  "url": "http://www.ottobib.com/isbn/%s/bibtex",
+  "description": "http://www.ottobib.com",
+  "category": "Research",
+  "sub-category": "Academic"
+}

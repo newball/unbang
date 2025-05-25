@@ -1,0 +1,8 @@
+{
+  "bang": "gman",
+  "domain": "https://support.google.com",
+  "url": "https://support.google.com/search?q=%s",
+  "description": "Google Support",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

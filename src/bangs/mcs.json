@@ -1,0 +1,8 @@
+{
+  "bang": "mcs",
+  "domain": "https://www.movie-censorship.com",
+  "url": "http://www.movie-censorship.com/list.php?s=%s",
+  "description": "Movie-Censorship.com",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "canoo",
+  "domain": "https://www.canoonet.eu",
+  "url": "http://www.canoonet.eu/services/Controller?input=%s",
+  "description": "canoonet",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

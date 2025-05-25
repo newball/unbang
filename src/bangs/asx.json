@@ -1,0 +1,8 @@
+{
+  "bang": "asx",
+  "domain": "https://search.asx.com.au",
+  "url": "https://search.asx.com.au/s/search.html?query=%s&collection=asx-meta&profile=web",
+  "description": "Australian Securities Exchange",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

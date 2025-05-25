@@ -1,0 +1,8 @@
+{
+  "bang": "appleinsider",
+  "domain": "https://appleinsider.com",
+  "url": "http://appleinsider.com/search/%s",
+  "description": "AppleInsider",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

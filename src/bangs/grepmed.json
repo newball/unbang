@@ -1,0 +1,8 @@
+{
+  "bang": "grepmed",
+  "domain": "https://www.grepmed.com",
+  "url": "https://www.grepmed.com/?q=%s",
+  "description": "grepmed",
+  "category": "Research",
+  "sub-category": "Health"
+}

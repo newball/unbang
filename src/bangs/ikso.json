@@ -1,0 +1,8 @@
+{
+  "bang": "ikso",
+  "domain": "https://kantaro.ikso.net",
+  "url": "http://kantaro.ikso.net/?do=search&id=%s&fulltext=Serĉo",
+  "description": "Ikso Kantaro",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

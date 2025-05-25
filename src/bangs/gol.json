@@ -1,0 +1,8 @@
+{
+  "bang": "gol",
+  "domain": "https://www.gamingonlinux.com",
+  "url": "http://www.gamingonlinux.com/index.php?module=search&q=%s",
+  "description": "GamingOnLinux",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

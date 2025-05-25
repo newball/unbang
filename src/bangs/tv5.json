@@ -1,0 +1,8 @@
+{
+  "bang": "tv5",
+  "domain": "https://www.tv5monde.com",
+  "url": "http://www.tv5monde.com/?q=%s",
+  "description": "TV5 Monde",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

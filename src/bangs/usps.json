@@ -1,0 +1,8 @@
+{
+  "bang": "usps",
+  "domain": "https://tools.usps.com",
+  "url": "https://tools.usps.com/go/TrackConfirmAction?qtc_tLabels1=%s",
+  "description": "USPS",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

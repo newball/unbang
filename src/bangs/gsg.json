@@ -1,0 +1,8 @@
+{
+  "bang": "gsg",
+  "domain": "https://www.google.com.sg",
+  "url": "http://www.google.com.sg/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google SG",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

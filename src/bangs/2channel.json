@@ -1,0 +1,8 @@
+{
+  "bang": "2channel",
+  "domain": "https://find.5ch.net",
+  "url": "http://find.5ch.net/search?q=%s",
+  "description": "5channel",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

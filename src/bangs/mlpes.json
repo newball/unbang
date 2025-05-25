@@ -1,0 +1,8 @@
+{
+  "bang": "mlpes",
+  "domain": "https://vsearch.nlm.nih.gov",
+  "url": "https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus-spanish&v%3Asources=medlineplus-spanish-bundle&query=%s",
+  "description": "Medline plus in spanish",
+  "category": "Research",
+  "sub-category": "Academic"
+}

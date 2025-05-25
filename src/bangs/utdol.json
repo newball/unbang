@@ -1,0 +1,8 @@
+{
+  "bang": "utdol",
+  "domain": "https://www.uptodate.com",
+  "url": "https://www.uptodate.com/contents/search?search=%s",
+  "description": "uptodate online",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

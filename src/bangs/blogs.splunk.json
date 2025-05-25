@@ -1,0 +1,8 @@
+{
+  "bang": "blogs.splunk",
+  "domain": "https://blogs.splunk.com",
+  "url": "http://blogs.splunk.com/?s=%s",
+  "description": "blogs.splunk.com",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

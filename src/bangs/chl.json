@@ -1,0 +1,8 @@
+{
+  "bang": "chl",
+  "domain": "https://churchhistorycatalog.lds.org",
+  "url": "http://churchhistorycatalog.lds.org/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=chl&indx=1&dum=true&srt=rank&vid=CHL_PUBLIC&frbg=&tb=t&vl%28freeText0%29=%s&scp.scps=scope%3A%28PEAD%29%2Cscope%3A%28PARCHIVES%29%2Cscope%3A%28PLIBRARY%29%2Cscope%3A%28ALEPH-PCPX%29%2Cscope%3A%28ALEPH-JHX%29%2Cscope%3A%28ALEPH-CAX%29&vl%2830857204UI1%29=all_items&vl%281UIStartWith0%29=contains&vl%2830857210UI0%29=any&vl%2830857210UI0%29=title&vl%2830857210UI0%29=any",
+  "description": "Church History Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

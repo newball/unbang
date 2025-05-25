@@ -1,0 +1,8 @@
+{
+  "bang": "appengine",
+  "domain": "https://code.google.com",
+  "url": "http://code.google.com/query/#p=appengine&q=%s",
+  "description": "App Engine Docs",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

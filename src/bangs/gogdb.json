@@ -1,0 +1,8 @@
+{
+  "bang": "gogdb",
+  "domain": "https://www.gogdb.org",
+  "url": "https://www.gogdb.org/products?search=%s",
+  "description": "GOG Database",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

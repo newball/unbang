@@ -1,0 +1,8 @@
+{
+  "bang": "begeek",
+  "domain": "https://www.begeek.fr",
+  "url": "http://www.begeek.fr/?s=%s",
+  "description": "Begeek",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

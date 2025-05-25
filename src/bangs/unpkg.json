@@ -1,0 +1,8 @@
+{
+  "bang": "unpkg",
+  "domain": "https://unpkg.com",
+  "url": "https://unpkg.com/%s",
+  "description": "unpkg",
+  "category": "Tech",
+  "sub-category": "Downloads (code)"
+}

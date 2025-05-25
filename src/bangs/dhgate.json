@@ -1,0 +1,8 @@
+{
+  "bang": "dhgate",
+  "domain": "https://www.dhgate.com",
+  "url": "http://www.dhgate.com/wholesale/search.do?act=search&supplierid=&isfactory=&sus=&searchkey=%s&catalog=#search",
+  "description": "DHGate",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

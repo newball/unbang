@@ -1,0 +1,8 @@
+{
+  "bang": "creps",
+  "domain": "https://www.consumerreports.org",
+  "url": "https://www.consumerreports.org/search/?query=%s",
+  "description": "Consumer Reports",
+  "category": "Research",
+  "sub-category": "Reference"
+}

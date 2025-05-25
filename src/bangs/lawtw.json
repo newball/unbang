@@ -1,0 +1,8 @@
+{
+  "bang": "lawtw",
+  "domain": "https://law.moj.gov.tw",
+  "url": "https://law.moj.gov.tw/Law/LawSearchResult.aspx?ty=ONEBAR&kw=%s",
+  "description": "Laws & Regulations Database of The Republic of China",
+  "category": "Research",
+  "sub-category": "Law"
+}

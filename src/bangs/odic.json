@@ -1,0 +1,8 @@
+{
+  "bang": "odic",
+  "domain": "https://en.oxforddictionaries.com",
+  "url": "https://en.oxforddictionaries.com/search?utf8=%E2%9C%93&filter=dictionary&query=%s",
+  "description": "Oxford Dictionaries",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

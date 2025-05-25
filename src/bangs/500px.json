@@ -1,0 +1,8 @@
+{
+  "bang": "500px",
+  "domain": "https://500px.com",
+  "url": "https://500px.com/search?q=%s",
+  "description": "500px",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

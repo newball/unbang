@@ -1,0 +1,8 @@
+{
+  "bang": "anidb",
+  "domain": "https://anidb.net",
+  "url": "https://anidb.net/perl-bin/animedb.pl?adb.search=%s&show=animelist&do.search=search",
+  "description": "AniDB",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

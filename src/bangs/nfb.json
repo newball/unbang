@@ -1,0 +1,8 @@
+{
+  "bang": "nfb",
+  "domain": "https://www.nfb.ca",
+  "url": "https://www.nfb.ca/search/#?queryString=%s&index=0&language=en",
+  "description": "National Film Board of Canada",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gcba",
+  "domain": "https://www.buenosaires.gob.ar",
+  "url": "http://www.buenosaires.gob.ar/bweb/search?keys=%s",
+  "description": "Gobierno de la Ciudad de Buenos Aires",
+  "category": "Research",
+  "sub-category": "Government"
+}

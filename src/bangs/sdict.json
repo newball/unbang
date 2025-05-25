@@ -1,0 +1,8 @@
+{
+  "bang": "sdict",
+  "domain": "https://www.spanishdict.com",
+  "url": "http://www.spanishdict.com/translate/%s",
+  "description": "SpanishDict",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

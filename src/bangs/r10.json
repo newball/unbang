@@ -1,0 +1,8 @@
+{
+  "bang": "r10",
+  "domain": "https://search.rakuten.co.jp",
+  "url": "https://search.rakuten.co.jp/search/mall/%s/",
+  "description": "Rakuten Ichiba",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

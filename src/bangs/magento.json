@@ -1,0 +1,8 @@
+{
+  "bang": "magento",
+  "domain": "https://magento.com",
+  "url": "https://magento.com/search/gss/%s",
+  "description": "Magento",
+  "category": "Tech",
+  "sub-category": "Languages (php)"
+}

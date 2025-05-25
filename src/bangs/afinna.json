@@ -1,0 +1,8 @@
+{
+  "bang": "afinna",
+  "domain": "https://aalto.finna.fi",
+  "url": "https://aalto.finna.fi/Search/Results?lookfor=%s",
+  "description": "aalto.finna.fi",
+  "category": "Research",
+  "sub-category": "Academic"
+}

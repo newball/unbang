@@ -1,0 +1,8 @@
+{
+  "bang": "wordweb",
+  "domain": "https://www.wordwebonline.com",
+  "url": "http://www.wordwebonline.com/search.pl?w=%s",
+  "description": "WordWeb Online",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

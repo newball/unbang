@@ -1,0 +1,8 @@
+{
+  "bang": "whoisbg",
+  "domain": "https://www.whoisbg.com",
+  "url": "http://www.whoisbg.com/?domain=%s",
+  "description": "whoisbg.com",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

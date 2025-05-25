@@ -1,0 +1,8 @@
+{
+  "bang": "ukappstore",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Aapps.apple.com%2Fgb%2Fapp%2F+%s",
+  "description": "UK Appstore",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

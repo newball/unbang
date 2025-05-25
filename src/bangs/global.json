@@ -1,0 +1,8 @@
+{
+  "bang": "global",
+  "domain": "https://www.globalresearch.ca",
+  "url": "http://www.globalresearch.ca/search?q=%s",
+  "description": "Global Research",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

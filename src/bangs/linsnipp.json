@@ -1,0 +1,8 @@
+{
+  "bang": "linsnipp",
+  "domain": "https://linuxsnippets.net",
+  "url": "http://linuxsnippets.net/en/search/node/%s",
+  "description": "Linux Snippets",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

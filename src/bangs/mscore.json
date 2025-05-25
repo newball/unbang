@@ -1,0 +1,8 @@
+{
+  "bang": "mscore",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Amusescore.org+%s&ia=web",
+  "description": "MuseScore (DuckDuckGo search)",
+  "category": "Multimedia",
+  "sub-category": "Docs"
+}

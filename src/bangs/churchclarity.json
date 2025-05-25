@@ -1,0 +1,8 @@
+{
+  "bang": "churchclarity",
+  "domain": "https://www.churchclarity.org",
+  "url": "https://www.churchclarity.org/search?query=%s",
+  "description": "Church Clarity",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ne",
+  "domain": "https://www.newegg.com",
+  "url": "http://www.newegg.com/Product/ProductList.aspx?Submit=ENE&DEPA=0&Description=%s",
+  "description": "Newegg",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "soccerwiki",
+  "domain": "https://soccerwiki.com",
+  "url": "http://soccerwiki.com/wiki.php?action=search&q=%s&searchType=players",
+  "description": "Soccer Wiki",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

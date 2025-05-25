@@ -1,0 +1,8 @@
+{
+  "bang": "ic",
+  "domain": "https://www.imperial.ac.uk",
+  "url": "https://www.imperial.ac.uk/search/?q=%s",
+  "description": "Imperial College London",
+  "category": "Research",
+  "sub-category": "Academic"
+}

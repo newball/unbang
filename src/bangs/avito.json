@@ -1,0 +1,8 @@
+{
+  "bang": "avito",
+  "domain": "https://www.avito.ru",
+  "url": "https://www.avito.ru/rossiya?q=%s",
+  "description": "Avito",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

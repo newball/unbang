@@ -1,0 +1,8 @@
+{
+  "bang": "fts",
+  "domain": "https://apollo.fintechstudios.com",
+  "url": "https://apollo.fintechstudios.com/search?searchQuery=%s",
+  "description": "FinTech Studios",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

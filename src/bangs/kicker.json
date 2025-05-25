@@ -1,0 +1,8 @@
+{
+  "bang": "kicker",
+  "domain": "https://www.kicker.de",
+  "url": "http://www.kicker.de/home/suchergebnisse.html?suchbegriff=%s",
+  "description": "kicker online",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

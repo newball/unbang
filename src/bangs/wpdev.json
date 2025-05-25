@@ -1,0 +1,8 @@
+{
+  "bang": "wpdev",
+  "domain": "https://developer.wordpress.org",
+  "url": "https://developer.wordpress.org/?s=%s",
+  "description": "WordPress Code Reference",
+  "category": "Research",
+  "sub-category": "Reference"
+}

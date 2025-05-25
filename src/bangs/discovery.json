@@ -1,0 +1,8 @@
+{
+  "bang": "discovery",
+  "domain": "https://dsc.discovery.com",
+  "url": "http://dsc.discovery.com/search.htm?terms=%s",
+  "description": "Discovery.com",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

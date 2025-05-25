@@ -1,0 +1,8 @@
+{
+  "bang": "techposts",
+  "domain": "https://techposts.org",
+  "url": "https://techposts.org/?s=%s",
+  "description": "TechPosts",
+  "category": "Tech",
+  "sub-category": "Blogs (intl)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "jobsca",
+  "domain": "https://www.indeed.ca",
+  "url": "http://www.indeed.ca/jobs?q=%s",
+  "description": "Indeed Canada",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

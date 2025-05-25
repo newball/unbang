@@ -1,0 +1,8 @@
+{
+  "bang": "sun",
+  "domain": "https://sunrise-sunset.org",
+  "url": "https://sunrise-sunset.org/search?location=%s",
+  "description": "Sunrise Sunset",
+  "category": "News",
+  "sub-category": "Weather"
+}

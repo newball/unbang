@@ -1,0 +1,8 @@
+{
+  "bang": "538",
+  "domain": "https://fivethirtyeight.com",
+  "url": "http://fivethirtyeight.com/?s=%s",
+  "description": "fivethirtyeight.com",
+  "category": "Research",
+  "sub-category": "Academic"
+}

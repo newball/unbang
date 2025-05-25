@@ -1,0 +1,8 @@
+{
+  "bang": "grabcad",
+  "domain": "https://grabcad.com",
+  "url": "http://grabcad.com/library?per_page=20&query=%s ",
+  "description": "GrabCAD",
+  "category": "Tech",
+  "sub-category": "Design"
+}

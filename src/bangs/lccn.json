@@ -1,0 +1,8 @@
+{
+  "bang": "lccn",
+  "domain": "https://lccn.loc.gov",
+  "url": "https://lccn.loc.gov/%s",
+  "description": "Library of Congress LCCN search",
+  "category": "Research",
+  "sub-category": "Reference"
+}

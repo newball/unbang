@@ -1,0 +1,8 @@
+{
+  "bang": "playright",
+  "domain": "https://www.playright.dk",
+  "url": "http://www.playright.dk/playright/soeg?_submit=1&_soeg=0&soeg=%s",
+  "description": "Play:Right",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

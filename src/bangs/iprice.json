@@ -1,0 +1,8 @@
+{
+  "bang": "iprice",
+  "domain": "https://iprice.my",
+  "url": "https://iprice.my/search/?term=%s",
+  "description": "iprice",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

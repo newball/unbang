@@ -1,0 +1,8 @@
+{
+  "bang": "ozon",
+  "domain": "https://www.ozon.ru",
+  "url": "http://www.ozon.ru/?context=search&text=%s",
+  "description": "OZON.ru",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

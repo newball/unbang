@@ -1,0 +1,8 @@
+{
+  "bang": "pso",
+  "domain": "https://www.psoriasis-netz.de",
+  "url": "https://www.psoriasis-netz.de/?s=%s",
+  "description": "Psoriasis-Netz",
+  "category": "Research",
+  "sub-category": "Health"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "audubonmag",
+  "domain": "https://www.audubonmagazine.org",
+  "url": "http://www.audubonmagazine.org/search/node?keys=%s",
+  "description": "Audubon Magazine",
+  "category": "Research",
+  "sub-category": "Topical"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bbref",
+  "domain": "https://www.baseball-reference.com",
+  "url": "https://www.baseball-reference.com/search/search.fcgi?hint=&search=%s",
+  "description": "Baseball Reference",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

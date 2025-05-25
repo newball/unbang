@@ -1,0 +1,8 @@
+{
+  "bang": "railscasts",
+  "domain": "https://railscasts.com",
+  "url": "http://railscasts.com/?search=%s",
+  "description": "RailsCasts",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "seriebox",
+  "domain": "https://www.seriebox.com",
+  "url": "http://www.seriebox.com/search.php?txt=%s &submit=OK",
+  "description": "Seriebox",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "launchpad",
+  "domain": "https://launchpad.net",
+  "url": "https://launchpad.net/+search?field.text=%s",
+  "description": "LaunchPad",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

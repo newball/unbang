@@ -1,0 +1,8 @@
+{
+  "bang": "afl",
+  "domain": "https://learn.adafruit.com",
+  "url": "https://learn.adafruit.com/search?q=%s",
+  "description": "Adafruit Learn",
+  "category": "Tech",
+  "sub-category": "Design"
+}

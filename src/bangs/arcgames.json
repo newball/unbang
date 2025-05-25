@@ -1,0 +1,8 @@
+{
+  "bang": "arcgames",
+  "domain": "https://www.arcgames.com",
+  "url": "http://www.arcgames.com/en/games/all-games/query/%s",
+  "description": "ArcGames",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

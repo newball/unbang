@@ -1,0 +1,8 @@
+{
+  "bang": "letssingit",
+  "domain": "https://search.letssingit.com",
+  "url": "https://search.letssingit.com/?s=%s&a=search&l=archive",
+  "description": "Letssingit",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "reverso",
+  "domain": "https://dictionary.reverso.net",
+  "url": "http://dictionary.reverso.net/german-english/%s ",
+  "description": "Reverso",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

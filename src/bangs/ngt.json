@@ -1,0 +1,8 @@
+{
+  "bang": "ngt",
+  "domain": "https://tracking.newgistics.com",
+  "url": "http://tracking.newgistics.com/?trackingvalue=%s",
+  "description": "Newgistics Tracking",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

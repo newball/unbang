@@ -1,0 +1,8 @@
+{
+  "bang": "animeka",
+  "domain": "https://animeka.com",
+  "url": "http://animeka.com/search/index.html?req=%s",
+  "description": "Animeka",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

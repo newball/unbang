@@ -1,0 +1,8 @@
+{
+  "bang": "technikdirekt",
+  "domain": "https://www.technikdirekt.de",
+  "url": "http://www.technikdirekt.de/search?sSearch=%s",
+  "description": "TechnikDirekt",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

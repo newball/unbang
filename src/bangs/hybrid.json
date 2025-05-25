@@ -1,0 +1,8 @@
+{
+  "bang": "hybrid",
+  "domain": "https://maps.google.com",
+  "url": "https://maps.google.com/maps?t=h&q=%s",
+  "description": "Google Map (Hybrid)",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

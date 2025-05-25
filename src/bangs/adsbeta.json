@@ -1,0 +1,8 @@
+{
+  "bang": "adsbeta",
+  "domain": "https://ui.adsabs.harvard.edu",
+  "url": "https://ui.adsabs.harvard.edu/#search/q=%s",
+  "description": "Nasa ADS Beta",
+  "category": "Research",
+  "sub-category": "Academic"
+}

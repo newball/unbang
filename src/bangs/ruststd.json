@@ -1,0 +1,8 @@
+{
+  "bang": "ruststd",
+  "domain": "https://doc.rust-lang.org",
+  "url": "http://doc.rust-lang.org/std/?search=%s",
+  "description": "Rust standard library API reference",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

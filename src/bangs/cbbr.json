@@ -1,0 +1,8 @@
+{
+  "bang": "cbbr",
+  "domain": "https://www.sports-reference.com",
+  "url": "https://www.sports-reference.com/cbb/search/search.fcgi?hint=&search=%s&pid=&idx=",
+  "description": "College Basketball Reference",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

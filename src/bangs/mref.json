@@ -1,0 +1,8 @@
+{
+  "bang": "mref",
+  "domain": "https://mathscinet.ams.org",
+  "url": "https://mathscinet.ams.org/mathscinet-mref?ref=%s",
+  "description": "ams mathscinet mref",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

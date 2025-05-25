@@ -1,0 +1,8 @@
+{
+  "bang": "heise",
+  "domain": "https://www.heise.de",
+  "url": "http://www.heise.de/suche/?q=%s&rm=search",
+  "description": "heise online",
+  "category": "Tech",
+  "sub-category": "Blogs (intl)"
+}

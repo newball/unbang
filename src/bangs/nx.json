@@ -1,0 +1,8 @@
+{
+  "bang": "nx",
+  "domain": "https://networkx.lanl.gov",
+  "url": "http://networkx.lanl.gov/search.html?q=%s&check_keywords=yes&area=default",
+  "description": "networkx",
+  "category": "Research",
+  "sub-category": "Academic"
+}

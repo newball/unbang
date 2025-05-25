@@ -1,0 +1,8 @@
+{
+  "bang": "audiobookjp",
+  "domain": "https://audiobook.jp",
+  "url": "https://audiobook.jp/search?q=%s",
+  "description": "audiobookjp",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

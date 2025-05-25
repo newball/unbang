@@ -1,0 +1,8 @@
+{
+  "bang": "unitym",
+  "domain": "https://docs.unity3d.com",
+  "url": "http://docs.unity3d.com/Manual/30_search.html?q=%s",
+  "description": "Unity Manual",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

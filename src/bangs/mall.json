@@ -1,0 +1,8 @@
+{
+  "bang": "mall",
+  "domain": "https://www.mall.cz",
+  "url": "https://www.mall.cz/hledej?s=%s",
+  "description": "Mall.cz",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

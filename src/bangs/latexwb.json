@@ -1,0 +1,8 @@
+{
+  "bang": "latexwb",
+  "domain": "https://en.wikibooks.org",
+  "url": "https://en.wikibooks.org/wiki/Search?search=%s&prefix=LaTeX",
+  "description": "LaTeX - Wikibooks",
+  "category": "Tech",
+  "sub-category": "Languages (latex)"
+}

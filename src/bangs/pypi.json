@@ -1,0 +1,8 @@
+{
+  "bang": "pypi",
+  "domain": "https://pypi.org",
+  "url": "https://pypi.org/search/?q=%s",
+  "description": "PyPI",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

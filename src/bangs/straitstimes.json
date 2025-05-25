@@ -1,0 +1,8 @@
+{
+  "bang": "straitstimes",
+  "domain": "https://www.straitstimes.com",
+  "url": "https://www.straitstimes.com/search?searchkey=%s",
+  "description": "The Straits Times",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

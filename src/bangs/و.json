@@ -1,0 +1,8 @@
+{
+  "bang": "و",
+  "domain": "https://ar.wikipedia.org",
+  "url": "https://ar.wikipedia.org/wiki/Special:Search?search=%s",
+  "description": "ويكيبيديا العربية",
+  "category": "Research",
+  "sub-category": "Learning"
+}

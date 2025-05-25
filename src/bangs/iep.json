@@ -1,0 +1,8 @@
+{
+  "bang": "iep",
+  "domain": "https://www.iep.utm.edu",
+  "url": "http://www.iep.utm.edu/%s ",
+  "description": "Internet Encyclopedia of Philosophy",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "memrise",
+  "domain": "https://www.memrise.com",
+  "url": "http://www.memrise.com/courses/english/?q=%s",
+  "description": "Memrise",
+  "category": "Research",
+  "sub-category": "Academic"
+}

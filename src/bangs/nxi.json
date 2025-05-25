@@ -1,0 +1,8 @@
+{
+  "bang": "nxi",
+  "domain": "https://www.nextinpact.com",
+  "url": "http://www.nextinpact.com/recherche?_search=%s",
+  "description": "Next INpact",
+  "category": "News",
+  "sub-category": "Magazine"
+}

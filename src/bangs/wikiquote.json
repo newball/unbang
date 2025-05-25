@@ -1,0 +1,8 @@
+{
+  "bang": "wikiquote",
+  "domain": "https://en.wikiquote.org",
+  "url": "https://en.wikiquote.org/w/index.php?search=%s",
+  "description": "Wikiquote",
+  "category": "Multimedia",
+  "sub-category": "Docs"
+}

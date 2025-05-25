@@ -1,0 +1,8 @@
+{
+  "bang": "clanky",
+  "domain": "https://clanky.seznam.cz",
+  "url": "https://clanky.seznam.cz/?q=%s",
+  "description": "Seznam Články",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

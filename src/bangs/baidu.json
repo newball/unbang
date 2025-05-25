@@ -1,0 +1,8 @@
+{
+  "bang": "baidu",
+  "domain": "https://www.baidu.com",
+  "url": "http://www.baidu.com/s?wd=%s&cl=3",
+  "description": "Baidu",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

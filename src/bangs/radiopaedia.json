@@ -1,0 +1,8 @@
+{
+  "bang": "radiopaedia",
+  "domain": "https://radiopaedia.org",
+  "url": "http://radiopaedia.org/search?q=%s",
+  "description": "Radiopaedia.org",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

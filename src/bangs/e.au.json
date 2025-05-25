@@ -1,0 +1,8 @@
+{
+  "bang": "e.au",
+  "domain": "https://www.ebay.com.au",
+  "url": "https://www.ebay.com.au/sch/?_nkw=%s&_sacat=0",
+  "description": "Ebay Australia",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

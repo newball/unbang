@@ -1,0 +1,8 @@
+{
+  "bang": "ancestry",
+  "domain": "https://www.ancestry.com",
+  "url": "https://www.ancestry.com/search/?keyword=%s",
+  "description": "Ancestry",
+  "category": "Research",
+  "sub-category": "Topical"
+}

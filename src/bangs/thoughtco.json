@@ -1,0 +1,8 @@
+{
+  "bang": "thoughtco",
+  "domain": "https://www.thoughtco.com",
+  "url": "https://www.thoughtco.com/search?q=%s",
+  "description": "ThoughtCo",
+  "category": "Research",
+  "sub-category": "Learning"
+}

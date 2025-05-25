@@ -1,0 +1,8 @@
+{
+  "bang": "sciencedaily",
+  "domain": "https://www.sciencedaily.com",
+  "url": "http://www.sciencedaily.com/search/?keyword=%s ",
+  "description": "Sciencedaily",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

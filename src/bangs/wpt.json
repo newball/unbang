@@ -1,0 +1,8 @@
+{
+  "bang": "wpt",
+  "domain": "https://pt.wikipedia.org",
+  "url": "http://pt.wikipedia.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikipedia (PT)",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "astrobin",
+  "domain": "https://www.astrobin.com",
+  "url": "http://www.astrobin.com/search/?q=%s&search_type=1&solar_system_main_subject=&telescope_type=any&camera_type=any&aperture_min=&aperture_max=&pixel_size_min=&pixel_size_max=&start_date=&end_date=&integration_min=&integration_max=&moon_phase_min=&moon_phase_max=",
+  "description": "AstroBin",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wrende",
+  "domain": "https://www.wordreference.com",
+  "url": "http://www.wordreference.com/ende/%s",
+  "description": "WordReference en->de",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

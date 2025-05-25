@@ -1,0 +1,8 @@
+{
+  "bang": "isl",
+  "domain": "https://islamansiklopedisi.org.tr",
+  "url": "https://islamansiklopedisi.org.tr/arama/?q=%s&p=m",
+  "description": "İslam Ansiklopedisi",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

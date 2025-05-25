@@ -1,0 +1,8 @@
+{
+  "bang": "perrypedia",
+  "domain": "https://www.perrypedia.proc.org",
+  "url": "http://www.perrypedia.proc.org/mediawiki/index.php?search=%s",
+  "description": "Perrypedia",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

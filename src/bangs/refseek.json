@@ -1,0 +1,8 @@
+{
+  "bang": "refseek",
+  "domain": "https://www.refseek.com",
+  "url": "https://www.refseek.com/search?q=%s",
+  "description": "RefSeek",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "marine",
+  "domain": "https://www.marinetraffic.com",
+  "url": "http://www.marinetraffic.com/en/ais/index/search/all/keyword:%s",
+  "description": "MarineTraffic",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

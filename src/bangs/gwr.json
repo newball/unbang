@@ -1,0 +1,8 @@
+{
+  "bang": "gwr",
+  "domain": "https://www.guinnessworldrecords.com",
+  "url": "http://www.guinnessworldrecords.com/search?term=%s",
+  "description": "Guinness World Records",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ttt",
+  "domain": "https://techterms.com",
+  "url": "https://techterms.com/search?query=%s",
+  "description": "The Tech Terms",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ticketmasteruk",
+  "domain": "https://www.ticketmaster.co.uk",
+  "url": "http://www.ticketmaster.co.uk/search?tm_link=tm_homeA_header_search&user_input=test&q=%s",
+  "description": "Ticketmaster UK",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

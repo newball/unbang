@@ -1,0 +1,8 @@
+{
+  "bang": "gphelp",
+  "domain": "https://help.gamepedia.com",
+  "url": "https://help.gamepedia.com/index.php?search=%s",
+  "description": "Gamepedia Help Wiki",
+  "category": "Tech",
+  "sub-category": "Design"
+}

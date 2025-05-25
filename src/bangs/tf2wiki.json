@@ -1,0 +1,8 @@
+{
+  "bang": "tf2wiki",
+  "domain": "https://wiki.teamfortress.com",
+  "url": "http://wiki.teamfortress.com/w/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "Team Fortress Official Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

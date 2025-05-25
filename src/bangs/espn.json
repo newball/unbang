@@ -1,0 +1,8 @@
+{
+  "bang": "espn",
+  "domain": "https://www.espn.com",
+  "url": "http://www.espn.com/search/results?q=%s",
+  "description": "ESPN.com",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

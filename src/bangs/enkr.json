@@ -1,0 +1,8 @@
+{
+  "bang": "enkr",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#en/ko/%s",
+  "description": "Google Translate English-Korean",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

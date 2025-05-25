@@ -1,0 +1,8 @@
+{
+  "bang": "paper",
+  "domain": "https://paperity.org",
+  "url": "https://paperity.org/search/?q=%s",
+  "description": "Paperity - first open science aggregator",
+  "category": "Research",
+  "sub-category": "Academic"
+}

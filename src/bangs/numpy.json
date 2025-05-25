@@ -1,0 +1,8 @@
+{
+  "bang": "numpy",
+  "domain": "https://docs.scipy.org",
+  "url": "http://docs.scipy.org/doc/numpy/search.html?q=%s&check_keywords=yes&area=default",
+  "description": "numpy",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

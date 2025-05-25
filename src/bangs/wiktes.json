@@ -1,0 +1,8 @@
+{
+  "bang": "wiktes",
+  "domain": "https://es.wiktionary.org",
+  "url": "https://es.wiktionary.org/w/index.php?search=%s",
+  "description": "Wikcionario",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

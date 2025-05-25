@@ -1,0 +1,8 @@
+{
+  "bang": "films",
+  "domain": "https://www.filmsarecool.com",
+  "url": "http://www.filmsarecool.com/#search=%s ",
+  "description": "FilmsAreCool",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

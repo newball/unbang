@@ -1,0 +1,8 @@
+{
+  "bang": "idolmawiki",
+  "domain": "https://idolmaster.wikia.com",
+  "url": "http://idolmaster.wikia.com/wiki/Special:Search?search=%s&fulltext=Search",
+  "description": "THE IDOLM@STER Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

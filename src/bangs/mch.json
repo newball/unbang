@@ -1,0 +1,8 @@
+{
+  "bang": "mch",
+  "domain": "https://map.geo.admin.ch",
+  "url": "http://map.geo.admin.ch/?swisssearch=%s",
+  "description": "Karten der Schweiz",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

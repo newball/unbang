@@ -1,0 +1,8 @@
+{
+  "bang": "popsike",
+  "domain": "https://www.popsike.com",
+  "url": "http://www.popsike.com/php/quicksearch.php?searchtext=%s",
+  "description": "Popsike",
+  "category": "Entertainment",
+  "sub-category": "Music"
+}

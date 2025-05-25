@@ -1,0 +1,8 @@
+{
+  "bang": "gtmr",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/mr/%s",
+  "description": "Detect language to Marathi",
+  "category": "Translation",
+  "sub-category": "Google"
+}

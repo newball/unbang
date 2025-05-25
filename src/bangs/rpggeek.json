@@ -1,0 +1,8 @@
+{
+  "bang": "rpggeek",
+  "domain": "https://rpggeek.com",
+  "url": "http://rpggeek.com/geeksearch.php?action=search&objecttype=rpgunified&q=%s&B1=Go",
+  "description": "RPGGeek",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

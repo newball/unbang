@@ -1,0 +1,8 @@
+{
+  "bang": "dwds",
+  "domain": "https://www.dwds.de",
+  "url": "http://www.dwds.de/?qu=%s",
+  "description": "DWDS",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

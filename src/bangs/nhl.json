@@ -1,0 +1,8 @@
+{
+  "bang": "nhl",
+  "domain": "https://www.nhl.com",
+  "url": "http://www.nhl.com/ice/search.htm?tab=news&q=%s&x=0&y=0",
+  "description": "NHL.com",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

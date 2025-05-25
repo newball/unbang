@@ -1,0 +1,8 @@
+{
+  "bang": "cconst",
+  "domain": "https://recherche.conseil-constitutionnel.fr",
+  "url": "http://recherche.conseil-constitutionnel.fr/?q=%s",
+  "description": "Conseil Constitutionnel",
+  "category": "Research",
+  "sub-category": "Law"
+}

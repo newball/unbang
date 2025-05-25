@@ -1,0 +1,8 @@
+{
+  "bang": "love",
+  "domain": "https://love2d.org",
+  "url": "http://love2d.org/w/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "LÖVE",
+  "category": "Tech",
+  "sub-category": "Languages (lua)"
+}

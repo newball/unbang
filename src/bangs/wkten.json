@@ -1,0 +1,8 @@
+{
+  "bang": "wkten",
+  "domain": "https://en.wiktionary.org",
+  "url": "https://en.wiktionary.org/wiki/%s",
+  "description": "Wiktionary English",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

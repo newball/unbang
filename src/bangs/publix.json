@@ -1,0 +1,8 @@
+{
+  "bang": "publix",
+  "domain": "https://www.publix.com",
+  "url": "http://www.publix.com/search?query=%s",
+  "description": "Publix",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

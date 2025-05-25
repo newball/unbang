@@ -1,0 +1,8 @@
+{
+  "bang": "pjm",
+  "domain": "https://pjmedia.com",
+  "url": "https://pjmedia.com/search/?s=%s ",
+  "description": "PJ Media",
+  "category": "News",
+  "sub-category": "Specialty"
+}

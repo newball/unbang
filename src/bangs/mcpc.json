@@ -1,0 +1,8 @@
+{
+  "bang": "mcpc",
+  "domain": "https://minecraft-computer.wikia.com",
+  "url": "http://minecraft-computer.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Minecraft PC Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (Minecraft)"
+}

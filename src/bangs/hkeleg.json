@@ -1,0 +1,8 @@
+{
+  "bang": "hkeleg",
+  "domain": "https://www.elegislation.gov.hk",
+  "url": "https://www.elegislation.gov.hk/results?SEARCH_OPTION=K&keyword.SEARCH_FIELD=E&keyword.SEARCH_KEYWORD=%s",
+  "description": "Hong Kong e-Legislation",
+  "category": "Research",
+  "sub-category": "Law"
+}

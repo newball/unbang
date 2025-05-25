@@ -1,0 +1,8 @@
+{
+  "bang": "zetax",
+  "domain": "https://zetax.net",
+  "url": "http://zetax.net/search/?q=%s",
+  "description": "Zetax.net",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

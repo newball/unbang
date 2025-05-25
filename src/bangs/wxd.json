@@ -1,0 +1,8 @@
+{
+  "bang": "wxd",
+  "domain": "https://synonyme.woxikon.de",
+  "url": "http://synonyme.woxikon.de/synonyme/%s.php",
+  "description": "Woxikon.de",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

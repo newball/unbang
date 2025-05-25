@@ -1,0 +1,8 @@
+{
+  "bang": "libreflix",
+  "domain": "https://www.libreflix.org",
+  "url": "https://www.libreflix.org/busca/%s",
+  "description": "Libreflix",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

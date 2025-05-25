@@ -1,0 +1,8 @@
+{
+  "bang": "deic",
+  "domain": "https://sok.deichman.no",
+  "url": "https://sok.deichman.no/search?query=%s",
+  "description": "Deichmanske Biblotek",
+  "category": "Research",
+  "sub-category": "Academic"
+}

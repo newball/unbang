@@ -1,0 +1,8 @@
+{
+  "bang": "gtsk",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/sk/%s",
+  "description": "Detect language to Slovak",
+  "category": "Translation",
+  "sub-category": "Google"
+}

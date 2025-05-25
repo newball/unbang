@@ -1,0 +1,8 @@
+{
+  "bang": "scratchforums",
+  "domain": "https://scratchforums.asun.co",
+  "url": "https://scratchforums.asun.co/search?q=%s",
+  "description": "Scratch Forums Search",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

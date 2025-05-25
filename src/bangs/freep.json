@@ -1,0 +1,8 @@
+{
+  "bang": "freep",
+  "domain": "https://www.freerepublic.com",
+  "url": "https://www.freerepublic.com/tag/%s/index?tab=articles",
+  "description": "Freerepublic",
+  "category": "News",
+  "sub-category": "Specialty"
+}

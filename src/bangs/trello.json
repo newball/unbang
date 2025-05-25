@@ -1,0 +1,8 @@
+{
+  "bang": "trello",
+  "domain": "https://trello.com",
+  "url": "https://trello.com/search?q=%s",
+  "description": "Trello",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

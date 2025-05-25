@@ -1,0 +1,8 @@
+{
+  "bang": "bacon",
+  "domain": "https://oracleofbacon.org",
+  "url": "http://oracleofbacon.org/cgi-bin/movielinks?a=Kevin+Bacon&b=%s",
+  "description": "Oracle of Bacon",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

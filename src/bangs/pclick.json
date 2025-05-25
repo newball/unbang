@@ -1,0 +1,8 @@
+{
+  "bang": "pclick",
+  "domain": "https://picclick.co.uk",
+  "url": "https://picclick.co.uk/?q=%s",
+  "description": "PicClick UK",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

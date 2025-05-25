@@ -1,0 +1,8 @@
+{
+  "bang": "dmw",
+  "domain": "https://www.merriam-webster.com",
+  "url": "https://www.merriam-webster.com/dictionary/%s",
+  "description": "Merriam-Webster Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

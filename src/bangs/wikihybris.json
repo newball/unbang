@@ -1,0 +1,8 @@
+{
+  "bang": "wikihybris",
+  "domain": "https://wiki.hybris.com",
+  "url": "https://wiki.hybris.com/dosearchsite.action?queryString=%s",
+  "description": "Hybris Wiki",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

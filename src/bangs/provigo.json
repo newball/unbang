@@ -1,0 +1,8 @@
+{
+  "bang": "provigo",
+  "domain": "https://www.provigo.ca",
+  "url": "https://www.provigo.ca/search/?search-bar=%s",
+  "description": "Provigo Grocery Store",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

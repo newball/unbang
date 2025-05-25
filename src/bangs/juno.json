@@ -1,0 +1,8 @@
+{
+  "bang": "juno",
+  "domain": "https://www.juno.co.uk",
+  "url": "https://www.juno.co.uk/search/?q[all][]=%s",
+  "description": "juno.co.uk",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

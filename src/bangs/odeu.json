@@ -1,0 +1,8 @@
+{
+  "bang": "odeu",
+  "domain": "https://data.europa.eu",
+  "url": "https://data.europa.eu/euodp/en/data/dataset?q=%s",
+  "description": "European Open Data Portal",
+  "category": "Research",
+  "sub-category": "Government"
+}

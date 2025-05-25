@@ -1,0 +1,8 @@
+{
+  "bang": "qw",
+  "domain": "https://www.qwant.com",
+  "url": "http://www.qwant.com/?q=%s",
+  "description": "Qwant",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

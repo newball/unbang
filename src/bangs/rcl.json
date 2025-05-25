@@ -1,0 +1,8 @@
+{
+  "bang": "rcl",
+  "domain": "https://raleigh.craigslist.org",
+  "url": "https://raleigh.craigslist.org/search/?query=%s",
+  "description": "Craigslist - Raleigh, NC",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

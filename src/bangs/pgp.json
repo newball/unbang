@@ -1,0 +1,8 @@
+{
+  "bang": "pgp",
+  "domain": "https://pgp.mit.edu",
+  "url": "https://pgp.mit.edu/pks/lookup?search=%s",
+  "description": "MIT PGP public key server lookup",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

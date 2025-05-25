@@ -1,0 +1,8 @@
+{
+  "bang": "delflt",
+  "domain": "https://www.delfi.lt",
+  "url": "http://www.delfi.lt/paieska/?q=%s",
+  "description": "Delfi.lt",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

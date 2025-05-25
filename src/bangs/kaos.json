@@ -1,0 +1,8 @@
+{
+  "bang": "kaos",
+  "domain": "https://forum.kaosx.us",
+  "url": "https://forum.kaosx.us/?q=%s",
+  "description": "KaOS website search",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

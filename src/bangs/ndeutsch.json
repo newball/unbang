@@ -1,0 +1,8 @@
+{
+  "bang": "ndeutsch",
+  "domain": "https://www.neues-deutschland.de",
+  "url": "https://www.neues-deutschland.de/suche/index.php?and=%s&s0_d=00&s0_m=00&s0_y=0000&s1_d=00&s1_m=00&s1_y=0000&modus=2&sort=1&searchfields%5B%5D=0&searchfields%5B%5D=1&searchfields%5B%5D=2&searchfields%5B%5D=3&searchfields%5B%5D=4&display=1&search=Suchen",
+  "description": "Neues Deutschland",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

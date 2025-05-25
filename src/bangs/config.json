@@ -1,0 +1,8 @@
+{
+  "bang": "config",
+  "domain": "https://config.lk",
+  "url": "https://config.lk/?s=%s",
+  "description": "Config",
+  "category": "Tech",
+  "sub-category": "Blogs (intl)"
+}

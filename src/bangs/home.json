@@ -1,0 +1,8 @@
+{
+  "bang": "home",
+  "domain": "https://www.homeadvisor.com",
+  "url": "http://www.homeadvisor.com/sitesearch/searchQuery?action=SEARCH&searchType=SiteTaskSearch&useExtSearch=false&initialSearch=true&query=%s",
+  "description": "Home Advisor",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

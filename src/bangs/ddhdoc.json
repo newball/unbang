@@ -1,0 +1,8 @@
+{
+  "bang": "ddhdoc",
+  "domain": "https://docs.duckduckhack.com",
+  "url": "http://docs.duckduckhack.com/?q=%s",
+  "description": "DuckDuckHack Docs",
+  "category": "Online Services",
+  "sub-category": "Search (DDG)"
+}

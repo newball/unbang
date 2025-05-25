@@ -1,0 +1,8 @@
+{
+  "bang": "deno",
+  "domain": "https://deno.dict.cc",
+  "url": "https://deno.dict.cc/?s=%s",
+  "description": "dict.cc",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

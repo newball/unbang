@@ -1,0 +1,8 @@
+{
+  "bang": "npr",
+  "domain": "https://www.npr.org",
+  "url": "http://www.npr.org/search/index.php?query=%s",
+  "description": "NPR.org",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

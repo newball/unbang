@@ -1,0 +1,8 @@
+{
+  "bang": "rbugs",
+  "domain": "https://bugzilla.redhat.com",
+  "url": "https://bugzilla.redhat.com/buglist.cgi?quicksearch=%s",
+  "description": "Redhat Bugzilla",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

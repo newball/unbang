@@ -1,0 +1,8 @@
+{
+  "bang": "türen",
+  "domain": "https://tuerenmarkt24.de",
+  "url": "https://tuerenmarkt24.de/suche?controller=search&orderby=position&orderway=desc&search_query=deur%s",
+  "description": "tuerenmarkt24",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

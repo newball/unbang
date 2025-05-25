@@ -1,0 +1,8 @@
+{
+  "bang": "ncl",
+  "domain": "https://www.nclive.org",
+  "url": "https://www.nclive.org/search-everything?search=%s",
+  "description": "NC Live",
+  "category": "Research",
+  "sub-category": "Academic"
+}

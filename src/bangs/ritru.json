@@ -1,0 +1,8 @@
+{
+  "bang": "ritru",
+  "domain": "https://context.reverso.net",
+  "url": "https://context.reverso.net/translation/italian-russian/%s",
+  "description": "Reverso Context",
+  "category": "Translation",
+  "sub-category": "General"
+}

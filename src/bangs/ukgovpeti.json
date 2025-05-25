@@ -1,0 +1,8 @@
+{
+  "bang": "ukgovpeti",
+  "domain": "https://petition.parliament.uk",
+  "url": "https://petition.parliament.uk/petitions?q=%s",
+  "description": "Petitions UK Government and Parliament",
+  "category": "Research",
+  "sub-category": "Government"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "yfp",
+  "domain": "https://finance.yahoo.com",
+  "url": "http://finance.yahoo.com/q/pr?s=%s+Profile",
+  "description": "Yahoo Finance (Company Profile)",
+  "category": "News",
+  "sub-category": "Business"
+}

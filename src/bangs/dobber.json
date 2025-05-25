@@ -1,0 +1,8 @@
+{
+  "bang": "dobber",
+  "domain": "https://dobberhockey.com",
+  "url": "https://dobberhockey.com/?s=%s&orderby=post_date",
+  "description": "DobberHockey",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

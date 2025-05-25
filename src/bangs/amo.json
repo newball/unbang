@@ -1,0 +1,8 @@
+{
+  "bang": "amo",
+  "domain": "https://addons.mozilla.org",
+  "url": "https://addons.mozilla.org/firefox/search/?q=%s&cat=all",
+  "description": "Firefox Add-ons",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

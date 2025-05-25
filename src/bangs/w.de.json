@@ -1,0 +1,8 @@
+{
+  "bang": "w.de",
+  "domain": "https://de.wikipedia.org",
+  "url": "https://de.wikipedia.org/w/index.php?search=%s",
+  "description": "Wikipedia DE",
+  "category": "Research",
+  "sub-category": "Learning"
+}

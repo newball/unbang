@@ -1,0 +1,8 @@
+{
+  "bang": "kirby",
+  "domain": "https://getkirby.com",
+  "url": "https://getkirby.com/search?q=%s",
+  "description": "Kirby",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "mariadb",
+  "domain": "https://mariadb.com",
+  "url": "https://mariadb.com/kb/en/+search/?q=%s",
+  "description": "Mariadb",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

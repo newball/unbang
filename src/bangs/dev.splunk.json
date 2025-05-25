@@ -1,0 +1,8 @@
+{
+  "bang": "dev.splunk",
+  "domain": "https://dev.splunk.com",
+  "url": "http://dev.splunk.com/search/dev?q=%s",
+  "description": "dev.splunk.com",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

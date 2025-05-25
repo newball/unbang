@@ -1,0 +1,8 @@
+{
+  "bang": "ytn",
+  "domain": "https://youtubenews.de",
+  "url": "https://youtubenews.de/?s=%s",
+  "description": "YouTube News DE",
+  "category": "News",
+  "sub-category": "Magazine"
+}

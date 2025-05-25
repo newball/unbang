@@ -1,0 +1,8 @@
+{
+  "bang": "acl",
+  "domain": "https://www.aclweb.org",
+  "url": "https://www.aclweb.org/anthology/search/?q=%s",
+  "description": "ACL Anthology",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

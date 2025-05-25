@@ -1,0 +1,8 @@
+{
+  "bang": "dlang",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Adlang.org+%s",
+  "description": "D Programming Language",
+  "category": "Tech",
+  "sub-category": "Languages (d)"
+}

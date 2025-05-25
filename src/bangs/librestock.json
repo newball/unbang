@@ -1,0 +1,8 @@
+{
+  "bang": "librestock",
+  "domain": "https://librestock.com",
+  "url": "http://librestock.com/search/?query=%s",
+  "description": "Librestock",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

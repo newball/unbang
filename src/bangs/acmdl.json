@@ -1,0 +1,8 @@
+{
+  "bang": "acmdl",
+  "domain": "https://dl.acm.org",
+  "url": "https://dl.acm.org/results.cfm?query=%s",
+  "description": "ACM Digital Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

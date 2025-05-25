@@ -1,0 +1,8 @@
+{
+  "bang": "denl",
+  "domain": "https://denl.dict.cc",
+  "url": "http://denl.dict.cc/?s=%s",
+  "description": "Dict.cc Deutsch-Niederländisch",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

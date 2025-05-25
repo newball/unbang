@@ -1,0 +1,8 @@
+{
+  "bang": "sbg",
+  "domain": "https://bibleforums.org",
+  "url": "http://bibleforums.org/search.php?s=%s ",
+  "description": "bibleforums",
+  "category": "Research",
+  "sub-category": "Learning"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "frequencycheck",
+  "domain": "https://www.frequencycheck.com",
+  "url": "https://www.frequencycheck.com/search?s=%s",
+  "description": "FrequencyCheck",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

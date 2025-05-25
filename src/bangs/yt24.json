@@ -1,0 +1,8 @@
+{
+  "bang": "yt24",
+  "domain": "https://www.youtube.com",
+  "url": "https://www.youtube.com/results?q=%s&sp=EgIIAg%253D%253D",
+  "description": "Youtube",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

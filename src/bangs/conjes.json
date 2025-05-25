@@ -1,0 +1,8 @@
+{
+  "bang": "conjes",
+  "domain": "https://www.spanishdict.com",
+  "url": "http://www.spanishdict.com/conjugate/%s",
+  "description": "SpanishDict - Conjugate",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

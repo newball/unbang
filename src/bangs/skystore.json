@@ -1,0 +1,8 @@
+{
+  "bang": "skystore",
+  "domain": "https://www.skystore.com",
+  "url": "https://www.skystore.com/search?q=%s",
+  "description": "Sky Store",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

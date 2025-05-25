@@ -1,0 +1,8 @@
+{
+  "bang": "kodi",
+  "domain": "https://kodi.wiki",
+  "url": "http://kodi.wiki/index.php?search=%s&title=Special%3ASearch",
+  "description": "Kodi Wiki",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

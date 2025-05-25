@@ -1,0 +1,8 @@
+{
+  "bang": "toramp",
+  "domain": "https://www.toramp.com",
+  "url": "http://www.toramp.com/search.php?search=%s",
+  "description": "toramp.com",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

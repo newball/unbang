@@ -1,0 +1,8 @@
+{
+  "bang": "foyles",
+  "domain": "https://www.foyles.co.uk",
+  "url": "http://www.foyles.co.uk/qsearch/All/All?term=%s",
+  "description": "Foyles",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

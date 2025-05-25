@@ -1,0 +1,8 @@
+{
+  "bang": "autozone",
+  "domain": "https://www.autozone.com",
+  "url": "http://www.autozone.com/searchresult?searchText=%s",
+  "description": "AutoZone",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

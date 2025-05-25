@@ -1,0 +1,8 @@
+{
+  "bang": "dartpub",
+  "domain": "https://pub.dartlang.org",
+  "url": "https://pub.dartlang.org/packages?q=%s",
+  "description": "Dart Packages",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

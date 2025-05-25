@@ -1,0 +1,8 @@
+{
+  "bang": "systembolaget",
+  "domain": "https://www.systembolaget.se",
+  "url": "http://www.systembolaget.se/?searchquery=%s",
+  "description": "Systembolaget",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

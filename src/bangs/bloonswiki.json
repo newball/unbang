@@ -1,0 +1,8 @@
+{
+  "bang": "bloonswiki",
+  "domain": "https://bloons.wikia.com",
+  "url": "http://bloons.wikia.com/search?query=%s",
+  "description": "Bloons Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

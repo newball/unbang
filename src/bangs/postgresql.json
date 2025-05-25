@@ -1,0 +1,8 @@
+{
+  "bang": "postgresql",
+  "domain": "https://www.postgresql.org",
+  "url": "http://www.postgresql.org/search?q=%s&a=1&submit=Search",
+  "description": "PostgreSQL.org",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

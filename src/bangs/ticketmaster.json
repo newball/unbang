@@ -1,0 +1,8 @@
+{
+  "bang": "ticketmaster",
+  "domain": "https://www.ticketmaster.com",
+  "url": "https://www.ticketmaster.com/search?q=%s",
+  "description": "Ticket Master",
+  "category": "Online Services",
+  "sub-category": "Events"
+}

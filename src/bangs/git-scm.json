@@ -1,0 +1,8 @@
+{
+  "bang": "git-scm",
+  "domain": "https://git-scm.com",
+  "url": "http://git-scm.com/search/results?search=%s",
+  "description": "Git",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

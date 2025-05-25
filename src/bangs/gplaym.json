@@ -1,0 +1,8 @@
+{
+  "bang": "gplaym",
+  "domain": "https://play.google.com",
+  "url": "https://play.google.com/store/search?q=%s&c=music",
+  "description": "Google Play Music",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

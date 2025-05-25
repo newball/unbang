@@ -1,0 +1,8 @@
+{
+  "bang": "salix",
+  "domain": "https://www.salixos.org",
+  "url": "http://www.salixos.org/wiki/index.php/Special:Search?search=%s",
+  "description": "SalixOS",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

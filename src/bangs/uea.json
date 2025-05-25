@@ -1,0 +1,8 @@
+{
+  "bang": "uea",
+  "domain": "https://answers.unrealengine.com",
+  "url": "https://answers.unrealengine.com/search.html?q=%s",
+  "description": "Unreal Engine 4 Answerhub",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

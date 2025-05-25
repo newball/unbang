@@ -1,0 +1,8 @@
+{
+  "bang": "futurama",
+  "domain": "https://www.theinfosphere.org",
+  "url": "http://www.theinfosphere.org/index.php?search=%s",
+  "description": "The Infosphere",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

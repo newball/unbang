@@ -1,0 +1,8 @@
+{
+  "bang": "flickchart",
+  "domain": "https://www.flickchart.com",
+  "url": "http://www.flickchart.com/SearchResults.aspx?s=%s",
+  "description": "Flickchart",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

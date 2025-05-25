@@ -1,0 +1,8 @@
+{
+  "bang": "ego",
+  "domain": "https://extensions.gnome.org",
+  "url": "https://extensions.gnome.org/#search=%s",
+  "description": "Gnome Extensions",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

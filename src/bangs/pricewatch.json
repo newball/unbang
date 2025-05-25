@@ -1,0 +1,8 @@
+{
+  "bang": "pricewatch",
+  "domain": "https://tweakers.net",
+  "url": "http://tweakers.net/pricewatch/zoeken/?keyword=%s",
+  "description": "Tweakers Pricewatch",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "nvu",
+  "domain": "https://www.novelupdates.com",
+  "url": "http://www.novelupdates.com/?s=%s&post_type=seriesplans",
+  "description": "Novel Updates",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

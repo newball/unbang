@@ -1,0 +1,8 @@
+{
+  "bang": "phy",
+  "domain": "https://www.physicsclassroom.com",
+  "url": "https://www.physicsclassroom.com/?q=%s",
+  "description": "Physics Classroom",
+  "category": "Research",
+  "sub-category": "Academic"
+}

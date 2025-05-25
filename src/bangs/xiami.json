@@ -1,0 +1,8 @@
+{
+  "bang": "xiami",
+  "domain": "https://www.xiami.com",
+  "url": "http://www.xiami.com/search?key=%s",
+  "description": "Xiami",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

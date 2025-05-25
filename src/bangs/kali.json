@@ -1,0 +1,8 @@
+{
+  "bang": "kali",
+  "domain": "https://www.kali.org",
+  "url": "https://www.kali.org/?s=%s",
+  "description": "kali linux",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

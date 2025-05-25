@@ -1,0 +1,8 @@
+{
+  "bang": "joemonster",
+  "domain": "https://joemonster.org",
+  "url": "http://joemonster.org/search.php?q=%s",
+  "description": "Joe Monster",
+  "category": "Entertainment",
+  "sub-category": "Blogs"
+}

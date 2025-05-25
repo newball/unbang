@@ -1,0 +1,8 @@
+{
+  "bang": "fs",
+  "domain": "https://factualsearch.news",
+  "url": "https://factualsearch.news/#/&gsc.q=%s ",
+  "description": "Factual News Search",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

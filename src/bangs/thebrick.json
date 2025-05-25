@@ -1,0 +1,8 @@
+{
+  "bang": "thebrick",
+  "domain": "https://www.thebrick.com",
+  "url": "https://www.thebrick.com/pages/search-results?limit=48&q=%s",
+  "description": "The Brick",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

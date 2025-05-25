@@ -1,0 +1,8 @@
+{
+  "bang": "h2o",
+  "domain": "https://www.h2olimpo.com",
+  "url": "http://www.h2olimpo.com/buscar?controller=search&orderby=position&orderway=desc&search_query=%s&submit_search=",
+  "description": "H2Olimpo",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

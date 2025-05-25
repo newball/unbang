@@ -1,0 +1,8 @@
+{
+  "bang": "trash",
+  "domain": "https://www.trashmail.de",
+  "url": "http://www.trashmail.de/?search=%s",
+  "description": "Trashmail",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

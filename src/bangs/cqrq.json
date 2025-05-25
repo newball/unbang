@@ -1,0 +1,8 @@
+{
+  "bang": "cqrq",
+  "domain": "https://www.rollcall.com",
+  "url": "https://www.rollcall.com/page/search?keyword=%s&advanced=false&sort=relevance",
+  "description": "CQ Roll Call",
+  "category": "News",
+  "sub-category": "Specialty"
+}

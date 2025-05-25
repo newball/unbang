@@ -1,0 +1,8 @@
+{
+  "bang": "gdmaps",
+  "domain": "https://ditu.amap.com",
+  "url": "https://ditu.amap.com/search?query=%s",
+  "description": "高德地图",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

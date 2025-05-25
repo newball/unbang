@@ -1,0 +1,8 @@
+{
+  "bang": "hpwiki",
+  "domain": "https://harrypotter.wikia.com",
+  "url": "http://harrypotter.wikia.com/wiki/Special:Search?search=%s&fulltext=Search",
+  "description": "Harry Potter Wikia",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

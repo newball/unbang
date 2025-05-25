@@ -1,0 +1,8 @@
+{
+  "bang": "gutenberg",
+  "domain": "https://www.gutenberg.org",
+  "url": "http://www.gutenberg.org/ebooks/search/?query=%s",
+  "description": "Project Gutenberg",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

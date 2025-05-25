@@ -1,0 +1,8 @@
+{
+  "bang": "package",
+  "domain": "https://www.packagemapping.com",
+  "url": "http://www.packagemapping.com/?action=track&tracknum=%s",
+  "description": "PackageMapping",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

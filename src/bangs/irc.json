@@ -1,0 +1,8 @@
+{
+  "bang": "irc",
+  "domain": "https://irc.netsplit.de",
+  "url": "http://irc.netsplit.de/channels/?chat=%s",
+  "description": "irc.netsplit.de",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

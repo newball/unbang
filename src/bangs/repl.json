@@ -1,0 +1,8 @@
+{
+  "bang": "repl",
+  "domain": "https://repl.it",
+  "url": "https://repl.it/languages/%s",
+  "description": "repl.it",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "tageswoche",
+  "domain": "https://www.tageswoche.ch",
+  "url": "https://www.tageswoche.ch/search/?q=%s",
+  "description": "Tageswoche",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

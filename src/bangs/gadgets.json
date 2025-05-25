@@ -1,0 +1,8 @@
+{
+  "bang": "gadgets",
+  "domain": "https://gdgts.de",
+  "url": "http://gdgts.de/?s=%s",
+  "description": "Gdgts",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

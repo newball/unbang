@@ -1,0 +1,8 @@
+{
+  "bang": "tvdbfr",
+  "domain": "https://www.thetvdb.com",
+  "url": "https://www.thetvdb.com/search?q=%s&l=fr",
+  "description": "TheTVDB",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

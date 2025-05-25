@@ -1,0 +1,8 @@
+{
+  "bang": "eclair",
+  "domain": "https://eclair.md",
+  "url": "http://eclair.md/search?type=product&q=%s",
+  "description": "Eclair.md",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "macvendor",
+  "domain": "https://www.macvendorlookup.com",
+  "url": "http://www.macvendorlookup.com/search/%s",
+  "description": "macvendorlookup",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

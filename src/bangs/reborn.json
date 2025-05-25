@@ -1,0 +1,8 @@
+{
+  "bang": "reborn",
+  "domain": "https://reborn.wikia.com",
+  "url": "http://reborn.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Reborn Wiki",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

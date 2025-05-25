@@ -1,0 +1,8 @@
+{
+  "bang": "bs",
+  "domain": "https://www.bing.com",
+  "url": "https://www.bing.com/shop?q=%s",
+  "description": "Bing Shopping",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

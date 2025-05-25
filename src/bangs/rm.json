@@ -1,0 +1,8 @@
+{
+  "bang": "rm",
+  "domain": "https://www.gurusrom.net",
+  "url": "http://www.gurusrom.net/search/term=%s",
+  "description": "Gurusfirmware",
+  "category": "Tech",
+  "sub-category": "Downloads"
+}

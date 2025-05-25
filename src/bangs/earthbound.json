@@ -1,0 +1,8 @@
+{
+  "bang": "earthbound",
+  "domain": "https://earthbound.wikia.com",
+  "url": "http://earthbound.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Earthbound Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

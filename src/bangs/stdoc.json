@@ -1,0 +1,8 @@
+{
+  "bang": "stdoc",
+  "domain": "https://www.stata.com",
+  "url": "http://www.stata.com/help.cgi?%s",
+  "description": "Stata 14 help",
+  "category": "Research",
+  "sub-category": "Academic"
+}

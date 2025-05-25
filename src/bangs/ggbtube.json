@@ -1,0 +1,8 @@
+{
+  "bang": "ggbtube",
+  "domain": "https://tube.geogebra.org",
+  "url": "http://tube.geogebra.org/search/perform/search/%s",
+  "description": "geogebratube.org",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

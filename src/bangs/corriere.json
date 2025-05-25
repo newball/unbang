@@ -1,0 +1,8 @@
+{
+  "bang": "corriere",
+  "domain": "https://sitesearch.corriere.it",
+  "url": "http://sitesearch.corriere.it/forward.jsp?q=%s",
+  "description": "Corriere della Sera",
+  "category": "News",
+  "sub-category": "International"
+}

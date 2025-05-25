@@ -1,0 +1,8 @@
+{
+  "bang": "dbts",
+  "domain": "https://bugs.debian.org",
+  "url": "https://bugs.debian.org/%s",
+  "description": "Debian Bug Tracking System",
+  "category": "Tech",
+  "sub-category": "Sysadmin (debian)"
+}

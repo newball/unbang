@@ -1,0 +1,8 @@
+{
+  "bang": "ssg",
+  "domain": "https://dictionnaire.sensagent.leparisien.fr",
+  "url": "http://dictionnaire.sensagent.leparisien.fr/%s/fr-fr/",
+  "description": "Sensagent",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

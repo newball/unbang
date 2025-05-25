@@ -1,0 +1,8 @@
+{
+  "bang": "rai",
+  "domain": "https://www.raiplay.it",
+  "url": "https://www.raiplay.it/ricerca?q=%s",
+  "description": "RaiPlay",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

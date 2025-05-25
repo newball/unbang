@@ -1,0 +1,8 @@
+{
+  "bang": "iacr",
+  "domain": "https://www.iacr.org",
+  "url": "https://www.iacr.org/search/?q=%s",
+  "description": "IACR",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

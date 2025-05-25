@@ -1,0 +1,8 @@
+{
+  "bang": "osx",
+  "domain": "https://developer.apple.com",
+  "url": "https://developer.apple.com/search/?q=%s&platform=OS%20X",
+  "description": "OS X Developer Library",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "aistars",
+  "domain": "https://aikatsustars.wikia.com",
+  "url": "http://aikatsustars.wikia.com/wiki/Special:Search?query=%s",
+  "description": "Aikatsu Stars Wikia",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

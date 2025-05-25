@@ -1,0 +1,8 @@
+{
+  "bang": "mn",
+  "domain": "https://www.medicinanet.com.br",
+  "url": "http://www.medicinanet.com.br/pesquisas/%s.htm",
+  "description": "medicinanet",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

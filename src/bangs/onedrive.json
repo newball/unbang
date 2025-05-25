@@ -1,0 +1,8 @@
+{
+  "bang": "onedrive",
+  "domain": "https://onedrive.live.com",
+  "url": "https://onedrive.live.com/#qt=search&q=%s",
+  "description": "OneDrive",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

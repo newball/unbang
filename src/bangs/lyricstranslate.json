@@ -1,0 +1,8 @@
+{
+  "bang": "lyricstranslate",
+  "domain": "https://lyricstranslate.com",
+  "url": "http://lyricstranslate.com/en/site-search?query=%s",
+  "description": "Lyrics Translate",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

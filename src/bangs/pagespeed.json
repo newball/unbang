@@ -1,0 +1,8 @@
+{
+  "bang": "pagespeed",
+  "domain": "https://developers.google.com",
+  "url": "https://developers.google.com/speed/pagespeed/insights/?url=%s",
+  "description": "Google PageSpeed insights",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

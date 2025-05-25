@@ -1,0 +1,8 @@
+{
+  "bang": "dmo",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s+site%3Adeb-multimedia.org%2Fpool%2F",
+  "description": "Deb-Multimedia",
+  "category": "Tech",
+  "sub-category": "Sysadmin (debian)"
+}

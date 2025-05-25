@@ -1,0 +1,8 @@
+{
+  "bang": "rutube",
+  "domain": "https://rutube.ru",
+  "url": "http://rutube.ru/search.html?page=index&search=%s&search_type=track",
+  "description": "RuTube",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

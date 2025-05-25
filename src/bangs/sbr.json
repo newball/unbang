@@ -1,0 +1,8 @@
+{
+  "bang": "sbr",
+  "domain": "https://www.reddit.com",
+  "url": "http://www.reddit.com/r/%s",
+  "description": "Reddit",
+  "category": "Online Services",
+  "sub-category": "Social news/links"
+}

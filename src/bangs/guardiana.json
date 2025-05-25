@@ -1,0 +1,8 @@
+{
+  "bang": "guardiana",
+  "domain": "https://www.guardiana.net",
+  "url": "http://www.guardiana.net/MDG-Database/Search/?search_value=%s ",
+  "description": "Guardiana",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

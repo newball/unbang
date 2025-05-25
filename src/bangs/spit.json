@@ -1,0 +1,8 @@
+{
+  "bang": "spit",
+  "domain": "https://startpage.com",
+  "url": "https://startpage.com/do/search?cat=web&cmd=process_search&language=italiano&engine0=v1all&query=%s&abp=-1&prf=ab8a0a99ccae7d38fd1f9b31e845ce7e&SuggestOn=1",
+  "description": "Startpage (IT)",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

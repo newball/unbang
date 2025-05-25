@@ -1,0 +1,8 @@
+{
+  "bang": "mamma",
+  "domain": "https://www.mamma.com",
+  "url": "http://www.mamma.com/result.php?q=%s&type=web",
+  "description": "Mamma",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ukgr",
+  "domain": "https://gridreferencefinder.com",
+  "url": "https://gridreferencefinder.com/bing.php?gr=%s",
+  "description": "UK Grid Reference",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

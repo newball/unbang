@@ -1,0 +1,8 @@
+{
+  "bang": "fantagraphics",
+  "domain": "https://www.fantagraphics.com",
+  "url": "http://www.fantagraphics.com/index.php?keyword=%s",
+  "description": "Fantagraphics Books",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "seg",
+  "domain": "https://library.seg.org",
+  "url": "https://library.seg.org/action/doSearch?AllField=%s&publication=",
+  "description": "SEG Digital Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

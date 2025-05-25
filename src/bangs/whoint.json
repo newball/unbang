@@ -1,0 +1,8 @@
+{
+  "bang": "whoint",
+  "domain": "https://www.who.int",
+  "url": "https://www.who.int/search?query=%s",
+  "description": "World Health Organization",
+  "category": "Research",
+  "sub-category": "Health"
+}

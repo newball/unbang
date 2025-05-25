@@ -1,0 +1,8 @@
+{
+  "bang": "knf",
+  "domain": "https://www.knf.gov.pl",
+  "url": "https://www.knf.gov.pl/wyniki_wyszukiwania?searchText=%s&publicationId=18&sortType=accuracy",
+  "description": "Komisja Nadzoru Finansowego PL",
+  "category": "Research",
+  "sub-category": "Government"
+}

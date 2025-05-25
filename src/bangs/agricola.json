@@ -1,0 +1,8 @@
+{
+  "bang": "agricola",
+  "domain": "https://agricola.nal.usda.gov",
+  "url": "https://agricola.nal.usda.gov/vwebv/search?searchArg=%s&searchCode=GKEY%5E&setLimit=1&recCount=10&searchType=1&page.search.search.button=Search",
+  "description": "AGRICOLA",
+  "category": "Research",
+  "sub-category": "Government"
+}

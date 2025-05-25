@@ -1,0 +1,8 @@
+{
+  "bang": "dlc",
+  "domain": "https://www.dlcompare.com",
+  "url": "http://www.dlcompare.com/search?q=%s",
+  "description": "DLCompare",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

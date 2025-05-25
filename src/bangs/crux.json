@@ -1,0 +1,8 @@
+{
+  "bang": "crux",
+  "domain": "https://crux.nu",
+  "url": "http://crux.nu/portdb/?a=search&q=%s",
+  "description": "CRUX",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

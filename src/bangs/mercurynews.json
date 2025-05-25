@@ -1,0 +1,8 @@
+{
+  "bang": "mercurynews",
+  "domain": "https://www.mercurynews.com",
+  "url": "http://www.mercurynews.com/circare/html/sca_template.jsp?runSearch=true&query=%s&searchButton.x=0&searchButton.y=0&searchButton=Search&view=entiresitesppublished",
+  "description": "Mercury News",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

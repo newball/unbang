@@ -1,0 +1,8 @@
+{
+  "bang": "rtes",
+  "domain": "https://actualidad.rt.com",
+  "url": "https://actualidad.rt.com/search?q=%s",
+  "description": "RT en Español",
+  "category": "News",
+  "sub-category": "International"
+}

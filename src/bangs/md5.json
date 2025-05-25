@@ -1,0 +1,8 @@
+{
+  "bang": "md5",
+  "domain": "https://md5.gromweb.com",
+  "url": "http://md5.gromweb.com/?md5=%s",
+  "description": "MD5 reverse lookup",
+  "category": "Research",
+  "sub-category": "Reference"
+}

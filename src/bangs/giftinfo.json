@@ -1,0 +1,8 @@
+{
+  "bang": "giftinfo",
+  "domain": "https://www.giftinformation.se",
+  "url": "http://www.giftinformation.se/searchpage/?query=%s",
+  "description": "Giftinformationscentralen",
+  "category": "Research",
+  "sub-category": "Health"
+}

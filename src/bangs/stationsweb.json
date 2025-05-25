@@ -1,0 +1,8 @@
+{
+  "bang": "stationsweb",
+  "domain": "https://www.stationsweb.nl",
+  "url": "http://www.stationsweb.nl/stationlijst.asp?station=%s ",
+  "description": "Stationsweb",
+  "category": "Research",
+  "sub-category": "Local"
+}

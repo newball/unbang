@@ -1,0 +1,8 @@
+{
+  "bang": "sst",
+  "domain": "https://csgostash.com",
+  "url": "https://csgostash.com/google-search?q=%s",
+  "description": "Steam Stash",
+  "category": "Research",
+  "sub-category": "Reference"
+}

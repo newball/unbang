@@ -1,0 +1,8 @@
+{
+  "bang": "ponsed",
+  "domain": "https://en.pons.com",
+  "url": "http://en.pons.com/translate?q=%s&l=deen&in=&lf=en",
+  "description": "pons.eu",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "en2el",
+  "domain": "https://translate.google.gr",
+  "url": "https://translate.google.gr/#en/el/%s",
+  "description": "Google Translate",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

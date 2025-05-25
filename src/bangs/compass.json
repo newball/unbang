@@ -1,0 +1,8 @@
+{
+  "bang": "compass",
+  "domain": "https://compass-style.org",
+  "url": "http://compass-style.org/search/?q=%s",
+  "description": "Compass",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

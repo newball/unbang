@@ -1,0 +1,8 @@
+{
+  "bang": "majorsbooks",
+  "domain": "https://www.majorsbooks.com",
+  "url": "http://www.majorsbooks.com/search/?searchQuery=%s",
+  "description": "Majors Books",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

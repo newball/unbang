@@ -1,0 +1,8 @@
+{
+  "bang": "culibrary",
+  "domain": "https://libraries.clemson.edu",
+  "url": "http://libraries.clemson.edu/?s=%s",
+  "description": "Clemson University Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

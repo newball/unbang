@@ -1,0 +1,8 @@
+{
+  "bang": "veloz",
+  "domain": "https://www.diarioveloz.com",
+  "url": "http://www.diarioveloz.com/contenidos/resultado.html?text=%s",
+  "description": "Diario Veloz",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

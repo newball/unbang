@@ -1,0 +1,8 @@
+{
+  "bang": "gtel",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/el/%s",
+  "description": "Detect language to Greek",
+  "category": "Translation",
+  "sub-category": "Google"
+}

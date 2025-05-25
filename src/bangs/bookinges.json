@@ -1,0 +1,8 @@
+{
+  "bang": "bookinges",
+  "domain": "https://www.booking.com",
+  "url": "https://www.booking.com/search.es.html?ss=%s",
+  "description": "Booking España",
+  "category": "Research",
+  "sub-category": "Travel"
+}

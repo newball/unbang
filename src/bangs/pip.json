@@ -1,0 +1,8 @@
+{
+  "bang": "pip",
+  "domain": "https://pypi.python.org",
+  "url": "https://pypi.python.org/pypi?:action=search&term=%s&submit=search",
+  "description": "pip",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

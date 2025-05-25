@@ -1,0 +1,8 @@
+{
+  "bang": "xvr",
+  "domain": "https://www.arxiv-vanity.com",
+  "url": "https://www.arxiv-vanity.com/convert/?query=%s",
+  "description": "arxiv vanity",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

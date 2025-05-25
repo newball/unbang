@@ -1,0 +1,8 @@
+{
+  "bang": "msq",
+  "domain": "https://quote.morningstar.com",
+  "url": "http://quote.morningstar.com/stock/s.aspx?t=%s",
+  "description": "Morningstar Quote",
+  "category": "Research",
+  "sub-category": "Topical"
+}

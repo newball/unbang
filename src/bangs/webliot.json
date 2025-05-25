@@ -1,0 +1,8 @@
+{
+  "bang": "webliot",
+  "domain": "https://thesaurus.weblio.jp",
+  "url": "http://thesaurus.weblio.jp/content/%s",
+  "description": "Weblio",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

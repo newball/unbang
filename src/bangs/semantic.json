@@ -1,0 +1,8 @@
+{
+  "bang": "semantic",
+  "domain": "https://www.semanticscholar.org",
+  "url": "https://www.semanticscholar.org/search?q=%s&sort=relevance&ae=false",
+  "description": "Semantic Scholar",
+  "category": "Research",
+  "sub-category": "Academic"
+}

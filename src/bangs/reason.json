@@ -1,0 +1,8 @@
+{
+  "bang": "reason",
+  "domain": "https://reason.com",
+  "url": "http://reason.com/search?q=%s",
+  "description": "Reason.com",
+  "category": "News",
+  "sub-category": "Specialty"
+}

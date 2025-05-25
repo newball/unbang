@@ -1,0 +1,8 @@
+{
+  "bang": "iata",
+  "domain": "https://airportcodes.aero",
+  "url": "http://airportcodes.aero/%s",
+  "description": "IATA Airport Code",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

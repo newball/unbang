@@ -1,0 +1,8 @@
+{
+  "bang": "suivicourrier",
+  "domain": "https://www.csuivi.courrier.laposte.fr",
+  "url": "http://www.csuivi.courrier.laposte.fr/suivi/index?id=%s#",
+  "description": "La Poste",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

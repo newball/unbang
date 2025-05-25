@@ -1,0 +1,8 @@
+{
+  "bang": "pika",
+  "domain": "https://www.pikapkg.com",
+  "url": "https://www.pikapkg.com/packages/?q=%s",
+  "description": "Pikapkg",
+  "category": "Tech",
+  "sub-category": "Languages (javascript)"
+}

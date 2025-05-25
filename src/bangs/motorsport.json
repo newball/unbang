@@ -1,0 +1,8 @@
+{
+  "bang": "motorsport",
+  "domain": "https://www.motorsport.com",
+  "url": "http://www.motorsport.com/all/search/?q=%s",
+  "description": "Motorsport.com",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

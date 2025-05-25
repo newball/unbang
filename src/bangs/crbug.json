@@ -1,0 +1,8 @@
+{
+  "bang": "crbug",
+  "domain": "https://bugs.chromium.org",
+  "url": "https://bugs.chromium.org/p/chromium/issues/list?q=%s",
+  "description": "Chromium bugs",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

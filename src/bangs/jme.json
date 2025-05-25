@@ -1,0 +1,8 @@
+{
+  "bang": "jme",
+  "domain": "https://hub.jmonkeyengine.org",
+  "url": "https://hub.jmonkeyengine.org/search?q=%s",
+  "description": "jMonkeyEngine Forum",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

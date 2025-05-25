@@ -1,0 +1,8 @@
+{
+  "bang": "rtt",
+  "domain": "https://www.realtimetrains.co.uk",
+  "url": "http://www.realtimetrains.co.uk/search/handler?type=basic&qs=true&search=%s",
+  "description": "Real Time Trains",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

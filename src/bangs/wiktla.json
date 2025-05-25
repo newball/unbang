@@ -1,0 +1,8 @@
+{
+  "bang": "wiktla",
+  "domain": "https://la.wiktionary.org",
+  "url": "https://la.wiktionary.org/wiki/Special:Search?search=%s&go=Define",
+  "description": "Latin Wiktionary",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "magpi",
+  "domain": "https://www.raspberrypi.org",
+  "url": "https://www.raspberrypi.org/magpi/?s=%s",
+  "description": "MagPi",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

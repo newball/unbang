@@ -1,0 +1,8 @@
+{
+  "bang": "fvz",
+  "domain": "https://finviz.com",
+  "url": "http://finviz.com/quote.ashx?t=%s&ty=c&ta=1&p=d",
+  "description": "Finviz",
+  "category": "Research",
+  "sub-category": "Topical"
+}

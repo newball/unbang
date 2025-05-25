@@ -1,0 +1,8 @@
+{
+  "bang": "ishuffle",
+  "domain": "https://www.indieshuffle.com",
+  "url": "http://www.indieshuffle.com/search/songs/%s",
+  "description": "IndieShuffle",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

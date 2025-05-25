@@ -1,0 +1,8 @@
+{
+  "bang": "webstore",
+  "domain": "https://www.webstore.com",
+  "url": "http://www.webstore.com/search.php?option=basic_search&basic_search=%s&form_basic_search=Search",
+  "description": "Webstore",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

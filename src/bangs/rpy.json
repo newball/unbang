@@ -1,0 +1,8 @@
+{
+  "bang": "rpy",
+  "domain": "https://realpython.com",
+  "url": "https://realpython.com/search?q=%s",
+  "description": "https://www.realpython.com",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

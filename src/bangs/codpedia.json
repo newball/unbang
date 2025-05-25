@@ -1,0 +1,8 @@
+{
+  "bang": "codpedia",
+  "domain": "https://cod.esportspedia.com",
+  "url": "https://cod.esportspedia.com/index.php?search=%s",
+  "description": "Call of Duty eSports Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

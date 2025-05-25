@@ -1,0 +1,8 @@
+{
+  "bang": "dhnet",
+  "domain": "https://www.dhnet.be",
+  "url": "http://www.dhnet.be/search/?query=%s",
+  "description": "La Dernière Heure",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

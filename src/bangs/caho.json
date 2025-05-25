@@ -1,0 +1,8 @@
+{
+  "bang": "caho",
+  "domain": "https://www.cardhoarder.com",
+  "url": "https://www.cardhoarder.com/cards?data[search]=%s",
+  "description": "Cardhoarder",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

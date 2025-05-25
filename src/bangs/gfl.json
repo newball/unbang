@@ -1,0 +1,8 @@
+{
+  "bang": "gfl",
+  "domain": "https://www.google.com",
+  "url": "https://www.google.com/flights/#search;t=%s",
+  "description": "Google Flights",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

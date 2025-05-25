@@ -1,0 +1,8 @@
+{
+  "bang": "42",
+  "domain": "https://profile.intra.42.fr",
+  "url": "https://profile.intra.42.fr/searches/search?query=%s",
+  "description": "42 Intra",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

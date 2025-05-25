@@ -1,0 +1,8 @@
+{
+  "bang": "marvelwiki",
+  "domain": "https://marvel.wikia.com",
+  "url": "http://marvel.wikia.com/Special:Search?search=%s&fulltext=Search",
+  "description": "Marvel Comics Database",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

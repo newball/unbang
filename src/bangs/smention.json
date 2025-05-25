@@ -1,0 +1,8 @@
+{
+  "bang": "smention",
+  "domain": "https://socialmention.com",
+  "url": "http://socialmention.com/search?q=%s",
+  "description": "Social Mention",
+  "category": "Online Services",
+  "sub-category": "Search (Real-time)"
+}

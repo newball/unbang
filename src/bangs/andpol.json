@@ -1,0 +1,8 @@
+{
+  "bang": "andpol",
+  "domain": "https://www.androidpolice.com",
+  "url": "http://www.androidpolice.com/?s=%s",
+  "description": "Android Police",
+  "category": "News",
+  "sub-category": "Specialty"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bo",
+  "domain": "https://www.boerse-online.de",
+  "url": "http://www.boerse-online.de/suchergebnisse?_search=%s",
+  "description": "Boerse Online",
+  "category": "News",
+  "sub-category": "Business"
+}

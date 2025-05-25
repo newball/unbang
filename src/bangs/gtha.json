@@ -1,0 +1,8 @@
+{
+  "bang": "gtha",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/ha/%s",
+  "description": "Detect language to Hausa",
+  "category": "Translation",
+  "sub-category": "Google"
+}

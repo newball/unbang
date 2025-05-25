@@ -1,0 +1,8 @@
+{
+  "bang": "myinstants",
+  "domain": "https://www.myinstants.com",
+  "url": "https://www.myinstants.com/search/?name=%s",
+  "description": "My Instants",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

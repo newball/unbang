@@ -1,0 +1,8 @@
+{
+  "bang": "openprocessing",
+  "domain": "https://www.openprocessing.org",
+  "url": "http://www.openprocessing.org/search/?q=%s",
+  "description": "OpenProcessing",
+  "category": "Tech",
+  "sub-category": "Languages (java)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "tcode",
+  "domain": "https://www.tcodesearch.com",
+  "url": "http://www.tcodesearch.com/tcodes/search?q=%s",
+  "description": "TCodeSearch",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

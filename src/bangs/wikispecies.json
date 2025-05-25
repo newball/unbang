@@ -1,0 +1,8 @@
+{
+  "bang": "wikispecies",
+  "domain": "https://en.wikipedia.org",
+  "url": "https://en.wikipedia.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikispecies",
+  "category": "Research",
+  "sub-category": "Learning"
+}

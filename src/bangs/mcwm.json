@@ -1,0 +1,8 @@
+{
+  "bang": "mcwm",
+  "domain": "https://www.minecraftworldmap.com",
+  "url": "https://www.minecraftworldmap.com/search?ss=%s",
+  "description": "Minecraft World Map",
+  "category": "Entertainment",
+  "sub-category": "Games (Minecraft)"
+}

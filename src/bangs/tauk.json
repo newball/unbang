@@ -1,0 +1,8 @@
+{
+  "bang": "tauk",
+  "domain": "https://www.tripadvisor.co.uk",
+  "url": "https://www.tripadvisor.co.uk/Search?q=%s",
+  "description": "TripAdvisor (UK)",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

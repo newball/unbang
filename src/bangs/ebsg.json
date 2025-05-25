@@ -1,0 +1,8 @@
+{
+  "bang": "ebsg",
+  "domain": "https://shop.ebay.com.sg",
+  "url": "http://shop.ebay.com.sg/?_nkw=%s&_sacat=See-All-Categories",
+  "description": "ebay.com.sg",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

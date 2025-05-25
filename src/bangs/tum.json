@@ -1,0 +1,8 @@
+{
+  "bang": "tum",
+  "domain": "https://www.tum.de",
+  "url": "https://www.tum.de/en/spezialseiten/search/?q=%s&sites=all",
+  "description": "Technical University of Munich",
+  "category": "Research",
+  "sub-category": "Academic"
+}

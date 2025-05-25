@@ -1,0 +1,8 @@
+{
+  "bang": "gtdb",
+  "domain": "https://www.grimtools.com",
+  "url": "https://www.grimtools.com/db/search?query=%s",
+  "description": "Grimtools",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

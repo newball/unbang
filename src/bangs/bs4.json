@@ -1,0 +1,8 @@
+{
+  "bang": "bs4",
+  "domain": "https://www.crummy.com",
+  "url": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/search.html?q=%s",
+  "description": "Beautifulsoup",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

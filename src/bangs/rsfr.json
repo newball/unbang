@@ -1,0 +1,8 @@
+{
+  "bang": "rsfr",
+  "domain": "https://radiospares-fr.rs-online.com",
+  "url": "http://radiospares-fr.rs-online.com/web/c/?searchTerm=%s",
+  "description": "RS Component (FR)",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

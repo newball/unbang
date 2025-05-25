@@ -1,0 +1,8 @@
+{
+  "bang": "shout",
+  "domain": "https://www.shoutmeloud.com",
+  "url": "https://www.shoutmeloud.com/?s=%s",
+  "description": "ShoutMeLoud",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

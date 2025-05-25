@@ -1,0 +1,8 @@
+{
+  "bang": "fantasy",
+  "domain": "https://www.fantasy.fr",
+  "url": "http://www.fantasy.fr/searches/index/%s ",
+  "description": "fantasy.fr",
+  "category": "News",
+  "sub-category": "Specialty"
+}

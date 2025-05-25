@@ -1,0 +1,8 @@
+{
+  "bang": "wapp",
+  "domain": "https://api.whatsapp.com",
+  "url": "https://api.whatsapp.com/send?phone=%s&text=",
+  "description": "WhatsApp",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

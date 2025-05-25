@@ -1,0 +1,8 @@
+{
+  "bang": "mkg",
+  "domain": "https://sammlungonline.mkg-hamburg.de",
+  "url": "https://sammlungonline.mkg-hamburg.de/de/search?s=%s",
+  "description": "MKG Sammlung Online",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

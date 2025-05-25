@@ -1,0 +1,8 @@
+{
+  "bang": "mdbgt",
+  "domain": "https://www.mdbg.net",
+  "url": "http://www.mdbg.net/chindict/chindict.php?page=worddict&wdrst=1&wdqb=%s",
+  "description": "MDBG",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

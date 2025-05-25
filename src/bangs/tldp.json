@@ -1,0 +1,8 @@
+{
+  "bang": "tldp",
+  "domain": "https://www.google.com",
+  "url": "http://www.google.com/cse?cx=017644269519104757279%3Agm62gtzaoky&q=%s",
+  "description": "The Linux Documentation Project",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

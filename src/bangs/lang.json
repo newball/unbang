@@ -1,0 +1,8 @@
+{
+  "bang": "lang",
+  "domain": "https://LanguageTool.org",
+  "url": "https://LanguageTool.org/?text=%s",
+  "description": "LanguageTool",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "triviaowl",
+  "domain": "https://triviaowl.com",
+  "url": "https://triviaowl.com/?s=%s ",
+  "description": "TriviaOwl",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

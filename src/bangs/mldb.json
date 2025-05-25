@@ -1,0 +1,8 @@
+{
+  "bang": "mldb",
+  "domain": "https://www.mldb.org",
+  "url": "http://www.mldb.org/search?mq=%s",
+  "description": "The Music Lyrics Database",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

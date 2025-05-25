@@ -1,0 +1,8 @@
+{
+  "bang": "msui",
+  "domain": "https://www.meteoswiss.admin.ch",
+  "url": "https://www.meteoswiss.admin.ch/home/search.html?query=%s ",
+  "description": "Meteo Suisse / Schweiz",
+  "category": "News",
+  "sub-category": "Weather"
+}

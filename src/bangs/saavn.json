@@ -1,0 +1,8 @@
+{
+  "bang": "saavn",
+  "domain": "https://www.jiosaavn.com",
+  "url": "https://www.jiosaavn.com/search/%s",
+  "description": "Saavn",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

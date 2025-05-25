@@ -1,0 +1,8 @@
+{
+  "bang": "super",
+  "domain": "https://supermarket.chef.io",
+  "url": "https://supermarket.chef.io/cookbooks?utf8=%E2%9C%93&q=%s",
+  "description": "Chef Supermarket",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

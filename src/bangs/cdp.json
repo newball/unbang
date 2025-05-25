@@ -1,0 +1,8 @@
+{
+  "bang": "cdp",
+  "domain": "https://www.cdp.net",
+  "url": "https://www.cdp.net/en/responses?utf8=✓&queries[name]=%s",
+  "description": "CDP (Carbon Disclosure Project)",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

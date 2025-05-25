@@ -1,0 +1,8 @@
+{
+  "bang": "safariext",
+  "domain": "https://safari-extensions.apple.com",
+  "url": "https://safari-extensions.apple.com/?q=%s",
+  "description": "Safari Extensions Gallery",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

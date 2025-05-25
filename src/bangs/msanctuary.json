@@ -1,0 +1,8 @@
+{
+  "bang": "msanctuary",
+  "domain": "https://www.manga-sanctuary.com",
+  "url": "http://www.manga-sanctuary.com/recherche.php?keywords=%s",
+  "description": "Manga Sanctuary",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

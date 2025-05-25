@@ -1,0 +1,8 @@
+{
+  "bang": "lexisnexis",
+  "domain": "https://www.lexisnexis.com.au",
+  "url": "https://www.lexisnexis.com.au/en/global-pages/search?query=%s",
+  "description": "LexisNexis Australia",
+  "category": "Research",
+  "sub-category": "Law"
+}

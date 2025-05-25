@@ -1,0 +1,8 @@
+{
+  "bang": "gmil",
+  "domain": "https://www.google.co.il",
+  "url": "https://www.google.co.il/maps/search/%s/?hl=iw",
+  "description": "Google Maps Israel",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

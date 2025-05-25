@@ -1,6 +1,6 @@
-import { bangs } from "./bang.js";   // you’ll need to rename bang.ts → bang.js
+import { bangs } from "./bang.js";
 const LS_DEFAULT_BANG = localStorage.getItem("default-bang") ?? "g";
-const defaultBang = bangs.find(b => b.t === LS_DEFAULT_BANG);
+const defaultBang = bangs.find(b => b.bang === LS_DEFAULT_BANG);
 
 function getBangredirectUrl() {
   const url = new URL(window.location.href);
@@ -9,17 +9,17 @@ function getBangredirectUrl() {
 
   const match = query.match(/!(\S+)/i);
   const bangCandidate = match?.[1]?.toLowerCase();
-  const selectedBang = bangs.find(b => b.t === bangCandidate) || defaultBang;
+  const selectedBang = bangs.find(b => b.bang === bangCandidate) || defaultBang;
   const cleanQuery = query.replace(/!\S+\s*/i, "").trim();
 
   // if only bang (e.g. "!gh")
   if (!cleanQuery) {
-    return selectedBang ? `https://${selectedBang.d}` : null;
+    return selectedBang ? `https://${selectedBang.domain}` : null;
   }
 
   // build search URL
   const encoded = encodeURIComponent(cleanQuery).replace(/%2F/g, "/");
-  return selectedBang.u.replace("{{{s}}}", encoded);
+  return selectedBang.url.replace("%s", encoded);
 }
 
 function doRedirect() {

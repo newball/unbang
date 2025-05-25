@@ -1,0 +1,8 @@
+{
+  "bang": "chemwiki",
+  "domain": "https://chemwiki.ucdavis.edu",
+  "url": "http://chemwiki.ucdavis.edu/Special:Search?search=%s&qid=&fpid=1285&fpth=",
+  "description": "Chemwiki",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

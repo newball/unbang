@@ -1,0 +1,8 @@
+{
+  "bang": "ytus",
+  "domain": "https://www.youtube.com",
+  "url": "https://www.youtube.com/results?search_query=%s&gl=US",
+  "description": "YouTube (US)",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

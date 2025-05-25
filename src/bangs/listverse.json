@@ -1,0 +1,8 @@
+{
+  "bang": "listverse",
+  "domain": "https://listverse.com",
+  "url": "http://listverse.com/search/?q=%s&sa=Search",
+  "description": "Listverse",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

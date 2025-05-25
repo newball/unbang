@@ -1,0 +1,8 @@
+{
+  "bang": "gtcs",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/cs/%s",
+  "description": "Detect language to Czech",
+  "category": "Translation",
+  "sub-category": "Google"
+}

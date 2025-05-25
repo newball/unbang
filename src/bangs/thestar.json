@@ -1,0 +1,8 @@
+{
+  "bang": "thestar",
+  "domain": "https://www.thestar.com",
+  "url": "https://www.thestar.com/search.html?q=%s",
+  "description": "The Star",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

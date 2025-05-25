@@ -1,0 +1,8 @@
+{
+  "bang": "smulweb",
+  "domain": "https://www.smulweb.nl",
+  "url": "http://www.smulweb.nl/recepten/%s",
+  "description": "Smulweb",
+  "category": "Research",
+  "sub-category": "Food"
+}

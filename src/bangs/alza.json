@@ -1,0 +1,8 @@
+{
+  "bang": "alza",
+  "domain": "https://www.alza.cz",
+  "url": "https://www.alza.cz/search.htm?exps=%s",
+  "description": "Alza.cz",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

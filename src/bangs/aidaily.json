@@ -1,0 +1,8 @@
+{
+  "bang": "aidaily",
+  "domain": "https://www.aidaily.co.uk",
+  "url": "https://www.aidaily.co.uk/search?q=%s",
+  "description": "AIDaily",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

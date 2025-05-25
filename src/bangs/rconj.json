@@ -1,0 +1,8 @@
+{
+  "bang": "rconj",
+  "domain": "https://bab.la",
+  "url": "http://bab.la/conjugaison/russe/%s",
+  "description": "Bab.la Russian Verbs Conjugation",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

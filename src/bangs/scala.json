@@ -1,0 +1,8 @@
+{
+  "bang": "scala",
+  "domain": "https://www.scala-lang.org",
+  "url": "http://www.scala-lang.org/api/current/?search=%s",
+  "description": "scala-lang.org",
+  "category": "Tech",
+  "sub-category": "Languages (scala)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wbd",
+  "domain": "https://www.reddit.com",
+  "url": "https://www.reddit.com/r/worldbuilding/?q=%s&restrict_sr=on&include_over_18=on&sort=relevance&t=all",
+  "description": "r/worldbuilding",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

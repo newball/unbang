@@ -1,0 +1,8 @@
+{
+  "bang": "gee",
+  "domain": "https://www.google.ee",
+  "url": "http://www.google.ee/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google EE",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

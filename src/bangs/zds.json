@@ -1,0 +1,8 @@
+{
+  "bang": "zds",
+  "domain": "https://zestedesavoir.com",
+  "url": "http://zestedesavoir.com/rechercher/?q=%s",
+  "description": "ZesteDeSavoir",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

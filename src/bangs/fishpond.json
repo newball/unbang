@@ -1,0 +1,8 @@
+{
+  "bang": "fishpond",
+  "domain": "https://www.fishpond.com.au",
+  "url": "http://www.fishpond.com.au/advanced_search_result.php?keywords=%s",
+  "description": "Fishpond",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

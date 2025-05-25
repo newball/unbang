@@ -1,0 +1,8 @@
+{
+  "bang": "dpts",
+  "domain": "https://tracker.debian.org",
+  "url": "https://tracker.debian.org/pkg/%s",
+  "description": "Debian Packages",
+  "category": "Tech",
+  "sub-category": "Sysadmin (debian)"
+}

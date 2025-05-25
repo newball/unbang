@@ -1,0 +1,8 @@
+{
+  "bang": "en2hi",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#view=home&op=translate&sl=en&tl=hi&text=%s",
+  "description": "Google Translate English to Hindi",
+  "category": "Translation",
+  "sub-category": "Google"
+}

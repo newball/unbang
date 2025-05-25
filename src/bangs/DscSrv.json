@@ -1,0 +1,8 @@
+{
+  "bang": "DscSrv",
+  "domain": "https://discordservers.com",
+  "url": "https://discordservers.com/?term=%s",
+  "description": "Discord Servers",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

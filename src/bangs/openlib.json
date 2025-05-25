@@ -1,0 +1,8 @@
+{
+  "bang": "openlib",
+  "domain": "https://openlibra.com",
+  "url": "https://openlibra.com/en/collection/search/term/%s/",
+  "description": "OpenLibra",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

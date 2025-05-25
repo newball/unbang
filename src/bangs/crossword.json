@@ -1,0 +1,8 @@
+{
+  "bang": "crossword",
+  "domain": "https://www.wordfun.ca",
+  "url": "http://www.wordfun.ca/words/fw?q=%s",
+  "description": "WordFun crossword solver",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

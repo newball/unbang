@@ -1,0 +1,8 @@
+{
+  "bang": "filmstarts",
+  "domain": "https://www.filmstarts.de",
+  "url": "http://www.filmstarts.de/suche/?q=%s",
+  "description": "Filmstarts",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

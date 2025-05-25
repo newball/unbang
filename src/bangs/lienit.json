@@ -1,0 +1,8 @@
+{
+  "bang": "lienit",
+  "domain": "https://www.linguee.com",
+  "url": "http://www.linguee.com/english-italian/search?source=auto&query=%s",
+  "description": "Linguee (English <-> Italian)",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

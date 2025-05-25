@@ -1,0 +1,8 @@
+{
+  "bang": "archiveweb",
+  "domain": "https://web.archive.org",
+  "url": "https://web.archive.org/web/*/%s",
+  "description": "Archive.org",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

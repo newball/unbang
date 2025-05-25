@@ -1,0 +1,8 @@
+{
+  "bang": "szns",
+  "domain": "https://slovnik.seznam.cz",
+  "url": "http://slovnik.seznam.cz/?q=%s",
+  "description": "slovnik.seznam.cz",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

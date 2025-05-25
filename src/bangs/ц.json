@@ -1,0 +1,8 @@
+{
+  "bang": "ц",
+  "domain": "https://ru.wikipedia.org",
+  "url": "https://ru.wikipedia.org/wiki/Special:Search?search=%s",
+  "description": "Википедия",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "libuv",
+  "domain": "https://docs.libuv.org",
+  "url": "http://docs.libuv.org/en/latest/search.html?q=%s&check_keywords=yes&area=default",
+  "description": "Libuv API Docs",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

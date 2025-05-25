@@ -1,0 +1,8 @@
+{
+  "bang": "infoq",
+  "domain": "https://www.infoq.com",
+  "url": "http://www.infoq.com/search.action?queryString=%s",
+  "description": "InfoQ",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

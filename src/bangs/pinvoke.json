@@ -1,0 +1,8 @@
+{
+  "bang": "pinvoke",
+  "domain": "https://pinvoke.net",
+  "url": "http://pinvoke.net/search.aspx?search=%s",
+  "description": "Pinvoke.net",
+  "category": "Tech",
+  "sub-category": "Languages (.net)"
+}

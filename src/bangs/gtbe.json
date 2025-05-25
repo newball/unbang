@@ -1,0 +1,8 @@
+{
+  "bang": "gtbe",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/be/%s",
+  "description": "Detect language to Belarusian",
+  "category": "Translation",
+  "sub-category": "Google"
+}

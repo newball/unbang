@@ -1,0 +1,8 @@
+{
+  "bang": "pass",
+  "domain": "https://www.passwird.com",
+  "url": "http://www.passwird.com/search?query=%s",
+  "description": "passwird.com",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "iplayer",
+  "domain": "https://www.bbc.co.uk",
+  "url": "http://www.bbc.co.uk/iplayer/search?q=%s",
+  "description": "BBC iPlayer",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

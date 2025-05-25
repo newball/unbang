@@ -1,0 +1,8 @@
+{
+  "bang": "data",
+  "domain": "https://toolbox.google.com",
+  "url": "https://toolbox.google.com/datasetsearch/search?query=%s",
+  "description": "Google Dataset Search",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "chordify",
+  "domain": "https://chordify.net",
+  "url": "https://chordify.net/?search=%s",
+  "description": "Chordify",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

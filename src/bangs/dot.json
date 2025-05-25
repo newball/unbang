@@ -1,0 +1,8 @@
+{
+  "bang": "dot",
+  "domain": "https://www.digitalocean.com",
+  "url": "https://www.digitalocean.com/community/tutorials?q=%s",
+  "description": "Digital Ocean Tutorials",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

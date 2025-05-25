@@ -1,0 +1,8 @@
+{
+  "bang": "heritage",
+  "domain": "https://www.heritage.org",
+  "url": "https://www.heritage.org/search?contains=%s",
+  "description": "Heritage Foundation",
+  "category": "Research",
+  "sub-category": "Government"
+}

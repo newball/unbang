@@ -1,0 +1,8 @@
+{
+  "bang": "tman",
+  "domain": "https://help.trello.com",
+  "url": "http://help.trello.com/search?query=%s",
+  "description": "Trello help",
+  "category": "Tech",
+  "sub-category": "Startups"
+}

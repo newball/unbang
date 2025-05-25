@@ -1,0 +1,8 @@
+{
+  "bang": "bestbuy",
+  "domain": "https://www.bestbuy.com",
+  "url": "http://www.bestbuy.com/site/olspage.jsp?id=pcat17071&type=page&st=%s&sc=Global&cp=1&nrp=15&sp=&qp=&list=n&iht=y&usc=All+Categories&ks=960",
+  "description": "BestBuy",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

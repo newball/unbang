@@ -1,0 +1,8 @@
+{
+  "bang": "fort",
+  "domain": "https://fortnite.gamepedia.com",
+  "url": "https://fortnite.gamepedia.com/index.php?search=%s",
+  "description": "Fortnite Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

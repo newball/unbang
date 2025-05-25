@@ -1,0 +1,8 @@
+{
+  "bang": "swdb",
+  "domain": "https://www.spaghetti-western.net",
+  "url": "http://www.spaghetti-western.net/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "The Spaghetti Western Database",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

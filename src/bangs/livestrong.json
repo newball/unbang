@@ -1,0 +1,8 @@
+{
+  "bang": "livestrong",
+  "domain": "https://www.livestrong.com",
+  "url": "http://www.livestrong.com/search/?mode=standard&search=%s",
+  "description": "LIVESTRONG",
+  "category": "Research",
+  "sub-category": "Health"
+}

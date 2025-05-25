@@ -1,0 +1,8 @@
+{
+  "bang": "upc",
+  "domain": "https://www.upcdatabase.com",
+  "url": "http://www.upcdatabase.com/item/%s",
+  "description": "UPC Database",
+  "category": "Research",
+  "sub-category": "Reference"
+}

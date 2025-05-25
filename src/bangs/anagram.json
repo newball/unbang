@@ -1,0 +1,8 @@
+{
+  "bang": "anagram",
+  "domain": "https://www.oneacross.com",
+  "url": "http://www.oneacross.com/cgi-bin/search_anagram.cgi?p0=%s&c0=&s=+Go+",
+  "description": "One Across",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

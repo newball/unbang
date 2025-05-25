@@ -1,0 +1,8 @@
+{
+  "bang": "jpl",
+  "domain": "https://www.jpl.nasa.gov",
+  "url": "https://www.jpl.nasa.gov/search.php?q=%s",
+  "description": "NASA Jet Propulsion Laboratory",
+  "category": "Research",
+  "sub-category": "Government"
+}

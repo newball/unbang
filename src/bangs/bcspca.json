@@ -1,0 +1,8 @@
+{
+  "bang": "bcspca",
+  "domain": "https://www.spca.bc.ca",
+  "url": "http://www.spca.bc.ca/search.html?q=%s",
+  "description": "BC SPCA",
+  "category": "Research",
+  "sub-category": "Government"
+}

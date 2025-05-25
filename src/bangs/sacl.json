@@ -1,0 +1,8 @@
+{
+  "bang": "sacl",
+  "domain": "https://www.countrylife.co.za",
+  "url": "https://www.countrylife.co.za/?s=%s",
+  "description": "SA Country Life",
+  "category": "News",
+  "sub-category": "Magazine"
+}

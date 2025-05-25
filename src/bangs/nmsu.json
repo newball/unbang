@@ -1,0 +1,8 @@
+{
+  "bang": "nmsu",
+  "domain": "https://www.nmsu.edu",
+  "url": "https://www.nmsu.edu/search_results.html?q=%s",
+  "description": "New Mexico State University",
+  "category": "Research",
+  "sub-category": "Academic"
+}

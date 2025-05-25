@@ -1,0 +1,8 @@
+{
+  "bang": "nerdstore",
+  "domain": "https://www.nerdstore.com.br",
+  "url": "http://www.nerdstore.com.br/%s",
+  "description": "Nerd Store",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

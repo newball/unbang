@@ -1,0 +1,8 @@
+{
+  "bang": "myp",
+  "domain": "https://pt.myprotein.com",
+  "url": "https://pt.myprotein.com/elysium.search?search=%s",
+  "description": "My protein",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

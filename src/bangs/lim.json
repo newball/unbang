@@ -1,0 +1,8 @@
+{
+  "bang": "lim",
+  "domain": "https://www.limundo.com",
+  "url": "https://www.limundo.com/pretragaLimundo.php?bSearchBox=1&txtPretraga=%s&Submit=",
+  "description": "Limundo",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

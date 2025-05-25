@@ -1,0 +1,8 @@
+{
+  "bang": "fdroid",
+  "domain": "https://search.f-droid.org",
+  "url": "https://search.f-droid.org/?q=%s ",
+  "description": "F-Droid search",
+  "category": "Tech",
+  "sub-category": "Downloads (apps)"
+}

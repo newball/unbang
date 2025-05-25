@@ -1,0 +1,8 @@
+{
+  "bang": "gie",
+  "domain": "https://www.google.ie",
+  "url": "http://www.google.ie/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google IE",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

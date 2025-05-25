@@ -1,0 +1,8 @@
+{
+  "bang": "isec",
+  "domain": "https://security.stackexchange.com",
+  "url": "https://security.stackexchange.com/search?q=%s",
+  "description": "Information Security Stack Exchange",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

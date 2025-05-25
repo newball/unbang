@@ -1,0 +1,8 @@
+{
+  "bang": "ponsderu",
+  "domain": "https://en.pons.com",
+  "url": "http://en.pons.com/translate?q=%s&l=deru&in=&lf=de&cid=",
+  "description": "PONS Deutsch-Russisch",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

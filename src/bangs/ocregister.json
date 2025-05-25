@@ -1,0 +1,8 @@
+{
+  "bang": "ocregister",
+  "domain": "https://www.ocregister.com",
+  "url": "http://www.ocregister.com/search/?q=%s&x=0&y=0",
+  "description": "Orange County Register",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

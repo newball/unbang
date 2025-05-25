@@ -1,0 +1,8 @@
+{
+  "bang": "gplusp",
+  "domain": "https://www.google.com",
+  "url": "http://www.google.com/search?tbs=prfl:e&q=%s",
+  "description": "Google Plus",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

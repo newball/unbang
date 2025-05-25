@@ -1,0 +1,8 @@
+{
+  "bang": "memorybeta",
+  "domain": "https://memory-beta.wikia.com",
+  "url": "http://memory-beta.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Memory Beta",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

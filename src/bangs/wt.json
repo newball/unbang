@@ -1,0 +1,8 @@
+{
+  "bang": "wt",
+  "domain": "https://en.wiktionary.org",
+  "url": "https://en.wiktionary.org/w/index.php?search=%s&title=Special%3ASearch&go=Go",
+  "description": "Wiktionary",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "mugshots",
+  "domain": "https://mugshots.com",
+  "url": "http://mugshots.com/search.html?q=%s",
+  "description": "Mugshots.com",
+  "category": "Research",
+  "sub-category": "Local"
+}

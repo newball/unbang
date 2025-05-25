@@ -1,0 +1,8 @@
+{
+  "bang": "nnumber",
+  "domain": "https://registry.faa.gov",
+  "url": "http://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt=%s",
+  "description": "FAA Aircraft Registry",
+  "category": "Research",
+  "sub-category": "Government"
+}

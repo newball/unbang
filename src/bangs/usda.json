@@ -1,0 +1,8 @@
+{
+  "bang": "usda",
+  "domain": "https://ndb.nal.usda.gov",
+  "url": "https://ndb.nal.usda.gov/ndb/search/list?SYNCHRONIZER_TOKEN=f84a82f2-08ef-411f-a08f-2ae87edece78&SYNCHRONIZER_URI=%2Fndb%2Fsearch%2Flist&qt=&qlookup=%s&ds=&manu=",
+  "description": "USDA Food Composition Database",
+  "category": "Research",
+  "sub-category": "Reference"
+}

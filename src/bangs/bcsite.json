@@ -1,0 +1,8 @@
+{
+  "bang": "bcsite",
+  "domain": "https://sitereview.bluecoat.com",
+  "url": "https://sitereview.bluecoat.com/sitereview.jsp#/?search=%s",
+  "description": "BlueCoat Sitereview",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

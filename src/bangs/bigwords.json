@@ -1,0 +1,8 @@
+{
+  "bang": "bigwords",
+  "domain": "https://www5.bigwords.com",
+  "url": "http://www5.bigwords.com/search/easy-search/?producttype=all&searchtype=isbn&searchstring=%s&buySell=",
+  "description": "BigWords.com",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

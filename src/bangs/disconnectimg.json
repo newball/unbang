@@ -1,0 +1,8 @@
+{
+  "bang": "disconnectimg",
+  "domain": "https://search.disconnect.me",
+  "url": "https://search.disconnect.me/searchTerms/search?query=%s&option=Images",
+  "description": "Disconnect Image Search",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

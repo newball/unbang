@@ -1,0 +1,8 @@
+{
+  "bang": "wkn",
+  "domain": "https://kn.wikipedia.org",
+  "url": "https://kn.wikipedia.org/w/index.php?search=%s",
+  "description": "Kannada Wikipedia",
+  "category": "Research",
+  "sub-category": "Reference"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "scdirect",
+  "domain": "https://www.sciencedirect.com",
+  "url": "https://www.sciencedirect.com/search?qs=%s",
+  "description": "ScienceDirect",
+  "category": "Research",
+  "sub-category": "Academic"
+}

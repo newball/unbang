@@ -1,0 +1,8 @@
+{
+  "bang": "ark",
+  "domain": "https://ark.intel.com",
+  "url": "https://ark.intel.com/search?q=%s",
+  "description": "Intel Processor Specification",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

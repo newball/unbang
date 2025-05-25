@@ -1,0 +1,8 @@
+{
+  "bang": "beck",
+  "domain": "https://beck-online.beck.de",
+  "url": "https://beck-online.beck.de/Search?words=%s",
+  "description": "beck-online",
+  "category": "Research",
+  "sub-category": "Law"
+}

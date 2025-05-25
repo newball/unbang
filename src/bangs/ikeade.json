@@ -1,0 +1,8 @@
+{
+  "bang": "ikeade",
+  "domain": "https://www.ikea.com",
+  "url": "https://www.ikea.com/de/de/search/products/?q=%s",
+  "description": "Ikea Germany",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

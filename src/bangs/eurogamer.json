@@ -1,0 +1,8 @@
+{
+  "bang": "eurogamer",
+  "domain": "https://www.eurogamer.net",
+  "url": "http://www.eurogamer.net/search.php?q=%s",
+  "description": "Eurogamer.net",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

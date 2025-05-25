@@ -1,0 +1,8 @@
+{
+  "bang": "foxnews",
+  "domain": "https://www.foxnews.com",
+  "url": "http://www.foxnews.com/search-results/search?q=%s",
+  "description": "FoxNews",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

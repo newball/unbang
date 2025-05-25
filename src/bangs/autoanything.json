@@ -1,0 +1,8 @@
+{
+  "bang": "autoanything",
+  "domain": "https://www.autoanything.com",
+  "url": "http://www.autoanything.com/shop/%s",
+  "description": "AutoAnything",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

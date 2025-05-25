@@ -1,0 +1,8 @@
+{
+  "bang": "made",
+  "domain": "https://www.made.com",
+  "url": "http://www.made.com/catalogsearch/result/?q=%s",
+  "description": "Made.com",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

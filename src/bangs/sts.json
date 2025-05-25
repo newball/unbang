@@ -1,0 +1,8 @@
+{
+  "bang": "sts",
+  "domain": "https://st-takla.org",
+  "url": "http://st-takla.org/Coptic-Search-St-Takla.org/site_search.php?q=%s&op=and",
+  "description": "st-takla.org",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wordnik",
+  "domain": "https://www.wordnik.com",
+  "url": "http://www.wordnik.com/words/%s",
+  "description": "Wordnik",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

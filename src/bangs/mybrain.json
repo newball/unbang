@@ -1,0 +1,8 @@
+{
+  "bang": "mybrain",
+  "domain": "https://mywellbrain.com",
+  "url": "https://mywellbrain.com/?s=%s",
+  "description": "mywellbrain",
+  "category": "Research",
+  "sub-category": "Health"
+}

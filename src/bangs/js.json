@@ -1,0 +1,8 @@
+{
+  "bang": "js",
+  "domain": "https://developer.mozilla.org",
+  "url": "https://developer.mozilla.org/en-US/search?topic=api&topic=js&q=%s",
+  "description": "Mozilla Developer Network",
+  "category": "Tech",
+  "sub-category": "Languages (javascript)"
+}

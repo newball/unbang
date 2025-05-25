@@ -1,0 +1,8 @@
+{
+  "bang": "daen",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#da/en/%s",
+  "description": "Google Translate da-en",
+  "category": "Translation",
+  "sub-category": "Google"
+}

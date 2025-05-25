@@ -1,0 +1,8 @@
+{
+  "bang": "autobus",
+  "domain": "https://seznam-autobusu.cz",
+  "url": "http://seznam-autobusu.cz/seznam?numberPlateOrNumber=%s",
+  "description": "seznam-autobusu.cz",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

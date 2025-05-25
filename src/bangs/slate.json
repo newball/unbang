@@ -1,0 +1,8 @@
+{
+  "bang": "slate",
+  "domain": "https://www.slate.com",
+  "url": "http://www.slate.com/search.html#search=%s",
+  "description": "Slate",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

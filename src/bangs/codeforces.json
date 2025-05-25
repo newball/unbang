@@ -1,0 +1,8 @@
+{
+  "bang": "codeforces",
+  "domain": "https://codeforces.com",
+  "url": "http://codeforces.com/search?query=%s",
+  "description": "Codeforces",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

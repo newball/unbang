@@ -1,0 +1,8 @@
+{
+  "bang": "modx",
+  "domain": "https://docs.modx.org",
+  "url": "https://docs.modx.org/current/en/search?q=%s",
+  "description": "MODX",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

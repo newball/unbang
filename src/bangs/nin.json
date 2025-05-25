@@ -1,0 +1,8 @@
+{
+  "bang": "nin",
+  "domain": "https://www.ninwiki.com",
+  "url": "http://www.ninwiki.com/index.php?title=Special:Search&redirs=0&search=%s&fulltext=Search",
+  "description": "Nine Inch Nails Wiki",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

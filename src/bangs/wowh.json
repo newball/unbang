@@ -1,0 +1,8 @@
+{
+  "bang": "wowh",
+  "domain": "https://www.wowhead.com",
+  "url": "http://www.wowhead.com/search?q=%s",
+  "description": "Wowhead",
+  "category": "Entertainment",
+  "sub-category": "Games (WOW)"
+}

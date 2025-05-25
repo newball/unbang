@@ -1,0 +1,8 @@
+{
+  "bang": "swisspost",
+  "domain": "https://www.post.ch",
+  "url": "https://www.post.ch/EasyTrack/submitParcelData.do?formattedParcelCodes=%s",
+  "description": "Swiss Post",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

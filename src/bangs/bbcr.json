@@ -1,0 +1,8 @@
+{
+  "bang": "bbcr",
+  "domain": "https://www.bbc.co.uk",
+  "url": "http://www.bbc.co.uk/search?q=%s",
+  "description": "BBC Resources",
+  "category": "Research",
+  "sub-category": "Reference"
+}

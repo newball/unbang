@@ -1,0 +1,8 @@
+{
+  "bang": "wpse",
+  "domain": "https://wordpress.stackexchange.com",
+  "url": "http://wordpress.stackexchange.com/search?q=%s ",
+  "description": "WordPress StackExchange",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks (wordpress)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "kolwiki",
+  "domain": "https://kol.coldfront.net",
+  "url": "http://kol.coldfront.net/thekolwiki/index.php?title=Special%3ASearch&profile=default&search=%s&fulltext=Search",
+  "description": "The KoL Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

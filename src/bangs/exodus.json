@@ -1,0 +1,8 @@
+{
+  "bang": "exodus",
+  "domain": "https://reports.exodus-privacy.eu.org",
+  "url": "https://reports.exodus-privacy.eu.org/reports/search/%s",
+  "description": "εxodus Privacy",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

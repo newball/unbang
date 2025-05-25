@@ -1,0 +1,8 @@
+{
+  "bang": "sourcegraph",
+  "domain": "https://sourcegraph.com",
+  "url": "https://sourcegraph.com/github.com/%s",
+  "description": "Sourcegraph",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

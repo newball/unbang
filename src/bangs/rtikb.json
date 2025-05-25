@@ -1,0 +1,8 @@
+{
+  "bang": "rtikb",
+  "domain": "https://community.rti.com",
+  "url": "https://community.rti.com/search/kb/%s",
+  "description": "RTI Knowledge Base",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

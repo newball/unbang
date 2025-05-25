@@ -1,0 +1,8 @@
+{
+  "bang": "vk",
+  "domain": "https://vk.com",
+  "url": "http://vk.com/search?c[q]=%s&c[section]=auto",
+  "description": "Vkontakte",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

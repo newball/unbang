@@ -1,0 +1,8 @@
+{
+  "bang": "chillingeffects",
+  "domain": "https://www.chillingeffects.org",
+  "url": "https://www.chillingeffects.org/notices/search?&term=%s",
+  "description": "Chilling Effects",
+  "category": "Research",
+  "sub-category": "Reference"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "cheese",
+  "domain": "https://www.cheese.com",
+  "url": "http://www.cheese.com/?q=%s",
+  "description": "Cheese",
+  "category": "Research",
+  "sub-category": "Food"
+}

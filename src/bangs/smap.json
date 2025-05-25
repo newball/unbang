@@ -1,0 +1,8 @@
+{
+  "bang": "smap",
+  "domain": "https://streetmap.co.uk",
+  "url": "http://streetmap.co.uk/postcode/%s",
+  "description": "Streetmap",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

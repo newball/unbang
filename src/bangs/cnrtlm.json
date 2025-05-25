@@ -1,0 +1,8 @@
+{
+  "bang": "cnrtlm",
+  "domain": "https://www.cnrtl.fr",
+  "url": "http://www.cnrtl.fr/morphologie/%s",
+  "description": "cnrtl morphologie",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

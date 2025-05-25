@@ -1,0 +1,8 @@
+{
+  "bang": "pbteen",
+  "domain": "https://www.pbteen.com",
+  "url": "http://www.pbteen.com/search/results.html?words=%s",
+  "description": "PBteen",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

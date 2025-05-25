@@ -1,0 +1,8 @@
+{
+  "bang": "wla",
+  "domain": "https://la.wikipedia.org",
+  "url": "http://la.wikipedia.org/w/index.php?search=%s ",
+  "description": "Latin Wikipedia",
+  "category": "Research",
+  "sub-category": "Reference"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wikiloc",
+  "domain": "https://www.wikiloc.com",
+  "url": "http://www.wikiloc.com/wikiloc/find.do?q=%s",
+  "description": "Wikiloc",
+  "category": "Research",
+  "sub-category": "Travel"
+}

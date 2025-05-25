@@ -1,0 +1,8 @@
+{
+  "bang": "racket",
+  "domain": "https://docs.racket-lang.org",
+  "url": "http://docs.racket-lang.org/search/index.html?q=%s",
+  "description": "Racket",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

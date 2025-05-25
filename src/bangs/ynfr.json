@@ -1,0 +1,8 @@
+{
+  "bang": "ynfr",
+  "domain": "https://fr.news.search.yahoo.com",
+  "url": "https://fr.news.search.yahoo.com/search?p=%s",
+  "description": "Yahoo news france",
+  "category": "Online Services",
+  "sub-category": "Social news/links"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "hgnc",
+  "domain": "https://www.genenames.org",
+  "url": "http://www.genenames.org/cgi-bin/quick_search.pl?submit=Submit&search=%s",
+  "description": "HUGO Gene Nomenclature Committee (HGNC)",
+  "category": "Research",
+  "sub-category": "Health"
+}

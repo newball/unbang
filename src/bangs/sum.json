@@ -1,0 +1,8 @@
+{
+  "bang": "sum",
+  "domain": "https://sum.in.ua",
+  "url": "http://sum.in.ua/?swrd=%s ",
+  "description": "Dictionary of Ukrainian Language (Словник української мови)",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

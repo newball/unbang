@@ -1,0 +1,8 @@
+{
+  "bang": "cdn",
+  "domain": "https://www.cdnjs.com",
+  "url": "http://www.cdnjs.com/#/search/%s ",
+  "description": "Cdn js",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

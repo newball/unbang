@@ -1,0 +1,8 @@
+{
+  "bang": "osmlink",
+  "domain": "https://www.openlinkmap.org",
+  "url": "http://www.openlinkmap.org/?q=%s",
+  "description": "OpenLinkMap",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

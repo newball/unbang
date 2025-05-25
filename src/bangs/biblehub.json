@@ -1,0 +1,8 @@
+{
+  "bang": "biblehub",
+  "domain": "https://biblemenus.com",
+  "url": "http://biblemenus.com/search.php?q=%s",
+  "description": "BibleHub",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gsa",
+  "domain": "https://www.gsaadvantage.gov",
+  "url": "https://www.gsaadvantage.gov/advantage/s/search.do?q=0:0%s&db=0&searchType=1",
+  "description": "GSA Advantage",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

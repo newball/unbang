@@ -1,0 +1,8 @@
+{
+  "bang": "morbo",
+  "domain": "https://morbotron.com",
+  "url": "https://morbotron.com/?q=%s",
+  "description": "Morbotron",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

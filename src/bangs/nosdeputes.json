@@ -1,0 +1,8 @@
+{
+  "bang": "nosdeputes",
+  "domain": "https://www.nosdeputes.fr",
+  "url": "https://www.nosdeputes.fr/recherche/%s",
+  "description": "NosDéputés.Fr",
+  "category": "Research",
+  "sub-category": "Government"
+}

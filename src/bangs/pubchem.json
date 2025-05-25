@@ -1,0 +1,8 @@
+{
+  "bang": "pubchem",
+  "domain": "https://www.ncbi.nlm.nih.gov",
+  "url": "http://www.ncbi.nlm.nih.gov/pccompound/?term=%s",
+  "description": "PubChem",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "rustrfc",
+  "domain": "https://github.com",
+  "url": "https://github.com/rust-lang/rfcs/issues?utf8=✓&q=%s",
+  "description": "Rust RFC GitHub.com",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

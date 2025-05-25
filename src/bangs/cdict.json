@@ -1,0 +1,8 @@
+{
+  "bang": "cdict",
+  "domain": "https://cdict.net",
+  "url": "https://cdict.net/?q=%s",
+  "description": "Chinese-English Dictionary/Calculator",
+  "category": "Research",
+  "sub-category": "Learning"
+}

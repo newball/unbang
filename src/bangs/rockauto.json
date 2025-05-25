@@ -1,0 +1,8 @@
+{
+  "bang": "rockauto",
+  "domain": "https://www.rockauto.com",
+  "url": "https://www.rockauto.com/en/partsearch/?partnum=%s",
+  "description": "RockAuto",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "vgpc",
+  "domain": "https://videogames.pricecharting.com",
+  "url": "http://videogames.pricecharting.com/search?q=%s&submit=Go",
+  "description": "Video Game Price Charts",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ol",
+  "domain": "https://search.oregonlive.com",
+  "url": "http://search.oregonlive.com/%s",
+  "description": "OregonLive",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

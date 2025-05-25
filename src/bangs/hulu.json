@@ -1,0 +1,8 @@
+{
+  "bang": "hulu",
+  "domain": "https://www.hulu.com",
+  "url": "http://www.hulu.com/search?query=%s",
+  "description": "Hulu",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

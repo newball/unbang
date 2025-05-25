@@ -1,0 +1,8 @@
+{
+  "bang": "ralit",
+  "domain": "https://search.rockwellautomation.com",
+  "url": "http://search.rockwellautomation.com/search?q=%s&client=literature&filter=0&ie=UTF-8&oe=UTF-8&output=xml_no_dtd&proxystylesheet=literature&site=literature&getfields=*&lang=en&hl=en&num=20&requiredfields=xlanguage%3AMU%7Cxlanguage%3AEN",
+  "description": "Rockwell Automation Literature",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

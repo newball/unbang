@@ -1,0 +1,8 @@
+{
+  "bang": "zabasearch",
+  "domain": "https://www.zabasearch.com",
+  "url": "http://www.zabasearch.com/people/%s",
+  "description": "Zabasearch",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

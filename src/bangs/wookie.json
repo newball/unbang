@@ -1,0 +1,8 @@
+{
+  "bang": "wookie",
+  "domain": "https://starwars.wikia.com",
+  "url": "http://starwars.wikia.com/wiki/Special:Search?search=%s&go=&fulltext=Search",
+  "description": "Wookiepedia",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

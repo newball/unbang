@@ -1,0 +1,8 @@
+{
+  "bang": "cstheory",
+  "domain": "https://cstheory.stackexchange.com",
+  "url": "http://cstheory.stackexchange.com/search?q=%s",
+  "description": "Theoretical Computer Science - Stack Exchange",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "github",
+  "domain": "https://github.com",
+  "url": "http://github.com/search?q=%s&type=Everything&repo=&langOverride=&start_value=1",
+  "description": "GitHub.com",
+  "category": "Tech",
+  "sub-category": "Downloads (code)"
+}

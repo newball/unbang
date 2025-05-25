@@ -1,0 +1,8 @@
+{
+  "bang": "wtru",
+  "domain": "https://ru.wiktionary.org",
+  "url": "http://ru.wiktionary.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "ru.wiktionary.org",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

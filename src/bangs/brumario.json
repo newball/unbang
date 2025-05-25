@@ -1,0 +1,8 @@
+{
+  "bang": "brumario",
+  "domain": "https://brumario.usal.es",
+  "url": "http://brumario.usal.es/search/?searchtype=X&searcharg=%s &op=Buscar&SORT=D&searchscope=",
+  "description": "Biblioteca - Universidad de Salamanca",
+  "category": "Research",
+  "sub-category": "Academic"
+}

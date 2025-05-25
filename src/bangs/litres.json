@@ -1,0 +1,8 @@
+{
+  "bang": "litres",
+  "domain": "https://www.litres.ru",
+  "url": "https://www.litres.ru/pages/rmd_search/?q=%s",
+  "description": "Litres",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

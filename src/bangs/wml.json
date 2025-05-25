@@ -1,0 +1,8 @@
+{
+  "bang": "wml",
+  "domain": "https://ml.wikipedia.org",
+  "url": "https://ml.wikipedia.org/w/index.php?search=%s",
+  "description": "Wikipedia (Malayalam)",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

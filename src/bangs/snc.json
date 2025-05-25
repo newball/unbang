@@ -1,0 +1,8 @@
+{
+  "bang": "snc",
+  "domain": "https://developer.servicenow.com",
+  "url": "https://developer.servicenow.com/app.do#!/search?category=API&q=%s",
+  "description": "ServiceNow",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

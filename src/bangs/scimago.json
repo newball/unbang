@@ -1,0 +1,8 @@
+{
+  "bang": "scimago",
+  "domain": "https://scimagojr.com",
+  "url": "http://scimagojr.com/journalsearch.php?q=%s",
+  "description": "SCImago Journal Rank",
+  "category": "Research",
+  "sub-category": "Academic"
+}

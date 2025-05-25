@@ -1,0 +1,8 @@
+{
+  "bang": "lk",
+  "domain": "https://www.lolking.net",
+  "url": "http://www.lolking.net/search?name=%s",
+  "description": "LolKing",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

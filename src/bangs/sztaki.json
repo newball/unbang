@@ -1,0 +1,8 @@
+{
+  "bang": "sztaki",
+  "domain": "https://szotar.sztaki.hu",
+  "url": "http://szotar.sztaki.hu/search?searchWord=%s",
+  "description": "SZTAKI Szótár",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

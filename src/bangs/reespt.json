@@ -1,0 +1,8 @@
+{
+  "bang": "reespt",
+  "domain": "https://dictionary.reverso.net",
+  "url": "http://dictionary.reverso.net/spanish-portuguese/%s",
+  "description": "Reverso",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

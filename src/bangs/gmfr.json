@@ -1,0 +1,8 @@
+{
+  "bang": "gmfr",
+  "domain": "https://www.google.fr",
+  "url": "https://www.google.fr/maps/search/%s",
+  "description": "maps.google.com",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

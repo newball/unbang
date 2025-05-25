@@ -1,0 +1,8 @@
+{
+  "bang": "pylm",
+  "domain": "https://pylint-messages.wikidot.com",
+  "url": "http://pylint-messages.wikidot.com/messages:%s",
+  "description": "PyLint Messages",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

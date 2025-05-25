@@ -1,0 +1,8 @@
+{
+  "bang": "twid",
+  "domain": "https://twitter.com",
+  "url": "https://twitter.com/intent/user?user_id=%s",
+  "description": "Twitter",
+  "category": "Research",
+  "sub-category": "Academic"
+}

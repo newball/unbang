@@ -1,0 +1,8 @@
+{
+  "bang": "blenderapi",
+  "domain": "https://docs.blender.org",
+  "url": "https://docs.blender.org/api/current/search.html?q=%s",
+  "description": "Blender API",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

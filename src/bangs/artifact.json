@@ -1,0 +1,8 @@
+{
+  "bang": "artifact",
+  "domain": "https://artifact.gamepedia.com",
+  "url": "https://artifact.gamepedia.com/index.php?search=%s",
+  "description": "Artifact Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

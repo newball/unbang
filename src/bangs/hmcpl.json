@@ -1,0 +1,8 @@
+{
+  "bang": "hmcpl",
+  "domain": "https://catalog.hmcpl.org",
+  "url": "https://catalog.hmcpl.org/cgi-bin/koha/opac-search.pl?q=%s",
+  "description": "Huntsville-Madison County Public Library",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

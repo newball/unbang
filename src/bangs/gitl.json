@@ -1,0 +1,8 @@
+{
+  "bang": "gitl",
+  "domain": "https://www.google.it",
+  "url": "http://www.google.it/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google IT",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

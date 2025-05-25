@@ -1,0 +1,8 @@
+{
+  "bang": "voiddocs",
+  "domain": "https://docs.voidlinux.org",
+  "url": "https://docs.voidlinux.org/?search=%s",
+  "description": "Void Linux Handbook",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

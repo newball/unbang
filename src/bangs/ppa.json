@@ -1,0 +1,8 @@
+{
+  "bang": "ppa",
+  "domain": "https://launchpad.net",
+  "url": "https://launchpad.net/ubuntu/+ppas?name_filter=%s",
+  "description": "Personal Package Archives for Ubuntu",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

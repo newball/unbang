@@ -1,0 +1,8 @@
+{
+  "bang": "ucllib",
+  "domain": "https://ucl-new-primo.hosted.exlibrisgroup.com",
+  "url": "https://ucl-new-primo.hosted.exlibrisgroup.com/primo-explore/search?query=any,contains,%s&offset=0&tab=local&vid=UCL_VU2&search_scope=CSCOP_UCL",
+  "description": "UCL Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

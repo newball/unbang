@@ -1,0 +1,8 @@
+{
+  "bang": "igem",
+  "domain": "https://parts.igem.org",
+  "url": "http://parts.igem.org/Special:Search?search=%s ",
+  "description": "parts.igem.org",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "azl",
+  "domain": "https://search.azlyrics.com",
+  "url": "http://search.azlyrics.com/search.php?q=%s",
+  "description": "Az Lyrics",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

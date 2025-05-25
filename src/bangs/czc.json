@@ -1,0 +1,8 @@
+{
+  "bang": "czc",
+  "domain": "https://www.czc.cz",
+  "url": "http://www.czc.cz/search?q-fulltext=%s",
+  "description": "CZC.cz",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "vik",
+  "domain": "https://www.viki.com",
+  "url": "https://www.viki.com/search?q=%s",
+  "description": "Viki.com",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "itch",
+  "domain": "https://itch.io",
+  "url": "https://itch.io/search?q=%s",
+  "description": "itch.io",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

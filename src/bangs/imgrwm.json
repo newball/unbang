@@ -1,0 +1,8 @@
+{
+  "bang": "imgrwm",
+  "domain": "https://google.com",
+  "url": "https://google.com/search?tbm=isch&q=%s&tbs=imgo:1#q=%s&tbs=imgo:1,sur:fmc&tbm=isch",
+  "description": "Google Image Search - Tagged for Reuse with modification",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

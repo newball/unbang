@@ -1,0 +1,8 @@
+{
+  "bang": "unescowhc",
+  "domain": "https://whc.unesco.org",
+  "url": "http://whc.unesco.org/en/search/?criteria=%s",
+  "description": "UNESCO World Heritage Centre",
+  "category": "Research",
+  "sub-category": "Reference"
+}

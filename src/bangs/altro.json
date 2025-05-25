@@ -1,0 +1,8 @@
+{
+  "bang": "altro",
+  "domain": "https://www.altroconsumo.it",
+  "url": "http://www.altroconsumo.it/Serp/ShowResults?keyword=%s",
+  "description": "Altroconsumo",
+  "category": "News",
+  "sub-category": "Magazine"
+}

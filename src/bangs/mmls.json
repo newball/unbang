@@ -1,0 +1,8 @@
+{
+  "bang": "mmls",
+  "domain": "https://find.minlib.net",
+  "url": "http://find.minlib.net/iii/encore/search?formids=target&lang=eng&suite=def&reservedids=lang%2Csuite&submitmode=&submitname=&target=%s",
+  "description": "Minuteman Library Network",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

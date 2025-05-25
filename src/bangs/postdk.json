@@ -1,0 +1,8 @@
+{
+  "bang": "postdk",
+  "domain": "https://www.postnord.dk",
+  "url": "http://www.postnord.dk/da/Sider/TrackTrace.aspx?search=%s",
+  "description": "Postnord DK",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

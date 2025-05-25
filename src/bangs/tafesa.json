@@ -1,0 +1,8 @@
+{
+  "bang": "tafesa",
+  "domain": "https://www.tafesa.edu.au",
+  "url": "https://www.tafesa.edu.au/search-results?indexCatalogue=all&searchQuery=%s",
+  "description": "TAFE SA",
+  "category": "Research",
+  "sub-category": "Learning"
+}

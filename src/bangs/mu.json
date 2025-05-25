@@ -1,0 +1,8 @@
+{
+  "bang": "mu",
+  "domain": "https://macupdate.com",
+  "url": "http://macupdate.com/find/mac/%s",
+  "description": "MacUpdate",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

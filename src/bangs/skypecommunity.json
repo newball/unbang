@@ -1,0 +1,8 @@
+{
+  "bang": "skypecommunity",
+  "domain": "https://community.skype.com",
+  "url": "http://community.skype.com/t5/forums/searchpage/tab/message?filter=labels%2Clocation&location=category%3AEnglish&q=%s ",
+  "description": "Skype Community",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

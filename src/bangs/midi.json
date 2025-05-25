@@ -1,0 +1,8 @@
+{
+  "bang": "midi",
+  "domain": "https://freemidi.org",
+  "url": "https://freemidi.org/search?q=%s",
+  "description": "freemidi.org",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

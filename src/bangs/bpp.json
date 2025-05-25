@@ -1,0 +1,8 @@
+{
+  "bang": "bpp",
+  "domain": "https://bibliotheques.paris.fr",
+  "url": "https://bibliotheques.paris.fr/Default/search.aspx?SC=CATALOGUE&QUERY=%s&QUERY_LABEL=",
+  "description": "Bibliothèques de prêt de la Ville de Paris",
+  "category": "Research",
+  "sub-category": "Local"
+}

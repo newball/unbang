@@ -1,0 +1,8 @@
+{
+  "bang": "littre",
+  "domain": "https://www.littre.org",
+  "url": "http://www.littre.org/definition/%s",
+  "description": "Dictionnaire Littré",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

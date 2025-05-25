@@ -1,0 +1,8 @@
+{
+  "bang": "vsb",
+  "domain": "https://www.vsb.bc.ca",
+  "url": "http://www.vsb.bc.ca/search/node/%s",
+  "description": "Vancouver School District",
+  "category": "Research",
+  "sub-category": "Academic"
+}

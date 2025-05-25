@@ -1,0 +1,8 @@
+{
+  "bang": "tam",
+  "domain": "https://markets.theaustralian.com.au",
+  "url": "https://markets.theaustralian.com.au/shares/%s",
+  "description": "The Australian Markets",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

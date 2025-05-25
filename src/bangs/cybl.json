@@ -1,0 +1,8 @@
+{
+  "bang": "cybl",
+  "domain": "https://cyberleninka.ru",
+  "url": "https://cyberleninka.ru/search?q=%s",
+  "description": "Киберленинка",
+  "category": "Research",
+  "sub-category": "Academic"
+}

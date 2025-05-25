@@ -1,0 +1,8 @@
+{
+  "bang": "epsg",
+  "domain": "https://spatialreference.org",
+  "url": "http://spatialreference.org/ref/?search=epsg:%s",
+  "description": "Spatial Reference",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

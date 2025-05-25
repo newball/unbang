@@ -1,0 +1,8 @@
+{
+  "bang": "listennotes",
+  "domain": "https://www.listennotes.com",
+  "url": "https://www.listennotes.com/search?q=%s",
+  "description": "Listen Notes",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

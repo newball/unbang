@@ -1,0 +1,8 @@
+{
+  "bang": "legisqc",
+  "domain": "https://legisquebec.gouv.qc.ca",
+  "url": "http://legisquebec.gouv.qc.ca/fr/result?command=search&length=10&search_type=all&title_search_type=any&corpus=all&corpusType=c&langCont=fr&fragment=%s&shorttitle=&stemmed=stemmed",
+  "description": "http://legisquebec.gouv.qc.ca/",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

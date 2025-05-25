@@ -1,0 +1,8 @@
+{
+  "bang": "nationalobserver",
+  "domain": "https://www.nationalobserver.com",
+  "url": "https://www.nationalobserver.com/search?keywords=%s",
+  "description": "National Observer",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "tyurl",
+  "domain": "https://tinyurl.com",
+  "url": "https://tinyurl.com/create.php?source=indexpage&url=%s&submit=Make+TinyURL%21&alias= ",
+  "description": "TinyUrl",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

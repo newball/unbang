@@ -1,0 +1,8 @@
+{
+  "bang": "lconj",
+  "domain": "https://www.larousse.fr",
+  "url": "https://www.larousse.fr/conjugaison/francais/%s",
+  "description": "Larousse Conjugaison",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

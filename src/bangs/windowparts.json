@@ -1,0 +1,8 @@
+{
+  "bang": "windowparts",
+  "domain": "https://www.windowparts.co.uk",
+  "url": "http://www.windowparts.co.uk/catalogsearch/result/?q=%s",
+  "description": "WindowParts",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

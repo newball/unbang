@@ -1,0 +1,8 @@
+{
+  "bang": "kart",
+  "domain": "https://kart.finn.no",
+  "url": "https://kart.finn.no/?q=%s",
+  "description": "FINN kart",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

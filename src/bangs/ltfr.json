@@ -1,0 +1,8 @@
+{
+  "bang": "ltfr",
+  "domain": "https://www.larousse.fr",
+  "url": "https://www.larousse.fr/dictionnaires/italien-francais/%s",
+  "description": "Larousse",
+  "category": "Translation",
+  "sub-category": "General"
+}

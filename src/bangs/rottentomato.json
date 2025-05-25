@@ -1,0 +1,8 @@
+{
+  "bang": "rottentomato",
+  "domain": "https://www.rottentomatoes.com",
+  "url": "http://www.rottentomatoes.com/search/?search=%s",
+  "description": "Rotten Tomato",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "plde",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#view=home&op=translate&sl=pl&tl=de&text=%s",
+  "description": "google translate pl-de",
+  "category": "Translation",
+  "sub-category": "Google"
+}

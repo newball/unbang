@@ -1,0 +1,8 @@
+{
+  "bang": "iscrap",
+  "domain": "https://iscrapapp.com",
+  "url": "http://iscrapapp.com/?SearchTxt=%s",
+  "description": "iScrapApp",
+  "category": "Research",
+  "sub-category": "Local"
+}

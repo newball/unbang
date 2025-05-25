@@ -1,0 +1,8 @@
+{
+  "bang": "unm",
+  "domain": "https://search.unm.edu",
+  "url": "http://search.unm.edu/search?q=%s",
+  "description": "University of New Mexico",
+  "category": "Research",
+  "sub-category": "Academic"
+}

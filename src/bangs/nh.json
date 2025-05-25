@@ -1,0 +1,8 @@
+{
+  "bang": "nh",
+  "domain": "https://nethackwiki.com",
+  "url": "https://nethackwiki.com/mediawiki/index.php?search=%s",
+  "description": "NetHack Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

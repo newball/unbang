@@ -1,0 +1,8 @@
+{
+  "bang": "snd",
+  "domain": "https://www.snapdeal.com",
+  "url": "http://www.snapdeal.com/search?noOfResults=20&keyword=%s",
+  "description": "SnapDeal",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "viaplay",
+  "domain": "https://viaplay.com",
+  "url": "https://viaplay.com/search?query=%s",
+  "description": "Viaplay",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

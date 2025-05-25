@@ -1,0 +1,8 @@
+{
+  "bang": "societe",
+  "domain": "https://www.societe.com",
+  "url": "http://www.societe.com/cgi-bin/search?champs=%s",
+  "description": "societe.com",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

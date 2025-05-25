@@ -1,0 +1,8 @@
+{
+  "bang": "osmc",
+  "domain": "https://discourse.osmc.tv",
+  "url": "https://discourse.osmc.tv/search?q=%s",
+  "description": "OSMC",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

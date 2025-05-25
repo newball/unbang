@@ -1,0 +1,8 @@
+{
+  "bang": "serverfault",
+  "domain": "https://serverfault.com",
+  "url": "http://serverfault.com/search?q=%s",
+  "description": "ServerFault",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

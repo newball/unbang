@@ -1,0 +1,8 @@
+{
+  "bang": "tmn",
+  "domain": "https://www.travelmath.com",
+  "url": "http://www.travelmath.com/nearest-airport/%s",
+  "description": "TravelMath",
+  "category": "Research",
+  "sub-category": "Travel"
+}

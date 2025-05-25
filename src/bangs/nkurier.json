@@ -1,0 +1,8 @@
+{
+  "bang": "nkurier",
+  "domain": "https://www.nordkurier.de",
+  "url": "http://www.nordkurier.de/suche?text=%s",
+  "description": "Nordkurier",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

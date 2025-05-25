@@ -1,0 +1,8 @@
+{
+  "bang": "cantodict",
+  "domain": "https://www.cantonese.sheik.co.uk",
+  "url": "http://www.cantonese.sheik.co.uk/dictionary/search/?searchtype=1&text=%s",
+  "description": "CantoDict",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "g.de",
+  "domain": "https://www.google.de",
+  "url": "https://www.google.de/#q=%s",
+  "description": "Google Germany",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

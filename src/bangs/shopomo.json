@@ -1,0 +1,8 @@
+{
+  "bang": "shopomo",
+  "domain": "https://www.shopomo.com",
+  "url": "http://www.shopomo.com/search?q=%s ",
+  "description": "Shopomo",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

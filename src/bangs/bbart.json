@@ -1,0 +1,8 @@
+{
+  "bang": "bbart",
+  "domain": "https://www.breitbart.com",
+  "url": "http://www.breitbart.com/search/?s=%s",
+  "description": "Breitbart",
+  "category": "News",
+  "sub-category": "International"
+}

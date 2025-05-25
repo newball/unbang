@@ -1,0 +1,8 @@
+{
+  "bang": "cdown",
+  "domain": "https://currentlydown.com",
+  "url": "http://currentlydown.com/%s",
+  "description": "Currently Down",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

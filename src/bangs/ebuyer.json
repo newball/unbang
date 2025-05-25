@@ -1,0 +1,8 @@
+{
+  "bang": "ebuyer",
+  "domain": "https://www.ebuyer.com",
+  "url": "https://www.ebuyer.com/search?q=%s",
+  "description": "eBuyer",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "difm",
+  "domain": "https://www.di.fm",
+  "url": "https://www.di.fm/search?q=%s",
+  "description": "Digitally Imported",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

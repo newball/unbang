@@ -1,0 +1,8 @@
+{
+  "bang": "tpo",
+  "domain": "https://tpo.nl",
+  "url": "http://tpo.nl/?s=%s",
+  "description": "ThePostOnline",
+  "category": "News",
+  "sub-category": "Specialty"
+}

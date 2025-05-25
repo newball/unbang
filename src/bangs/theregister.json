@@ -1,0 +1,8 @@
+{
+  "bang": "theregister",
+  "domain": "https://search.theregister.co.uk",
+  "url": "http://search.theregister.co.uk/?q=%s&advanced=1&author=&date=the+dawn+of+time&site=all+The+Register+sites&results_per_page=100",
+  "description": "the register",
+  "category": "News",
+  "sub-category": "International"
+}

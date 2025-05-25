@@ -1,0 +1,8 @@
+{
+  "bang": "tindie",
+  "domain": "https://www.tindie.com",
+  "url": "https://www.tindie.com/search/?q=%s",
+  "description": "tindie",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

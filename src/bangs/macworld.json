@@ -1,0 +1,8 @@
+{
+  "bang": "macworld",
+  "domain": "https://www.macworld.com",
+  "url": "http://www.macworld.com/search?query=%s &submit=search",
+  "description": "Macworld",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "chp",
+  "domain": "https://www.computerhope.com",
+  "url": "https://www.computerhope.com/search2.htm?q=%s",
+  "description": "Computer Hope",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "synonymes",
+  "domain": "https://synonymes.com",
+  "url": "http://synonymes.com/resultats.php?mot=%s",
+  "description": "Synonymes",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

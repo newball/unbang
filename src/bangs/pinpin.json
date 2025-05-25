@@ -1,0 +1,8 @@
+{
+  "bang": "pinpin",
+  "domain": "https://dictionary.pinpinchinese.com",
+  "url": "http://dictionary.pinpinchinese.com/search/t/%s",
+  "description": "Pin Pin Chinese Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

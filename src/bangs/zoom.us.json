@@ -1,0 +1,8 @@
+{
+  "bang": "zoom.us",
+  "domain": "https://zoom.us",
+  "url": "https://zoom.us/?q=%s",
+  "description": "zoom.us",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

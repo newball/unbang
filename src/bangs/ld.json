@@ -1,0 +1,8 @@
+{
+  "bang": "ld",
+  "domain": "https://www.ldoceonline.com",
+  "url": "http://www.ldoceonline.com/search/?q=%s",
+  "description": "Longman Dictionary of Contemporary English",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

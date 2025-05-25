@@ -1,0 +1,8 @@
+{
+  "bang": "scribd",
+  "domain": "https://www.scribd.com",
+  "url": "http://www.scribd.com/search?query=%s",
+  "description": "Scribd",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

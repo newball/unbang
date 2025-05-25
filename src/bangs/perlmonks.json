@@ -1,0 +1,8 @@
+{
+  "bang": "perlmonks",
+  "domain": "https://www.perlmonks.org",
+  "url": "http://www.perlmonks.org/?node=%s",
+  "description": "PerlMonks.org",
+  "category": "Tech",
+  "sub-category": "Languages (perl)"
+}

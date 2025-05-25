@@ -1,0 +1,8 @@
+{
+  "bang": "jumbosupermarkt",
+  "domain": "https://www.jumbo.com",
+  "url": "http://www.jumbo.com/zoeken?SearchTerm=%s",
+  "description": "Jumbo Supermarkten",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

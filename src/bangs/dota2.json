@@ -1,0 +1,8 @@
+{
+  "bang": "dota2",
+  "domain": "https://wiki.teamliquid.net",
+  "url": "http://wiki.teamliquid.net/dota2/index.php?search=%s",
+  "description": "Teamliquid Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

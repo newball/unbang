@@ -1,0 +1,8 @@
+{
+  "bang": "sbopkg",
+  "domain": "https://slackbuilds.org",
+  "url": "https://slackbuilds.org/result/?search=%s",
+  "description": "SlackBuilds.org",
+  "category": "Tech",
+  "sub-category": "Sysadmin (packages)"
+}

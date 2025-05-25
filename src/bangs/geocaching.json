@@ -1,0 +1,8 @@
+{
+  "bang": "geocaching",
+  "domain": "https://www.geocaching.com",
+  "url": "http://www.geocaching.com/seek/nearest.aspx?key=%s",
+  "description": "Geocaching.com",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

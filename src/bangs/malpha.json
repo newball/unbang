@@ -1,0 +1,8 @@
+{
+  "bang": "malpha",
+  "domain": "https://memory-alpha.org",
+  "url": "http://memory-alpha.org/index.php?search=%s",
+  "description": "Memory Alpha",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

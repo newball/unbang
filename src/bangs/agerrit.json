@@ -1,0 +1,8 @@
+{
+  "bang": "agerrit",
+  "domain": "https://android-review.googlesource.com",
+  "url": "https://android-review.googlesource.com/q/%s",
+  "description": "Android Code Review (Gerrit)",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

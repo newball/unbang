@@ -1,0 +1,8 @@
+{
+  "bang": "tmblog",
+  "domain": "https://blog.trendmicro.com",
+  "url": "https://blog.trendmicro.com/?s=%s",
+  "description": "Trend Micro Security Blog",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

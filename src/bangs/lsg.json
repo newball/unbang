@@ -1,0 +1,8 @@
+{
+  "bang": "lsg",
+  "domain": "https://www.lazada.sg",
+  "url": "http://www.lazada.sg/catalog/?q=%s",
+  "description": "Lazada Singapore",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

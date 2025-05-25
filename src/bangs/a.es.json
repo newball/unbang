@@ -1,0 +1,8 @@
+{
+  "bang": "a.es",
+  "domain": "https://www.amazon.es",
+  "url": "https://www.amazon.es/s?k=%s",
+  "description": "Amazon ES",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

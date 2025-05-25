@@ -1,0 +1,8 @@
+{
+  "bang": "wte",
+  "domain": "https://te.wikipedia.org",
+  "url": "https://te.wikipedia.org/w/index.php?search=%s",
+  "description": "Telugu Wikipedia (tewiki)",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "meteofr",
+  "domain": "https://www.meteofrance.com",
+  "url": "http://www.meteofrance.com/recherche/resultats?facet=previsions&lieuId=&lieuType=&search-type=previsions&query=%s",
+  "description": "Météo-France",
+  "category": "News",
+  "sub-category": "Weather"
+}

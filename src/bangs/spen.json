@@ -1,0 +1,8 @@
+{
+  "bang": "spen",
+  "domain": "https://startpage.com",
+  "url": "https://startpage.com/do/dsearch?query=%s&cat=web&pl=opensearch&language=english",
+  "description": "StartPage (EN)",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

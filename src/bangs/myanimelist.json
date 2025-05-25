@@ -1,0 +1,8 @@
+{
+  "bang": "myanimelist",
+  "domain": "https://myanimelist.net",
+  "url": "http://myanimelist.net/anime.php?q=%s",
+  "description": "MyAnimeList",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

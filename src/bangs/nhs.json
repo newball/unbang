@@ -1,0 +1,8 @@
+{
+  "bang": "nhs",
+  "domain": "https://www.nhs.uk",
+  "url": "http://www.nhs.uk/Search/?q=%s",
+  "description": "NHS Choices",
+  "category": "Research",
+  "sub-category": "Health"
+}

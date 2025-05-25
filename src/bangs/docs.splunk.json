@@ -1,0 +1,8 @@
+{
+  "bang": "docs.splunk",
+  "domain": "https://docs.splunk.com",
+  "url": "https://docs.splunk.com/Special:SplunkSearch/docs?q=%s",
+  "description": "Splunk Docs",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

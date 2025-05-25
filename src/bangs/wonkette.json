@@ -1,0 +1,8 @@
+{
+  "bang": "wonkette",
+  "domain": "https://www.wonkette.com",
+  "url": "https://www.wonkette.com/search/?q=%s",
+  "description": "Wonkette",
+  "category": "News",
+  "sub-category": "Magazine"
+}

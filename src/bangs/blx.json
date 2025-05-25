@@ -1,0 +1,8 @@
+{
+  "bang": "blx",
+  "domain": "https://www.blox.pl",
+  "url": "http://www.blox.pl/html?page=blogPublicSearch&container_search=%s",
+  "description": "Blox.pl",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

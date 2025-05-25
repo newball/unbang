@@ -1,0 +1,8 @@
+{
+  "bang": "ebatesca",
+  "domain": "https://www.ebates.ca",
+  "url": "https://www.ebates.ca/srch/all?query=%s",
+  "description": "Ebates Canda",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

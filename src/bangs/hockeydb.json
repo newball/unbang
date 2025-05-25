@@ -1,0 +1,8 @@
+{
+  "bang": "hockeydb",
+  "domain": "https://www.hockeydb.com",
+  "url": "http://www.hockeydb.com/ihdb/stats/findplayer.php?full_name=%s",
+  "description": "hockeydb.com",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

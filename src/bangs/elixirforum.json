@@ -1,0 +1,8 @@
+{
+  "bang": "elixirforum",
+  "domain": "https://elixirforum.com",
+  "url": "https://elixirforum.com/search?q=%s",
+  "description": "elixirforum.com",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

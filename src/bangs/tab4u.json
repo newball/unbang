@@ -1,0 +1,8 @@
+{
+  "bang": "tab4u",
+  "domain": "https://www.tab4u.com",
+  "url": "http://www.tab4u.com/resultsSimple?tab=songs&type=song&q=%s",
+  "description": "tab4u",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

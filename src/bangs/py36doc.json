@@ -1,0 +1,8 @@
+{
+  "bang": "py36doc",
+  "domain": "https://docs.python.org",
+  "url": "https://docs.python.org/3.6/library/%s.html",
+  "description": "Python 3.6 Documentation",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

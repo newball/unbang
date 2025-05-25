@@ -1,0 +1,8 @@
+{
+  "bang": "taginfo",
+  "domain": "https://taginfo.openstreetmap.org",
+  "url": "https://taginfo.openstreetmap.org/search?q=%s",
+  "description": "OpenStreetMap Taginfo",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

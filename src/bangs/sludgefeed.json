@@ -1,0 +1,8 @@
+{
+  "bang": "sludgefeed",
+  "domain": "https://sludgefeed.com",
+  "url": "https://sludgefeed.com/?s=%s",
+  "description": "SludgeFeed",
+  "category": "News",
+  "sub-category": "Business"
+}

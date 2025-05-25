@@ -1,0 +1,8 @@
+{
+  "bang": "ncsc",
+  "domain": "https://www.ncsc.nl",
+  "url": "https://www.ncsc.nl/zoeken?trefwoord=%s",
+  "description": "Nationaal Cyber Security Centrum",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

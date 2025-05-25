@@ -1,0 +1,8 @@
+{
+  "bang": "tpl",
+  "domain": "https://www.torontopubliclibrary.ca",
+  "url": "http://www.torontopubliclibrary.ca/search.jsp?Ntt=%s",
+  "description": "Toronto Public Library",
+  "category": "Research",
+  "sub-category": "Local"
+}

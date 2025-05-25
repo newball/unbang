@@ -1,0 +1,8 @@
+{
+  "bang": "pictame",
+  "domain": "https://www.pictame.com",
+  "url": "https://www.pictame.com/search?query=%s",
+  "description": "Pictame",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

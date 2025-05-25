@@ -1,0 +1,8 @@
+{
+  "bang": "jacobin",
+  "domain": "https://jacobinmag.com",
+  "url": "https://jacobinmag.com/search?query=%s",
+  "description": "Jacobin Magazine",
+  "category": "News",
+  "sub-category": "Specialty"
+}

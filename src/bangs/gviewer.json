@@ -1,0 +1,8 @@
+{
+  "bang": "gviewer",
+  "domain": "https://docs.google.com",
+  "url": "http://docs.google.com/viewer?url=%s",
+  "description": "Google Docs Viewer",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "redpanda",
+  "domain": "https://redpandazine.com",
+  "url": "https://redpandazine.com/?s=%s",
+  "description": "Red Pandazine",
+  "category": "News",
+  "sub-category": "Magazine"
+}

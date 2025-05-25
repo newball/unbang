@@ -1,0 +1,8 @@
+{
+  "bang": "netlingo",
+  "domain": "https://www.netlingo.com",
+  "url": "http://www.netlingo.com/search.php?searchtxt=%s",
+  "description": "NetLingo",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

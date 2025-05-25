@@ -1,0 +1,8 @@
+{
+  "bang": "comix",
+  "domain": "https://www.comixology.com",
+  "url": "https://www.comixology.com/search?search=%s",
+  "description": "Comixology",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

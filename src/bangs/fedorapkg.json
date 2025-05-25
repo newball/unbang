@@ -1,0 +1,8 @@
+{
+  "bang": "fedorapkg",
+  "domain": "https://apps.fedoraproject.org",
+  "url": "https://apps.fedoraproject.org/packages/s/%s",
+  "description": "Fedora Package DB",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Fedora)"
+}

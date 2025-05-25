@@ -1,0 +1,8 @@
+{
+  "bang": "mse",
+  "domain": "https://magento.stackexchange.com",
+  "url": "https://magento.stackexchange.com/search?q=%s",
+  "description": "Magento StackExchange",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

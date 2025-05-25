@@ -1,0 +1,8 @@
+{
+  "bang": "ahmia",
+  "domain": "https://ahmia.fi",
+  "url": "https://ahmia.fi/search/?q=%s",
+  "description": "Ahmia.fi",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

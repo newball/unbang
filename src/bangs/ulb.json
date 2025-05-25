@@ -1,0 +1,8 @@
+{
+  "bang": "ulb",
+  "domain": "https://cibleplus.ulb.ac.be",
+  "url": "https://cibleplus.ulb.ac.be/primo-explore/search?query=any,contains,%s&tab=default_tab&search_scope=default_scope&vid=32ULB_VU1&lang=fr_FR&offset=0",
+  "description": "Bibliothèques de l'Université Libre de Bruxelles",
+  "category": "Research",
+  "sub-category": "Academic"
+}

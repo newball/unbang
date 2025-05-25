@@ -1,0 +1,8 @@
+{
+  "bang": "macsales",
+  "domain": "https://eshop.macsales.com",
+  "url": "https://eshop.macsales.com/search/?q=%s",
+  "description": "Other World Computing (MacSales)",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

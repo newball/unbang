@@ -1,0 +1,8 @@
+{
+  "bang": "export",
+  "domain": "https://www.weltexporte.de",
+  "url": "https://www.weltexporte.de/?s=%s",
+  "description": "Weltexporte",
+  "category": "News",
+  "sub-category": "Business"
+}

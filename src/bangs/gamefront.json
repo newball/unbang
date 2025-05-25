@@ -1,0 +1,8 @@
+{
+  "bang": "gamefront",
+  "domain": "https://www.gamefront.com",
+  "url": "https://www.gamefront.com/search/files?q=%s",
+  "description": "GameFront",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

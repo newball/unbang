@@ -1,0 +1,8 @@
+{
+  "bang": "cwt",
+  "domain": "https://crosswordtracker.com",
+  "url": "http://crosswordtracker.com/answer/%s/",
+  "description": "Crossword Tracker",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

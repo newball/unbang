@@ -1,0 +1,8 @@
+{
+  "bang": "bppro",
+  "domain": "https://pro.beatport.com",
+  "url": "https://pro.beatport.com/search?q=%s",
+  "description": "Beatport Pro",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

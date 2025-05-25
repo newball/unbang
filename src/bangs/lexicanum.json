@@ -1,0 +1,8 @@
+{
+  "bang": "lexicanum",
+  "domain": "https://wh40k.lexicanum.com",
+  "url": "http://wh40k.lexicanum.com/mediawiki/index.php?title=Special%3ASearch&search=%s",
+  "description": "Lexicanum",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

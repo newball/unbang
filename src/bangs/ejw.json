@@ -1,0 +1,8 @@
+{
+  "bang": "ejw",
+  "domain": "https://econjwatch.org",
+  "url": "https://econjwatch.org/search/?m=all&q=%s",
+  "description": "Econ Journal Watch",
+  "category": "Research",
+  "sub-category": "Academic"
+}

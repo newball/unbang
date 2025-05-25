@@ -1,0 +1,8 @@
+{
+  "bang": "rymr",
+  "domain": "https://rateyourmusic.com",
+  "url": "https://rateyourmusic.com/search?searchtype=l&searchterm=%s",
+  "description": "Rate Your Music (All releases)",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "vml",
+  "domain": "https://www.viamichelin.com",
+  "url": "https://www.viamichelin.com/web/Maps?address=%s",
+  "description": "ViaMichelin",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

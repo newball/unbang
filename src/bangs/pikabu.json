@@ -1,0 +1,8 @@
+{
+  "bang": "pikabu",
+  "domain": "https://pikabu.ru",
+  "url": "http://pikabu.ru/search.php?q=%s",
+  "description": "Pikabu.ru",
+  "category": "Entertainment",
+  "sub-category": "Blogs"
+}

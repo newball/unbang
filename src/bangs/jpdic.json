@@ -1,0 +1,8 @@
+{
+  "bang": "jpdic",
+  "domain": "https://jpdic.naver.com",
+  "url": "http://jpdic.naver.com/search.nhn?query=%s",
+  "description": "Naver Japanese Dictionary",
+  "category": "Research",
+  "sub-category": "Learning"
+}

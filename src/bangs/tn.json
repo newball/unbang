@@ -1,0 +1,8 @@
+{
+  "bang": "tn",
+  "domain": "https://www.timesnownews.com",
+  "url": "https://www.timesnownews.com/latest-news?search=%s",
+  "description": "Times Now",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

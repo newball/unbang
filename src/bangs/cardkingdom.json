@@ -1,0 +1,8 @@
+{
+  "bang": "cardkingdom",
+  "domain": "https://www.cardkingdom.com",
+  "url": "https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=%s",
+  "description": "CardKingdom",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wad",
+  "domain": "https://www.wad-archive.com",
+  "url": "http://www.wad-archive.com/search?o=d&q=%s",
+  "description": "Wad Archive",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

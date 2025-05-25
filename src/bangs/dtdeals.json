@@ -1,0 +1,8 @@
+{
+  "bang": "dtdeals",
+  "domain": "https://www.doubletakedeals.com",
+  "url": "http://www.doubletakedeals.com/searchresults?srch=%s",
+  "description": "DoubleTakeDeals",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

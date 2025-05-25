@@ -1,0 +1,8 @@
+{
+  "bang": "nih",
+  "domain": "https://search.nih.gov",
+  "url": "https://search.nih.gov/search?utf8=%E2%9C%93&affiliate=nih&query=%s&commit=Search&btnG.x=0&btnG.y=0&btnG=search",
+  "description": "NIH",
+  "category": "Research",
+  "sub-category": "Health"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ltwiki",
+  "domain": "https://lt.wikipedia.org",
+  "url": "https://lt.wikipedia.org/w/index.php?search=%s",
+  "description": "Lithuanian Wikipedia",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "vsg",
+  "domain": "https://valuestockguide.com",
+  "url": "http://valuestockguide.com/?s=%s",
+  "description": "Value Stock Guide",
+  "category": "Research",
+  "sub-category": "Reference"
+}

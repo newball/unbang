@@ -1,0 +1,8 @@
+{
+  "bang": "eor",
+  "domain": "https://eu.finalfantasyxiv.com",
+  "url": "https://eu.finalfantasyxiv.com/lodestone/playguide/db/search/?q=%s",
+  "description": "Eorzea Database",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

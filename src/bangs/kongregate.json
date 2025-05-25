@@ -1,0 +1,8 @@
+{
+  "bang": "kongregate",
+  "domain": "https://www.kongregate.com",
+  "url": "http://www.kongregate.com/search?q=%s",
+  "description": "Kongregate",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

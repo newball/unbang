@@ -1,0 +1,8 @@
+{
+  "bang": "urlquery",
+  "domain": "https://urlquery.net",
+  "url": "http://urlquery.net/search.php?q=%s&type=string&max=50",
+  "description": "Urlquery",
+  "category": "Research",
+  "sub-category": "Reference"
+}

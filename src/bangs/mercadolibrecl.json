@@ -1,0 +1,8 @@
+{
+  "bang": "mercadolibrecl",
+  "domain": "https://listado.mercadolibre.cl",
+  "url": "http://listado.mercadolibre.cl/%s#D[A:%s]",
+  "description": "Mercadolibre.cl",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

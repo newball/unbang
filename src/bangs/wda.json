@@ -1,0 +1,8 @@
+{
+  "bang": "wda",
+  "domain": "https://da.wikipedia.org",
+  "url": "http://da.wikipedia.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikipedia (DA)",
+  "category": "Research",
+  "sub-category": "Academic"
+}

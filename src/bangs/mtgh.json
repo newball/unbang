@@ -1,0 +1,8 @@
+{
+  "bang": "mtgh",
+  "domain": "https://mtg-hunter.com",
+  "url": "http://mtg-hunter.com/?q=%s",
+  "description": "MTG-Hunter",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

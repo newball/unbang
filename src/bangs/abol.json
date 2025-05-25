@@ -1,0 +1,8 @@
+{
+  "bang": "abol",
+  "domain": "https://abo.finna.fi",
+  "url": "https://abo.finna.fi/Search/Results?lookfor=%s&type=AllFields",
+  "description": "https://abo.finna.fi/",
+  "category": "Research",
+  "sub-category": "Learning"
+}

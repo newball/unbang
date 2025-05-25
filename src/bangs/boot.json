@@ -1,0 +1,8 @@
+{
+  "bang": "boot",
+  "domain": "https://getbootstrap.com",
+  "url": "https://getbootstrap.com/docs/4.0/components/%s/",
+  "description": "Boostrap",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

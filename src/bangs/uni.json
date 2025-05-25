@@ -1,0 +1,8 @@
+{
+  "bang": "uni",
+  "domain": "https://unicode-search.net",
+  "url": "http://unicode-search.net/unicode-namesearch.pl?term=%s",
+  "description": "Search for character(s) in Unicode",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

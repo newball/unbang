@@ -1,0 +1,8 @@
+{
+  "bang": "bountysource",
+  "domain": "https://www.bountysource.com",
+  "url": "https://www.bountysource.com/search?query=%s",
+  "description": "Bountysource",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "mbeans",
+  "domain": "https://mbeans.com",
+  "url": "https://mbeans.com/search.html?search=%s",
+  "description": "Magic Beans",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

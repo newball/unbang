@@ -1,0 +1,8 @@
+{
+  "bang": "farmfor",
+  "domain": "https://www.farmfor.com.br",
+  "url": "https://www.farmfor.com.br/?s=%s",
+  "description": "Blog do Farmfor",
+  "category": "News",
+  "sub-category": "Specialty"
+}

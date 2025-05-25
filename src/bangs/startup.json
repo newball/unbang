@@ -1,0 +1,8 @@
+{
+  "bang": "startup",
+  "domain": "https://startupbuffer.com",
+  "url": "https://startupbuffer.com/search?s=%s",
+  "description": "Startup Buffer",
+  "category": "Tech",
+  "sub-category": "Startups"
+}

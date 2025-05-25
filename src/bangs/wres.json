@@ -1,0 +1,8 @@
+{
+  "bang": "wres",
+  "domain": "https://www.wordreference.com",
+  "url": "http://www.wordreference.com/definicion/%s",
+  "description": "WordReference (ES)",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

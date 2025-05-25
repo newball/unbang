@@ -1,0 +1,8 @@
+{
+  "bang": "verk",
+  "domain": "https://www.verkkokauppa.com",
+  "url": "https://www.verkkokauppa.com/fi/search/?query=%s",
+  "description": "Verkkokauppa.com",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

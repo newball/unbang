@@ -1,0 +1,8 @@
+{
+  "bang": "recent",
+  "domain": "https://duckduckgo.com",
+  "url": "http://duckduckgo.com/?q=%s&df=w",
+  "description": "DuckDuckGo Last Week",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

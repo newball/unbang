@@ -1,0 +1,8 @@
+{
+  "bang": "archdaily",
+  "domain": "https://www.archdaily.com",
+  "url": "https://www.archdaily.com/search/all?q=%s",
+  "description": "ArchDaily",
+  "category": "News",
+  "sub-category": "Specialty"
+}

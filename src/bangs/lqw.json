@@ -1,0 +1,8 @@
+{
+  "bang": "lqw",
+  "domain": "https://wiki.linuxquestions.org",
+  "url": "http://wiki.linuxquestions.org/index.php?search=%s",
+  "description": "Linux Questions Wiki",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

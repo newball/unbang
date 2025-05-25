@@ -1,0 +1,8 @@
+{
+  "bang": "wikizionario",
+  "domain": "https://it.wiktionary.org",
+  "url": "https://it.wiktionary.org/wiki/%s",
+  "description": "wikizionario",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

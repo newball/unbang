@@ -1,0 +1,8 @@
+{
+  "bang": "buch",
+  "domain": "https://buchonline.info",
+  "url": "https://buchonline.info/?s=%s",
+  "description": "Buchonline",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

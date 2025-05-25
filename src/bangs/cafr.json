@@ -1,0 +1,8 @@
+{
+  "bang": "cafr",
+  "domain": "https://www.carrefour.fr",
+  "url": "http://www.carrefour.fr/?q=%s",
+  "description": "Carrefour",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

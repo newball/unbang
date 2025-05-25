@@ -1,0 +1,8 @@
+{
+  "bang": "trad",
+  "domain": "https://dictionary.reverso.net",
+  "url": "http://dictionary.reverso.net/french-english/%s",
+  "description": "Reverso",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

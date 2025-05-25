@@ -1,0 +1,8 @@
+{
+  "bang": "appletrailer",
+  "domain": "https://duckduckgo.com",
+  "url": "http://duckduckgo.com/?q=site:trailers.apple.com%20%s",
+  "description": "Apple Trailers",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

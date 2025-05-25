@@ -1,0 +1,8 @@
+{
+  "bang": "smartsearch",
+  "domain": "https://smartsearch.altervista.org",
+  "url": "http://smartsearch.altervista.org/?q=%s ",
+  "description": "SmartSearch",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

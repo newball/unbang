@@ -1,0 +1,8 @@
+{
+  "bang": "cex",
+  "domain": "https://uk.webuy.com",
+  "url": "https://uk.webuy.com/search/index.php?stext=%s",
+  "description": "CeX",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

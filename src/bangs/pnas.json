@@ -1,0 +1,8 @@
+{
+  "bang": "pnas",
+  "domain": "https://www.pnas.org",
+  "url": "http://www.pnas.org/search/%s%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard",
+  "description": "Proceedings of the National Academy of Sciences",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

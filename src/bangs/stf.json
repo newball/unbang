@@ -1,0 +1,8 @@
+{
+  "bang": "stf",
+  "domain": "https://portal.stf.jus.br",
+  "url": "http://portal.stf.jus.br/processos/listarProcessos.asp?classe=&numeroProcesso=%s",
+  "description": "Supremo Tribunal Federal",
+  "category": "Research",
+  "sub-category": "Government"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "animelyrics",
+  "domain": "https://www.animelyrics.com",
+  "url": "http://www.animelyrics.com/search.php?q=%s",
+  "description": "AnimeLyrics",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

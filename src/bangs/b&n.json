@@ -1,0 +1,8 @@
+{
+  "bang": "b&n",
+  "domain": "https://www.barnesandnoble.com",
+  "url": "http://www.barnesandnoble.com/s/%s",
+  "description": "barnes and noble ",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

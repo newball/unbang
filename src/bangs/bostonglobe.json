@@ -1,0 +1,8 @@
+{
+  "bang": "bostonglobe",
+  "domain": "https://www.bostonglobe.com",
+  "url": "http://www.bostonglobe.com/queryResult/search?q=%s",
+  "description": "Boston Globe",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

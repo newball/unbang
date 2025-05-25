@@ -1,0 +1,8 @@
+{
+  "bang": "gmps",
+  "domain": "https://geekmps.fr",
+  "url": "http://geekmps.fr/component/search/?searchword=%s ",
+  "description": "GeekMPS",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

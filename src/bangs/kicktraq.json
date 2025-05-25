@@ -1,0 +1,8 @@
+{
+  "bang": "kicktraq",
+  "domain": "https://www.kicktraq.com",
+  "url": "http://www.kicktraq.com/search/?find=%s",
+  "description": "Kicktraq",
+  "category": "Online Services",
+  "sub-category": "Tools (fundraising)"
+}

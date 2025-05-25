@@ -1,0 +1,8 @@
+{
+  "bang": "convert",
+  "domain": "https://www.clipconverter.cc",
+  "url": "http://www.clipconverter.cc/?url=%s",
+  "description": "ClipConverter.cc",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

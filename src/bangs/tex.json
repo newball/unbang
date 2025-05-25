@@ -1,0 +1,8 @@
+{
+  "bang": "tex",
+  "domain": "https://tex.stackexchange.com",
+  "url": "http://tex.stackexchange.com/search?q=%s",
+  "description": "TeX Stack Exchange",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

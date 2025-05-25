@@ -1,0 +1,8 @@
+{
+  "bang": "oxfordref",
+  "domain": "https://www.oxfordreference.com",
+  "url": "http://www.oxfordreference.com/search?siteToSearch=aup&q=%s",
+  "description": "Oxford Reference",
+  "category": "Research",
+  "sub-category": "Reference"
+}

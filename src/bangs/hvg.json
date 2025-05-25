@@ -1,0 +1,8 @@
+{
+  "bang": "hvg",
+  "domain": "https://hvg.hu",
+  "url": "http://hvg.hu/kereses?term=%s&x=0&y=0",
+  "description": "HVG.hu",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

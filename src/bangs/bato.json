@@ -1,0 +1,8 @@
+{
+  "bang": "bato",
+  "domain": "https://bato.to",
+  "url": "http://bato.to/search?name=%s&name_cond=c",
+  "description": "Batoto",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

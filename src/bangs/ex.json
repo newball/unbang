@@ -1,0 +1,8 @@
+{
+  "bang": "ex",
+  "domain": "https://examine.com",
+  "url": "https://examine.com/search/?q=%s",
+  "description": "examine.com",
+  "category": "Research",
+  "sub-category": "Health"
+}

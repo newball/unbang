@@ -1,0 +1,8 @@
+{
+  "bang": "csi",
+  "domain": "https://www.coolstuffinc.com",
+  "url": "http://www.coolstuffinc.com/main_search.php?pa=searchOnName&page=1&resultsPerPage=25&q=%s",
+  "description": "Cool Stuff Inc",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

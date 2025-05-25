@@ -1,0 +1,8 @@
+{
+  "bang": "saltstack",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Adocs.saltstack.com+%s",
+  "description": "SaltStack Documentation",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "qes",
+  "domain": "https://es.quora.com",
+  "url": "https://es.quora.com/search?q=%s",
+  "description": "Quora Español",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

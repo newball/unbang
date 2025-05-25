@@ -1,0 +1,8 @@
+{
+  "bang": "sbbb",
+  "domain": "https://dev.eoils.de",
+  "url": "https://dev.eoils.de/contents/b/index.php?station=%s",
+  "description": "SBB StationBoard",
+  "category": "Online Services",
+  "sub-category": "Tools (URLs)"
+}

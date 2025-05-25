@@ -1,0 +1,8 @@
+{
+  "bang": "gua",
+  "domain": "https://www.google.com.ua",
+  "url": "http://www.google.com.ua/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google UA",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

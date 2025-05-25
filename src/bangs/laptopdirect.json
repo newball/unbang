@@ -1,0 +1,8 @@
+{
+  "bang": "laptopdirect",
+  "domain": "https://www.laptopdirect.co.za",
+  "url": "http://www.laptopdirect.co.za/search.php?SearchTerm=%s",
+  "description": "LaptopDirect",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

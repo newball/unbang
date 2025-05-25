@@ -1,0 +1,8 @@
+{
+  "bang": "steamid",
+  "domain": "https://store.steampowered.com",
+  "url": "https://store.steampowered.com/app/%s/",
+  "description": "Steam app ID",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "cdic",
+  "domain": "https://dictionary.cambridge.org",
+  "url": "https://dictionary.cambridge.org/spellcheck/english/?q=%s",
+  "description": "Cambridge Dictionary",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

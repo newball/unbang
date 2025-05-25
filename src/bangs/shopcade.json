@@ -1,0 +1,8 @@
+{
+  "bang": "shopcade",
+  "domain": "https://www.shopcade.com",
+  "url": "https://www.shopcade.com/search?query=%s",
+  "description": "Shopcade",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

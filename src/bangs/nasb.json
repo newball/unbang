@@ -1,0 +1,8 @@
+{
+  "bang": "nasb",
+  "domain": "https://www.biblegateway.com",
+  "url": "https://www.biblegateway.com/quicksearch/?quicksearch=%s&qs_version=NASB",
+  "description": "New American Standard Bible",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

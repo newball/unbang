@@ -1,0 +1,8 @@
+{
+  "bang": "gtmalay",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/ms/%s",
+  "description": "Detect language to Malay",
+  "category": "Translation",
+  "sub-category": "Google"
+}

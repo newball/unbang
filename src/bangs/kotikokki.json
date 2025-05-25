@@ -1,0 +1,8 @@
+{
+  "bang": "kotikokki",
+  "domain": "https://www.kotikokki.net",
+  "url": "https://www.kotikokki.net/reseptit/?freeText=%s",
+  "description": "Kotikokki",
+  "category": "Research",
+  "sub-category": "Food"
+}

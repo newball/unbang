@@ -1,0 +1,8 @@
+{
+  "bang": "ocamod",
+  "domain": "https://odoo-community.org",
+  "url": "https://odoo-community.org/shop?search=%s",
+  "description": "Odoo Community Association modules",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "googlein",
+  "domain": "https://www.google.co.in",
+  "url": "https://www.google.co.in/search?q=%s",
+  "description": "duckduckgo",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

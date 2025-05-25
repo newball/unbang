@@ -1,0 +1,8 @@
+{
+  "bang": "medscape",
+  "domain": "https://search.medscape.com",
+  "url": "http://search.medscape.com/reference-search?newSearchHeader=1&queryText=%s",
+  "description": "Medscape",
+  "category": "Research",
+  "sub-category": "Health"
+}

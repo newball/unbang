@@ -1,0 +1,8 @@
+{
+  "bang": "jwh",
+  "domain": "https://www.justwatch.com",
+  "url": "https://www.justwatch.com/us/search?q=%s",
+  "description": "JustWatch",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

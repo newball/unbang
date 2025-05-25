@@ -1,0 +1,8 @@
+{
+  "bang": "kijiji",
+  "domain": "https://www.kijiji.ca",
+  "url": "https://www.kijiji.ca/b-search.html?formSubmit=true&pageNumber=1&searchView=LIST&sortByName=dateDesc&urgentOnly=false&keywords=%s&SearchCategory=0",
+  "description": "Kijiji",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

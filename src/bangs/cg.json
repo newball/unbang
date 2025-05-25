@@ -1,0 +1,8 @@
+{
+  "bang": "cg",
+  "domain": "https://hub.culturegraph.org",
+  "url": "http://hub.culturegraph.org/search?query=%s",
+  "description": "CultureGraph",
+  "category": "Research",
+  "sub-category": "Academic"
+}

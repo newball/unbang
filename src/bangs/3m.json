@@ -1,0 +1,8 @@
+{
+  "bang": "3m",
+  "domain": "https://www.trojmiasto.pl",
+  "url": "http://www.trojmiasto.pl/s/%s/",
+  "description": "Trójmiasto",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

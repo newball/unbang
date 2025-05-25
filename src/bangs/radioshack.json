@@ -1,0 +1,8 @@
+{
+  "bang": "radioshack",
+  "domain": "https://www.radioshack.com",
+  "url": "https://www.radioshack.com/search?q=%s",
+  "description": "RadioShack",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

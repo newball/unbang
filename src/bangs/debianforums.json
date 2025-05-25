@@ -1,0 +1,8 @@
+{
+  "bang": "debianforums",
+  "domain": "https://forums.debian.net",
+  "url": "http://forums.debian.net/search.php?keywords=%s",
+  "description": "Debian Forums",
+  "category": "Tech",
+  "sub-category": "Sysadmin (debian)"
+}

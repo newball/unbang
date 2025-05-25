@@ -1,0 +1,8 @@
+{
+  "bang": "bctag",
+  "domain": "https://bandcamp.com",
+  "url": "http://bandcamp.com/tag/%s",
+  "description": "Bandcamp tags",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

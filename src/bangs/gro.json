@@ -1,0 +1,8 @@
+{
+  "bang": "gro",
+  "domain": "https://www.google.ro",
+  "url": "http://www.google.ro/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google RO",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

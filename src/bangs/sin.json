@@ -1,0 +1,8 @@
+{
+  "bang": "sin",
+  "domain": "https://www.sinonimos.com.br",
+  "url": "https://www.sinonimos.com.br/%s",
+  "description": "Dicionário de Sinônimos",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

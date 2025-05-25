@@ -1,0 +1,8 @@
+{
+  "bang": "oslri",
+  "domain": "https://encore.oslri.net",
+  "url": "https://encore.oslri.net/iii/encore/search?target=%s",
+  "description": "Ocean State (Rhode Island) Libraries",
+  "category": "Research",
+  "sub-category": "Local"
+}

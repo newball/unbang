@@ -1,0 +1,8 @@
+{
+  "bang": "isb",
+  "domain": "https://www.isbns.net",
+  "url": "http://www.isbns.net/search/?query=%s ",
+  "description": "isbns.net",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

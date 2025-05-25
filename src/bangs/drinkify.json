@@ -1,0 +1,8 @@
+{
+  "bang": "drinkify",
+  "domain": "https://www.drinkify.org",
+  "url": "http://www.drinkify.org/%s",
+  "description": "Drinkify",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "zillow",
+  "domain": "https://www.zillow.com",
+  "url": "http://www.zillow.com/homes/%s_rb/",
+  "description": "Zillow",
+  "category": "Research",
+  "sub-category": "Real Estate"
+}

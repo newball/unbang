@@ -1,0 +1,8 @@
+{
+  "bang": "dxo",
+  "domain": "https://www.dxomark.com",
+  "url": "http://www.dxomark.com/content/search/?SearchText=%s ",
+  "description": "dxomark.com",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

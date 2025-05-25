@@ -1,0 +1,8 @@
+{
+  "bang": "foodnetwork",
+  "domain": "https://www.foodnetwork.com",
+  "url": "http://www.foodnetwork.com/search/delegate.do?fnSearchString=%s&fnSearchType=site",
+  "description": "Food Network",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

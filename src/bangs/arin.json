@@ -1,0 +1,8 @@
+{
+  "bang": "arin",
+  "domain": "https://whois.arin.net",
+  "url": "http://whois.arin.net/rest/nets;q=%s?showDetails=true&showARIN=false&ext=netref2",
+  "description": "ARIN Whois",
+  "category": "Tech",
+  "sub-category": "Sysadmin (network)"
+}

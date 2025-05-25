@@ -1,0 +1,8 @@
+{
+  "bang": "tvst",
+  "domain": "https://www.tvshowtime.com",
+  "url": "http://www.tvshowtime.com/en/search?q=%s",
+  "description": "TVShow Time",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

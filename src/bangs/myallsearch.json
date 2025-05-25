@@ -1,0 +1,8 @@
+{
+  "bang": "myallsearch",
+  "domain": "https://www.myallsearch.com",
+  "url": "http://www.myallsearch.com/Web/%s.html",
+  "description": "MyAllSearch",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

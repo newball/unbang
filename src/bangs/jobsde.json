@@ -1,0 +1,8 @@
+{
+  "bang": "jobsde",
+  "domain": "https://englishjobs.de",
+  "url": "https://englishjobs.de/search?q=%s",
+  "description": "Jobs in Germany",
+  "category": "Online Services",
+  "sub-category": "Jobs"
+}

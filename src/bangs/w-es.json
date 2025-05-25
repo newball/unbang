@@ -1,0 +1,8 @@
+{
+  "bang": "w-es",
+  "domain": "https://en.wikipedia.org",
+  "url": "https://en.wikipedia.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikipedia in Spanish",
+  "category": "Research",
+  "sub-category": "Reference"
+}

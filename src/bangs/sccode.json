@@ -1,0 +1,8 @@
+{
+  "bang": "sccode",
+  "domain": "https://sccode.org",
+  "url": "http://sccode.org/search?q=%s",
+  "description": "sccode.org",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

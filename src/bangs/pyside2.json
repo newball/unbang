@@ -1,0 +1,8 @@
+{
+  "bang": "pyside2",
+  "domain": "https://doc-snapshots.qt.io",
+  "url": "https://doc-snapshots.qt.io/qtforpython/search.html?q=%s&check_keywords=yes&area=default",
+  "description": "Pyside2 Docs",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

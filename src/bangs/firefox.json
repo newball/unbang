@@ -1,0 +1,8 @@
+{
+  "bang": "firefox",
+  "domain": "https://addons.mozilla.org",
+  "url": "https://addons.mozilla.org/en-US/firefox/search/?q=%s&cat=all",
+  "description": "Firefox Add-ons",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

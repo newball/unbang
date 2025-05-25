@@ -1,0 +1,8 @@
+{
+  "bang": "wlde",
+  "domain": "https://www.wunschliste.de",
+  "url": "http://www.wunschliste.de/suche/%s",
+  "description": "TV Wunschliste",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

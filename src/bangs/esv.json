@@ -1,0 +1,8 @@
+{
+  "bang": "esv",
+  "domain": "https://www.esvbible.org",
+  "url": "http://www.esvbible.org/search/?q=%s",
+  "description": "ESV Bible",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

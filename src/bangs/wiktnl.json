@@ -1,0 +1,8 @@
+{
+  "bang": "wiktnl",
+  "domain": "https://nl.wiktionary.org",
+  "url": "https://nl.wiktionary.org/w/index.php?search=%s&title=Speciaal%3AZoeken",
+  "description": "Dutch Wiktionary",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

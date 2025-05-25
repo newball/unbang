@@ -1,0 +1,8 @@
+{
+  "bang": "spd",
+  "domain": "https://packages.speedeedelivery.com",
+  "url": "http://packages.speedeedelivery.com/packageDetail.php?barcode=%s",
+  "description": "SpeeDee Delivery",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

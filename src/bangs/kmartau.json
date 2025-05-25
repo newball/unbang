@@ -1,0 +1,8 @@
+{
+  "bang": "kmartau",
+  "domain": "https://www.kmart.com.au",
+  "url": "https://www.kmart.com.au/webapp/wcs/stores/servlet/SearchDisplay?searchTerm=%s&categoryId=&storeId=10701&catalogId=10102&langId=-1&pageSize=30&beginIndex=0&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=",
+  "description": "Kmart Australia",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

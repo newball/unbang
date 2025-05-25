@@ -1,0 +1,8 @@
+{
+  "bang": "mr",
+  "domain": "https://www.macrumors.com",
+  "url": "http://www.macrumors.com/search?s=%s",
+  "description": "Mac Rumors",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

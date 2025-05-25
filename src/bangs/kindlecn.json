@@ -1,0 +1,8 @@
+{
+  "bang": "kindlecn",
+  "domain": "https://www.amazon.cn",
+  "url": "https://www.amazon.cn/s?k=%s&i=digital-text",
+  "description": "Amazon Kindle (China)",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "oss",
+  "domain": "https://www.osstatus.com",
+  "url": "https://www.osstatus.com/search/results?platform=all&framework=all&search=%s",
+  "description": "OSStatus",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

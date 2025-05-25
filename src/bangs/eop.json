@@ -1,0 +1,8 @@
+{
+  "bang": "eop",
+  "domain": "https://eune.op.gg",
+  "url": "http://eune.op.gg/summoner/userName=%s",
+  "description": "eune.OP.GG",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

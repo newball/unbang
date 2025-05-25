@@ -1,0 +1,8 @@
+{
+  "bang": "usclib",
+  "domain": "https://usc-primo.hosted.exlibrisgroup.com",
+  "url": "https://usc-primo.hosted.exlibrisgroup.com/primo-explore/search?institution=01USC_INST&vid=01USC&mode=Basic&facet=&displayMode=full&bulkSize=25&highlight=true&dum=true&query=any,contains,%s&displayField=all&pcAvailabiltyMode=true&sortby=rank&lang=en_US",
+  "description": "University of Southern California Libraries",
+  "category": "Research",
+  "sub-category": "Academic"
+}

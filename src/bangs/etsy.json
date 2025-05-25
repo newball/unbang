@@ -1,0 +1,8 @@
+{
+  "bang": "etsy",
+  "domain": "https://www.etsy.com",
+  "url": "https://www.etsy.com/search?q=%s",
+  "description": "Etsy",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

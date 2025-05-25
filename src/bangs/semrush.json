@@ -1,0 +1,8 @@
+{
+  "bang": "semrush",
+  "domain": "https://www.semrush.com",
+  "url": "https://www.semrush.com/info/%s+(full+search)",
+  "description": "SEM Rush",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

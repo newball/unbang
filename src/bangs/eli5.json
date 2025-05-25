@@ -1,0 +1,8 @@
+{
+  "bang": "eli5",
+  "domain": "https://www.reddit.com",
+  "url": "https://www.reddit.com/r/explainlikeimfive/search?q=%s&restrict_sr=on&sort=relevance&t=all",
+  "description": "Reddit ELI5",
+  "category": "Research",
+  "sub-category": "Topical"
+}

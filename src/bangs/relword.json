@@ -1,0 +1,8 @@
+{
+  "bang": "relword",
+  "domain": "https://relatedwords.org",
+  "url": "http://relatedwords.org/relatedto/%s",
+  "description": "Related Words",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

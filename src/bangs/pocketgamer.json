@@ -1,0 +1,8 @@
+{
+  "bang": "pocketgamer",
+  "domain": "https://www.pocketgamer.co.uk",
+  "url": "http://www.pocketgamer.co.uk/latest.asp?srch=%s",
+  "description": "Pocket Gamer",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "beforeiplay",
+  "domain": "https://beforeiplay.com",
+  "url": "http://beforeiplay.com/index.php?search=%s",
+  "description": "Before I Play",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

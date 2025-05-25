@@ -1,0 +1,8 @@
+{
+  "bang": "vocaloid",
+  "domain": "https://vocaloid.wikia.com",
+  "url": "http://vocaloid.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Vocaloid Wiki",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

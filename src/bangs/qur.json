@@ -1,0 +1,8 @@
+{
+  "bang": "qur",
+  "domain": "https://quran.com",
+  "url": "http://quran.com/search?q=%s",
+  "description": "The Noble Qur'an",
+  "category": "Research",
+  "sub-category": "Reference (religion)"
+}

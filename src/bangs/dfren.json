@@ -1,0 +1,8 @@
+{
+  "bang": "dfren",
+  "domain": "https://enfr.dict.cc",
+  "url": "https://enfr.dict.cc/?s=%s",
+  "description": "dict.cc Dictionary French-English",
+  "category": "Translation",
+  "sub-category": "General"
+}

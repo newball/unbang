@@ -1,0 +1,8 @@
+{
+  "bang": "nano",
+  "domain": "https://www.timini.no",
+  "url": "https://www.timini.no/search/q/%s",
+  "description": "Timini",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "jj",
+  "domain": "https://jinja.pocoo.org",
+  "url": "http://jinja.pocoo.org/docs/2.10/search/?q=%s",
+  "description": "Jinja",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

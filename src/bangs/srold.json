@@ -1,0 +1,8 @@
+{
+  "bang": "srold",
+  "domain": "https://old.reddit.com",
+  "url": "https://old.reddit.com/r/%s/",
+  "description": "Old Reddit by Subreddit",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "wj",
+  "domain": "https://ja.wikipedia.org",
+  "url": "https://ja.wikipedia.org/wiki/%s",
+  "description": "Wikipedia in Japanese",
+  "category": "Research",
+  "sub-category": "Reference"
+}

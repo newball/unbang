@@ -1,0 +1,8 @@
+{
+  "bang": "vscode",
+  "domain": "https://marketplace.visualstudio.com",
+  "url": "https://marketplace.visualstudio.com/search?term=%s&target=VSCode&sortBy=Relevance",
+  "description": "Visual Studio Code Extensions",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

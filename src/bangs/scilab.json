@@ -1,0 +1,8 @@
+{
+  "bang": "scilab",
+  "domain": "https://help.scilab.org",
+  "url": "https://help.scilab.org/docs/6.0.0/en_US/search/%s",
+  "description": "Scilab Documentation",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

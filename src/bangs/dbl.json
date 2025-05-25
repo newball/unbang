@@ -1,0 +1,8 @@
+{
+  "bang": "dbl",
+  "domain": "https://discordbots.org",
+  "url": "https://discordbots.org/search?q=%s",
+  "description": "Discord Bot List",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

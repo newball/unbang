@@ -1,0 +1,8 @@
+{
+  "bang": "gds",
+  "domain": "https://www.goodsearch.com",
+  "url": "http://www.goodsearch.com/search-web?keywords=%s",
+  "description": "Goodsearch",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

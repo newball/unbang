@@ -1,0 +1,8 @@
+{
+  "bang": "ccwiki",
+  "domain": "https://computercraft.info",
+  "url": "http://computercraft.info/wiki/index.php?title=Special%3ASearch&search=%s&go=Go",
+  "description": "ComputerCraft Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (Minecraft)"
+}

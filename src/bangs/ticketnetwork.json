@@ -1,0 +1,8 @@
+{
+  "bang": "ticketnetwork",
+  "domain": "https://www.ticketnetwork.com",
+  "url": "https://www.ticketnetwork.com/en/search/?text=%s",
+  "description": "TicketNetwork",
+  "category": "Entertainment",
+  "sub-category": "Events"
+}

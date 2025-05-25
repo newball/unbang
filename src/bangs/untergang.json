@@ -1,0 +1,8 @@
+{
+  "bang": "untergang",
+  "domain": "https://untergang.de",
+  "url": "http://untergang.de/index.php?option=search&searchword=%s",
+  "description": "Linux und Technik",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

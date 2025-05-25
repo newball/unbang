@@ -1,0 +1,8 @@
+{
+  "bang": "rv",
+  "domain": "https://www.real.video",
+  "url": "https://www.real.video/search?query=%s",
+  "description": "Real.Video",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

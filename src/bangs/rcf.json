@@ -1,0 +1,8 @@
+{
+  "bang": "rcf",
+  "domain": "https://rcf.fr",
+  "url": "https://rcf.fr/rechercher/%s",
+  "description": "RCF, Radio Chrétienne Francophone",
+  "category": "Entertainment",
+  "sub-category": "Radio"
+}

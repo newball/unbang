@@ -1,0 +1,8 @@
+{
+  "bang": "japi",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=site%3Aapi.joomla.org+%s",
+  "description": "Joomla! API",
+  "category": "Tech",
+  "sub-category": "Languages (php)"
+}

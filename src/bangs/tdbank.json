@@ -1,0 +1,8 @@
+{
+  "bang": "tdbank",
+  "domain": "https://www.tdbank.com",
+  "url": "https://www.tdbank.com/CustomerService/search-results.aspx?q=%s",
+  "description": "TD Bank",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

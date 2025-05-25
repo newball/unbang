@@ -1,0 +1,8 @@
+{
+  "bang": "posterspy",
+  "domain": "https://posterspy.com",
+  "url": "https://posterspy.com/posters/?s=%s&post_type=poster",
+  "description": "PosterSpy",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

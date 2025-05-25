@@ -1,0 +1,8 @@
+{
+  "bang": "gnome",
+  "domain": "https://live.gnome.org",
+  "url": "http://live.gnome.org/Home?action=fullsearch&context=180&value=%s&titlesearch=Titles",
+  "description": "GNOME Live",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

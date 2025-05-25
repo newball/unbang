@@ -1,0 +1,8 @@
+{
+  "bang": "web",
+  "domain": "https://www.webopedia.com",
+  "url": "https://www.webopedia.com/sgsearch/results?q=%s",
+  "description": "Webopedia",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

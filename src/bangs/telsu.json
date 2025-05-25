@@ -1,0 +1,8 @@
+{
+  "bang": "telsu",
+  "domain": "https://www.telsu.fi",
+  "url": "http://www.telsu.fi/%s",
+  "description": "Telsu.fi",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

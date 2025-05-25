@@ -1,0 +1,8 @@
+{
+  "bang": "wvit",
+  "domain": "https://it.wikivoyage.org",
+  "url": "https://it.wikivoyage.org/w/index.php?search=%s",
+  "description": "Wikivoyage Italiano",
+  "category": "Research",
+  "sub-category": "Travel"
+}

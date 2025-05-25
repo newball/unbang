@@ -1,0 +1,8 @@
+{
+  "bang": "climatempo",
+  "domain": "https://www.climatempo.com.br",
+  "url": "http://www.climatempo.com.br/?q=%s",
+  "description": "Climatempo",
+  "category": "News",
+  "sub-category": "Weather"
+}

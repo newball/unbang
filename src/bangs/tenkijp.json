@@ -1,0 +1,8 @@
+{
+  "bang": "tenkijp",
+  "domain": "https://www.tenki.jp",
+  "url": "http://www.tenki.jp/search/zip/?keyword=%s",
+  "description": "tenki.jp(日本気象協会/)",
+  "category": "News",
+  "sub-category": "Weather"
+}

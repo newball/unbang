@@ -1,0 +1,8 @@
+{
+  "bang": "ensv",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#en/sv/%s",
+  "description": "Google Translator (English -> Swedish)",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

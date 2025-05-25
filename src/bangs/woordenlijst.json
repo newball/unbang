@@ -1,0 +1,8 @@
+{
+  "bang": "woordenlijst",
+  "domain": "https://woordenlijst.org",
+  "url": "http://woordenlijst.org/zoek/?q=%s&w=w",
+  "description": "Woordenlijst",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

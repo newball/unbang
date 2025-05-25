@@ -1,0 +1,8 @@
+{
+  "bang": "otrd",
+  "domain": "https://onelook.com",
+  "url": "http://onelook.com/thesaurus/?s=%s",
+  "description": "http://onelook.com/thesaurus/",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

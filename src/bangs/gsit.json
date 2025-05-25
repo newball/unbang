@@ -1,0 +1,8 @@
+{
+  "bang": "gsit",
+  "domain": "https://www.google.it",
+  "url": "https://www.google.it/search?hl=it&tbm=shop&q=%s",
+  "description": "Google Shopping IT",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

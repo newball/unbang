@@ -1,0 +1,8 @@
+{
+  "bang": "mes",
+  "domain": "https://www.messicks.com",
+  "url": "https://www.messicks.com/search?q=%s",
+  "description": "Messicks",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

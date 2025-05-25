@@ -1,0 +1,8 @@
+{
+  "bang": "gitlab",
+  "domain": "https://gitlab.com",
+  "url": "https://gitlab.com/search?utf8=%E2%9C%93&search=%s&group_id=&repository_ref=",
+  "description": "GitLab",
+  "category": "Tech",
+  "sub-category": "Downloads (code)"
+}

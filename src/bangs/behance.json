@@ -1,0 +1,8 @@
+{
+  "bang": "behance",
+  "domain": "https://www.behance.net",
+  "url": "http://www.behance.net/search?search=%s",
+  "description": "behance",
+  "category": "Tech",
+  "sub-category": "Design"
+}

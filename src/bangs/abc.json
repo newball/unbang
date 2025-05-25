@@ -1,0 +1,8 @@
+{
+  "bang": "abc",
+  "domain": "https://abcnotation.com",
+  "url": "http://abcnotation.com/searchTunes?q=%s",
+  "description": "abcnotation",
+  "category": "Multimedia",
+  "sub-category": "Music (Folk)"
+}

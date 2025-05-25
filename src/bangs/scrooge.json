@@ -1,0 +1,8 @@
+{
+  "bang": "scrooge",
+  "domain": "https://www.scrooge.co.uk",
+  "url": "https://www.scrooge.co.uk/search?keyphrase=%s",
+  "description": "Scrooge",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

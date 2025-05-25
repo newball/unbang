@@ -1,0 +1,8 @@
+{
+  "bang": "jwi",
+  "domain": "https://www.justwatch.com",
+  "url": "https://www.justwatch.com/in/search?q=%s",
+  "description": "JustWatch India",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

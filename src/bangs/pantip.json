@@ -1,0 +1,8 @@
+{
+  "bang": "pantip",
+  "domain": "https://pantip.com",
+  "url": "https://pantip.com/search?q=%s",
+  "description": "Pantip.com",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

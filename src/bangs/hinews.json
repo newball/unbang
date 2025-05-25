@@ -1,0 +1,8 @@
+{
+  "bang": "hinews",
+  "domain": "https://hi-news.ru",
+  "url": "http://hi-news.ru/?s=%s",
+  "description": "Hi-News.ru",
+  "category": "News",
+  "sub-category": "Specialty"
+}

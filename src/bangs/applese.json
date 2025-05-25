@@ -1,0 +1,8 @@
+{
+  "bang": "applese",
+  "domain": "https://apple.stackexchange.com",
+  "url": "http://apple.stackexchange.com/search?q=%s",
+  "description": "Ask Different",
+  "category": "Research",
+  "sub-category": "Reference"
+}

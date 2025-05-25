@@ -1,0 +1,8 @@
+{
+  "bang": "gtsomali",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/so/%s",
+  "description": "Detect language to Somali",
+  "category": "Translation",
+  "sub-category": "Google"
+}

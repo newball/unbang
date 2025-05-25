@@ -1,0 +1,8 @@
+{
+  "bang": "exmojo",
+  "domain": "https://www.expressmojo.com",
+  "url": "https://www.expressmojo.com/search/?q=%s",
+  "description": "Expressmojo",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

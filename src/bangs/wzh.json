@@ -1,0 +1,8 @@
+{
+  "bang": "wzh",
+  "domain": "https://zh.wikipedia.org",
+  "url": "http://zh.wikipedia.org/w/wiki.phtml?search=%s&go=Go",
+  "description": "Wikipedia (ZH)",
+  "category": "Research",
+  "sub-category": "Learning"
+}

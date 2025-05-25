@@ -1,0 +1,8 @@
+{
+  "bang": "uklaw",
+  "domain": "https://www.legislation.gov.uk",
+  "url": "http://www.legislation.gov.uk/all?title=%s",
+  "description": "UK Legislation (Official Archive)",
+  "category": "Research",
+  "sub-category": "Law"
+}

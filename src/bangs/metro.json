@@ -1,0 +1,8 @@
+{
+  "bang": "metro",
+  "domain": "https://www.metro.ca",
+  "url": "https://www.metro.ca/en/search?free-text=%s",
+  "description": "Metro Grocery Store",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

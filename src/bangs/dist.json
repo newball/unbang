@@ -1,0 +1,8 @@
+{
+  "bang": "dist",
+  "domain": "https://www.distrelec.de",
+  "url": "http://www.distrelec.de/search?q=%s",
+  "description": "Distrelec",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

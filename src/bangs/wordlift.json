@@ -1,0 +1,8 @@
+{
+  "bang": "wordlift",
+  "domain": "https://wordlift.io",
+  "url": "https://wordlift.io/blog/en/?s=%s",
+  "description": "WordLift",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

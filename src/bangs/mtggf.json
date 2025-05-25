@@ -1,0 +1,8 @@
+{
+  "bang": "mtggf",
+  "domain": "https://www.mtggoldfish.com",
+  "url": "http://www.mtggoldfish.com/q?query_string=%s",
+  "description": "mtgGoldfish",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

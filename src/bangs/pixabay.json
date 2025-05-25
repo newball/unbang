@@ -1,0 +1,8 @@
+{
+  "bang": "pixabay",
+  "domain": "https://pixabay.com",
+  "url": "http://pixabay.com/en/photos/?q=%s",
+  "description": "Pixabay",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ikeabe",
+  "domain": "https://www.ikea.com",
+  "url": "http://www.ikea.com/be/nl/search/?query=%s",
+  "description": "Ikea Belgium",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

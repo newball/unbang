@@ -1,0 +1,8 @@
+{
+  "bang": "citeseer",
+  "domain": "https://citeseer.ist.psu.edu",
+  "url": "http://citeseer.ist.psu.edu/search?q=%s&submit=Search&sort=rlv&t=doc",
+  "description": "CiteSeer",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

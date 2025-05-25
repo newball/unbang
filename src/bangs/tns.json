@@ -1,0 +1,8 @@
+{
+  "bang": "tns",
+  "domain": "https://thenerdystudent.com",
+  "url": "https://thenerdystudent.com/?s=%s",
+  "description": "The Nerdy Student",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

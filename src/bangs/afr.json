@@ -1,0 +1,8 @@
+{
+  "bang": "afr",
+  "domain": "https://www.amazon.fr",
+  "url": "https://www.amazon.fr/s?k=%s",
+  "description": "Amazon.fr",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

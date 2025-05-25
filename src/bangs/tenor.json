@@ -1,0 +1,8 @@
+{
+  "bang": "tenor",
+  "domain": "https://tenor.com",
+  "url": "https://tenor.com/search/%s",
+  "description": "tenor",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

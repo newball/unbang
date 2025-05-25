@@ -1,0 +1,8 @@
+{
+  "bang": "sandstorm",
+  "domain": "https://apps.sandstorm.io",
+  "url": "https://apps.sandstorm.io/search?term=%s",
+  "description": "Sandstorm App Market",
+  "category": "Tech",
+  "sub-category": "Downloads (apps)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "pravidla",
+  "domain": "https://www.pravidla.cz",
+  "url": "http://www.pravidla.cz/hledej/?qr=%s",
+  "description": "Pravidla českého pravopisu",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

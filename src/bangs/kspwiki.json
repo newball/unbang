@@ -1,0 +1,8 @@
+{
+  "bang": "kspwiki",
+  "domain": "https://wiki.kerbalspaceprogram.com",
+  "url": "http://wiki.kerbalspaceprogram.com/w/index.php?search=%s&title=Special%3ASearch",
+  "description": "Kerbal Space Program Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

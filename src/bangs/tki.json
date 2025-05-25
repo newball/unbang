@@ -1,0 +1,8 @@
+{
+  "bang": "tki",
+  "domain": "https://trakt.tv",
+  "url": "https://trakt.tv/search/imdb?query=%s",
+  "description": "Trakt IMDb",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

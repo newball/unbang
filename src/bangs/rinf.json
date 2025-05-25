@@ -1,0 +1,8 @@
+{
+  "bang": "rinf",
+  "domain": "https://www.rinf.com",
+  "url": "http://www.rinf.com/?q=%s ",
+  "description": "RINF Alternative news",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

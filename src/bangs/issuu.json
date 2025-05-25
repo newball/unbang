@@ -1,0 +1,8 @@
+{
+  "bang": "issuu",
+  "domain": "https://issuu.com",
+  "url": "https://issuu.com/search?q=%s",
+  "description": "Issuu",
+  "category": "News",
+  "sub-category": "Magazine"
+}

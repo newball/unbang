@@ -1,0 +1,8 @@
+{
+  "bang": "haskellwiki",
+  "domain": "https://www.haskell.org",
+  "url": "http://www.haskell.org/haskellwiki/Special:Search/%s",
+  "description": "Haskell Wiki",
+  "category": "Tech",
+  "sub-category": "Languages (haskell)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "razer",
+  "domain": "https://www.razer.com",
+  "url": "https://www.razer.com/search/?text=%s",
+  "description": "Razer",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

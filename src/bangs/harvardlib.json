@@ -1,0 +1,8 @@
+{
+  "bang": "harvardlib",
+  "domain": "https://hollis.harvard.edu",
+  "url": "http://hollis.harvard.edu/primo_library/libweb/action/dlSearch.do?institution=HVD&vid=HVD&tab=everything&displayField=all&search_scope=everything&mode=Basic&onCampus=false&displayMode=full&query=any%2Ccontains%2C%s",
+  "description": "Harvard University Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

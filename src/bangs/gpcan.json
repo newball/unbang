@@ -1,0 +1,8 @@
+{
+  "bang": "gpcan",
+  "domain": "https://www.greenpeace.org",
+  "url": "http://www.greenpeace.org/canada/en/System-templates/Site-Settings-Pages/Search/?all=%s",
+  "description": "Greenpeace Canada",
+  "category": "News",
+  "sub-category": "Specialty"
+}

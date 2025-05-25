@@ -1,0 +1,8 @@
+{
+  "bang": "irecommend",
+  "domain": "https://irecommend.ru",
+  "url": "http://irecommend.ru/srch?query=%s",
+  "description": "IRecommend",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

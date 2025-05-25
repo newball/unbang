@@ -1,0 +1,8 @@
+{
+  "bang": "yacy",
+  "domain": "https://search.yacy.net",
+  "url": "https://search.yacy.net/yacysearch/index.html?query=%s&Enter=&verify=false&nav=filetype%2Cprotocol%2Chosts%2Cauthors%2Ccollections%2Cnamespace%2Ctopics%2Cdate&startRecord=0&indexof=off&meanCount=5&resource=global&prefermaskfilter=&maximumRecords=10&timezoneOffset=0",
+  "description": "yacy",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

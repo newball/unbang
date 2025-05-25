@@ -1,0 +1,8 @@
+{
+  "bang": "rockit",
+  "domain": "https://www.rockit.it",
+  "url": "https://www.rockit.it/web/cerca.php?k=%s",
+  "description": "Rockit",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

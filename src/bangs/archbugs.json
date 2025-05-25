@@ -1,0 +1,8 @@
+{
+  "bang": "archbugs",
+  "domain": "https://bugs.archlinux.org",
+  "url": "https://bugs.archlinux.org/index.php?string=%s&project=0",
+  "description": "ArchLinux Bugtracker",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Arch)"
+}

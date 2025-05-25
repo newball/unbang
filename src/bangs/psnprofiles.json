@@ -1,0 +1,8 @@
+{
+  "bang": "psnprofiles",
+  "domain": "https://psnprofiles.com",
+  "url": "https://psnprofiles.com/search/games?q=%s",
+  "description": "PSN Profiles",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

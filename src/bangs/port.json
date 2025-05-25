@@ -1,0 +1,8 @@
+{
+  "bang": "port",
+  "domain": "https://www.iana.org",
+  "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?search=%s",
+  "description": "IANA Service Name and Transport Protocol Port Number Registry",
+  "category": "Tech",
+  "sub-category": "Sysadmin (network)"
+}

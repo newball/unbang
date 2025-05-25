@@ -1,0 +1,8 @@
+{
+  "bang": "larenfr",
+  "domain": "https://www.larousse.fr",
+  "url": "http://www.larousse.fr/dictionnaires/anglais-francais/%s",
+  "description": "Larousse EN - FR translation",
+  "category": "Research",
+  "sub-category": "Learning (intl)"
+}

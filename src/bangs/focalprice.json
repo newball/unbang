@@ -1,0 +1,8 @@
+{
+  "bang": "focalprice",
+  "domain": "https://www.focalprice.com",
+  "url": "http://www.focalprice.com/buy/%s.html",
+  "description": "Focalprice",
+  "category": "Shopping",
+  "sub-category": "Online (intl)"
+}

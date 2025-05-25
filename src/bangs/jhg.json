@@ -1,0 +1,8 @@
+{
+  "bang": "jhg",
+  "domain": "https://jhg-traunreut.de",
+  "url": "http://jhg-traunreut.de/index.php?q=%s&option=com_finder&view=search",
+  "description": "Website des JHG-Traunreut",
+  "category": "Research",
+  "sub-category": "Learning"
+}

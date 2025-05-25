@@ -1,0 +1,8 @@
+{
+  "bang": "thriftb",
+  "domain": "https://www.thriftbooks.com",
+  "url": "https://www.thriftbooks.com/browse/?b.search=%s",
+  "description": "ThriftBooks",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

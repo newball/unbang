@@ -1,0 +1,8 @@
+{
+  "bang": "celebrity",
+  "domain": "https://celebrity.tn",
+  "url": "https://celebrity.tn/?s=%s",
+  "description": "Celebrity Magazine",
+  "category": "News",
+  "sub-category": "Magazine"
+}

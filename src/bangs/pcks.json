@@ -1,0 +1,8 @@
+{
+  "bang": "pcks",
+  "domain": "https://www.peacocks.co.uk",
+  "url": "http://www.peacocks.co.uk/catalogsearch/result/?q=%s",
+  "description": "Peacocks UK",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

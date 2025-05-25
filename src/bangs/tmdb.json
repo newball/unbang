@@ -1,0 +1,8 @@
+{
+  "bang": "tmdb",
+  "domain": "https://www.themoviedb.org",
+  "url": "https://www.themoviedb.org/search?query=%s",
+  "description": "TheMovieDB.org",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

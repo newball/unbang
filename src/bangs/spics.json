@@ -1,0 +1,8 @@
+{
+  "bang": "spics",
+  "domain": "https://site.pictures",
+  "url": "https://site.pictures/search/images/?q=%s",
+  "description": "Site Pictures",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

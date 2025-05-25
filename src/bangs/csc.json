@@ -1,0 +1,8 @@
+{
+  "bang": "csc",
+  "domain": "https://api.call-cc.org",
+  "url": "http://api.call-cc.org/cdoc?q=%s&query-regex=Regexp",
+  "description": "Chicken Scheme Chickadee",
+  "category": "Tech",
+  "sub-category": "Languages (scheme)"
+}

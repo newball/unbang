@@ -1,0 +1,8 @@
+{
+  "bang": "amf",
+  "domain": "https://ask.metafilter.com",
+  "url": "http://ask.metafilter.com/search.mefi?q=%s",
+  "description": "Ask Metafilter",
+  "category": "Research",
+  "sub-category": "Topical"
+}

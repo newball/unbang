@@ -1,0 +1,8 @@
+{
+  "bang": "photopin",
+  "domain": "https://photopin.com",
+  "url": "http://photopin.com/search/%s",
+  "description": "PhotoPin",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

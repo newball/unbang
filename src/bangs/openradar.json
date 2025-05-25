@@ -1,0 +1,8 @@
+{
+  "bang": "openradar",
+  "domain": "https://openradar.appspot.com",
+  "url": "http://openradar.appspot.com/search?query=%s",
+  "description": "OpenRadar",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

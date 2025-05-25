@@ -1,0 +1,8 @@
+{
+  "bang": "w2",
+  "domain": "https://en.wiki2.org",
+  "url": "https://en.wiki2.org/w/index.php?search=%s",
+  "description": "WIKI2",
+  "category": "Research",
+  "sub-category": "Reference"
+}

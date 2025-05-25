@@ -1,0 +1,8 @@
+{
+  "bang": "bbt",
+  "domain": "https://www.bbt.com",
+  "url": "https://www.bbt.com/search-results.html?query=%s",
+  "description": "BB&T Bank",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

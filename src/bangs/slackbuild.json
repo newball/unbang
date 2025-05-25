@@ -1,0 +1,8 @@
+{
+  "bang": "slackbuild",
+  "domain": "https://slackbuilds.org",
+  "url": "http://slackbuilds.org/result/?search=%s",
+  "description": "Slackbuilds",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

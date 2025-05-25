@@ -1,0 +1,8 @@
+{
+  "bang": "ecolo",
+  "domain": "https://www.ecolo.be",
+  "url": "http://www.ecolo.be/spip.php?recherche=%s&page=recherche",
+  "description": "ECOLO",
+  "category": "Research",
+  "sub-category": "Government"
+}

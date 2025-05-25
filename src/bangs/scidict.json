@@ -1,0 +1,8 @@
+{
+  "bang": "scidict",
+  "domain": "https://thesciencedictionary.org",
+  "url": "http://thesciencedictionary.org/search2/?q=%s",
+  "description": "The Science Dictionary",
+  "category": "Research",
+  "sub-category": "Academic"
+}

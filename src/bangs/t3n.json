@@ -1,0 +1,8 @@
+{
+  "bang": "t3n",
+  "domain": "https://t3n.de",
+  "url": "http://t3n.de/search?q=%s",
+  "description": "t3n",
+  "category": "News",
+  "sub-category": "Specialty"
+}

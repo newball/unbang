@@ -1,0 +1,8 @@
+{
+  "bang": "sqlite",
+  "domain": "https://www.sqlite.org",
+  "url": "https://www.sqlite.org/search?s=d&q=%s",
+  "description": "SQLite",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

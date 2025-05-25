@@ -1,0 +1,8 @@
+{
+  "bang": "planetkey",
+  "domain": "https://www.planetkey.de",
+  "url": "https://www.planetkey.de/suche/?s=%s",
+  "description": "PlanetKey",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "sedo",
+  "domain": "https://sedo.com",
+  "url": "https://sedo.com/search/?keyword=%s",
+  "description": "Sedo",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

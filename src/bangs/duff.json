@@ -1,0 +1,8 @@
+{
+  "bang": "duff",
+  "domain": "https://www.dotabuff.com",
+  "url": "http://www.dotabuff.com/search?q=%s",
+  "description": "DOTABUFF",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

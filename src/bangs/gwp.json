@@ -1,0 +1,8 @@
+{
+  "bang": "gwp",
+  "domain": "https://www.google.com",
+  "url": "http://www.google.com/search?q=%s%20site:wikipedia.org",
+  "description": "Google Wikipedia",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

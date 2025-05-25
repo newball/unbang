@@ -1,0 +1,8 @@
+{
+  "bang": "dafont",
+  "domain": "https://www.dafont.com",
+  "url": "http://www.dafont.com/search.php?psize=m&q=%s",
+  "description": "DaFont",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

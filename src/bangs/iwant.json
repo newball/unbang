@@ -1,0 +1,8 @@
+{
+  "bang": "iwant",
+  "domain": "https://iwantmyname.com",
+  "url": "http://iwantmyname.com/search?domain=%s",
+  "description": "iWantMyName",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

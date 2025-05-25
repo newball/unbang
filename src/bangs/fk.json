@@ -1,0 +1,8 @@
+{
+  "bang": "fk",
+  "domain": "https://www.flipkart.com",
+  "url": "http://www.flipkart.com/search?q=%s ",
+  "description": "Flipkart",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

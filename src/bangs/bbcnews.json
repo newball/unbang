@@ -1,0 +1,8 @@
+{
+  "bang": "bbcnews",
+  "domain": "https://www.bbc.co.uk",
+  "url": "http://www.bbc.co.uk/search/news/?q=%s",
+  "description": "BBC News",
+  "category": "News",
+  "sub-category": "International"
+}

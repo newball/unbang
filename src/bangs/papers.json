@@ -1,0 +1,8 @@
+{
+  "bang": "papers",
+  "domain": "https://scholar.google.com",
+  "url": "http://scholar.google.com/scholar?as_ylo=2000&q=%s&as_sdt=1,5&as_vis=1&num=100",
+  "description": "Google Scholar",
+  "category": "Research",
+  "sub-category": "Academic"
+}

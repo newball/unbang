@@ -1,0 +1,8 @@
+{
+  "bang": "cog",
+  "domain": "https://www.cloudofgoods.com",
+  "url": "https://www.cloudofgoods.com/s/products?query=%s",
+  "description": "Cloud of Goods",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

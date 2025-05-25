@@ -1,0 +1,8 @@
+{
+  "bang": "gender",
+  "domain": "https://gender.wikia.com",
+  "url": "http://gender.wikia.com/search?query=%s",
+  "description": "Gender Wiki",
+  "category": "Research",
+  "sub-category": "Health"
+}

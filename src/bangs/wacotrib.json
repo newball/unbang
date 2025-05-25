@@ -1,0 +1,8 @@
+{
+  "bang": "wacotrib",
+  "domain": "https://www.wacotrib.com",
+  "url": "http://www.wacotrib.com/search/?sd=desc&l=25&s=start_time&f=html&t=article%2Cvideo%2Cyoutube%2Ccollection&app=editorial&nsa=eedition&q=%s",
+  "description": "Waco Tribune-Herald",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

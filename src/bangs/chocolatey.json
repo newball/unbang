@@ -1,0 +1,8 @@
+{
+  "bang": "chocolatey",
+  "domain": "https://chocolatey.org",
+  "url": "http://chocolatey.org/packages?q=%s",
+  "description": "Chocolatey",
+  "category": "Tech",
+  "sub-category": "Downloads (apps)"
+}

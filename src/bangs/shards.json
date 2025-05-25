@@ -1,0 +1,8 @@
+{
+  "bang": "shards",
+  "domain": "https://crystalshards.org",
+  "url": "https://crystalshards.org/?filter=%s",
+  "description": "Crystal Shards",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

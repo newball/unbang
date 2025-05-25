@@ -1,0 +1,8 @@
+{
+  "bang": "sole24",
+  "domain": "https://www.ricerca24.ilsole24ore.com",
+  "url": "https://www.ricerca24.ilsole24ore.com/fc?cmd=static&chId=30&path=%2Fsearch%2Fsearch_engine.jsp&field=Titolo%7CTesto&orderBy=score+desc&chId=30&keyWords=%s&button=",
+  "description": "Il Sole 24 Ore",
+  "category": "News",
+  "sub-category": "Business"
+}

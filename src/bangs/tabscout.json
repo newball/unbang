@@ -1,0 +1,8 @@
+{
+  "bang": "tabscout",
+  "domain": "https://www.tabscout.com",
+  "url": "http://www.tabscout.com/?action=search&query=%s",
+  "description": "TabScout",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

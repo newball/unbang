@@ -1,0 +1,8 @@
+{
+  "bang": "curseforge",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s+site%3Acurseforge.com",
+  "description": "Curse Forge",
+  "category": "Tech",
+  "sub-category": "Downloads (add-ons)"
+}

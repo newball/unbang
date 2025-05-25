@@ -1,0 +1,8 @@
+{
+  "bang": "rightnow",
+  "domain": "https://www.rightnowmedia.org",
+  "url": "https://www.rightnowmedia.org/Search?q=%s",
+  "description": "Rightnow Media",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

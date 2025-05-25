@@ -1,0 +1,8 @@
+{
+  "bang": "audiofanzine",
+  "domain": "https://fr.audiofanzine.com",
+  "url": "http://fr.audiofanzine.com/recherche/%s.html",
+  "description": "Audiofanzine",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

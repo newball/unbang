@@ -1,0 +1,8 @@
+{
+  "bang": "psych",
+  "domain": "https://psychiatry.org",
+  "url": "https://psychiatry.org/home/search-results?k=%s",
+  "description": "American Psychiatric Association",
+  "category": "Research",
+  "sub-category": "Health"
+}

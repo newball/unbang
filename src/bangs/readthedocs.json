@@ -1,0 +1,8 @@
+{
+  "bang": "readthedocs",
+  "domain": "https://readthedocs.org",
+  "url": "https://readthedocs.org/search/?q=%s",
+  "description": "Read The Docs",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

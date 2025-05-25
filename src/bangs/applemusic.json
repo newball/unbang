@@ -1,0 +1,8 @@
+{
+  "bang": "applemusic",
+  "domain": "https://itunes.apple.com",
+  "url": "https://itunes.apple.com/search?term=%s&entity=musicTrack",
+  "description": "Apple Music",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

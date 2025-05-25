@@ -1,0 +1,8 @@
+{
+  "bang": "dmarc",
+  "domain": "https://mxtoolbox.com",
+  "url": "https://mxtoolbox.com/SuperTool.aspx?action=dmarc%3a%s&run=networktools",
+  "description": "MXToolbox DMARC",
+  "category": "Tech",
+  "sub-category": "Domains"
+}

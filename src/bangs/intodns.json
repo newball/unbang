@@ -1,0 +1,8 @@
+{
+  "bang": "intodns",
+  "domain": "https://www.intodns.com",
+  "url": "http://www.intodns.com/%s",
+  "description": "intodns",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "sopt",
+  "domain": "https://pt.stackoverflow.com",
+  "url": "https://pt.stackoverflow.com/search?q=%s",
+  "description": "Stack Overflow em Português",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

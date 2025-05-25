@@ -1,0 +1,8 @@
+{
+  "bang": "weibo",
+  "domain": "https://s.weibo.com",
+  "url": "http://s.weibo.com/weibo/%s?frm=opensearch",
+  "description": "Sina Weibo",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

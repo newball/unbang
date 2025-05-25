@@ -1,0 +1,8 @@
+{
+  "bang": "metafilter",
+  "domain": "https://www.metafilter.com",
+  "url": "http://www.metafilter.com/contribute/search.mefi?site=mefi&q=%s",
+  "description": "MetaFilter",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

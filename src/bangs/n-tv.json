@@ -1,0 +1,8 @@
+{
+  "bang": "n-tv",
+  "domain": "https://www.n-tv.de",
+  "url": "http://www.n-tv.de/suche/?a=search&at=all&q=%s&submit=Suche starten",
+  "description": "n-tv",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

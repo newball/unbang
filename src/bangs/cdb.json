@@ -1,0 +1,8 @@
+{
+  "bang": "cdb",
+  "domain": "https://chess-db.com",
+  "url": "https://chess-db.com/public/execute.jsp?name=%s",
+  "description": "Chess-DB",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

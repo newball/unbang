@@ -1,0 +1,8 @@
+{
+  "bang": "scoop",
+  "domain": "https://www.scoop.it",
+  "url": "http://www.scoop.it/search?q=%s",
+  "description": "Scoop.it",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

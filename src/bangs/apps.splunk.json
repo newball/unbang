@@ -1,0 +1,8 @@
+{
+  "bang": "apps.splunk",
+  "domain": "https://apps.splunk.com",
+  "url": "http://apps.splunk.com/apps/#/search/%s",
+  "description": "apps.splunk.com",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

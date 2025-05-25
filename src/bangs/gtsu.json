@@ -1,0 +1,8 @@
+{
+  "bang": "gtsu",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/su/%s",
+  "description": "Detect language to Sundanese",
+  "category": "Translation",
+  "sub-category": "Google"
+}

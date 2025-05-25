@@ -1,0 +1,8 @@
+{
+  "bang": "pandas",
+  "domain": "https://pandas.pydata.org",
+  "url": "http://pandas.pydata.org/pandas-docs/stable/search.html?q=%s&check_keywords=yes&area=default",
+  "description": "Pandas",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

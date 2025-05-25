@@ -1,0 +1,8 @@
+{
+  "bang": "pan",
+  "domain": "https://panlexicon.com",
+  "url": "https://panlexicon.com/?q=%s ",
+  "description": "Panlexicon",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

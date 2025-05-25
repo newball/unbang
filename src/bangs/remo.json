@@ -1,0 +1,8 @@
+{
+  "bang": "remo",
+  "domain": "https://releasemonitor.de",
+  "url": "https://releasemonitor.de/s?q=%s",
+  "description": "Release Monitor",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

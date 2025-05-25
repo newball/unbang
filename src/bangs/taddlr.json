@@ -1,0 +1,8 @@
+{
+  "bang": "taddlr",
+  "domain": "https://taddlr.com",
+  "url": "http://taddlr.com/de/?s=%s",
+  "description": "Taddlr",
+  "category": "News",
+  "sub-category": "Magazine"
+}

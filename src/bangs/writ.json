@@ -1,0 +1,8 @@
+{
+  "bang": "writ",
+  "domain": "https://www.wordreference.com",
+  "url": "http://www.wordreference.com/definizione/%s",
+  "description": "WordReference (IT definition)",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

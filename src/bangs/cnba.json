@@ -1,0 +1,8 @@
+{
+  "bang": "cnba",
+  "domain": "https://cnba.uba.ar",
+  "url": "http://cnba.uba.ar/search/node/%s",
+  "description": "Colegio Nacional de Buenos Aires",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

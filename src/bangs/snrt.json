@@ -1,0 +1,8 @@
+{
+  "bang": "snrt",
+  "domain": "https://www.snort.org",
+  "url": "https://www.snort.org/search?query=%s&submit_search=",
+  "description": "snort.org",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

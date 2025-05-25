@@ -1,0 +1,8 @@
+{
+  "bang": "tcdb",
+  "domain": "https://www.tradingcarddb.com",
+  "url": "https://www.tradingcarddb.com/Search.cfm?SearchCategory=Baseball&cx=partner-pub-2387250451295121%3Ahes0ib-44xp&cof=FORID%3A10&ie=ISO-8859-1&q=%s",
+  "description": "The Trading Card Database",
+  "category": "Research",
+  "sub-category": "Topical"
+}

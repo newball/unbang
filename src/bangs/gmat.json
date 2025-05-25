@@ -1,0 +1,8 @@
+{
+  "bang": "gmat",
+  "domain": "https://www.google.at",
+  "url": "https://www.google.at/maps/search/%s",
+  "description": "Google Maps Austria",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

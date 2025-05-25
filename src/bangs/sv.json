@@ -1,0 +1,8 @@
+{
+  "bang": "sv",
+  "domain": "https://voat.co",
+  "url": "https://voat.co/v/%s",
+  "description": "Voat",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

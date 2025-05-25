@@ -1,0 +1,8 @@
+{
+  "bang": "gth",
+  "domain": "https://www.google.co.th",
+  "url": "http://www.google.co.th/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google TH",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

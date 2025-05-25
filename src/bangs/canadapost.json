@@ -1,0 +1,8 @@
+{
+  "bang": "canadapost",
+  "domain": "https://www.canadapost.ca",
+  "url": "https://www.canadapost.ca/cpotools/apps/track/personal/findByTrackNumber?trackingNumber=%s&LOCALE=en&LOCALE2=en",
+  "description": "Canada Post Tracking",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "kcl",
+  "domain": "https://www.kcl.ac.uk",
+  "url": "https://www.kcl.ac.uk/search/search.aspx#/all?term=%s",
+  "description": "King's College London",
+  "category": "Research",
+  "sub-category": "Academic"
+}

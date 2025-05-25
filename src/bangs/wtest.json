@@ -1,0 +1,8 @@
+{
+  "bang": "wtest",
+  "domain": "https://www.test.de",
+  "url": "https://www.test.de/suche/?q=%s",
+  "description": "Stiftung Warentest",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

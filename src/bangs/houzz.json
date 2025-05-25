@@ -1,0 +1,8 @@
+{
+  "bang": "houzz",
+  "domain": "https://www.houzz.com",
+  "url": "https://www.houzz.com/photos/query/%s",
+  "description": "Houzz",
+  "category": "Multimedia",
+  "sub-category": "Images"
+}

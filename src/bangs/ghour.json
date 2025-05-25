@@ -1,0 +1,8 @@
+{
+  "bang": "ghour",
+  "domain": "https://google.com",
+  "url": "https://google.com/search?q=%s&tbs=qdr:h",
+  "description": "Google Past Hour Search ",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

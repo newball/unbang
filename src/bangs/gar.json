@@ -1,0 +1,8 @@
+{
+  "bang": "gar",
+  "domain": "https://www.google.com.ar",
+  "url": "http://www.google.com.ar/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google AR",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

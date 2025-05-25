@@ -1,0 +1,8 @@
+{
+  "bang": "casetext",
+  "domain": "https://casetext.com",
+  "url": "https://casetext.com/search?q=%s",
+  "description": "casetext",
+  "category": "Research",
+  "sub-category": "Law"
+}

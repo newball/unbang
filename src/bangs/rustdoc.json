@@ -1,0 +1,8 @@
+{
+  "bang": "rustdoc",
+  "domain": "https://doc.rust-lang.org",
+  "url": "https://doc.rust-lang.org/std/?search=%s",
+  "description": "RustDocs",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

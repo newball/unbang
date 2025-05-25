@@ -1,0 +1,8 @@
+{
+  "bang": "rocwiki",
+  "domain": "https://rocwiki.org",
+  "url": "http://rocwiki.org/?action=search&string=%s",
+  "description": "Rochester Wiki",
+  "category": "Research",
+  "sub-category": "Local"
+}

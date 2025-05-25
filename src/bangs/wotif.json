@@ -1,0 +1,8 @@
+{
+  "bang": "wotif",
+  "domain": "https://www.wotif.com",
+  "url": "http://www.wotif.com/search/TextSearch?searchTerms=%s",
+  "description": "Wotif",
+  "category": "Research",
+  "sub-category": "Travel"
+}

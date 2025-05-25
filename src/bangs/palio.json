@@ -1,0 +1,8 @@
+{
+  "bang": "palio",
+  "domain": "https://www.ilpalio.siena.it",
+  "url": "http://www.ilpalio.siena.it/5/cerca.aspx?q=%s",
+  "description": "Archivio del Palio di Siena",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "sketchfab",
+  "domain": "https://sketchfab.com",
+  "url": "https://sketchfab.com/models?q=%s&sort_by=-likeCount",
+  "description": "Sketchfab",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "hannaford",
+  "domain": "https://www.hannaford.com",
+  "url": "http://www.hannaford.com/catalog/search.cmd?form_state=searchForm&keyword=%s",
+  "description": "Hannaford",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "hermes",
+  "domain": "https://www.myhermes.de",
+  "url": "https://www.myhermes.de/empfangen/sendungsverfolgung/sendungsinformation/#%s",
+  "description": "Hermes Sendungsverfolgung",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

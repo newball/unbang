@@ -1,0 +1,8 @@
+{
+  "bang": "libre",
+  "domain": "https://librewiki.net",
+  "url": "https://librewiki.net/wiki/Special:Search?search=%s&go=Go",
+  "description": "리브레 위키",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

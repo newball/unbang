@@ -1,0 +1,8 @@
+{
+  "bang": "glotnl",
+  "domain": "https://interglot.com",
+  "url": "http://interglot.com/dictionary/nl/en/search?q=%s",
+  "description": "Interglot (NL->EN)",
+  "category": "Research",
+  "sub-category": "Reference"
+}

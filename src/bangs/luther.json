@@ -1,0 +1,8 @@
+{
+  "bang": "luther",
+  "domain": "https://www.luther.edu",
+  "url": "https://www.luther.edu/search/?q=%s",
+  "description": "luther.edu",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

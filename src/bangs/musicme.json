@@ -1,0 +1,8 @@
+{
+  "bang": "musicme",
+  "domain": "https://www.musicme.com",
+  "url": "http://www.musicme.com/page.php?q=%s",
+  "description": "MusicMe",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

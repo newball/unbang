@@ -1,0 +1,8 @@
+{
+  "bang": "albumartdvd",
+  "domain": "https://www.albumart.org",
+  "url": "http://www.albumart.org/index.php?skey=%s&itempage=1&newsearch=1&searchindex=DVD",
+  "description": "Albumart (DVD)",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

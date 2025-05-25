@@ -1,0 +1,8 @@
+{
+  "bang": "zulily",
+  "domain": "https://www.zulily.com",
+  "url": "http://www.zulily.com/%s?fromSearch=true&searchTerm=%s",
+  "description": "zulily",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

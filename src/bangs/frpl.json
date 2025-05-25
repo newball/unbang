@@ -1,0 +1,8 @@
+{
+  "bang": "frpl",
+  "domain": "https://dictionnaire.reverso.net",
+  "url": "http://dictionnaire.reverso.net/francais-polonais/%s",
+  "description": "Reverso",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

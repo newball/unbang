@@ -1,0 +1,8 @@
+{
+  "bang": "whitl",
+  "domain": "https://www.archives.nd.edu",
+  "url": "http://www.archives.nd.edu/cgi-bin/wordz.pl?keyword=%s",
+  "description": "Whitaker's Words Latin",
+  "category": "Research",
+  "sub-category": "Academic"
+}

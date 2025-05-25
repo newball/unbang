@@ -1,0 +1,8 @@
+{
+  "bang": "nyse",
+  "domain": "https://www.nyse.com",
+  "url": "https://www.nyse.com/quote/XNYS:%s",
+  "description": "New York Stock Exchange",
+  "category": "Research",
+  "sub-category": "Reference"
+}

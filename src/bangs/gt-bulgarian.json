@@ -1,0 +1,8 @@
+{
+  "bang": "gt-bulgarian",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/bg/%s",
+  "description": "Detect language to Bulgarian",
+  "category": "Translation",
+  "sub-category": "Google"
+}

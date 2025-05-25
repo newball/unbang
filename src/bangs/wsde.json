@@ -1,0 +1,8 @@
+{
+  "bang": "wsde",
+  "domain": "https://de.wikisource.org",
+  "url": "https://de.wikisource.org/w/index.php?search=%s",
+  "description": "Wikisource Deutsch",
+  "category": "Research",
+  "sub-category": "Reference"
+}

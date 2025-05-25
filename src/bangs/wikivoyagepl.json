@@ -1,0 +1,8 @@
+{
+  "bang": "wikivoyagepl",
+  "domain": "https://pl.wikivoyage.org",
+  "url": "https://pl.wikivoyage.org/wiki/Special:Search?search=%s&go=Go",
+  "description": "Wikivoyage (Polski)",
+  "category": "Research",
+  "sub-category": "Travel"
+}

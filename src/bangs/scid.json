@@ -1,0 +1,8 @@
+{
+  "bang": "scid",
+  "domain": "https://www.sciencedirect.com",
+  "url": "http://www.sciencedirect.com/search?qs=%s",
+  "description": "http://www.sciencedirect.com",
+  "category": "Research",
+  "sub-category": "Academic"
+}

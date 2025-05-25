@@ -1,0 +1,8 @@
+{
+  "bang": "gaana",
+  "domain": "https://gaana.com",
+  "url": "https://gaana.com/search/%s",
+  "description": "Gaana",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "tickets",
+  "domain": "https://www.stubhub.com",
+  "url": "http://www.stubhub.com/search/doSearch?searchStr=%s&pageNumber=1&resultsPerPage=50&searchMode=event&start=0&rows=50",
+  "description": "StubHub",
+  "category": "Online Services",
+  "sub-category": "Events"
+}

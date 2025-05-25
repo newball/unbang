@@ -1,0 +1,8 @@
+{
+  "bang": "apert-en-es",
+  "domain": "https://www.apertium.org",
+  "url": "https://www.apertium.org/index.spa.html?dir=eng-spa&q=%s#translation",
+  "description": "Apertium",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

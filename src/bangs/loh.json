@@ -1,0 +1,8 @@
+{
+  "bang": "loh",
+  "domain": "https://help.libreoffice.org",
+  "url": "https://help.libreoffice.org/index.php?title=Special%3ASearch&profile=default&search=%s&fulltext=Search",
+  "description": "LibreOffice Help",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

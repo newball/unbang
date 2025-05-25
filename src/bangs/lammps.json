@@ -1,0 +1,8 @@
+{
+  "bang": "lammps",
+  "domain": "https://lammps.sandia.gov",
+  "url": "http://lammps.sandia.gov/doc/search.html?q=%s",
+  "description": "LAMMPS Documentation",
+  "category": "Research",
+  "sub-category": "Academic"
+}

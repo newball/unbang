@@ -1,0 +1,8 @@
+{
+  "bang": "ga",
+  "domain": "https://www.google.com.au",
+  "url": "http://www.google.com.au/search?q=%s",
+  "description": "Google Australia",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "imdbtv",
+  "domain": "https://www.imdb.com",
+  "url": "https://www.imdb.com/search/title?title=%s&title_type=tv_series",
+  "description": "IMDb TV",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

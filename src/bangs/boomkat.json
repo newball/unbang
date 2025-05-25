@@ -1,0 +1,8 @@
+{
+  "bang": "boomkat",
+  "domain": "https://boomkat.com",
+  "url": "http://boomkat.com/search?q=%s",
+  "description": "boomkat",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "whois.com",
+  "domain": "https://www.whois.com",
+  "url": "http://www.whois.com/search.php?query=%s",
+  "description": "Whois.com",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

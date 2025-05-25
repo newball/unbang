@@ -1,0 +1,8 @@
+{
+  "bang": "dict.cc",
+  "domain": "https://www.dict.cc",
+  "url": "http://www.dict.cc/?s=%s",
+  "description": "dict.cc",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "alfred",
+  "domain": "https://www.alfredapp.com",
+  "url": "https://www.alfredapp.com/search/?q=%s",
+  "description": "Alfred",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

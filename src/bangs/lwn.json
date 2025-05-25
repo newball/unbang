@@ -1,0 +1,8 @@
+{
+  "bang": "lwn",
+  "domain": "https://lwn.net",
+  "url": "https://lwn.net/Search/DoSearch?words=%s",
+  "description": "LWN.net",
+  "category": "News",
+  "sub-category": "Magazine"
+}

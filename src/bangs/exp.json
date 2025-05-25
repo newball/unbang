@@ -1,0 +1,8 @@
+{
+  "bang": "exp",
+  "domain": "https://irfantoor.com",
+  "url": "http://irfantoor.com/exploits?s=%s",
+  "description": "IrfanTOOR Exploits",
+  "category": "Research",
+  "sub-category": "Reference"
+}

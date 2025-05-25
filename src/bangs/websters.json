@@ -1,0 +1,8 @@
+{
+  "bang": "websters",
+  "domain": "https://www.webster-dictionary.org",
+  "url": "http://www.webster-dictionary.org/definition/%s",
+  "description": "Online Dictionary and Translations",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

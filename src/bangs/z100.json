@@ -1,0 +1,8 @@
+{
+  "bang": "z100",
+  "domain": "https://www.z100.com",
+  "url": "http://www.z100.com/main.html/?q=%s",
+  "description": "Z100",
+  "category": "Entertainment",
+  "sub-category": "Radio"
+}

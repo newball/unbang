@@ -1,0 +1,8 @@
+{
+  "bang": "tdnotes",
+  "domain": "https://www.tdstructurednotes.com",
+  "url": "https://www.tdstructurednotes.com/snp/searchByKeyword.action?criteria.keyword=%s",
+  "description": "tdnotes",
+  "category": "News",
+  "sub-category": "Business"
+}

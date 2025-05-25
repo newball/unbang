@@ -1,0 +1,8 @@
+{
+  "bang": "freethesaurus",
+  "domain": "https://www.freethesaurus.com",
+  "url": "http://www.freethesaurus.com/%s",
+  "description": "The Free Dictionary (Thesaurus)",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

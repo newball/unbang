@@ -1,0 +1,8 @@
+{
+  "bang": "postimees",
+  "domain": "https://www.postimees.ee",
+  "url": "http://www.postimees.ee/search?query=%s",
+  "description": "Postimees",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "scmp",
+  "domain": "https://www.scmp.com",
+  "url": "https://www.scmp.com/content/search/%s",
+  "description": "South China Morning Post",
+  "category": "News",
+  "sub-category": "Newspaper (intl)"
+}

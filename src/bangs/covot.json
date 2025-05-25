@@ -1,0 +1,8 @@
+{
+  "bang": "covot",
+  "domain": "https://www.covot.net",
+  "url": "http://www.covot.net/dictionary?search=%s",
+  "description": "Covot Dictionary",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

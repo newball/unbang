@@ -1,0 +1,8 @@
+{
+  "bang": "nes",
+  "domain": "https://www.ne.se",
+  "url": "http://www.ne.se/sok?q=%s",
+  "description": "Nationalencyklopedin",
+  "category": "Research",
+  "sub-category": "Reference"
+}

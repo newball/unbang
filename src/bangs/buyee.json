@@ -1,0 +1,8 @@
+{
+  "bang": "buyee",
+  "domain": "https://buyee.jp",
+  "url": "http://buyee.jp/item/search?query=%s ",
+  "description": "buyee",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

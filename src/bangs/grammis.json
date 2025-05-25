@@ -1,0 +1,8 @@
+{
+  "bang": "grammis",
+  "domain": "https://grammis.ids-mannheim.de",
+  "url": "https://grammis.ids-mannheim.de/suche?search=%s&research=&research%5B%5D=sysgrams&research%5B%5D=corpora&research%5B%5D=phonos&research%5B%5D=terms&knowledge=&knowledge%5B%5D=questions&knowledge%5B%5D=programs&knowledge%5B%5D=eurograms&knowledge%5B%5D=orthos&ressources=&ressources%5B%5D=connectors&ressources%5B%5D=affixes&ressources%5B%5D=prepositions&ressources%5B%5D=verbs&scat=DuckDuckGo+Bang",
+  "description": "Grammis",
+  "category": "Research",
+  "sub-category": "Academic"
+}

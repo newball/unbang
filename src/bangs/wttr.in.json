@@ -1,0 +1,8 @@
+{
+  "bang": "wttr.in",
+  "domain": "https://wttr.in",
+  "url": "http://wttr.in/%s",
+  "description": "wttr",
+  "category": "News",
+  "sub-category": "Weather"
+}

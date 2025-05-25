@@ -1,0 +1,8 @@
+{
+  "bang": "sro",
+  "domain": "https://old.reddit.com",
+  "url": "https://old.reddit.com/r/%s/",
+  "description": "Old Reddit by Subreddit",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

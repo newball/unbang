@@ -1,0 +1,8 @@
+{
+  "bang": "courant",
+  "domain": "https://www.courant.com",
+  "url": "http://www.courant.com/search/dispatcher.front?target=article&sortby=display_time++descending&Query=%s ",
+  "description": "Hartford Courant",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

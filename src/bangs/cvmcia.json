@@ -1,0 +1,8 @@
+{
+  "bang": "cvmcia",
+  "domain": "https://cvmweb.cvm.gov.br",
+  "url": "http://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/CiaAb/ResultBuscaParticCiaAb.aspx?CNPJNome=%s&TipoConsult=C",
+  "description": "Consulta de Documentos de Companhias Abertas (CVM)",
+  "category": "News",
+  "sub-category": "Business"
+}

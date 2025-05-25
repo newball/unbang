@@ -1,0 +1,8 @@
+{
+  "bang": "simpl",
+  "domain": "https://www.simplyrecipes.com",
+  "url": "https://www.simplyrecipes.com/?s=%s",
+  "description": "Simply Recipes",
+  "category": "Research",
+  "sub-category": "Food"
+}

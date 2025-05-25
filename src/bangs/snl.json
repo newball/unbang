@@ -1,0 +1,8 @@
+{
+  "bang": "snl",
+  "domain": "https://snl.no",
+  "url": "http://snl.no/.search?e=snl&query=%s",
+  "description": "Store Norske Leksikon",
+  "category": "Research",
+  "sub-category": "Learning"
+}

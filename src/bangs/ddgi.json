@@ -1,0 +1,8 @@
+{
+  "bang": "ddgi",
+  "domain": "https://duckduckgo.com",
+  "url": "https://duckduckgo.com/?q=%s&iax=images&ia=images",
+  "description": "DuckDuckGo Images",
+  "category": "Online Services",
+  "sub-category": "Search (DDG)"
+}

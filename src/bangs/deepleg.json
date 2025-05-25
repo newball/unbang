@@ -1,0 +1,8 @@
+{
+  "bang": "deepleg",
+  "domain": "https://www.deepl.com",
+  "url": "https://www.deepl.com/translator#en/de/%s",
+  "description": "DeepL",
+  "category": "Translation",
+  "sub-category": "General"
+}

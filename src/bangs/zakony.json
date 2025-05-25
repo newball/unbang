@@ -1,0 +1,8 @@
+{
+  "bang": "zakony",
+  "domain": "https://www.zakonypreludi.sk",
+  "url": "http://www.zakonypreludi.sk/main/search.aspx?text=%s",
+  "description": "Zákony pre ľudí",
+  "category": "Research",
+  "sub-category": "Law"
+}

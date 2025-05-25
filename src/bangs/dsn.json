@@ -1,0 +1,8 @@
+{
+  "bang": "dsn",
+  "domain": "https://dsn.dk",
+  "url": "https://dsn.dk/?retskriv=%s&ae=0",
+  "description": "Dansk Sprognævn",
+  "category": "Research",
+  "sub-category": "Learning"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "peru21",
+  "domain": "https://peru21.pe",
+  "url": "https://peru21.pe/buscar/?query=%s",
+  "description": "Perú21",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

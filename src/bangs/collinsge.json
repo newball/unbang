@@ -1,0 +1,8 @@
+{
+  "bang": "collinsge",
+  "domain": "https://www.collinsdictionary.com",
+  "url": "https://www.collinsdictionary.com/dictionary/german-english/%s",
+  "description": "Collins German to English",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

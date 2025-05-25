@@ -1,0 +1,8 @@
+{
+  "bang": "abr",
+  "domain": "https://www.amazon.com.br",
+  "url": "https://www.amazon.com.br/s?k=%s ",
+  "description": "Amazon Brazil",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "hosting",
+  "domain": "https://www.whoishostingthis.com",
+  "url": "http://www.whoishostingthis.com/?q=%s",
+  "description": "WhoIsHostingThis",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

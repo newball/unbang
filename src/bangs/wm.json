@@ -1,0 +1,8 @@
+{
+  "bang": "wm",
+  "domain": "https://en.m.wikipedia.org",
+  "url": "http://en.m.wikipedia.org/wiki?search=%s",
+  "description": "Wikipedia mobile",
+  "category": "Research",
+  "sub-category": "Academic"
+}

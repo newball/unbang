@@ -1,0 +1,8 @@
+{
+  "bang": "puptype",
+  "domain": "https://docs.puppet.com",
+  "url": "https://docs.puppet.com/puppet/latest/type.html#%s",
+  "description": "Puppet Docs",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

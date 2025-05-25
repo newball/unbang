@@ -1,0 +1,8 @@
+{
+  "bang": "gf",
+  "domain": "https://finance.google.com",
+  "url": "http://finance.google.com/?q=%s&sa=N&tab=fe",
+  "description": "Google Finance",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

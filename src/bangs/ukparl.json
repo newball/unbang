@@ -1,0 +1,8 @@
+{
+  "bang": "ukparl",
+  "domain": "https://www.parliament.uk",
+  "url": "http://www.parliament.uk/search/results/?q=%s",
+  "description": "UK Parliament (Official Site)",
+  "category": "Research",
+  "sub-category": "Government"
+}

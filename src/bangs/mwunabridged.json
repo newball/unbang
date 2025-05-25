@@ -1,0 +1,8 @@
+{
+  "bang": "mwunabridged",
+  "domain": "https://unabridged.merriam-webster.com",
+  "url": "http://unabridged.merriam-webster.com/unabridged/%s",
+  "description": "Merriam-Webster Unabridged",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

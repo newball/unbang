@@ -1,0 +1,8 @@
+{
+  "bang": "hyper",
+  "domain": "https://www.hyperbola.info",
+  "url": "https://www.hyperbola.info/packages/?q=%s",
+  "description": "hyperbola.info",
+  "category": "Tech",
+  "sub-category": "Sysadmin (packages)"
+}

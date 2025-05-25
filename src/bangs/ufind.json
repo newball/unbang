@@ -1,0 +1,8 @@
+{
+  "bang": "ufind",
+  "domain": "https://ufind.univie.ac.at",
+  "url": "https://ufind.univie.ac.at/de/search.html?filter=all&query=%s",
+  "description": "u:find - Universität Wien",
+  "category": "Research",
+  "sub-category": "Academic"
+}

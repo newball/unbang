@@ -1,0 +1,8 @@
+{
+  "bang": "scd",
+  "domain": "https://www.sciencedaily.com",
+  "url": "https://www.sciencedaily.com/search/?keyword=%s",
+  "description": "Science Daily",
+  "category": "Research",
+  "sub-category": "Academic"
+}

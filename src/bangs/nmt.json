@@ -1,0 +1,8 @@
+{
+  "bang": "nmt",
+  "domain": "https://nutrimatic.org",
+  "url": "https://nutrimatic.org/?q=%s",
+  "description": "Nutrimatic",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

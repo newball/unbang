@@ -1,0 +1,8 @@
+{
+  "bang": "csinfo",
+  "domain": "https://ciphersuite.info",
+  "url": "https://ciphersuite.info/search/?q=%s ",
+  "description": "Cipher Suite Info",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

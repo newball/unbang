@@ -1,0 +1,8 @@
+{
+  "bang": "djay",
+  "domain": "https://www.deejay.de",
+  "url": "http://www.deejay.de/%s",
+  "description": "Deejay.de",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "hcpcs",
+  "domain": "https://www.findacode.com",
+  "url": "https://www.findacode.com/code.php?set=HCPCS&c=%s",
+  "description": "FindACode.com",
+  "category": "Research",
+  "sub-category": "Health"
+}

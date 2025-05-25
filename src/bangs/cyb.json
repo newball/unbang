@@ -1,0 +1,8 @@
+{
+  "bang": "cyb",
+  "domain": "https://cyberlearn.hes-so.ch",
+  "url": "https://cyberlearn.hes-so.ch/course/search.php?search=%s",
+  "description": "Cyberlearn",
+  "category": "Multimedia",
+  "sub-category": "Docs"
+}

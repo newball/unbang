@@ -1,0 +1,8 @@
+{
+  "bang": "uql",
+  "domain": "https://search.library.uq.edu.au",
+  "url": "https://search.library.uq.edu.au/primo-explore/search?query=any,contains,%s&tab=61uq_all&search_scope=61UQ_All&sortby=rank&vid=61UQ&offset=0",
+  "description": "University of Queensland Library",
+  "category": "Research",
+  "sub-category": "Academic"
+}

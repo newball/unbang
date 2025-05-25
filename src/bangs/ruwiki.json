@@ -1,0 +1,8 @@
+{
+  "bang": "ruwiki",
+  "domain": "https://ru.wikipedia.org",
+  "url": "https://ru.wikipedia.org/w/index.php?search=%s ",
+  "description": "Russian Wikipedia (Википедия)",
+  "category": "Research",
+  "sub-category": "Reference"
+}

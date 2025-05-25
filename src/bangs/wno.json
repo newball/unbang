@@ -1,0 +1,8 @@
+{
+  "bang": "wno",
+  "domain": "https://no.wikipedia.org",
+  "url": "https://no.wikipedia.org/w/index.php?search=%s",
+  "description": "Norwegian Wikipedia",
+  "category": "Research",
+  "sub-category": "Academic"
+}

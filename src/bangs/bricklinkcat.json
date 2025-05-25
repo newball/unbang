@@ -1,0 +1,8 @@
+{
+  "bang": "bricklinkcat",
+  "domain": "https://www.bricklink.com",
+  "url": "http://www.bricklink.com/catalogList.asp?q=%s",
+  "description": "Bricklink",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

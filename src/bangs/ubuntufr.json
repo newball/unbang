@@ -1,0 +1,8 @@
+{
+  "bang": "ubuntufr",
+  "domain": "https://www.google.fr",
+  "url": "https://www.google.fr/search?q=%s+site%3Aubuntu-fr.org&gws_rd=ssl",
+  "description": "ubuntu-fr",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Ubuntu)"
+}

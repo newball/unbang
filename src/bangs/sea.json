@@ -1,0 +1,8 @@
+{
+  "bang": "sea",
+  "domain": "https://searchcode.com",
+  "url": "https://searchcode.com/?q=%s",
+  "description": "searchcode.com",
+  "category": "Tech",
+  "sub-category": "Downloads (code)"
+}

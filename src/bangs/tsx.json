@@ -1,0 +1,8 @@
+{
+  "bang": "tsx",
+  "domain": "https://web.tmxmoney.com",
+  "url": "https://web.tmxmoney.com/company.php?qm_symbol=%s&locale=en",
+  "description": "TSX",
+  "category": "News",
+  "sub-category": "Business"
+}

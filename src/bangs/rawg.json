@@ -1,0 +1,8 @@
+{
+  "bang": "rawg",
+  "domain": "https://rawg.io",
+  "url": "https://rawg.io/search?query=%s",
+  "description": "RAWG",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

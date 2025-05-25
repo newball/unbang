@@ -1,0 +1,8 @@
+{
+  "bang": "tubafm",
+  "domain": "https://fm.tuba.pl",
+  "url": "http://fm.tuba.pl/artysta/%s",
+  "description": "Tuba FM",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

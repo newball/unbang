@@ -1,0 +1,8 @@
+{
+  "bang": "gtr",
+  "domain": "https://www.google.com.tr",
+  "url": "http://www.google.com.tr/search?source=hp&q=%s&meta=&aq=f&aqi=g10&aql=&oq=&gs_rfai=",
+  "description": "Google TR",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

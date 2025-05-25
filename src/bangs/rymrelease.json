@@ -1,0 +1,8 @@
+{
+  "bang": "rymrelease",
+  "domain": "https://rateyourmusic.com",
+  "url": "https://rateyourmusic.com/search?searchterm=%s&type=l",
+  "description": "rateyourmusic.com",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

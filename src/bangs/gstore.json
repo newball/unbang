@@ -1,0 +1,8 @@
+{
+  "bang": "gstore",
+  "domain": "https://store.google.com",
+  "url": "https://store.google.com/search?q=%s",
+  "description": "Google Store",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

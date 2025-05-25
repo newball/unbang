@@ -1,0 +1,8 @@
+{
+  "bang": "dsbin",
+  "domain": "https://snapshot.debian.org",
+  "url": "http://snapshot.debian.org/binary/?bin=%s",
+  "description": "snapshot.debian.org",
+  "category": "Tech",
+  "sub-category": "Sysadmin (debian)"
+}

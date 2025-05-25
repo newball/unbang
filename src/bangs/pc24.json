@@ -1,0 +1,8 @@
+{
+  "bang": "pc24",
+  "domain": "https://ecshweb.pchome.com.tw",
+  "url": "http://ecshweb.pchome.com.tw/search/?q=%s",
+  "description": "PChome 24h",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

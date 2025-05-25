@@ -1,0 +1,8 @@
+{
+  "bang": "msg",
+  "domain": "https://www.messenger.com",
+  "url": "https://www.messenger.com/t/%s",
+  "description": "messenger.com",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

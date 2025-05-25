@@ -1,0 +1,8 @@
+{
+  "bang": "mysongbook",
+  "domain": "https://www.mysongbook.com",
+  "url": "http://www.mysongbook.com/search?utf8=%E2%9C%93&search%5Btype_item%5D=4&search%5Bname%5D=%s",
+  "description": "mySongBook",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

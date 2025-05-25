@@ -1,0 +1,8 @@
+{
+  "bang": "ubks",
+  "domain": "https://hds.hebis.de",
+  "url": "https://hds.hebis.de/ubks/Discover/EBSCO?lookfor=%s ",
+  "description": "Universitätsbibliothek Kassel",
+  "category": "Research",
+  "sub-category": "Academic"
+}

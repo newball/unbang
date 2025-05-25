@@ -1,0 +1,8 @@
+{
+  "bang": "a.at",
+  "domain": "https://www.amazon.de",
+  "url": "https://www.amazon.de/s?k=%s",
+  "description": "Amazon Austria",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

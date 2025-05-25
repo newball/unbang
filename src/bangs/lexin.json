@@ -1,0 +1,8 @@
+{
+  "bang": "lexin",
+  "domain": "https://lexin.udir.no",
+  "url": "http://lexin.udir.no/?search=%s&dict=nbo-maxi&ui-lang=NBO&startingfrom=&count=10&checked-languages=E&checked-languages=N",
+  "description": "Lexin (Norsk Ordbok)",
+  "category": "Research",
+  "sub-category": "Learning"
+}

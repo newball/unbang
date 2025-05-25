@@ -1,0 +1,8 @@
+{
+  "bang": "homebase",
+  "domain": "https://www.homebase.co.uk",
+  "url": "http://www.homebase.co.uk/webapp/wcs/stores/servlet/Search?storeId=10151&catalogId=1500001201&langId=110&searchTerms=%s&authToken=",
+  "description": "Homebase",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

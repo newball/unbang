@@ -1,0 +1,8 @@
+{
+  "bang": "imdba",
+  "domain": "https://www.imdb.com",
+  "url": "http://www.imdb.com/find?ref_=nv_sr_fn&q=%s&s=nm",
+  "description": "IMDb (Internet Movie Database)",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

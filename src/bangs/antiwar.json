@@ -1,0 +1,8 @@
+{
+  "bang": "antiwar",
+  "domain": "https://news.antiwar.com",
+  "url": "http://news.antiwar.com/?s=%s",
+  "description": "Antiwar.com",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

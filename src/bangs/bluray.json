@@ -1,0 +1,8 @@
+{
+  "bang": "bluray",
+  "domain": "https://www.blu-ray.com",
+  "url": "http://www.blu-ray.com/search/?quicksearch=1&quicksearch_country=all&quicksearch_keyword=%s&section=bluraymovies",
+  "description": "Blu-ray.com",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

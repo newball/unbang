@@ -1,0 +1,8 @@
+{
+  "bang": "timeis",
+  "domain": "https://time.is",
+  "url": "https://time.is/%s",
+  "description": "Time Is",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

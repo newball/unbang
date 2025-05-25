@@ -1,0 +1,8 @@
+{
+  "bang": "auone",
+  "domain": "https://search.auone.jp",
+  "url": "http://search.auone.jp/?q=%s",
+  "description": "au one Web Portal",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

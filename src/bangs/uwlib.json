@@ -1,0 +1,8 @@
+{
+  "bang": "uwlib",
+  "domain": "https://search.library.wisc.edu",
+  "url": "https://search.library.wisc.edu/search/catalog?q=%s",
+  "description": "University of Wisconsin Libraries",
+  "category": "Research",
+  "sub-category": "Academic"
+}

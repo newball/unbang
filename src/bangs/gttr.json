@@ -1,0 +1,8 @@
+{
+  "bang": "gttr",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/tr/%s",
+  "description": "Detect language to Turkish",
+  "category": "Translation",
+  "sub-category": "Google"
+}

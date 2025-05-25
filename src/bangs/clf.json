@@ -1,0 +1,8 @@
+{
+  "bang": "clf",
+  "domain": "https://www.commandlinefu.com",
+  "url": "http://www.commandlinefu.com/commands/matching/%s/bys=/sort-by-votes",
+  "description": "Command Line Fu",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

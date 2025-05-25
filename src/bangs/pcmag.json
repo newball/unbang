@@ -1,0 +1,8 @@
+{
+  "bang": "pcmag",
+  "domain": "https://www.pcmag.com",
+  "url": "http://www.pcmag.com/search_redirect/?qry=%s&searchSection=0&site=3",
+  "description": "PCMag",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

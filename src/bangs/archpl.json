@@ -1,0 +1,8 @@
+{
+  "bang": "archpl",
+  "domain": "https://wiki.archlinux.org",
+  "url": "https://wiki.archlinux.org/index.php/%s _(Polski)",
+  "description": "archlinux wiki pl",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Arch)"
+}

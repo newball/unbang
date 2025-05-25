@@ -1,0 +1,8 @@
+{
+  "bang": "cdgdic",
+  "domain": "https://dictionary.cambridge.org",
+  "url": "http://dictionary.cambridge.org/dictionary/learner-english/%s_1?q=%s",
+  "description": "Cambridge Dictionaries Online",
+  "category": "Research",
+  "sub-category": "Learning"
+}

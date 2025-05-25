@@ -1,0 +1,8 @@
+{
+  "bang": "pls",
+  "domain": "https://www.pluralsight.com",
+  "url": "https://www.pluralsight.com/search?q=%s",
+  "description": "pluralsight",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

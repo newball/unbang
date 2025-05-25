@@ -1,0 +1,8 @@
+{
+  "bang": "fixyt",
+  "domain": "https://fixyt.com",
+  "url": "http://fixyt.com/search?q=%s",
+  "description": "FixYT",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

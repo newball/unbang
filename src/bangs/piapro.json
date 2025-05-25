@@ -1,0 +1,8 @@
+{
+  "bang": "piapro",
+  "domain": "https://piapro-studio.fandom.com",
+  "url": "https://piapro-studio.fandom.com/wiki/Special:Search?query=%s",
+  "description": "Piapro Studio Wiki",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

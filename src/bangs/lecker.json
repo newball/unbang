@@ -1,0 +1,8 @@
+{
+  "bang": "lecker",
+  "domain": "https://www.lecker.de",
+  "url": "http://www.lecker.de/suche-rezept/%s",
+  "description": "Lecker",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

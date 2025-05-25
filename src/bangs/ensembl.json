@@ -1,0 +1,8 @@
+{
+  "bang": "ensembl",
+  "domain": "https://www.ensembl.org",
+  "url": "http://www.ensembl.org/Multi/Search/Results?q=%s;site=ensembl",
+  "description": "Ensembl",
+  "category": "Research",
+  "sub-category": "Academic"
+}

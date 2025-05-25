@@ -1,0 +1,8 @@
+{
+  "bang": "gutefrage",
+  "domain": "https://www.gutefrage.net",
+  "url": "https://www.gutefrage.net/search?query=%s",
+  "description": "Gutefrage",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

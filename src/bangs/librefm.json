@@ -1,0 +1,8 @@
+{
+  "bang": "librefm",
+  "domain": "https://libre.fm",
+  "url": "http://libre.fm/search.php?search_term=%s",
+  "description": "libre.fm",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

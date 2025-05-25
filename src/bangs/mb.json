@@ -1,0 +1,8 @@
+{
+  "bang": "mb",
+  "domain": "https://musicbrainz.org",
+  "url": "http://musicbrainz.org/search/textsearch.html?type=artist&query=%s&handlearguments=1",
+  "description": "MusicBrainz",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

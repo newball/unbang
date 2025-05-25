@@ -1,0 +1,8 @@
+{
+  "bang": "redmine",
+  "domain": "https://www.redmine.org",
+  "url": "https://www.redmine.org/search?q=%s",
+  "description": "Redmine",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

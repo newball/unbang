@@ -1,0 +1,8 @@
+{
+  "bang": "jqd",
+  "domain": "https://api.jquery.com",
+  "url": "http://api.jquery.com/%s/",
+  "description": "jquery ",
+  "category": "Tech",
+  "sub-category": "Languages (javascript)"
+}

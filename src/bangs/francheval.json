@@ -1,0 +1,8 @@
+{
+  "bang": "francheval",
+  "domain": "https://news.francheval.com",
+  "url": "https://news.francheval.com/search?q=%s ",
+  "description": "Francheval News",
+  "category": "News",
+  "sub-category": "International"
+}

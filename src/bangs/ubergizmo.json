@@ -1,0 +1,8 @@
+{
+  "bang": "ubergizmo",
+  "domain": "https://www.ubergizmo.com",
+  "url": "http://www.ubergizmo.com/search/?q=%s",
+  "description": "ubergizmo",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

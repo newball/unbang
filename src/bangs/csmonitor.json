@@ -1,0 +1,8 @@
+{
+  "bang": "csmonitor",
+  "domain": "https://www.csmonitor.com",
+  "url": "http://www.csmonitor.com/content/search?SearchText=%s&SearchButton=Search",
+  "description": "CSMonitor",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

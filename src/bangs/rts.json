@@ -1,0 +1,8 @@
+{
+  "bang": "rts",
+  "domain": "https://www.rts.ch",
+  "url": "http://www.rts.ch/services/recherche/?q=%s",
+  "description": "Radio télévision suisse",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

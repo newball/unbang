@@ -1,0 +1,8 @@
+{
+  "bang": "rspb",
+  "domain": "https://www.rspb.org.uk",
+  "url": "https://www.rspb.org.uk/search/?q=%s",
+  "description": "RSPB",
+  "category": "Research",
+  "sub-category": "Learning"
+}

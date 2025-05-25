@@ -1,0 +1,8 @@
+{
+  "bang": "whfoods",
+  "domain": "https://whfoods.org",
+  "url": "http://whfoods.org/sitesearch.php?sstr=%s&how=1",
+  "description": "The World's Healthiest Foods",
+  "category": "Research",
+  "sub-category": "Food"
+}

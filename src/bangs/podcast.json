@@ -1,0 +1,8 @@
+{
+  "bang": "podcast",
+  "domain": "https://www.listennotes.com",
+  "url": "https://www.listennotes.com/search/?q=%s&sort_by_date=0",
+  "description": "Listen Notes",
+  "category": "Multimedia",
+  "sub-category": "General"
+}

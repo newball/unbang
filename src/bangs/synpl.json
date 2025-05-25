@@ -1,0 +1,8 @@
+{
+  "bang": "synpl",
+  "domain": "https://www.synonimy.pl",
+  "url": "https://www.synonimy.pl/synonim/%s",
+  "description": "Synonimy.pl",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

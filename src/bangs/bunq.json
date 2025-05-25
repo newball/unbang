@@ -1,0 +1,8 @@
+{
+  "bang": "bunq",
+  "domain": "https://together.bunq.com",
+  "url": "https://together.bunq.com/?q=%s",
+  "description": "bunq Together",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

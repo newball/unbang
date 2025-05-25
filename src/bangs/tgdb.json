@@ -1,0 +1,8 @@
+{
+  "bang": "tgdb",
+  "domain": "https://thegamesdb.net",
+  "url": "http://thegamesdb.net/search/?string=%s&function=Search",
+  "description": "TheGamesDB",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

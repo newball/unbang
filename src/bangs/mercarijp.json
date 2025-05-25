@@ -1,0 +1,8 @@
+{
+  "bang": "mercarijp",
+  "domain": "https://www.mercari.com",
+  "url": "https://www.mercari.com/jp/search/?keyword=%s",
+  "description": "mercari JP",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ngg",
+  "domain": "https://www.newgrounds.com",
+  "url": "http://www.newgrounds.com/portal/search/games/%s",
+  "description": "Newgrounds Games",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

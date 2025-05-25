@@ -1,0 +1,8 @@
+{
+  "bang": "gwct",
+  "domain": "https://www.gwct.org.uk",
+  "url": "http://www.gwct.org.uk/search?keywords=%s",
+  "description": "Game & Wildlife Conservation Trust",
+  "category": "Research",
+  "sub-category": "Academic"
+}

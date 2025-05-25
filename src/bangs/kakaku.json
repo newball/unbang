@@ -1,0 +1,8 @@
+{
+  "bang": "kakaku",
+  "domain": "https://kakaku.com",
+  "url": "http://kakaku.com/search_results/%s",
+  "description": "kakaku.com",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "cbtnuggets",
+  "domain": "https://www.cbtnuggets.com",
+  "url": "https://www.cbtnuggets.com/search?q=%s",
+  "description": "CBT Nuggets",
+  "category": "Research",
+  "sub-category": "Learning"
+}

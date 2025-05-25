@@ -1,0 +1,8 @@
+{
+  "bang": "datagov",
+  "domain": "https://catalog.data.gov",
+  "url": "http://catalog.data.gov/dataset?q=%s&sort=score+desc%2C+name+asc",
+  "description": "Data.Gov",
+  "category": "Research",
+  "sub-category": "Government"
+}

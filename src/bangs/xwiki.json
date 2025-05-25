@@ -1,0 +1,8 @@
+{
+  "bang": "xwiki",
+  "domain": "https://www.xwiki.org",
+  "url": "http://www.xwiki.org/xwiki/bin/view/Main/Search?text=%s",
+  "description": "XWiki",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

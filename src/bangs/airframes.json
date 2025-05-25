@@ -1,0 +1,8 @@
+{
+  "bang": "airframes",
+  "domain": "https://www.airframes.org",
+  "url": "http://www.airframes.org/reg/%s",
+  "description": "Aircraft Registration Database Lookup",
+  "category": "Research",
+  "sub-category": "Reference"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "lyricwiki",
+  "domain": "https://lyrics.wikia.com",
+  "url": "http://lyrics.wikia.com/Special:Search?search=%s&fulltext=Search",
+  "description": "LyricWiki",
+  "category": "Multimedia",
+  "sub-category": "Music (Lyrics)"
+}

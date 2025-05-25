@@ -1,0 +1,8 @@
+{
+  "bang": "particleforums",
+  "domain": "https://community.particle.io",
+  "url": "https://community.particle.io/users/%s/",
+  "description": "Particle Community",
+  "category": "Online Services",
+  "sub-category": "Social (intl)"
+}

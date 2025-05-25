@@ -1,0 +1,8 @@
+{
+  "bang": "larfren",
+  "domain": "https://www.larousse.fr",
+  "url": "https://www.larousse.fr/dictionnaires/rechercher?q=%s&l=francais-anglais&culture=",
+  "description": "Larousse FR - EN translation",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

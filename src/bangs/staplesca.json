@@ -1,0 +1,8 @@
+{
+  "bang": "staplesca",
+  "domain": "https://www.staples.ca",
+  "url": "http://www.staples.ca/%s/directory_%s_20051_1_20001",
+  "description": "Staples Canada",
+  "category": "Shopping",
+  "sub-category": "Big box/department"
+}

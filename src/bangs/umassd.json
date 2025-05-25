@@ -1,0 +1,8 @@
+{
+  "bang": "umassd",
+  "domain": "https://www.umassd.edu",
+  "url": "https://www.umassd.edu/universitysearch/?q=%s",
+  "description": "University of Massachusetts Dartmouth",
+  "category": "Research",
+  "sub-category": "Academic"
+}

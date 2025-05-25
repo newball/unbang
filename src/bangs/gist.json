@@ -1,0 +1,8 @@
+{
+  "bang": "gist",
+  "domain": "https://gist.github.com",
+  "url": "https://gist.github.com/search?q=%s",
+  "description": "Github Gists",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

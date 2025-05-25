@@ -1,0 +1,8 @@
+{
+  "bang": "cved",
+  "domain": "https://cvedetails.com",
+  "url": "http://cvedetails.com/cve-details.php?t=1&cve_id=%s",
+  "description": "CVE Details",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

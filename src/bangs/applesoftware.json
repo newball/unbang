@@ -1,0 +1,8 @@
+{
+  "bang": "applesoftware",
+  "domain": "https://support.apple.com",
+  "url": "https://support.apple.com/en_US/downloads/%s",
+  "description": "Apple",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

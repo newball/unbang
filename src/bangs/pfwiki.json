@@ -1,0 +1,8 @@
+{
+  "bang": "pfwiki",
+  "domain": "https://phineasandferb.wikia.com",
+  "url": "http://phineasandferb.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Phineas and Ferb Wiki",
+  "category": "Entertainment",
+  "sub-category": "TV"
+}

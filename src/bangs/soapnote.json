@@ -1,0 +1,8 @@
+{
+  "bang": "soapnote",
+  "domain": "https://www.soapnote.org",
+  "url": "https://www.soapnote.org/?s=%s",
+  "description": "SOAPnote",
+  "category": "Research",
+  "sub-category": "Health"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "groundai",
+  "domain": "https://www.groundai.com",
+  "url": "https://www.groundai.com/search/?text=%s&sort=_score",
+  "description": "Ground AI",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

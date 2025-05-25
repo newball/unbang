@@ -1,0 +1,8 @@
+{
+  "bang": "thinkwikide",
+  "domain": "https://thinkwiki.de",
+  "url": "http://thinkwiki.de/index.php?search=%s",
+  "description": "thinkwiki.de",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

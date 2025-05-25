@@ -1,0 +1,8 @@
+{
+  "bang": "kpe",
+  "domain": "https://kalliope.staatsbibliothek-berlin.de",
+  "url": "http://kalliope.staatsbibliothek-berlin.de/de/search.html?q=%s",
+  "description": "Kalliope Verbundkatalog",
+  "category": "Research",
+  "sub-category": "Academic"
+}

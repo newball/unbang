@@ -1,0 +1,8 @@
+{
+  "bang": "gschol",
+  "domain": "https://scholar.google.com",
+  "url": "http://scholar.google.com/scholar?q=%s ",
+  "description": "Google Scholar",
+  "category": "Research",
+  "sub-category": "Academic"
+}

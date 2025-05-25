@@ -1,0 +1,8 @@
+{
+  "bang": "eporeg",
+  "domain": "https://register.epo.org",
+  "url": "https://register.epo.org/smartSearch?searchMode=smart&query=%s",
+  "description": "European Patent Register",
+  "category": "Research",
+  "sub-category": "Government"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "gmcl",
+  "domain": "https://www.google.cl",
+  "url": "https://www.google.cl/maps/place/%s",
+  "description": "Google Maps Chile",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

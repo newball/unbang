@@ -1,0 +1,8 @@
+{
+  "bang": "mib",
+  "domain": "https://search.mibbit.com",
+  "url": "http://search.mibbit.com/search/%s",
+  "description": "Mibbit",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

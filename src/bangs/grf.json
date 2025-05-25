@@ -1,0 +1,8 @@
+{
+  "bang": "grf",
+  "domain": "https://goblinrefuge.com",
+  "url": "https://goblinrefuge.com/mediagoblin/search/?query=%s",
+  "description": "goblinrefuge.com",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "rclippy",
+  "domain": "https://rust-lang.github.io",
+  "url": "https://rust-lang.github.io/rust-clippy/master/index.html#%s",
+  "description": "Rust Clippy Lints",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

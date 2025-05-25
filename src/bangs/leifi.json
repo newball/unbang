@@ -1,0 +1,8 @@
+{
+  "bang": "leifi",
+  "domain": "https://www.leifiphysik.de",
+  "url": "https://www.leifiphysik.de/suche?search_api_fulltext=%s",
+  "description": "Leifi Physik",
+  "category": "Research",
+  "sub-category": "Learning"
+}

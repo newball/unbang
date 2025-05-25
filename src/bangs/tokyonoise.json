@@ -1,0 +1,8 @@
+{
+  "bang": "tokyonoise",
+  "domain": "https://www.tokyonoise.net",
+  "url": "http://www.tokyonoise.net/cerca.php?s=%s&p=1",
+  "description": "TokyoNoise",
+  "category": "Entertainment",
+  "sub-category": "Audio"
+}

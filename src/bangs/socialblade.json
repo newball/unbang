@@ -1,0 +1,8 @@
+{
+  "bang": "socialblade",
+  "domain": "https://socialblade.com",
+  "url": "https://socialblade.com/search/%s",
+  "description": "Socialblade",
+  "category": "Entertainment",
+  "sub-category": "Misc"
+}

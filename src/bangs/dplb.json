@@ -1,0 +1,8 @@
+{
+  "bang": "dplb",
+  "domain": "https://www.dblp.org",
+  "url": "http://www.dblp.org/search/index.php#query=%s",
+  "description": "DPLB",
+  "category": "Research",
+  "sub-category": "Academic (math/cs)"
+}

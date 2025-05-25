@@ -1,0 +1,8 @@
+{
+  "bang": "wsk",
+  "domain": "https://sk.wikipedia.org",
+  "url": "https://sk.wikipedia.org/wiki/Special:Search?search=%s",
+  "description": "Wikipédia Slovenčina",
+  "category": "Research",
+  "sub-category": "Learning"
+}

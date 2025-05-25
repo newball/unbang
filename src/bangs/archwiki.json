@@ -1,0 +1,8 @@
+{
+  "bang": "archwiki",
+  "domain": "https://wiki.archlinux.org",
+  "url": "https://wiki.archlinux.org/index.php?search=%s&title=Special%3ASearch&go=Go",
+  "description": "Arch Linux Wiki",
+  "category": "Tech",
+  "sub-category": "Sysadmin (Arch)"
+}

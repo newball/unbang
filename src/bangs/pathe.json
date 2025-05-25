@@ -1,0 +1,8 @@
+{
+  "bang": "pathe",
+  "domain": "https://www.pathe.nl",
+  "url": "https://www.pathe.nl/Zoek?q=%s",
+  "description": "Pathe",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

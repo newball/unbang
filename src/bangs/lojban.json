@@ -1,0 +1,8 @@
+{
+  "bang": "lojban",
+  "domain": "https://mw.lojban.org",
+  "url": "https://mw.lojban.org/index.php?search=%s&title=Special%3ASearch&go=Go",
+  "description": "Lojban.org (the official website and wiki)",
+  "category": "Research",
+  "sub-category": "Learning (intl)"
+}

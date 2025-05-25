@@ -1,0 +1,8 @@
+{
+  "bang": "springerfree",
+  "domain": "https://link.springer.com",
+  "url": "https://link.springer.com/search?showAll=false&query=%s",
+  "description": "Springer Link",
+  "category": "Research",
+  "sub-category": "Academic"
+}

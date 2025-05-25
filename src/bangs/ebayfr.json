@@ -1,0 +1,8 @@
+{
+  "bang": "ebayfr",
+  "domain": "https://www.ebay.fr",
+  "url": "https://www.ebay.fr/sch/items/?_nkw=%s",
+  "description": "ebay.fr",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

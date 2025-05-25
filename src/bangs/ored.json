@@ -1,0 +1,8 @@
+{
+  "bang": "ored",
+  "domain": "https://old.reddit.com",
+  "url": "https://old.reddit.com/search?q=%s&sort=relevance&t=all",
+  "description": "old reddit",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

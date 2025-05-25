@@ -1,0 +1,8 @@
+{
+  "bang": "edf",
+  "domain": "https://forums.frontier.co.uk",
+  "url": "https://forums.frontier.co.uk/search.php?do=process&query=%s",
+  "description": "Elite Dangerous Forum",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

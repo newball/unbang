@@ -1,0 +1,8 @@
+{
+  "bang": "bmj",
+  "domain": "https://www.bmj.com",
+  "url": "https://www.bmj.com/search/advanced/%s",
+  "description": "The BMJ",
+  "category": "Research",
+  "sub-category": "Academic"
+}

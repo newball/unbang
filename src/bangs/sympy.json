@@ -1,0 +1,8 @@
+{
+  "bang": "sympy",
+  "domain": "https://www.sympygamma.com",
+  "url": "http://www.sympygamma.com/input/?i=%s",
+  "description": "SymPy Gamma",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

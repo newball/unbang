@@ -1,0 +1,8 @@
+{
+  "bang": "netonnet",
+  "domain": "https://www.netonnet.no",
+  "url": "https://www.netonnet.no/Search?query=%s",
+  "description": "NetOnNet",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

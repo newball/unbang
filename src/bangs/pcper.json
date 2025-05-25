@@ -1,0 +1,8 @@
+{
+  "bang": "pcper",
+  "domain": "https://www.pcper.com",
+  "url": "http://www.pcper.com/search/node/%s",
+  "description": "PC Perspective",
+  "category": "News",
+  "sub-category": "Specialty"
+}

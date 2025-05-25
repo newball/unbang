@@ -1,0 +1,8 @@
+{
+  "bang": "redable",
+  "domain": "https://www.redable.nl",
+  "url": "https://www.redable.nl/catalogsearch/result/?q=%s",
+  "description": "Redable",
+  "category": "Shopping",
+  "sub-category": "Online (deals)"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "fide",
+  "domain": "https://ratings.fide.com",
+  "url": "https://ratings.fide.com/search.phtml?search=%s",
+  "description": "Fide - World Chess Federation",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

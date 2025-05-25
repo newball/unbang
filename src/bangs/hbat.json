@@ -1,0 +1,8 @@
+{
+  "bang": "hbat",
+  "domain": "https://www.hornbach.at",
+  "url": "https://www.hornbach.at/shop/suche/sortiment/%s",
+  "description": "Hornbach.at",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

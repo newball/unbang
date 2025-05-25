@@ -1,0 +1,8 @@
+{
+  "bang": "softpedia",
+  "domain": "https://www.softpedia.com",
+  "url": "http://www.softpedia.com/dyn-search.php?search_term=%s&x=0&y=0",
+  "description": "Softpedia",
+  "category": "Tech",
+  "sub-category": "Downloads (software)"
+}

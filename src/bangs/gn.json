@@ -1,0 +1,8 @@
+{
+  "bang": "gn",
+  "domain": "https://news.google.com",
+  "url": "https://news.google.com/news/search/section/q/%s",
+  "description": "Google News",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

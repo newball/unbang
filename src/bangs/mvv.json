@@ -1,0 +1,8 @@
+{
+  "bang": "mvv",
+  "domain": "https://efa.mvv-muenchen.de",
+  "url": "http://efa.mvv-muenchen.de/index.html?name_destination=%s",
+  "description": "Münchner Verkehrs- und Tarifbund (MVV)",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

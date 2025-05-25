@@ -1,0 +1,8 @@
+{
+  "bang": "2pl",
+  "domain": "https://2player.com",
+  "url": "http://2player.com/search/?search=%s",
+  "description": "2player.com",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

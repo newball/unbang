@@ -1,0 +1,8 @@
+{
+  "bang": "gramota",
+  "domain": "https://gramota.ru",
+  "url": "http://gramota.ru/slovari/dic/?word=%s&all=x",
+  "description": "gramota.ru",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

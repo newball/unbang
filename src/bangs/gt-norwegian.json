@@ -1,0 +1,8 @@
+{
+  "bang": "gt-norwegian",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/no/%s",
+  "description": "Detect language to Norwegian",
+  "category": "Translation",
+  "sub-category": "Google"
+}

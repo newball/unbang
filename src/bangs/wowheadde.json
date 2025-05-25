@@ -1,0 +1,8 @@
+{
+  "bang": "wowheadde",
+  "domain": "https://de.wowhead.com",
+  "url": "http://de.wowhead.com/search?q=%s",
+  "description": "Wowhead german",
+  "category": "Entertainment",
+  "sub-category": "Games (WOW)"
+}

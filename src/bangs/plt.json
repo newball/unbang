@@ -1,0 +1,8 @@
+{
+  "bang": "plt",
+  "domain": "https://latin.packhum.org",
+  "url": "http://latin.packhum.org/search?q=%s",
+  "description": "PHI Latin Texts",
+  "category": "Research",
+  "sub-category": "Reference (words intl)"
+}

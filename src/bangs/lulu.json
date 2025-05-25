@@ -1,0 +1,8 @@
+{
+  "bang": "lulu",
+  "domain": "https://www.lulu.com",
+  "url": "https://www.lulu.com/shop/search.ep?keyWords=%s",
+  "description": "Lulu",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

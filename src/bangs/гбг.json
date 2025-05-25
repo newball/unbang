@@ -1,0 +1,8 @@
+{
+  "bang": "гбг",
+  "domain": "https://www.google.bg",
+  "url": "https://www.google.bg/search?source=hp&q=%s",
+  "description": "Google BG",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

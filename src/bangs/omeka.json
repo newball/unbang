@@ -1,0 +1,8 @@
+{
+  "bang": "omeka",
+  "domain": "https://forum.omeka.org",
+  "url": "https://forum.omeka.org/search?q=%s",
+  "description": "Omeka Forums",
+  "category": "Research",
+  "sub-category": "Academic"
+}

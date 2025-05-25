@@ -1,0 +1,8 @@
+{
+  "bang": "duden",
+  "domain": "https://www.duden.de",
+  "url": "http://www.duden.de/suchen/dudenonline/%s",
+  "description": "Duden",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

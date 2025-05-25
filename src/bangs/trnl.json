@@ -1,0 +1,8 @@
+{
+  "bang": "trnl",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#auto/nl/%s",
+  "description": "Google Translate Dutch ",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

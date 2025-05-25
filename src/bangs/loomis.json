@@ -1,0 +1,8 @@
+{
+  "bang": "loomis",
+  "domain": "https://www.loomisexpress.com",
+  "url": "https://www.loomisexpress.com/ca/wfTrackingStatus.aspx?PieceNumber=%s",
+  "description": "Loomis Tracking",
+  "category": "Online Services",
+  "sub-category": "Tracking"
+}

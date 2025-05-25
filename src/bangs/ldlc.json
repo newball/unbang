@@ -1,0 +1,8 @@
+{
+  "bang": "ldlc",
+  "domain": "https://www.ldlc.com",
+  "url": "http://www.ldlc.com/navigation/%s/",
+  "description": "LDLC",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "tdb",
+  "domain": "https://thronesdb.com",
+  "url": "https://thronesdb.com/find?q=%s",
+  "description": "ThronesDB",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

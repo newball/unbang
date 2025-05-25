@@ -1,0 +1,8 @@
+{
+  "bang": "timerep",
+  "domain": "https://timerepublik.com",
+  "url": "https://timerepublik.com/?q=%s",
+  "description": "Timerepubik",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

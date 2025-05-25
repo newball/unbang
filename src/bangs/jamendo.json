@@ -1,0 +1,8 @@
+{
+  "bang": "jamendo",
+  "domain": "https://www.jamendo.com",
+  "url": "https://www.jamendo.com/search?q=%s",
+  "description": "Jamendo",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

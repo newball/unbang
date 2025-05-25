@@ -1,0 +1,8 @@
+{
+  "bang": "jellyneo",
+  "domain": "https://items.jellyneo.net",
+  "url": "https://items.jellyneo.net/search/?name=%s",
+  "description": "JellyNeo",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

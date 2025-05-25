@@ -1,0 +1,8 @@
+{
+  "bang": "hvv",
+  "domain": "https://geofox.hvv.de",
+  "url": "https://geofox.hvv.de/jsf/home.seam?destination=%s",
+  "description": "HVV",
+  "category": "Online Services",
+  "sub-category": "Maps"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "anaped",
+  "domain": "https://en.anarchopedia.org",
+  "url": "http://en.anarchopedia.org/index.php?title=Special:Search&search=%s",
+  "description": "Anarchopedia",
+  "category": "Research",
+  "sub-category": "Reference"
+}

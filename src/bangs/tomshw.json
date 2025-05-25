@@ -1,0 +1,8 @@
+{
+  "bang": "tomshw",
+  "domain": "https://www.tomshardware.com",
+  "url": "http://www.tomshardware.com/s/%s/",
+  "description": "Tom's Hardware",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

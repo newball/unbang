@@ -1,0 +1,8 @@
+{
+  "bang": "lmx",
+  "domain": "https://www.linio.com.mx",
+  "url": "https://www.linio.com.mx/search?q=%s",
+  "description": "Linio México",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

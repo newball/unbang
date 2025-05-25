@@ -1,0 +1,8 @@
+{
+  "bang": "rustn",
+  "domain": "https://doc.rust-lang.org",
+  "url": "https://doc.rust-lang.org/nightly/std/?search=%s",
+  "description": "Rust Nightly Standard Library Documentation",
+  "category": "Tech",
+  "sub-category": "Languages (other)"
+}

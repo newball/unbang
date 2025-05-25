@@ -1,0 +1,8 @@
+{
+  "bang": "winstore",
+  "domain": "https://windows.microsoft.com",
+  "url": "http://windows.microsoft.com/en-us/windows/search#q=%s&s=Store",
+  "description": "Windows Store",
+  "category": "Tech",
+  "sub-category": "Downloads (apps)"
+}

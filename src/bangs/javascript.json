@@ -1,0 +1,8 @@
+{
+  "bang": "javascript",
+  "domain": "https://developer.mozilla.org",
+  "url": "https://developer.mozilla.org/search?q=%s",
+  "description": "JavaScript Docs",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

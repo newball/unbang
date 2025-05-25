@@ -1,0 +1,8 @@
+{
+  "bang": "zoomthelist",
+  "domain": "https://zoomthelist.com",
+  "url": "http://zoomthelist.com/?q=%s",
+  "description": "zoomthelist",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

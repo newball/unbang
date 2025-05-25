@@ -1,0 +1,8 @@
+{
+  "bang": "tlld",
+  "domain": "https://www.thetrainline.com",
+  "url": "https://www.thetrainline.com/live/departures/%s",
+  "description": "Trainline Live Departures",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

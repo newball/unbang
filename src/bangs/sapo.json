@@ -1,0 +1,8 @@
+{
+  "bang": "sapo",
+  "domain": "https://pesquisa.sapo.pt",
+  "url": "http://pesquisa.sapo.pt/?barra=&q=%s",
+  "description": "SAPO",
+  "category": "Online Services",
+  "sub-category": "Search (non-US)"
+}

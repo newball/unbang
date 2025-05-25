@@ -1,0 +1,8 @@
+{
+  "bang": "bi",
+  "domain": "https://www.bing.com",
+  "url": "https://www.bing.com/images/search?q=%s&go=&form=QBIL&qs=n",
+  "description": "Bing Images",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

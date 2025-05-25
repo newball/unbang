@@ -1,0 +1,8 @@
+{
+  "bang": "psql",
+  "domain": "https://www.postgresql.org",
+  "url": "http://www.postgresql.org/search/?q=%s &a=1&submit=Search",
+  "description": "PostgreSQL (Docs)",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

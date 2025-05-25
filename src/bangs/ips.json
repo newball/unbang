@@ -1,0 +1,8 @@
+{
+  "bang": "ips",
+  "domain": "https://interpersonal.stackexchange.com",
+  "url": "https://interpersonal.stackexchange.com/search?q=%s",
+  "description": "Interpersonal Skills",
+  "category": "Research",
+  "sub-category": "Reference"
+}

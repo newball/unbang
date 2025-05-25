@@ -1,0 +1,8 @@
+{
+  "bang": "yam",
+  "domain": "https://www.yammer.com",
+  "url": "https://www.yammer.com/search?search=%s",
+  "description": "Yammer",
+  "category": "Online Services",
+  "sub-category": "Social"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "raf",
+  "domain": "https://animorphsforum.com",
+  "url": "http://animorphsforum.com/index.php?action=search;advanced;search=%s",
+  "description": "Richard's Animorphs Forum",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

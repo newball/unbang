@@ -1,0 +1,8 @@
+{
+  "bang": "tf2r",
+  "domain": "https://www.reddit.com",
+  "url": "https://www.reddit.com/r/tf2/search?q=%s&restrict_sr=on",
+  "description": "Team Fortress 2 subreddit",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

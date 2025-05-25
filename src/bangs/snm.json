@@ -1,0 +1,8 @@
+{
+  "bang": "snm",
+  "domain": "https://www.nexusmods.com",
+  "url": "https://www.nexusmods.com/skyrim/search/?gsearch=%s&gsearchtype=mods",
+  "description": "Skyrim NexusMods",
+  "category": "Entertainment",
+  "sub-category": "Games (general)"
+}

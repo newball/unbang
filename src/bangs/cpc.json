@@ -1,0 +1,8 @@
+{
+  "bang": "cpc",
+  "domain": "https://cpc.farnell.com",
+  "url": "http://cpc.farnell.com/search?st=%s",
+  "description": "CPC",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

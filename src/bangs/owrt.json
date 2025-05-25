@@ -1,0 +1,8 @@
+{
+  "bang": "owrt",
+  "domain": "https://openwrt.org",
+  "url": "https://openwrt.org/doku.php?do=search&id=start&q=%s",
+  "description": "OpenWrt",
+  "category": "Tech",
+  "sub-category": "Sysadmin (network)"
+}

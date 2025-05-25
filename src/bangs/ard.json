@@ -1,0 +1,8 @@
+{
+  "bang": "ard",
+  "domain": "https://www.ardmediathek.de",
+  "url": "https://www.ardmediathek.de/ard/search/%s",
+  "description": "ARD Mediathek",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

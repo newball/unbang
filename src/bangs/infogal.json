@@ -1,0 +1,8 @@
+{
+  "bang": "infogal",
+  "domain": "https://infogalactic.com",
+  "url": "https://infogalactic.com/w/index.php?search=%s",
+  "description": "Infogalactic",
+  "category": "Research",
+  "sub-category": "Academic"
+}

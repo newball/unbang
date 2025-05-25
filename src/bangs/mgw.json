@@ -1,0 +1,8 @@
+{
+  "bang": "mgw",
+  "domain": "https://metalgear.wikia.com",
+  "url": "http://metalgear.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Metal Gear Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (specific)"
+}

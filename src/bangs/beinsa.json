@@ -1,0 +1,8 @@
+{
+  "bang": "beinsa",
+  "domain": "https://beinsa.bg",
+  "url": "http://beinsa.bg/search.php?q=%s&submit=ТЪРСИ&s_type=all&id=&status=1",
+  "description": "beinsa.bg",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

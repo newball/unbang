@@ -1,0 +1,8 @@
+{
+  "bang": "diepresse",
+  "domain": "https://diepresse.com",
+  "url": "http://diepresse.com/user/search.do?resetForm=1&resultsPage=0&searchText=%s&x=0&y=0",
+  "description": "Die Presse",
+  "category": "News",
+  "sub-category": "Newspaper"
+}

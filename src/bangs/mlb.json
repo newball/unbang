@@ -1,0 +1,8 @@
+{
+  "bang": "mlb",
+  "domain": "https://mlb.mlb.com",
+  "url": "http://mlb.mlb.com/searchGlobalSearchServlet?club=mlb&search_mode=1&searchtypeid=-1&page_number=1&query_text1=%s",
+  "description": "MLB.com",
+  "category": "Entertainment",
+  "sub-category": "Sports"
+}

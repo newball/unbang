@@ -1,0 +1,8 @@
+{
+  "bang": "mangas",
+  "domain": "https://kitsu.io",
+  "url": "https://kitsu.io/manga?text=%s",
+  "description": "Kitsu Manga",
+  "category": "Entertainment",
+  "sub-category": "Comics"
+}

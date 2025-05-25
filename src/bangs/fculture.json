@@ -1,0 +1,8 @@
+{
+  "bang": "fculture",
+  "domain": "https://www.franceculture.fr",
+  "url": "https://www.franceculture.fr/recherche?q=%s",
+  "description": "France Culture",
+  "category": "Entertainment",
+  "sub-category": "Radio"
+}

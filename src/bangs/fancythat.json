@@ -1,0 +1,8 @@
+{
+  "bang": "fancythat",
+  "domain": "https://www.shopfancythat.com",
+  "url": "https://www.shopfancythat.com/search?q=%s",
+  "description": "Fancy That",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "spf",
+  "domain": "https://mxtoolbox.com",
+  "url": "http://mxtoolbox.com/SuperTool.aspx?action=spf%3a%s&run=toolpage",
+  "description": "MXToolbox",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

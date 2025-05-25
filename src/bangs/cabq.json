@@ -1,0 +1,8 @@
+{
+  "bang": "cabq",
+  "domain": "https://www.cabq.gov",
+  "url": "http://www.cabq.gov/searchresults?q=%s",
+  "description": "City of Albuquerque",
+  "category": "Research",
+  "sub-category": "Government"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "bsdman",
+  "domain": "https://www.freebsd.org",
+  "url": "http://www.freebsd.org/cgi/man.cgi?query=%s",
+  "description": "FreeBSD",
+  "category": "Tech",
+  "sub-category": "Sysadmin (FreeBSD)"
+}

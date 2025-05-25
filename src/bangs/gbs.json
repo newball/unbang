@@ -1,0 +1,8 @@
+{
+  "bang": "gbs",
+  "domain": "https://gigablast.com",
+  "url": "https://gigablast.com/search?c=main&index=search&q=%s",
+  "description": "Gigablast Encrypted",
+  "category": "Online Services",
+  "sub-category": "Search (Private)"
+}

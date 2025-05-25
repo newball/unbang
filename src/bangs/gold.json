@@ -1,0 +1,8 @@
+{
+  "bang": "gold",
+  "domain": "https://goldbook.iupac.org",
+  "url": "http://goldbook.iupac.org/terms/search/%s",
+  "description": "IUPAC Gold Book",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

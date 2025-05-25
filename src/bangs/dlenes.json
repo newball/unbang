@@ -1,0 +1,8 @@
+{
+  "bang": "dlenes",
+  "domain": "https://www.deepl.com",
+  "url": "https://www.deepl.com/translator#en/es/%s",
+  "description": "DeepL eng-esp",
+  "category": "Translation",
+  "sub-category": "General"
+}

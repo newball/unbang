@@ -1,0 +1,8 @@
+{
+  "bang": "recfren",
+  "domain": "https://context.reverso.net",
+  "url": "https://context.reverso.net/traduction/francais-anglais/%s",
+  "description": "Reverso Context",
+  "category": "Translation",
+  "sub-category": "General"
+}

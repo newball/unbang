@@ -1,0 +1,8 @@
+{
+  "bang": "ryg",
+  "domain": "https://rateyourmusic.com",
+  "url": "https://rateyourmusic.com/genre/%s",
+  "description": "RateYourMusic Genre",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "koei",
+  "domain": "https://koei.wikia.com",
+  "url": "http://koei.wikia.com/wiki/Special:Search?search=%s&fulltext=Search",
+  "description": "KOEI Wiki",
+  "category": "Entertainment",
+  "sub-category": "Games (offline)"
+}

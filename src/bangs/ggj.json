@@ -1,0 +1,8 @@
+{
+  "bang": "ggj",
+  "domain": "https://globalgamejam.org",
+  "url": "http://globalgamejam.org/?q=%s",
+  "description": "Global Game Jam",
+  "category": "Tech",
+  "sub-category": "Design"
+}

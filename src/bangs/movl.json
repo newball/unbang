@@ -1,0 +1,8 @@
+{
+  "bang": "movl",
+  "domain": "https://movielens.org",
+  "url": "https://movielens.org/explore?q=%s",
+  "description": "MovieLens",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

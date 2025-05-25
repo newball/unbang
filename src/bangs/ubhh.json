@@ -1,0 +1,8 @@
+{
+  "bang": "ubhh",
+  "domain": "https://beluga.sub.uni-hamburg.de",
+  "url": "https://beluga.sub.uni-hamburg.de/vufind/Search/Results?lookfor=%s&submitForm=Suchen&library=BELUGA_ALL",
+  "description": "Beluga Uni Hamburg",
+  "category": "Research",
+  "sub-category": "Reference (science)"
+}

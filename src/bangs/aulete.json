@@ -1,0 +1,8 @@
+{
+  "bang": "aulete",
+  "domain": "https://www.aulete.com.br",
+  "url": "http://www.aulete.com.br/%s",
+  "description": "iDicionário Aulete",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

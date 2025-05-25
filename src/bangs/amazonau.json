@@ -1,0 +1,8 @@
+{
+  "bang": "amazonau",
+  "domain": "https://www.amazon.com.au",
+  "url": "https://www.amazon.com.au/s?k=%s",
+  "description": "Amazon.com.au",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "themoviedb",
+  "domain": "https://www.themoviedb.org",
+  "url": "http://www.themoviedb.org/search?query=%s",
+  "description": "TheMovieDB.org",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

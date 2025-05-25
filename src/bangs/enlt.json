@@ -1,0 +1,8 @@
+{
+  "bang": "enlt",
+  "domain": "https://translate.google.com",
+  "url": "http://translate.google.com/#en/lt/%s",
+  "description": "Google Translate English to Lithuanian",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "ilstu",
+  "domain": "https://search.illinoisstate.edu",
+  "url": "http://search.illinoisstate.edu/?q=%s",
+  "description": "Illinois State University",
+  "category": "Research",
+  "sub-category": "Academic"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "selu",
+  "domain": "https://search.selu.edu",
+  "url": "http://search.selu.edu/search?q=%s",
+  "description": "Southeastern Louisiana University",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

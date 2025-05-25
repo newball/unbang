@@ -1,0 +1,8 @@
+{
+  "bang": "cbottle",
+  "domain": "https://codebottle.io",
+  "url": "https://codebottle.io/?q=%s",
+  "description": "Codebottle",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

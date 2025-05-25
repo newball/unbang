@@ -1,0 +1,8 @@
+{
+  "bang": "belkin",
+  "domain": "https://www.belkin.com",
+  "url": "http://www.belkin.com/us/search?text=%s",
+  "description": "Belkin",
+  "category": "Shopping",
+  "sub-category": "Tech"
+}

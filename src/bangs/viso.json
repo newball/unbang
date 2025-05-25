@@ -1,0 +1,8 @@
+{
+  "bang": "viso",
+  "domain": "https://vi.stackexchange.com",
+  "url": "https://vi.stackexchange.com/search?q=%s",
+  "description": "Vi @ stackExchange",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

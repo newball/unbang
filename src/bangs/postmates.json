@@ -1,0 +1,8 @@
+{
+  "bang": "postmates",
+  "domain": "https://postmates.com",
+  "url": "https://postmates.com/search?q=%s",
+  "description": "Postmates",
+  "category": "Shopping",
+  "sub-category": "Services"
+}

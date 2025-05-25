@@ -1,0 +1,8 @@
+{
+  "bang": "bitcoin",
+  "domain": "https://blockchain.info",
+  "url": "https://blockchain.info/search?search=%s",
+  "description": "Blockchain.info",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "giau",
+  "domain": "https://www.google.com.au",
+  "url": "https://www.google.com.au/search?tbm=isch&q=%s&tbs=imgo:1",
+  "description": "Google Images Australia",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

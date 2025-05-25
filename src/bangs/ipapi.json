@@ -1,0 +1,8 @@
+{
+  "bang": "ipapi",
+  "domain": "https://ip-api.com",
+  "url": "http://ip-api.com/#%s",
+  "description": "IP-API.com",
+  "category": "Online Services",
+  "sub-category": "Tools"
+}

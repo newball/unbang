@@ -1,0 +1,8 @@
+{
+  "bang": "coveo",
+  "domain": "https://www.coveo.com",
+  "url": "http://www.coveo.com/en/search#q=%s",
+  "description": "Coveo",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

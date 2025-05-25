@@ -1,0 +1,8 @@
+{
+  "bang": "desv",
+  "domain": "https://desv.dict.cc",
+  "url": "http://desv.dict.cc/?s=%s",
+  "description": "dict.cc",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

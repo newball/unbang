@@ -1,0 +1,8 @@
+{
+  "bang": "lp",
+  "domain": "https://launchpad.net",
+  "url": "https://launchpad.net/+search?field.text=%s",
+  "description": "Launchpad",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

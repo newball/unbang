@@ -1,0 +1,8 @@
+{
+  "bang": "cn",
+  "domain": "https://www.charitynavigator.org",
+  "url": "http://www.charitynavigator.org/index.cfm?bay=search.results&keyword_list=%s",
+  "description": "Charity Navigator",
+  "category": "Research",
+  "sub-category": "Topical"
+}

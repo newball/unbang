@@ -1,0 +1,8 @@
+{
+  "bang": "apln",
+  "domain": "https://www.anime-planet.com",
+  "url": "https://www.anime-planet.com/anime/all?name=%s",
+  "description": "Animeplanet",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

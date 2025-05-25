@@ -1,0 +1,8 @@
+{
+  "bang": "raamattu",
+  "domain": "https://www.koivuniemi.com",
+  "url": "http://www.koivuniemi.com/raamattuhaku?tila=pikahaku&hakuehto=%s",
+  "description": "Koivuniemen Raamattuhaku",
+  "category": "Online Services",
+  "sub-category": "Search"
+}

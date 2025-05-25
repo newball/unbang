@@ -1,0 +1,8 @@
+{
+  "bang": "hwd",
+  "domain": "https://www.hollywoodreporter.com",
+  "url": "http://www.hollywoodreporter.com/search/%s ",
+  "description": "The Hollywood Reporter",
+  "category": "News",
+  "sub-category": "Magazine"
+}

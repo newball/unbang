@@ -1,0 +1,8 @@
+{
+  "bang": "ad",
+  "domain": "https://apple.stackexchange.com",
+  "url": "http://apple.stackexchange.com/search?q=%s",
+  "description": "Ask Different",
+  "category": "Entertainment",
+  "sub-category": "Forum"
+}

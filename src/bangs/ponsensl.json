@@ -1,0 +1,8 @@
+{
+  "bang": "ponsensl",
+  "domain": "https://en.pons.com",
+  "url": "https://en.pons.com/translate?q=%s&l=ensl&in=en&lf=en",
+  "description": "Pons en->sl",
+  "category": "Tech",
+  "sub-category": "Blogs"
+}

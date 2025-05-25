@@ -1,0 +1,8 @@
+{
+  "bang": "moviefone",
+  "domain": "https://www.moviefone.com",
+  "url": "https://www.moviefone.com/search/%s/",
+  "description": "Moviefone",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "reverb",
+  "domain": "https://reverb.com",
+  "url": "https://reverb.com/marketplace?query=%s",
+  "description": "Reverb",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "epl",
+  "domain": "https://shop.ebay.pl",
+  "url": "http://shop.ebay.pl/?_nkw=%s&_sacat=See-All-Categories",
+  "description": "ebay.pl",
+  "category": "Shopping",
+  "sub-category": "Online (marketplace)"
+}

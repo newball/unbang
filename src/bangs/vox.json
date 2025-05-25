@@ -1,0 +1,8 @@
+{
+  "bang": "vox",
+  "domain": "https://www.vox.com",
+  "url": "http://www.vox.com/search?q=%s",
+  "description": "Vox.com",
+  "category": "News",
+  "sub-category": "Magazine"
+}

@@ -1,0 +1,8 @@
+{
+  "bang": "swwiki",
+  "domain": "https://starwars.wikia.com",
+  "url": "http://starwars.wikia.com/wiki/Special:Search?search=%s",
+  "description": "Wookieepedia",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

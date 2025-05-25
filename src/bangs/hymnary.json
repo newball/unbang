@@ -1,0 +1,8 @@
+{
+  "bang": "hymnary",
+  "domain": "https://hymnary.org",
+  "url": "https://hymnary.org/search?qu=%s",
+  "description": "Hymnary.org",
+  "category": "Research",
+  "sub-category": "Reference"
+}

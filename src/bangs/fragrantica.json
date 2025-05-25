@@ -1,0 +1,8 @@
+{
+  "bang": "fragrantica",
+  "domain": "https://www.fragrantica.com",
+  "url": "https://www.fragrantica.com/search/?q=%s",
+  "description": "Fragrantica",
+  "category": "Research",
+  "sub-category": "Reference (fun)"
+}

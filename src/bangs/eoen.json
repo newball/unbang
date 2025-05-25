@@ -1,0 +1,8 @@
+{
+  "bang": "eoen",
+  "domain": "https://translate.google.com",
+  "url": "https://translate.google.com/#eo/en/%s",
+  "description": "Google translate",
+  "category": "Translation",
+  "sub-category": "Google"
+}

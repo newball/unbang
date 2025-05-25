@@ -1,0 +1,8 @@
+{
+  "bang": "2hu",
+  "domain": "https://touhoudb.com",
+  "url": "https://touhoudb.com/Search?filter=%s",
+  "description": "TouhouDB",
+  "category": "Multimedia",
+  "sub-category": "Music"
+}

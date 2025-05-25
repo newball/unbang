@@ -1,0 +1,8 @@
+{
+  "bang": "djpackages",
+  "domain": "https://djangopackages.com",
+  "url": "http://djangopackages.com/search/?q=%s",
+  "description": "Django Packages",
+  "category": "Tech",
+  "sub-category": "Languages (python)"
+}

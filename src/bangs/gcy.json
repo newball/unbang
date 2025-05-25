@@ -1,0 +1,8 @@
+{
+  "bang": "gcy",
+  "domain": "https://www.google.com.cy",
+  "url": "https://www.google.com.cy/search?q=%s",
+  "description": "Google Cyprus",
+  "category": "Online Services",
+  "sub-category": "Google"
+}

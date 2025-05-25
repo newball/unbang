@@ -1,0 +1,8 @@
+{
+  "bang": "lt",
+  "domain": "https://www.librarything.com",
+  "url": "https://www.librarything.com/search.php?searchtype=work&search=%s",
+  "description": "LibraryThing",
+  "category": "Multimedia",
+  "sub-category": "Books"
+}

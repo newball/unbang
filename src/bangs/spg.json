@@ -1,0 +1,8 @@
+{
+  "bang": "spg",
+  "domain": "https://www.speedguide.net",
+  "url": "https://www.speedguide.net/search_rez.php?seek=%s&words=yes",
+  "description": "Speed Guide",
+  "category": "Research",
+  "sub-category": "Learning"
+}

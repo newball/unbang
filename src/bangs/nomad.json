@@ -1,0 +1,8 @@
+{
+  "bang": "nomad",
+  "domain": "https://nomadlist.com",
+  "url": "https://nomadlist.com/?q=%s",
+  "description": "Nomad List",
+  "category": "Research",
+  "sub-category": "Topical"
+}

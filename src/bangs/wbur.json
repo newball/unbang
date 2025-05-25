@@ -1,0 +1,8 @@
+{
+  "bang": "wbur",
+  "domain": "https://www.wbur.org",
+  "url": "http://www.wbur.org/search?q=%s",
+  "description": "WBUR",
+  "category": "News",
+  "sub-category": "Broadcast"
+}

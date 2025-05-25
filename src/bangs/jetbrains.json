@@ -1,0 +1,8 @@
+{
+  "bang": "jetbrains",
+  "domain": "https://www.jetbrains.com",
+  "url": "https://www.jetbrains.com/search/?q=%s",
+  "description": "Jetbrains",
+  "category": "Tech",
+  "sub-category": "Companies"
+}

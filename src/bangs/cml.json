@@ -1,0 +1,8 @@
+{
+  "bang": "cml",
+  "domain": "https://catalog.clcohio.org",
+  "url": "http://catalog.clcohio.org/polaris/search/searchresults.aspx?term=%s",
+  "description": "Columbus Metropolitan Library",
+  "category": "Research",
+  "sub-category": "Learning"
+}

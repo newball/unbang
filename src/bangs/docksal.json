@@ -1,0 +1,8 @@
+{
+  "bang": "docksal",
+  "domain": "https://docksal.readthedocs.io",
+  "url": "https://docksal.readthedocs.io/en/master/search.html?q=%s",
+  "description": "Docksal",
+  "category": "Tech",
+  "sub-category": "Programming"
+}

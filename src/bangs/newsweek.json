@@ -1,0 +1,8 @@
+{
+  "bang": "newsweek",
+  "domain": "https://www.newsweek.com",
+  "url": "https://www.newsweek.com/search/site/%s",
+  "description": "Newsweek",
+  "category": "News",
+  "sub-category": "Aggregators"
+}

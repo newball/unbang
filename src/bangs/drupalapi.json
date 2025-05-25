@@ -1,0 +1,8 @@
+{
+  "bang": "drupalapi",
+  "domain": "https://api.drupal.org",
+  "url": "https://api.drupal.org/api/drupal/includes%21common.inc/function/%s/7.x",
+  "description": "Drupal API",
+  "category": "Tech",
+  "sub-category": "Libraries/Frameworks"
+}

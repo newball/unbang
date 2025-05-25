@@ -1,0 +1,8 @@
+{
+  "bang": "flip",
+  "domain": "https://www.flipkart.com",
+  "url": "http://www.flipkart.com/search?q=%s&as=off&as-show=on&otracker=start",
+  "description": "Flipkart",
+  "category": "Shopping",
+  "sub-category": "Online"
+}

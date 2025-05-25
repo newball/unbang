@@ -1,0 +1,8 @@
+{
+  "bang": "hjs",
+  "domain": "https://howjsay.com",
+  "url": "https://howjsay.com/search?word=%s",
+  "description": "HowJSay",
+  "category": "Research",
+  "sub-category": "Reference (words)"
+}

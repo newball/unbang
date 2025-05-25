@@ -1,0 +1,8 @@
+{
+  "bang": "telegraph",
+  "domain": "https://www.telegraph.co.uk",
+  "url": "https://www.telegraph.co.uk/search.html?q=%s",
+  "description": "Telegraph",
+  "category": "News",
+  "sub-category": "International"
+}

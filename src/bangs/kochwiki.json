@@ -1,0 +1,8 @@
+{
+  "bang": "kochwiki",
+  "domain": "https://www.kochwiki.org",
+  "url": "https://www.kochwiki.org/w/index.php?search=%s&go=Seite",
+  "description": "Koch-Wiki",
+  "category": "Research",
+  "sub-category": "Food"
+}

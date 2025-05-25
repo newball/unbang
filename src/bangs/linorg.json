@@ -1,0 +1,8 @@
+{
+  "bang": "linorg",
+  "domain": "https://www.linux.org",
+  "url": "https://www.linux.org/search/?q=%s",
+  "description": "Linux.org",
+  "category": "Tech",
+  "sub-category": "Sysadmin"
+}

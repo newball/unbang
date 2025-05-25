@@ -1,0 +1,8 @@
+{
+  "bang": "plug",
+  "domain": "https://www.pluggedin.com",
+  "url": "http://www.pluggedin.com/search?q=%s",
+  "description": "pluggedin",
+  "category": "Entertainment",
+  "sub-category": "Movies"
+}

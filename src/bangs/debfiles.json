@@ -1,0 +1,8 @@
+{
+  "bang": "debfiles",
+  "domain": "https://packages.debian.org",
+  "url": "https://packages.debian.org/search?searchon=contents&keywords=%s",
+  "description": "Debian",
+  "category": "Tech",
+  "sub-category": "Sysadmin (debian)"
+}

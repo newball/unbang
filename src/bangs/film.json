@@ -1,0 +1,8 @@
+{
+  "bang": "film",
+  "domain": "https://www.filmaffinity.com",
+  "url": "https://www.filmaffinity.com/es/search.php?stext=%s",
+  "description": "filmaffinity",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}

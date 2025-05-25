@@ -1,0 +1,8 @@
+{
+  "bang": "documentary",
+  "domain": "https://documentaryheaven.com",
+  "url": "http://documentaryheaven.com/find/?q=%s",
+  "description": "Documentary Heaven",
+  "category": "Multimedia",
+  "sub-category": "Video"
+}
