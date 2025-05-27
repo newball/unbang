@@ -2600,14 +2600,6 @@
     "subcategory": "Forum"
   },
   {
-    "bang": "agdl",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=%s+site:artsites.ucsc.edu/GDead/agdl/+!",
-    "description": "The Annotated Grateful Dead Lyrics",
-    "category": "Multimedia",
-    "subcategory": "Music (Lyrics)"
-  },
-  {
     "bang": "age",
     "domain": "https://www.amazon.de",
     "url": "https://www.amazon.de/s?k=%s",
@@ -5624,14 +5616,6 @@
     "subcategory": "Sysadmin"
   },
   {
-    "bang": "appletrailer",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=site:trailers.apple.com%20%s",
-    "description": "Apple Trailers",
-    "category": "Entertainment",
-    "subcategory": "Movies"
-  },
-  {
     "bang": "appletv",
     "domain": "https://duckduckgo.com",
     "url": "https://duckduckgo.com/?q=%s%20site%3Atv.apple.com",
@@ -8384,14 +8368,6 @@
     "subcategory": "Online (deals)"
   },
   {
-    "bang": "bascan",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=%s+site:www.lyc-bascan-rambouillet.ac-versailles.fr",
-    "description": "Lycée Louis Bascan",
-    "category": "Research",
-    "subcategory": "Learning"
-  },
-  {
     "bang": "base",
     "domain": "https://www.base-search.net",
     "url": "https://www.base-search.net/Search/Results?lookfor=%s&type=all&oaboost=1&ling=1&name=&newsearch=1&refid=dcbasen",
@@ -8430,14 +8406,6 @@
     "description": "BASE Search",
     "category": "Research",
     "subcategory": "Academic"
-  },
-  {
-    "bang": "bash",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=%s+site:mywiki.wooledge.org,wiki.bash-hackers.org",
-    "description": "Bash",
-    "category": "Tech",
-    "subcategory": "Programming"
   },
   {
     "bang": "basketballreference",
@@ -9066,7 +9034,7 @@
   {
     "bang": "bdimg",
     "domain": "https://image.baidu.com",
-    "url": "https://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=index&fr=&hs=0&xthttps=111111&sf=1&fmq=&pv=&ic=0&nc=1&z=&se=1&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=%s&oq=test&rsp=-1",
+    "url": "https://image.baidu.com/search/index?word=%s",
     "description": "百度图片",
     "category": "Multimedia",
     "subcategory": "Images"
@@ -19768,14 +19736,6 @@
     "subcategory": "Search"
   },
   {
-    "bang": "dal",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s+site:abretelibro.com",
-    "description": "Ábrete libro",
-    "category": "Entertainment",
-    "subcategory": "Forum"
-  },
-  {
     "bang": "dalla",
     "domain": "https://asturianu.elahorcado.net",
     "url": "http://asturianu.elahorcado.net/search.php?search=%s",
@@ -20768,14 +20728,6 @@
     "subcategory": "Aggregators"
   },
   {
-    "bang": "ddgr",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=site:reddit.com+%s",
-    "description": "Reddit search (via DuckDuckGo)",
-    "category": "Research",
-    "subcategory": "Reference (fun)"
-  },
-  {
     "bang": "ddgv",
     "domain": "https://duckduckgo.com",
     "url": "https://duckduckgo.com/?q=%s&iar=videos&iax=videos&ia=videos",
@@ -20942,14 +20894,6 @@
     "description": "Den Danske Ordbog",
     "category": "Research",
     "subcategory": "Reference (words intl)"
-  },
-  {
-    "bang": "ddso",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s+site:stackoverflow.com",
-    "description": "Stack Overflow via DuckDuckGo",
-    "category": "Tech",
-    "subcategory": "Programming"
   },
   {
     "bang": "ddt",
@@ -23096,14 +23040,6 @@
     "subcategory": "TV"
   },
   {
-    "bang": "diyorg",
-    "domain": "https://",
-    "url": "/?q=site:diy.org+%s",
-    "description": "diy.org",
-    "category": "Entertainment",
-    "subcategory": "Events"
-  },
-  {
     "bang": "dizint",
     "domain": "https://dizionario.internazionale.it",
     "url": "http://dizionario.internazionale.it/cerca/%s",
@@ -24342,14 +24278,6 @@
     "description": "DVDpasCher",
     "category": "Entertainment",
     "subcategory": "Movies"
-  },
-  {
-    "bang": "dpcs",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s+site:doc.pcsoft.fr&ia=web",
-    "description": "PCsoft",
-    "category": "Tech",
-    "subcategory": "Programming"
   },
   {
     "bang": "dpd",
@@ -26904,14 +26832,6 @@
     "subcategory": "Games (general)"
   },
   {
-    "bang": "eg",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=%s+site:epguides.com",
-    "description": "Epguides",
-    "category": "Entertainment",
-    "subcategory": "TV"
-  },
-  {
     "bang": "egdl",
     "domain": "https://diglib.eg.org",
     "url": "http://diglib.eg.org/discover?query=%s&submit=Go",
@@ -26926,14 +26846,6 @@
     "description": "e-Gear",
     "category": "Shopping",
     "subcategory": "Tech"
-  },
-  {
-    "bang": "egforums",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=site:eurogamer.net/forums+%s",
-    "description": "Eurogamer forums",
-    "category": "Entertainment",
-    "subcategory": "Games (general)"
   },
   {
     "bang": "egged",
@@ -27670,22 +27582,6 @@
     "description": "European Medicines Agency",
     "category": "Research",
     "subcategory": "Government"
-  },
-  {
-    "bang": "emacs",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=site:emacswiki.org+%s",
-    "description": "EmacsWiki",
-    "category": "Online Services",
-    "subcategory": "Google"
-  },
-  {
-    "bang": "emacswiki",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=site:emacswiki.org+%s",
-    "description": "EmacsWiki.org",
-    "category": "Tech",
-    "subcategory": "Programming"
   },
   {
     "bang": "emacu",
@@ -28838,14 +28734,6 @@
     "description": "Equaldex",
     "category": "Research",
     "subcategory": "Reference"
-  },
-  {
-    "bang": "equestriadaily",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=site:equestriadaily.com+%s",
-    "description": "Equestria Daily",
-    "category": "News",
-    "subcategory": "Specialty"
   },
   {
     "bang": "equipboard",
@@ -33216,14 +33104,6 @@
     "subcategory": "Social"
   },
   {
-    "bang": "fpcs",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=site:forum.pcsoft.fr+%s",
-    "description": "Forum pcsoft",
-    "category": "Tech",
-    "subcategory": "Languages (other)"
-  },
-  {
     "bang": "fpe",
     "domain": "https://florida-prep.org",
     "url": "https://florida-prep.org/search?q=%s",
@@ -34672,14 +34552,6 @@
     "subcategory": "Social"
   },
   {
-    "bang": "gal",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s+site:abretelibro.com",
-    "description": "Ábrete libro",
-    "category": "Entertainment",
-    "subcategory": "Forum"
-  },
-  {
     "bang": "galaxus",
     "domain": "https://www.galaxus.ch",
     "url": "https://www.galaxus.ch/de/Search?searchSectors=0&q=%s",
@@ -35518,14 +35390,6 @@
     "description": "Google (Past Day)",
     "category": "Online Services",
     "subcategory": "Google"
-  },
-  {
-    "bang": "gdb",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=site:sourceware.org/gdb/current/onlinedocs/gdb/+%s",
-    "description": "GDB Debugger",
-    "category": "Tech",
-    "subcategory": "Programming"
   },
   {
     "bang": "gdd",
@@ -39504,14 +39368,6 @@
     "subcategory": "Games (specific)"
   },
   {
-    "bang": "groovy",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s+site:docs.groovy-lang.org",
-    "description": "Groovy Documentation",
-    "category": "Tech",
-    "subcategory": "Programming"
-  },
-  {
     "bang": "grosbill",
     "domain": "https://www.grosbill.com",
     "url": "https://www.grosbill.com/catv2.cgi?mode=recherche&recherche=%s",
@@ -42578,7 +42434,7 @@
   {
     "bang": "gunstreamer",
     "domain": "https://gunstreamer.com",
-    "url": "https://gunstreamer.com/search?q=Test&idx=videos&p=0&keyword=%s",
+    "url": "https://gunstreamer.com/search?keyword=%s",
     "description": "Gun Streamer",
     "category": "Multimedia",
     "subcategory": "Video"
@@ -42894,22 +42750,6 @@
     "description": "Games Workshop",
     "category": "Entertainment",
     "subcategory": "Games (offline)"
-  },
-  {
-    "bang": "gwp",
-    "domain": "https://www.google.com",
-    "url": "http://www.google.com/search?q=%s%20site:wikipedia.org",
-    "description": "Google Wikipedia",
-    "category": "Online Services",
-    "subcategory": "Google"
-  },
-  {
-    "bang": "gwpde",
-    "domain": "https://www.google.de",
-    "url": "http://www.google.de/search?ie=UTF-8&sourceid=navclient&gfns=1&q=site:de.wikipedia.org+%s",
-    "description": "Google de.Wikipedia",
-    "category": "Online Services",
-    "subcategory": "Google"
   },
   {
     "bang": "gwr",
@@ -44054,14 +43894,6 @@
     "description": "Harbor Freight Tools Coupon Database",
     "category": "Shopping",
     "subcategory": "Online (deals)"
-  },
-  {
-    "bang": "hfr",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=site:linuxfr.org+%s",
-    "description": "Forum Hardware.fr",
-    "category": "Research",
-    "subcategory": "Reference"
   },
   {
     "bang": "hfs",
@@ -45857,9 +45689,9 @@
   },
   {
     "bang": "hypestat",
-    "domain": "https://www.%s.hypestat.com",
-    "url": "http://www.%s.hypestat.com/",
-    "description": "hypestat",
+    "domain": "https://www.hypestat.com",
+    "url": "http://www.hypestat.com/info/%s",
+    "description": "hypestat domain statistics",
     "category": "Tech",
     "subcategory": "Domains"
   },
@@ -49904,14 +49736,6 @@
     "subcategory": "Programming"
   },
   {
-    "bang": "jmew",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s site:wiki.jmonkeyengine.org",
-    "description": "jMonkeyEngine WIki",
-    "category": "Tech",
-    "subcategory": "Libraries/Frameworks"
-  },
-  {
     "bang": "jmp",
     "domain": "https://www.jemepropose.com",
     "url": "http://www.jemepropose.com/annonces?keywords=%s",
@@ -52960,14 +52784,6 @@
     "subcategory": "Radio"
   },
   {
-    "bang": "l3u",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s+site:l3utterfish.blogspot.com",
-    "description": "l3utterfish",
-    "category": "Entertainment",
-    "subcategory": "Blogs"
-  },
-  {
     "bang": "l4c",
     "domain": "https://www.left4craft.org",
     "url": "https://www.left4craft.org/search.php?keywords=%s",
@@ -55984,14 +55800,6 @@
     "subcategory": "Academic"
   },
   {
-    "bang": "loopbackjs",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=site:loopback.io/doc/en/lb3+%s",
-    "description": "LoopbackJS Documentations site",
-    "category": "Tech",
-    "subcategory": "Libraries/Frameworks"
-  },
-  {
     "bang": "loot",
     "domain": "https://www.loot.co.za",
     "url": "http://www.loot.co.za/search?cat=b&terms=%s",
@@ -56760,14 +56568,6 @@
     "subcategory": "Academic"
   },
   {
-    "bang": "lwjgl",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=%s+site:http://lwjgl.org/javadoc/",
-    "description": "LWJGL",
-    "category": "Online Services",
-    "subcategory": "Search (DDG)"
-  },
-  {
     "bang": "lwn",
     "domain": "https://lwn.net",
     "url": "https://lwn.net/Search/DoSearch?words=%s",
@@ -56822,14 +56622,6 @@
     "description": "Lycos",
     "category": "Online Services",
     "subcategory": "Search"
-  },
-  {
-    "bang": "lyle",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s+site:forums.lylemcdonald.com",
-    "description": "forums.Bodyrecomposition.com",
-    "category": "Research",
-    "subcategory": "Health"
   },
   {
     "bang": "lynda",
@@ -58140,14 +57932,6 @@
     "domain": "https://math.stackexchange.com",
     "url": "http://math.stackexchange.com/search?q=%s",
     "description": "Mathematics - Stack Exchange",
-    "category": "Research",
-    "subcategory": "Academic (math/cs)"
-  },
-  {
-    "bang": "mathworks",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=%s+site:mathworks.com",
-    "description": "Matlab File Exchange",
     "category": "Research",
     "subcategory": "Academic (math/cs)"
   },
@@ -61696,14 +61480,6 @@
     "subcategory": "Online (intl)"
   },
   {
-    "bang": "more",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=site:https://www.mobileread.com%20%s",
-    "description": "MobileRead",
-    "category": "Entertainment",
-    "subcategory": "Forum"
-  },
-  {
     "bang": "morfix",
     "domain": "https://www.morfix.co.il",
     "url": "http://www.morfix.co.il/%s",
@@ -63584,14 +63360,6 @@
     "subcategory": "Social"
   },
   {
-    "bang": "mysql",
-    "domain": "https://",
-    "url": "/?q=%s+site:dev.mysql.com",
-    "description": "MySQL.com",
-    "category": "Tech",
-    "subcategory": "Sysadmin"
-  },
-  {
     "bang": "myt",
     "domain": "https://music.youtube.com",
     "url": "https://music.youtube.com/search?q=%s",
@@ -64096,14 +63864,6 @@
     "subcategory": "Sports"
   },
   {
-    "bang": "nbang",
-    "domain": "https://",
-    "url": "/newbang",
-    "description": "duckduckgo new !bang",
-    "category": "Online Services",
-    "subcategory": "Search"
-  },
-  {
     "bang": "nbc",
     "domain": "https://www.notebookcheck.net",
     "url": "https://www.notebookcheck.net/Google-Search.36690.0.html?q=%s",
@@ -64286,14 +64046,6 @@
     "description": "Deutsche Biographie (NDB/ADB)",
     "category": "Research",
     "subcategory": "Reference"
-  },
-  {
-    "bang": "nde",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=test&iar=news&ia=news&kl=de-de",
-    "description": "DuckDuckGo News DE",
-    "category": "News",
-    "subcategory": "Newspaper"
   },
   {
     "bang": "ndeutsch",
@@ -66944,14 +66696,6 @@
     "subcategory": "Online (deals)"
   },
   {
-    "bang": "oatmeal",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s+site:theoatmeal.com",
-    "description": "The Oatmeal",
-    "category": "Entertainment",
-    "subcategory": "Comics"
-  },
-  {
     "bang": "ob",
     "domain": "https://openbuilds.com",
     "url": "https://openbuilds.com/search/49203883/?q=%s",
@@ -68320,14 +68064,6 @@
     "subcategory": "Academic"
   },
   {
-    "bang": "opam",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=%s+site:https://opam.ocaml.org/packages",
-    "description": "OPAM",
-    "category": "Tech",
-    "subcategory": "Languages (other)"
-  },
-  {
     "bang": "opbr",
     "domain": "https://br.op.gg",
     "url": "http://br.op.gg/summoner/userName=%s",
@@ -69038,14 +68774,6 @@
     "description": "Orfoqrafiya",
     "category": "Research",
     "subcategory": "Academic"
-  },
-  {
-    "bang": "org",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=site:http://orgmode.org/manual/+%s",
-    "description": "Org Manual",
-    "category": "Tech",
-    "subcategory": "Languages (other)"
   },
   {
     "bang": "oriantnu",
@@ -71168,14 +70896,6 @@
     "subcategory": "Audio"
   },
   {
-    "bang": "pdf",
-    "domain": "https://",
-    "url": "/?q=%s+filetype:pdf",
-    "description": "PDFs",
-    "category": "Online Services",
-    "subcategory": "Search (DDG)"
-  },
-  {
     "bang": "pdfy",
     "domain": "https://www.printfriendly.com",
     "url": "https://www.printfriendly.com/print/?source=site&url=%s",
@@ -72006,14 +71726,6 @@
     "description": "PHP.net",
     "category": "Tech",
     "subcategory": "Languages (php)"
-  },
-  {
-    "bang": "phrase",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=site:phrases.org.uk%20%s",
-    "description": "phrases.org.uk",
-    "category": "Research",
-    "subcategory": "Reference (words)"
   },
   {
     "bang": "phrasen",
@@ -73038,14 +72750,6 @@
     "description": "Pubmed",
     "category": "Research",
     "subcategory": "Academic"
-  },
-  {
-    "bang": "pmeg",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=%s site:http://bertilow.com/pmeg/",
-    "description": "Plena Manlibro de Esperanta Gramatiko",
-    "category": "Online Services",
-    "subcategory": "Search"
   },
   {
     "bang": "pmf",
@@ -74184,14 +73888,6 @@
     "subcategory": "Companies"
   },
   {
-    "bang": "ppt",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s+filetype%3Appt",
-    "description": "powerpoint search",
-    "category": "Online Services",
-    "subcategory": "Search (DDG)"
-  },
-  {
     "bang": "pptrack",
     "domain": "https://emonitoring.poczta-polska.pl",
     "url": "http://emonitoring.poczta-polska.pl/?lang=en&numer=%s",
@@ -74598,22 +74294,6 @@
     "description": "Probuilds",
     "category": "Entertainment",
     "subcategory": "Games (specific)"
-  },
-  {
-    "bang": "proc",
-    "domain": "https://",
-    "url": "/?q=%s+site:processing.org",
-    "description": "Processing.org",
-    "category": "Online Services",
-    "subcategory": "Search (DDG)"
-  },
-  {
-    "bang": "processing",
-    "domain": "https://",
-    "url": "/?q=%s+site:processing.org",
-    "description": "Processing.org",
-    "category": "Online Services",
-    "subcategory": "Search (DDG)"
   },
   {
     "bang": "procomm",
@@ -80040,14 +79720,6 @@
     "subcategory": "International"
   },
   {
-    "bang": "rtfd",
-    "domain": "https://%s.rtfd.io",
-    "url": "http://%s.rtfd.io",
-    "description": "Read the Docs",
-    "category": "Tech",
-    "subcategory": "Programming"
-  },
-  {
     "bang": "rtfr",
     "domain": "https://fr.shopping.rakuten.com",
     "url": "https://fr.shopping.rakuten.com/s/%s",
@@ -80600,14 +80272,6 @@
     "subcategory": "Search (DDG)"
   },
   {
-    "bang": "s-on",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s&kp=1",
-    "description": "DuckDuckGo Safe Search: On",
-    "category": "Online Services",
-    "subcategory": "Search (DDG)"
-  },
-  {
     "bang": "s.fyapp",
     "domain": "https://apps.shopify.com",
     "url": "https://apps.shopify.com/search?q=%s&st_source=",
@@ -80776,36 +80440,12 @@
     "subcategory": "Downloads (add-ons)"
   },
   {
-    "bang": "safe",
-    "domain": "https://",
-    "url": "/?q=%s&kp=1",
-    "description": "DDG Safesearch On",
-    "category": "Online Services",
-    "subcategory": "Search (DDG)"
-  },
-  {
     "bang": "safebooru",
     "domain": "https://safebooru.org",
     "url": "http://safebooru.org/index.php?page=post&s=list&tags=%s",
     "description": "Safebooru",
     "category": "Multimedia",
     "subcategory": "Images"
-  },
-  {
-    "bang": "safeoff",
-    "domain": "https://",
-    "url": "/?q=%s&kp=-2",
-    "description": "Safe search off",
-    "category": "Online Services",
-    "subcategory": "Search (DDG)"
-  },
-  {
-    "bang": "safeon",
-    "domain": "https://",
-    "url": "/?q=%s&kp=1",
-    "description": "DDG Safesearch On",
-    "category": "Online Services",
-    "subcategory": "Search (DDG)"
   },
   {
     "bang": "safeweb",
@@ -82350,14 +81990,6 @@
     "description": "Search Engine Watch",
     "category": "Tech",
     "subcategory": "Blogs"
-  },
-  {
-    "bang": "searchr",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=site:reddit.com+%s",
-    "description": "Reddit DDG Search",
-    "category": "News",
-    "subcategory": "Aggregators"
   },
   {
     "bang": "searchtempest",
@@ -83944,14 +83576,6 @@
     "subcategory": "Online"
   },
   {
-    "bang": "site",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=site%3A%s",
-    "description": "DuckDuckGo site: search operator shortcut",
-    "category": "Online Services",
-    "subcategory": "Google"
-  },
-  {
     "bang": "sitealytics",
     "domain": "https://www.sitealytics.com",
     "url": "http://www.sitealytics.com/%s/",
@@ -84022,14 +83646,6 @@
     "description": "Science Jobs India",
     "category": "Research",
     "subcategory": "Academic"
-  },
-  {
-    "bang": "sjmr",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s+site:socjobrumors.com",
-    "description": "Sociology Job Market Rumors",
-    "category": "Online Services",
-    "subcategory": "Social news/links"
   },
   {
     "bang": "sjp",
@@ -84142,22 +83758,6 @@
     "description": "Sanakirja.org en-fi",
     "category": "Online Services",
     "subcategory": "Tools"
-  },
-  {
-    "bang": "skepdic",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s+site:skepdic.com",
-    "description": "The Skeptic's Dictionary",
-    "category": "Research",
-    "subcategory": "Reference"
-  },
-  {
-    "bang": "skepticsbible",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=site:skepticsannotatedbible.com %s",
-    "description": "Skeptic's Bible",
-    "category": "Research",
-    "subcategory": "Reference (religion)"
   },
   {
     "bang": "skepticskoran",
@@ -84326,14 +83926,6 @@
     "description": "SkyRock",
     "category": "Multimedia",
     "subcategory": "Music"
-  },
-  {
-    "bang": "skyscan",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=%s+site:http://www.skyscanner.net",
-    "description": "Skyscanner",
-    "category": "Online Services",
-    "subcategory": "Search (Real-time)"
   },
   {
     "bang": "skystore",
@@ -85424,14 +85016,6 @@
     "subcategory": "Images"
   },
   {
-    "bang": "sod",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=site:stackoverflow.com+%s",
-    "description": "Stackoverflow with DuckDuckGo",
-    "category": "Tech",
-    "subcategory": "Programming"
-  },
-  {
     "bang": "sof",
     "domain": "https://stackoverflow.com",
     "url": "https://stackoverflow.com/search?q=%s",
@@ -85446,14 +85030,6 @@
     "description": "SofaScore",
     "category": "Entertainment",
     "subcategory": "Sports"
-  },
-  {
-    "bang": "soff",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?kp=-2&q=%s",
-    "description": "DuckDuckGo SafeOff",
-    "category": "Online Services",
-    "subcategory": "Search (DDG)"
   },
   {
     "bang": "sofifa",
@@ -86304,14 +85880,6 @@
     "subcategory": "Blogs"
   },
   {
-    "bang": "spip",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s+site:spip.net",
-    "description": "SPIP",
-    "category": "Tech",
-    "subcategory": "Programming"
-  },
-  {
     "bang": "spit",
     "domain": "https://startpage.com",
     "url": "https://startpage.com/do/search?cat=web&cmd=process_search&language=italiano&engine0=v1all&query=%s&abp=-1&prf=ab8a0a99ccae7d38fd1f9b31e845ce7e&SuggestOn=1",
@@ -86462,14 +86030,6 @@
     "description": "Spotify",
     "category": "Multimedia",
     "subcategory": "Music"
-  },
-  {
-    "bang": "spp",
-    "domain": "https://startpage.com",
-    "url": "https://startpage.com/do/search?prf=2cc506ab255c98e10570b7d50ef6b1c8&cat=web&query=%s",
-    "description": "StartPage safeoff eng",
-    "category": "Online Services",
-    "subcategory": "Search (Private)"
   },
   {
     "bang": "sppit",
@@ -86880,14 +86440,6 @@
     "subcategory": "Reference"
   },
   {
-    "bang": "ss64",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=%s+site:www.ss64.com",
-    "description": "SS64",
-    "category": "Tech",
-    "subcategory": "Languages (other)"
-  },
-  {
     "bang": "ssaft",
     "domain": "https://ssaft.com",
     "url": "http://ssaft.com/Blog/dotclear/?q=%s",
@@ -86998,22 +86550,6 @@
     "description": "SSOAR",
     "category": "Research",
     "subcategory": "Academic"
-  },
-  {
-    "bang": "ssoff",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s&kp=-2",
-    "description": "DuckDuckGo Safe Search: Off",
-    "category": "Online Services",
-    "subcategory": "Search (DDG)"
-  },
-  {
-    "bang": "sson",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s&kp=1",
-    "description": "DuckDuckGo Safe Search: On",
-    "category": "Online Services",
-    "subcategory": "Search (DDG)"
   },
   {
     "bang": "ssp",
@@ -88384,14 +87920,6 @@
     "subcategory": "Downloads (software)"
   },
   {
-    "bang": "superphysique",
-    "domain": "https://www.google.fr",
-    "url": "https://www.google.fr/search?q=site:www.superphysique.org+%s",
-    "description": "Superphysique",
-    "category": "Research",
-    "subcategory": "Health"
-  },
-  {
     "bang": "superstore",
     "domain": "https://www.realcanadiansuperstore.ca",
     "url": "https://www.realcanadiansuperstore.ca/search/?search-bar=%s",
@@ -89254,14 +88782,6 @@
     "description": "Time2Game",
     "category": "Shopping",
     "subcategory": "Online"
-  },
-  {
-    "bang": "t2w",
-    "domain": "https://%s.tor2web.org",
-    "url": "https://%s.tor2web.org/",
-    "description": "Tor 2 Web",
-    "category": "Tech",
-    "subcategory": "Domains"
   },
   {
     "bang": "t3",
@@ -90166,14 +89686,6 @@
     "description": "Teamliquid",
     "category": "Entertainment",
     "subcategory": "Forum"
-  },
-  {
-    "bang": "teamsnap",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=%s+site:teamsnap.com",
-    "description": "Teamsnap",
-    "category": "Online Services",
-    "subcategory": "Social"
   },
   {
     "bang": "tearma",
@@ -91378,7 +90890,7 @@
   {
     "bang": "thehackernews",
     "domain": "https://www.google.com",
-    "url": "https://www.google.com/cse?q=test&cx=partner-pub-7983783048239650%3A3179771210#gsc.tab=0&gsc.q=%s&gsc.page=1",
+    "url": "https://www.google.com/cse?q=%s&cx=partner-pub-7983783048239650%3A3179771210#gsc.tab=0&gsc.q=%s&gsc.page=1",
     "description": "The Hacker News",
     "category": "Tech",
     "subcategory": "Blogs"
@@ -93038,14 +92550,6 @@
     "description": "TopTenReviews",
     "category": "Shopping",
     "subcategory": "Services"
-  },
-  {
-    "bang": "tor",
-    "domain": "https://%s.tor2web.org",
-    "url": "https://%s.tor2web.org/",
-    "description": "Tor 2 Web",
-    "category": "Tech",
-    "subcategory": "Domains"
   },
   {
     "bang": "toramp",
@@ -94984,14 +94488,6 @@
     "subcategory": "Reference (religion)"
   },
   {
-    "bang": "typescript",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=%s+site:www.typescriptlang.org",
-    "description": "TypeScript Lang",
-    "category": "Tech",
-    "subcategory": "Languages (other)"
-  },
-  {
     "bang": "typo3",
     "domain": "https://typo3.org",
     "url": "https://typo3.org/search/?tx_solr[q]=%s",
@@ -95126,14 +94622,6 @@
     "description": "Beluga Uni Hamburg",
     "category": "Research",
     "subcategory": "Reference (science)"
-  },
-  {
-    "bang": "ubhu",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s+site:ubuntu.hu",
-    "description": "Ubuntu.hu",
-    "category": "Tech",
-    "subcategory": "Sysadmin (Ubuntu)"
   },
   {
     "bang": "ubiquiti",
@@ -97048,22 +96536,6 @@
     "subcategory": "Sysadmin (Ubuntu)"
   },
   {
-    "bang": "uuw",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=site:wiki.ubuntuusers.de+%s",
-    "description": "Ubuntuusers.de Wiki",
-    "category": "Tech",
-    "subcategory": "Sysadmin (Ubuntu)"
-  },
-  {
-    "bang": "uuwiki",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=site:wiki.ubuntuusers.de+%s",
-    "description": "Ubuntu Users Wiki",
-    "category": "Tech",
-    "subcategory": "Sysadmin (Ubuntu)"
-  },
-  {
     "bang": "uva",
     "domain": "https://www.virginia.edu",
     "url": "http://www.virginia.edu/search/site/%s",
@@ -97214,14 +96686,6 @@
     "description": "DuckDuckGo video search",
     "category": "Online Services",
     "subcategory": "Search (DDG)"
-  },
-  {
-    "bang": "v2ex",
-    "domain": "https://www.duckduckgo.com",
-    "url": "https://www.duckduckgo.com/?q=site:v2ex.com/t+%s",
-    "description": "V2EX",
-    "category": "Online Services",
-    "subcategory": "Social"
   },
   {
     "bang": "v2ve",
@@ -98408,14 +97872,6 @@
     "subcategory": "Tools"
   },
   {
-    "bang": "virtus",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=site:virtus.com+%s",
-    "description": "Virtus Investment Partners",
-    "category": "News",
-    "subcategory": "Business"
-  },
-  {
     "bang": "virustotal",
     "domain": "https://www.virustotal.com",
     "url": "https://www.virustotal.com/url/submission/?force=1&url=%s",
@@ -99288,22 +98744,6 @@
     "subcategory": "Reference"
   },
   {
-    "bang": "w3",
-    "domain": "https://",
-    "url": "/?q=%s+site:w3.org",
-    "description": "W3C",
-    "category": "Online Services",
-    "subcategory": "Search (DDG)"
-  },
-  {
-    "bang": "w3c",
-    "domain": "https://",
-    "url": "/?q=%s+site:w3.org",
-    "description": "W3C",
-    "category": "Online Services",
-    "subcategory": "Search (DDG)"
-  },
-  {
     "bang": "w3d",
     "domain": "https://welovedevs.com",
     "url": "https://welovedevs.com/app/companies/search?query=%s&type=company",
@@ -99320,36 +98760,12 @@
     "subcategory": "Forum"
   },
   {
-    "bang": "w3s",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s+site:w3schools.com",
-    "description": "w3schools.com",
-    "category": "Tech",
-    "subcategory": "Languages (html)"
-  },
-  {
     "bang": "w3satt",
     "domain": "https://www.w3schools.com",
     "url": "https://www.w3schools.com/tags/att_%s.asp",
     "description": "W3Schools Tag Attributes",
     "category": "Tech",
     "subcategory": "Languages (html)"
-  },
-  {
-    "bang": "w3schools",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=%s+site:w3schools.com",
-    "description": "W3Schools.com",
-    "category": "Online Services",
-    "subcategory": "Search (DDG)"
-  },
-  {
-    "bang": "w3scn",
-    "domain": "https://www.google.com",
-    "url": "http://www.google.com/search?q=%s+site:w3school.com.cn",
-    "description": "w3school中文",
-    "category": "Tech",
-    "subcategory": "Programming"
   },
   {
     "bang": "w3stag",
@@ -101014,14 +100430,6 @@
     "description": "WhatCMS",
     "category": "Online Services",
     "subcategory": "Tools (URLs)"
-  },
-  {
-    "bang": "whatif",
-    "domain": "https://duckduckgo.com",
-    "url": "http://duckduckgo.com/?q=%s+site:what-if.xkcd.com",
-    "description": "what if?",
-    "category": "Entertainment",
-    "subcategory": "Blogs"
   },
   {
     "bang": "whatis",
@@ -103720,14 +103128,6 @@
     "subcategory": "Blogs"
   },
   {
-    "bang": "wpblog",
-    "domain": "https://%s.wordpress.com",
-    "url": "http://%s.wordpress.com",
-    "description": "WordPress.com",
-    "category": "Entertainment",
-    "subcategory": "Blogs"
-  },
-  {
     "bang": "wpd",
     "domain": "https://wpplugindirectory.org",
     "url": "http://wpplugindirectory.org/?s=%s",
@@ -105296,14 +104696,6 @@
     "subcategory": "Reference (words)"
   },
   {
-    "bang": "wxdev",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s+site:https://developers.weixin.qq.com/miniprogram/dev",
-    "description": "WeChat MiniProgram Developer Document",
-    "category": "Tech",
-    "subcategory": "Libraries/Frameworks"
-  },
-  {
     "bang": "wxf",
     "domain": "https://forum.wuxiaworld.com",
     "url": "https://forum.wuxiaworld.com/search?Search=%s",
@@ -105600,14 +104992,6 @@
     "subcategory": "Games (specific)"
   },
   {
-    "bang": "xkcd",
-    "domain": "https://",
-    "url": "/?q=%s+site:xkcd.com",
-    "description": "xkcd",
-    "category": "Entertainment",
-    "subcategory": "Comics"
-  },
-  {
     "bang": "xkcdb",
     "domain": "https://www.xkcdb.com",
     "url": "http://www.xkcdb.com/?search=%s",
@@ -105782,14 +105166,6 @@
     "description": "Yabla Chinese",
     "category": "Online Services",
     "subcategory": "Tools"
-  },
-  {
-    "bang": "yacy",
-    "domain": "https://search.yacy.net",
-    "url": "https://search.yacy.net/yacysearch/index.html?query=%s&Enter=&verify=false&nav=filetype%2Cprotocol%2Chosts%2Cauthors%2Ccollections%2Cnamespace%2Ctopics%2Cdate&startRecord=0&indexof=off&meanCount=5&resource=global&prefermaskfilter=&maximumRecords=10&timezoneOffset=0",
-    "description": "yacy",
-    "category": "Online Services",
-    "subcategory": "Search"
   },
   {
     "bang": "yad",
@@ -107478,14 +106854,6 @@
     "description": "Zetax.net",
     "category": "Online Services",
     "subcategory": "Search"
-  },
-  {
-    "bang": "zf",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/?q=%s+site:framework.zend.com",
-    "description": "zend framework",
-    "category": "Tech",
-    "subcategory": "Languages (php)"
   },
   {
     "bang": "zff",
