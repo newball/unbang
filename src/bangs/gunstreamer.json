@@ -1,7 +1,7 @@
 {
   "bang": "gunstreamer",
   "domain": "https://gunstreamer.com",
-  "url": "https://gunstreamer.com/search?q=Test&idx=videos&p=0&keyword=%s",
+  "url": "https://gunstreamer.com/search?keyword=%s",
   "description": "Gun Streamer",
   "category": "Multimedia",
   "subcategory": "Video"
