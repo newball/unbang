@@ -1,0 +1,8 @@
+{
+  "bang": "ansaen",
+  "domain": "https://www.ansa.it/english/",
+  "url": "https://www.ansa.it/ricerca/ansaen/search.shtml?any=%s",
+  "description": "Ansa English",
+  "category": "News",
+  "subcategory": "Newspaper"
+}
