@@ -1,7 +1,7 @@
 {
   "bang": "$",
   "domain": "https://stockflare.com",
-  "url": "https://stockflare.com/#stocks/$%s ",
+  "url": "https://stockflare.com/#stocks/$%s",
   "description": "Stockflare",
   "category": "Online Services",
   "subcategory": "Tools"
