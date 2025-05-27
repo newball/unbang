@@ -1,7 +1,7 @@
 {
   "bang": "climed",
   "domain": "https://www.climedweb.com",
-  "url": "http://www.climedweb.com/wp/?s=",
+  "url": "http://www.climedweb.com/wp/?s=%s",
   "description": "Climed Seviços de Saude",
   "category": "Research",
   "subcategory": "Health"
