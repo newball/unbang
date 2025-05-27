@@ -1,8 +1,8 @@
 {
   "bang": "hypestat",
-  "domain": "https://www.%s.hypestat.com",
-  "url": "http://www.%s.hypestat.com/",
-  "description": "hypestat",
+  "domain": "https://www.hypestat.com",
+  "url": "http://www.hypestat.com/info/%s",
+  "description": "hypestat domain statistics",
   "category": "Tech",
   "subcategory": "Domains"
 }
