@@ -3,6 +3,6 @@
   "domain": "https://apple.stackexchange.com",
   "url": "http://apple.stackexchange.com/search?q=%s",
   "description": "Ask Different",
-  "category": "Entertainment",
-  "subcategory": "Forum"
+  "category": "Research",
+  "subcategory": "Refence"
 }
