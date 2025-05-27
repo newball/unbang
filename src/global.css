@@ -86,7 +86,14 @@ textarea {
   margin-top: 16px;
 }
 
-/* Add this new style */
+.container {
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  height:100vh;
+}
+
 .content-container {
   max-width: 36rem;
   text-align: center;

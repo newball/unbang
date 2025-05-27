@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const copyIcon = copyButton.querySelector("img");
   const urlInput = document.getElementById("search-url-input");
 
-  urlInput.value = `${window.location.origin}?q=!${defaultBang.bang}%20%s`;
+  urlInput.value = `${window.location.origin}?q=%s`;
 
   copyButton.addEventListener("click", async () => {
     await navigator.clipboard.writeText(urlInput.value);
