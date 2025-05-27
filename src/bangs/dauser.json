@@ -1,7 +1,7 @@
 {
   "bang": "dauser",
-  "domain": "https://%s.deviantart.com",
-  "url": "http://%s.deviantart.com",
+  "domain": "https://deviantart.com",
+  "url": "http://deviantart.com/%s",
   "description": "DeviantArt User",
   "category": "Multimedia",
   "subcategory": "Images"
