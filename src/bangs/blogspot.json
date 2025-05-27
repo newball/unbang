@@ -1,7 +1,7 @@
 {
-  "bang": "blogspot",
-  "domain": "https://",
-  "url": "/?q=%s+site:blogspot.com",
+  "bang": "Search Blogspot",
+  "domain": "https://searchblogspotsite.blogspot.com",
+  "url": "https://searchblogspotsite.blogspot.com/p/search.html?q=%s",
   "description": "Blogspot",
   "category": "Online Services",
   "subcategory": "Search (DDG)"
