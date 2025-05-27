@@ -1,8 +1,0 @@
-{
-  "bang": "skyscan",
-  "domain": "https://duckduckgo.com",
-  "url": "http://duckduckgo.com/?q=%s+site:http://www.skyscanner.net",
-  "description": "Skyscanner",
-  "category": "Online Services",
-  "subcategory": "Search (Real-time)"
-}

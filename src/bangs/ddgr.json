@@ -1,8 +1,0 @@
-{
-  "bang": "ddgr",
-  "domain": "https://duckduckgo.com",
-  "url": "https://duckduckgo.com/?q=site:reddit.com+%s",
-  "description": "Reddit search (via DuckDuckGo)",
-  "category": "Research",
-  "subcategory": "Reference (fun)"
-}

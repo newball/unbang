@@ -1,8 +1,0 @@
-{
-  "bang": "soff",
-  "domain": "https://duckduckgo.com",
-  "url": "https://duckduckgo.com/?kp=-2&q=%s",
-  "description": "DuckDuckGo SafeOff",
-  "category": "Online Services",
-  "subcategory": "Search (DDG)"
-}

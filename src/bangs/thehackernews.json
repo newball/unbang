@@ -1,7 +1,7 @@
 {
   "bang": "thehackernews",
   "domain": "https://www.google.com",
-  "url": "https://www.google.com/cse?q=test&cx=partner-pub-7983783048239650%3A3179771210#gsc.tab=0&gsc.q=%s&gsc.page=1",
+  "url": "https://www.google.com/cse?q=%s&cx=partner-pub-7983783048239650%3A3179771210#gsc.tab=0&gsc.q=%s&gsc.page=1",
   "description": "The Hacker News",
   "category": "Tech",
   "subcategory": "Blogs"

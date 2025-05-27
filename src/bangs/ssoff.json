@@ -1,8 +1,0 @@
-{
-  "bang": "ssoff",
-  "domain": "https://duckduckgo.com",
-  "url": "https://duckduckgo.com/?q=%s&kp=-2",
-  "description": "DuckDuckGo Safe Search: Off",
-  "category": "Online Services",
-  "subcategory": "Search (DDG)"
-}

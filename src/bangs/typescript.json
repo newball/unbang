@@ -1,8 +1,0 @@
-{
-  "bang": "typescript",
-  "domain": "https://duckduckgo.com",
-  "url": "http://duckduckgo.com/?q=%s+site:www.typescriptlang.org",
-  "description": "TypeScript Lang",
-  "category": "Tech",
-  "subcategory": "Languages (other)"
-}

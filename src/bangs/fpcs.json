@@ -1,8 +1,0 @@
-{
-  "bang": "fpcs",
-  "domain": "https://duckduckgo.com",
-  "url": "https://duckduckgo.com/?q=site:forum.pcsoft.fr+%s",
-  "description": "Forum pcsoft",
-  "category": "Tech",
-  "subcategory": "Languages (other)"
-}

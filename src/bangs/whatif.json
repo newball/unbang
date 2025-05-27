@@ -1,8 +1,0 @@
-{
-  "bang": "whatif",
-  "domain": "https://duckduckgo.com",
-  "url": "http://duckduckgo.com/?q=%s+site:what-if.xkcd.com",
-  "description": "what if?",
-  "category": "Entertainment",
-  "subcategory": "Blogs"
-}

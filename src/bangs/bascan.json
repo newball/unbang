@@ -1,8 +1,0 @@
-{
-  "bang": "bascan",
-  "domain": "https://duckduckgo.com",
-  "url": "http://duckduckgo.com/?q=%s+site:www.lyc-bascan-rambouillet.ac-versailles.fr",
-  "description": "Lycée Louis Bascan",
-  "category": "Research",
-  "subcategory": "Learning"
-}

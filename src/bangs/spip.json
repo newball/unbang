@@ -1,8 +1,0 @@
-{
-  "bang": "spip",
-  "domain": "https://duckduckgo.com",
-  "url": "https://duckduckgo.com/?q=%s+site:spip.net",
-  "description": "SPIP",
-  "category": "Tech",
-  "subcategory": "Programming"
-}

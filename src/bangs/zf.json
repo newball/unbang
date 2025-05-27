@@ -1,8 +1,0 @@
-{
-  "bang": "zf",
-  "domain": "https://duckduckgo.com",
-  "url": "https://duckduckgo.com/?q=%s+site:framework.zend.com",
-  "description": "zend framework",
-  "category": "Tech",
-  "subcategory": "Languages (php)"
-}

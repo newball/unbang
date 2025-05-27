@@ -1,8 +1,0 @@
-{
-  "bang": "emacs",
-  "domain": "https://duckduckgo.com",
-  "url": "https://duckduckgo.com/?q=site:emacswiki.org+%s",
-  "description": "EmacsWiki",
-  "category": "Online Services",
-  "subcategory": "Google"
-}

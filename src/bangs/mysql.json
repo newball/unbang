@@ -1,8 +1,0 @@
-{
-  "bang": "mysql",
-  "domain": "https://",
-  "url": "/?q=%s+site:dev.mysql.com",
-  "description": "MySQL.com",
-  "category": "Tech",
-  "subcategory": "Sysadmin"
-}

@@ -1,8 +1,0 @@
-{
-  "bang": "v2ex",
-  "domain": "https://www.duckduckgo.com",
-  "url": "https://www.duckduckgo.com/?q=site:v2ex.com/t+%s",
-  "description": "V2EX",
-  "category": "Online Services",
-  "subcategory": "Social"
-}

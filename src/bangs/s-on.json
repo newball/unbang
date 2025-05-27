@@ -1,8 +1,0 @@
-{
-  "bang": "s-on",
-  "domain": "https://duckduckgo.com",
-  "url": "https://duckduckgo.com/?q=%s&kp=1",
-  "description": "DuckDuckGo Safe Search: On",
-  "category": "Online Services",
-  "subcategory": "Search (DDG)"
-}

@@ -1,8 +1,0 @@
-{
-  "bang": "xkcd",
-  "domain": "https://",
-  "url": "/?q=%s+site:xkcd.com",
-  "description": "xkcd",
-  "category": "Entertainment",
-  "subcategory": "Comics"
-}

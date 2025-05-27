@@ -1,8 +1,0 @@
-{
-  "bang": "wxdev",
-  "domain": "https://duckduckgo.com",
-  "url": "https://duckduckgo.com/?q=%s+site:https://developers.weixin.qq.com/miniprogram/dev",
-  "description": "WeChat MiniProgram Developer Document",
-  "category": "Tech",
-  "subcategory": "Libraries/Frameworks"
-}

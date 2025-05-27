@@ -1,8 +1,0 @@
-{
-  "bang": "lwjgl",
-  "domain": "https://duckduckgo.com",
-  "url": "http://duckduckgo.com/?q=%s+site:http://lwjgl.org/javadoc/",
-  "description": "LWJGL",
-  "category": "Online Services",
-  "subcategory": "Search (DDG)"
-}

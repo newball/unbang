@@ -1,8 +1,0 @@
-{
-  "bang": "searchr",
-  "domain": "https://duckduckgo.com",
-  "url": "http://duckduckgo.com/?q=site:reddit.com+%s",
-  "description": "Reddit DDG Search",
-  "category": "News",
-  "subcategory": "Aggregators"
-}

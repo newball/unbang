@@ -1,8 +1,0 @@
-{
-  "bang": "org",
-  "domain": "https://duckduckgo.com",
-  "url": "https://duckduckgo.com/?q=site:http://orgmode.org/manual/+%s",
-  "description": "Org Manual",
-  "category": "Tech",
-  "subcategory": "Languages (other)"
-}

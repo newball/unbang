@@ -1,8 +1,0 @@
-{
-  "bang": "equestriadaily",
-  "domain": "https://duckduckgo.com",
-  "url": "http://duckduckgo.com/?q=site:equestriadaily.com+%s",
-  "description": "Equestria Daily",
-  "category": "News",
-  "subcategory": "Specialty"
-}

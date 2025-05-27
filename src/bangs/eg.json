@@ -1,8 +1,0 @@
-{
-  "bang": "eg",
-  "domain": "https://duckduckgo.com",
-  "url": "http://duckduckgo.com/?q=%s+site:epguides.com",
-  "description": "Epguides",
-  "category": "Entertainment",
-  "subcategory": "TV"
-}

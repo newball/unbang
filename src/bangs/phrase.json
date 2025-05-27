@@ -1,8 +1,0 @@
-{
-  "bang": "phrase",
-  "domain": "https://duckduckgo.com",
-  "url": "https://duckduckgo.com/?q=site:phrases.org.uk%20%s",
-  "description": "phrases.org.uk",
-  "category": "Research",
-  "subcategory": "Reference (words)"
-}

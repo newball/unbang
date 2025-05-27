@@ -1,8 +1,0 @@
-{
-  "bang": "mathworks",
-  "domain": "https://duckduckgo.com",
-  "url": "http://duckduckgo.com/?q=%s+site:mathworks.com",
-  "description": "Matlab File Exchange",
-  "category": "Research",
-  "subcategory": "Academic (math/cs)"
-}

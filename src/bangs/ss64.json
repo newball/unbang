@@ -1,8 +1,0 @@
-{
-  "bang": "ss64",
-  "domain": "https://duckduckgo.com",
-  "url": "http://duckduckgo.com/?q=%s+site:www.ss64.com",
-  "description": "SS64",
-  "category": "Tech",
-  "subcategory": "Languages (other)"
-}

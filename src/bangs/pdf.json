@@ -1,8 +1,0 @@
-{
-  "bang": "pdf",
-  "domain": "https://",
-  "url": "/?q=%s+filetype:pdf",
-  "description": "PDFs",
-  "category": "Online Services",
-  "subcategory": "Search (DDG)"
-}

@@ -1,8 +1,0 @@
-{
-  "bang": "site",
-  "domain": "https://duckduckgo.com",
-  "url": "https://duckduckgo.com/?q=site%3A%s",
-  "description": "DuckDuckGo site: search operator shortcut",
-  "category": "Online Services",
-  "subcategory": "Google"
-}

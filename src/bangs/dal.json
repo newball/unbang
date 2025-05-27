@@ -1,8 +1,0 @@
-{
-  "bang": "dal",
-  "domain": "https://duckduckgo.com",
-  "url": "https://duckduckgo.com/?q=%s+site:abretelibro.com",
-  "description": "Ábrete libro",
-  "category": "Entertainment",
-  "subcategory": "Forum"
-}

@@ -1,8 +1,0 @@
-{
-  "bang": "ppt",
-  "domain": "https://duckduckgo.com",
-  "url": "https://duckduckgo.com/?q=%s+filetype%3Appt",
-  "description": "powerpoint search",
-  "category": "Online Services",
-  "subcategory": "Search (DDG)"
-}

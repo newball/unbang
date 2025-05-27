@@ -1,8 +1,0 @@
-{
-  "bang": "w3s",
-  "domain": "https://duckduckgo.com",
-  "url": "https://duckduckgo.com/?q=%s+site:w3schools.com",
-  "description": "w3schools.com",
-  "category": "Tech",
-  "subcategory": "Languages (html)"
-}

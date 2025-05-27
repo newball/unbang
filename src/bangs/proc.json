@@ -1,8 +1,0 @@
-{
-  "bang": "proc",
-  "domain": "https://",
-  "url": "/?q=%s+site:processing.org",
-  "description": "Processing.org",
-  "category": "Online Services",
-  "subcategory": "Search (DDG)"
-}

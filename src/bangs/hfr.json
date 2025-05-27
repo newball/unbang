@@ -1,8 +1,0 @@
-{
-  "bang": "hfr",
-  "domain": "https://duckduckgo.com",
-  "url": "http://duckduckgo.com/?q=site:linuxfr.org+%s",
-  "description": "Forum Hardware.fr",
-  "category": "Research",
-  "subcategory": "Reference"
-}

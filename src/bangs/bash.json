@@ -1,8 +1,0 @@
-{
-  "bang": "bash",
-  "domain": "https://duckduckgo.com",
-  "url": "http://duckduckgo.com/?q=%s+site:mywiki.wooledge.org,wiki.bash-hackers.org",
-  "description": "Bash",
-  "category": "Tech",
-  "subcategory": "Programming"
-}

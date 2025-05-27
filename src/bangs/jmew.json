@@ -1,8 +1,0 @@
-{
-  "bang": "jmew",
-  "domain": "https://duckduckgo.com",
-  "url": "https://duckduckgo.com/?q=%s site:wiki.jmonkeyengine.org",
-  "description": "jMonkeyEngine WIki",
-  "category": "Tech",
-  "subcategory": "Libraries/Frameworks"
-}

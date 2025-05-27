@@ -1,8 +1,0 @@
-{
-  "bang": "ubhu",
-  "domain": "https://duckduckgo.com",
-  "url": "https://duckduckgo.com/?q=%s+site:ubuntu.hu",
-  "description": "Ubuntu.hu",
-  "category": "Tech",
-  "subcategory": "Sysadmin (Ubuntu)"
-}
