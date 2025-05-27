@@ -3,7 +3,7 @@ import { getCachedBangs } from "./bang.js";
 const bangs = getCachedBangs();
 
 const LS_DEFAULT_BANG = localStorage.getItem("default-bang") ?? "g";
-const defaultBang = bangs.find(b => b.bang === LS_DEFAULT_BANG);
+const defaultBang = bangs.find(b => b.bang === LS_DEFAULT_BANG) || bangs[0];
 
 function getBangredirectUrl() {
   const url = new URL(window.location.href);
@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const copyIcon = copyButton.querySelector("img");
   const urlInput = document.getElementById("search-url-input");
 
-  urlInput.value = `${window.location.origin}?q=%s`;
+  urlInput.value = `${window.location.origin}?q=!${defaultBang.bang}%20%s`;
 
   copyButton.addEventListener("click", async () => {
     await navigator.clipboard.writeText(urlInput.value);
