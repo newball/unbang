@@ -1,7 +1,7 @@
 {
   "bang": "mna",
   "domain": "https://mnacritique.mergersindia.com",
-  "url": "https://mnacritique.mergersindia.com/?s=",
+  "url": "https://mnacritique.mergersindia.com/?s=%s",
   "description": "M&A Critique",
   "category": "Multimedia",
   "subcategory": "Books"
