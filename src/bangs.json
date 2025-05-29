@@ -7880,22 +7880,6 @@
     "subcategory": "Domains"
   },
   {
-    "bang": "àax",
-    "domain": "https://www.albumartexchange.com",
-    "url": "http://www.albumartexchange.com/covers?fltr=ALL&sort=TITLE&q=%s",
-    "description": "Album Art Exchange",
-    "category": "Multimedia",
-    "subcategory": "Music"
-  },
-  {
-    "bang": "äx",
-    "domain": "https://www.levykauppax.fi",
-    "url": "https://www.levykauppax.fi/search/?q=%s",
-    "description": "Levykauppa Äx",
-    "category": "Shopping",
-    "subcategory": "Online"
-  },
-  {
     "bang": "b&n",
     "domain": "https://www.barnesandnoble.com",
     "url": "http://www.barnesandnoble.com/s/%s",
@@ -24240,14 +24224,6 @@
     "subcategory": "Companies"
   },
   {
-    "bang": "dörner",
-    "domain": "https://buecher-doerner.buchhandlung.de",
-    "url": "https://buecher-doerner.buchhandlung.de/shop/quickSearch?searchString=%s",
-    "description": "Bücher Dörner Onlineshop",
-    "category": "Multimedia",
-    "subcategory": "Books"
-  },
-  {
     "bang": "dp",
     "domain": "https://www.duckduckgo.com",
     "url": "http://www.duckduckgo.com/?q=site%3Adlang.org+%s",
@@ -25590,6 +25566,14 @@
     "description": "Deezer",
     "category": "Multimedia",
     "subcategory": "Music"
+  },
+  {
+    "bang": "dörner",
+    "domain": "https://buecher-doerner.buchhandlung.de",
+    "url": "https://buecher-doerner.buchhandlung.de/shop/quickSearch?searchString=%s",
+    "description": "Bücher Dörner Onlineshop",
+    "category": "Multimedia",
+    "subcategory": "Books"
   },
   {
     "bang": "e-c",
@@ -27152,20 +27136,20 @@
     "subcategory": "Reference (words)"
   },
   {
-    "bang": "ekşi",
-    "domain": "https://eksisozluk.com",
-    "url": "https://eksisozluk.com/?q=%s",
-    "description": "Ekşi Sözlük",
-    "category": "News",
-    "subcategory": "Newspaper"
-  },
-  {
     "bang": "ekwb",
     "domain": "https://www.ekwb.com",
     "url": "https://www.ekwb.com/shop/catalogsearch/result/?q=%s",
     "description": "EK Water Blocks",
     "category": "Shopping",
     "subcategory": "Tech"
+  },
+  {
+    "bang": "ekşi",
+    "domain": "https://eksisozluk.com",
+    "url": "https://eksisozluk.com/?q=%s",
+    "description": "Ekşi Sözlük",
+    "category": "News",
+    "subcategory": "Newspaper"
   },
   {
     "bang": "el19",
@@ -49256,14 +49240,6 @@
     "subcategory": "Tech"
   },
   {
-    "bang": "já",
-    "domain": "https://ja.is",
-    "url": "http://ja.is/?q=%s",
-    "description": "Já.is",
-    "category": "Online Services",
-    "subcategory": "Tools"
-  },
-  {
     "bang": "jb",
     "domain": "https://www.jupiterbroadcasting.com",
     "url": "http://www.jupiterbroadcasting.com/?s=%s",
@@ -50598,6 +50574,14 @@
     "description": "JustWatch Sweden",
     "category": "Online Services",
     "subcategory": "Search (non-US)"
+  },
+  {
+    "bang": "já",
+    "domain": "https://ja.is",
+    "url": "http://ja.is/?q=%s",
+    "description": "Já.is",
+    "category": "Online Services",
+    "subcategory": "Tools"
   },
   {
     "bang": "k-on",
@@ -52248,14 +52232,6 @@
     "subcategory": "Reference (words intl)"
   },
   {
-    "bang": "köket",
-    "domain": "https://www.koket.se",
-    "url": "https://www.koket.se/search?searchtext=%s",
-    "description": "Köket",
-    "category": "Entertainment",
-    "subcategory": "Misc"
-  },
-  {
     "bang": "kp",
     "domain": "https://www.kupujemprodajem.com",
     "url": "https://www.kupujemprodajem.com/pretraga?keywords=%s",
@@ -52742,6 +52718,14 @@
     "description": "KidzSearch",
     "category": "Research",
     "subcategory": "Academic"
+  },
+  {
+    "bang": "köket",
+    "domain": "https://www.koket.se",
+    "url": "https://www.koket.se/search?searchtext=%s",
+    "description": "Köket",
+    "category": "Entertainment",
+    "subcategory": "Misc"
   },
   {
     "bang": "l-d",
@@ -58046,14 +58030,6 @@
     "description": "Mayo Clinic",
     "category": "Research",
     "subcategory": "Health"
-  },
-  {
-    "bang": "māori",
-    "domain": "https://maoridictionary.co.nz",
-    "url": "http://maoridictionary.co.nz/search?keywords=%s",
-    "description": "Māori Dictionary",
-    "category": "Research",
-    "subcategory": "Reference (words intl)"
   },
   {
     "bang": "mb",
@@ -63398,6 +63374,14 @@
     "description": "Mittelbayerische Zeitung",
     "category": "News",
     "subcategory": "Newspaper"
+  },
+  {
+    "bang": "māori",
+    "domain": "https://maoridictionary.co.nz",
+    "url": "http://maoridictionary.co.nz/search?keywords=%s",
+    "description": "Māori Dictionary",
+    "category": "Research",
+    "subcategory": "Reference (words intl)"
   },
   {
     "bang": "n-tv",
@@ -69742,22 +69726,6 @@
     "description": "OZ Stoners",
     "category": "Online Services",
     "subcategory": "Social"
-  },
-  {
-    "bang": "õ",
-    "domain": "https://www.eki.ee",
-    "url": "http://www.eki.ee/dict/qs/index.cgi?Q=%s",
-    "description": "Eesti õigekeelsussõnaraamat",
-    "category": "Online Services",
-    "subcategory": "Tools"
-  },
-  {
-    "bang": "õs",
-    "domain": "https://www.eki.ee",
-    "url": "http://www.eki.ee/dict/qs/index.cgi?Q=%s",
-    "description": "Eesti Õigekeelsussõnaraamat",
-    "category": "Research",
-    "subcategory": "Reference (words)"
   },
   {
     "bang": "p",
@@ -89360,14 +89328,6 @@
     "subcategory": "Newspaper (intl)"
   },
   {
-    "bang": "tåg",
-    "domain": "https://www.trafikverket.se",
-    "url": "https://www.trafikverket.se/trafikinformation/tag/?&TrainOrStation=%s",
-    "description": "Tåginformation Sverige (Trafikverket)",
-    "category": "Research",
-    "subcategory": "Travel"
-  },
-  {
     "bang": "tb",
     "domain": "https://www.olx.co.id",
     "url": "http://www.olx.co.id/halaman/mencari/%s/search",
@@ -93944,14 +93904,6 @@
     "subcategory": "Games (general)"
   },
   {
-    "bang": "türen",
-    "domain": "https://tuerenmarkt24.de",
-    "url": "https://tuerenmarkt24.de/suche?controller=search&orderby=position&orderway=desc&search_query=deur%s",
-    "description": "tuerenmarkt24",
-    "category": "Shopping",
-    "subcategory": "Online"
-  },
-  {
     "bang": "tv",
     "domain": "https://www.tv.com",
     "url": "http://www.tv.com/search?q= %s",
@@ -94510,6 +94462,22 @@
     "description": "timeanddate",
     "category": "News",
     "subcategory": "Specialty"
+  },
+  {
+    "bang": "tåg",
+    "domain": "https://www.trafikverket.se",
+    "url": "https://www.trafikverket.se/trafikinformation/tag/?&TrainOrStation=%s",
+    "description": "Tåginformation Sverige (Trafikverket)",
+    "category": "Research",
+    "subcategory": "Travel"
+  },
+  {
+    "bang": "türen",
+    "domain": "https://tuerenmarkt24.de",
+    "url": "https://tuerenmarkt24.de/suche?controller=search&orderby=position&orderway=desc&search_query=deur%s",
+    "description": "tuerenmarkt24",
+    "category": "Shopping",
+    "subcategory": "Online"
   },
   {
     "bang": "u.gg",
@@ -107160,6 +107128,38 @@
     "subcategory": "Online"
   },
   {
+    "bang": "àax",
+    "domain": "https://www.albumartexchange.com",
+    "url": "http://www.albumartexchange.com/covers?fltr=ALL&sort=TITLE&q=%s",
+    "description": "Album Art Exchange",
+    "category": "Multimedia",
+    "subcategory": "Music"
+  },
+  {
+    "bang": "äx",
+    "domain": "https://www.levykauppax.fi",
+    "url": "https://www.levykauppax.fi/search/?q=%s",
+    "description": "Levykauppa Äx",
+    "category": "Shopping",
+    "subcategory": "Online"
+  },
+  {
+    "bang": "õ",
+    "domain": "https://www.eki.ee",
+    "url": "http://www.eki.ee/dict/qs/index.cgi?Q=%s",
+    "description": "Eesti õigekeelsussõnaraamat",
+    "category": "Online Services",
+    "subcategory": "Tools"
+  },
+  {
+    "bang": "õs",
+    "domain": "https://www.eki.ee",
+    "url": "http://www.eki.ee/dict/qs/index.cgi?Q=%s",
+    "description": "Eesti Õigekeelsussõnaraamat",
+    "category": "Research",
+    "subcategory": "Reference (words)"
+  },
+  {
     "bang": "Βικι",
     "domain": "https://el.m.wikipedia.org",
     "url": "https://el.m.wikipedia.org/wiki/%s",
@@ -107488,19 +107488,19 @@
     "subcategory": "Online"
   },
   {
-    "bang": "다음사전",
-    "domain": "https://dic.daum.net",
-    "url": "http://dic.daum.net/search.do?q=%s",
-    "description": "Daum 어학사전",
-    "category": "Research",
-    "subcategory": "Learning"
-  },
-  {
     "bang": "ㄴ",
     "domain": "https://search.naver.com",
     "url": "https://search.naver.com/search.naver?query=%s",
     "description": "Naver",
     "category": "Online Services",
     "subcategory": "Search (non-US)"
+  },
+  {
+    "bang": "다음사전",
+    "domain": "https://dic.daum.net",
+    "url": "http://dic.daum.net/search.do?q=%s",
+    "description": "Daum 어학사전",
+    "category": "Research",
+    "subcategory": "Learning"
   }
 ]
