@@ -16,7 +16,7 @@ export default defineConfig({
   ],
   build: {
 	chunkSizeWarningLimit: 1000,
-	rollupOPtions: {
+	rollupOptions: {
 	  output: {
 		manualChunks: {
 		  vendor: ['lodash', 'workbox-core']
