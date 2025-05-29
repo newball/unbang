@@ -1,13 +1,13 @@
 /**
  * Constants
  */
-const APP_NSPACE        = 'unbang';
-const STORE_KEY         = `${APP_NSPACE}:bangs`;
-const VERSION_KEY       = `${APP_NSPACE}:bangsVersion`;
-const MAX_BANG_LEN      = 30;
-const MAX_DOMAIN_LEN    = 300;
-const MAX_URL_LEN       = 1536;
-const MAX_RAW_LEN       = 5 * 1024 * 1024; // 5 MB
+const APP_NSPACE = 'unbang';
+const STORE_KEY = `${APP_NSPACE}:bangs`;
+const VERSION_KEY = `${APP_NSPACE}:bangsVersion`;
+const MAX_BANG_LEN = 30;
+const MAX_DOMAIN_LEN = 300;
+const MAX_URL_LEN = 1536;
+const MAX_RAW_LEN = 5 * 1024 * 1024; // 5 MB
 
 /**
  * Replace this block:
@@ -30,47 +30,47 @@ export { allBangs };
  * @returns {boolean}
  */
 function isValidBang(item) {
-  if (!item || typeof item !== 'object') return false;
-  const { bang, domain, url } = /** @type {any} */(item);
-	if ( typeof bang !== 'string' || typeof domain !== 'string' || typeof url !== 'string'){
-	console.error('Invalid bang:', item);
-    return false;
-  }
-  if ( bang.length > MAX_BANG_LEN ) {
-	console.error('Bang too long:', bang);
-	return false;
-  }
-  if ( domain.length > MAX_DOMAIN_LEN ) {
-	console.error('Domain too long:', domain);
-	return false;
-  }
-  if ( url.length > MAX_URL_LEN ) {
-	console.error('URL too long:', url);
-	return false;
-  }
-  if ( !url.includes('%s') ) {
-	console.error('URL must contain %s placeholder:', url);
-	return false;
-  }
-
-  try {
-    const u = new URL(url);
-    // if (!ALLOWED_PROTOCOLS.includes(u.protocol)) return false;
-
-    // allow domain to be either a full URL or just a host
-    const domainHost = domain.includes('://')
-      ? new URL(domain).host
-      : domain;
-	if (u.host !== domainHost) {
-		console.error('URL host does not match domain:', { url: u.host, domain: domainHost });
+	if (!item || typeof item !== 'object') return false;
+	const { bang, domain, url } = /** @type {any} */(item);
+	if (typeof bang !== 'string' || typeof domain !== 'string' || typeof url !== 'string') {
+		console.error('Invalid bang:', item);
 		return false;
 	}
-  } catch {
-	console.error('Invalid URL:', url);
-    return false;
-  }
+	if (bang.length > MAX_BANG_LEN) {
+		console.error('Bang too long:', bang);
+		return false;
+	}
+	if (domain.length > MAX_DOMAIN_LEN) {
+		console.error('Domain too long:', domain);
+		return false;
+	}
+	if (url.length > MAX_URL_LEN) {
+		console.error('URL too long:', url);
+		return false;
+	}
+	if (!url.includes('%s')) {
+		console.error('URL must contain %s placeholder:', url);
+		return false;
+	}
 
-  return true;
+	try {
+		const u = new URL(url);
+		// if (!ALLOWED_PROTOCOLS.includes(u.protocol)) return false;
+
+		// allow domain to be either a full URL or just a host
+		const domainHost = domain.includes('://')
+			? new URL(domain).host
+			: domain;
+		if (u.host !== domainHost) {
+			console.error('URL host does not match domain:', { url: u.host, domain: domainHost });
+			return false;
+		}
+	} catch {
+		console.error('Invalid URL:', url);
+		return false;
+	}
+
+	return true;
 }
 
 /**
@@ -81,37 +81,37 @@ function isValidBang(item) {
  */
 
 function isBangArray(data) {
-  return Array.isArray(data) && data.every(isValidBang);
+	return Array.isArray(data) && data.every(isValidBang);
 }
 
 /**
  * Caches the bangs in localStorage
  * 
  */
-;(function cacheBangs() {
-  // 1) bail if there's no localStorage (SSR / private mode)
-  if (typeof localStorage === 'undefined') {
-    console.warn('⚠️ localStorage is not available, skipping cacheBangs.');
-    return;
-  }
+; (function cacheBangs() {
+	// 1) bail if there's no localStorage (SSR / private mode)
+	if (typeof localStorage === 'undefined') {
+		console.warn('⚠️ localStorage is not available, skipping cacheBangs.');
+		return;
+	}
 
-  const prev = localStorage.getItem(VERSION_KEY);
-  if (prev === __APP_VERSION__) return;
+	const prev = localStorage.getItem(VERSION_KEY);
+	if (prev === __APP_VERSION__) return;
 
-  try {
-    // slim ▸ only bang, url, domain
-    const slimmed = allBangs.map(({ bang, url, domain }) => ({ bang, url, domain }));
-    const serialized = JSON.stringify(slimmed);
+	try {
+		// slim ▸ only bang, url, domain
+		const slimmed = allBangs.map(({ bang, url, domain }) => ({ bang, url, domain }));
+		const serialized = JSON.stringify(slimmed);
 
-    if (serialized.length <= MAX_RAW_LEN) {
-      localStorage.setItem(STORE_KEY, serialized);
-      localStorage.setItem(VERSION_KEY, __APP_VERSION__);
-    } else {
-      console.warn(`⚠️ Bangs too large to cache (${serialized.length} bytes), skipping.`);
-    }
-  } catch (err) {
-    console.error('⚠️ Failed to cache bangs:', err);
-  }
+		if (serialized.length <= MAX_RAW_LEN) {
+			localStorage.setItem(STORE_KEY, serialized);
+			localStorage.setItem(VERSION_KEY, __APP_VERSION__);
+		} else {
+			console.warn(`⚠️ Bangs too large to cache (${serialized.length} bytes), skipping.`);
+		}
+	} catch (err) {
+		console.error('⚠️ Failed to cache bangs:', err);
+	}
 })();
 
 
@@ -133,25 +133,25 @@ function isBangArray(data) {
  * @returns {Bang[]}
  */
 export function getCachedBangs() {
-  // 2) bail if there's no localStorage
-  if (typeof localStorage === 'undefined') {
-    console.warn('⚠️ localStorage is not available, using uncached bangs.');
-    return allBangs;
-  }
+	// 2) bail if there's no localStorage
+	if (typeof localStorage === 'undefined') {
+		console.warn('⚠️ localStorage is not available, using uncached bangs.');
+		return allBangs;
+	}
 
-  try {
-    const localBangs = localStorage.getItem(STORE_KEY);
-    if (!localBangs || localBangs.length > MAX_RAW_LEN) throw new Error('Invalid cache');
+	try {
+		const localBangs = localStorage.getItem(STORE_KEY);
+		if (!localBangs || localBangs.length > MAX_RAW_LEN) throw new Error('Invalid cache');
 
-    const parsedLocalBangs = JSON.parse(localBangs);
-    if (!isBangArray(parsedLocalBangs)) throw new Error('Bad format');
-    return parsedLocalBangs.map(item => ({
-      bang:        item.bang,
-      domain:      item.domain,
-      url:         item.url,
-    }));
-  } catch (err) {
-    console.error('⚠️ Could not load cached bangs, using defaults:', err);
-    return allBangs;
-  }
+		const parsedLocalBangs = JSON.parse(localBangs);
+		if (!isBangArray(parsedLocalBangs)) throw new Error('Bad format');
+		return parsedLocalBangs.map(item => ({
+			bang: item.bang,
+			domain: item.domain,
+			url: item.url,
+		}));
+	} catch (err) {
+		console.error('⚠️ Could not load cached bangs, using defaults:', err);
+		return allBangs;
+	}
 }

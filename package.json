@@ -1,19 +1,19 @@
 {
-  "name": "unduck",
-  "private": true,
-  "version": "0.2.0",
-  "type": "module",
-  "scripts": {
-    "prebuild": "npm run generate:bangs",
-    "build": "vite build",
-    "dev": "npm run generate:bangs && vite",
-    "preview": "vite preview",
-    "generate:bangs": "node scripts/generate-bangs.js"
-  },
-  "devDependencies": {
-    "vite": "^6.1.0"
-  },
-  "dependencies": {
-    "vite-plugin-pwa": "^0.21.1"
-  }
+	"name": "unduck",
+	"private": true,
+	"version": "0.2.0",
+	"type": "module",
+	"scripts": {
+		"prebuild": "npm run generate:bangs",
+		"build": "vite build",
+		"dev": "npm run generate:bangs && vite",
+		"preview": "vite preview",
+		"generate:bangs": "node scripts/generate-bangs.js"
+	},
+	"devDependencies": {
+		"vite": "^6.1.0"
+	},
+	"dependencies": {
+		"vite-plugin-pwa": "^0.21.1"
+	}
 }
