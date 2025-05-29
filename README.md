@@ -1,13 +1,21 @@
-# Unduck
+# Unbang
 
-DuckDuckGo's bang redirects are too slow. Add the following URL as a custom search engine to your browser. Enables all of DuckDuckGo's bangs to work, but much faster.
+Forked from Theo's idea, [unduck](https://github.com/t3dotgg/unduck), this aims to create a search engine with bang redirects that are served on the client side.
+
+This enables the bangs that DuckDuckGo uses to work, but be much faster.
+
+Simply add the following URL as a custom search engine to your browser.
 
 ```
-https://unduck.link?q=%s
+https://unbang.link?q=%s
 ```
 
-## How is it that much faster?
+## How is it that much faster (and different thank unduck)?
 
-DuckDuckGo does their redirects server side. Their DNS is...not always great. Result is that it often takes ages.
+DuckDuckGo does their redirects server side which requires going through their DNS which can be really slow at times.
 
-I solved this by doing all of the work client side. Once you've went to https://unduck.link once, the JS is all cache'd and will never need to be downloaded again. Your device does the redirects, not me.
+This was originally solved by [Theo](https://github.com/t3dotgg) by doing all of the work client side.
+
+I took the idea, decided to use the browsers local storage to help increase performance (among other things).
+
+I also removed all of the TypeScript and replaced it with vanilla JS. Because...
