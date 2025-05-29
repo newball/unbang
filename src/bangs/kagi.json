@@ -1,0 +1,8 @@
+{
+	"bang": "kagi",
+	"domain": "https://kagi.com",
+	"url": "https://kagi.com/search?q=%s",
+	"description": "Kagi Search",
+	"category": "Online Search",
+	"subcategory": "Private Search"
+}

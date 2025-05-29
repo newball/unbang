@@ -50648,6 +50648,14 @@
     "subcategory": "Blogs"
   },
   {
+    "bang": "kagi",
+    "domain": "https://kagi.com",
+    "url": "https://kagi.com/search?q=%s",
+    "description": "Kagi Search",
+    "category": "Online Search",
+    "subcategory": "Private Search"
+  },
+  {
     "bang": "kahoot",
     "domain": "https://create.kahoot.it",
     "url": "https://create.kahoot.it/search?filter=1&query=science&tags=%s",
