@@ -18,6 +18,14 @@ export default defineConfig({
 		chunkSizeWarningLimit: 1000,
 		rollupOptions: {
 			output: {
+				entryFileNames:   'js/[name].[hash].js',
+				chunkFileNames:   'js/[name].[hash].js',
+				assetFileNames: assetInfo => {
+					const ext = assetInfo.name?.split('.').pop()
+					if (ext === 'css')        return 'css/[name].[hash][extname]'
+					if (/(png|jpe?g|svg|gif|webp)$/.test(ext)) return 'img/[name].[hash][extname]'
+					return 'assets/[name].[hash][extname]'
+				},
 				manualChunks: {
 					vendor: ['lodash', 'workbox-core']
 				}
