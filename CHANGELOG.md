@@ -12,6 +12,7 @@ This project adheres to [Semantic Versioning](https://semver.org/) and uses the 
 - Name on MIT License
 - File movement
 - CSS Optimization
+- Vite Upgrade
 
 ## (0.2.1) - 2025-05-29
 
