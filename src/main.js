@@ -42,8 +42,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
 	copyButton.addEventListener("click", async () => {
 		await navigator.clipboard.writeText(urlInput.value);
-		copyIcon.src = "/clipboard-check.svg";
-		setTimeout(() => (copyIcon.src = "/clipboard.svg"), 2000);
+		copyIcon.src = "/img/clipboard-check.svg";
+		setTimeout(() => (copyIcon.src = "/img/clipboard.svg"), 2000);
 	});
 
 	// perform bang‐redirect if there's a query in the URL
