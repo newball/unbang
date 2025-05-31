@@ -7,7 +7,7 @@ This project adheres to [Semantic Versioning](https://semver.org/) and uses the 
 
 ### Added
 
-- Analytics addition through environment variables
+- Analytics addition using umani
 
 ### Changed
 

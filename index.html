@@ -16,18 +16,7 @@
 	<title>Unbang</title>
 	<meta name="description" content="Your personal search engine (with bangs!)" />
 
-	<!-- Inject analytics script dynamically -->
-	<script type="module">
-		// Get the analytics script from the environment variable
-		const analyticsScriptTag = import.meta.env.ANALYTICS_SCRIPT_TAG;
-
-        // Inject the script if the environment variable is set and the domain matches
-        if (analyticsScriptTag && location.hostname === "unbang.link") {
-            document.write(analyticsScriptTag);
-        } else {
-            console.log("Analytics script not active (domain mismatch or disabled).");
-        }
-    </script>
+	<script defer src="https://analytics.whatthefreakisthis.com/alyt" data-website-id="3bd2eda4-d055-4acd-8253-8b9fea29d132"></script></head>
 </head>
 
 <body>
