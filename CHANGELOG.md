@@ -16,6 +16,7 @@ This project adheres to [Semantic Versioning](https://semver.org/) and uses the 
 - CSS Optimization
 - Vite Upgrade
 - Dependecies Upgrade
+- Bug fixes
 
 ## (0.2.1) - 2025-05-29
 
