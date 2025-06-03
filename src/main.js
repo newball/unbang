@@ -17,7 +17,7 @@ function getBangredirectUrl() {
 
 	// if only bang (e.g. "!gh")
 	if (!cleanQuery) {
-		return selectedBang ? `https://${selectedBang.domain}` : null;
+        return selectedBang ? new URL(selectedBang.url).origin : null;
 	}
 
 	// build search URL
