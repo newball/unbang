@@ -14,7 +14,7 @@ async function build() {
 
   const outPath = join(process.cwd(), 'src/bangs.json');
   await writeFile(outPath, JSON.stringify(bangs, null, 2) + '\n', 'utf8');
-  console.log(`✓ wrote ${bangs.length} bangs to src/main.json`);
+  console.log(`✓ wrote ${bangs.length} bangs to src/bangs.json`);
 }
 
 build().catch(err => {
