@@ -106,7 +106,7 @@ textarea {
 .url-input {
 	padding: 8px 12px;
 	border: 1px solid #ddd;
-	border-radius: 4px;
+	border-radius: 10px;
 	width: 100%;
 	background: #f5f5f5;
 }
@@ -130,8 +130,8 @@ textarea {
 }
 
 .copy-button img {
-	width: 20px;
-	height: 20px;
+	width: 24px;
+	height: 24px;
 }
 
 .copy-button.copied {
