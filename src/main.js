@@ -28,45 +28,45 @@ function getBangredirectUrl(queryFromInput) {
 }
 
 function doRedirect(query) {
-        const searchUrl = getBangredirectUrl(query);
-        if (searchUrl) {
-                window.location.replace(searchUrl);
-        }
+	const searchUrl = getBangredirectUrl(query);
+	if (searchUrl) {
+			window.location.replace(searchUrl);
+	}
 }
 
 // Wire up the copy button on initial load
 document.addEventListener("DOMContentLoaded", () => {
-        const copyButton = document.querySelector(".copy-button");
-        const copyIcon = copyButton.querySelector("img");
-        const urlInput = document.getElementById("search-url-input");
+	const copyButton = document.getElementById("button-input");
+	const copyIcon = document.getElementById("button-icon");
+	const urlInput = document.getElementById("search-url-input");
 
-        const customUrl = `${window.location.origin}?q=%s`;
-        urlInput.placeholder = `Search here or click to copy ${customUrl}`;
+	const customUrl = `${window.location.origin}?q=%s`;
+	urlInput.placeholder = `Search here or click to copy ${customUrl}`;
 
-        function updateButton() {
-                const searching = urlInput.value.trim().length > 0;
-                copyButton.dataset.mode = searching ? "search" : "copy";
-                copyIcon.src = searching ? "/img/search.svg" : "/img/clipboard.svg";
-        }
+	function updateButton() {
+			const searching = urlInput.value.trim().length > 0;
+			copyButton.dataset.mode = searching ? "search" : "copy";
+			copyIcon.src = searching ? "/img/search.svg" : "/img/clipboard.svg";
+	}
 
-        urlInput.addEventListener("input", updateButton);
+	urlInput.addEventListener("input", updateButton);
 
-        copyButton.addEventListener("click", async () => {
-                if (copyButton.dataset.mode === "copy") {
-                        await navigator.clipboard.writeText(customUrl);
-                        copyIcon.src = "/img/clipboard-check.svg";
-                        setTimeout(updateButton, 2000);
-                } else {
-                        doRedirect(urlInput.value);
-                }
-        });
+	copyButton.addEventListener("click", async () => {
+			if (copyButton.dataset.mode === "copy") {
+					await navigator.clipboard.writeText(customUrl);
+					copyIcon.src = "/img/clipboard-check.svg";
+					setTimeout(updateButton, 2000);
+			} else {
+					doRedirect(urlInput.value);
+			}
+	});
 
-        urlInput.addEventListener("keydown", e => {
-                if (e.key === "Enter" && urlInput.value.trim()) {
-                        doRedirect(urlInput.value);
-                }
-        });
+	urlInput.addEventListener("keydown", e => {
+			if (e.key === "Enter" && urlInput.value.trim()) {
+					doRedirect(urlInput.value);
+			}
+	});
 
-        // perform bang‐redirect if there's a query in the URL
-        doRedirect();
+	// perform bang‐redirect if there's a query in the URL
+	doRedirect();
 });
