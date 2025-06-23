@@ -36,44 +36,49 @@ function doRedirect(query) {
 
 // Wire up the copy button on initial load
 document.addEventListener("DOMContentLoaded", () => {
-	const copyButton = document.getElementById("button-input");
-	const copyIcon = document.getElementById("button-icon");
-	const urlInput = document.getElementById("search-url-input");
+	const inputButton = document.getElementById("button-input");
+	const buttonIcon = document.getElementById("button-icon");
+	const urlInput = document.getElementById("input-search-url");
 
 	const customUrl = `${window.location.origin}?q=%s`;
-	urlInput.placeholder = `Search here or click to copy ${customUrl}`;
 
 	function updateButton() {
 			const searching = urlInput.value.trim().length > 0;
-			copyButton.dataset.mode = searching ? "search" : "copy";
-			copyIcon.src = searching ? "/img/search.svg" : "/img/clipboard.svg";
+			inputButton.dataset.mode = searching ? "search" : "copy";
+			buttonIcon.src = searching ? "/img/search.svg" : "/img/clipboard.svg";
 	}
 
-	urlInput.addEventListener("input", updateButton);
+	if ( urlInput ) {
+		urlInput.placeholder = `Search here or click to copy ${customUrl}`;
+		urlInput.addEventListener("input", updateButton);
+	}
 
-	copyButton.addEventListener("click", async () => {
-			if (copyButton.dataset.mode === "copy") {
-					await navigator.clipboard.writeText(customUrl);
-					copyIcon.src = "/img/clipboard-check.svg";
-					setTimeout(updateButton, 2000);
-			} else {
-					doRedirect(urlInput.value);
-			}
-	});
+	if (inputButton) {
+		inputButton.addEventListener("click", async () => {
+				if (inputButton.dataset.mode === "copy") {
+						await navigator.clipboard.writeText(customUrl);
+						buttonIcon.src = "/img/clipboard-check.svg";
+						setTimeout(updateButton, 2000);
+				} else {
+						doRedirect(urlInput.value);
+				}
+		});
+	}
 
-	urlInput.addEventListener("keydown", e => {
-			if (e.key === "Enter" && urlInput.value.trim()) {
-					doRedirect(urlInput.value);
-			}
-	});
+	if ( urlInput ) {
+		urlInput.addEventListener("keydown", e => {
+				if (e.key === "Enter" && urlInput.value.trim()) {
+						doRedirect(urlInput.value);
+				}
+		});
+	}
 
 	// perform bang‐redirect if there's a query in the URL
 	doRedirect();
 
-	// Table of bangs and filter UI (on bang.html)
 	const filterInput = document.getElementById("bang-filter-input");
 	if (filterInput) {
-		const filterButton = document.getElementById("filter-button");
+		const filterButton = document.getElementById("button-bang-filter");
 		const tableBody = document.querySelector("#bang-table tbody");
 		function renderTable(filter = "") {
 			const f = filter.trim().toLowerCase();
@@ -83,18 +88,16 @@ document.addEventListener("DOMContentLoaded", () => {
 				.join('');
 			tableBody.innerHTML = rows;
 		}
-		filterInput.addEventListener("input", () => renderTable(filterInput.value));
-		filterButton.addEventListener("click", () => renderTable(filterInput.value));
+		filterInput.addEventListener("input", () => renderTable(filterInput.value));	
 		renderTable();
 	}
 
 	// Suggestion modal for bangs (on index.html)
-	const searchInput = document.getElementById("search-url-input");
 	const suggestionBox = document.getElementById("bang-suggestions");
-	if (searchInput && suggestionBox) {
+	if (urlInput && suggestionBox) {
 		const suggestionBody = document.querySelector("#suggestion-table tbody");
 		function updateSuggestions() {
-			const val = searchInput.value;
+			const val = urlInput.value;
 			const m = val.match(/!(\w*)$/);
 			if (!m) {
 				suggestionBox.classList.add('hidden');
@@ -110,17 +113,17 @@ document.addEventListener("DOMContentLoaded", () => {
 			if (matches.length) suggestionBox.classList.remove('hidden');
 			else suggestionBox.classList.add('hidden');
 		}
-		searchInput.addEventListener('input', updateSuggestions);
+		urlInput.addEventListener('input', updateSuggestions);
 		suggestionBody.addEventListener('click', e => {
 			const tr = e.target.closest('tr');
 			if (tr && tr.dataset.bang) {
-				searchInput.value = `!${tr.dataset.bang} `;
+				urlInput.value = `!${tr.dataset.bang} `;
 				suggestionBox.classList.add('hidden');
-				searchInput.focus();
+				urlInput.focus();
 			}
 		});
 		document.addEventListener('click', e => {
-			if (!suggestionBox.contains(e.target) && e.target !== searchInput) {
+			if (!suggestionBox.contains(e.target) && e.target !== urlInput) {
 				suggestionBox.classList.add('hidden');
 			}
 		});
