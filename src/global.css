@@ -36,6 +36,8 @@
 	box-sizing: border-box;
 }
 
+/* Global Styles */
+
 html,
 body {
 	height: 100%;
@@ -80,14 +82,7 @@ textarea {
 	font: inherit;
 }
 
-/* Add these new styles */
-.url-container {
-	display: flex;
-	align-items: center;
-	gap: 8px;
-	margin-top: 16px;
-}
-
+/* Element Styles */
 .container {
 	display: flex;
 	flex-direction: column;
@@ -102,7 +97,19 @@ textarea {
 	padding: 0 8px;
 }
 
-/* Update url-input width to be 100% since container will control max width */
+.logo {
+	margin: 0 auto; /* center the logo container */
+	max-width: 55%;
+}
+
+.url-container {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	margin-top: 16px;
+	position: relative;
+}
+
 .url-input {
 	padding: 8px 12px;
 	border: 1px solid #ddd;
@@ -138,7 +145,37 @@ textarea {
 	background: #28a745;
 }
 
-/* Add footer styles */
+.suggestions {
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%, 5%);
+	border: 1px solid #f9f9f9;
+	border-radius: 8px;
+	width: 100%;
+	max-width: 75%;
+	max-height: 200px;
+	overflow-y: auto;
+	margin-top: 4px;
+	z-index: 10;
+}
+
+.suggestions table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.suggestions th,
+.suggestions td {
+	padding: 8px;
+	text-align: left;
+}
+
+.suggestions tbody tr:hover {
+	background-color: #f9f9f9;
+	filter: brightness(0.7);
+	color: #1a1a1a;
+}
+
 .footer {
 	position: fixed;
 	bottom: 16px;
@@ -158,6 +195,24 @@ textarea {
 .footer a:hover {
 	color: #333;
 }
+
+/* Utility Classes */
+
+.visually-hidden {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	overflow: hidden;
+	clip: rect(0, 0, 0, 0);
+	border: 0;
+}
+
+.hidden {
+	display: none;
+}
+
+
 
 @media (prefers-color-scheme: dark) {
 	body {
@@ -191,6 +246,7 @@ textarea {
 		color: #fff;
 	}
 
+	.logo svg,
 	.copy-button img {
 		filter: invert(1);
 	}
