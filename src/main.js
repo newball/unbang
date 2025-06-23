@@ -1,4 +1,4 @@
-import { getCachedBangs } from "./bang.js";
+import { getCachedBangs, allBangs as fullBangs } from "./bang.js";
 // pull our already-cached JSON bundle
 const bangs = getCachedBangs();
 
@@ -69,4 +69,60 @@ document.addEventListener("DOMContentLoaded", () => {
 
 	// perform bang‐redirect if there's a query in the URL
 	doRedirect();
+
+	// Table of bangs and filter UI (on bang.html)
+	const filterInput = document.getElementById("bang-filter-input");
+	if (filterInput) {
+		const filterButton = document.getElementById("filter-button");
+		const tableBody = document.querySelector("#bang-table tbody");
+		function renderTable(filter = "") {
+			const f = filter.trim().toLowerCase();
+			const rows = fullBangs
+				.filter(b => b.bang.toLowerCase().includes(f) || b.domain.toLowerCase().includes(f) || (b.description && b.description.toLowerCase().includes(f)))
+				.map(b => `<tr><td>!${b.bang}</td><td>${b.domain}</td><td>${b.description||''}</td></tr>`)
+				.join('');
+			tableBody.innerHTML = rows;
+		}
+		filterInput.addEventListener("input", () => renderTable(filterInput.value));
+		filterButton.addEventListener("click", () => renderTable(filterInput.value));
+		renderTable();
+	}
+
+	// Suggestion modal for bangs (on index.html)
+	const searchInput = document.getElementById("search-url-input");
+	const suggestionBox = document.getElementById("bang-suggestions");
+	if (searchInput && suggestionBox) {
+		const suggestionBody = document.querySelector("#suggestion-table tbody");
+		function updateSuggestions() {
+			const val = searchInput.value;
+			const m = val.match(/!(\w*)$/);
+			if (!m) {
+				suggestionBox.classList.add('hidden');
+				return;
+			}
+			const filter = m[1].toLowerCase();
+			const matches = fullBangs
+				.filter(b => b.bang.startsWith(filter) || b.domain.toLowerCase().includes(filter) || (b.description && b.description.toLowerCase().includes(filter)))
+				.slice(0, 10);
+			suggestionBody.innerHTML = matches
+				.map(b => `<tr data-bang="${b.bang}"><td>!${b.bang}</td><td>${b.domain}</td><td>${b.description||''}</td></tr>`)
+				.join('');
+			if (matches.length) suggestionBox.classList.remove('hidden');
+			else suggestionBox.classList.add('hidden');
+		}
+		searchInput.addEventListener('input', updateSuggestions);
+		suggestionBody.addEventListener('click', e => {
+			const tr = e.target.closest('tr');
+			if (tr && tr.dataset.bang) {
+				searchInput.value = `!${tr.dataset.bang} `;
+				suggestionBox.classList.add('hidden');
+				searchInput.focus();
+			}
+		});
+		document.addEventListener('click', e => {
+			if (!suggestionBox.contains(e.target) && e.target !== searchInput) {
+				suggestionBox.classList.add('hidden');
+			}
+		});
+	}
 });

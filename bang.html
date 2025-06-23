@@ -33,21 +33,20 @@
 			<p>Your personal search engine, powered by DuckDuckGo style bangs. Add the following URL as a custom search
 				engine to your browser. Enables <a href="bang.html" target="_blank">all of these bangs</a>
 			</p>
-				<div class="url-container">
-					<input id="search-url-input" type="text" class="url-input" />
-					<button id="button-input" class="copy-button" data-mode="copy">
-							<img id="button-icon" src="/img/clipboard.svg" alt="Copy" />
-					</button>
-				</div>
-				<!-- Suggestion modal for bangs -->
-				<div id="bang-suggestions" class="suggestions hidden">
-					<table id="suggestion-table">
-						<thead>
-							<tr><th>!Bang</th><th>Domain</th><th>Description</th></tr>
-						</thead>
-						<tbody></tbody>
-					</table>
-				</div>
+
+			<!-- Filter UI for bangs -->
+			<div class="filter-container">
+				<input id="bang-filter-input" type="text" placeholder="Filter bangs..." />
+				<button id="filter-button">Refresh</button>
+			</div>
+			<div class="table-container">
+				<table id="bang-table">
+					<thead>
+						<tr><th>!Bang</th><th>Domain</th><th>Description</th></tr>
+					</thead>
+					<tbody></tbody>
+				</table>
+			</div>
 		</div>
 		<footer class="footer">
 			<p>Forked and inspired by <a href="https://github.com/t3dotgg/unduck">Unduck</a></p>
