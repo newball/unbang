@@ -1,5 +1,11 @@
 /* @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"); */
 
+/*
+For referenec to remove later: 
+ Base black: #0B1215
+
+*/
+
 /* Font fallback that closely matches Inter metrics */
 @font-face {
 	font-family: "Inter Fallback";
@@ -48,8 +54,8 @@ body {
 	line-height: 1.5;
 	font-weight: 400;
 	font-size: 16px;
-	color: #1a1a1a;
-	background-color: transparent;
+	color: #0B1215;
+	background-color: #FAFAFA;
 }
 
 h1,
@@ -63,11 +69,12 @@ h6 {
 }
 
 a {
-	color: #444444;
+	color: #0066CC; /* Link color */
+	font-weight: 600;
 }
 
 a:hover {
-	color: #888888;
+	color: #004A99;
 }
 
 button {
@@ -84,10 +91,9 @@ textarea {
 
 /* Element Styles */
 .container {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
+	display: grid;
+	grid-template-rows: 1fr auto;
+	place-items: center;
 	height: 100vh;
 }
 
@@ -113,38 +119,43 @@ textarea {
 .input-url,
 .bang-filter {
 	padding: 8px 12px;
-	border: 1px solid #ddd;
+	border: 1px solid #495057;
 	border-radius: 10px;
 	width: 100%;
-	background: #f5f5f5;
+	background: #F8F8FF;
 }
 
-.button-input {
+.button {
 	padding: 8px;
-	color: #666;
 	border-radius: 4px;
 	transition: all 0.2s;
 	display: flex;
 	align-items: center;
 	justify-content: center;
+
+	&:hover {
+		background-color: #f0f0f0;
+
+		img {
+			color: green;
+			stroke: green;
+		}
+	}
+
+	&:active {
+		background-color: #e5e5e5;
+	}
+
+	.button-icon {
+		width: 24px;
+		height: 24px;
+	}
+
+	.copied {
+		background: #28a745;
+	}
 }
 
-.button-input:hover {
-	background: #f0f0f0;
-}
-
-.button-input:active {
-	background: #e5e5e5;
-}
-
-.button-input img {
-	width: 24px;
-	height: 24px;
-}
-
-.button-input.copied {
-	background: #28a745;
-}
 
 .suggestions {
 	position: absolute;
@@ -214,8 +225,91 @@ textarea {
 	color: #333;
 }
 
-/* Utility Classes */
+/* Bang pills list */ 
+.bang-list-container {
+	width: 100%;
+	margin-top: 16px;
 
+	.bang-list {
+		display: grid;
+		grid-template-columns: repeat(3, minmax(200px, 350px));
+		/* grid-template-rows: ; */
+		gap: 12px;
+		justify-content: center;
+
+		.bang-pill {
+			background-color: #f5f5f5;
+			color: #1a1a1a;
+			border: 1px solid #ddd;
+			border-radius: 10px;
+			padding: 20px 10px;
+			display: grid;
+			grid-template-columns: minmax(50%, 1fr) minmax(40%, 1fr);
+			grid-template-rows: auto auto;
+			grid-template-areas:
+				"description bang"
+				"category domain";
+			gap: 4px 10px;
+			align-items: center;
+			box-sizing: border-box;
+
+			div {
+  				overflow-wrap: break-word;
+				white-space: normal;
+				align-self: start;
+			}
+
+			.bang {
+				grid-area: bang;
+				font-weight: 600;
+			}
+
+			.description {
+				grid-area: description;
+				color: #333;
+			}
+
+			.category,
+			.domain {
+				font-size: 0.75em;
+			}
+
+			.category {
+				grid-area: category;
+			}
+
+			.domain {
+				grid-area: domain;
+				color: #666;
+			}
+
+
+		}
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+.bang-list-container {
+	.bang-list {
+		.bang-pill {
+			border-color: rgba(245,245,245,0.05);
+			background-color: rgba(245,245,245,0.01);
+
+			.description,
+			.bang {
+			   color: #ddd;
+			}
+
+			.domain,
+			.category {
+				color: #999;
+			}
+		}
+	}
+}
+}
+
+/* Utility Classes */
 .visually-hidden {
 	position: absolute;
 	width: 1px;
@@ -230,9 +324,11 @@ textarea {
 	display: none;
 }
 
+.display-inline {
+ display: inline;
+}
 
-
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
 	body {
 		color: #ddd;
 	}
@@ -276,4 +372,4 @@ textarea {
 	.button:active {
 		background: #333;
 	}
-}
+} */

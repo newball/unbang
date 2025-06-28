@@ -34,7 +34,26 @@
 			<div class="form-container">
 				<input id="input-search-url" type="text" class="input-url" />
 				<button id="button-input" class="button" data-mode="copy">
-						<img id="button-icon" src="/img/clipboard.svg" alt="Copy" />
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+						stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="button-icon icon-unclicked display-inline lucide lucide-clipboard">
+						<rect width="8" height="4" x="8" y="2" rx="1" ry="1" />
+						<path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2" />
+					</svg>
+					<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+						stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="button-icon icon-clicked hidden lucide lucide-clipboard-check">
+						<rect width="8" height="4" x="8" y="2" rx="1" ry="1" />
+						<path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2" />
+						<path d="m9 14 2 2 4-4" />
+					</svg>
+					<svg fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="button-icon icon-search hidden">
+						<g stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+							<path
+								d="m.75 12c0 2.9837 1.18526 5.8452 3.29505 7.955 2.10978 2.1097 4.97126 3.295 7.95495 3.295 2.9837 0 5.8452-1.1853 7.955-3.295 2.1097-2.1098 3.295-4.9713 3.295-7.955 0-2.98369-1.1853-5.84517-3.295-7.95495-2.1098-2.10979-4.9713-3.29505-7.955-3.29505-2.98369 0-5.84517 1.18526-7.95495 3.29505-2.10979 2.10978-3.29505 4.97126-3.29505 7.95495z" />
+							<path
+								d="m6.75 11.125c0 1.1603.46094 2.2731 1.28141 3.0936s1.93327 1.2814 3.09359 1.2814c1.1603 0 2.2731-.4609 3.0936-1.2814s1.2814-1.9333 1.2814-3.0936c0-1.16032-.4609-2.27312-1.2814-3.09359s-1.9333-1.28141-3.0936-1.28141c-1.16032 0-2.27312.46094-3.09359 1.28141s-1.28141 1.93327-1.28141 3.09359z" />
+							<path d="m14.219 14.218 3.031 3.032" />
+						</g>
+					</svg>
 				</button>
 			</div>
 			<!-- Suggestion modal for bangs -->
