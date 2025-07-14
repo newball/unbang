@@ -1,8 +1,0 @@
-{
-  "bang": "banned",
-  "domain": "https://banned.video",
-  "url": "https://banned.video/?q=%s",
-  "description": "banned.video",
-  "category": "News",
-  "subcategory": "Online"
-}

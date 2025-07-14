@@ -1,8 +1,0 @@
-{
-  "bang": "bangs",
-  "domain": "https://duckduckgo.com",
-  "url": "https://duckduckgo.com/bang?q=%s",
-  "description": "Search all !bangs",
-  "category": "Online Services",
-  "subcategory": "Search (DDG)"
-}
