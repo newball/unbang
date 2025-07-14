@@ -1,8 +1,0 @@
-{
-  "bang": "sbt",
-  "domain": "https://socialblade.com",
-  "url": "https://socialblade.com/twitter/user/%s",
-  "description": "Socialblade twitter",
-  "category": "Online Services",
-  "subcategory": "Tools"
-}

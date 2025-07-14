@@ -1,5 +1,13 @@
 [
   {
+    "bang": "#x",
+    "domain": "https://x.com",
+    "url": "https://x.com/search?q=%23%s",
+    "description": "X Hashtags",
+    "category": "Online Services",
+    "subcategory": "Social"
+  },
+  {
     "bang": "$",
     "domain": "https://stockflare.com",
     "url": "https://stockflare.com/#stocks/$%s",
@@ -1088,14 +1096,6 @@
     "subcategory": "Comics"
   },
   {
-    "bang": "@",
-    "domain": "https://twitter.com",
-    "url": "https://twitter.com/%s",
-    "description": "Twitter User Page",
-    "category": "News",
-    "subcategory": "International"
-  },
-  {
     "bang": "@bsky",
     "domain": "https://bsky.app",
     "url": "https://bsky.app/profile/%s",
@@ -1110,6 +1110,14 @@
     "description": "Facebook User Page",
     "category": "Online Services",
     "subcategory": "Social"
+  },
+  {
+    "bang": "@x",
+    "domain": "https://x.com",
+    "url": "https://x.com/%s",
+    "description": "X User Page",
+    "category": "News",
+    "subcategory": "International"
   },
   {
     "bang": "AUD2EUR",
@@ -43232,14 +43240,6 @@
     "subcategory": "Academic"
   },
   {
-    "bang": "hashtag",
-    "domain": "https://twitter.com",
-    "url": "https://twitter.com/search?q=%23%s",
-    "description": "Twitter Hashtags",
-    "category": "Online Services",
-    "subcategory": "Social"
-  },
-  {
     "bang": "haskellwiki",
     "domain": "https://www.haskell.org",
     "url": "http://www.haskell.org/haskellwiki/Special:Search/%s",
@@ -81064,14 +81064,6 @@
     "subcategory": "Video"
   },
   {
-    "bang": "sbt",
-    "domain": "https://socialblade.com",
-    "url": "https://socialblade.com/twitter/user/%s",
-    "description": "Socialblade twitter",
-    "category": "Online Services",
-    "subcategory": "Tools"
-  },
-  {
     "bang": "sbw",
     "domain": "https://www.stopbadware.org",
     "url": "https://www.stopbadware.org/clearinghouse/search/?url=%s",
@@ -93376,14 +93368,6 @@
     "subcategory": "Online (marketplace)"
   },
   {
-    "bang": "trump",
-    "domain": "https://twitter.com",
-    "url": "https://twitter.com/search?q=from%3Arealdonaldtrump%20%s&src=typd",
-    "description": "Donald Trump's Twitter",
-    "category": "Online Services",
-    "subcategory": "Social"
-  },
-  {
     "bang": "trustpilot",
     "domain": "https://www.trustpilot.com",
     "url": "https://www.trustpilot.com/search?query=%s",
@@ -94096,14 +94080,6 @@
     "subcategory": "TV"
   },
   {
-    "bang": "tw",
-    "domain": "https://twitter.com",
-    "url": "https://twitter.com/search?q=%s",
-    "description": "Twitter",
-    "category": "Online Services",
-    "subcategory": "Social"
-  },
-  {
     "bang": "twc",
     "domain": "https://thewirecutter.com",
     "url": "https://thewirecutter.com/?s=%s",
@@ -94126,14 +94102,6 @@
     "description": "tweakers.net",
     "category": "Shopping",
     "subcategory": "Tech"
-  },
-  {
-    "bang": "tweet",
-    "domain": "https://mobile.twitter.com",
-    "url": "https://mobile.twitter.com/search?q=%s",
-    "description": "Twitter",
-    "category": "Online Services",
-    "subcategory": "Social"
   },
   {
     "bang": "twf",
@@ -94168,14 +94136,6 @@
     "subcategory": "Games (general)"
   },
   {
-    "bang": "twid",
-    "domain": "https://twitter.com",
-    "url": "https://twitter.com/intent/user?user_id=%s",
-    "description": "Twitter",
-    "category": "Research",
-    "subcategory": "Academic"
-  },
-  {
     "bang": "twig",
     "domain": "https://twig.symfony.com",
     "url": "https://twig.symfony.com/%s",
@@ -94190,14 +94150,6 @@
     "description": "Trove Wikia",
     "category": "Research",
     "subcategory": "Reference (fun)"
-  },
-  {
-    "bang": "twit",
-    "domain": "https://twitter.com",
-    "url": "https://twitter.com/search?q=%s",
-    "description": "Twitter",
-    "category": "Online Services",
-    "subcategory": "Social"
   },
   {
     "bang": "twitch",
@@ -94264,44 +94216,12 @@
     "subcategory": "Games (general)"
   },
   {
-    "bang": "twitter",
-    "domain": "https://twitter.com",
-    "url": "https://twitter.com/search?q=%s",
-    "description": "Twitter",
-    "category": "Online Services",
-    "subcategory": "Social"
-  },
-  {
-    "bang": "twitters",
-    "domain": "https://twitter.com",
-    "url": "https://twitter.com/%s",
-    "description": "Twitter User",
-    "category": "Online Services",
-    "subcategory": "Social"
-  },
-  {
-    "bang": "twitteruser",
-    "domain": "https://twitter.com",
-    "url": "https://twitter.com/%s",
-    "description": "Twitter User",
-    "category": "Online Services",
-    "subcategory": "Social"
-  },
-  {
     "bang": "twittv",
     "domain": "https://twit.tv",
     "url": "https://twit.tv/search/%s",
     "description": "TWiT",
     "category": "Multimedia",
     "subcategory": "Video"
-  },
-  {
-    "bang": "twl",
-    "domain": "https://twitter.com",
-    "url": "https://twitter.com/search?f=tweets&vertical=news&q=%s",
-    "description": "Twitter Latest",
-    "category": "Online Services",
-    "subcategory": "Search (Real-time)"
   },
   {
     "bang": "twlb",
@@ -104910,6 +104830,14 @@
     "description": "Xiami",
     "category": "Entertainment",
     "subcategory": "Audio"
+  },
+  {
+    "bang": "xid",
+    "domain": "https://x.com",
+    "url": "https://x.com/intent/user?user_id=%s",
+    "description": "X User ID",
+    "category": "Online Services",
+    "subcategory": "Social"
   },
   {
     "bang": "xing",

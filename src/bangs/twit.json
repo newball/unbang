@@ -1,8 +1,0 @@
-{
-  "bang": "twit",
-  "domain": "https://twitter.com",
-  "url": "https://twitter.com/search?q=%s",
-  "description": "Twitter",
-  "category": "Online Services",
-  "subcategory": "Social"
-}

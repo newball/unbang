@@ -1,0 +1,8 @@
+{
+  "bang": "#x",
+  "domain": "https://x.com",
+  "url": "https://x.com/search?q=%23%s",
+  "description": "X Hashtags",
+  "category": "Online Services",
+  "subcategory": "Social"
+}

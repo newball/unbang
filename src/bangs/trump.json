@@ -1,8 +1,0 @@
-{
-  "bang": "trump",
-  "domain": "https://twitter.com",
-  "url": "https://twitter.com/search?q=from%3Arealdonaldtrump%20%s&src=typd",
-  "description": "Donald Trump's Twitter",
-  "category": "Online Services",
-  "subcategory": "Social"
-}

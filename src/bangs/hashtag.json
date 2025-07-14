@@ -1,8 +1,0 @@
-{
-  "bang": "hashtag",
-  "domain": "https://twitter.com",
-  "url": "https://twitter.com/search?q=%23%s",
-  "description": "Twitter Hashtags",
-  "category": "Online Services",
-  "subcategory": "Social"
-}

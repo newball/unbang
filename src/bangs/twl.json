@@ -1,8 +1,0 @@
-{
-  "bang": "twl",
-  "domain": "https://twitter.com",
-  "url": "https://twitter.com/search?f=tweets&vertical=news&q=%s",
-  "description": "Twitter Latest",
-  "category": "Online Services",
-  "subcategory": "Search (Real-time)"
-}

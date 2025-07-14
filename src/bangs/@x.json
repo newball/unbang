@@ -1,0 +1,8 @@
+{
+  "bang": "@x",
+  "domain": "https://x.com",
+  "url": "https://x.com/%s",
+  "description": "X User Page",
+  "category": "News",
+  "subcategory": "International"
+}

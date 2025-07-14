@@ -1,0 +1,8 @@
+{
+  "bang": "xid",
+  "domain": "https://x.com",
+  "url": "https://x.com/intent/user?user_id=%s",
+  "description": "X User ID",
+  "category": "Online Services",
+  "subcategory": "Social"
+}
