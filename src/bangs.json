@@ -8272,22 +8272,6 @@
     "subcategory": "Learning"
   },
   {
-    "bang": "bangs",
-    "domain": "https://duckduckgo.com",
-    "url": "https://duckduckgo.com/bang?q=%s",
-    "description": "Search all !bangs",
-    "category": "Online Services",
-    "subcategory": "Search (DDG)"
-  },
-  {
-    "bang": "banned",
-    "domain": "https://banned.video",
-    "url": "https://banned.video/?q=%s",
-    "description": "banned.video",
-    "category": "News",
-    "subcategory": "Online"
-  },
-  {
     "bang": "banq",
     "domain": "https://www.banq.qc.ca",
     "url": "http://www.banq.qc.ca/techno/recherche/rms.html?keyword=%s&Recherche=tout&fonction=chercher&afficherPortail=checked&afficherIris=checked&afficherPistard=checked&afficherColNum=checked",
