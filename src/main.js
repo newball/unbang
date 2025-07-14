@@ -1,4 +1,11 @@
+// Font importing 
+import "@fontsource/inter/400.css"; // Regular
+import "@fontsource/inter/600.css"; // Semi-Bold
+import "@fontsource/inter/700.css"; // Bold
+
+// Bangs importing
 import { getCachedBangs, allBangs as fullBangs } from "./bang.js";
+
 // pull our already-cached JSON bundle
 const bangs = getCachedBangs();
 
