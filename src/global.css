@@ -2,8 +2,8 @@
 	/* Color Palette */
 	--black: #0B1215;
 	--black-darker: #1a1a1a;
-	--black-transparent-10: rgba(11,18,21,.1);
-	--black-transparent-5: rgba(11,18,21,.05);
+	--black-transparent-10: rgba(11, 18, 21, .1);
+	--black-transparent-5: rgba(11, 18, 21, .05);
 	--blue: #0066CC;
 	--blue-dark: #004A99;
 	--gray-dark: #495057;
@@ -12,9 +12,9 @@
 	--gray-medium: #666666;
 	--gray-medium-dark: #333333;
 	--white: #FAFAFA;
-	--white-transparent: rgba(245,245,245,0.9);
-	--white-transparent-10: rgba(245,245,245,0.1);
-	--white-transparent-5: rgba(245,245,245,0.05);
+	--white-transparent: rgba(245, 245, 245, 0.9);
+	--white-transparent-10: rgba(245, 245, 245, 0.1);
+	--white-transparent-5: rgba(245, 245, 245, 0.05);
 
 	font-family:
 		Inter,
@@ -153,45 +153,71 @@ textarea {
 	position: absolute;
 	left: 50%;
 	transform: translate(-50%, 5%);
-	border: 1px solid var(--gray-lightest);
-	border-radius: 8px;
 	width: 100%;
-	max-width: 75%;
+	max-width: 800px;
 	max-height: 200px;
 	overflow-y: auto;
 	margin-top: 4px;
 	z-index: 10;
+}
 
-	table {
-		width: 100%;
-		border-collapse: collapse;
+/* Pills list styling for both bangs and suggestions */
+.bang-list {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(200px, 350px));
+	gap: 12px;
+	justify-content: center;
+
+	.suggestions & {
+		grid-template-columns: repeat(auto-fit, minmax(150px, 375px));
+		gap: 12px;
 	}
 
-	th,
-	td {
-		padding: 8px;
-		text-align: left;
-	}
-
-	tbody tr:hover {
-		background-color: var(--gray-lightest);
+	.bang-pill {
+		background-color: var(--black-transparent-5);
+		border: 1px solid var(--black-transparent-10);
 		color: var(--black-darker);
-	}
+		border-radius: 10px;
+		padding: 10px;
+		display: grid;
+		grid-template-columns: minmax(50%, 1fr) minmax(40%, 1fr);
+		grid-template-rows: auto auto;
+		grid-template-areas:
+			"description bang"
+			"category domain";
+		gap: 4px 10px;
+		align-items: center;
+		box-sizing: border-box;
 
-	.table-container {
-		position: absolute;
-		left: 0;
-		display: block;
-		width: 100%;
-		margin-top: 16px;
-		overflow-x: auto;
-	}
+		div {
+			overflow-wrap: break-word;
+			white-space: normal;
+			align-self: start;
+		}
 
-	.table-bang-results {
-		max-width: 800px;
-		margin: 0 auto;
-		table-layout: auto;
-		text-align: left;
+		.description {
+			grid-area: description;
+			color: var(--gray-medium-dark);
+		}
+
+		.bang {
+			grid-area: bang;
+			font-weight: 700;
+		}
+
+		.category,
+		.domain {
+			font-size: 0.75em;
+		}
+
+		.category {
+			grid-area: category;
+		}
+
+		.domain {
+			grid-area: domain;
+			color: var(--gray-medium);
+		}
 	}
 }
 
@@ -211,7 +237,7 @@ textarea {
 		text-decoration: none;
 		font-weight: 500;
 	}
-	
+
 	a:hover {
 		color: var(--blue-dark);
 	}
@@ -220,63 +246,6 @@ textarea {
 .bang-list-container {
 	width: 100%;
 	margin-top: 16px;
-
-	.bang-list {
-		display: grid;
-		grid-template-columns: repeat(3, minmax(200px, 350px));
-		gap: 12px;
-		justify-content: center;
-
-		.bang-pill {
-			background-color: var(--black-transparent-5);
-			border: 1px solid var(--black-transparent-10);
-			color: var(--black-darker);
-
-			border-radius: 10px;
-			padding: 10px;
-			display: grid;
-			grid-template-columns: minmax(50%, 1fr) minmax(40%, 1fr);
-			grid-template-rows: auto auto;
-			grid-template-areas:
-				"description bang"
-				"category domain";
-			gap: 4px 10px;
-			align-items: center;
-			box-sizing: border-box;
-
-			div {
-  				overflow-wrap: break-word;
-				white-space: normal;
-				align-self: start;
-			}
-
-			.description {
-				grid-area: description;
-				color: var(--gray-medium-dark);
-			}
-		
-			.bang {
-				grid-area: bang;
-				font-weight: 700;
-			}
-
-			.category,
-			.domain {
-				font-size: 0.75em;
-			}
-
-			.category {
-				grid-area: category;
-			}
-
-			.domain {
-				grid-area: domain;
-				color: var(--gray-medium);
-			}
-
-
-		}
-	}
 }
 
 /* Utility Classes */
@@ -295,7 +264,7 @@ textarea {
 }
 
 .display-inline {
- display: inline;
+	display: inline;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -314,13 +283,14 @@ textarea {
 	a:hover {
 		color: var(--gray-medium-dark);
 	}
+
 	.footer,
 	.footer a {
 		color: var(--gray-medium);
 	}
 
 	.footer {
-		background-color: rgba(19,19,19,1);
+		background-color: rgba(19, 19, 19, 1);
 	}
 
 	.footer a:hover {
@@ -332,8 +302,9 @@ textarea {
 	.button svg {
 		filter: invert(1);
 	}
-	
+
 	.form-container {
+
 		.input-url,
 		.bang-filter {
 			border-color: var(--gray-medium-dark);
@@ -352,11 +323,12 @@ textarea {
 		}
 	}
 
-	.bang-list-container {
+	.bang-list-container,
+	.suggestions {
 		.bang-list {
 			.bang-pill {
-				border-color: rgba(245,245,245,0.05);
-				background-color: rgba(245,245,245,0.01);
+				border-color: rgba(245, 245, 245, 0.05);
+				background-color: rgba(245, 245, 245, 0.01);
 
 				.description,
 				.bang {
