@@ -56,16 +56,20 @@ document.addEventListener('DOMContentLoaded', () => {
 	};
 	const customUrl = `${location.origin}?q=%s`;
 
-	// Copy/search button logic (only on home page)
+	// Copy/search button logic
 	if (inputButton && urlInput) {
 		const updateButton = () => {
 			const searching = urlInput.value.trim().length > 0;
 			inputButton.dataset.mode = searching ? 'search' : 'copy';
+
 			icons.unclicked.classList.toggle('display-inline', !searching);
 			icons.unclicked.classList.toggle('hidden', searching);
 			icons.search.classList.toggle('display-inline', searching);
 			icons.search.classList.toggle('hidden', !searching);
 			icons.clicked.classList.replace('display-inline', 'hidden');
+
+			// ← Add this line to toggle aria-label
+			inputButton.setAttribute('aria-label', searching ? 'Search' : 'Copy shareable URL');
 		};
 
 		urlInput.placeholder = `Search here or click to copy ${customUrl}`;
@@ -73,6 +77,9 @@ document.addEventListener('DOMContentLoaded', () => {
 		urlInput.addEventListener('keydown', e => {
 			if (e.key === 'Enter' && urlInput.value.trim()) doRedirect(urlInput.value);
 		});
+
+		// initialize button state on load
+		updateButton();
 
 		inputButton.addEventListener('click', async () => {
 			if (inputButton.dataset.mode === 'copy') {
@@ -125,6 +132,7 @@ document.addEventListener('DOMContentLoaded', () => {
 			else suggestionBox.classList.add('hidden');
 		}
 		urlInput.addEventListener('input', updateSuggestions);
+		urlInput.addEventListener('input', debounce(updateSuggestions));
 		suggestionList.addEventListener('click', e => {
 			const pill = e.target.closest('.bang-pill');
 			if (pill && pill.dataset.bang) {
