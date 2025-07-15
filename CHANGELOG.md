@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.  
 This project adheres to [Semantic Versioning](https://semver.org/) and uses the format defined by [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## (0.3.1) - 2025-07-15
+
+### Fixed
+
+- A fun small deployment bug. Nothing to see here... move along.
+
 ## (0.3.0) - 2025-07-15
 
 ### Added
