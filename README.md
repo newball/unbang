@@ -1,21 +1,61 @@
 # Unbang
 
-Forked from Theo's idea, [unduck](https://github.com/t3dotgg/unduck), this aims to create a search engine with bang redirects that are served on the client side.
+Forked from Theo’s idea, [unduck](https://github.com/t3dotgg/unduck), Unbang is a client-side "bang" redirect engine that aims to be faster than DuckDuckGo’s server-side implementation.
 
-This enables the bangs that DuckDuckGo uses to work, but be much faster.
+## Why is it faster (and how does it differ from unduck)?
 
-Simply add the following URL as a custom search engine to your browser.
+- DuckDuckGo processes bangs _server_-side, introducing DNS latency on each query.
+- unduck moved the logic _client_-side; Unbang builds on that by:
+  - Using browser `localStorage` for caching redirect patterns.
+  - Stripping out TypeScript in favor of a lightweight, vanilla JS core.
+  - Providing a single-file bundle you can drop into any static host.
 
-```
-https://unbang.link?q=%s
-```
+## How to Use Unbang
 
-## How is it that much faster (and different thank unduck)?
+Add the following as a **Custom Search Engine** in your browser:
+   - Name: Unbang
+   - Search URL:  
+     ```
+     https://unbang.link/?q=%s
+     ```
 
-DuckDuckGo does their redirects server side which requires going through their DNS which can be really slow at times.
+## To Self-Host Your Own 
 
-This was originally solved by [Theo](https://github.com/t3dotgg) by doing all of the work client side.
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/newball/unbang.git
+   cd unbang
+   ```
+2. Serve the folder (e.g. via `http-server`, `serve`, or any static host):
+   ```bash
+   npx http-server .
+   ```
+3. Add the following as a **Custom Search Engine** in your browser:
+   - Name: Unbang
+   - Search URL:  
+     ```
+     https://your-domain-here.com/?q=%s
+     ```
 
-I took the idea, decided to use the browsers local storage to help increase performance (among other things).
+## Usage
 
-I also removed all of the TypeScript and replaced it with vanilla JS. Because...
+- In your address bar, type:  
+  ```
+  unbang !gh copilot
+  ```  
+  This will redirect you to GitHub search for “copilot”.
+- All bang definitions are stored in `localStorage` and refreshed periodically.
+
+## Contributing
+
+1. File an issue or send a PR.
+2. Run tests:
+   ```bash
+   npm install
+   npm test
+   ```
+3. Follow the [Code of Conduct](./CODE_OF_CONDUCT.md).
+
+## License
+
+MIT :tm: Leo Newball
