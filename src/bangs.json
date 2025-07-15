@@ -1,21 +1,5 @@
 [
   {
-    "bang": "#x",
-    "domain": "https://x.com",
-    "url": "https://x.com/search?q=%23%s",
-    "description": "X Hashtags",
-    "category": "Online Services",
-    "subcategory": "Social"
-  },
-  {
-    "bang": "$",
-    "domain": "https://stockflare.com",
-    "url": "https://stockflare.com/#stocks/$%s",
-    "description": "Stockflare",
-    "category": "Online Services",
-    "subcategory": "Tools"
-  },
-  {
     "bang": "01net",
     "domain": "https://www.01net.com",
     "url": "http://www.01net.com/recherche/recherche.php?searchstring=%s&chaine=home",
@@ -91384,14 +91368,6 @@
     "subcategory": "Academic"
   },
   {
-    "bang": "ticker",
-    "domain": "https://stockflare.com",
-    "url": "https://stockflare.com/#stocks/$%s ",
-    "description": "Stockflare",
-    "category": "Tech",
-    "subcategory": "Companies"
-  },
-  {
     "bang": "ticketmaster",
     "domain": "https://www.ticketmaster.com",
     "url": "https://www.ticketmaster.com/search?q=%s",
@@ -104822,6 +104798,14 @@
     "description": "XGN",
     "category": "News",
     "subcategory": "Magazine"
+  },
+  {
+    "bang": "xhash",
+    "domain": "https://x.com",
+    "url": "https://x.com/search?q=%23%s",
+    "description": "X Hashtags",
+    "category": "Online Services",
+    "subcategory": "Social"
   },
   {
     "bang": "xiami",

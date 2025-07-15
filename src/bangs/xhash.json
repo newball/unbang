@@ -1,5 +1,5 @@
 {
-  "bang": "#x",
+  "bang": "xhash",
   "domain": "https://x.com",
   "url": "https://x.com/search?q=%23%s",
   "description": "X Hashtags",

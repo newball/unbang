@@ -5,11 +5,11 @@
 	"type": "module",
 	"scripts": {
 		"test": "echo \"No tests defined\" && exit 0",
+		"generate:bangs": "node scripts/generate-bangs.js",
 		"prebuild": "npm run generate:bangs",
 		"build": "vite build",
 		"dev": "npm run generate:bangs && vite",
-		"preview": "vite preview",
-		"generate:bangs": "node scripts/generate-bangs.js"
+		"preview": "vite preview"
 	},
 	"devDependencies": {
 		"vite": "^6.3.0"
