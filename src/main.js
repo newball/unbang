@@ -172,5 +172,4 @@ document.addEventListener('DOMContentLoaded', () => {
 			t = setTimeout(() => fn(...args), ms);
 		}
 	}
-	urlInput.addEventListener('input', debounce(updateSuggestions));
 });
