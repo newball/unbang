@@ -6,6 +6,8 @@ import "@fontsource/inter/700.css"; // Bold
 // Bangs importing
 import { getCachedBangs, allBangs as fullBangs } from "./bang.js";
 
+export { getBangredirectUrl };
+
 // pull our already-cached JSON bundle
 const bangs = getCachedBangs();
 

@@ -21,7 +21,7 @@ const MAX_RAW_LEN = 5 * 1024 * 1024; // 5 MB
  * with a direct import of your generated bundle:
  */
 import allBangs from './bangs.json';
-export { allBangs };
+export { allBangs, isValidBang, getCachedBangs };
 
 /**
  * @description Check if the item is a valid bang object

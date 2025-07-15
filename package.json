@@ -4,7 +4,7 @@
 	"version": "0.2.4",
 	"type": "module",
 	"scripts": {
-		"test": "echo \"No tests defined\" && exit 0",
+		"test": "vitest",
 		"generate:bangs": "node scripts/generate-bangs.js",
 		"prebuild": "npm run generate:bangs",
 		"build": "vite build",
@@ -12,7 +12,9 @@
 		"preview": "vite preview"
 	},
 	"devDependencies": {
-		"vite": "^6.3.0"
+		"jsdom": "^26.1.0",
+		"vite": "^6.3.0",
+		"vitest": "^3.2.4"
 	},
 	"dependencies": {
 		"@fontsource-variable/inter": "^5.2.6",
