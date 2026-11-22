@@ -61928,30 +61928,6 @@
     "subcategory": "Forum"
   },
   {
-    "bang": "msa",
-    "domain": "https://academic.microsoft.com",
-    "url": "https://academic.microsoft.com/search?q=%s",
-    "description": "Microsoft Academic",
-    "category": "Research",
-    "subcategory": "Academic"
-  },
-  {
-    "bang": "msac",
-    "domain": "https://academic.microsoft.com",
-    "url": "https://academic.microsoft.com/search?q=%s&f=&orderBy=0&forceFallback=true",
-    "description": "Microsoft Academic",
-    "category": "Research",
-    "subcategory": "Academic"
-  },
-  {
-    "bang": "msacademic",
-    "domain": "https://academic.research.microsoft.com",
-    "url": "http://academic.research.microsoft.com/Search?query=%s&s=0",
-    "description": "Microsoft Academic Search",
-    "category": "Research",
-    "subcategory": "Academic"
-  },
-  {
     "bang": "msammler",
     "domain": "https://www.musik-sammler.de",
     "url": "https://www.musik-sammler.de/search/%s/",

@@ -1,8 +1,0 @@
-{
-  "bang": "msacademic",
-  "domain": "https://academic.research.microsoft.com",
-  "url": "http://academic.research.microsoft.com/Search?query=%s&s=0",
-  "description": "Microsoft Academic Search",
-  "category": "Research",
-  "subcategory": "Academic"
-}
