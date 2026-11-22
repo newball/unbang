@@ -104240,6 +104240,14 @@
     "subcategory": "Weather"
   },
   {
+    "bang": "wunderlist",
+    "domain": "https://www.wunderlist.com",
+    "url": "https://www.wunderlist.com/#/search/%s",
+    "description": "Wunderlist",
+    "category": "Online Services",
+    "subcategory": "Tools"
+  },
+  {
     "bang": "wurm",
     "domain": "https://wurmpedia.com",
     "url": "http://wurmpedia.com/index.php?search=%s&fulltext=Search&title=Special%3ASearch",
