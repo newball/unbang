@@ -1,8 +1,0 @@
-{
-  "bang": "peri",
-  "domain": "https://www.periscope.tv",
-  "url": "https://www.periscope.tv/search?q=%s",
-  "description": "Periscope",
-  "category": "Multimedia",
-  "subcategory": "Video"
-}
