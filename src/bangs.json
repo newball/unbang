@@ -34256,14 +34256,6 @@
     "subcategory": "Games (general)"
   },
   {
-    "bang": "g+",
-    "domain": "https://plus.google.com",
-    "url": "https://plus.google.com/u/0/s/%s ",
-    "description": "Google Plus",
-    "category": "Online Services",
-    "subcategory": "Social"
-  },
-  {
     "bang": "g.at",
     "domain": "https://www.google.at",
     "url": "https://www.google.at/#q=%s",
