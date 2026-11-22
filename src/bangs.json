@@ -55216,14 +55216,6 @@
     "subcategory": "Video"
   },
   {
-    "bang": "liveleak",
-    "domain": "https://www.liveleak.com",
-    "url": "http://www.liveleak.com/browse?q=%s ",
-    "description": "LiveLeak",
-    "category": "Multimedia",
-    "subcategory": "Video"
-  },
-  {
     "bang": "lively",
     "domain": "https://shirts.ly",
     "url": "https://shirts.ly/shop?search=%s",
@@ -55286,14 +55278,6 @@
     "description": "LoKan.jp",
     "category": "Tech",
     "subcategory": "Blogs"
-  },
-  {
-    "bang": "ll",
-    "domain": "https://www.liveleak.com",
-    "url": "http://www.liveleak.com/browse?q=%s",
-    "description": "LiveLeak",
-    "category": "Multimedia",
-    "subcategory": "Video"
   },
   {
     "bang": "llbean",
