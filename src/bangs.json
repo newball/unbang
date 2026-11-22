@@ -60944,14 +60944,6 @@
     "subcategory": "Blogs"
   },
   {
-    "bang": "mobilefriendly",
-    "domain": "https://search.google.com",
-    "url": "https://search.google.com/test/mobile-friendly?url=%s",
-    "description": "Mobile-Friendly Test - Google",
-    "category": "Online Services",
-    "subcategory": "Tools (URLs)"
-  },
-  {
     "bang": "mobilegeeks",
     "domain": "https://www.mobilegeeks.com",
     "url": "http://www.mobilegeeks.com/?s=%s",
