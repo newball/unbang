@@ -1,0 +1,8 @@
+{
+  "bang": "sqdomains",
+  "domain": "https://domains.squarespace.com",
+  "url": "https://domains.squarespace.com/domain-search?query=%s",
+  "description": "Squarespace Domains",
+  "category": "Tech",
+  "subcategory": "Domains"
+}
