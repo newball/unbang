@@ -1,25 +1,31 @@
 {
-	"name": "unbang",
-	"private": true,
-	"version": "0.3.2",
-	"type": "module",
-	"scripts": {
-		"test": "vitest",
-		"generate:bangs": "node scripts/generate-bangs.js",
-		"prebuild": "npm run generate:bangs",
-		"build": "vite build",
-		"dev": "npm run generate:bangs && vite",
-		"preview": "vite preview"
-	},
-	"devDependencies": {
-		"jsdom": "^26.1.0",
-		"vite": "^6.3.0",
-		"vitest": "^3.2.4"
-	},
-	"dependencies": {
-		"@fontsource-variable/inter": "^5.2.6",
-		"@fontsource/inter": "^5.2.6",
-		"npm": "^11.4.2",
-		"vite-plugin-pwa": "^1.0.0"
-	}
+  "name": "unbang",
+  "private": true,
+  "version": "0.3.3",
+  "type": "module",
+  "engines": {
+    "node": "^22.12.0 || ^24.0.0 || >=26.0.0"
+  },
+  "scripts": {
+    "test": "vitest",
+    "generate:bangs": "node scripts/generate-bangs.js",
+    "prebuild": "npm run generate:bangs",
+    "build": "vite build",
+    "dev": "npm run generate:bangs && vite",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "jsdom": "^26.1.0",
+    "vite": "^6.4.6",
+    "vite-plugin-pwa": "^2.0.0",
+    "vitest": "^5.1.1"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.2.6"
+  },
+  "overrides": {
+    "workbox-build": {
+      "glob": "^14.0.6"
+    }
+  }
 }

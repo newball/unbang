@@ -3,6 +3,37 @@
 All notable changes to this project will be documented in this file.  
 This project adheres to [Semantic Versioning](https://semver.org/) and uses the format defined by [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [0.3.3] - 2026-11-22
+
+### Added
+
+- Added `!dmenu` for dmenu Web Search.
+- Added `!msqa` for Microsoft Q&A.
+- Added `!sqdomains` for Squarespace Domains.
+
+### Changed
+
+- Bumped the package version to 0.3.3.
+- Regenerated `src/bangs.json` after removing and updating bang definitions.
+- Updated the build and test toolchain to Vite 6.4.6, vite-plugin-pwa 2, and Vitest 5. Documented the supported Node.js versions and npm build workflow.
+- Switched to variable Inter font files to reduce the number of font assets.
+
+### Fixed
+
+- Included the bang directory in production builds and precached both pages with their styles, fonts, and icons for offline use.
+- Fixed search suggestions throwing while typing, prioritized bang code matches, and made bang lookups work when browser storage is unavailable or the cached catalog is empty.
+- Rendered bang metadata as text and limited cached redirect URLs to HTTP and HTTPS.
+
+### Security
+
+- Raised the minimum Vite version to include the fix for [GHSA-p4f5-76q4-ffq7](https://github.com/vitejs/vite/security/advisories/GHSA-p4f5-76q4-ffq7). Scoped the patched `glob` override to Workbox.
+
+### Removed
+
+- Removed bangs for retired or discontinued services, including Cliqz, Google Mobile-Friendly Test, LiveLeak, Fakespot, Ask.com, Amazon Prime Now, goo, Microsoft Mixer, Flattr, Microsoft Academic, Skype Community, Exalead, Wunderlist, Google Domains, Google Play Music, Funimation, Periscope, Pocket, Yahoo Answers, and Google+.
+- Consolidated and removed redundant Google+ and Yahoo Answers bang aliases.
+- Removed the pnpm lockfile.
+
 ## [0.3.2] - 2025-07-15
 
 ### Fixed
@@ -80,8 +111,8 @@ This project adheres to [Semantic Versioning](https://semver.org/) and uses the 
 ### Added
 
 - Initial `CHANGELOG.md`.
-- Client-side bang redirects powered by individual `.json` files using [DuckDuckGo styled bangs](src/bangs/readme.md).  
-- LocalStorage caching in [`cacheBangs`](src/bang.js) and retrieval via [`getCachedBangs`](src/bang.js).  
+- Client-side bang redirects powered by individual `.json` files using [DuckDuckGo styled bangs](src/bangs/readme.md).
+- LocalStorage caching in [`cacheBangs`](src/bang.js) and retrieval via [`getCachedBangs`](src/bang.js).
 - Initial documentation and example usage in [README.md](README.md).
 - Converted project typescript to vanilla JS.
 - Initial fork from [unduck](https://github.com/t3dotgg/unduck)

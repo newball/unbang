@@ -55,7 +55,7 @@ function isValidBang(item) {
 
 	try {
 		const u = new URL(url);
-		// if (!ALLOWED_PROTOCOLS.includes(u.protocol)) return false;
+		if (u.protocol !== 'https:' && u.protocol !== 'http:') return false;
 
 		// allow domain to be either a full URL or just a host
 		const domainHost = domain.includes('://')
@@ -89,16 +89,8 @@ function isBangArray(data) {
  * 
  */
 ; (function cacheBangs() {
-	// 1) bail if there's no localStorage (SSR / private mode)
-	if (typeof localStorage === 'undefined') {
-		console.warn('⚠️ localStorage is not available, skipping cacheBangs.');
-		return;
-	}
-
-	const prev = localStorage.getItem(VERSION_KEY);
-	if (prev === __APP_VERSION__) return;
-
 	try {
+		if (localStorage.getItem(VERSION_KEY) === __APP_VERSION__) return;
 		// slim ▸ only bang, url, domain
 		const slimmed = allBangs.map(({ bang, url, domain }) => ({ bang, url, domain }));
 		const serialized = JSON.stringify(slimmed);
@@ -133,12 +125,6 @@ function isBangArray(data) {
  * @returns {Bang[]}
  */
 export function getCachedBangs() {
-	// 2) bail if there's no localStorage
-	if (typeof localStorage === 'undefined') {
-		console.warn('⚠️ localStorage is not available, using uncached bangs.');
-		return allBangs;
-	}
-
 	try {
 		const localBangs = localStorage.getItem(STORE_KEY);
 		if (!localBangs || localBangs.length > MAX_RAW_LEN) throw new Error('Invalid cache');
