@@ -21,6 +21,7 @@ This project adheres to [Semantic Versioning](https://semver.org/) and uses the 
 ### Fixed
 
 - Included the bang directory in production builds and precached both pages with their styles, fonts, and icons for offline use.
+- Custom-search URLs (`/?q=...`) can use the cached search page when the Unbang host is unreachable.
 - Fixed search suggestions throwing while typing, prioritized bang code matches, and made bang lookups work when browser storage is unavailable or the cached catalog is empty.
 - Rendered bang metadata as text and limited cached redirect URLs to HTTP and HTTPS.
 

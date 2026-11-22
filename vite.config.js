@@ -24,6 +24,8 @@ export default defineConfig({
 			},
 			workbox: {
 				navigateFallback: null,
+				// Match the cached home page while leaving the search query in the browser URL.
+				ignoreURLParametersMatching: [/^utm_/, /^fbclid$/, /^q$/],
 				globPatterns: ['**/*.{html,js,css,woff2,svg,png,xml}'],
 				maximumFileSizeToCacheInBytes: 3 * 1024 * 1024,
 			}
