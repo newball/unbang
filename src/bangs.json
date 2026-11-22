@@ -71144,14 +71144,6 @@
     "subcategory": "Newspaper (intl)"
   },
   {
-    "bang": "peri",
-    "domain": "https://www.periscope.tv",
-    "url": "https://www.periscope.tv/search?q=%s",
-    "description": "Periscope",
-    "category": "Multimedia",
-    "subcategory": "Video"
-  },
-  {
     "bang": "perl",
     "domain": "https://p3rl.org",
     "url": "http://p3rl.org/%s",
