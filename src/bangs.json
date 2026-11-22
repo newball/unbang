@@ -34256,14 +34256,6 @@
     "subcategory": "Games (general)"
   },
   {
-    "bang": "g+",
-    "domain": "https://plus.google.com",
-    "url": "https://plus.google.com/u/0/s/%s ",
-    "description": "Google Plus",
-    "category": "Online Services",
-    "subcategory": "Social"
-  },
-  {
     "bang": "g.at",
     "domain": "https://www.google.at",
     "url": "https://www.google.at/#q=%s",
@@ -38894,14 +38886,6 @@
     "description": "Google Play Music",
     "category": "Multimedia",
     "subcategory": "Music"
-  },
-  {
-    "bang": "gplusp",
-    "domain": "https://www.google.com",
-    "url": "http://www.google.com/search?tbs=prfl:e&q=%s",
-    "description": "Google Plus",
-    "category": "Online Services",
-    "subcategory": "Google"
   },
   {
     "bang": "gpm",
