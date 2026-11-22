@@ -1304,14 +1304,6 @@
     "subcategory": "Libraries/Frameworks"
   },
   {
-    "bang": "aNOW",
-    "domain": "https://primenow.amazon.com",
-    "url": "https://primenow.amazon.com/search?k=%s ",
-    "description": "Amazon Prime Now",
-    "category": "Shopping",
-    "subcategory": "Online"
-  },
-  {
     "bang": "aa",
     "domain": "https://www.amazon.com",
     "url": "http://www.amazon.com/s/&url=search-alias%3Dautomotive&field-keywords=%s",
@@ -2086,14 +2078,6 @@
     "description": "PrestaShop Addons",
     "category": "Tech",
     "subcategory": "Downloads (add-ons)"
-  },
-  {
-    "bang": "addtopocket",
-    "domain": "https://getpocket.com",
-    "url": "https://getpocket.com/edit?url=%s",
-    "description": "Add to Pocket",
-    "category": "Online Services",
-    "subcategory": "Tools (URLs)"
   },
   {
     "bang": "ade",
@@ -4960,14 +4944,6 @@
     "subcategory": "Sysadmin"
   },
   {
-    "bang": "answer",
-    "domain": "https://answers.yahoo.com",
-    "url": "http://answers.yahoo.com/search/search_result;_ylt=AmLr_DtDPVmDQzOuA2T6sxAjzKIX;_ylv=3?p=%s&submit-go=Search+Y!+Answers",
-    "description": "Yahoo! Answers",
-    "category": "Online Services",
-    "subcategory": "Search"
-  },
-  {
     "bang": "answers",
     "domain": "https://www.answers.com",
     "url": "http://www.answers.com/%s",
@@ -6694,14 +6670,6 @@
     "description": "Amazon (ASIN)",
     "category": "Shopping",
     "subcategory": "Online"
-  },
-  {
-    "bang": "ask",
-    "domain": "https://www.ask.com",
-    "url": "http://www.ask.com/web?q=%s",
-    "description": "Ask.com",
-    "category": "Online Services",
-    "subcategory": "Social"
   },
   {
     "bang": "askapatient",
@@ -16184,14 +16152,6 @@
     "subcategory": "Blogs"
   },
   {
-    "bang": "cliqz",
-    "domain": "https://beta.cliqz.com",
-    "url": "https://beta.cliqz.com/search?q=%s&lang=en",
-    "description": "Cliqz",
-    "category": "Online Services",
-    "subcategory": "Search"
-  },
-  {
     "bang": "clj",
     "domain": "https://clojuredocs.org",
     "url": "https://clojuredocs.org/search?q=%s",
@@ -23392,6 +23352,14 @@
     "subcategory": "Tools"
   },
   {
+    "bang": "dmenu",
+    "domain": "https://service.smt.docomo.ne.jp",
+    "url": "https://service.smt.docomo.ne.jp/portal/search/web/result.html?q=%s",
+    "description": "dmenu Web Search",
+    "category": "Online Services",
+    "subcategory": "Search (non-US)"
+  },
+  {
     "bang": "dmf",
     "domain": "https://www.cnrtl.fr",
     "url": "http://www.cnrtl.fr/definition/dmf/%s",
@@ -29808,14 +29776,6 @@
     "subcategory": "Online"
   },
   {
-    "bang": "exalead",
-    "domain": "https://www.exalead.com",
-    "url": "http://www.exalead.com/search/web/results/?q=%s",
-    "description": "Exalead",
-    "category": "Tech",
-    "subcategory": "Companies"
-  },
-  {
     "bang": "exaled",
     "domain": "https://www.3ds.com",
     "url": "http://www.3ds.com/search/?q=%s ",
@@ -30292,22 +30252,6 @@
     "domain": "https://www.fairtragen.de",
     "url": "https://www.fairtragen.de/advanced_search_result.php?keywords=%s",
     "description": "fairtragen",
-    "category": "Shopping",
-    "subcategory": "Online"
-  },
-  {
-    "bang": "fake",
-    "domain": "https://www.fakespot.com",
-    "url": "https://www.fakespot.com/analyze?url=%s",
-    "description": "Fakespot",
-    "category": "Shopping",
-    "subcategory": "Online"
-  },
-  {
-    "bang": "fakespot",
-    "domain": "https://www.fakespot.com",
-    "url": "https://www.fakespot.com/analyze?url=%s",
-    "description": "Fakespot",
     "category": "Shopping",
     "subcategory": "Online"
   },
@@ -32160,14 +32104,6 @@
     "subcategory": "Audio"
   },
   {
-    "bang": "flattr",
-    "domain": "https://flattr.com",
-    "url": "https://flattr.com/q/%s",
-    "description": "Flattr",
-    "category": "Online Services",
-    "subcategory": "Tools"
-  },
-  {
     "bang": "fld",
     "domain": "https://www.frontlinedefenders.org",
     "url": "https://www.frontlinedefenders.org/en/search/%s",
@@ -33984,14 +33920,6 @@
     "subcategory": "Blogs"
   },
   {
-    "bang": "funi",
-    "domain": "https://www.funimation.com",
-    "url": "https://www.funimation.com/search/?q=%s",
-    "description": "Funimation",
-    "category": "Multimedia",
-    "subcategory": "Video"
-  },
-  {
     "bang": "funky",
     "domain": "https://funkytime.tv",
     "url": "https://funkytime.tv/search?q=%s",
@@ -34254,14 +34182,6 @@
     "description": "FZ",
     "category": "Entertainment",
     "subcategory": "Games (general)"
-  },
-  {
-    "bang": "g+",
-    "domain": "https://plus.google.com",
-    "url": "https://plus.google.com/u/0/s/%s ",
-    "description": "Google Plus",
-    "category": "Online Services",
-    "subcategory": "Social"
   },
   {
     "bang": "g.at",
@@ -35462,22 +35382,6 @@
     "description": "Google Docs",
     "category": "Tech",
     "subcategory": "Startups"
-  },
-  {
-    "bang": "gdomains",
-    "domain": "https://domains.google.com",
-    "url": "https://domains.google.com/registrar?s=%s",
-    "description": "Google Domains",
-    "category": "Online Services",
-    "subcategory": "Google"
-  },
-  {
-    "bang": "gdoms",
-    "domain": "https://domains.google.com",
-    "url": "https://domains.google.com/registrar?s=%s",
-    "description": "Google Domains",
-    "category": "Online Services",
-    "subcategory": "Google"
   },
   {
     "bang": "gdoodle",
@@ -37624,14 +37528,6 @@
     "subcategory": "Travel"
   },
   {
-    "bang": "gmusic",
-    "domain": "https://music.google.com",
-    "url": "http://music.google.com/music/listen?#%s_sr",
-    "description": "Google Music",
-    "category": "Online Services",
-    "subcategory": "Google"
-  },
-  {
     "bang": "gmx",
     "domain": "https://www.google.com.mx",
     "url": "https://www.google.com.mx/#q=%s",
@@ -38182,14 +38078,6 @@
     "description": "gonutss.com",
     "category": "Research",
     "subcategory": "Food"
-  },
-  {
-    "bang": "goo",
-    "domain": "https://search.goo.ne.jp",
-    "url": "http://search.goo.ne.jp/web.jsp?MT=%s&IE=UTF-8&OE=UTF-8",
-    "description": "goo検索",
-    "category": "Online Services",
-    "subcategory": "Search (non-US)"
   },
   {
     "bang": "good",
@@ -38886,46 +38774,6 @@
     "description": "Google Play Store",
     "category": "Online Services",
     "subcategory": "Google"
-  },
-  {
-    "bang": "gplaym",
-    "domain": "https://play.google.com",
-    "url": "https://play.google.com/store/search?q=%s&c=music",
-    "description": "Google Play Music",
-    "category": "Multimedia",
-    "subcategory": "Music"
-  },
-  {
-    "bang": "gplus",
-    "domain": "https://plus.google.com",
-    "url": "https://plus.google.com/s/%s",
-    "description": "Google Plus",
-    "category": "Online Services",
-    "subcategory": "Google"
-  },
-  {
-    "bang": "gplusp",
-    "domain": "https://www.google.com",
-    "url": "http://www.google.com/search?tbs=prfl:e&q=%s",
-    "description": "Google Plus",
-    "category": "Online Services",
-    "subcategory": "Google"
-  },
-  {
-    "bang": "gpm",
-    "domain": "https://play.google.com",
-    "url": "https://play.google.com/music/listen#/sr/%s",
-    "description": "Google Play Music",
-    "category": "Entertainment",
-    "subcategory": "Audio"
-  },
-  {
-    "bang": "gpmusic",
-    "domain": "https://play.google.com",
-    "url": "https://play.google.com/music/listen?u=0#/sr/%s",
-    "description": "Google Play Music",
-    "category": "Entertainment",
-    "subcategory": "Audio"
   },
   {
     "bang": "gpnz",
@@ -55216,14 +55064,6 @@
     "subcategory": "Video"
   },
   {
-    "bang": "liveleak",
-    "domain": "https://www.liveleak.com",
-    "url": "http://www.liveleak.com/browse?q=%s ",
-    "description": "LiveLeak",
-    "category": "Multimedia",
-    "subcategory": "Video"
-  },
-  {
     "bang": "lively",
     "domain": "https://shirts.ly",
     "url": "https://shirts.ly/shop?search=%s",
@@ -55286,14 +55126,6 @@
     "description": "LoKan.jp",
     "category": "Tech",
     "subcategory": "Blogs"
-  },
-  {
-    "bang": "ll",
-    "domain": "https://www.liveleak.com",
-    "url": "http://www.liveleak.com/browse?q=%s",
-    "description": "LiveLeak",
-    "category": "Multimedia",
-    "subcategory": "Video"
   },
   {
     "bang": "llbean",
@@ -60944,14 +60776,6 @@
     "subcategory": "Blogs"
   },
   {
-    "bang": "mobilefriendly",
-    "domain": "https://search.google.com",
-    "url": "https://search.google.com/test/mobile-friendly?url=%s",
-    "description": "Mobile-Friendly Test - Google",
-    "category": "Online Services",
-    "subcategory": "Tools (URLs)"
-  },
-  {
     "bang": "mobilegeeks",
     "domain": "https://www.mobilegeeks.com",
     "url": "http://www.mobilegeeks.com/?s=%s",
@@ -61928,30 +61752,6 @@
     "subcategory": "Forum"
   },
   {
-    "bang": "msa",
-    "domain": "https://academic.microsoft.com",
-    "url": "https://academic.microsoft.com/search?q=%s",
-    "description": "Microsoft Academic",
-    "category": "Research",
-    "subcategory": "Academic"
-  },
-  {
-    "bang": "msac",
-    "domain": "https://academic.microsoft.com",
-    "url": "https://academic.microsoft.com/search?q=%s&f=&orderBy=0&forceFallback=true",
-    "description": "Microsoft Academic",
-    "category": "Research",
-    "subcategory": "Academic"
-  },
-  {
-    "bang": "msacademic",
-    "domain": "https://academic.research.microsoft.com",
-    "url": "http://academic.research.microsoft.com/Search?query=%s&s=0",
-    "description": "Microsoft Academic Search",
-    "category": "Research",
-    "subcategory": "Academic"
-  },
-  {
     "bang": "msammler",
     "domain": "https://www.musik-sammler.de",
     "url": "https://www.musik-sammler.de/search/%s/",
@@ -62190,6 +61990,14 @@
     "description": "Morningstar Quote",
     "category": "Research",
     "subcategory": "Topical"
+  },
+  {
+    "bang": "msqa",
+    "domain": "https://learn.microsoft.com",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=%s&category=QnA",
+    "description": "Microsoft Q&A",
+    "category": "Tech",
+    "subcategory": "Programming"
   },
   {
     "bang": "msrd",
@@ -63006,14 +62814,6 @@
     "description": "musixmatch",
     "category": "Multimedia",
     "subcategory": "Music (Lyrics)"
-  },
-  {
-    "bang": "mxr",
-    "domain": "https://www.mixer.com",
-    "url": "https://www.mixer.com/%s",
-    "description": "Mixer",
-    "category": "Entertainment",
-    "subcategory": "Games (general)"
   },
   {
     "bang": "mxs",
@@ -71144,14 +70944,6 @@
     "subcategory": "Newspaper (intl)"
   },
   {
-    "bang": "peri",
-    "domain": "https://www.periscope.tv",
-    "url": "https://www.periscope.tv/search?q=%s",
-    "description": "Periscope",
-    "category": "Multimedia",
-    "subcategory": "Video"
-  },
-  {
     "bang": "perl",
     "domain": "https://p3rl.org",
     "url": "http://p3rl.org/%s",
@@ -72376,14 +72168,6 @@
     "subcategory": "Online"
   },
   {
-    "bang": "playmusic",
-    "domain": "https://play.google.com",
-    "url": "https://play.google.com/music/listen#/sr/%s",
-    "description": "https://play.google.com/music/listen#/now",
-    "category": "Multimedia",
-    "subcategory": "Music"
-  },
-  {
     "bang": "playonlinux",
     "domain": "https://duckduckgo.com",
     "url": "https://duckduckgo.com/?q=%s+site%3Aplayonlinux.com",
@@ -72784,28 +72568,12 @@
     "subcategory": "Games (specific)"
   },
   {
-    "bang": "pn",
-    "domain": "https://primenow.amazon.com",
-    "url": "https://primenow.amazon.com/search?k=%s",
-    "description": "Amazon Prime NOW",
-    "category": "Shopping",
-    "subcategory": "Online"
-  },
-  {
     "bang": "pnas",
     "domain": "https://www.pnas.org",
     "url": "http://www.pnas.org/search/%s%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard",
     "description": "Proceedings of the National Academy of Sciences",
     "category": "Research",
     "subcategory": "Reference (science)"
-  },
-  {
-    "bang": "pnde",
-    "domain": "https://primenow.amazon.de",
-    "url": "https://primenow.amazon.de/search?k=%s",
-    "description": "Amazon PrimeNow DE",
-    "category": "Shopping",
-    "subcategory": "Online"
   },
   {
     "bang": "pndr",
@@ -72822,14 +72590,6 @@
     "description": "Pick n Pay",
     "category": "Shopping",
     "subcategory": "Big box/department"
-  },
-  {
-    "bang": "pnuk",
-    "domain": "https://primenow.amazon.co.uk",
-    "url": "https://primenow.amazon.co.uk/search?k=%s",
-    "description": "Amazon Prime Now UK",
-    "category": "Shopping",
-    "subcategory": "Online"
   },
   {
     "bang": "pnw",
@@ -72862,22 +72622,6 @@
     "description": "Pokémon Central Wiki",
     "category": "Entertainment",
     "subcategory": "Games (Pokemon)"
-  },
-  {
-    "bang": "pocket",
-    "domain": "https://app.getpocket.com",
-    "url": "https://app.getpocket.com/search/%s",
-    "description": "Pocket",
-    "category": "Online Services",
-    "subcategory": "Tools"
-  },
-  {
-    "bang": "pocketexplore",
-    "domain": "https://www.getpocket.com",
-    "url": "https://www.getpocket.com/explore/%s",
-    "description": "Pocket Explore",
-    "category": "News",
-    "subcategory": "Aggregators"
   },
   {
     "bang": "pocketgamer",
@@ -75614,14 +75358,6 @@
     "description": "QL Crew",
     "category": "Entertainment",
     "subcategory": "Games (general)"
-  },
-  {
-    "bang": "qli",
-    "domain": "https://beta.cliqz.com",
-    "url": "https://beta.cliqz.com/search?q=%s",
-    "description": "Cliqz",
-    "category": "Online Services",
-    "subcategory": "Search"
   },
   {
     "bang": "qm",
@@ -80816,14 +80552,6 @@
     "subcategory": "Languages (other)"
   },
   {
-    "bang": "sask",
-    "domain": "https://www.search.ask.com",
-    "url": "http://www.search.ask.com/web?q=%s",
-    "description": "Ask.com",
-    "category": "Online Services",
-    "subcategory": "Search"
-  },
-  {
     "bang": "saturn",
     "domain": "https://www.saturn.de",
     "url": "https://www.saturn.de/de/search.html?query=%s&searchProfile=onlineshop&channel=sedede",
@@ -83848,14 +83576,6 @@
     "subcategory": "Sports"
   },
   {
-    "bang": "skypecommunity",
-    "domain": "https://community.skype.com",
-    "url": "http://community.skype.com/t5/forums/searchpage/tab/message?filter=labels%2Clocation&location=category%3AEnglish&q=%s ",
-    "description": "Skype Community",
-    "category": "Tech",
-    "subcategory": "Companies"
-  },
-  {
     "bang": "skyrock",
     "domain": "https://www.skyrock.com",
     "url": "http://www.skyrock.com/search/people/?q=%s",
@@ -86142,6 +85862,14 @@
     "description": "SQA Past papers",
     "category": "Multimedia",
     "subcategory": "Docs"
+  },
+  {
+    "bang": "sqdomains",
+    "domain": "https://domains.squarespace.com",
+    "url": "https://domains.squarespace.com/domain-search?query=%s",
+    "description": "Squarespace Domains",
+    "category": "Tech",
+    "subcategory": "Domains"
   },
   {
     "bang": "sqf",
@@ -104240,14 +103968,6 @@
     "subcategory": "Weather"
   },
   {
-    "bang": "wunderlist",
-    "domain": "https://www.wunderlist.com",
-    "url": "https://www.wunderlist.com/#/search/%s",
-    "description": "Wunderlist",
-    "category": "Online Services",
-    "subcategory": "Tools"
-  },
-  {
     "bang": "wurm",
     "domain": "https://wurmpedia.com",
     "url": "http://wurmpedia.com/index.php?search=%s&fulltext=Search&title=Special%3ASearch",
@@ -105190,14 +104910,6 @@
     "description": "yandex.ru/pogoda/",
     "category": "News",
     "subcategory": "Weather"
-  },
-  {
-    "bang": "yanswers",
-    "domain": "https://answers.yahoo.com",
-    "url": "http://answers.yahoo.com/search/search_result;_ylt=AnPnri0ekBBFsWt64sNbHmvj1KIX;_ylv=3?p=%s&submit-go=Search+Y!+Answers",
-    "description": "Yahoo! Answers",
-    "category": "Online Services",
-    "subcategory": "Social"
   },
   {
     "bang": "yaoota",
