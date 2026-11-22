@@ -1,8 +1,0 @@
-{
-  "bang": "sask",
-  "domain": "https://www.search.ask.com",
-  "url": "http://www.search.ask.com/web?q=%s",
-  "description": "Ask.com",
-  "category": "Online Services",
-  "subcategory": "Search"
-}
