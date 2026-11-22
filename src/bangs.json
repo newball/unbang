@@ -30296,6 +30296,22 @@
     "subcategory": "Online"
   },
   {
+    "bang": "fake",
+    "domain": "https://www.fakespot.com",
+    "url": "https://www.fakespot.com/analyze?url=%s",
+    "description": "Fakespot",
+    "category": "Shopping",
+    "subcategory": "Online"
+  },
+  {
+    "bang": "fakespot",
+    "domain": "https://www.fakespot.com",
+    "url": "https://www.fakespot.com/analyze?url=%s",
+    "description": "Fakespot",
+    "category": "Shopping",
+    "subcategory": "Online"
+  },
+  {
     "bang": "fallenlondon",
     "domain": "https://fallenlondon.wikia.com",
     "url": "http://fallenlondon.wikia.com/wiki/Special:Search?search=%s&fulltext=Search",
