@@ -4960,6 +4960,14 @@
     "subcategory": "Sysadmin"
   },
   {
+    "bang": "answer",
+    "domain": "https://answers.yahoo.com",
+    "url": "http://answers.yahoo.com/search/search_result;_ylt=AmLr_DtDPVmDQzOuA2T6sxAjzKIX;_ylv=3?p=%s&submit-go=Search+Y!+Answers",
+    "description": "Yahoo! Answers",
+    "category": "Online Services",
+    "subcategory": "Search"
+  },
+  {
     "bang": "answers",
     "domain": "https://www.answers.com",
     "url": "http://www.answers.com/%s",
@@ -105182,6 +105190,14 @@
     "description": "yandex.ru/pogoda/",
     "category": "News",
     "subcategory": "Weather"
+  },
+  {
+    "bang": "yanswers",
+    "domain": "https://answers.yahoo.com",
+    "url": "http://answers.yahoo.com/search/search_result;_ylt=AnPnri0ekBBFsWt64sNbHmvj1KIX;_ylv=3?p=%s&submit-go=Search+Y!+Answers",
+    "description": "Yahoo! Answers",
+    "category": "Online Services",
+    "subcategory": "Social"
   },
   {
     "bang": "yaoota",
