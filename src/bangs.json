@@ -29808,6 +29808,14 @@
     "subcategory": "Online"
   },
   {
+    "bang": "exalead",
+    "domain": "https://www.exalead.com",
+    "url": "http://www.exalead.com/search/web/results/?q=%s",
+    "description": "Exalead",
+    "category": "Tech",
+    "subcategory": "Companies"
+  },
+  {
     "bang": "exaled",
     "domain": "https://www.3ds.com",
     "url": "http://www.3ds.com/search/?q=%s ",
