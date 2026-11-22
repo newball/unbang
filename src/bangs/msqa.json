@@ -1,0 +1,8 @@
+{
+  "bang": "msqa",
+  "domain": "https://learn.microsoft.com",
+  "url": "https://learn.microsoft.com/en-us/search/?terms=%s&category=QnA",
+  "description": "Microsoft Q&A",
+  "category": "Tech",
+  "subcategory": "Programming"
+}
