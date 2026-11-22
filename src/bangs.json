@@ -6696,6 +6696,14 @@
     "subcategory": "Online"
   },
   {
+    "bang": "ask",
+    "domain": "https://www.ask.com",
+    "url": "http://www.ask.com/web?q=%s",
+    "description": "Ask.com",
+    "category": "Online Services",
+    "subcategory": "Social"
+  },
+  {
     "bang": "askapatient",
     "domain": "https://www.askapatient.com",
     "url": "http://www.askapatient.com/searchresults.asp?searchField=%s ",
@@ -80806,6 +80814,14 @@
     "description": "SAS",
     "category": "Tech",
     "subcategory": "Languages (other)"
+  },
+  {
+    "bang": "sask",
+    "domain": "https://www.search.ask.com",
+    "url": "http://www.search.ask.com/web?q=%s",
+    "description": "Ask.com",
+    "category": "Online Services",
+    "subcategory": "Search"
   },
   {
     "bang": "saturn",
