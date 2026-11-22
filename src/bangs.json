@@ -1304,6 +1304,14 @@
     "subcategory": "Libraries/Frameworks"
   },
   {
+    "bang": "aNOW",
+    "domain": "https://primenow.amazon.com",
+    "url": "https://primenow.amazon.com/search?k=%s ",
+    "description": "Amazon Prime Now",
+    "category": "Shopping",
+    "subcategory": "Online"
+  },
+  {
     "bang": "aa",
     "domain": "https://www.amazon.com",
     "url": "http://www.amazon.com/s/&url=search-alias%3Dautomotive&field-keywords=%s",
@@ -72776,12 +72784,28 @@
     "subcategory": "Games (specific)"
   },
   {
+    "bang": "pn",
+    "domain": "https://primenow.amazon.com",
+    "url": "https://primenow.amazon.com/search?k=%s",
+    "description": "Amazon Prime NOW",
+    "category": "Shopping",
+    "subcategory": "Online"
+  },
+  {
     "bang": "pnas",
     "domain": "https://www.pnas.org",
     "url": "http://www.pnas.org/search/%s%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard",
     "description": "Proceedings of the National Academy of Sciences",
     "category": "Research",
     "subcategory": "Reference (science)"
+  },
+  {
+    "bang": "pnde",
+    "domain": "https://primenow.amazon.de",
+    "url": "https://primenow.amazon.de/search?k=%s",
+    "description": "Amazon PrimeNow DE",
+    "category": "Shopping",
+    "subcategory": "Online"
   },
   {
     "bang": "pndr",
@@ -72798,6 +72822,14 @@
     "description": "Pick n Pay",
     "category": "Shopping",
     "subcategory": "Big box/department"
+  },
+  {
+    "bang": "pnuk",
+    "domain": "https://primenow.amazon.co.uk",
+    "url": "https://primenow.amazon.co.uk/search?k=%s",
+    "description": "Amazon Prime Now UK",
+    "category": "Shopping",
+    "subcategory": "Online"
   },
   {
     "bang": "pnw",
