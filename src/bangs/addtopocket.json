@@ -1,8 +1,0 @@
-{
-  "bang": "addtopocket",
-  "domain": "https://getpocket.com",
-  "url": "https://getpocket.com/edit?url=%s",
-  "description": "Add to Pocket",
-  "category": "Online Services",
-  "subcategory": "Tools (URLs)"
-}
