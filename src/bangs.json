@@ -2088,14 +2088,6 @@
     "subcategory": "Downloads (add-ons)"
   },
   {
-    "bang": "addtopocket",
-    "domain": "https://getpocket.com",
-    "url": "https://getpocket.com/edit?url=%s",
-    "description": "Add to Pocket",
-    "category": "Online Services",
-    "subcategory": "Tools (URLs)"
-  },
-  {
     "bang": "ade",
     "domain": "https://www.amazon.de",
     "url": "https://www.amazon.de/s?k=%s",
@@ -72862,22 +72854,6 @@
     "description": "Pokémon Central Wiki",
     "category": "Entertainment",
     "subcategory": "Games (Pokemon)"
-  },
-  {
-    "bang": "pocket",
-    "domain": "https://app.getpocket.com",
-    "url": "https://app.getpocket.com/search/%s",
-    "description": "Pocket",
-    "category": "Online Services",
-    "subcategory": "Tools"
-  },
-  {
-    "bang": "pocketexplore",
-    "domain": "https://www.getpocket.com",
-    "url": "https://www.getpocket.com/explore/%s",
-    "description": "Pocket Explore",
-    "category": "News",
-    "subcategory": "Aggregators"
   },
   {
     "bang": "pocketgamer",
