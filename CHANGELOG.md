@@ -10,31 +10,29 @@ This project adheres to [Semantic Versioning](https://semver.org/) and uses the 
 - Added `!dmenu` for dmenu Web Search.
 - Added `!msqa` for Microsoft Q&A.
 - Added `!sqdomains` for Squarespace Domains.
-- Added production checks for multipage service-worker routing, offline custom searches, the 3 MiB precache limit, and Workbox’s patched `glob` dependency. GitHub Actions uploads the built site and the test report.
+- Added Chromium and WebKit checks for the production build, including offline routing and the 3 MiB per-file precache limit. GitHub Actions uploads the built site and JUnit results.
 
 ### Changed
 
-- Bumped the package version to 0.3.3.
-- Regenerated `src/bangs.json` after removing and updating bang definitions.
-- Updated the build and test toolchain to Vite 6.4.6, vite-plugin-pwa 2, and Vitest 5. Documented the supported Node.js versions and npm build workflow.
-- Switched to variable Inter font files to reduce the number of font assets.
+- Updated the build and test toolchain to Vite 6.4.6, vite-plugin-pwa 2, and Vitest 5. Documented supported Node.js versions (22.12+ within 22.x, 24.x, and 26+) and how to build and serve `dist/`.
+- Served a single variable Inter font family locally on both pages and removed the bang directory’s Google Fonts request.
+- Updated the web app manifest with Unbang branding and local icons.
 
 ### Fixed
 
-- Included the bang directory in production builds and precached both pages with their styles, fonts, and icons for offline use.
-- Custom-search URLs (`/?q=...`) can use the cached search page when the Unbang host is unreachable.
-- Fixed search suggestions throwing while typing, prioritized bang code matches, and made bang lookups work when browser storage is unavailable or the cached catalog is empty.
-- Rendered bang metadata as text and limited cached redirect URLs to HTTP and HTTPS.
+- Included the bang directory in production builds. Once the service worker has cached the site, both pages can load and custom-search URLs (`/?q=...`) can resolve redirects when the Unbang host is unreachable.
+- Fixed errors while typing search suggestions. Suggestions now support codes with punctuation and prioritize exact and prefix matches.
+- Fixed bang lookups when browser storage is unavailable or the cached catalog is empty.
 
 ### Security
 
-- Raised the minimum Vite version to include the fix for [GHSA-p4f5-76q4-ffq7](https://github.com/vitejs/vite/security/advisories/GHSA-p4f5-76q4-ffq7). Scoped the patched `glob` override to Workbox.
+- Raised the minimum Vite version to include the fix for [GHSA-p4f5-76q4-ffq7](https://github.com/vitejs/vite/security/advisories/GHSA-p4f5-76q4-ffq7) and scoped the patched `glob` override to Workbox, with a test that checks the resolved version.
+- Rendered bang metadata as plain text and limited cached redirect URLs to HTTP and HTTPS, with regression tests for allowed and rejected protocols.
 
 ### Removed
 
-- Removed bangs for retired or discontinued services, including Cliqz, Google Mobile-Friendly Test, LiveLeak, Fakespot, Ask.com, Amazon Prime Now, goo, Microsoft Mixer, Flattr, Microsoft Academic, Skype Community, Exalead, Wunderlist, Google Domains, Google Play Music, Funimation, Periscope, Pocket, Yahoo Answers, and Google+.
-- Consolidated and removed redundant Google+ and Yahoo Answers bang aliases.
-- Removed the pnpm lockfile.
+- Removed 39 bangs and aliases for retired services and features, including Amazon Prime Now, Ask.com, Cliqz, Exalead, Fakespot, Flattr, Funimation, goo Web Search, Google Domains, Google Mobile-Friendly Test, Google Play Music, Google+, LiveLeak, Microsoft Academic, Mixer, Periscope, Pocket, Skype Community, Wunderlist, and Yahoo Answers.
+- Removed the pnpm lockfile and the bundled `npm` dependency. Installs use the npm lockfile.
 
 ## [0.3.2] - 2025-07-15
 

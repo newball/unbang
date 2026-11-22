@@ -16,7 +16,7 @@ jobs:
           node-version: 24
           cache: npm
       - run: npm ci
-      - run: npx playwright install --with-deps --only-shell chromium
+      - run: npx playwright install --with-deps --only-shell chromium webkit
       - run: npm run test:production
       - run: npm test -- --run
       - uses: actions/upload-artifact@v7

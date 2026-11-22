@@ -58,10 +58,10 @@ Add the following as a **Custom Search Engine** in your browser:
    ```
 3. Follow the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
-To verify the built pages, Workbox's dependency override, and custom searches with the app host offline, install Chromium and run the production tests:
+To verify the built pages, Workbox's dependency override, and custom searches with the app host offline, install Playwright's Chromium and WebKit browsers and run the production tests:
 
 ```bash
-npx playwright install --only-shell chromium
+npx playwright install --only-shell chromium webkit
 npm run test:production
 ```
 
