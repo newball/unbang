@@ -10,6 +10,7 @@ This project adheres to [Semantic Versioning](https://semver.org/) and uses the 
 - Added `!dmenu` for dmenu Web Search.
 - Added `!msqa` for Microsoft Q&A.
 - Added `!sqdomains` for Squarespace Domains.
+- Added production checks for multipage service-worker routing, offline custom searches, the 3 MiB precache limit, and Workbox’s patched `glob` dependency. GitHub Actions uploads the built site and the test report.
 
 ### Changed
 

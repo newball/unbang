@@ -58,6 +58,15 @@ Add the following as a **Custom Search Engine** in your browser:
    ```
 3. Follow the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
+To verify the built pages, Workbox's dependency override, and custom searches with the app host offline, install Chromium and run the production tests:
+
+```bash
+npx playwright install --only-shell chromium
+npm run test:production
+```
+
+The GitHub Actions verification job runs these checks and uploads `dist/` and `production-test-results.xml` as the `production-verification` artifact.
+
 ## License
 
 MIT :tm: Leo Newball
