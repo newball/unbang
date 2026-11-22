@@ -1,0 +1,8 @@
+{
+  "bang": "dmenu",
+  "domain": "https://service.smt.docomo.ne.jp",
+  "url": "https://service.smt.docomo.ne.jp/portal/search/web/result.html?q=%s",
+  "description": "dmenu Web Search",
+  "category": "Online Services",
+  "subcategory": "Search (non-US)"
+}
