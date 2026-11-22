@@ -16184,14 +16184,6 @@
     "subcategory": "Blogs"
   },
   {
-    "bang": "cliqz",
-    "domain": "https://beta.cliqz.com",
-    "url": "https://beta.cliqz.com/search?q=%s&lang=en",
-    "description": "Cliqz",
-    "category": "Online Services",
-    "subcategory": "Search"
-  },
-  {
     "bang": "clj",
     "domain": "https://clojuredocs.org",
     "url": "https://clojuredocs.org/search?q=%s",
@@ -75614,14 +75606,6 @@
     "description": "QL Crew",
     "category": "Entertainment",
     "subcategory": "Games (general)"
-  },
-  {
-    "bang": "qli",
-    "domain": "https://beta.cliqz.com",
-    "url": "https://beta.cliqz.com/search?q=%s",
-    "description": "Cliqz",
-    "category": "Online Services",
-    "subcategory": "Search"
   },
   {
     "bang": "qm",
