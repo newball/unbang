@@ -37624,14 +37624,6 @@
     "subcategory": "Travel"
   },
   {
-    "bang": "gmusic",
-    "domain": "https://music.google.com",
-    "url": "http://music.google.com/music/listen?#%s_sr",
-    "description": "Google Music",
-    "category": "Online Services",
-    "subcategory": "Google"
-  },
-  {
     "bang": "gmx",
     "domain": "https://www.google.com.mx",
     "url": "https://www.google.com.mx/#q=%s",
@@ -38888,14 +38880,6 @@
     "subcategory": "Google"
   },
   {
-    "bang": "gplaym",
-    "domain": "https://play.google.com",
-    "url": "https://play.google.com/store/search?q=%s&c=music",
-    "description": "Google Play Music",
-    "category": "Multimedia",
-    "subcategory": "Music"
-  },
-  {
     "bang": "gplus",
     "domain": "https://plus.google.com",
     "url": "https://plus.google.com/s/%s",
@@ -38910,22 +38894,6 @@
     "description": "Google Plus",
     "category": "Online Services",
     "subcategory": "Google"
-  },
-  {
-    "bang": "gpm",
-    "domain": "https://play.google.com",
-    "url": "https://play.google.com/music/listen#/sr/%s",
-    "description": "Google Play Music",
-    "category": "Entertainment",
-    "subcategory": "Audio"
-  },
-  {
-    "bang": "gpmusic",
-    "domain": "https://play.google.com",
-    "url": "https://play.google.com/music/listen?u=0#/sr/%s",
-    "description": "Google Play Music",
-    "category": "Entertainment",
-    "subcategory": "Audio"
   },
   {
     "bang": "gpnz",
@@ -72374,14 +72342,6 @@
     "description": "Custom Playground Equipment",
     "category": "Shopping",
     "subcategory": "Online"
-  },
-  {
-    "bang": "playmusic",
-    "domain": "https://play.google.com",
-    "url": "https://play.google.com/music/listen#/sr/%s",
-    "description": "https://play.google.com/music/listen#/now",
-    "category": "Multimedia",
-    "subcategory": "Music"
   },
   {
     "bang": "playonlinux",
