@@ -1,8 +1,0 @@
-{
-  "bang": "bookdepository",
-  "domain": "https://www.bookdepository.com",
-  "url": "https://www.bookdepository.com/search?searchTerm=%s&search=Find+book",
-  "description": "BookDepository",
-  "category": "Shopping",
-  "subcategory": "Online (intl)"
-}
