@@ -1,8 +1,0 @@
-{
-  "bang": "yum",
-  "domain": "https://www.yummly.com",
-  "url": "http://www.yummly.com/recipes?q=%s",
-  "description": "Yummly",
-  "category": "Research",
-  "subcategory": "Food"
-}
