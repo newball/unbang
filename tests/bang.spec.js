@@ -1,4 +1,4 @@
-import { describe, it, expect, beforeEach, vi } from 'vitest';
+import { describe, it, expect, beforeEach, afterEach, vi } from 'vitest';
 import { isValidBang, getCachedBangs, allBangs } from '../src/bang.js';
 
 describe('isValidBang edge cases', () => {
@@ -68,6 +68,9 @@ describe('getCachedBangs additional scenarios', () => {
 	beforeEach(() => {
 		vi.resetModules();
 	});
+	afterEach(() => {
+		vi.unstubAllGlobals();
+	});
 
 	it('falls back to defaults when stored value is null', async () => {
 		vi.stubGlobal('localStorage', {
@@ -95,6 +98,20 @@ describe('getCachedBangs additional scenarios', () => {
 		});
 		const { getCachedBangs } = await import('../src/bang.js');
 		expect(getCachedBangs()).toEqual(allBangs);
+	});
+
+	it.each(['http', 'https'])('uses a cached %s redirect with a matching host', protocol => {
+		const bang = { bang: 'x', domain: 'example.com', url: `${protocol}://example.com/search?q=%s` };
+		vi.stubGlobal('localStorage', { getItem: () => JSON.stringify([bang]) });
+
+		expect(getCachedBangs()).toEqual([bang]);
+	});
+
+	it.each(['ftp', 'ws'])('rejects a cached %s redirect even when its host matches', protocol => {
+		const bang = { bang: 'x', domain: 'example.com', url: `${protocol}://example.com/search?q=%s` };
+		vi.stubGlobal('localStorage', { getItem: () => JSON.stringify([bang]) });
+
+		expect(getCachedBangs()).toBe(allBangs);
 	});
 
 	it('falls back on parse error', async () => {

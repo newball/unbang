@@ -1,7 +1,4 @@
-// Font importing 
-import "@fontsource/inter/400.css"; // Regular
-import "@fontsource/inter/600.css"; // Semi-Bold
-import "@fontsource/inter/700.css"; // Bold
+import "@fontsource-variable/inter";
 
 // Bangs importing
 import { getCachedBangs, allBangs as fullBangs } from "./bang.js";
@@ -9,10 +6,16 @@ import { getCachedBangs, allBangs as fullBangs } from "./bang.js";
 export { getBangredirectUrl };
 
 // pull our already-cached JSON bundle
-const bangs = getCachedBangs();
+const cachedBangs = getCachedBangs();
+const bangs = cachedBangs.length ? cachedBangs : fullBangs;
 
-const LS_DEFAULT_BANG = localStorage.getItem("default-bang") ?? "g";
-const defaultBang = bangs.find(b => b.bang === LS_DEFAULT_BANG) || bangs[0];
+let defaultBangCode = 'g';
+try {
+	defaultBangCode = localStorage.getItem('default-bang') ?? defaultBangCode;
+} catch {
+	// Use the built-in default when browser storage is blocked.
+}
+const defaultBang = bangs.find(b => b.bang === defaultBangCode) || bangs[0];
 
 // Refactored bang redirection functions
 const getBangredirectUrl = (queryFromInput) => {
@@ -38,14 +41,22 @@ const doRedirect = (query) => {
 	if (target) location.replace(target);
 }
 
-const pillRender = ({ description = '', bang, category = '', domain }) => `
-<div class="bang-pill" data-bang="${bang}">
-  <div class="description">${description}</div>
-  <div class="bang">!${bang}</div>
-  <div class="category">${category}</div>
-  <div class="domain">${domain}</div>
-</div>
-`.trim();
+const renderPills = (container, bangs) => {
+	const fragment = document.createDocumentFragment();
+	for (const { description = '', bang, category = '', domain } of bangs) {
+		const pill = document.createElement('div');
+		pill.className = 'bang-pill';
+		pill.dataset.bang = bang;
+		for (const [className, value] of Object.entries({ description, bang: `!${bang}`, category, domain })) {
+			const field = document.createElement('div');
+			field.className = className;
+			field.textContent = value;
+			pill.append(field);
+		}
+		fragment.append(pill);
+	}
+	container.replaceChildren(fragment);
+};
 
 // Wire up the copy button on initial load
 document.addEventListener('DOMContentLoaded', () => {
@@ -105,10 +116,8 @@ document.addEventListener('DOMContentLoaded', () => {
 		const renderList = (filter = "") => {
 			const f = filter.trim().toLowerCase();
 			const items = fullBangs
-				.filter(b => b.bang.toLowerCase().includes(f) || b.domain.toLowerCase().includes(f) || (b.description && b.description.toLowerCase().includes(f)))
-				.map(pillRender)
-				.join('');
-			bangList.innerHTML = items;
+				.filter(b => b.bang.toLowerCase().includes(f) || b.domain.toLowerCase().includes(f) || (b.description && b.description.toLowerCase().includes(f)));
+			renderPills(bangList, items);
 		};
 		filterInput.addEventListener("input", () => renderList(filterInput.value));
 		renderList();
@@ -120,21 +129,22 @@ document.addEventListener('DOMContentLoaded', () => {
 		const suggestionList = document.getElementById("suggestion-list");
 		function updateSuggestions() {
 			const val = urlInput.value;
-			const m = val.match(/!(\w*)$/);
+			const m = val.match(/!(\S+)$/);
 			if (!m) {
 				suggestionBox.classList.add('hidden');
 				return;
 			}
 			const filter = m[1].toLowerCase();
+			const rank = bang => bang === filter ? 0 : bang.startsWith(filter) ? 1 : 2;
 			const matches = fullBangs
 				.filter(b => b.bang.startsWith(filter) || b.domain.toLowerCase().includes(filter) || (b.description && b.description.toLowerCase().includes(filter)))
+				.sort((a, b) => rank(a.bang) - rank(b.bang))
 				.slice(0, 10);
-			suggestionList.innerHTML = matches.map(pillRender).join('');
+			renderPills(suggestionList, matches);
 			if (matches.length) suggestionBox.classList.remove('hidden');
 			else suggestionBox.classList.add('hidden');
 		}
 		urlInput.addEventListener('input', updateSuggestions);
-		urlInput.addEventListener('input', debounce(updateSuggestions));
 		suggestionList.addEventListener('click', e => {
 			const pill = e.target.closest('.bang-pill');
 			if (pill && pill.dataset.bang) {
@@ -148,30 +158,5 @@ document.addEventListener('DOMContentLoaded', () => {
 				suggestionBox.classList.add('hidden');
 			}
 		});
-	}
-
-	const input = document.getElementById('input-search-url')
-	const suggestions = document.getElementById('bang-suggestions')
-	const list = document.getElementById('suggestion-list')
-
-	input.addEventListener('input', (e) => {
-		const val = e.target.value.trim()
-		// only show pills if val starts with "!" AND has another character
-		if (val.startsWith('!') && val.length > 1) {
-			const term = val.slice(1).toLowerCase()
-			const matches = allBangs.filter(b => b.code.startsWith(term))
-			renderPills(matches, list)
-			suggestions.classList.remove('hidden')
-		} else {
-			suggestions.classList.add('hidden')
-		}
-	})
-
-	function debounce(fn, ms=200) {
-		let t;
-		return (...args) => {
-			clearTimeout(t);
-			t = setTimeout(() => fn(...args), ms);
-		}
 	}
 });

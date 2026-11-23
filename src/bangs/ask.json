@@ -1,8 +1,0 @@
-{
-  "bang": "ask",
-  "domain": "https://www.ask.com",
-  "url": "http://www.ask.com/web?q=%s",
-  "description": "Ask.com",
-  "category": "Online Services",
-  "subcategory": "Social"
-}

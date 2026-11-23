@@ -1,8 +1,0 @@
-{
-  "bang": "liveleak",
-  "domain": "https://www.liveleak.com",
-  "url": "http://www.liveleak.com/browse?q=%s ",
-  "description": "LiveLeak",
-  "category": "Multimedia",
-  "subcategory": "Video"
-}

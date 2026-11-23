@@ -1,8 +1,0 @@
-{
-  "bang": "pocketexplore",
-  "domain": "https://www.getpocket.com",
-  "url": "https://www.getpocket.com/explore/%s",
-  "description": "Pocket Explore",
-  "category": "News",
-  "subcategory": "Aggregators"
-}

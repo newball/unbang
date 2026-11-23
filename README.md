@@ -8,7 +8,7 @@ Forked from Theo’s idea, [unduck](https://github.com/t3dotgg/unduck), Unbang i
 - unduck moved the logic _client_-side; Unbang builds on that by:
   - Using browser `localStorage` for caching redirect patterns.
   - Stripping out TypeScript in favor of a lightweight, vanilla JS core.
-  - Providing a single-file bundle you can drop into any static host.
+  - Building a static site with a search page and a browsable bang directory.
 
 ## How to Use Unbang
 
@@ -26,11 +26,13 @@ Add the following as a **Custom Search Engine** in your browser:
    git clone https://github.com/newball/unbang.git
    cd unbang
    ```
-2. Serve the folder (e.g. via `http-server`, `serve`, or any static host):
+2. Use Node.js 22.12+ in the 22.x line, Node.js 24.x, or Node.js 26+. Install the locked dependencies and build the site:
    ```bash
-   npx http-server .
+   npm ci
+   npm run build
    ```
-3. Add the following as a **Custom Search Engine** in your browser:
+3. Publish the contents of `dist/` at the root of a static HTTPS host. Use `npm run preview` to check the build locally.
+4. Add the following as a **Custom Search Engine** in your browser:
    - Name: Unbang
    - Search URL:  
      ```
@@ -51,10 +53,19 @@ Add the following as a **Custom Search Engine** in your browser:
 1. File an issue or send a PR.
 2. Run tests:
    ```bash
-   npm install
-   npm test
+   npm ci
+   npm test -- --run
    ```
 3. Follow the [Code of Conduct](./CODE_OF_CONDUCT.md).
+
+To verify the built pages, Workbox's dependency override, and custom searches with the app host offline, install Playwright's Chromium and WebKit browsers and run the production tests:
+
+```bash
+npx playwright install --only-shell chromium webkit
+npm run test:production
+```
+
+The GitHub Actions verification job runs these checks and uploads `dist/` and `production-test-results.xml` as the `production-verification` artifact.
 
 ## License
 
