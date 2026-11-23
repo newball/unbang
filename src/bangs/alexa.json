@@ -1,8 +1,0 @@
-{
-  "bang": "alexa",
-  "domain": "https://alexa.com",
-  "url": "http://alexa.com/search?q=%s",
-  "description": "Alexa",
-  "category": "Tech",
-  "subcategory": "Companies"
-}
