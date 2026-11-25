@@ -1,8 +1,0 @@
-{
-  "bang": "samde",
-  "domain": "https://smile.amazon.de",
-  "url": "https://smile.amazon.de/s/?url=search-alias%3Daps&field-keywords=%s",
-  "description": "Amazon Smile",
-  "category": "Shopping",
-  "subcategory": "Online (intl)"
-}

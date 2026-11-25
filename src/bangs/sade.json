@@ -1,8 +1,0 @@
-{
-  "bang": "sade",
-  "domain": "https://smile.amazon.de",
-  "url": "https://smile.amazon.de/s/?field-keywords=%s",
-  "description": "Amazon Smiles (Germany)",
-  "category": "Shopping",
-  "subcategory": "Online"
-}
