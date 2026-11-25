@@ -1,8 +1,0 @@
-{
-  "bang": "tinypic",
-  "domain": "https://tinypic.com",
-  "url": "http://tinypic.com/search.php?tag=%s",
-  "description": "TinyPic",
-  "category": "Multimedia",
-  "subcategory": "Images"
-}
