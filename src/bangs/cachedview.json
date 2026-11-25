@@ -1,8 +1,0 @@
-{
-  "bang": "cachedview",
-  "domain": "https://webcache.googleusercontent.com",
-  "url": "http://webcache.googleusercontent.com/search?q=cache:%s",
-  "description": "Google Cached Pages",
-  "category": "Online Services",
-  "subcategory": "Google"
-}
