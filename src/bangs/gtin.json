@@ -1,8 +1,0 @@
-{
-  "bang": "gtin",
-  "domain": "https://www.gepir.de",
-  "url": "https://www.gepir.de/?search=%s",
-  "description": "GEPIR Suche",
-  "category": "Online Services",
-  "subcategory": "Search"
-}
