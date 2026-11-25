@@ -1,8 +1,0 @@
-{
-  "bang": "asg",
-  "domain": "https://smile.amazon.de",
-  "url": "https://smile.amazon.de/s/?field-keywords=%s",
-  "description": "Amazon Smile (Germany)",
-  "category": "Shopping",
-  "subcategory": "Online"
-}
