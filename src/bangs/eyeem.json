@@ -1,8 +1,0 @@
-{
-  "bang": "eyeem",
-  "domain": "https://www.eyeem.com",
-  "url": "https://www.eyeem.com/search?q=%s&sort=relevance",
-  "description": "EyeEm",
-  "category": "Multimedia",
-  "subcategory": "Images"
-}
