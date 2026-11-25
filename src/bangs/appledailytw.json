@@ -1,8 +1,0 @@
-{
-  "bang": "appledailytw",
-  "domain": "https://tw.appledaily.com",
-  "url": "https://tw.appledaily.com/search/result?querystrS=%s",
-  "description": "Apple Daily (Taiwan)",
-  "category": "News",
-  "subcategory": "Newspaper (intl)"
-}
