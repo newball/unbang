@@ -1,8 +1,0 @@
-{
-  "bang": "gbm",
-  "domain": "https://www.google.com",
-  "url": "https://www.google.com/bookmarks/find?q=%s",
-  "description": "Google Bookmarks",
-  "category": "Online Services",
-  "subcategory": "Google"
-}
