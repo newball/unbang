@@ -1,0 +1,8 @@
+{
+  "bang": "nextapplenews",
+  "domain": "https://news.nextapple.com",
+  "url": "https://news.nextapple.com/search/%s",
+  "description": "Next Apple News (Taiwan)",
+  "category": "News",
+  "subcategory": "Newspaper"
+}
