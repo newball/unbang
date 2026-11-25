@@ -1,8 +1,0 @@
-{
-  "bang": "yjisho",
-  "domain": "https://dic.search.yahoo.co.jp",
-  "url": "http://dic.search.yahoo.co.jp/search?ei=UTF-8&p=%s&fr=dic&stype=prefix",
-  "description": "Yahoo Jisho",
-  "category": "Online Services",
-  "subcategory": "Search"
-}
