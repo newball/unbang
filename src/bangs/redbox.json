@@ -1,8 +1,0 @@
-{
-  "bang": "redbox",
-  "domain": "https://www.redbox.com",
-  "url": "http://www.redbox.com/search/?q=%s",
-  "description": "RedBox",
-  "category": "Entertainment",
-  "subcategory": "Movies"
-}
